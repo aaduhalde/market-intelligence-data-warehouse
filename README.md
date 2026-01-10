@@ -1,114 +1,139 @@
-# API to Analytics ETL — Portfolio Showcase
+# API to Analytics ETL Showcase
 
-## Overview
-Technical showcase of an **automated ETL pipeline** ingesting data from external APIs, applying transformations, and exposing analytics-ready datasets for BI dashboards.  
-The focus is on **architecture, data flow, orchestration, and design decisions**, not on production code or business logic.
-
-This repository is intended strictly as a **professional portfolio asset**.
+Technical showcase of an end-to-end **ETL pipeline** that ingests data from an external API, applies transformations, and exposes analytics-ready datasets for BI and reporting.  
+This project is designed as a **Data Engineering portfolio** piece, focused on architecture clarity, clean data processing, and reproducible pipelines.
 
 ---
 
-## Problem Context
-Organizations frequently need to consume data from multiple external APIs and transform it into reliable, analytics-ready datasets.  
-This project illustrates how to design an ETL pipeline that is:
+## 🎯 Project Objective
 
-- Scalable
-- Fault-tolerant
-- Observable
-- Suitable for downstream BI consumption
+Simulate a real-world scenario where business data is:
+1. Extracted from an external API  
+2. Transformed and validated  
+3. Loaded into an analytical storage layer  
+4. Prepared for BI tools such as Power BI, Looker, or any SQL-based engine  
 
----
-
-## High-Level Architecture
-The pipeline is represented conceptually through diagrams and flow descriptions:
-
-1. **API Ingestion Layer**
-   - External REST APIs
-   - Pagination and rate-limit awareness
-   - Incremental extraction concepts
-
-2. **Transformation Layer**
-   - Data normalization and enrichment
-   - Schema alignment
-   - Quality checks (nulls, ranges, duplicates)
-
-3. **Analytics Layer**
-   - Curated datasets
-   - Star-schema–ready structures
-   - Consumption by BI tools
+This repository demonstrates how to move from **raw API data → structured analytics data**.
 
 ---
 
-## Orchestration and Control Flow
-Key orchestration concepts demonstrated:
+## 🧱 Architecture Overview
+[ External API ]
+↓
+[ Ingestion Layer ]
+↓
+[ Data Processing & Validation ]
+↓
+[ Analytical Storage (SQL) ]
+↓
+[ BI / Dashboards ]
 
-- Scheduled and event-driven executions
-- Retry strategies and failure handling
-- Idempotent processing
-- Logging and execution traceability
 
-The orchestration is shown conceptually and is **platform-agnostic**.
-
----
-
-## BI and Analytics Consumption
-The pipeline is designed to serve:
-
-- BI dashboards (Power BI / Looker / similar)
-- KPI reporting
-- Trend and performance analysis
-
-Screenshots illustrate dashboard outcomes using **synthetic data only**.
+Key principles:
+- Modular design  
+- Clear separation of responsibilities  
+- Reproducibility  
+- Analytics-first modeling  
 
 ---
 
-## Design Decisions and Trade-offs
-This repository highlights:
-
-- Batch vs near–real-time ingestion
-- API pull strategies
-- Transformation placement (ingestion vs analytics layer)
-- Data freshness vs cost and complexity
-
-Each decision is explained at a conceptual level.
-
----
-
-## What This Repository Intentionally Does NOT Include
-To preserve professional and commercial value, this repository **does not contain**:
-
-- Executable ETL code
-- End-to-end pipelines
-- Infrastructure definitions
-- API credentials or secrets
-- Business-specific transformation logic
-- Real production data
-
-This is by design.
+## 📁 Project Structure
+api-to-analytics-etl-showcase/
+│
+├── README.md
+├── architecture/
+│ └── pipeline_diagram.png
+├── ingestion/
+│ └── api_client.py
+├── processing/
+│ └── transform.py
+├── storage/
+│ └── load_to_db.py
+└── requirements.txt
 
 ---
 
-## Purpose
-This repository is designed to:
+## 🔄 ETL Flow Description
 
-- Demonstrate **ETL architecture expertise**
-- Communicate data engineering decision-making
-- Support technical interviews and consulting discussions
-- Serve as a reference for analytics-oriented pipeline design
+### 1. Extraction (Ingestion)
+- Connects to a public REST API
+- Fetches structured JSON data
+- Normalizes it into a tabular format
 
-It is **not** intended to be cloned or deployed.
-
----
-
-## Target Audience
-- Data engineers
-- Analytics engineers
-- BI professionals
-- Technical interviewers
-- Clients evaluating data platform capabilities
+Location:
+ingestion/api_client.py
 
 ---
 
-## Author
-Alejandro Adrián Duhalde  
-Business Analytics & Data Engineering Consultant
+### 2. Transformation
+- Cleans nulls and invalid values  
+- Renames and standardizes fields  
+- Applies business logic transformations  
+- Prepares analytics-ready tables  
+
+Location:
+processing/transform.py
+
+
+---
+
+### 3. Load
+- Persists transformed data into a SQL database (SQLite for demo purposes)
+- Ensures data is ready for BI consumption  
+
+Location:
+storage/load_to_db.py
+
+---
+
+## 🛠 Tech Stack
+
+- **Python 3.10+**
+- **Pandas / NumPy**
+- **SQLite (demo analytical DB)**
+- REST API consumption (Requests)
+- Modular ETL design
+
+This structure mirrors production systems that later scale to:
+- PostgreSQL / Azure SQL / BigQuery
+- Azure Data Factory
+- AWS Lambda + S3
+- Cloud orchestration
+
+---
+
+## 📊 BI & Analytics Usage
+
+The final dataset is suitable for:
+- Power BI  
+- Looker  
+- Tableau  
+- SQL-based reporting  
+
+Example KPIs that can be derived:
+- Volume of records over time  
+- Category distribution  
+- Aggregations and trends  
+- Data quality indicators  
+
+---
+
+## 👨‍💻 What This Project Demonstrates
+
+This repository validates skills for:
+
+| Role | Competency |
+|------|-----------|
+| Data Engineer | ETL pipelines, data modeling, ingestion, transformation |
+| Integration Engineer | API integration, data normalization |
+| Automation Engineer | Pipeline orchestration logic |
+| BI Engineer | Analytics-ready data preparation |
+
+---
+
+## 🚀 How to Run (Local)
+
+1. Install dependencies:
+```bash
+pip install -r requirements.txt
+
