@@ -18,6 +18,7 @@ This repository demonstrates how to move from **raw API data → structured anal
 ---
 
 ## Architecture Overview
+```text
 [ External API ]
 ↓
 [ Ingestion Layer ]
@@ -27,7 +28,7 @@ This repository demonstrates how to move from **raw API data → structured anal
 [ Analytical Storage (SQL) ]
 ↓
 [ BI / Dashboards ]
-
+```
 
 Key principles:
 - Modular design  
