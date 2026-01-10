@@ -52,6 +52,7 @@ api-to-analytics-etl-showcase/
 ├── storage/
 │ └── load_to_db.py
 └── requirements.txt
+```
 
 ---
 
