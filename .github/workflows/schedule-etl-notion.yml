@@ -1,0 +1,31 @@
+name: Weekly Analytics Pipeline
+
+on:
+  schedule:
+    - cron: "0 3 * * 1"
+  workflow_dispatch:
+
+jobs:
+  etl:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: "3.10"
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Run pipeline
+        run: python main.py
+
+      - name: Commit updates
+        run: |
+          git config --global user.name "analytics-bot"
+          git config --global user.email "analytics-bot@users.noreply.github.com"
+          git add data/ reports/
+          git commit -m "Weekly analytics update"
+          git push

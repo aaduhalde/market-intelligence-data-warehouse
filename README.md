@@ -1,40 +1,90 @@
-# API to Analytics ETL Showcase
+# API to Analytics – Weekly Market & Economic Reports Pipeline
 
-Technical showcase of an end-to-end **ETL pipeline** that ingests data from an external API, applies transformations, and exposes analytics-ready datasets for BI and reporting.  
-This project is designed as a **Data Engineering portfolio** piece, focused on architecture clarity, clean data processing, and reproducible pipelines.
+End-to-end analytics pipeline that consumes free public APIs and generates
+weekly CSV datasets ready for BI and reporting.
+
+This project simulates how a data team would automate the generation of
+market intelligence and economic indicators for decision making.
+
+It is designed as a **Data Analyst + Analytics Engineer portfolio project**.
 
 ---
 
-## Project Objective
+## Business Use Case
 
-Simulate a real-world scenario where business data is:
-1. Extracted from an external API  
-2. Transformed and validated  
-3. Loaded into an analytical storage layer  
-4. Prepared for BI tools such as Power BI, Looker, or any SQL-based engine  
+Every week, the company needs updated datasets for:
 
-This repository demonstrates how to move from **raw API data → structured analytics data**.
+### Job Market Analytics
+- Most demanded skills
+- Countries with the highest number of remote job offers
+- Weekly evolution of job vacancies
+- Average salaries by role / country
+
+### Economic Indicators
+- Historical exchange rates
+- Inflation by country
+- Weekly volatility of currencies
+- Correlation between USD and Bitcoin
+
+All data is collected from **free public APIs**, processed, validated and
+exported as structured CSV files for BI tools.
 
 ---
 
 ## Architecture Overview
 ```text
-[ External API ]
-↓
+# API to Analytics – Weekly Market & Economic Reports Pipeline
+
+End-to-end analytics pipeline that consumes free public APIs and generates
+weekly CSV datasets ready for BI and reporting.
+
+This project simulates how a data team would automate the generation of
+market intelligence and economic indicators for decision making.
+
+It is designed as a **Data Analyst + Analytics Engineer portfolio project**.
+
+---
+
+## Business Use Case
+
+Every week, the company needs updated datasets for:
+
+### Job Market Analytics
+- Most demanded skills
+- Countries with the highest number of remote job offers
+- Weekly evolution of job vacancies
+- Average salaries by role / country
+
+### Economic Indicators
+- Historical exchange rates
+- Inflation by country
+- Weekly volatility of currencies
+- Correlation between USD and Bitcoin
+
+All data is collected from **free public APIs**, processed, validated and
+exported as structured CSV files for BI tools.
+
+---
+
+## Architecture Overview
+
+```text
+[ Free Public APIs ]
+       ↓
 [ Ingestion Layer ]
-↓
-[ Data Processing & Validation ]
-↓
-[ Analytical Storage (SQL) ]
-↓
-[ BI / Dashboards ]
+       ↓
+[ Processing & Analytics Logic ]
+       ↓
+[ Weekly CSV Outputs ]
+       ↓
+[ Power BI / Looker / SQL ]
 ```
 
 Key principles:
-- Modular design  
-- Clear separation of responsibilities  
-- Reproducibility  
-- Analytics-first modeling  
+- Analytics-first design 
+- Reproducibility 
+- Modular pipelines  
+- Real-world reporting use case  
 
 ---
 
@@ -44,81 +94,74 @@ Key principles:
 api-to-analytics-etl-showcase/
 │
 ├── README.md
-├── architecture/
-│ └── pipeline_diagram.png
+├── config/
+│   └── settings.yaml            # APIs, endpoints, paths, fechas, etc.
+│
 ├── ingestion/
-│ └── api_client.py
+│   ├── jobs_api.py               # Skills, remote jobs, salaries
+│   ├── forex_api.py              # Exchange rates
+│   ├── inflation_api.py          # Inflation by country
+│   └── crypto_api.py             # BTC prices
+│
 ├── processing/
-│ └── transform.py
-├── storage/
-│ └── load_to_db.py
-└── requirements.txt
+│   ├── jobs_processing.py
+│   ├── economy_processing.py
+│   └── correlations.py           # USD vs BTC correlation, volatility
+│
+├── outputs/
+│   ├── weekly_reports/
+│   │   ├── jobs/
+│   │   │   ├── skills_demanded_YYYY_MM_DD.csv
+│   │   │   ├── remote_jobs_by_country_YYYY_MM_DD.csv
+│   │   │   ├── weekly_job_growth_YYYY_MM_DD.csv
+│   │   │   └── average_salaries_YYYY_MM_DD.csv
+│   │   │
+│   │   └── economy/
+│   │       ├── exchange_rate_history_YYYY_MM_DD.csv
+│   │       ├── inflation_by_country_YYYY_MM_DD.csv
+│   │       ├── weekly_volatility_YYYY_MM_DD.csv
+│   │       └── usd_btc_correlation_YYYY_MM_DD.csv
+│
+├── orchestrator/
+│   └── run_weekly_pipeline.py    # Ejecuta todo
+│
+├── notebooks/
+│   └── analysis_examples.ipynb   # Exploración / demo para entrevistas
+│
+├── requirements.txt
+└── .gitignore
+
 ```
+---
+
+## Generated Reports (CSV)
+### Job Market
+| File                                  | Description                      |
+| ------------------------------------- | -------------------------------- |
+| skills_demanded_YYYY_MM_DD.csv        | Top skills by frequency          |
+| remote_jobs_by_country_YYYY_MM_DD.csv | Remote job offers per country    |
+| weekly_job_growth_YYYY_MM_DD.csv      | Week-over-week vacancy evolution |
+| average_salaries_YYYY_MM_DD.csv       | Salary averages by role/country  |
 
 ---
 
-## ETL Flow Description
-
-### 1. Extraction (Ingestion)
-- Connects to a public REST API
-- Fetches structured JSON data
-- Normalizes it into a tabular format
-
-Location:
-ingestion/api_client.py
-
----
-
-### 2. Transformation
-- Cleans nulls and invalid values  
-- Renames and standardizes fields  
-- Applies business logic transformations  
-- Prepares analytics-ready tables  
-
-Location:
-processing/transform.py
-
-
----
-
-### 3. Load
-- Persists transformed data into a SQL database (SQLite for demo purposes)
-- Ensures data is ready for BI consumption  
-
-Location:
-storage/load_to_db.py
+### Economy
+| File                                 | Description            |
+| ------------------------------------ | ---------------------- |
+| exchange_rate_history_YYYY_MM_DD.csv | FX historical rates    |
+| inflation_by_country_YYYY_MM_DD.csv  | Inflation metrics      |
+| weekly_volatility_YYYY_MM_DD.csv     | FX volatility          |
+| usd_btc_correlation_YYYY_MM_DD.csv   | USD vs BTC correlation |
 
 ---
 
 ## Tech Stack
 
-- **Python 3.10+**
-- **Pandas / NumPy**
-- **SQLite (demo analytical DB)**
-- REST API consumption (Requests)
-- Modular ETL design
-
-This structure mirrors production systems that later scale to:
-- PostgreSQL / Azure SQL / BigQuery
-- Azure Data Factory
-- AWS Lambda + S3
-- Cloud orchestration
-
----
-
-## BI & Analytics Usage
-
-The final dataset is suitable for:
-- Power BI  
-- Looker  
-- Tableau  
-- SQL-based reporting  
-
-Example KPIs that can be derived:
-- Volume of records over time  
-- Category distribution  
-- Aggregations and trends  
-- Data quality indicators  
+- Python 3.10+
+- Pandas / NumPy
+- Requests
+- Public APIs (no paid services)
+- CSV as analytics delivery format
 
 ---
 
@@ -126,18 +169,18 @@ Example KPIs that can be derived:
 
 This repository validates skills for:
 
-| Role | Competency |
-|------|-----------|
-| Data Engineer | ETL pipelines, data modeling, ingestion, transformation |
-| Integration Engineer | API integration, data normalization |
-| Automation Engineer | Pipeline orchestration logic |
-| BI Engineer | Analytics-ready data preparation |
+| Skill                 | Evidence                                |
+| --------------------- | --------------------------------------- |
+| Data Engineering      | API ingestion, pipelines, orchestration |
+| Analytics Engineering | Metric design, datasets, aggregations   |
+| Data Analysis         | Trends, correlations, market indicators |
+| BI Readiness          | Clean, documented CSV outputs           |
+| Automation            | Fully repeatable weekly execution       |
 
 ---
 
-## How to Run (Local)
+## How to Run
 
-1. Install dependencies:
-```bash
 pip install -r requirements.txt
+python orchestrator/run_weekly_pipeline.py
 
