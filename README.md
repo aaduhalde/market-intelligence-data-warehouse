@@ -181,6 +181,6 @@ This repository validates skills for:
 
 ## How to Run
 
-pip install -r requirements.txt
-python orchestrator/run_weekly_pipeline.py
+* pip install -r requirements.txt
+* python orchestrator/run_weekly_pipeline.py
 
