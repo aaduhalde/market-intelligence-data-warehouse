@@ -32,7 +32,7 @@ exported as structured CSV files for BI tools.
 ---
 
 ## Architecture Overview
-```text
+
 # API to Analytics – Weekly Market & Economic Reports Pipeline
 
 End-to-end analytics pipeline that consumes free public APIs and generates
