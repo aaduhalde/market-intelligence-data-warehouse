@@ -126,7 +126,7 @@ api-to-analytics-etl-showcase/
 │   └── run_weekly_pipeline.py    # Ejecuta todo
 │
 ├── notebooks/
-│   └── analysis_examples.ipynb   # Exploración / demo para entrevistas
+│   └── analysis_examples.ipynb   # Exploración 
 │
 ├── requirements.txt
 └── .gitignore
