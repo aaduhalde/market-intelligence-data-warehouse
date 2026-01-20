@@ -12,54 +12,19 @@ It is designed as a **Data Analyst + Analytics Engineer portfolio project**.
 
 ## Business Use Case
 
-Every week, the company needs updated datasets for:
+Every day, the company needs updated datasets for:
 
 ### Job Market Analytics
-- Most demanded skills
-- Countries with the highest number of remote job offers
-- Weekly evolution of job vacancies
-- Average salaries by role / country
+- Most demanded skills  
+- Countries with the highest number of remote job offers  
+- daily evolution of job vacancies  
+- Average salaries by role / country  
 
 ### Economic Indicators
-- Historical exchange rates
-- Inflation by country
-- Weekly volatility of currencies
-- Correlation between USD and Bitcoin
-
-All data is collected from **free public APIs**, processed, validated and
-exported as structured CSV files for BI tools.
-
----
-
-## Architecture Overview
-
-# API to Analytics – Weekly Market & Economic Reports Pipeline
-
-End-to-end analytics pipeline that consumes free public APIs and generates
-weekly CSV datasets ready for BI and reporting.
-
-This project simulates how a data team would automate the generation of
-market intelligence and economic indicators for decision making.
-
-It is designed as a **Data Analyst + Analytics Engineer portfolio project**.
-
----
-
-## Business Use Case
-
-Every week, the company needs updated datasets for:
-
-### Job Market Analytics
-- Most demanded skills
-- Countries with the highest number of remote job offers
-- Weekly evolution of job vacancies
-- Average salaries by role / country
-
-### Economic Indicators
-- Historical exchange rates
-- Inflation by country
-- Weekly volatility of currencies
-- Correlation between USD and Bitcoin
+- Historical exchange rates  
+- Inflation by country  
+- daily volatility of currencies  
+- Correlation between USD and Bitcoin  
 
 All data is collected from **free public APIs**, processed, validated and
 exported as structured CSV files for BI tools.
@@ -75,9 +40,10 @@ exported as structured CSV files for BI tools.
        ↓
 [ Processing & Analytics Logic ]
        ↓
-[ Weekly CSV Outputs ]
+[ Daily CSV Outputs ]
        ↓
 [ Power BI / Looker / SQL ]
+
 ```
 
 Key principles:
@@ -94,8 +60,6 @@ Key principles:
 api-to-analytics-etl-showcase/
 │
 ├── README.md
-├── config/
-│   └── settings.yaml            # APIs, endpoints, paths, fechas, etc.
 │
 ├── ingestion/
 │   ├── jobs_api.py               # Skills, remote jobs, salaries
@@ -109,21 +73,19 @@ api-to-analytics-etl-showcase/
 │   └── correlations.py           # USD vs BTC correlation, volatility
 │
 ├── outputs/
-│   ├── weekly_reports/
+│   ├── reports/
 │   │   ├── jobs/
-│   │   │   ├── skills_demanded_YYYY_MM_DD.csv
-│   │   │   ├── remote_jobs_by_country_YYYY_MM_DD.csv
-│   │   │   ├── weekly_job_growth_YYYY_MM_DD.csv
-│   │   │   └── average_salaries_YYYY_MM_DD.csv
+│   │   │   ├── skills_demanded_daily.csv
+│   │   │   ├── remote_jobs_by_country_daily.csv
+│   │   │   ├── job_growth_daily.csv
+│   │   │   └── average_salaries_daily.csv
 │   │   │
 │   │   └── economy/
-│   │       ├── exchange_rate_history_YYYY_MM_DD.csv
-│   │       ├── inflation_by_country_YYYY_MM_DD.csv
-│   │       ├── weekly_volatility_YYYY_MM_DD.csv
-│   │       └── usd_btc_correlation_YYYY_MM_DD.csv
+│   │       ├── exchange_rate_history_daily.csv
+│   │       ├── inflation_by_country_daily.csv
+│   │       ├── volatility_daily.csv
+│   │       └── usd_btc_correlation_daily.csv
 │
-├── orchestrator/
-│   └── run_weekly_pipeline.py    # Ejecuta todo
 │
 ├── notebooks/
 │   └── analysis_examples.ipynb   # Exploración 
@@ -138,20 +100,20 @@ api-to-analytics-etl-showcase/
 ### Job Market
 | File                                  | Description                      |
 | ------------------------------------- | -------------------------------- |
-| skills_demanded_YYYY_MM_DD.csv        | Top skills by frequency          |
-| remote_jobs_by_country_YYYY_MM_DD.csv | Remote job offers per country    |
-| weekly_job_growth_YYYY_MM_DD.csv      | Week-over-week vacancy evolution |
-| average_salaries_YYYY_MM_DD.csv       | Salary averages by role/country  |
+| skills_demanded_daily.csv             | Top skills by frequency          |
+| remote_jobs_by_country_daily.csv      | Remote job offers per country    |
+| job_growth_daily.csv                  | Week-over-week vacancy evolution |
+| average_salaries_daily.csv            | Salary averages by role/country  |
 
 ---
 
 ### Economy
 | File                                 | Description            |
 | ------------------------------------ | ---------------------- |
-| exchange_rate_history_YYYY_MM_DD.csv | FX historical rates    |
-| inflation_by_country_YYYY_MM_DD.csv  | Inflation metrics      |
-| weekly_volatility_YYYY_MM_DD.csv     | FX volatility          |
-| usd_btc_correlation_YYYY_MM_DD.csv   | USD vs BTC correlation |
+| exchange_rate_history_daily.csv      | FX historical rates    |
+| inflation_by_country_daily.csv       | Inflation metrics      |
+| volatility_daily.csv                 | FX volatility          |
+| usd_btc_correlation_daily.csv        | USD vs BTC correlation |
 
 ---
 
