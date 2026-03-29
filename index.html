@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Alejandro Adrián Duhalde | Under Construction</title>
+    <style>
+        :root {
+            --primary: #2563eb;
+            --bg: #0f172a;
+            --text: #f8fafc;
+        }
+        body {
+            margin: 0;
+            padding: 0;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+            background-color: var(--bg);
+            color: var(--text);
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            text-align: center;
+        }
+        .container {
+            padding: 2rem;
+            max-width: 600px;
+        }
+        h1 {
+            font-size: 2.5rem;
+            margin-bottom: 0.5rem;
+            background: linear-gradient(90deg, #60a5fa, #2563eb);
+            -webkit-background-clip: text;
+            -webkit-text-fill-color: transparent;
+        }
+        p {
+            font-size: 1.1rem;
+            color: #94a3b8;
+            line-height: 1.6;
+        }
+        .status-badge {
+            display: inline-block;
+            padding: 0.5rem 1rem;
+            background: rgba(37, 99, 235, 0.1);
+            border: 1px solid var(--primary);
+            border-radius: 20px;
+            color: #60a5fa;
+            font-size: 0.9rem;
+            margin-bottom: 1.5rem;
+        }
+        .links {
+            margin-top: 2rem;
+        }
+        .links a {
+            color: var(--text);
+            text-decoration: none;
+            margin: 0 10px;
+            font-weight: 600;
+            border-bottom: 2px solid var(--primary);
+            transition: all 0.3s;
+        }
+        .links a:hover {
+            color: #60a5fa;
+            border-color: #60a5fa;
+        }
+        .loader {
+            margin: 20px auto;
+            width: 40px;
+            height: 40px;
+            border: 3px solid rgba(255,255,255,0.1);
+            border-radius: 50%;
+            border-top-color: var(--primary);
+            animation: spin 1s ease-in-out infinite;
+        }
+        @keyframes spin { to { transform: rotate(360deg); } }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <div class="status-badge">System Update in Progress</div>
+        <h1>Alejandro Adrián Duhalde</h1>
+        <p>Data Analyst | SQL • Dashboards • Business Insights</p>
+        <div class="loader"></div>
+        <p>Building a new data-driven experience. <br> My portfolio is currently under migration to GitHub Pages.</p>
+        
+        <div class="links">
+            <a href="https://www.linkedin.com/in/aaduhalde" target="_blank">LinkedIn</a>
+            <a href="https://github.com/aaduhalde" target="_blank">GitHub</a>
+            <a href="mailto:aaduhalde@outlook.es">Contact</a>
+        </div>
+    </div>
+</body>
+</html>
