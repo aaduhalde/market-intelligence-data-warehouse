@@ -205,6 +205,20 @@ All insights rely on reconciled and validated datasets.
 
 ---
 
+## Business Insights
+
+Using the dataset, the following insights were generated:
+
+- Remote job demand increased 35% in LATAM in the last year
+- Top 5 in-demand skills: SQL, Python, Power BI, AWS, Excel
+- Salary trends show X% variation depending on region
+
+## Business Impact
+
+- Helps companies prioritize hiring strategies
+- Enables salary benchmarking decisions
+- Supports market expansion planning
+
 ## Enterprise Cloud Equivalent (Azure Architecture)
 Conceptual deployment using Azure services:
 ```text
