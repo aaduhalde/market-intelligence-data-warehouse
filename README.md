@@ -3,8 +3,9 @@
 
 ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure_CLI-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+![AWS Lambda](https://img.shields.io/badge/AWS_Lambda-FF9900?style=for-the-badge&logo=aws-lambda&logoColor=white)
+![Azure SQL](https://img.shields.io/badge/Azure_SQL-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 
 ---
 
@@ -44,30 +45,12 @@ This project solves that by building a **complete analytics pipeline**.
 
 An end-to-end data platform that:
 
-1. Ingests market & economic data from APIs  
+1. Ingests market and economic data via APIs and web scraping
 2. Validates and cleans the data  
 3. Transforms it into a dimensional model  
 4. Delivers analytics-ready datasets  
 5. Enables BI dashboards and insights  
 
----
-
-## Architecture
-
-```text
-APIs / External Data
-   ↓
-Python ETL (Validation + Transformation)
-   ↓
-SQL Server
-   ├── Staging (Raw / 3NF)
-   ├── Data Profiling
-   ├── Data Quality Checks
-   ├── Data Warehouse (Star Schema)
-   └── Analytical Views
-   ↓
-BI Layer (Power BI / Looker)
-```
 ---
 
 ## Key Features
@@ -94,52 +77,51 @@ BI Layer (Power BI / Looker)
 
 ---
 
-## Business Insights (Example)
-- Remote job demand trends by country
-- Most in-demand skills (SQL, Python, BI)
-- Market salary benchmarking
-- Currency and macroeconomic signals
+## Business Insights & Operational KPIs
 
----
-
-## FinOps & Cost Optimization
-
-**This project also simulates cost-aware data engineering practices:**
-
-- Serverless-first design mindset
-- Efficient data processing strategies
-- Minimal infrastructure footprint
-- Cloud-ready architecture (Azure/AWS)
-
-Inspired by real-world scenarios where reducing cloud cost is critical.
+### Market Intelligence
+- Remote job demand trends by country and industry
+- Most in-demand technical skills (SQL, Python, BI, Automation)
+- Salary benchmarking across regions and roles
+- Emerging market and hiring trend analysis
+- Skill gap detection between candidate profiles and job requirements
 
 ---
 
 ## Cloud Architecture (Conceptual)
 ```text
-Azure Data Factory
-   ↓
-Blob Storage (Raw Layer)
-   ↓
-Synapse / SQL Warehouse
-   ↓
-Power BI
+Data Sources
+    ↓
+GitHub Actions (Orchestration)
+    ↓
+Data Lake - Raw Layer (Google Drive)
+    ↓
+Python Transformation Layer
+    ↓
+AWS Lambda & Azure SQL
+    ↓
+Power BI / Looker
 ```
 
 ---
 
 ## Repository Structure
 ```text
-├── architecture/
-├── modeling/
-├── data_quality/
-├── profiling/
-├── sql/
-├── etl/
-├── api/
-├── azure/
-├── bi/
-└── executive/
+market-intelligence-data-warehouse/
+├── .github/workflows/
+│   ├── scraper_pipeline.yml       # Orquestador (GitHub Actions)
+│   └── data_validation.yml        # Tests de calidad de datos (Great Expectations/Pytest)
+├── src/
+│   ├── scrapers/                  # Lógica de extracción
+│   │   ├── google_jobs_serp.py    # Integración con SerpApi
+│   │   └── web_scraper_pw.py      # Playwright para sitios específicos
+│   ├── drivers/                   # Conectores de almacenamiento
+│   │   └── gdrive_client.py       # Lógica para subir archivos a Google Drive
+│   └── utils/
+│       └── logger.py
+├── tests/                         # Pruebas unitarias para scrapers
+├── requirements.txt
+└── README.md                      # Documentación del Pipeline de Ingestión
 ```
 
 ---
@@ -150,5 +132,5 @@ Power BI
 - Python (Pandas, NumPy)
 - T-SQL
 - Docker
-- Azure (conceptual architecture)
+- AWS & Azure (conceptual architecture)
 - Power BI (consumption layer)
