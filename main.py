@@ -23,8 +23,8 @@ def pipeline():
         sys.exit(1)
 
     # Paso 1: Ingesta desde SerpApi hacia /data/1_raw
-    #print("\n[PASO 1] Ejecutando ingesta de datos...")
-    #ejecutar_ingesta()
+    print("\n[PASO 1] Ejecutando ingesta de datos...")
+    ejecutar_ingesta()
 
     # Paso 2: Transformación e integración incremental
     print("\n[PASO 2] Procesando vacantes de forma incremental...")
