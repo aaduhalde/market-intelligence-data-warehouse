@@ -1,0 +1,462 @@
+{
+  "search_metadata": {
+    "id": "6ac00413d5fd74a5ce6a1feb",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/7Zbw5eJL017hlzzKB8jwOUl2GPeNfGIoOgtLGaS0Wak/6ac00413d5fd74a5ce6a1feb.json",
+    "markdown_endpoint": "https://serpapi.com/searches/7Zbw5eJL017hlzzKB8jwOUl2GPeNfGIoOgtLGaS0Wak/6ac00413d5fd74a5ce6a1feb.md",
+    "created_at": "2026-10-02 19:20:51 UTC",
+    "processed_at": "2026-10-02 19:20:51 UTC",
+    "google_jobs_url": "https://www.google.com/search?q=Data+Analyst&uule=w+CAIQICIIQ29sb21iaWE&hl=es&gl=co&chips=date_posted:3days&udm=8",
+    "raw_html_file": "https://serpapi.com/searches/7Zbw5eJL017hlzzKB8jwOUl2GPeNfGIoOgtLGaS0Wak/6ac00413d5fd74a5ce6a1feb.html",
+    "total_time_taken": 7.51
+  },
+  "search_parameters": {
+    "q": "Data Analyst",
+    "engine": "google_jobs",
+    "location_requested": "Colombia",
+    "location_used": "Colombia",
+    "google_domain": "google.com",
+    "hl": "es",
+    "gl": "co",
+    "chips": "date_posted:3days"
+  },
+  "filters": [
+    {
+      "name": "Tipo de trabajo",
+      "options": [
+        {
+          "name": "Tiempo completo",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4rj-wr9e0nFxf2HrH1Zx9c14B5O5qsmJ5X406s2JvBZpzycnbcsh8Epx4cEMVBZtn_buylKZp5gFv8E8L-Akf70heuqDGwUbNPPjvoIOTSpBaMnG_xoVmIKWt8C7z38D3xwdfQI32oC-PxwTzBFIvGf7IWjy21Z-mSh4nqVP8YREAxMbw_thyaJ-TaSqgt3CuM4ZwgfxHavUuL7ibnmsBYSl255y_Rzv-1YvDiMN3gTjhlBacAO6AjAmM-h8C-o6coA7t7onzykbTyb2FOcLiIyGsJncHDHxVO2CPvlCCrlStcdc0a-nJtmeMTIEtP5v92aOS4uOG1P1CxreYpYifFmOIOGpsHd6OcscuNunjJTalzp4pN",
+            "q": "Data Analyst tiempo completo"
+          },
+          "link": "https://www.google.com/search?sca_esv=4d65981f01013b52&gl=co&hl=es&sxsrf=APpeQnvISNWjJ1OwdyT8rEXO1Np3y9DYGw:1790968856378&q=Data+Analyst+tiempo+completo&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rj-wr9e0nFxf2HrH1Zx9c14B5O5qsmJ5X406s2JvBZpzycnbcsh8Epx4cEMVBZtn_buylKZp5gFv8E8L-Akf70heuqDGwUbNPPjvoIOTSpBaMnG_xoVmIKWt8C7z38D3xwdfQI32oC-PxwTzBFIvGf7IWjy21Z-mSh4nqVP8YREAxMbw_thyaJ-TaSqgt3CuM4ZwgfxHavUuL7ibnmsBYSl255y_Rzv-1YvDiMN3gTjhlBacAO6AjAmM-h8C-o6coA7t7onzykbTyb2FOcLiIyGsJncHDHxVO2CPvlCCrlStcdc0a-nJtmeMTIEtP5v92aOS4uOG1P1CxreYpYifFmOIOGpsHd6OcscuNunjJTalzp4pN&chips=date_posted:3days&udm=8&sa=X&ved=2ahUKEwjixvPzhpyXAxWtkeEIHbr7G_YQkbEKegQIGxAC",
+          "serpapi_link": "https://serpapi.com/search.json?chips=date_posted%3A3days&engine=google_jobs&gl=co&google_domain=google.com&hl=es&location=Colombia&q=Data+Analyst+tiempo+completo&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rj-wr9e0nFxf2HrH1Zx9c14B5O5qsmJ5X406s2JvBZpzycnbcsh8Epx4cEMVBZtn_buylKZp5gFv8E8L-Akf70heuqDGwUbNPPjvoIOTSpBaMnG_xoVmIKWt8C7z38D3xwdfQI32oC-PxwTzBFIvGf7IWjy21Z-mSh4nqVP8YREAxMbw_thyaJ-TaSqgt3CuM4ZwgfxHavUuL7ibnmsBYSl255y_Rzv-1YvDiMN3gTjhlBacAO6AjAmM-h8C-o6coA7t7onzykbTyb2FOcLiIyGsJncHDHxVO2CPvlCCrlStcdc0a-nJtmeMTIEtP5v92aOS4uOG1P1CxreYpYifFmOIOGpsHd6OcscuNunjJTalzp4pN"
+        },
+        {
+          "name": "Tiempo parcial",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4rZiksa3HhVKCT6wb_m0_DlNZx_ca-LFYP__9O6dDiFzSRBhYNkcpoepZF7xBiCIavioCeTboF2zAdsIesAP410U6hymwXeHXg_BXHp2hBXLgaAhC_FKTJWfE2jeIXfnEISu7pI2UpiJ6FVJva1FjZrMs3bPcnunZLQvaLZFwtXdidebFLoxTVihNOCfXajKQqneyOu208aDO1Ygb-NPNIM_E_TBMbJa3yPmn5L30Q8eaHJvbyjhuoK03WWe5st-5NzSCfA4w1Ds8s9nKGBqz2znfuk2vMQZ4kOHUf29q66_SigipUwCE9dOjvyQ7XB1yTnVlSnO2tzTmYlydlaPtpwTE_Cw3qbgwywMzzUaBfzqX_iuaAEk-wde92_5aYDlW_ZHHtNw",
+            "q": "Data Analyst tiempo parcial"
+          },
+          "link": "https://www.google.com/search?sca_esv=4d65981f01013b52&gl=co&hl=es&sxsrf=APpeQnvISNWjJ1OwdyT8rEXO1Np3y9DYGw:1790968856378&q=Data+Analyst+tiempo+parcial&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rZiksa3HhVKCT6wb_m0_DlNZx_ca-LFYP__9O6dDiFzSRBhYNkcpoepZF7xBiCIavioCeTboF2zAdsIesAP410U6hymwXeHXg_BXHp2hBXLgaAhC_FKTJWfE2jeIXfnEISu7pI2UpiJ6FVJva1FjZrMs3bPcnunZLQvaLZFwtXdidebFLoxTVihNOCfXajKQqneyOu208aDO1Ygb-NPNIM_E_TBMbJa3yPmn5L30Q8eaHJvbyjhuoK03WWe5st-5NzSCfA4w1Ds8s9nKGBqz2znfuk2vMQZ4kOHUf29q66_SigipUwCE9dOjvyQ7XB1yTnVlSnO2tzTmYlydlaPtpwTE_Cw3qbgwywMzzUaBfzqX_iuaAEk-wde92_5aYDlW_ZHHtNw&chips=date_posted:3days&udm=8&sa=X&ved=2ahUKEwjixvPzhpyXAxWtkeEIHbr7G_YQkbEKegQIGxAD",
+          "serpapi_link": "https://serpapi.com/search.json?chips=date_posted%3A3days&engine=google_jobs&gl=co&google_domain=google.com&hl=es&location=Colombia&q=Data+Analyst+tiempo+parcial&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rZiksa3HhVKCT6wb_m0_DlNZx_ca-LFYP__9O6dDiFzSRBhYNkcpoepZF7xBiCIavioCeTboF2zAdsIesAP410U6hymwXeHXg_BXHp2hBXLgaAhC_FKTJWfE2jeIXfnEISu7pI2UpiJ6FVJva1FjZrMs3bPcnunZLQvaLZFwtXdidebFLoxTVihNOCfXajKQqneyOu208aDO1Ygb-NPNIM_E_TBMbJa3yPmn5L30Q8eaHJvbyjhuoK03WWe5st-5NzSCfA4w1Ds8s9nKGBqz2znfuk2vMQZ4kOHUf29q66_SigipUwCE9dOjvyQ7XB1yTnVlSnO2tzTmYlydlaPtpwTE_Cw3qbgwywMzzUaBfzqX_iuaAEk-wde92_5aYDlW_ZHHtNw"
+        },
+        {
+          "name": "Con contrato",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4r2YIQD5S0wiJLM8D3QoSGRXVQ5MzMH4YxJ5T3ygEiTaqvvRwVXIuGdHhnBqeOlA43CadYE3CV0p04icFcvwoMqOWSLbX9jNX2NC9FqThYPFMAa62H7LobgUPRcQsJ6gBFO-u1Gvw0tZNXiWsl7BrARr18cfNamJEdygvQU_diABYmwlwXcE-GB0MFVGTGMtevqJP8sg0R9Ol2flOG0ZFG2XccC0so7Ce779yJBwn7yYsbP8ELyQVJDyu3XdWZ_7bi8tsxFcl_KdLxSnGYQwZZiAYNj0VJGElBDd-NLsHaXZEDooRFdqiL103nGxHpz05uWCHsxKgkir-LnOzj1B_Y8bnOTy3XoCJXg6Zbo6v6ufe0_uTQzdilreNjB67QiJpmt3tQ9w",
+            "q": "Data Analyst con contrato"
+          },
+          "link": "https://www.google.com/search?sca_esv=4d65981f01013b52&gl=co&hl=es&sxsrf=APpeQnvISNWjJ1OwdyT8rEXO1Np3y9DYGw:1790968856378&q=Data+Analyst+con+contrato&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4r2YIQD5S0wiJLM8D3QoSGRXVQ5MzMH4YxJ5T3ygEiTaqvvRwVXIuGdHhnBqeOlA43CadYE3CV0p04icFcvwoMqOWSLbX9jNX2NC9FqThYPFMAa62H7LobgUPRcQsJ6gBFO-u1Gvw0tZNXiWsl7BrARr18cfNamJEdygvQU_diABYmwlwXcE-GB0MFVGTGMtevqJP8sg0R9Ol2flOG0ZFG2XccC0so7Ce779yJBwn7yYsbP8ELyQVJDyu3XdWZ_7bi8tsxFcl_KdLxSnGYQwZZiAYNj0VJGElBDd-NLsHaXZEDooRFdqiL103nGxHpz05uWCHsxKgkir-LnOzj1B_Y8bnOTy3XoCJXg6Zbo6v6ufe0_uTQzdilreNjB67QiJpmt3tQ9w&chips=date_posted:3days&udm=8&sa=X&ved=2ahUKEwjixvPzhpyXAxWtkeEIHbr7G_YQkbEKegQIGxAE",
+          "serpapi_link": "https://serpapi.com/search.json?chips=date_posted%3A3days&engine=google_jobs&gl=co&google_domain=google.com&hl=es&location=Colombia&q=Data+Analyst+con+contrato&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4r2YIQD5S0wiJLM8D3QoSGRXVQ5MzMH4YxJ5T3ygEiTaqvvRwVXIuGdHhnBqeOlA43CadYE3CV0p04icFcvwoMqOWSLbX9jNX2NC9FqThYPFMAa62H7LobgUPRcQsJ6gBFO-u1Gvw0tZNXiWsl7BrARr18cfNamJEdygvQU_diABYmwlwXcE-GB0MFVGTGMtevqJP8sg0R9Ol2flOG0ZFG2XccC0so7Ce779yJBwn7yYsbP8ELyQVJDyu3XdWZ_7bi8tsxFcl_KdLxSnGYQwZZiAYNj0VJGElBDd-NLsHaXZEDooRFdqiL103nGxHpz05uWCHsxKgkir-LnOzj1B_Y8bnOTy3XoCJXg6Zbo6v6ufe0_uTQzdilreNjB67QiJpmt3tQ9w"
+        },
+        {
+          "name": "Prácticas",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4rzL30x91-518r7vIP4EVEkDyO4-BwuSlxDNsem-nor9aGKaNad-9SS5VuF8jI8jl1w32J0INkKaSmERid5zM2vaK_OrPIXNm9HRN01JlEYfcE2JZRqv6za7SQLqTT0Ezudb0BWGvgClj6DJBvfxoY7BCm6ixaLF272SOFwZQvYtx3BdQAwQllVj0rJkriUz3Y0rtSzQvpktNK_0MRrfxZoq3Hqxvz-3c2StHlWUpkAi1K_xHRAlLV50HhbPTrOUq8tJlp2hgCo1wNLlstTfzn461swbbcnNXMvdfJgZDv-g1WpcrBHny3YBuLd2cgnRVDUj2Aj5dvxjyRS_vAou9A_zho2slHZa4z9QHypO3qV1kRv1aU",
+            "q": "Data Analyst prácticas"
+          },
+          "link": "https://www.google.com/search?sca_esv=4d65981f01013b52&gl=co&hl=es&sxsrf=APpeQnvISNWjJ1OwdyT8rEXO1Np3y9DYGw:1790968856378&q=Data+Analyst+pr%C3%A1cticas&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rzL30x91-518r7vIP4EVEkDyO4-BwuSlxDNsem-nor9aGKaNad-9SS5VuF8jI8jl1w32J0INkKaSmERid5zM2vaK_OrPIXNm9HRN01JlEYfcE2JZRqv6za7SQLqTT0Ezudb0BWGvgClj6DJBvfxoY7BCm6ixaLF272SOFwZQvYtx3BdQAwQllVj0rJkriUz3Y0rtSzQvpktNK_0MRrfxZoq3Hqxvz-3c2StHlWUpkAi1K_xHRAlLV50HhbPTrOUq8tJlp2hgCo1wNLlstTfzn461swbbcnNXMvdfJgZDv-g1WpcrBHny3YBuLd2cgnRVDUj2Aj5dvxjyRS_vAou9A_zho2slHZa4z9QHypO3qV1kRv1aU&chips=date_posted:3days&udm=8&sa=X&ved=2ahUKEwjixvPzhpyXAxWtkeEIHbr7G_YQkbEKegQIGxAF",
+          "serpapi_link": "https://serpapi.com/search.json?chips=date_posted%3A3days&engine=google_jobs&gl=co&google_domain=google.com&hl=es&location=Colombia&q=Data+Analyst+pr%C3%A1cticas&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rzL30x91-518r7vIP4EVEkDyO4-BwuSlxDNsem-nor9aGKaNad-9SS5VuF8jI8jl1w32J0INkKaSmERid5zM2vaK_OrPIXNm9HRN01JlEYfcE2JZRqv6za7SQLqTT0Ezudb0BWGvgClj6DJBvfxoY7BCm6ixaLF272SOFwZQvYtx3BdQAwQllVj0rJkriUz3Y0rtSzQvpktNK_0MRrfxZoq3Hqxvz-3c2StHlWUpkAi1K_xHRAlLV50HhbPTrOUq8tJlp2hgCo1wNLlstTfzn461swbbcnNXMvdfJgZDv-g1WpcrBHny3YBuLd2cgnRVDUj2Aj5dvxjyRS_vAou9A_zho2slHZa4z9QHypO3qV1kRv1aU"
+        }
+      ]
+    },
+    {
+      "name": "Tipo de trabajo",
+      "options": [
+        {
+          "name": "Tiempo completo",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4rj-wr9e0nFxf2HrH1Zx9c14B5O5qsmJ5X406s2JvBZpzycnbcsh8Epx4cEMVBZtn_buylKZp5gFv8E8L-Akf70heuqDGwUbNPPjvoIOTSpBaMnG_xoVmIKWt8C7z38D3xwdfQI32oC-PxwTzBFIvGf7IWjy21Z-mSh4nqVP8YREAxMbw_thyaJ-TaSqgt3CuM4ZwgfxHavUuL7ibnmsBYSl255y_Rzv-1YvDiMN3gTjhlBacAO6AjAmM-h8C-o6coA7t7onzykbTyb2FOcLiIyGsJncHDHxVO2CPvlCCrlStcdc0a-nJtmeMTIEtP5v92aOS4uOG1P1CxreYpYifFmOIOGpsHd6OcscuNunjJTalzp4pN",
+            "q": "Data Analyst tiempo completo"
+          },
+          "link": "https://www.google.com/search?sca_esv=4d65981f01013b52&gl=co&hl=es&sxsrf=APpeQnvISNWjJ1OwdyT8rEXO1Np3y9DYGw:1790968856378&q=Data+Analyst+tiempo+completo&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rj-wr9e0nFxf2HrH1Zx9c14B5O5qsmJ5X406s2JvBZpzycnbcsh8Epx4cEMVBZtn_buylKZp5gFv8E8L-Akf70heuqDGwUbNPPjvoIOTSpBaMnG_xoVmIKWt8C7z38D3xwdfQI32oC-PxwTzBFIvGf7IWjy21Z-mSh4nqVP8YREAxMbw_thyaJ-TaSqgt3CuM4ZwgfxHavUuL7ibnmsBYSl255y_Rzv-1YvDiMN3gTjhlBacAO6AjAmM-h8C-o6coA7t7onzykbTyb2FOcLiIyGsJncHDHxVO2CPvlCCrlStcdc0a-nJtmeMTIEtP5v92aOS4uOG1P1CxreYpYifFmOIOGpsHd6OcscuNunjJTalzp4pN&chips=date_posted:3days&udm=8&sa=X&ved=2ahUKEwjixvPzhpyXAxWtkeEIHbr7G_YQkbEKegQIGxAC",
+          "serpapi_link": "https://serpapi.com/search.json?chips=date_posted%3A3days&engine=google_jobs&gl=co&google_domain=google.com&hl=es&location=Colombia&q=Data+Analyst+tiempo+completo&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rj-wr9e0nFxf2HrH1Zx9c14B5O5qsmJ5X406s2JvBZpzycnbcsh8Epx4cEMVBZtn_buylKZp5gFv8E8L-Akf70heuqDGwUbNPPjvoIOTSpBaMnG_xoVmIKWt8C7z38D3xwdfQI32oC-PxwTzBFIvGf7IWjy21Z-mSh4nqVP8YREAxMbw_thyaJ-TaSqgt3CuM4ZwgfxHavUuL7ibnmsBYSl255y_Rzv-1YvDiMN3gTjhlBacAO6AjAmM-h8C-o6coA7t7onzykbTyb2FOcLiIyGsJncHDHxVO2CPvlCCrlStcdc0a-nJtmeMTIEtP5v92aOS4uOG1P1CxreYpYifFmOIOGpsHd6OcscuNunjJTalzp4pN"
+        },
+        {
+          "name": "Tiempo parcial",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4rZiksa3HhVKCT6wb_m0_DlNZx_ca-LFYP__9O6dDiFzSRBhYNkcpoepZF7xBiCIavioCeTboF2zAdsIesAP410U6hymwXeHXg_BXHp2hBXLgaAhC_FKTJWfE2jeIXfnEISu7pI2UpiJ6FVJva1FjZrMs3bPcnunZLQvaLZFwtXdidebFLoxTVihNOCfXajKQqneyOu208aDO1Ygb-NPNIM_E_TBMbJa3yPmn5L30Q8eaHJvbyjhuoK03WWe5st-5NzSCfA4w1Ds8s9nKGBqz2znfuk2vMQZ4kOHUf29q66_SigipUwCE9dOjvyQ7XB1yTnVlSnO2tzTmYlydlaPtpwTE_Cw3qbgwywMzzUaBfzqX_iuaAEk-wde92_5aYDlW_ZHHtNw",
+            "q": "Data Analyst tiempo parcial"
+          },
+          "link": "https://www.google.com/search?sca_esv=4d65981f01013b52&gl=co&hl=es&sxsrf=APpeQnvISNWjJ1OwdyT8rEXO1Np3y9DYGw:1790968856378&q=Data+Analyst+tiempo+parcial&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rZiksa3HhVKCT6wb_m0_DlNZx_ca-LFYP__9O6dDiFzSRBhYNkcpoepZF7xBiCIavioCeTboF2zAdsIesAP410U6hymwXeHXg_BXHp2hBXLgaAhC_FKTJWfE2jeIXfnEISu7pI2UpiJ6FVJva1FjZrMs3bPcnunZLQvaLZFwtXdidebFLoxTVihNOCfXajKQqneyOu208aDO1Ygb-NPNIM_E_TBMbJa3yPmn5L30Q8eaHJvbyjhuoK03WWe5st-5NzSCfA4w1Ds8s9nKGBqz2znfuk2vMQZ4kOHUf29q66_SigipUwCE9dOjvyQ7XB1yTnVlSnO2tzTmYlydlaPtpwTE_Cw3qbgwywMzzUaBfzqX_iuaAEk-wde92_5aYDlW_ZHHtNw&chips=date_posted:3days&udm=8&sa=X&ved=2ahUKEwjixvPzhpyXAxWtkeEIHbr7G_YQkbEKegQIGxAD",
+          "serpapi_link": "https://serpapi.com/search.json?chips=date_posted%3A3days&engine=google_jobs&gl=co&google_domain=google.com&hl=es&location=Colombia&q=Data+Analyst+tiempo+parcial&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rZiksa3HhVKCT6wb_m0_DlNZx_ca-LFYP__9O6dDiFzSRBhYNkcpoepZF7xBiCIavioCeTboF2zAdsIesAP410U6hymwXeHXg_BXHp2hBXLgaAhC_FKTJWfE2jeIXfnEISu7pI2UpiJ6FVJva1FjZrMs3bPcnunZLQvaLZFwtXdidebFLoxTVihNOCfXajKQqneyOu208aDO1Ygb-NPNIM_E_TBMbJa3yPmn5L30Q8eaHJvbyjhuoK03WWe5st-5NzSCfA4w1Ds8s9nKGBqz2znfuk2vMQZ4kOHUf29q66_SigipUwCE9dOjvyQ7XB1yTnVlSnO2tzTmYlydlaPtpwTE_Cw3qbgwywMzzUaBfzqX_iuaAEk-wde92_5aYDlW_ZHHtNw"
+        },
+        {
+          "name": "Con contrato",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4r2YIQD5S0wiJLM8D3QoSGRXVQ5MzMH4YxJ5T3ygEiTaqvvRwVXIuGdHhnBqeOlA43CadYE3CV0p04icFcvwoMqOWSLbX9jNX2NC9FqThYPFMAa62H7LobgUPRcQsJ6gBFO-u1Gvw0tZNXiWsl7BrARr18cfNamJEdygvQU_diABYmwlwXcE-GB0MFVGTGMtevqJP8sg0R9Ol2flOG0ZFG2XccC0so7Ce779yJBwn7yYsbP8ELyQVJDyu3XdWZ_7bi8tsxFcl_KdLxSnGYQwZZiAYNj0VJGElBDd-NLsHaXZEDooRFdqiL103nGxHpz05uWCHsxKgkir-LnOzj1B_Y8bnOTy3XoCJXg6Zbo6v6ufe0_uTQzdilreNjB67QiJpmt3tQ9w",
+            "q": "Data Analyst con contrato"
+          },
+          "link": "https://www.google.com/search?sca_esv=4d65981f01013b52&gl=co&hl=es&sxsrf=APpeQnvISNWjJ1OwdyT8rEXO1Np3y9DYGw:1790968856378&q=Data+Analyst+con+contrato&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4r2YIQD5S0wiJLM8D3QoSGRXVQ5MzMH4YxJ5T3ygEiTaqvvRwVXIuGdHhnBqeOlA43CadYE3CV0p04icFcvwoMqOWSLbX9jNX2NC9FqThYPFMAa62H7LobgUPRcQsJ6gBFO-u1Gvw0tZNXiWsl7BrARr18cfNamJEdygvQU_diABYmwlwXcE-GB0MFVGTGMtevqJP8sg0R9Ol2flOG0ZFG2XccC0so7Ce779yJBwn7yYsbP8ELyQVJDyu3XdWZ_7bi8tsxFcl_KdLxSnGYQwZZiAYNj0VJGElBDd-NLsHaXZEDooRFdqiL103nGxHpz05uWCHsxKgkir-LnOzj1B_Y8bnOTy3XoCJXg6Zbo6v6ufe0_uTQzdilreNjB67QiJpmt3tQ9w&chips=date_posted:3days&udm=8&sa=X&ved=2ahUKEwjixvPzhpyXAxWtkeEIHbr7G_YQkbEKegQIGxAE",
+          "serpapi_link": "https://serpapi.com/search.json?chips=date_posted%3A3days&engine=google_jobs&gl=co&google_domain=google.com&hl=es&location=Colombia&q=Data+Analyst+con+contrato&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4r2YIQD5S0wiJLM8D3QoSGRXVQ5MzMH4YxJ5T3ygEiTaqvvRwVXIuGdHhnBqeOlA43CadYE3CV0p04icFcvwoMqOWSLbX9jNX2NC9FqThYPFMAa62H7LobgUPRcQsJ6gBFO-u1Gvw0tZNXiWsl7BrARr18cfNamJEdygvQU_diABYmwlwXcE-GB0MFVGTGMtevqJP8sg0R9Ol2flOG0ZFG2XccC0so7Ce779yJBwn7yYsbP8ELyQVJDyu3XdWZ_7bi8tsxFcl_KdLxSnGYQwZZiAYNj0VJGElBDd-NLsHaXZEDooRFdqiL103nGxHpz05uWCHsxKgkir-LnOzj1B_Y8bnOTy3XoCJXg6Zbo6v6ufe0_uTQzdilreNjB67QiJpmt3tQ9w"
+        },
+        {
+          "name": "Prácticas",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4rzL30x91-518r7vIP4EVEkDyO4-BwuSlxDNsem-nor9aGKaNad-9SS5VuF8jI8jl1w32J0INkKaSmERid5zM2vaK_OrPIXNm9HRN01JlEYfcE2JZRqv6za7SQLqTT0Ezudb0BWGvgClj6DJBvfxoY7BCm6ixaLF272SOFwZQvYtx3BdQAwQllVj0rJkriUz3Y0rtSzQvpktNK_0MRrfxZoq3Hqxvz-3c2StHlWUpkAi1K_xHRAlLV50HhbPTrOUq8tJlp2hgCo1wNLlstTfzn461swbbcnNXMvdfJgZDv-g1WpcrBHny3YBuLd2cgnRVDUj2Aj5dvxjyRS_vAou9A_zho2slHZa4z9QHypO3qV1kRv1aU",
+            "q": "Data Analyst prácticas"
+          },
+          "link": "https://www.google.com/search?sca_esv=4d65981f01013b52&gl=co&hl=es&sxsrf=APpeQnvISNWjJ1OwdyT8rEXO1Np3y9DYGw:1790968856378&q=Data+Analyst+pr%C3%A1cticas&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rzL30x91-518r7vIP4EVEkDyO4-BwuSlxDNsem-nor9aGKaNad-9SS5VuF8jI8jl1w32J0INkKaSmERid5zM2vaK_OrPIXNm9HRN01JlEYfcE2JZRqv6za7SQLqTT0Ezudb0BWGvgClj6DJBvfxoY7BCm6ixaLF272SOFwZQvYtx3BdQAwQllVj0rJkriUz3Y0rtSzQvpktNK_0MRrfxZoq3Hqxvz-3c2StHlWUpkAi1K_xHRAlLV50HhbPTrOUq8tJlp2hgCo1wNLlstTfzn461swbbcnNXMvdfJgZDv-g1WpcrBHny3YBuLd2cgnRVDUj2Aj5dvxjyRS_vAou9A_zho2slHZa4z9QHypO3qV1kRv1aU&chips=date_posted:3days&udm=8&sa=X&ved=2ahUKEwjixvPzhpyXAxWtkeEIHbr7G_YQkbEKegQIGxAF",
+          "serpapi_link": "https://serpapi.com/search.json?chips=date_posted%3A3days&engine=google_jobs&gl=co&google_domain=google.com&hl=es&location=Colombia&q=Data+Analyst+pr%C3%A1cticas&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rzL30x91-518r7vIP4EVEkDyO4-BwuSlxDNsem-nor9aGKaNad-9SS5VuF8jI8jl1w32J0INkKaSmERid5zM2vaK_OrPIXNm9HRN01JlEYfcE2JZRqv6za7SQLqTT0Ezudb0BWGvgClj6DJBvfxoY7BCm6ixaLF272SOFwZQvYtx3BdQAwQllVj0rJkriUz3Y0rtSzQvpktNK_0MRrfxZoq3Hqxvz-3c2StHlWUpkAi1K_xHRAlLV50HhbPTrOUq8tJlp2hgCo1wNLlstTfzn461swbbcnNXMvdfJgZDv-g1WpcrBHny3YBuLd2cgnRVDUj2Aj5dvxjyRS_vAou9A_zho2slHZa4z9QHypO3qV1kRv1aU"
+        }
+      ]
+    },
+    {
+      "name": "Fecha de publicación",
+      "options": [
+        {
+          "name": "Ayer",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4rsTBuj_Rj3LJymAMs-53Mxk8iIibLpPnvzY-WK8wjPZ0ebxYLYjYHV8fcf4IKcOf651GSQtdHcMg8tWszHnCYLnt_IJwxPeNTs9I3xfaM3beoBqTLFriUKCTA3MoL-Sjgzj3i0t2qNJaduChKd0vP0y9ETwxiOeE56TVHNrG9_IQlguOpox0n483rqMXPKCSahvvczXtp6k-uC125xi-lxE8uPKBWBZQ56RRyctiOcD_KUShI4yFZqBnv8T4olKDfHcbWOapKMvxVVWaBBPphTGFcOqZU3Opu3eZt-pOlGDvU6OlvcxdPMZxhdj-XElGiYMZwlh54o-IJj9AEHH0GQwJvRhql9qyasAKQhc-masbP4m7wpVY_ZjGR373TXk_X8rmFmup6r6J8dq7Z2sS8SHGCM4o",
+            "q": "Data Analyst desde ayer"
+          },
+          "link": "https://www.google.com/search?sca_esv=4d65981f01013b52&gl=co&hl=es&sxsrf=APpeQnvISNWjJ1OwdyT8rEXO1Np3y9DYGw:1790968856378&q=Data+Analyst+desde+ayer&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rsTBuj_Rj3LJymAMs-53Mxk8iIibLpPnvzY-WK8wjPZ0ebxYLYjYHV8fcf4IKcOf651GSQtdHcMg8tWszHnCYLnt_IJwxPeNTs9I3xfaM3beoBqTLFriUKCTA3MoL-Sjgzj3i0t2qNJaduChKd0vP0y9ETwxiOeE56TVHNrG9_IQlguOpox0n483rqMXPKCSahvvczXtp6k-uC125xi-lxE8uPKBWBZQ56RRyctiOcD_KUShI4yFZqBnv8T4olKDfHcbWOapKMvxVVWaBBPphTGFcOqZU3Opu3eZt-pOlGDvU6OlvcxdPMZxhdj-XElGiYMZwlh54o-IJj9AEHH0GQwJvRhql9qyasAKQhc-masbP4m7wpVY_ZjGR373TXk_X8rmFmup6r6J8dq7Z2sS8SHGCM4o&chips=date_posted:3days&udm=8&sa=X&ved=2ahUKEwjixvPzhpyXAxWtkeEIHbr7G_YQkbEKegQIGhAC",
+          "serpapi_link": "https://serpapi.com/search.json?chips=date_posted%3A3days&engine=google_jobs&gl=co&google_domain=google.com&hl=es&location=Colombia&q=Data+Analyst+desde+ayer&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rsTBuj_Rj3LJymAMs-53Mxk8iIibLpPnvzY-WK8wjPZ0ebxYLYjYHV8fcf4IKcOf651GSQtdHcMg8tWszHnCYLnt_IJwxPeNTs9I3xfaM3beoBqTLFriUKCTA3MoL-Sjgzj3i0t2qNJaduChKd0vP0y9ETwxiOeE56TVHNrG9_IQlguOpox0n483rqMXPKCSahvvczXtp6k-uC125xi-lxE8uPKBWBZQ56RRyctiOcD_KUShI4yFZqBnv8T4olKDfHcbWOapKMvxVVWaBBPphTGFcOqZU3Opu3eZt-pOlGDvU6OlvcxdPMZxhdj-XElGiYMZwlh54o-IJj9AEHH0GQwJvRhql9qyasAKQhc-masbP4m7wpVY_ZjGR373TXk_X8rmFmup6r6J8dq7Z2sS8SHGCM4o"
+        },
+        {
+          "name": "Últimos 3 días",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4rsSSlpZni-nNC0orbf20KUEsdSXZ7mO8X39WwiRaZfIs2-Uncsz_lj68UFofKbt3_qbypJF7eHCjcFuwkPSNPMdd7ObWz1N8-AwDjCEb245WEEVezKulrxLBe3hQFwHfvbD9Wrti3hUPVcyu-AdETMMqBn4vEFPr3hQQSeii0cLPd6DJyENXlqTsAzEKpKZ8Rz_gfilfXR-iA1_WaBWq1dXNz6DKtyNlIfLoWIZvSjmne6HMwcAzGVGfXnEfd5sJGT9s3df28qQawlmDlSqTVuLKbGblz65AZD81fJJtLR4xQ_Cob4xqdh35XJcb0HCwWNPD5uHTCdogByizbNTTQvok3_m7rONJftpRKgp57HwnxH2GegZ9LVAS_yGlNaNu9Bgwgn_7dCnCVfJY2o5G6tLrMQVs",
+            "q": "Data Analyst en los últimos 3 días"
+          },
+          "link": "https://www.google.com/search?sca_esv=4d65981f01013b52&gl=co&hl=es&sxsrf=APpeQnvISNWjJ1OwdyT8rEXO1Np3y9DYGw:1790968856378&q=Data+Analyst+en+los+%C3%BAltimos+3+d%C3%ADas&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rsSSlpZni-nNC0orbf20KUEsdSXZ7mO8X39WwiRaZfIs2-Uncsz_lj68UFofKbt3_qbypJF7eHCjcFuwkPSNPMdd7ObWz1N8-AwDjCEb245WEEVezKulrxLBe3hQFwHfvbD9Wrti3hUPVcyu-AdETMMqBn4vEFPr3hQQSeii0cLPd6DJyENXlqTsAzEKpKZ8Rz_gfilfXR-iA1_WaBWq1dXNz6DKtyNlIfLoWIZvSjmne6HMwcAzGVGfXnEfd5sJGT9s3df28qQawlmDlSqTVuLKbGblz65AZD81fJJtLR4xQ_Cob4xqdh35XJcb0HCwWNPD5uHTCdogByizbNTTQvok3_m7rONJftpRKgp57HwnxH2GegZ9LVAS_yGlNaNu9Bgwgn_7dCnCVfJY2o5G6tLrMQVs&chips=date_posted:3days&udm=8&sa=X&ved=2ahUKEwjixvPzhpyXAxWtkeEIHbr7G_YQkbEKegQIGhAD",
+          "serpapi_link": "https://serpapi.com/search.json?chips=date_posted%3A3days&engine=google_jobs&gl=co&google_domain=google.com&hl=es&location=Colombia&q=Data+Analyst+en+los+%C3%BAltimos+3+d%C3%ADas&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rsSSlpZni-nNC0orbf20KUEsdSXZ7mO8X39WwiRaZfIs2-Uncsz_lj68UFofKbt3_qbypJF7eHCjcFuwkPSNPMdd7ObWz1N8-AwDjCEb245WEEVezKulrxLBe3hQFwHfvbD9Wrti3hUPVcyu-AdETMMqBn4vEFPr3hQQSeii0cLPd6DJyENXlqTsAzEKpKZ8Rz_gfilfXR-iA1_WaBWq1dXNz6DKtyNlIfLoWIZvSjmne6HMwcAzGVGfXnEfd5sJGT9s3df28qQawlmDlSqTVuLKbGblz65AZD81fJJtLR4xQ_Cob4xqdh35XJcb0HCwWNPD5uHTCdogByizbNTTQvok3_m7rONJftpRKgp57HwnxH2GegZ9LVAS_yGlNaNu9Bgwgn_7dCnCVfJY2o5G6tLrMQVs"
+        },
+        {
+          "name": "Última semana",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4rdf3hZ4zdlkAW_uEbRSgOyh05q27tu6vFNIEBb6BfmoFsMgBpjwn-7OAGCb6FRY5Q9J2eSz_SKHe7iJmqwwfijWfabauD2YO3iQn5y6idFIU3ks69WlO54OfZUwOD9HxNXd4SPXbXGIu7YxOZUbO4EIJ6hGn6vbviVlRVohSOsh5TseTCY2vFVckW8QBqEhN3Uo_Pkw_ywNYEryppcTjLOjx1Y_HgnNlZwU583Oth5QKe51ZCPsiuJULOXCU6urDf1v4c7M9k4PwtwEIYSlXbMWxwiC5Uex5HrIt0AfCCqi_qgDctkcA9oCqrAzdqakoNvNdwIVd9QZiSzDNkmydBKdyyICr3po5IlguRunBh37RJnB6WFEnNbiBLFNKafKnhwY1Ghx3D3gVC0aOi3CUpXLIihMU",
+            "q": "Data Analyst en la última semana"
+          },
+          "link": "https://www.google.com/search?sca_esv=4d65981f01013b52&gl=co&hl=es&sxsrf=APpeQnvISNWjJ1OwdyT8rEXO1Np3y9DYGw:1790968856378&q=Data+Analyst+en+la+%C3%BAltima+semana&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rdf3hZ4zdlkAW_uEbRSgOyh05q27tu6vFNIEBb6BfmoFsMgBpjwn-7OAGCb6FRY5Q9J2eSz_SKHe7iJmqwwfijWfabauD2YO3iQn5y6idFIU3ks69WlO54OfZUwOD9HxNXd4SPXbXGIu7YxOZUbO4EIJ6hGn6vbviVlRVohSOsh5TseTCY2vFVckW8QBqEhN3Uo_Pkw_ywNYEryppcTjLOjx1Y_HgnNlZwU583Oth5QKe51ZCPsiuJULOXCU6urDf1v4c7M9k4PwtwEIYSlXbMWxwiC5Uex5HrIt0AfCCqi_qgDctkcA9oCqrAzdqakoNvNdwIVd9QZiSzDNkmydBKdyyICr3po5IlguRunBh37RJnB6WFEnNbiBLFNKafKnhwY1Ghx3D3gVC0aOi3CUpXLIihMU&chips=date_posted:3days&udm=8&sa=X&ved=2ahUKEwjixvPzhpyXAxWtkeEIHbr7G_YQkbEKegQIGhAE",
+          "serpapi_link": "https://serpapi.com/search.json?chips=date_posted%3A3days&engine=google_jobs&gl=co&google_domain=google.com&hl=es&location=Colombia&q=Data+Analyst+en+la+%C3%BAltima+semana&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rdf3hZ4zdlkAW_uEbRSgOyh05q27tu6vFNIEBb6BfmoFsMgBpjwn-7OAGCb6FRY5Q9J2eSz_SKHe7iJmqwwfijWfabauD2YO3iQn5y6idFIU3ks69WlO54OfZUwOD9HxNXd4SPXbXGIu7YxOZUbO4EIJ6hGn6vbviVlRVohSOsh5TseTCY2vFVckW8QBqEhN3Uo_Pkw_ywNYEryppcTjLOjx1Y_HgnNlZwU583Oth5QKe51ZCPsiuJULOXCU6urDf1v4c7M9k4PwtwEIYSlXbMWxwiC5Uex5HrIt0AfCCqi_qgDctkcA9oCqrAzdqakoNvNdwIVd9QZiSzDNkmydBKdyyICr3po5IlguRunBh37RJnB6WFEnNbiBLFNKafKnhwY1Ghx3D3gVC0aOi3CUpXLIihMU"
+        },
+        {
+          "name": "Último mes",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4r47ZjGK923JIumBj3J7wejVgGA7yXq95ijdwnRF8fn6e4mbcYwrDL4ZaUR4OFRiKu6KbRDRTrkJB44KrVQBb0rHjcWsQTBAsNDTy2NbO4jpiv44YbflgSK7CF-c-jWap3NLcUdtOqfo8h1UegEtf3xTsGupbeSMctR6OtLpqVLgZ0YrlxsPjr2BFIfhAHLXjWYpFiazDX-xRCVcxoCPVzetHyYifM2DahgHjkGpwE6r-qf12jpAfr4fQ5XX0u-_Da8brOeVxHDUckyWN_KisXREjRbL_3TqdRmM0bNFGJhqS2RRB3saMvxT-ycRyIEtveV7jmNTsCyy0Q7L1WMh8zajOG8_G4yaRjU2K3xI-Qqym1bfTpF9WwGy1Q3gmv2UvLEF-N7kU893f3857OUrhCRKJ2UGg",
+            "q": "Data Analyst en el último mes"
+          },
+          "link": "https://www.google.com/search?sca_esv=4d65981f01013b52&gl=co&hl=es&sxsrf=APpeQnvISNWjJ1OwdyT8rEXO1Np3y9DYGw:1790968856378&q=Data+Analyst+en+el+%C3%BAltimo+mes&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4r47ZjGK923JIumBj3J7wejVgGA7yXq95ijdwnRF8fn6e4mbcYwrDL4ZaUR4OFRiKu6KbRDRTrkJB44KrVQBb0rHjcWsQTBAsNDTy2NbO4jpiv44YbflgSK7CF-c-jWap3NLcUdtOqfo8h1UegEtf3xTsGupbeSMctR6OtLpqVLgZ0YrlxsPjr2BFIfhAHLXjWYpFiazDX-xRCVcxoCPVzetHyYifM2DahgHjkGpwE6r-qf12jpAfr4fQ5XX0u-_Da8brOeVxHDUckyWN_KisXREjRbL_3TqdRmM0bNFGJhqS2RRB3saMvxT-ycRyIEtveV7jmNTsCyy0Q7L1WMh8zajOG8_G4yaRjU2K3xI-Qqym1bfTpF9WwGy1Q3gmv2UvLEF-N7kU893f3857OUrhCRKJ2UGg&chips=date_posted:3days&udm=8&sa=X&ved=2ahUKEwjixvPzhpyXAxWtkeEIHbr7G_YQkbEKegQIGhAF",
+          "serpapi_link": "https://serpapi.com/search.json?chips=date_posted%3A3days&engine=google_jobs&gl=co&google_domain=google.com&hl=es&location=Colombia&q=Data+Analyst+en+el+%C3%BAltimo+mes&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4r47ZjGK923JIumBj3J7wejVgGA7yXq95ijdwnRF8fn6e4mbcYwrDL4ZaUR4OFRiKu6KbRDRTrkJB44KrVQBb0rHjcWsQTBAsNDTy2NbO4jpiv44YbflgSK7CF-c-jWap3NLcUdtOqfo8h1UegEtf3xTsGupbeSMctR6OtLpqVLgZ0YrlxsPjr2BFIfhAHLXjWYpFiazDX-xRCVcxoCPVzetHyYifM2DahgHjkGpwE6r-qf12jpAfr4fQ5XX0u-_Da8brOeVxHDUckyWN_KisXREjRbL_3TqdRmM0bNFGJhqS2RRB3saMvxT-ycRyIEtveV7jmNTsCyy0Q7L1WMh8zajOG8_G4yaRjU2K3xI-Qqym1bfTpF9WwGy1Q3gmv2UvLEF-N7kU893f3857OUrhCRKJ2UGg"
+        }
+      ]
+    },
+    {
+      "name": "Fecha de publicación",
+      "options": [
+        {
+          "name": "Ayer",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4rsTBuj_Rj3LJymAMs-53Mxk8iIibLpPnvzY-WK8wjPZ0ebxYLYjYHV8fcf4IKcOf651GSQtdHcMg8tWszHnCYLnt_IJwxPeNTs9I3xfaM3beoBqTLFriUKCTA3MoL-Sjgzj3i0t2qNJaduChKd0vP0y9ETwxiOeE56TVHNrG9_IQlguOpox0n483rqMXPKCSahvvczXtp6k-uC125xi-lxE8uPKBWBZQ56RRyctiOcD_KUShI4yFZqBnv8T4olKDfHcbWOapKMvxVVWaBBPphTGFcOqZU3Opu3eZt-pOlGDvU6OlvcxdPMZxhdj-XElGiYMZwlh54o-IJj9AEHH0GQwJvRhql9qyasAKQhc-masbP4m7wpVY_ZjGR373TXk_X8rmFmup6r6J8dq7Z2sS8SHGCM4o",
+            "q": "Data Analyst desde ayer"
+          },
+          "link": "https://www.google.com/search?sca_esv=4d65981f01013b52&gl=co&hl=es&sxsrf=APpeQnvISNWjJ1OwdyT8rEXO1Np3y9DYGw:1790968856378&q=Data+Analyst+desde+ayer&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rsTBuj_Rj3LJymAMs-53Mxk8iIibLpPnvzY-WK8wjPZ0ebxYLYjYHV8fcf4IKcOf651GSQtdHcMg8tWszHnCYLnt_IJwxPeNTs9I3xfaM3beoBqTLFriUKCTA3MoL-Sjgzj3i0t2qNJaduChKd0vP0y9ETwxiOeE56TVHNrG9_IQlguOpox0n483rqMXPKCSahvvczXtp6k-uC125xi-lxE8uPKBWBZQ56RRyctiOcD_KUShI4yFZqBnv8T4olKDfHcbWOapKMvxVVWaBBPphTGFcOqZU3Opu3eZt-pOlGDvU6OlvcxdPMZxhdj-XElGiYMZwlh54o-IJj9AEHH0GQwJvRhql9qyasAKQhc-masbP4m7wpVY_ZjGR373TXk_X8rmFmup6r6J8dq7Z2sS8SHGCM4o&chips=date_posted:3days&udm=8&sa=X&ved=2ahUKEwjixvPzhpyXAxWtkeEIHbr7G_YQkbEKegQIGhAC",
+          "serpapi_link": "https://serpapi.com/search.json?chips=date_posted%3A3days&engine=google_jobs&gl=co&google_domain=google.com&hl=es&location=Colombia&q=Data+Analyst+desde+ayer&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rsTBuj_Rj3LJymAMs-53Mxk8iIibLpPnvzY-WK8wjPZ0ebxYLYjYHV8fcf4IKcOf651GSQtdHcMg8tWszHnCYLnt_IJwxPeNTs9I3xfaM3beoBqTLFriUKCTA3MoL-Sjgzj3i0t2qNJaduChKd0vP0y9ETwxiOeE56TVHNrG9_IQlguOpox0n483rqMXPKCSahvvczXtp6k-uC125xi-lxE8uPKBWBZQ56RRyctiOcD_KUShI4yFZqBnv8T4olKDfHcbWOapKMvxVVWaBBPphTGFcOqZU3Opu3eZt-pOlGDvU6OlvcxdPMZxhdj-XElGiYMZwlh54o-IJj9AEHH0GQwJvRhql9qyasAKQhc-masbP4m7wpVY_ZjGR373TXk_X8rmFmup6r6J8dq7Z2sS8SHGCM4o"
+        },
+        {
+          "name": "Últimos 3 días",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4rsSSlpZni-nNC0orbf20KUEsdSXZ7mO8X39WwiRaZfIs2-Uncsz_lj68UFofKbt3_qbypJF7eHCjcFuwkPSNPMdd7ObWz1N8-AwDjCEb245WEEVezKulrxLBe3hQFwHfvbD9Wrti3hUPVcyu-AdETMMqBn4vEFPr3hQQSeii0cLPd6DJyENXlqTsAzEKpKZ8Rz_gfilfXR-iA1_WaBWq1dXNz6DKtyNlIfLoWIZvSjmne6HMwcAzGVGfXnEfd5sJGT9s3df28qQawlmDlSqTVuLKbGblz65AZD81fJJtLR4xQ_Cob4xqdh35XJcb0HCwWNPD5uHTCdogByizbNTTQvok3_m7rONJftpRKgp57HwnxH2GegZ9LVAS_yGlNaNu9Bgwgn_7dCnCVfJY2o5G6tLrMQVs",
+            "q": "Data Analyst en los últimos 3 días"
+          },
+          "link": "https://www.google.com/search?sca_esv=4d65981f01013b52&gl=co&hl=es&sxsrf=APpeQnvISNWjJ1OwdyT8rEXO1Np3y9DYGw:1790968856378&q=Data+Analyst+en+los+%C3%BAltimos+3+d%C3%ADas&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rsSSlpZni-nNC0orbf20KUEsdSXZ7mO8X39WwiRaZfIs2-Uncsz_lj68UFofKbt3_qbypJF7eHCjcFuwkPSNPMdd7ObWz1N8-AwDjCEb245WEEVezKulrxLBe3hQFwHfvbD9Wrti3hUPVcyu-AdETMMqBn4vEFPr3hQQSeii0cLPd6DJyENXlqTsAzEKpKZ8Rz_gfilfXR-iA1_WaBWq1dXNz6DKtyNlIfLoWIZvSjmne6HMwcAzGVGfXnEfd5sJGT9s3df28qQawlmDlSqTVuLKbGblz65AZD81fJJtLR4xQ_Cob4xqdh35XJcb0HCwWNPD5uHTCdogByizbNTTQvok3_m7rONJftpRKgp57HwnxH2GegZ9LVAS_yGlNaNu9Bgwgn_7dCnCVfJY2o5G6tLrMQVs&chips=date_posted:3days&udm=8&sa=X&ved=2ahUKEwjixvPzhpyXAxWtkeEIHbr7G_YQkbEKegQIGhAD",
+          "serpapi_link": "https://serpapi.com/search.json?chips=date_posted%3A3days&engine=google_jobs&gl=co&google_domain=google.com&hl=es&location=Colombia&q=Data+Analyst+en+los+%C3%BAltimos+3+d%C3%ADas&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rsSSlpZni-nNC0orbf20KUEsdSXZ7mO8X39WwiRaZfIs2-Uncsz_lj68UFofKbt3_qbypJF7eHCjcFuwkPSNPMdd7ObWz1N8-AwDjCEb245WEEVezKulrxLBe3hQFwHfvbD9Wrti3hUPVcyu-AdETMMqBn4vEFPr3hQQSeii0cLPd6DJyENXlqTsAzEKpKZ8Rz_gfilfXR-iA1_WaBWq1dXNz6DKtyNlIfLoWIZvSjmne6HMwcAzGVGfXnEfd5sJGT9s3df28qQawlmDlSqTVuLKbGblz65AZD81fJJtLR4xQ_Cob4xqdh35XJcb0HCwWNPD5uHTCdogByizbNTTQvok3_m7rONJftpRKgp57HwnxH2GegZ9LVAS_yGlNaNu9Bgwgn_7dCnCVfJY2o5G6tLrMQVs"
+        },
+        {
+          "name": "Última semana",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4rdf3hZ4zdlkAW_uEbRSgOyh05q27tu6vFNIEBb6BfmoFsMgBpjwn-7OAGCb6FRY5Q9J2eSz_SKHe7iJmqwwfijWfabauD2YO3iQn5y6idFIU3ks69WlO54OfZUwOD9HxNXd4SPXbXGIu7YxOZUbO4EIJ6hGn6vbviVlRVohSOsh5TseTCY2vFVckW8QBqEhN3Uo_Pkw_ywNYEryppcTjLOjx1Y_HgnNlZwU583Oth5QKe51ZCPsiuJULOXCU6urDf1v4c7M9k4PwtwEIYSlXbMWxwiC5Uex5HrIt0AfCCqi_qgDctkcA9oCqrAzdqakoNvNdwIVd9QZiSzDNkmydBKdyyICr3po5IlguRunBh37RJnB6WFEnNbiBLFNKafKnhwY1Ghx3D3gVC0aOi3CUpXLIihMU",
+            "q": "Data Analyst en la última semana"
+          },
+          "link": "https://www.google.com/search?sca_esv=4d65981f01013b52&gl=co&hl=es&sxsrf=APpeQnvISNWjJ1OwdyT8rEXO1Np3y9DYGw:1790968856378&q=Data+Analyst+en+la+%C3%BAltima+semana&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rdf3hZ4zdlkAW_uEbRSgOyh05q27tu6vFNIEBb6BfmoFsMgBpjwn-7OAGCb6FRY5Q9J2eSz_SKHe7iJmqwwfijWfabauD2YO3iQn5y6idFIU3ks69WlO54OfZUwOD9HxNXd4SPXbXGIu7YxOZUbO4EIJ6hGn6vbviVlRVohSOsh5TseTCY2vFVckW8QBqEhN3Uo_Pkw_ywNYEryppcTjLOjx1Y_HgnNlZwU583Oth5QKe51ZCPsiuJULOXCU6urDf1v4c7M9k4PwtwEIYSlXbMWxwiC5Uex5HrIt0AfCCqi_qgDctkcA9oCqrAzdqakoNvNdwIVd9QZiSzDNkmydBKdyyICr3po5IlguRunBh37RJnB6WFEnNbiBLFNKafKnhwY1Ghx3D3gVC0aOi3CUpXLIihMU&chips=date_posted:3days&udm=8&sa=X&ved=2ahUKEwjixvPzhpyXAxWtkeEIHbr7G_YQkbEKegQIGhAE",
+          "serpapi_link": "https://serpapi.com/search.json?chips=date_posted%3A3days&engine=google_jobs&gl=co&google_domain=google.com&hl=es&location=Colombia&q=Data+Analyst+en+la+%C3%BAltima+semana&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rdf3hZ4zdlkAW_uEbRSgOyh05q27tu6vFNIEBb6BfmoFsMgBpjwn-7OAGCb6FRY5Q9J2eSz_SKHe7iJmqwwfijWfabauD2YO3iQn5y6idFIU3ks69WlO54OfZUwOD9HxNXd4SPXbXGIu7YxOZUbO4EIJ6hGn6vbviVlRVohSOsh5TseTCY2vFVckW8QBqEhN3Uo_Pkw_ywNYEryppcTjLOjx1Y_HgnNlZwU583Oth5QKe51ZCPsiuJULOXCU6urDf1v4c7M9k4PwtwEIYSlXbMWxwiC5Uex5HrIt0AfCCqi_qgDctkcA9oCqrAzdqakoNvNdwIVd9QZiSzDNkmydBKdyyICr3po5IlguRunBh37RJnB6WFEnNbiBLFNKafKnhwY1Ghx3D3gVC0aOi3CUpXLIihMU"
+        },
+        {
+          "name": "Último mes",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4r47ZjGK923JIumBj3J7wejVgGA7yXq95ijdwnRF8fn6e4mbcYwrDL4ZaUR4OFRiKu6KbRDRTrkJB44KrVQBb0rHjcWsQTBAsNDTy2NbO4jpiv44YbflgSK7CF-c-jWap3NLcUdtOqfo8h1UegEtf3xTsGupbeSMctR6OtLpqVLgZ0YrlxsPjr2BFIfhAHLXjWYpFiazDX-xRCVcxoCPVzetHyYifM2DahgHjkGpwE6r-qf12jpAfr4fQ5XX0u-_Da8brOeVxHDUckyWN_KisXREjRbL_3TqdRmM0bNFGJhqS2RRB3saMvxT-ycRyIEtveV7jmNTsCyy0Q7L1WMh8zajOG8_G4yaRjU2K3xI-Qqym1bfTpF9WwGy1Q3gmv2UvLEF-N7kU893f3857OUrhCRKJ2UGg",
+            "q": "Data Analyst en el último mes"
+          },
+          "link": "https://www.google.com/search?sca_esv=4d65981f01013b52&gl=co&hl=es&sxsrf=APpeQnvISNWjJ1OwdyT8rEXO1Np3y9DYGw:1790968856378&q=Data+Analyst+en+el+%C3%BAltimo+mes&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4r47ZjGK923JIumBj3J7wejVgGA7yXq95ijdwnRF8fn6e4mbcYwrDL4ZaUR4OFRiKu6KbRDRTrkJB44KrVQBb0rHjcWsQTBAsNDTy2NbO4jpiv44YbflgSK7CF-c-jWap3NLcUdtOqfo8h1UegEtf3xTsGupbeSMctR6OtLpqVLgZ0YrlxsPjr2BFIfhAHLXjWYpFiazDX-xRCVcxoCPVzetHyYifM2DahgHjkGpwE6r-qf12jpAfr4fQ5XX0u-_Da8brOeVxHDUckyWN_KisXREjRbL_3TqdRmM0bNFGJhqS2RRB3saMvxT-ycRyIEtveV7jmNTsCyy0Q7L1WMh8zajOG8_G4yaRjU2K3xI-Qqym1bfTpF9WwGy1Q3gmv2UvLEF-N7kU893f3857OUrhCRKJ2UGg&chips=date_posted:3days&udm=8&sa=X&ved=2ahUKEwjixvPzhpyXAxWtkeEIHbr7G_YQkbEKegQIGhAF",
+          "serpapi_link": "https://serpapi.com/search.json?chips=date_posted%3A3days&engine=google_jobs&gl=co&google_domain=google.com&hl=es&location=Colombia&q=Data+Analyst+en+el+%C3%BAltimo+mes&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4r47ZjGK923JIumBj3J7wejVgGA7yXq95ijdwnRF8fn6e4mbcYwrDL4ZaUR4OFRiKu6KbRDRTrkJB44KrVQBb0rHjcWsQTBAsNDTy2NbO4jpiv44YbflgSK7CF-c-jWap3NLcUdtOqfo8h1UegEtf3xTsGupbeSMctR6OtLpqVLgZ0YrlxsPjr2BFIfhAHLXjWYpFiazDX-xRCVcxoCPVzetHyYifM2DahgHjkGpwE6r-qf12jpAfr4fQ5XX0u-_Da8brOeVxHDUckyWN_KisXREjRbL_3TqdRmM0bNFGJhqS2RRB3saMvxT-ycRyIEtveV7jmNTsCyy0Q7L1WMh8zajOG8_G4yaRjU2K3xI-Qqym1bfTpF9WwGy1Q3gmv2UvLEF-N7kU893f3857OUrhCRKJ2UGg"
+        }
+      ]
+    }
+  ],
+  "jobs_results": [
+    {
+      "title": "Data Analyst / Analista de Datos Bilingüe – Bogotá",
+      "company_name": "Multiempleos S.A.",
+      "location": "Bogotá",
+      "via": "Computrabajo",
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Data+Analyst&htidocid=kqDV5bonxwkEM6C_AAAAAA%3D%3D&hl=es-CO&shem=epsd1,esd2e,rimspwouoe&shndl=37&shmd=H4sIAAAAAAAA_-PaxMgV6pJYkqjgmJeYU1lcoqAPZmUWA4VSUhWAUvnFCk6ZOZl56Yf3pCo8apis4JSfnl9yeKGVQtLhXcWFpakpYJWpuQU5qfkKqXkK7vn56TmpUtYZJSUFxVb6-sXFOXrpQPNKMpP1kvNz9fPzUpPyK_Sz8pOKQUR8cUZiUWpBTmJJaryRqUGFXkFeupaMb2lOSSbEzGKFYD1HPZDJUJsB7IHHobUAAAA&shmds=v1_ARwrE20YM9S2Sn46dDrJK9xXWTzcN6YhfpL3xLMR_K7URZzT9w&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Data+Analyst&htidocid=kqDV5bonxwkEM6C_AAAAAA%3D%3D",
+      "extensions": [
+        "hace 2 días",
+        "Tiempo completo"
+      ],
+      "source_link": "https://co.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-data-analyst-analista-de-datos-bilingue-bogota-en-bogota-dc-C45EF86C5C385D3361373E686DCF3405",
+      "job_title": "Data Analyst / Analista de Datos Bilingüe – Bogotá",
+      "description": "Importante compañía del sector de tecnología, se encuentra en búsqueda de un Data Analyst para fortalecer su equipo de BI.\nObjetivo del cargo\nApoyar la gestión y análisis de información comercial, garantizando la actualización y revisión de datos, así como el adecuado seguimiento de procesos relacionados con ventas e incentivos a nivel nacional.\nPrincipales responsabilidades\nMantener una comunicación fluida en inglés con los diferentes equipos y áreas relacionadas.\nRevisar la liquidación de gastos de incentivos presentada por los asistentes regionales a nivel nacional.\nRealizar la actualización diaria del sistema de ventas.\nApoyar la gestión y análisis de información requerida por el área de BI.\nRealizar seguimiento y control de la información comercial para garantizar su correcta actualización.\nRequisitos\nFormación académica: Tecnólogo o superior.\nComunicación fluida en inglés.\nManejo del paquete Microsoft Office.\nDeseable conocimiento en Power Query.\nDeseable manejo de herramientas como Power BI.\nCapacidad analítica, organización y atención al detalle.\nCondiciones laborales\nCiudad: Bogotá D.C.\nSalario: A convenir \nModalidad de trabajo: Tiempo completo / Presencial.\nHorarios: 9:00 AM - 6:00 PM.\nTipo de vinculación: Contrato Obra labor .\nNúmero de vacantes: 1.\n\n -Requerimientos- Educación mínima: Universidad / Carrera tecnológica\n1 año de experiencia\nEdad: A partir de 19 años\nPalabras clave: data, analyst",
+      "apply_options": [
+        {
+          "title": "Computrabajo",
+          "link": "https://co.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-data-analyst-analista-de-datos-bilingue-bogota-en-bogota-dc-C45EF86C5C385D3361373E686DCF3405?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJEYXRhIEFuYWx5c3QgLyBBbmFsaXN0YSBkZSBEYXRvcyBCaWxpbmfDvGUg4oCTIEJvZ290w6EiLCJjb21wYW55X25hbWUiOiJNdWx0aWVtcGxlb3MgUy5BLiIsImh0aWRvY2lkIjoia3FEVjVib254d2tFTTZDX0FBQUFBQT09IiwidXVsZSI6IncrQ0FJUUlDSUlRMjlzYjIxaWFXRSIsImdsIjoiY28iLCJobCI6ImVzIiwiZmMiOiJFc3dCQ293QlFVcHBWRFIwVERRd1ZubE1TV3M1WWxOQ1pqTlFZMmxPTjNSQlpESXhlV1JJVEdZMVlXVktXRUpsT1RKMWNISjFYMHhQU1hkMmRVTnBVbEUyV2pkTlMxUlZabTl5T0VkT1NVeHJMVlZPWXpseWVGZHFhalZxTjJ4YU1sZDZZbFZpY1RGSGJFVlZNM1Z2T1daZlMyTnBVR0ZCWVdONGNtVjZjbVpaVldOc1ZqaEtTbmwyY205eFNXTkhNbFlTRjBkQlZFRmhkVXhoUm5FeWFtaDJZMUIxZG1aMmMwRTRHaUpCUkhOeU9XWlVlamxZV2tsRVVIQnVSbkZIT0RaalRYWnBOVmQyYVRGV1EycDMiLCJmY3YiOiIzIiwiZmNfaWQiOiJrcURWNWJvbnh3a0VNNkNfQUFBQUFBPT0ifQ=="
+    },
+    {
+      "title": "Senior Associate, Data Analytics & Business Intelligence (BI), GOC",
+      "company_name": "WPP Media",
+      "location": "Bogotá",
+      "via": "LinkedIn",
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Data+Analyst&htidocid=OwrkLSofWtotODUOAAAAAA%3D%3D&hl=es-CO&shem=epsd1,esd2e,rimspwouoe&shndl=37&shmd=H4sIAAAAAAAA_xXOsQqCUBSAYVqdm5rOFBWiEbTYpAXiEAUNjXLUw_XG9R7zXKEep5doaPXF0uUfP37vO_PwRlZzB7EIlxod-XBChxBbNG-nS4ElJL1oSyKQWUfGaEW2JFgl2dqH9HKMoBh-8uypQqgIqGkNMZCFlFkZWhxq51qJwlDEBEocjmxQchOypYJf4YMLmZJLjR21ZpzId_vtK2it2szv1yucqdI4iQkrdsPnDx0CrVm5AAAA&shmds=v1_ARwrE20aQDF9dBDiA_hpRWhk3oj58dxmq9ASxtCdRRjGs46z3w&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Data+Analyst&htidocid=OwrkLSofWtotODUOAAAAAA%3D%3D",
+      "thumbnail": "https://serpapi.com/searches/6ac00413d5fd74a5ce6a1feb/images/cPGoXcSmbUWchjpG9tk6sLgCXMAaU2fcsRDBSl-mKT4.jpeg",
+      "extensions": [
+        "hace 1 día",
+        "Tiempo completo"
+      ],
+      "source_link": "https://co.linkedin.com/jobs/view/senior-associate-data-analytics-business-intelligence-bi-goc-at-wpp-media-4472960268",
+      "job_title": "Senior Associate, Data Analytics & Business Intelligence (BI), GOC",
+      "description": "About WPP Media\n\nWPP is the trusted growth partner for the world’s leading brands. With exceptional talent, trusted data and intelligence, and world-class partnerships – all united by our pioneering agentic marketing platform, WPP Open – we help clients navigate change, capture opportunity, and deliver transformational growth. \n\nWPP Media is WPP's AI-driven media operating unit, bringing together media, data, and partnerships to deliver creative personalisation at scale. Connected through WPP Open and powered by Open Intelligence, clients see exactly where, how, and why their media investment is working.\n\nFor more information, visit wppmedia.com.\n\nRole Summary And Impact\n\nAs part of the Global Operations Centre (GOC), you will work closely with teams across the United States, Europe, and Asia to deliver high-impact solutions in a collaborative, multicultural environment. We are looking for a Senior Data Engineer, Data Operations who will:\n\nDesign, build, and maintain cloud-based data solutions, supporting business intelligence, media performance reporting, and data quality compliance. Collaborate with data engineers, developers, and UX designers to develop data pipelines and workflows, managing the design, build, and maintenance phases of client reporting projects. Partner with Business Intelligence and Data Operations teams to define and document reporting and visualization requirements. Ensure data quality and provide ongoing support and maintenance for existing workspaces. Onboard new client teams to cloud data solutions, providing guidance and support throughout implementation. Define QA guidelines and automate existing quality assurance processes to improve accuracy and efficiency. Develop tools, processes, and best practices with support from the Associate Director to improve workflows and deliver value to client teams. Act as a subject matter expert in data quality, BI tools, and business rules, ensuring consistent application of best practices across projects. Coordinate status meetings and working sessions, tracking tasks and deliverables across multiple stakeholders and projects. Proactively identify, escalate, and resolve project roadblocks and delivery issues. Report to the US-based Associate Director, communicating project status, progress, and risks. Build collaborative relationships with internal teams, clearly communicating roles, responsibilities, and expectations. \n\nSkills And Experience\n\n3–4 years of relevant professional experience is preferred. At least 2–3 years of experience in data governance processes within data warehousing, ETL, and business intelligence environments. Experience with the full development lifecycle of an application or reporting solution, from design through testing and deployment. Advanced knowledge of SQL, relational databases, and data warehouses, including technologies such as MySQL, PostgreSQL, Redshift, or Snowflake. Advanced proficiency in at least one programming language, such as Python. Knowledge of cloud platforms such as Microsoft Azure, Google Cloud Platform, or AWS. Knowledge of data engineering platforms such as Databricks. Familiarity with business intelligence tools such as Tableau or Power BI. Familiarity with project and product management tools such as Jira, Confluence, Smartsheet, or Azure DevOps/VSTS. Experience with advertising campaign management, media buying, measurement, and analytics platforms, such as Sizmek, Google Campaign Manager, Flashtalking, Moat, DoubleVerify, IAS, MediaOcean, Media Tools, Nielsen, Comscore, social advertising platforms, Google Ads, Bing, Kenshoo, SA360, DV360, Google Analytics, or Adobe Analytics. Understanding of processes across digital, search, social, and offline media, with experience handling diverse datasets, including paid and owned media data. Experience in media, digital investment, analytics, or ad operations is preferred. A bachelor’s or advanced degree in Statistics, Economics, Business, Mathematics, Computer Science, or another scientific discipline is preferred. Strong attention to detail and a commitment to data accuracy. Excellent verbal and written communication skills, with the ability to collaborate across functional teams. Strong organizational and prioritization skills, including the ability to manage multiple projects, competing deliverables, and deadlines. \n\nLife At WPP Media & Benefits\n\nOur passion for shaping the next era of media is powered by our commitment to Be Extraordinary, investing in our employees to inspire transformational creativity. We also Lead Optimistically, firmly believing in and Championing Growth and Development for every individual. This commitment allows WPP Media employees to leverage the extensive global WPP Media & WPP networks to pursue their passions, build vital professional connections, and learn at the cutting edge of marketing and advertising.\n\nWe Create an Open environment built on trust and respect, where everyone feels they belong and has opportunities to progress. This inclusive culture is fostered through a variety of employee resource groups and frequent in-office events showcasing team wins, sharing thought leadership, and celebrating holidays and milestone events. Our comprehensive benefits package reflects this commitment, including competitive medical, group retirement plans, vision, and dental insurance, significant paid time off, preferential partner discounts, and employee mental health awareness days.\n\nWPP Media is an equal opportunity employer and considers applicants for all positions without discrimination or regard to characteristics. We believe the best work happens when we're together, fostering creativity, collaboration, and connection in this open and supportive environment. That's why we’ve adopted a hybrid approach, with teams in the office around four days a week. If you require accommodations or flexibility, please discuss this with the hiring team during the interview process. Please note that while our philosophy is the same across WPP, benefits may vary by office/country.\n\nThis position is available in a Remote or Hybrid Work Modality and must be performed from any location within Mexico or Colombia. Only candidates residing in either country who are legally authorized to work there may apply. Remote work from outside Mexico or Colombia, including relocation abroad under a remote work contract, is not permitted under any circumstances.\n\nPlease read our Privacy Notice for more information on how we process the information you provide.\n\nWhile we appreciate all applications received, only those candidates selected for an interview will be contacted.\n\nPlease read our Privacy Notice for more information on how we process the information you provide.",
+      "apply_options": [
+        {
+          "title": "LinkedIn",
+          "link": "https://co.linkedin.com/jobs/view/senior-associate-data-analytics-business-intelligence-bi-goc-at-wpp-media-4472960268?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "BeBee",
+          "link": "https://bebee.com/co/jobs/senior-associate-data-analytics-business-intelligence-bi-goc-wpp-media-bogota--techmap_co_4472960268?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJTZW5pb3IgQXNzb2NpYXRlLCBEYXRhIEFuYWx5dGljcyBcdTAwMjYgQnVzaW5lc3MgSW50ZWxsaWdlbmNlIChCSSksIEdPQyIsImNvbXBhbnlfbmFtZSI6IldQUCBNZWRpYSIsImh0aWRvY2lkIjoiT3dya0xTb2ZXdG90T0RVT0FBQUFBQT09IiwidXVsZSI6IncrQ0FJUUlDSUlRMjlzYjIxaWFXRSIsImdsIjoiY28iLCJobCI6ImVzIiwiZmMiOiJFc3dCQ293QlFVcHBWRFIwUzBaUVQxUXlWVVJMYUZGU1pHcHdNek50VlZCRlkzaENSbVUxU21Kek9VbDJPVWxmTTBGR2VtWmZhR2hhYWpGdFYyaFlRbFZYVEdkRFYzWmhlWHB4U2kxVVJGOVFiQzA1YW5CSVRtMTBOWGQ2ZUZsdlNXRTFWbFJ1Y1ZKd2RUVTFkMU5GTTB4d1RHUklOelk0YUhZNWN6WlhiV3hHZG1KYVR6WTVNa0kzTUhkcVJIWjNiRzBTRjBkQlZFRmhkVXhoUm5FeWFtaDJZMUIxZG1aMmMwRTRHaUpCUkhOeU9XWlJiV2RoUTFadVZXSXRaMnBmWDBkVlUzaEJObXBYVWkxRFQzaFIiLCJmY3YiOiIzIiwiZmNfaWQiOiJPd3JrTFNvZld0b3RPRFVPQUFBQUFBPT0ifQ=="
+    },
+    {
+      "title": "Senior Data Analyst | Latam",
+      "company_name": "Cuesta Partners, LLC",
+      "location": "Colombia, Huila",
+      "via": "JobLeads",
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Data+Analyst&htidocid=AZx2ZHreJ7MqtgnxAAAAAA%3D%3D&hl=es-CO&shem=epsd1,esd2e,rimspwouoe&shndl=37&shmd=H4sIAAAAAAAA_xWMMQrCQBAAsc0TrLYTJOREsImVRNAiheADwl6yJCd3t-ftBSL4Gp9h68dMmoEpZrLPKivv5A1HOGNCOHm0L0nwhnpWV4L-feU5UofQEZALlhjIw4W5t7Q-DikFKZUSsUUvCZNpi5adYk-aJ_VgLQsaGTBSsJio2R92UxF8v91UI80J3DAmT1FyqOtqmVds2WmDOVxHY_EPq_XLa6UAAAA&shmds=v1_ARwrE22RinrIr3Uc9xX4MKDF0piU5YQ52l88PWedJPL9jswhhw&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Data+Analyst&htidocid=AZx2ZHreJ7MqtgnxAAAAAA%3D%3D",
+      "extensions": [
+        "hace 19 horas",
+        "De $60 M a $90 M por año",
+        "Tiempo completo"
+      ],
+      "source_link": "https://www.jobleads.com/co/job/senior-data-analyst-latam--colombia--ecd7fa2c744e111d1c5d466e33bb85403",
+      "job_title": "Senior Data Analyst | Latam",
+      "description": "Cuesta Partners is a technology strategy consulting firm supporting organizations of various sizes throughout their technology journey. We believe in the power of technology to create sustained, differentiated advantages for our clients. We are a unique, energetic firm that believes in challenging convention, moving quickly, and seeking ongoing personal growth.\nCuesta Partners is looking for a Senior Data Analyst with an interest in consulting, to work with our broad base of clients on various engagements, delivering data environments quickly using modern technologies and best practices. As a member of our data practice, you will have the unique opportunity to shape and build various green field areas, making a lasting impact on our clients’ data landscape. Collaborating closely with leadership, you will play a key role in ingesting data for strategic business domains that can benefit from analytical insights. Your mission will be to deliver end-to-end data solutions, leveraging your expertise to unlock valuable insights and drive actionable decisions. As the driving force behind the acquisition and transformation of data sets, your contribution will be key to unlocking analytics insights from our client’s data.\n\nYou will ensure the data pipelines are scalable and secure, and cater to the needs of multiple business units. Your expertise in developing and optimizing data pipelines will be instrumental in driving our data-driven initiatives forward. This role ensures that development follows standards, specifications, controls, audits, and procedures to ensure data integrity, quality, accuracy, usefulness, and timeliness. While the role is remote, occasional though infrequent travel to the United States may be required for some critical sessions.\n\nWhat We're Looking For6+ years of relevant experience as a Data Business Analyst with the ability to bridge technical analysis and business strategy.Strong technical foundation in SQL, Python, R, and statistical analysis, with hands-on experience working with complex datasets and translating data into meaningful insights.Exhibit exceptional analytical abilities to compile, structure, examine, and present substantial data sets with precision and thoroughness.Demonstrated ability to understand business objectives, identify opportunities, and use data to inform strategic decisions and drive measurable business outcomes.Demonstrate superior communication and presentation capabilities, adept at simplifying complex data insights for audiences without a technical background.Strong communication and presentation skills, with the ability to translate complex technical findings into clear, actionable recommendations for business and non-technical stakeholders.A bachelor's degree in Business Administration, Computer Science, Information Management, Statistics, or a comparable discipline is required, with prior experience in data analysis or a related field being advantageous.Technical writing experience in relevant areas, including queries, reports, and presentationsWhat You’ll DoTechnical ExpertiseEstablish close communication with team members to align best practices, exchange information effectively, and collaborate for continuous improvementQuickly triage and diagnose system or performance issues and support the business during critical downtimes and releasesAct as the technical expert, proposing solutions to roadblocks, outlining dependencies/constraints, and escalating problems as appropriateCollecting and organizing information from various sources.Cleaning and transforming data to ensure accuracy and consistency.Applying statistical analysis methods to identify trends and patterns.Developing models and visualizations to present insights clearly and concisely.Conducting exploratory data analysis to uncover relationships and correlations.Collaborating with stakeholders to understand business requirements and provide data-driven recommendations.Monitoring and evaluating quality to ensure reliability and integrity.Creating reports and dashboards to familiarize customers with the insight and results of the analysis.Development LeadershipEstablish consistent communication mechanisms with project delivery teamsSupport the business during critical downtimes and releasesFollow all IT auditing and systems access control processesSupport interfaces as necessary through troubleshooting, bug-fix, and escalationsMentor junior developers to improve team performance and empower othersEstablish relationships across the organization to build networks and leverage expertsWhy You’ll Love Working With UsComprehensive Health Plan: Prepaid health coverage for you and your immediate family.Team Engagement Activities: Fun and meaningful events to connect and grow together.Annual Performance Bonus: Recognition and reward for your hard work.Growth Opportunities: Career development and advancement within the company.Flexible Work: Hybrid model with mostly remote work and one day per week in the office for team connection.Paid Time Off & Holidays: Generous leave to recharge and spend time with loved ones.…and more! Additional perks and initiatives to make your experience at Cuesta Partners even better.",
+      "apply_options": [
+        {
+          "title": "JobLeads",
+          "link": "https://www.jobleads.com/co/job/senior-data-analyst-latam--colombia--ecd7fa2c744e111d1c5d466e33bb85403?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJTZW5pb3IgRGF0YSBBbmFseXN0IHwgTGF0YW0iLCJjb21wYW55X25hbWUiOiJDdWVzdGEgUGFydG5lcnMsIExMQyIsImh0aWRvY2lkIjoiQVp4MlpIcmVKN01xdGdueEFBQUFBQT09IiwidXVsZSI6IncrQ0FJUUlDSUlRMjlzYjIxaWFXRSIsImdsIjoiY28iLCJobCI6ImVzIiwiZmMiOiJFc3dCQ293QlFVcHBWRFIwU2tabldXSkdjVVpCY1ZGS1RIbFVTamRYUkhGbmVWWTFkalJxVkdFeU4zSlhXa3d0VlZRMGFHMXhUamRHYUMwMFFYbEhOVmxQYW5sVldGbGFWMnhaWjJKRlIwOUNjR2MxVWpsM1ZWcExlamhUVkVrdGJURjBkVWR0VFhSQlFVRjRiRFZDYkZSaVIyZHNkakF4Um1OV1NHaFRibmh5VldsWGQwWXhiMjFHTWxwMFJtWklkSEVTRjBkQlZFRmhkVXhoUm5FeWFtaDJZMUIxZG1aMmMwRTRHaUpCUkhOeU9XWlVRa1JWZUhGQ1ZGVmpOVFY2VEVocmIyUkhWM0puVldoS1gzaFIiLCJmY3YiOiIzIiwiZmNfaWQiOiJBWngyWkhyZUo3TXF0Z254QUFBQUFBPT0ifQ=="
+    },
+    {
+      "title": "E-commerce Data Analyst",
+      "company_name": "Alignerr",
+      "location": "Colombia",
+      "via": "BeBee",
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Data+Analyst&htidocid=uizccZxJ_vsr7vqHAAAAAA%3D%3D&hl=es-CO&shem=epsd1,esd2e,rimspwouoe&shndl=37&shmd=H4sIAAAAAAAA_xXMMQ7CMAwAQLF2ZmLyjESDkGCAqQLEMyqntdIiJw6xkcob-BErH4MuN171XlSH66aTGKl0BBc0hCYhv9SO4L8ffTypR-gJKGYmAUpwEwlMq9NglvXonCrXQQ1t7Or_5CSRl8ndxetMqwMWyoxG7W6_neqcwnrZ8BgSlTKHZ2GJfsQfpsKWT44AAAA&shmds=v1_ARwrE21XXXKid3NXlAajXf0aqE2JLtSPhXhXQUlgDnCgiV4ppg&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Data+Analyst&htidocid=uizccZxJ_vsr7vqHAAAAAA%3D%3D",
+      "thumbnail": "https://serpapi.com/searches/6ac00413d5fd74a5ce6a1feb/images/1jj-kMA48MuQlkOmBEvxczAWqpvEVOVFW-UAZV_o3xo.jpeg",
+      "extensions": [
+        "hace 2 días",
+        "Contratista"
+      ],
+      "source_link": "https://bebee.com/co/jobs/e-commerce-data-analyst-alignerr--fj-2391223126",
+      "job_title": "E-commerce Data Analyst",
+      "description": "E-commerce Data Analyst (AI Training)\n\n\nAbout The Role\nWhat if your eye for detail and familiarity with online shopping could directly improve the AI systems that millions of people use to discover and buy products every day?\nWe're looking for E-commerce Data Analysts to review, evaluate, and improve product data that powers AI-driven shopping and recommendation engines. This is a fully remote, flexible contract role open to anyone with a sharp eye for quality and a natural understanding of how online retail works. No formal e-commerce or retail background required.\n\n\nOrganization: AlignerrType: Hourly ContractLocation: RemoteCommitment: 10–40 hours/week\nWhat You'll Do\nReview product listings for accuracy, completeness, and correct categorizationEvaluate AI-generated product descriptions and recommendation outputs for qualityTag and classify products using structured category systems and defined guidelinesIdentify duplicate, misleading, or low-quality product entriesProvide clear, structured feedback that helps AI improve product search and discoveryWork independently and asynchronously on your own schedule\nWho You Are\nComfortable navigating online shopping platforms and familiar with product categoriesDetail-oriented with a systematic, consistent approach to classification tasksAt ease working with structured data and web-based toolsStrong written communication skills in EnglishSelf-motivated and reliable when working independentlyNo prior e-commerce, retail, or AI experience required\nNice to Have\nExperience in retail, merchandising, product management, or catalog managementBackground in data entry, quality assurance, or content moderationFamiliarity with AI tools or e-commerce platforms as an end user\nWhy Join Us\nWork on cutting-edge AI projects alongside leading research labsFully remote and flexible — work when and where it suits youFreelance autonomy with the structure of meaningful, task-based workContribute to AI development that shapes how people discover and shop for products worldwidePotential for ongoing work and contract extension as new projects launch",
+      "apply_options": [
+        {
+          "title": "BeBee",
+          "link": "https://bebee.com/co/jobs/e-commerce-data-analyst-alignerr--fj-2391223126?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Trabajo.org",
+          "link": "https://co.trabajo.org/oferta-4112-a5b9ab34591cdb8080b99e43a5b624a4?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJFLWNvbW1lcmNlIERhdGEgQW5hbHlzdCIsImNvbXBhbnlfbmFtZSI6IkFsaWduZXJyIiwiaHRpZG9jaWQiOiJ1aXpjY1p4Sl92c3I3dnFIQUFBQUFBPT0iLCJ1dWxlIjoidytDQUlRSUNJSVEyOXNiMjFpYVdFIiwiZ2wiOiJjbyIsImhsIjoiZXMiLCJmYyI6IkVzd0JDb3dCUVVwcFZEUjBURVJDVGxoMFduVnZhMlJoWlRCamVYaHBkbVY0Y1ZoaFFqRnhPVXc0YldWbE9HZDNiM1p6ZDJ0eFdVVkNNR1JqTjJacFZEQm9YMTk0WlV0UWRYazJOREpzVm5VMWVUbDFialZWUTFoZlFWRkpjRTh6TVROemRXOHlNbEJFZGxCd01tOXJVRXhHUzNOeVZGUm1aemhuYm0xRFVXdEhja0V6U2pOUVZXTmxWMkYzWldSSmFEQVNGMGRCVkVGaGRVeGhSbkV5YW1oMlkxQjFkbVoyYzBFNEdpSkJSSE55T1daU2FGSTVYMk5oY25veGFVOUxYMk5oZVZGRGVXRTJjMjloWkc1MyIsImZjdiI6IjMiLCJmY19pZCI6InVpemNjWnhKX3Zzcjd2cUhBQUFBQUE9PSJ9"
+    },
+    {
+      "title": "Analista Analítica de Cifras Siniestros ARL",
+      "company_name": "AXA COLPATRIA",
+      "location": "Bogotá",
+      "via": "BeBee",
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Data+Analyst&htidocid=vHrifVfsE9rQZvUCAAAAAA%3D%3D&hl=es-CO&shem=epsd1,esd2e,rimspwouoe&shndl=37&shmd=H4sIAAAAAAAA_x3MsQrCMBSFYVz7BOJ0Z4dGBJc6xQ4iFpTq4FbSek0jaW7sjdDXEVx9Ade-mK3L4R8OX_SeRHvplDUcFIzRf4KpFFwRUnNrFcPJOIMcWmKQeZZA2X_58cTr_4ONt0iADrZE2uJsXYfgORGC2cZ6QActrqgR5LCkTtyp5HEKrlWL3qqAxXK16GLv9HwqLxLSQ3aU53wnR3VDmkL_-gEwcE8-pwAAAA&shmds=v1_ARwrE21oi2MfrSNKg5C-EtMvN9mcP-EeQBU6Bw5Jx1-GheJU6w&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Data+Analyst&htidocid=vHrifVfsE9rQZvUCAAAAAA%3D%3D",
+      "thumbnail": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAADgAAAAdCAMAAADIOV-pAAAAwFBMVEX_____AAAAAJMAAIsAAI7i4u_s7PWjo8v_FR8AAIb_oqT_3t7y8vigoMzu7vX_8_P_ysv_5OT_6-sAAJn_DRn_ABD_wsP_T1P_mZtAQKH_lJbGxt-OjsOrq9Hb2-t-fruHh79zAGmeAE7_hIb_NTr_JCz_Wl4_AorXB0L_0tPlCzf_eHr_Y2bSCUVJA4j_jpCjCGWOB2__Q0hlAH7FAEwpKZoREZWdKXQQJJz_bG-0tNVbW6tKSqTQ0ORkZK9sbLMDZsEtAAAB2UlEQVQ4jeWTa5eaMBCGZwARMUFARCUB0iq7S7U322272Oj__1edAJ7jWVk_9Ou-cIC5PJnMAADvSMy9UnwdmcXx7A7IJ_ZFzoePF2-42SJiUlUPWfgGOHasix6f5p3PR9xmYV8uqofRK_CTZRlPXOEuamOxv_eoMHrRPXD--YvlmGzEaddj9jVN_V2Fi6T3DILzb9_nLXjA-rLfxSGlh-keE-9t8MfPuWXAKVatP0XP8xL0-zVu-yTQeX7-Zf3-Y7UgAa3_ZeEZ8tAa226BV6AjoWmaMRz7iph1FRMCe2CJ6S1o_xWaw1g3jdP1mOCD6bJe0jx33XRxqEc7EIULI6GZ3U81STB58dPQX3WvIfKGpsr12l6DEJMJrFvQ5Bktsy473mAywEGgHEtrwRxHULudLw37zFm9ok9vNYB13-qEZK62ffHW2f6wNZWrze1Y-oqja11HZlF07-_4fxUcJHA4mW1LIaQiA0qewxH4mQtpgrwYADkHcWYuF1A0REAhJICCUlO2gpxpsinnVseyYGvgeQlCAxUPcgJPXCu6K2jkCWShjrecEKAUGyuQDM4jURYlK4tAtUXpyJkE2i1lvZYLMArMyRitQicZ2nWNGVAwoLmTZdLej_4B0dMksUkoAw0AAAAASUVORK5CYII.png",
+      "extensions": [
+        "hace 3 días",
+        "Tiempo completo"
+      ],
+      "source_link": "https://bebee.com/co/jobs/analista-analitica-de-cifras-siniestros-arl-axa-colpatria-bogota--elempleo-1886774354",
+      "job_title": "Analista Analítica de Cifras Siniestros ARL",
+      "description": "En AXA COLPATRIA se requiere un profesional o estudiante universitario para el cargo de Analista de Datos, cuya función principal será la estructuración, preparación y análisis de datos de siniestros ARL. Este rol es fundamental para soportar el desarrollo de modelos estadísticos, optimizar los procesos de contratación y alimentar dashboards de seguimiento. El objetivo es mejorar la calidad, disponibilidad y trazabilidad de la información, facilitando la toma de decisiones estratégicas.\n\n\nRequerimientos:\nProfesional o estudiante universitario en carreras como Ingeniería, Economía, Administración de Empresas, Estadística o carreras afines.Experiencia mínima de 2 años en análisis de datos preferiblemente en el sector de seguros, riesgos laborales o salud.Manejo avanzado de Microsoft Excel y Power BI para la creación de informes y visualizaciones.Conocimiento en el manejo de bases de datos y experiencia deseable en SQL y Python para el análisis y manipulación de datos.Comprensión de modelos estadísticos aplicados al análisis de siniestros y riesgos.Capacidad para preparar y analizar datos provenientes de fuentes de contratación tarifas y fichas de negociación.Si cumples con los requisitos ¡Aplica ya!\n¡Múltiples beneficios te esperan!",
+      "apply_options": [
+        {
+          "title": "BeBee",
+          "link": "https://bebee.com/co/jobs/analista-analitica-de-cifras-siniestros-arl-axa-colpatria-bogota--elempleo-1886774354?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Kit Empleo",
+          "link": "https://www.kitempleo.com.co/empleo/91265598/analista-de-cifras-siniestros-arl-bogota?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJBbmFsaXN0YSBBbmFsw610aWNhIGRlIENpZnJhcyBTaW5pZXN0cm9zIEFSTCIsImNvbXBhbnlfbmFtZSI6IkFYQSBDT0xQQVRSSUEiLCJodGlkb2NpZCI6InZIcmlmVmZzRTlyUVp2VUNBQUFBQUE9PSIsInV1bGUiOiJ3K0NBSVFJQ0lJUTI5c2IyMWlhV0UiLCJnbCI6ImNvIiwiaGwiOiJlcyIsImZjIjoiRXN3QkNvd0JRVXBwVkRSMFMyaExTVlp1VEROWlFqbGFlbE56YTFaNVJESmlaVzVQUXpOUFdEQjNZa1JOVkROWFRFcGtkbVpsZGpBNFVEUmhObXA0VlVseFJHczFVa2gxY1hJeGNVaE1lbVp0UzBkU1NVZGxWR3N5WnpseFpXRjNiVTVtVmsxQ1RIUm1TRkJLU2twaWF6VlJibU5STUZaYVUwNUthbEI1ZGxoSWNIcEZVVmxMVDE5VVZHOXJXblkzUmtvU0YwZEJWRUZoZFV4aFJuRXlhbWgyWTFCMWRtWjJjMEU0R2lKQlJITnlPV1pTT0c1ZlJGQkJZbWxKUlUxeWNFWkRaSGhJTjFGbVVHNTRTVTVuIiwiZmN2IjoiMyIsImZjX2lkIjoidkhyaWZWZnNFOXJRWnZVQ0FBQUFBQT09In0="
+    },
+    {
+      "title": "Intelligence & Analytics Analyst",
+      "company_name": "Dentsu",
+      "location": "Medellín, Antioquia",
+      "via": "Indeed",
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Data+Analyst&htidocid=I0pzXd16z6q1a7-jAAAAAA%3D%3D&hl=es-CO&shem=epsd1,esd2e,rimspwouoe&shndl=37&shmd=H4sIAAAAAAAA_yWOMQrCQBBFsc0RLGQrC5FdEWxiIYIgFp4hbJJhszKZ2TgTiJfxBl7ANhczwebzm_ffz96L7HQjBcQYgCowa3Mmjy-NlfybaG7K8StdD7U3NRhoEwIbIHNlDgjLY6OaJHdOBG0Q9RNsK24dE5Q8uAeXMkchjX9CQq9Q7A-7wSYKm9UFSKWf5-5QTz_GD20ns0bu-uh_Q1_X-aEAAAA&shmds=v1_ARwrE237bT5kfWUwngk5VJzGOS1ebKjtsoWmME94WgmatZF8nA&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Data+Analyst&htidocid=I0pzXd16z6q1a7-jAAAAAA%3D%3D",
+      "thumbnail": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAADgAAAA4CAMAAACfWMssAAAAZlBMVEUDBAYAAAD___-NjY6pqanR0dGSkpLn5-cAAAQhISIVFRYNDw7U1NSlpaXGxsb5-flhYWFHR0iEhIROTk7z8_MaGxq-vr48PT1-fn4qKyvc3N2xsbGenp7t7e4kJSVsbW1WVlZ1dXUrob7rAAABLklEQVRIie2S3XKDIBCFPUciUYMoEn-iic37v2QXJ5mYNO30tlPOBTu7y7ewC0kSFRUV9V8E4BehN5zLSiT7-9Zg0WY1fi4gGXgeZc0L2RTc4GQ0q5fcgl8qoOy8JwvUZ3KXw1lN6h4prT-gqEhrMHNAa6stuYem7izLkVQHVgL4TnMnVp86dDxVZw1Fh1aC2wNr8XEmDKe-sVYAgwu92BkhkY24vAUd0xWUOwUJoJCvoJG-ZglZ9w2Y3cCpXpZlA85hIq06STUlPTYvYE_fNJYYqNuxnjZg1S5QWdvLAAy7y_AMJpjWKx5lDiIvz6CkRysFZbjYhWAlpwUdnsA9riq7uhKojUlHNOkHCjeIq9QVeTrJCjTTNLjl5Stg1c0-3vruPXK_-INRUVFRf1-f-AkOBRrTKPEAAAAASUVORK5CYII.png",
+      "extensions": [
+        "hace 3 días",
+        "Tiempo completo"
+      ],
+      "source_link": "https://co.indeed.com/viewjob?jk=a932d745dbca8191",
+      "job_title": "Intelligence & Analytics Analyst",
+      "description": "Job Description:\n\n\n ¡En dentsu estamos en búsqueda de un Intelligence & Analytics Analyst!\n\n\n Aplica para las ciudades de Medellín y Bogotá.\n\n\n \n\n\n \n\n    Propósito:\n\n\n Analizar información sobre el consumidor, el mercado y el entorno competitivo para identificar insights que apoyen la estrategia de medios y la toma de decisiones, a través de actividades como recopilar, organizar, analizar y sintetizar información relevante, con curiosidad, atención al detalle, pensamiento analítico.\n\n\n \n\n\n \n\n    Principales responsabilidades:\n\n\n \n  Analizar información sobre el consumidor, sus comportamientos, motivaciones, barreras y consumo de medios, contribuyendo a la construcción de perfiles de audiencia e identificación de hallazgos relevantes.\n  Monitorear y analizar tendencias de categoría, movimientos competitivos e inversión publicitaria a partir de fuentes sindicadas y secundarias, identificando señales relevantes del mercado y del comportamiento del consumidor.\n  Organizar y sintetizar información para elaborar análisis y narrativas claras que respondan a preguntas concretas de negocio, utilizando evidencia y datos relevantes.\n  Apoyar la interpretación de resultados de estudios ad-hoc, tanto cuantitativos como cualitativos, identificando principales hallazgos e insights y contribuyendo a su comunicación.\n  Utilizar y consultar herramientas de análisis de inversión publicitaria y fuentes sindicadas, como TGI y GWI, así como plataformas de social listening, para recopilar y analizar información relevante.\n  Apoyar en la elaboración de reportes y visualizaciones mediante herramientas como Power BI, Tableau o Looker Studio.\n \n \n\n\n \n\n   Perfil requerido:\n\n\n \n  Carrera: Profesional en Mercadeo, Publicidad, Psicología, Economía, Sociología o Administración de Empresas.\n  Experiencia: 1 - 2 años de experiencia en investigación de mercados, analytics, inteligencia de negocio, estrategia o áreas relacionadas.\n  Manejo intermedio de Excel.\n \n \n\n   #LI-AN1\n\n\n \n\n\n  Location:\n\n Medellín \n \n\n\n  Brand:\n\n Isobar \n \n\n\n  Time Type:\n\n Full time \n \n\n\n  Contract Type:\n\n Permanent",
+      "apply_options": [
+        {
+          "title": "Indeed",
+          "link": "https://co.indeed.com/viewjob?jk=a932d745dbca8191&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "LinkedIn",
+          "link": "https://co.linkedin.com/jobs/view/intelligence-analytics-analyst-at-dentsu-4471928075?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "BeBee",
+          "link": "https://bebee.com/co/jobs/intelligence-analytics-analyst-dentsu-medellin--fj-2388116889?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "JobLeads",
+          "link": "https://www.jobleads.com/co/job/intelligence-analytics-analyst--medellin--e9ead3ab2eeba6e658d065bd9d8f75ee7?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Trabajo.org",
+          "link": "https://co.trabajo.org/oferta-4041-ec33fe94085c6451490df5a12b8c68c5?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "FONABE",
+          "link": "https://jobs.fonabe.com/jobs/intelligence-analytics-analyst-92247323?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Recruit.net",
+          "link": "https://www.recruit.net/job/intelligence-analytics-analyst-jobs/D9715D12D86DF270?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJJbnRlbGxpZ2VuY2UgXHUwMDI2IEFuYWx5dGljcyBBbmFseXN0IiwiY29tcGFueV9uYW1lIjoiRGVudHN1IiwiaHRpZG9jaWQiOiJJMHB6WGQxNno2cTFhNy1qQUFBQUFBPT0iLCJ1dWxlIjoidytDQUlRSUNJSVEyOXNiMjFpYVdFIiwiZ2wiOiJjbyIsImhsIjoiZXMiLCJmYyI6IkVzd0JDb3dCUVVwcFZEUjBTM2xyVG1wQk1VMXlaMWhsWVRkaVF6bHpSRlJMTUZJM2QyOU9WSEJ0Y1VsaldHZGtjR1JJY2tjeGJEVnNheTFpV25WblFUbEVNVWd6YVVkc2JURTFhSE5TV2s4NUxXRkJTREJSVXpGbVFVaDZSamRTWDBoNlZYZFRRelp5UVVaSVozZGxjbk5hTUZoNWNXeDVUSFk1WXpWRFdsaFdkM2hsTW1waU5FRTROMGxyUzBsQlVsUVNGMGRCVkVGaGRVeGhSbkV5YW1oMlkxQjFkbVoyYzBFNEdpSkJSSE55T1daVFNHdzJkbEJzUlhKV2RIaHNiamhQUzFSRGExQTNUR3hXUm1KMyIsImZjdiI6IjMiLCJmY19pZCI6IkkwcHpYZDE2ejZxMWE3LWpBQUFBQUE9PSJ9"
+    },
+    {
+      "title": "Senior Data and Analytics Engineer ID90885",
+      "company_name": "AgileEngine, LLC.",
+      "location": "Caldas, Antioquia",
+      "via": "Jooble",
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Data+Analyst&htidocid=lZ1VtqWSFbQMpix0AAAAAA%3D%3D&hl=es-CO&shem=epsd1,esd2e,rimspwouoe&shndl=37&shmd=H4sIAAAAAAAA_yWOMQqDQBAASesTUm2VIohKQDBJJRqCYJcHyKrLeeG8VfcE86vUafOxKGmmnBnvvfOKB1nNE-ToENC2kFo0L6cbgZtV2hJNUOTnKEniC9Tfj4wztQgtAfWDIQaycGdWhvbXzrlBLmEoYgIlDldL0HAfsqWal_DJtWyopMOJBoOOqlMcLcFg1fGQKm3on_ShLLNgM2doWhR_nXKax1njDyo3KcKzAAAA&shmds=v1_ARwrE22zG3FKyeivybOzmsIC1zDIvZRDQoXs_kWxhA3VPgNMnw&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Data+Analyst&htidocid=lZ1VtqWSFbQMpix0AAAAAA%3D%3D",
+      "extensions": [
+        "hace 1 día",
+        "Tiempo completo"
+      ],
+      "source_link": "https://co.jooble.org/jdp/8556000227971670100",
+      "job_title": "Senior Data and Analytics Engineer ID90885",
+      "description": "Senior Data and Analytics Engineer ID90885 Full time | AgileEngine | Colombia \n\n Posted On 09/29/2026\n\n Job Information  City Manizales \n\n State/Province Caldas \n\n170001\n\n IT Services \n\n Job Description  AgileEngine is an Inc. 5000 company that creates award-winning software for Fortune 500 brands and trailblazing startups across 17+ industries. We rank among the leaders in areas like application development and AI/ML, and our people-first culture has earned us multiple Best Place to Work awards. \n\n WHY JOIN US  If you're looking for a place to grow, make an impact, and work with people who care, we'd love to meet you!\n\n ABOUT THE ROLE  We are looking for a Senior Data and Analytics Engineer to build data pipelines and analytical models that support business intelligence and strategic decision-making in the media and entertainment industry. \n\n WHAT YOU WILL DO  Deliver robust data features and pipelines directly within project teams, focusing on fast-paced, business-facing verticals like distribution. Accommodate rapid reprioritization in a process-light environment without being siloed in a fixed-scope pool.  Translate complex business use cases into robust data models using dbt and SQL. Tackle rigorous business logic, such as aggregating revenue and performance data from platforms like Tubi, Roku, YouTube, and Amazon channels, and joining it with internal contracts.  Build and maintain scalable pipelines utilizing a technical stack that includes Snowflake cloud warehouse, dbt Cloud, GitHub, VS Code, and local Python. Transition project documentation from tribal knowledge into dbt catalogs.  Leverage AI tools within the development workflow, including GitHub Copilot, Microsoft Copilot, Snowflake Cortex, and dbt wizard features. Collaborate with technical leadership to uplevel the adoption of these tools within specific governance setups.  Partner effectively with product managers, data visualization leads, and strategic analysts to evaluate requests and deliver consumption-ready data. Collaborate directly with technical leadership on technical decisions and quality standards.  MUST HAVES 4+ years of experience in data engineering or analytics engineering  within a production environment, in the media and entertainment industry.  Expert-level Python and SQL skills  . Extensive hands-on experience building transformation pipelines in  dbt Cloud  is strongly preferred.  Strong proficiency with modern cloud data platforms, specifically  Snowflake  , as well as development tools like  GitHub and VS Code  .  Proven ability to thrive in a process-light environment that operates more like a data science team than a highly tuned software engineering team.  Strong communication skills to effectively collaborate with non-technical stakeholders and product managers during bi-weekly or monthly sprint planning.  NICE TO HAVES  Hands-on experience with specific media data challenges, including title matching and metadata enrichment.  Familiarity with AI-driven development tools, such as Snowflake Cortex and GitHub Copilot, and an understanding of the governance and grants required to manage them.  PERKS AND BENEFITS  Professional growth  : Accelerate your professional journey with mentorship, TechTalks, and personalized growth roadmaps.  Competitive compensation  : We match your ever-growing skills, talent, and contributions with competitive USD-based compensation and budgets for education, fitness, and team activities.  A selection of exciting projects  : Join projects with modern solutions development and top-tier clients that include Fortune 500 enterprises and leading product brands.  Flextime  : Tailor your schedule for an optimal work-life balance, by having the options of working from home and going to the office - whatever makes you the happiest and most productive. #J-18808-Ljbffr",
+      "apply_options": [
+        {
+          "title": "Jooble",
+          "link": "https://co.jooble.org/jdp/8556000227971670100?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJTZW5pb3IgRGF0YSBhbmQgQW5hbHl0aWNzIEVuZ2luZWVyIElEOTA4ODUiLCJjb21wYW55X25hbWUiOiJBZ2lsZUVuZ2luZSwgTExDLiIsImh0aWRvY2lkIjoibFoxVnRxV1NGYlFNcGl4MEFBQUFBQT09IiwidXVsZSI6IncrQ0FJUUlDSUlRMjlzYjIxaWFXRSIsImdsIjoiY28iLCJobCI6ImVzIiwiZmMiOiJFc3dCQ293QlFVcHBWRFIwU3pkWVlrOXJNbUpmYXpKbk1WVjVUMlpEVG14RVdtZExia3hxVm1wd2RsY3ljamRRTkZKb1MwVmlNMWxPWlhwaWFuWk5TVXhWWTNBeVV6bG9VMVF0U1hCb2VVYzBlVzV5TFhBeWFFMXBNVmRYV0hsQ1FtRTVlVzVTYTJ4cGFuVnlZMWhQUmtwU2VHZEhWVVJhYTNKcFVUQnVVbVZYVVd4aVYwZEpOWEpqY0hOQ01VaFNlVm9TRjBkQlZFRmhkVXhoUm5FeWFtaDJZMUIxZG1aMmMwRTRHaUpCUkhOeU9XWlRlWFowTFc1bFlYVlJOVVV6TkdVNFdrUndhbVpsWkZwNk0yUkIiLCJmY3YiOiIzIiwiZmNfaWQiOiJsWjFWdHFXU0ZiUU1waXgwQUFBQUFBPT0ifQ=="
+    },
+    {
+      "title": "AI Solutions & Data Architecture Analyst",
+      "company_name": "Bayer",
+      "location": "Cundinamarca",
+      "via": "Careers At Bayer",
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Data+Analyst&htidocid=5wOj5wqlR-4GeMVoAAAAAA%3D%3D&hl=es-CO&shem=epsd1,esd2e,rimspwouoe&shndl=37&shmd=H4sIAAAAAAAA_xXMsQ6CMBAA0Liyuzjd5OBAjYkLTqgJcfYDyFEuUFN6tXdN4GP8EVd_zLC88RWfTdHUD3iyz-o4COzhjopQJzs6Jas5EdQB_SJaQff7yjtTj9AT0BQ9MVCAhnnwtLuMqlEqY0R8OYiiOltangwH6ng2L-5kpZURE0WPSu3pfJzLGIbD9ooLpXW75dC7gBMmi38lAprSoAAAAA&shmds=v1_ARwrE21AYAsJFHd4UM0gIH9RsbiY8Ab3FdR9DHP8RIJdhsg5cA&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Data+Analyst&htidocid=5wOj5wqlR-4GeMVoAAAAAA%3D%3D",
+      "thumbnail": "https://serpapi.com/searches/6ac00413d5fd74a5ce6a1feb/images/M23lsuEyW811pLcbboOW7Zg-NYWxvxvErP1JvA3m9oU.png",
+      "extensions": [
+        "hace 3 días",
+        "Tiempo completo"
+      ],
+      "source_link": "https://talent.bayer.com/careers/job/562949978612933-ai-solutions-data-architecture-analyst-bogota-cundinamarca-colombia?domain=bayer.com",
+      "job_title": "AI Solutions & Data Architecture Analyst",
+      "description": "|   \n---  \n  \nAI Solutions & Data Architecture Analyst\n\n|   \n|   \n|   \n  \nYOUR TASKS AND RESPONSIBILITIES\n\n  * Lead the execution of Bayer's AI and Data strategy by designing the enterprise data architecture and enabling scalable AI capabilities across the organization.\n  * Partner closely with the AI & Digital Head to translate business priorities into AI-enabled solutions by ensuring data readiness, technology integration, intelligent automation, AI agents and scalable digital products that generate measurable business value.\n  * Drive the end-to-end delivery of AI initiatives, from technical feasibility and architecture design to deployment, adoption and continuous optimization.\n  * Define and evolve enterprise data architecture.\n  * Ensure interoperability across business platforms and data sources.\n  * Lead enterprise data integration strategy.\n  * Define data standards, quality and governance.\n  * Lead AI use cases from concept to deployment.\n  * Translate business priorities into scalable AI solutions.\n  * Coordinate delivery with Business, IT and external partners.\n  * Ensure production-ready AI solutions.\n  * Design and implement AI Agents.\n  * Identify automation opportunities.\n  * Evaluate Agentic AI capabilities.\n  * Promote reusable AI services.\n  * Drive Microsoft AI ecosystem adoption.\n  * Lead AI integrations and APIs.\n  * Recommend scalable technology architecture.\n  * Execute the Enterprise AI Portfolio.\n  * Assess technical feasibility.\n  * Track implementation milestones.\n  * Support business value realization.\n  * Evaluate emerging AI technologies.\n  * Ensure Responsible AI, privacy and compliance.\n  * AI use cases deployed.\n  * Business value generated.\n  * Enterprise data readiness.\n  * AI adoption.\n  * Automation impact.\n  * Platform scalability.\n  * Reusable AI capabilities.\n\n\n\nWHO YOU ARE\n\n  * Bachelor’s degree in computer science, Systems Engineering, Software Engineering, Data Engineering or related field.\n  * Master’s or certification in Data Science, AI/ML or Cloud Architecture (e.g., Azure AI/Data Engineer) a plus.\n  * 3 - 5 years of experience in data architecture, AI/ML engineering or enterprise technology roles, ideally in pharma or regulated industries; hands-on experience designing and deploying production AI solutions.\n  * Advanced English proficiency.\n  * Data architecture & modeling · Cloud platforms (Azure preferred) · API design & integration · Systems architecture · Software engineering fundamentals.\n\n  * Machine learning fundamentals · Agentic AI design patterns · MLOps / LLMOps · Data governance & quality frameworks · Prompt engineering.\n\n  * Technical leadership · Cross-functional delivery · Vendor & partner management · Structured problem-solving\n\n\n\n\nWHAT WE OFFER YOU\n\n  * Hybrid Working Style.\n  * Competitive salary.\n  * Attractive benefits Package.\n  * Wide range of development opportunities.\n  * Good working conditions and comfortable working environment.\n\n\n\nAt Bayer, we believe in diversity, equity, and inclusion. We aim to create an environment in which everybody can feel authentic, respected, and equally valued. Every day we strive to reflect our values through our people's unique capabilities, self-experiences, and aspirations. We intentionally seek diversity, to enable our people to bring their fullest potential out and encourage others to likewise do so. Our company wins when we leverage our capabilities to lead the cultural transformation in our business, positively impacting society.\n\nCandidates who meet the requirements based on the job profile will be considered for employment regardless of physical disability, race, color, religion, sex, age, sexual orientation, or gender identity and will not be at a disadvantage if unemployed.  \n  \n---  \n  \n|   \n---|---  \nApplication Period:| 09/29/2026 - 10/12/2026| Reference Code:| 889784 |   \nDivision:| Pharmaceuticals | Location:| Colombia : Cundinamarca : Bogota |   \nFunctional Area:| Marketing | Work Time:| Full time|   \nEmployment Type:| Regular |  |  |   \n---  \nContact Us  \nAddress| E-Mail|   \nBogota, Colombia| \n\nHROP_TA_PACA@BAYER.COM\n\n| | |   \n---  \n| \n\n|",
+      "apply_options": [
+        {
+          "title": "Careers At Bayer",
+          "link": "https://talent.bayer.com/careers/job/562949978612933-ai-solutions-data-architecture-analyst-bogota-cundinamarca-colombia?domain=bayer.com&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "BeBee",
+          "link": "https://bebee.com/co/jobs/ai-solutions-data-architecture-analyst-bayer--fj-2389029810?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJBSSBTb2x1dGlvbnMgXHUwMDI2IERhdGEgQXJjaGl0ZWN0dXJlIEFuYWx5c3QiLCJjb21wYW55X25hbWUiOiJCYXllciIsImh0aWRvY2lkIjoiNXdPajV3cWxSLTRHZU1Wb0FBQUFBQT09IiwidXVsZSI6IncrQ0FJUUlDSUlRMjlzYjIxaWFXRSIsImdsIjoiY28iLCJobCI6ImVzIiwiZmMiOiJFc3dCQ293QlFVcHBWRFIwU3kxamJpMDNWSFpyY0daME1IVm1RbkpuYlMxYU9EaGhiWE5EVkRkTVZYSldVSGwxWkZsc2RHTjVVRGRVUnpCMlMzcE5TMnRzZFhZeGREQXlMVXRLWnpCcGNVVjVZMGRVTVcweFdEVmhhbmhDYjJadFh6Tk9kamxpZDNGTlZISjVkVGh0U2psU2QydzRabmxDU0RCdk9HZGpRbVYwWkZCSE0ybDBTazVaT0UxUFQwUkZVbmNTRjBkQlZFRmhkVXhoUm5FeWFtaDJZMUIxZG1aMmMwRTRHaUpCUkhOeU9XWlRTRzFmWkhVeE1sSlJUMXB6ZDNkWk9WRklaVTV0WTFWaVN6SlIiLCJmY3YiOiIzIiwiZmNfaWQiOiI1d09qNXdxbFItNEdlTVZvQUFBQUFBPT0ifQ=="
+    },
+    {
+      "title": "ANALYST I",
+      "company_name": "BBVA",
+      "location": "Antioquia",
+      "via": "Trabajo.org",
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Data+Analyst&htidocid=tSp6VirMJHHgsh6EAAAAAA%3D%3D&hl=es-CO&shem=epsd1,esd2e,rimspwouoe&shndl=37&shmd=H4sIAAAAAAAA_-Oq4tJw9HP0iQwOUfC0Ukg6vKu4sDQ1JVEhJVUhNbcgJzVfITVPwT0_Pz0nVco6o6SkoNhKX7-4OEcvvbgksSQzWS85P1c_Py81Kb9CPys_qRhExBdnJBalFuQklqTGG5kaVOgV5KVrCTo5hTmCDHPMK8nMLyzNTAQAjZrQS3wAAAA&shmds=v1_ARwrE20hLJodg4CqAXeFJUQDI7OYbeYOnXQdlyi9oSLjxrsdsA&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Data+Analyst&htidocid=tSp6VirMJHHgsh6EAAAAAA%3D%3D",
+      "thumbnail": "https://serpapi.com/searches/6ac00413d5fd74a5ce6a1feb/images/MqU1eIdb3koXnFDSMBXBe5o5ETr8EPWe9QT2zHE95wg.jpeg",
+      "extensions": [
+        "hace 3 días",
+        "Tiempo completo"
+      ],
+      "source_link": "https://co.trabajo.org/oferta-4111-b590ec52562b92f44ad9de2775c4819a",
+      "job_title": "ANALYST I",
+      "description": "¿Quieres desarrollar tu carrera profesional?\n\nBBVA es una empresa global con más de 160 años de historia que opera en más de 25 países en los que damos servicio a más de 80 millones de clientes. Somos más de 121.000 profesionales que trabajamos en equipos multidisciplinares y de perfiles tan diversos como financieros, expertos jurídicos, científicos de datos, desarrolladores, ingenieros o diseñadores.\n\nBBVA: Transformando sueños en oportunidades💙 ¿Listo(a) para crear juntos?\n\nFunción principal del cargo:\nAnalizar, evaluar y emitir concepto técnico sobre operaciones de crédito estructuradas, garantizando que las propuestas cumplan con las políticas de riesgo, apetito de crédito, normatividad vigente y lineamientos internos de la organización. El cargo es responsable de estructurar y sustentar las operaciones ante los diferentes Comités de Crédito para su aprobación, realizando una evaluación integral de la capacidad de pago, estructura financiera, garantías, riesgos asociados y viabilidad de cada operación, contribuyendo a una adecuada administración del riesgo crediticio y a la sostenibilidad del portafolio.\n\nFormación académica\nProfesional egresado(a) en Administración de Empresas, Economía, Contaduría Pública, Finanzas, Ingeniería Industrial o carreras afines. Deseable especialización en Finanzas, Riesgo Financiero, Gerencia Financiera, Banca o áreas relacionadas.\n\nExperiencia:\nMínimo 3 años de experiencia en análisis y admisión de crédito empresarial o corporativo, estructuración y evaluación de operaciones de crédito de mediana y alta complejidad, análisis financiero, evaluación de riesgos, estructuración de garantías y elaboración y sustentación de casos ante Comités de Crédito. Deseable experiencia en entidades del sector financiero.\n\nConocimientos técnicos / Herramientas\n\nAnálisis e interpretación de estados financieros.Modelos de evaluación de riesgo de crédito.Análisis de flujo de caja y capacidad de endeudamiento.Evaluación de garantías y estructuras de mitigación del riesgo.Normatividad financiera y regulación aplicable al crédito.Manejo de Excel avanzado.Manejo de herramientas de análisis financiero y sistemas de originación y administración de crédito.Conocimiento de metodologías de riesgo, indicadores financieros y modelos de calificación.Deseable conocimiento en Power BI o herramientas de analítica de datos.Habilidades y Competencias\n\nPensamiento analítico y crítico.Alta capacidad de análisis financiero y evaluación de riesgos.Toma de decisiones basada en evidencia.Capacidad de argumentación y sustentación técnica ante comités.Comunicación oral y escrita efectiva.Planeación y organización.Atención al detalle y orientación a la calidad.Negociación e influencia.Trabajo en equipo y relacionamiento con áreas comerciales y de riesgo.Ética profesional e integridad.Orientación a resultados.Capacidad para trabajar bajo presión y administrar múltiples operaciones simultáneamente.Descubre el futuro de la banca con BBVA Somos una entidad bancaria de primer nivel con un ambicioso proyecto empresarial que busca liderar los cambios a nivel mundial a través de la transformación digital. Con presencia en más de 30 países, nuestro negocio diversificado ofrece servicios financieros de vanguardia.\n\nEn BBVA, nuestro objetivo es derribar las barreras de la banca tradicional y poner al alcance de todos las oportunidades de esta nueva era. Nuestro propósito nos impulsa a reinventar la industria y hacer negocios de una manera innovadora y accesible.\n\nCon más de 50 años de trayectoria, en Colombia destacamos como una entidad ágil, moderna, innovadora y comprometida con el desarrollo económico y social del país. Únete a nuestro equipo en BBVA y sé parte de una compañía que vive y entiende la banca del futuro.\n\nExperimenta la revolución bancaria con BBVA",
+      "apply_options": [
+        {
+          "title": "Trabajo.org",
+          "link": "https://co.trabajo.org/oferta-4111-b590ec52562b92f44ad9de2775c4819a?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJBTkFMWVNUIEkiLCJjb21wYW55X25hbWUiOiJCQlZBIiwiaHRpZG9jaWQiOiJ0U3A2VmlyTUpISGdzaDZFQUFBQUFBPT0iLCJ1dWxlIjoidytDQUlRSUNJSVEyOXNiMjFpYVdFIiwiZ2wiOiJjbyIsImhsIjoiZXMiLCJmYyI6IkVzd0JDb3dCUVVwcFZEUjBURTV6Y0VkR01YWXpjVnBtVFVKMFVEZE1hVWxNTWtwM2RXUllhMVpIUkRKWVdESnJWRVJZUWtGbFJUUlBRMGc1Y25oSlpFNDFaVkpKUzJ4SmFYaDBTMUJoYzJ4V05tdGZNVFU0VjFCemNuaGZWamRaYmpneFZHMWpSbTFUYUc5Sk9EZEphMk5VTFdRNU1tSlFTelJwV0hsNlVHVTJha0Z5WjFSQ1lsTk1OM0JNZHpNMVgwOFNGMGRCVkVGaGRVeGhSbkV5YW1oMlkxQjFkbVoyYzBFNEdpSkJSSE55T1daVVpUbDZSR1V3VEhwWFlpMVZSamRNVUd0NVNVWnBMV0ppWDBwUiIsImZjdiI6IjMiLCJmY19pZCI6InRTcDZWaXJNSkhIZ3NoNkVBQUFBQUE9PSJ9"
+    },
+    {
+      "title": "Analista de Datos en Bogotá: Métricas y Visualización",
+      "company_name": "INTERACTIVE MEDIA S.A.S.",
+      "location": "Bogotá",
+      "via": "JobLeads",
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Data+Analyst&htidocid=vBoL0V_7XoCIoODqAAAAAA%3D%3D&hl=es-CO&shem=epsd1,esd2e,rimspwouoe&shndl=37&shmd=H4sIAAAAAAAA_02OrQ7CMBRGg90joG6CQ3SEBDNUgYVMDMEISNJ1N6Ok6x27XQK8DRKNA7kX40dhjvpOvhO8esFOOmUNewUFwkJ5YkAHMyrJd7cI0u7uG6MVwwW2htvP9qq06R4ugrx78qnF4qdiVVukr7skKi32pwfva47CkNmK8nPgjRaaqpAc5nQOj5TzF3s-qAZrqzzux5PRWdSuHA6S1SZey_km2caQxotEQiakyMRf3Bue__GZvgAAAA&shmds=v1_ARwrE210mF6NxvXvat7lcGXfZPCTQhzKFz4m8Ij5duSIe8AFrQ&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Data+Analyst&htidocid=vBoL0V_7XoCIoODqAAAAAA%3D%3D",
+      "extensions": [
+        "hace 2 días",
+        "De $33,5 M a $55,8 M por año",
+        "Tiempo completo"
+      ],
+      "source_link": "https://www.jobleads.com/co/job/analista-de-datos-en-bogota-metricas-y-visualizacion--bogota-ciudad--e70838a7507620bd980a11368d0eef807",
+      "job_title": "Analista de Datos en Bogotá: Métricas y Visualización",
+      "description": "INTERACTIVE MEDIA S.A.S. en Bogotá busca un DATA ANALYST con experiencia mínima de 6 meses para apoyar en la analítica de datos de diferentes áreas, diseñar reportes y presentar resultados clave.\n\nSe requiere manejo de Excel con tablas dinámicas y macros, integración de bases de datos relacionales y uso de métodos estadísticos para inferencias; se valorará la capacidad de diseñar test y visualizar resultados.",
+      "apply_options": [
+        {
+          "title": "JobLeads",
+          "link": "https://www.jobleads.com/co/job/analista-de-datos-en-bogota-metricas-y-visualizacion--bogota-ciudad--e70838a7507620bd980a11368d0eef807?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJBbmFsaXN0YSBkZSBEYXRvcyBlbiBCb2dvdMOhOiBNw6l0cmljYXMgeSBWaXN1YWxpemFjacOzbiIsImNvbXBhbnlfbmFtZSI6IklOVEVSQUNUSVZFIE1FRElBIFMuQS5TLiIsImh0aWRvY2lkIjoidkJvTDBWXzdYb0NJb09EcUFBQUFBQT09IiwidXVsZSI6IncrQ0FJUUlDSUlRMjlzYjIxaWFXRSIsImdsIjoiY28iLCJobCI6ImVzIiwiZmMiOiJFc3dCQ293QlFVcHBWRFIwVEZsemJETnRVMlo1ZG5ObE5sVkJjVjl2Tm5scVNtdENWelpEYlVGdmVXOTFObXh0YVRZMldFUnJlbkptZVhodldGaFBTR0pGU1VGUFJ5MW1kbHBxUVdkcVJ6YzJhRUZpYVVSTVMwUkRSekp0VG5rMmJrODRjRGRqWVdSSGNWSXdjWEZsVEVOR1FubzVjRVF4V1RndGRGVmZVSGxRT1ZGdE4zWTVaVXN6ZUZjNGF6UjFkbGtTRjBkQlZFRmhkVXhoUm5FeWFtaDJZMUIxZG1aMmMwRTRHaUpCUkhOeU9XWlJlVkJQV1VOc2FFTk9NVk5ET1cxS1lrY3hVRmcxWmtodmRYRlIiLCJmY3YiOiIzIiwiZmNfaWQiOiJ2Qm9MMFZfN1hvQ0lvT0RxQUFBQUFBPT0ifQ=="
+    }
+  ],
+  "serpapi_pagination": {
+    "next_page_token": "eyJmYyI6IkVvd0RDc3dDUVVwcFZEUjBTVzl5ZWtSMlkxZEhaRFJCVVVJeVMxZzVXbGhuV0RobVpHMXhVMWRpT1Y5SGJHZGFUMHAzVVhWcFdVMW5XbXBMU1ZZd1NXaFhhWGN3TVVoSlExOXFiVWR5VG5SdFZtdHRTME5UU0hSWGNGZzFjbk0wTkc5Nk1HZHFVMEYzVWtaUllrRnZiMFp3WVVocWN6ZFNObGxsTm1OSmFYSkhPVGhpWlhGelQzTm9ZalJGTkhSR2N6aG5ZVEY1WVhwSllrcDJNMEpDUlhGZmRsQXpSbXg1YjBwb2R6ZERkMVpHWDI0eE1YTndRVWxTWjBwUlprRXhjWGcyUjFsd1JVNXlYMDFzU0VWWWFEY3hTVE5CVWtsbGEwRmlXa2R6V1doR1dFVmhOMTg0U1dFd01WUTNkakpsWWpoV1ltbDROMFV5VkRSNFFtTTRPRWhuV0RodlJHNUdZemxCZFZSdWFtNWlkblpCV2s1Zk5sZFBia3R3UzBGVGVUaHRXUzFFUTNock4xcExaVkJDVFRoME1VbFhhR3hTVjBreGVtdGtMVVV3ZFRoeWIwMVRVR0l5UkhscUxWbDRNSEFTRjBkQlZFRmhkVXhoUm5FeWFtaDJZMUIxZG1aMmMwRTRHaUpCUkhOeU9XWlNVelYwVkZoS1NUVm9OakpxWDFWR2N6bE5NakZzVDFBNFNWUm4iLCJmY3YiOiIzIn0=",
+    "next": "https://serpapi.com/search.json?chips=date_posted%3A3days&engine=google_jobs&gl=co&google_domain=google.com&hl=es&location=Colombia&next_page_token=eyJmYyI6IkVvd0RDc3dDUVVwcFZEUjBTVzl5ZWtSMlkxZEhaRFJCVVVJeVMxZzVXbGhuV0RobVpHMXhVMWRpT1Y5SGJHZGFUMHAzVVhWcFdVMW5XbXBMU1ZZd1NXaFhhWGN3TVVoSlExOXFiVWR5VG5SdFZtdHRTME5UU0hSWGNGZzFjbk0wTkc5Nk1HZHFVMEYzVWtaUllrRnZiMFp3WVVocWN6ZFNObGxsTm1OSmFYSkhPVGhpWlhGelQzTm9ZalJGTkhSR2N6aG5ZVEY1WVhwSllrcDJNMEpDUlhGZmRsQXpSbXg1YjBwb2R6ZERkMVpHWDI0eE1YTndRVWxTWjBwUlprRXhjWGcyUjFsd1JVNXlYMDFzU0VWWWFEY3hTVE5CVWtsbGEwRmlXa2R6V1doR1dFVmhOMTg0U1dFd01WUTNkakpsWWpoV1ltbDROMFV5VkRSNFFtTTRPRWhuV0RodlJHNUdZemxCZFZSdWFtNWlkblpCV2s1Zk5sZFBia3R3UzBGVGVUaHRXUzFFUTNock4xcExaVkJDVFRoME1VbFhhR3hTVjBreGVtdGtMVVV3ZFRoeWIwMVRVR0l5UkhscUxWbDRNSEFTRjBkQlZFRmhkVXhoUm5FeWFtaDJZMUIxZG1aMmMwRTRHaUpCUkhOeU9XWlNVelYwVkZoS1NUVm9OakpxWDFWR2N6bE5NakZzVDFBNFNWUm4iLCJmY3YiOiIzIn0%3D&q=Data+Analyst"
+  },
+  "_pipeline_metadata": {
+    "ingestion_timestamp_utc": "2026-10-02T19:20:58.674375+00:00",
+    "search_group": "bi_analytics",
+    "target_market": "Colombia",
+    "target_location": "Colombia",
+    "date_filter_applied": "3days",
+    "new_records_count": 10,
+    "provider": "serpapi"
+  }
+}

@@ -1,0 +1,480 @@
+{
+  "search_metadata": {
+    "id": "6ac0040dee028a9bf0ebdc89",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/SLPGpuhrXP5fukP4j7859BjnKX2yiG9a0Cnr2rBh_tw/6ac0040dee028a9bf0ebdc89.json",
+    "markdown_endpoint": "https://serpapi.com/searches/SLPGpuhrXP5fukP4j7859BjnKX2yiG9a0Cnr2rBh_tw/6ac0040dee028a9bf0ebdc89.md",
+    "created_at": "2026-10-02 19:20:45 UTC",
+    "processed_at": "2026-10-02 19:20:45 UTC",
+    "google_jobs_url": "https://www.google.com/search?q=Data+Analyst&uule=w+CAIQICIFQ2hpbGU&hl=es&gl=cl&chips=date_posted:3days&udm=8",
+    "raw_html_file": "https://serpapi.com/searches/SLPGpuhrXP5fukP4j7859BjnKX2yiG9a0Cnr2rBh_tw/6ac0040dee028a9bf0ebdc89.html",
+    "total_time_taken": 3.82
+  },
+  "search_parameters": {
+    "q": "Data Analyst",
+    "engine": "google_jobs",
+    "location_requested": "Chile",
+    "location_used": "Chile",
+    "google_domain": "google.com",
+    "hl": "es",
+    "gl": "cl",
+    "chips": "date_posted:3days"
+  },
+  "filters": [
+    {
+      "name": "Tipo de trabajo",
+      "options": [
+        {
+          "name": "Tiempo completo",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4rj-wr9e0nFxf2HrH1Zx9c14B5O5qsmJ5X406s2JvBZpzycnbcsh8Epx4cEMVBZtn_buylKZp5gFv8E8L-Akf70heuqDGwUbNPPjvoIOTSpBaMnG_xoVmIKWt8C7z38D3xwdfQI32oC-PxwTzBFIvGf7IWjy21Z-mSh4nqVP8YREAxMbw_thyaJ-TaSqgt3CuM4ZwgfxHavUuL7ibnmsBYSl255y_Rzv-1YvDiMN3gTjhlBacAO6AjAmM-h8C-o6coA7t7onzykbTyb2FOcLiIyGsJncHDHxVO2CPvlCCrlStcdc0a-nJtmeMTIEtP5v92aOS4uOG1P1CxreYpYifFmOIOGpsHd6OcscuNunjJTalzp4pN",
+            "q": "Data Analyst tiempo completo"
+          },
+          "link": "https://www.google.com/search?sca_esv=4d65981f01013b52&hl=es&gl=cl&sxsrf=APpeQnvBTUzc4m4vSSNc2fS1q2ZT0kOWbA:1790968848328&q=Data+Analyst+tiempo+completo&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rj-wr9e0nFxf2HrH1Zx9c14B5O5qsmJ5X406s2JvBZpzycnbcsh8Epx4cEMVBZtn_buylKZp5gFv8E8L-Akf70heuqDGwUbNPPjvoIOTSpBaMnG_xoVmIKWt8C7z38D3xwdfQI32oC-PxwTzBFIvGf7IWjy21Z-mSh4nqVP8YREAxMbw_thyaJ-TaSqgt3CuM4ZwgfxHavUuL7ibnmsBYSl255y_Rzv-1YvDiMN3gTjhlBacAO6AjAmM-h8C-o6coA7t7onzykbTyb2FOcLiIyGsJncHDHxVO2CPvlCCrlStcdc0a-nJtmeMTIEtP5v92aOS4uOG1P1CxreYpYifFmOIOGpsHd6OcscuNunjJTalzp4pN&chips=date_posted:3days&udm=8&sa=X&ved=2ahUKEwidiYjwhpyXAxWwzDgGHVmfJFMQkbEKegQIGhAC",
+          "serpapi_link": "https://serpapi.com/search.json?chips=date_posted%3A3days&engine=google_jobs&gl=cl&google_domain=google.com&hl=es&location=Chile&q=Data+Analyst+tiempo+completo&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rj-wr9e0nFxf2HrH1Zx9c14B5O5qsmJ5X406s2JvBZpzycnbcsh8Epx4cEMVBZtn_buylKZp5gFv8E8L-Akf70heuqDGwUbNPPjvoIOTSpBaMnG_xoVmIKWt8C7z38D3xwdfQI32oC-PxwTzBFIvGf7IWjy21Z-mSh4nqVP8YREAxMbw_thyaJ-TaSqgt3CuM4ZwgfxHavUuL7ibnmsBYSl255y_Rzv-1YvDiMN3gTjhlBacAO6AjAmM-h8C-o6coA7t7onzykbTyb2FOcLiIyGsJncHDHxVO2CPvlCCrlStcdc0a-nJtmeMTIEtP5v92aOS4uOG1P1CxreYpYifFmOIOGpsHd6OcscuNunjJTalzp4pN"
+        },
+        {
+          "name": "Tiempo parcial",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4rZiksa3HhVKCT6wb_m0_DlNZx_ca-LFYP__9O6dDiFzSRBhYNkcpoepZF7xBiCIavioCeTboF2zAdsIesAP410U6hymwXeHXg_BXHp2hBXLgaAhC_FKTJWfE2jeIXfnEISu7pI2UpiJ6FVJva1FjZrMs3bPcnunZLQvaLZFwtXdidebFLoxTVihNOCfXajKQqneyOu208aDO1Ygb-NPNIM_E_TBMbJa3yPmn5L30Q8eaHJvbyjhuoK03WWe5st-5NzSCfA4w1Ds8s9nKGBqz2znfuk2vMQZ4kOHUf29q66_SigipUwCE9dOjvyQ7XB1yTnVlSnO2tzTmYlydlaPtpwTE_Cw3qbgwywMzzUaBfzqX_iuaAEk-wde92_5aYDlW_ZHHtNw",
+            "q": "Data Analyst tiempo parcial"
+          },
+          "link": "https://www.google.com/search?sca_esv=4d65981f01013b52&hl=es&gl=cl&sxsrf=APpeQnvBTUzc4m4vSSNc2fS1q2ZT0kOWbA:1790968848328&q=Data+Analyst+tiempo+parcial&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rZiksa3HhVKCT6wb_m0_DlNZx_ca-LFYP__9O6dDiFzSRBhYNkcpoepZF7xBiCIavioCeTboF2zAdsIesAP410U6hymwXeHXg_BXHp2hBXLgaAhC_FKTJWfE2jeIXfnEISu7pI2UpiJ6FVJva1FjZrMs3bPcnunZLQvaLZFwtXdidebFLoxTVihNOCfXajKQqneyOu208aDO1Ygb-NPNIM_E_TBMbJa3yPmn5L30Q8eaHJvbyjhuoK03WWe5st-5NzSCfA4w1Ds8s9nKGBqz2znfuk2vMQZ4kOHUf29q66_SigipUwCE9dOjvyQ7XB1yTnVlSnO2tzTmYlydlaPtpwTE_Cw3qbgwywMzzUaBfzqX_iuaAEk-wde92_5aYDlW_ZHHtNw&chips=date_posted:3days&udm=8&sa=X&ved=2ahUKEwidiYjwhpyXAxWwzDgGHVmfJFMQkbEKegQIGhAD",
+          "serpapi_link": "https://serpapi.com/search.json?chips=date_posted%3A3days&engine=google_jobs&gl=cl&google_domain=google.com&hl=es&location=Chile&q=Data+Analyst+tiempo+parcial&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rZiksa3HhVKCT6wb_m0_DlNZx_ca-LFYP__9O6dDiFzSRBhYNkcpoepZF7xBiCIavioCeTboF2zAdsIesAP410U6hymwXeHXg_BXHp2hBXLgaAhC_FKTJWfE2jeIXfnEISu7pI2UpiJ6FVJva1FjZrMs3bPcnunZLQvaLZFwtXdidebFLoxTVihNOCfXajKQqneyOu208aDO1Ygb-NPNIM_E_TBMbJa3yPmn5L30Q8eaHJvbyjhuoK03WWe5st-5NzSCfA4w1Ds8s9nKGBqz2znfuk2vMQZ4kOHUf29q66_SigipUwCE9dOjvyQ7XB1yTnVlSnO2tzTmYlydlaPtpwTE_Cw3qbgwywMzzUaBfzqX_iuaAEk-wde92_5aYDlW_ZHHtNw"
+        },
+        {
+          "name": "Con contrato",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4r2YIQD5S0wiJLM8D3QoSGRXVQ5MzMH4YxJ5T3ygEiTaqvvRwVXIuGdHhnBqeOlA43CadYE3CV0p04icFcvwoMqOWSLbX9jNX2NC9FqThYPFMAa62H7LobgUPRcQsJ6gBFO-u1Gvw0tZNXiWsl7BrARr18cfNamJEdygvQU_diABYmwlwXcE-GB0MFVGTGMtevqJP8sg0R9Ol2flOG0ZFG2XccC0so7Ce779yJBwn7yYsbP8ELyQVJDyu3XdWZ_7bi8tsxFcl_KdLxSnGYQwZZiAYNj0VJGElBDd-NLsHaXZEDooRFdqiL103nGxHpz05uWCHsxKgkir-LnOzj1B_Y8bnOTy3XoCJXg6Zbo6v6ufe0_uTQzdilreNjB67QiJpmt3tQ9w",
+            "q": "Data Analyst con contrato"
+          },
+          "link": "https://www.google.com/search?sca_esv=4d65981f01013b52&hl=es&gl=cl&sxsrf=APpeQnvBTUzc4m4vSSNc2fS1q2ZT0kOWbA:1790968848328&q=Data+Analyst+con+contrato&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4r2YIQD5S0wiJLM8D3QoSGRXVQ5MzMH4YxJ5T3ygEiTaqvvRwVXIuGdHhnBqeOlA43CadYE3CV0p04icFcvwoMqOWSLbX9jNX2NC9FqThYPFMAa62H7LobgUPRcQsJ6gBFO-u1Gvw0tZNXiWsl7BrARr18cfNamJEdygvQU_diABYmwlwXcE-GB0MFVGTGMtevqJP8sg0R9Ol2flOG0ZFG2XccC0so7Ce779yJBwn7yYsbP8ELyQVJDyu3XdWZ_7bi8tsxFcl_KdLxSnGYQwZZiAYNj0VJGElBDd-NLsHaXZEDooRFdqiL103nGxHpz05uWCHsxKgkir-LnOzj1B_Y8bnOTy3XoCJXg6Zbo6v6ufe0_uTQzdilreNjB67QiJpmt3tQ9w&chips=date_posted:3days&udm=8&sa=X&ved=2ahUKEwidiYjwhpyXAxWwzDgGHVmfJFMQkbEKegQIGhAE",
+          "serpapi_link": "https://serpapi.com/search.json?chips=date_posted%3A3days&engine=google_jobs&gl=cl&google_domain=google.com&hl=es&location=Chile&q=Data+Analyst+con+contrato&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4r2YIQD5S0wiJLM8D3QoSGRXVQ5MzMH4YxJ5T3ygEiTaqvvRwVXIuGdHhnBqeOlA43CadYE3CV0p04icFcvwoMqOWSLbX9jNX2NC9FqThYPFMAa62H7LobgUPRcQsJ6gBFO-u1Gvw0tZNXiWsl7BrARr18cfNamJEdygvQU_diABYmwlwXcE-GB0MFVGTGMtevqJP8sg0R9Ol2flOG0ZFG2XccC0so7Ce779yJBwn7yYsbP8ELyQVJDyu3XdWZ_7bi8tsxFcl_KdLxSnGYQwZZiAYNj0VJGElBDd-NLsHaXZEDooRFdqiL103nGxHpz05uWCHsxKgkir-LnOzj1B_Y8bnOTy3XoCJXg6Zbo6v6ufe0_uTQzdilreNjB67QiJpmt3tQ9w"
+        },
+        {
+          "name": "Prácticas",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4rzL30x91-518r7vIP4EVEkDyO4-BwuSlxDNsem-nor9aGKaNad-9SS5VuF8jI8jl1w32J0INkKaSmERid5zM2vaK_OrPIXNm9HRN01JlEYfcE2JZRqv6za7SQLqTT0Ezudb0BWGvgClj6DJBvfxoY7BCm6ixaLF272SOFwZQvYtx3BdQAwQllVj0rJkriUz3Y0rtSzQvpktNK_0MRrfxZoq3Hqxvz-3c2StHlWUpkAi1K_xHRAlLV50HhbPTrOUq8tJlp2hgCo1wNLlstTfzn461swbbcnNXMvdfJgZDv-g1WpcrBHny3YBuLd2cgnRVDUj2Aj5dvxjyRS_vAou9A_zho2slHZa4z9QHypO3qV1kRv1aU",
+            "q": "Data Analyst prácticas"
+          },
+          "link": "https://www.google.com/search?sca_esv=4d65981f01013b52&hl=es&gl=cl&sxsrf=APpeQnvBTUzc4m4vSSNc2fS1q2ZT0kOWbA:1790968848328&q=Data+Analyst+pr%C3%A1cticas&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rzL30x91-518r7vIP4EVEkDyO4-BwuSlxDNsem-nor9aGKaNad-9SS5VuF8jI8jl1w32J0INkKaSmERid5zM2vaK_OrPIXNm9HRN01JlEYfcE2JZRqv6za7SQLqTT0Ezudb0BWGvgClj6DJBvfxoY7BCm6ixaLF272SOFwZQvYtx3BdQAwQllVj0rJkriUz3Y0rtSzQvpktNK_0MRrfxZoq3Hqxvz-3c2StHlWUpkAi1K_xHRAlLV50HhbPTrOUq8tJlp2hgCo1wNLlstTfzn461swbbcnNXMvdfJgZDv-g1WpcrBHny3YBuLd2cgnRVDUj2Aj5dvxjyRS_vAou9A_zho2slHZa4z9QHypO3qV1kRv1aU&chips=date_posted:3days&udm=8&sa=X&ved=2ahUKEwidiYjwhpyXAxWwzDgGHVmfJFMQkbEKegQIGhAF",
+          "serpapi_link": "https://serpapi.com/search.json?chips=date_posted%3A3days&engine=google_jobs&gl=cl&google_domain=google.com&hl=es&location=Chile&q=Data+Analyst+pr%C3%A1cticas&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rzL30x91-518r7vIP4EVEkDyO4-BwuSlxDNsem-nor9aGKaNad-9SS5VuF8jI8jl1w32J0INkKaSmERid5zM2vaK_OrPIXNm9HRN01JlEYfcE2JZRqv6za7SQLqTT0Ezudb0BWGvgClj6DJBvfxoY7BCm6ixaLF272SOFwZQvYtx3BdQAwQllVj0rJkriUz3Y0rtSzQvpktNK_0MRrfxZoq3Hqxvz-3c2StHlWUpkAi1K_xHRAlLV50HhbPTrOUq8tJlp2hgCo1wNLlstTfzn461swbbcnNXMvdfJgZDv-g1WpcrBHny3YBuLd2cgnRVDUj2Aj5dvxjyRS_vAou9A_zho2slHZa4z9QHypO3qV1kRv1aU"
+        }
+      ]
+    },
+    {
+      "name": "Tipo de trabajo",
+      "options": [
+        {
+          "name": "Tiempo completo",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4rj-wr9e0nFxf2HrH1Zx9c14B5O5qsmJ5X406s2JvBZpzycnbcsh8Epx4cEMVBZtn_buylKZp5gFv8E8L-Akf70heuqDGwUbNPPjvoIOTSpBaMnG_xoVmIKWt8C7z38D3xwdfQI32oC-PxwTzBFIvGf7IWjy21Z-mSh4nqVP8YREAxMbw_thyaJ-TaSqgt3CuM4ZwgfxHavUuL7ibnmsBYSl255y_Rzv-1YvDiMN3gTjhlBacAO6AjAmM-h8C-o6coA7t7onzykbTyb2FOcLiIyGsJncHDHxVO2CPvlCCrlStcdc0a-nJtmeMTIEtP5v92aOS4uOG1P1CxreYpYifFmOIOGpsHd6OcscuNunjJTalzp4pN",
+            "q": "Data Analyst tiempo completo"
+          },
+          "link": "https://www.google.com/search?sca_esv=4d65981f01013b52&hl=es&gl=cl&sxsrf=APpeQnvBTUzc4m4vSSNc2fS1q2ZT0kOWbA:1790968848328&q=Data+Analyst+tiempo+completo&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rj-wr9e0nFxf2HrH1Zx9c14B5O5qsmJ5X406s2JvBZpzycnbcsh8Epx4cEMVBZtn_buylKZp5gFv8E8L-Akf70heuqDGwUbNPPjvoIOTSpBaMnG_xoVmIKWt8C7z38D3xwdfQI32oC-PxwTzBFIvGf7IWjy21Z-mSh4nqVP8YREAxMbw_thyaJ-TaSqgt3CuM4ZwgfxHavUuL7ibnmsBYSl255y_Rzv-1YvDiMN3gTjhlBacAO6AjAmM-h8C-o6coA7t7onzykbTyb2FOcLiIyGsJncHDHxVO2CPvlCCrlStcdc0a-nJtmeMTIEtP5v92aOS4uOG1P1CxreYpYifFmOIOGpsHd6OcscuNunjJTalzp4pN&chips=date_posted:3days&udm=8&sa=X&ved=2ahUKEwidiYjwhpyXAxWwzDgGHVmfJFMQkbEKegQIGhAC",
+          "serpapi_link": "https://serpapi.com/search.json?chips=date_posted%3A3days&engine=google_jobs&gl=cl&google_domain=google.com&hl=es&location=Chile&q=Data+Analyst+tiempo+completo&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rj-wr9e0nFxf2HrH1Zx9c14B5O5qsmJ5X406s2JvBZpzycnbcsh8Epx4cEMVBZtn_buylKZp5gFv8E8L-Akf70heuqDGwUbNPPjvoIOTSpBaMnG_xoVmIKWt8C7z38D3xwdfQI32oC-PxwTzBFIvGf7IWjy21Z-mSh4nqVP8YREAxMbw_thyaJ-TaSqgt3CuM4ZwgfxHavUuL7ibnmsBYSl255y_Rzv-1YvDiMN3gTjhlBacAO6AjAmM-h8C-o6coA7t7onzykbTyb2FOcLiIyGsJncHDHxVO2CPvlCCrlStcdc0a-nJtmeMTIEtP5v92aOS4uOG1P1CxreYpYifFmOIOGpsHd6OcscuNunjJTalzp4pN"
+        },
+        {
+          "name": "Tiempo parcial",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4rZiksa3HhVKCT6wb_m0_DlNZx_ca-LFYP__9O6dDiFzSRBhYNkcpoepZF7xBiCIavioCeTboF2zAdsIesAP410U6hymwXeHXg_BXHp2hBXLgaAhC_FKTJWfE2jeIXfnEISu7pI2UpiJ6FVJva1FjZrMs3bPcnunZLQvaLZFwtXdidebFLoxTVihNOCfXajKQqneyOu208aDO1Ygb-NPNIM_E_TBMbJa3yPmn5L30Q8eaHJvbyjhuoK03WWe5st-5NzSCfA4w1Ds8s9nKGBqz2znfuk2vMQZ4kOHUf29q66_SigipUwCE9dOjvyQ7XB1yTnVlSnO2tzTmYlydlaPtpwTE_Cw3qbgwywMzzUaBfzqX_iuaAEk-wde92_5aYDlW_ZHHtNw",
+            "q": "Data Analyst tiempo parcial"
+          },
+          "link": "https://www.google.com/search?sca_esv=4d65981f01013b52&hl=es&gl=cl&sxsrf=APpeQnvBTUzc4m4vSSNc2fS1q2ZT0kOWbA:1790968848328&q=Data+Analyst+tiempo+parcial&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rZiksa3HhVKCT6wb_m0_DlNZx_ca-LFYP__9O6dDiFzSRBhYNkcpoepZF7xBiCIavioCeTboF2zAdsIesAP410U6hymwXeHXg_BXHp2hBXLgaAhC_FKTJWfE2jeIXfnEISu7pI2UpiJ6FVJva1FjZrMs3bPcnunZLQvaLZFwtXdidebFLoxTVihNOCfXajKQqneyOu208aDO1Ygb-NPNIM_E_TBMbJa3yPmn5L30Q8eaHJvbyjhuoK03WWe5st-5NzSCfA4w1Ds8s9nKGBqz2znfuk2vMQZ4kOHUf29q66_SigipUwCE9dOjvyQ7XB1yTnVlSnO2tzTmYlydlaPtpwTE_Cw3qbgwywMzzUaBfzqX_iuaAEk-wde92_5aYDlW_ZHHtNw&chips=date_posted:3days&udm=8&sa=X&ved=2ahUKEwidiYjwhpyXAxWwzDgGHVmfJFMQkbEKegQIGhAD",
+          "serpapi_link": "https://serpapi.com/search.json?chips=date_posted%3A3days&engine=google_jobs&gl=cl&google_domain=google.com&hl=es&location=Chile&q=Data+Analyst+tiempo+parcial&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rZiksa3HhVKCT6wb_m0_DlNZx_ca-LFYP__9O6dDiFzSRBhYNkcpoepZF7xBiCIavioCeTboF2zAdsIesAP410U6hymwXeHXg_BXHp2hBXLgaAhC_FKTJWfE2jeIXfnEISu7pI2UpiJ6FVJva1FjZrMs3bPcnunZLQvaLZFwtXdidebFLoxTVihNOCfXajKQqneyOu208aDO1Ygb-NPNIM_E_TBMbJa3yPmn5L30Q8eaHJvbyjhuoK03WWe5st-5NzSCfA4w1Ds8s9nKGBqz2znfuk2vMQZ4kOHUf29q66_SigipUwCE9dOjvyQ7XB1yTnVlSnO2tzTmYlydlaPtpwTE_Cw3qbgwywMzzUaBfzqX_iuaAEk-wde92_5aYDlW_ZHHtNw"
+        },
+        {
+          "name": "Con contrato",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4r2YIQD5S0wiJLM8D3QoSGRXVQ5MzMH4YxJ5T3ygEiTaqvvRwVXIuGdHhnBqeOlA43CadYE3CV0p04icFcvwoMqOWSLbX9jNX2NC9FqThYPFMAa62H7LobgUPRcQsJ6gBFO-u1Gvw0tZNXiWsl7BrARr18cfNamJEdygvQU_diABYmwlwXcE-GB0MFVGTGMtevqJP8sg0R9Ol2flOG0ZFG2XccC0so7Ce779yJBwn7yYsbP8ELyQVJDyu3XdWZ_7bi8tsxFcl_KdLxSnGYQwZZiAYNj0VJGElBDd-NLsHaXZEDooRFdqiL103nGxHpz05uWCHsxKgkir-LnOzj1B_Y8bnOTy3XoCJXg6Zbo6v6ufe0_uTQzdilreNjB67QiJpmt3tQ9w",
+            "q": "Data Analyst con contrato"
+          },
+          "link": "https://www.google.com/search?sca_esv=4d65981f01013b52&hl=es&gl=cl&sxsrf=APpeQnvBTUzc4m4vSSNc2fS1q2ZT0kOWbA:1790968848328&q=Data+Analyst+con+contrato&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4r2YIQD5S0wiJLM8D3QoSGRXVQ5MzMH4YxJ5T3ygEiTaqvvRwVXIuGdHhnBqeOlA43CadYE3CV0p04icFcvwoMqOWSLbX9jNX2NC9FqThYPFMAa62H7LobgUPRcQsJ6gBFO-u1Gvw0tZNXiWsl7BrARr18cfNamJEdygvQU_diABYmwlwXcE-GB0MFVGTGMtevqJP8sg0R9Ol2flOG0ZFG2XccC0so7Ce779yJBwn7yYsbP8ELyQVJDyu3XdWZ_7bi8tsxFcl_KdLxSnGYQwZZiAYNj0VJGElBDd-NLsHaXZEDooRFdqiL103nGxHpz05uWCHsxKgkir-LnOzj1B_Y8bnOTy3XoCJXg6Zbo6v6ufe0_uTQzdilreNjB67QiJpmt3tQ9w&chips=date_posted:3days&udm=8&sa=X&ved=2ahUKEwidiYjwhpyXAxWwzDgGHVmfJFMQkbEKegQIGhAE",
+          "serpapi_link": "https://serpapi.com/search.json?chips=date_posted%3A3days&engine=google_jobs&gl=cl&google_domain=google.com&hl=es&location=Chile&q=Data+Analyst+con+contrato&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4r2YIQD5S0wiJLM8D3QoSGRXVQ5MzMH4YxJ5T3ygEiTaqvvRwVXIuGdHhnBqeOlA43CadYE3CV0p04icFcvwoMqOWSLbX9jNX2NC9FqThYPFMAa62H7LobgUPRcQsJ6gBFO-u1Gvw0tZNXiWsl7BrARr18cfNamJEdygvQU_diABYmwlwXcE-GB0MFVGTGMtevqJP8sg0R9Ol2flOG0ZFG2XccC0so7Ce779yJBwn7yYsbP8ELyQVJDyu3XdWZ_7bi8tsxFcl_KdLxSnGYQwZZiAYNj0VJGElBDd-NLsHaXZEDooRFdqiL103nGxHpz05uWCHsxKgkir-LnOzj1B_Y8bnOTy3XoCJXg6Zbo6v6ufe0_uTQzdilreNjB67QiJpmt3tQ9w"
+        },
+        {
+          "name": "Prácticas",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4rzL30x91-518r7vIP4EVEkDyO4-BwuSlxDNsem-nor9aGKaNad-9SS5VuF8jI8jl1w32J0INkKaSmERid5zM2vaK_OrPIXNm9HRN01JlEYfcE2JZRqv6za7SQLqTT0Ezudb0BWGvgClj6DJBvfxoY7BCm6ixaLF272SOFwZQvYtx3BdQAwQllVj0rJkriUz3Y0rtSzQvpktNK_0MRrfxZoq3Hqxvz-3c2StHlWUpkAi1K_xHRAlLV50HhbPTrOUq8tJlp2hgCo1wNLlstTfzn461swbbcnNXMvdfJgZDv-g1WpcrBHny3YBuLd2cgnRVDUj2Aj5dvxjyRS_vAou9A_zho2slHZa4z9QHypO3qV1kRv1aU",
+            "q": "Data Analyst prácticas"
+          },
+          "link": "https://www.google.com/search?sca_esv=4d65981f01013b52&hl=es&gl=cl&sxsrf=APpeQnvBTUzc4m4vSSNc2fS1q2ZT0kOWbA:1790968848328&q=Data+Analyst+pr%C3%A1cticas&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rzL30x91-518r7vIP4EVEkDyO4-BwuSlxDNsem-nor9aGKaNad-9SS5VuF8jI8jl1w32J0INkKaSmERid5zM2vaK_OrPIXNm9HRN01JlEYfcE2JZRqv6za7SQLqTT0Ezudb0BWGvgClj6DJBvfxoY7BCm6ixaLF272SOFwZQvYtx3BdQAwQllVj0rJkriUz3Y0rtSzQvpktNK_0MRrfxZoq3Hqxvz-3c2StHlWUpkAi1K_xHRAlLV50HhbPTrOUq8tJlp2hgCo1wNLlstTfzn461swbbcnNXMvdfJgZDv-g1WpcrBHny3YBuLd2cgnRVDUj2Aj5dvxjyRS_vAou9A_zho2slHZa4z9QHypO3qV1kRv1aU&chips=date_posted:3days&udm=8&sa=X&ved=2ahUKEwidiYjwhpyXAxWwzDgGHVmfJFMQkbEKegQIGhAF",
+          "serpapi_link": "https://serpapi.com/search.json?chips=date_posted%3A3days&engine=google_jobs&gl=cl&google_domain=google.com&hl=es&location=Chile&q=Data+Analyst+pr%C3%A1cticas&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rzL30x91-518r7vIP4EVEkDyO4-BwuSlxDNsem-nor9aGKaNad-9SS5VuF8jI8jl1w32J0INkKaSmERid5zM2vaK_OrPIXNm9HRN01JlEYfcE2JZRqv6za7SQLqTT0Ezudb0BWGvgClj6DJBvfxoY7BCm6ixaLF272SOFwZQvYtx3BdQAwQllVj0rJkriUz3Y0rtSzQvpktNK_0MRrfxZoq3Hqxvz-3c2StHlWUpkAi1K_xHRAlLV50HhbPTrOUq8tJlp2hgCo1wNLlstTfzn461swbbcnNXMvdfJgZDv-g1WpcrBHny3YBuLd2cgnRVDUj2Aj5dvxjyRS_vAou9A_zho2slHZa4z9QHypO3qV1kRv1aU"
+        }
+      ]
+    },
+    {
+      "name": "Fecha de publicación",
+      "options": [
+        {
+          "name": "Ayer",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4rsTBuj_Rj3LJymAMs-53Mxk8iIibLpPnvzY-WK8wjPZ0ebxYLYjYHV8fcf4IKcOf651GSQtdHcMg8tWszHnCYLnt_IJwxPeNTs9I3xfaM3beoBqTLFriUKCTA3MoL-Sjgzj3i0t2qNJaduChKd0vP0y9ETwxiOeE56TVHNrG9_IQlguOpox0n483rqMXPKCSahvvczXtp6k-uC125xi-lxE8uPKBWBZQ56RRyctiOcD_KUShI4yFZqBnv8T4olKDfHcbWOapKMvxVVWaBBPphTGFcOqZU3Opu3eZt-pOlGDvU6OlvcxdPMZxhdj-XElGiYMZwlh54o-IJj9AEHH0GQwJvRhql9qyasAKQhc-masbP4m7wpVY_ZjGR373TXk_X8rmFmup6r6J8dq7Z2sS8SHGCM4o",
+            "q": "Data Analyst desde ayer"
+          },
+          "link": "https://www.google.com/search?sca_esv=4d65981f01013b52&hl=es&gl=cl&sxsrf=APpeQnvBTUzc4m4vSSNc2fS1q2ZT0kOWbA:1790968848328&q=Data+Analyst+desde+ayer&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rsTBuj_Rj3LJymAMs-53Mxk8iIibLpPnvzY-WK8wjPZ0ebxYLYjYHV8fcf4IKcOf651GSQtdHcMg8tWszHnCYLnt_IJwxPeNTs9I3xfaM3beoBqTLFriUKCTA3MoL-Sjgzj3i0t2qNJaduChKd0vP0y9ETwxiOeE56TVHNrG9_IQlguOpox0n483rqMXPKCSahvvczXtp6k-uC125xi-lxE8uPKBWBZQ56RRyctiOcD_KUShI4yFZqBnv8T4olKDfHcbWOapKMvxVVWaBBPphTGFcOqZU3Opu3eZt-pOlGDvU6OlvcxdPMZxhdj-XElGiYMZwlh54o-IJj9AEHH0GQwJvRhql9qyasAKQhc-masbP4m7wpVY_ZjGR373TXk_X8rmFmup6r6J8dq7Z2sS8SHGCM4o&chips=date_posted:3days&udm=8&sa=X&ved=2ahUKEwidiYjwhpyXAxWwzDgGHVmfJFMQkbEKegQIGxAC",
+          "serpapi_link": "https://serpapi.com/search.json?chips=date_posted%3A3days&engine=google_jobs&gl=cl&google_domain=google.com&hl=es&location=Chile&q=Data+Analyst+desde+ayer&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rsTBuj_Rj3LJymAMs-53Mxk8iIibLpPnvzY-WK8wjPZ0ebxYLYjYHV8fcf4IKcOf651GSQtdHcMg8tWszHnCYLnt_IJwxPeNTs9I3xfaM3beoBqTLFriUKCTA3MoL-Sjgzj3i0t2qNJaduChKd0vP0y9ETwxiOeE56TVHNrG9_IQlguOpox0n483rqMXPKCSahvvczXtp6k-uC125xi-lxE8uPKBWBZQ56RRyctiOcD_KUShI4yFZqBnv8T4olKDfHcbWOapKMvxVVWaBBPphTGFcOqZU3Opu3eZt-pOlGDvU6OlvcxdPMZxhdj-XElGiYMZwlh54o-IJj9AEHH0GQwJvRhql9qyasAKQhc-masbP4m7wpVY_ZjGR373TXk_X8rmFmup6r6J8dq7Z2sS8SHGCM4o"
+        },
+        {
+          "name": "Últimos 3 días",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4rsSSlpZni-nNC0orbf20KUEsdSXZ7mO8X39WwiRaZfIs2-Uncsz_lj68UFofKbt3_qbypJF7eHCjcFuwkPSNPMdd7ObWz1N8-AwDjCEb245WEEVezKulrxLBe3hQFwHfvbD9Wrti3hUPVcyu-AdETMMqBn4vEFPr3hQQSeii0cLPd6DJyENXlqTsAzEKpKZ8Rz_gfilfXR-iA1_WaBWq1dXNz6DKtyNlIfLoWIZvSjmne6HMwcAzGVGfXnEfd5sJGT9s3df28qQawlmDlSqTVuLKbGblz65AZD81fJJtLR4xQ_Cob4xqdh35XJcb0HCwWNPD5uHTCdogByizbNTTQvok3_m7rONJftpRKgp57HwnxH2GegZ9LVAS_yGlNaNu9Bgwgn_7dCnCVfJY2o5G6tLrMQVs",
+            "q": "Data Analyst en los últimos 3 días"
+          },
+          "link": "https://www.google.com/search?sca_esv=4d65981f01013b52&hl=es&gl=cl&sxsrf=APpeQnvBTUzc4m4vSSNc2fS1q2ZT0kOWbA:1790968848328&q=Data+Analyst+en+los+%C3%BAltimos+3+d%C3%ADas&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rsSSlpZni-nNC0orbf20KUEsdSXZ7mO8X39WwiRaZfIs2-Uncsz_lj68UFofKbt3_qbypJF7eHCjcFuwkPSNPMdd7ObWz1N8-AwDjCEb245WEEVezKulrxLBe3hQFwHfvbD9Wrti3hUPVcyu-AdETMMqBn4vEFPr3hQQSeii0cLPd6DJyENXlqTsAzEKpKZ8Rz_gfilfXR-iA1_WaBWq1dXNz6DKtyNlIfLoWIZvSjmne6HMwcAzGVGfXnEfd5sJGT9s3df28qQawlmDlSqTVuLKbGblz65AZD81fJJtLR4xQ_Cob4xqdh35XJcb0HCwWNPD5uHTCdogByizbNTTQvok3_m7rONJftpRKgp57HwnxH2GegZ9LVAS_yGlNaNu9Bgwgn_7dCnCVfJY2o5G6tLrMQVs&chips=date_posted:3days&udm=8&sa=X&ved=2ahUKEwidiYjwhpyXAxWwzDgGHVmfJFMQkbEKegQIGxAD",
+          "serpapi_link": "https://serpapi.com/search.json?chips=date_posted%3A3days&engine=google_jobs&gl=cl&google_domain=google.com&hl=es&location=Chile&q=Data+Analyst+en+los+%C3%BAltimos+3+d%C3%ADas&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rsSSlpZni-nNC0orbf20KUEsdSXZ7mO8X39WwiRaZfIs2-Uncsz_lj68UFofKbt3_qbypJF7eHCjcFuwkPSNPMdd7ObWz1N8-AwDjCEb245WEEVezKulrxLBe3hQFwHfvbD9Wrti3hUPVcyu-AdETMMqBn4vEFPr3hQQSeii0cLPd6DJyENXlqTsAzEKpKZ8Rz_gfilfXR-iA1_WaBWq1dXNz6DKtyNlIfLoWIZvSjmne6HMwcAzGVGfXnEfd5sJGT9s3df28qQawlmDlSqTVuLKbGblz65AZD81fJJtLR4xQ_Cob4xqdh35XJcb0HCwWNPD5uHTCdogByizbNTTQvok3_m7rONJftpRKgp57HwnxH2GegZ9LVAS_yGlNaNu9Bgwgn_7dCnCVfJY2o5G6tLrMQVs"
+        },
+        {
+          "name": "Última semana",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4rdf3hZ4zdlkAW_uEbRSgOyh05q27tu6vFNIEBb6BfmoFsMgBpjwn-7OAGCb6FRY5Q9J2eSz_SKHe7iJmqwwfijWfabauD2YO3iQn5y6idFIU3ks69WlO54OfZUwOD9HxNXd4SPXbXGIu7YxOZUbO4EIJ6hGn6vbviVlRVohSOsh5TseTCY2vFVckW8QBqEhN3Uo_Pkw_ywNYEryppcTjLOjx1Y_HgnNlZwU583Oth5QKe51ZCPsiuJULOXCU6urDf1v4c7M9k4PwtwEIYSlXbMWxwiC5Uex5HrIt0AfCCqi_qgDctkcA9oCqrAzdqakoNvNdwIVd9QZiSzDNkmydBKdyyICr3po5IlguRunBh37RJnB6WFEnNbiBLFNKafKnhwY1Ghx3D3gVC0aOi3CUpXLIihMU",
+            "q": "Data Analyst en la última semana"
+          },
+          "link": "https://www.google.com/search?sca_esv=4d65981f01013b52&hl=es&gl=cl&sxsrf=APpeQnvBTUzc4m4vSSNc2fS1q2ZT0kOWbA:1790968848328&q=Data+Analyst+en+la+%C3%BAltima+semana&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rdf3hZ4zdlkAW_uEbRSgOyh05q27tu6vFNIEBb6BfmoFsMgBpjwn-7OAGCb6FRY5Q9J2eSz_SKHe7iJmqwwfijWfabauD2YO3iQn5y6idFIU3ks69WlO54OfZUwOD9HxNXd4SPXbXGIu7YxOZUbO4EIJ6hGn6vbviVlRVohSOsh5TseTCY2vFVckW8QBqEhN3Uo_Pkw_ywNYEryppcTjLOjx1Y_HgnNlZwU583Oth5QKe51ZCPsiuJULOXCU6urDf1v4c7M9k4PwtwEIYSlXbMWxwiC5Uex5HrIt0AfCCqi_qgDctkcA9oCqrAzdqakoNvNdwIVd9QZiSzDNkmydBKdyyICr3po5IlguRunBh37RJnB6WFEnNbiBLFNKafKnhwY1Ghx3D3gVC0aOi3CUpXLIihMU&chips=date_posted:3days&udm=8&sa=X&ved=2ahUKEwidiYjwhpyXAxWwzDgGHVmfJFMQkbEKegQIGxAE",
+          "serpapi_link": "https://serpapi.com/search.json?chips=date_posted%3A3days&engine=google_jobs&gl=cl&google_domain=google.com&hl=es&location=Chile&q=Data+Analyst+en+la+%C3%BAltima+semana&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rdf3hZ4zdlkAW_uEbRSgOyh05q27tu6vFNIEBb6BfmoFsMgBpjwn-7OAGCb6FRY5Q9J2eSz_SKHe7iJmqwwfijWfabauD2YO3iQn5y6idFIU3ks69WlO54OfZUwOD9HxNXd4SPXbXGIu7YxOZUbO4EIJ6hGn6vbviVlRVohSOsh5TseTCY2vFVckW8QBqEhN3Uo_Pkw_ywNYEryppcTjLOjx1Y_HgnNlZwU583Oth5QKe51ZCPsiuJULOXCU6urDf1v4c7M9k4PwtwEIYSlXbMWxwiC5Uex5HrIt0AfCCqi_qgDctkcA9oCqrAzdqakoNvNdwIVd9QZiSzDNkmydBKdyyICr3po5IlguRunBh37RJnB6WFEnNbiBLFNKafKnhwY1Ghx3D3gVC0aOi3CUpXLIihMU"
+        },
+        {
+          "name": "Último mes",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4r47ZjGK923JIumBj3J7wejVgGA7yXq95ijdwnRF8fn6e4mbcYwrDL4ZaUR4OFRiKu6KbRDRTrkJB44KrVQBb0rHjcWsQTBAsNDTy2NbO4jpiv44YbflgSK7CF-c-jWap3NLcUdtOqfo8h1UegEtf3xTsGupbeSMctR6OtLpqVLgZ0YrlxsPjr2BFIfhAHLXjWYpFiazDX-xRCVcxoCPVzetHyYifM2DahgHjkGpwE6r-qf12jpAfr4fQ5XX0u-_Da8brOeVxHDUckyWN_KisXREjRbL_3TqdRmM0bNFGJhqS2RRB3saMvxT-ycRyIEtveV7jmNTsCyy0Q7L1WMh8zajOG8_G4yaRjU2K3xI-Qqym1bfTpF9WwGy1Q3gmv2UvLEF-N7kU893f3857OUrhCRKJ2UGg",
+            "q": "Data Analyst en el último mes"
+          },
+          "link": "https://www.google.com/search?sca_esv=4d65981f01013b52&hl=es&gl=cl&sxsrf=APpeQnvBTUzc4m4vSSNc2fS1q2ZT0kOWbA:1790968848328&q=Data+Analyst+en+el+%C3%BAltimo+mes&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4r47ZjGK923JIumBj3J7wejVgGA7yXq95ijdwnRF8fn6e4mbcYwrDL4ZaUR4OFRiKu6KbRDRTrkJB44KrVQBb0rHjcWsQTBAsNDTy2NbO4jpiv44YbflgSK7CF-c-jWap3NLcUdtOqfo8h1UegEtf3xTsGupbeSMctR6OtLpqVLgZ0YrlxsPjr2BFIfhAHLXjWYpFiazDX-xRCVcxoCPVzetHyYifM2DahgHjkGpwE6r-qf12jpAfr4fQ5XX0u-_Da8brOeVxHDUckyWN_KisXREjRbL_3TqdRmM0bNFGJhqS2RRB3saMvxT-ycRyIEtveV7jmNTsCyy0Q7L1WMh8zajOG8_G4yaRjU2K3xI-Qqym1bfTpF9WwGy1Q3gmv2UvLEF-N7kU893f3857OUrhCRKJ2UGg&chips=date_posted:3days&udm=8&sa=X&ved=2ahUKEwidiYjwhpyXAxWwzDgGHVmfJFMQkbEKegQIGxAF",
+          "serpapi_link": "https://serpapi.com/search.json?chips=date_posted%3A3days&engine=google_jobs&gl=cl&google_domain=google.com&hl=es&location=Chile&q=Data+Analyst+en+el+%C3%BAltimo+mes&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4r47ZjGK923JIumBj3J7wejVgGA7yXq95ijdwnRF8fn6e4mbcYwrDL4ZaUR4OFRiKu6KbRDRTrkJB44KrVQBb0rHjcWsQTBAsNDTy2NbO4jpiv44YbflgSK7CF-c-jWap3NLcUdtOqfo8h1UegEtf3xTsGupbeSMctR6OtLpqVLgZ0YrlxsPjr2BFIfhAHLXjWYpFiazDX-xRCVcxoCPVzetHyYifM2DahgHjkGpwE6r-qf12jpAfr4fQ5XX0u-_Da8brOeVxHDUckyWN_KisXREjRbL_3TqdRmM0bNFGJhqS2RRB3saMvxT-ycRyIEtveV7jmNTsCyy0Q7L1WMh8zajOG8_G4yaRjU2K3xI-Qqym1bfTpF9WwGy1Q3gmv2UvLEF-N7kU893f3857OUrhCRKJ2UGg"
+        }
+      ]
+    },
+    {
+      "name": "Fecha de publicación",
+      "options": [
+        {
+          "name": "Ayer",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4rsTBuj_Rj3LJymAMs-53Mxk8iIibLpPnvzY-WK8wjPZ0ebxYLYjYHV8fcf4IKcOf651GSQtdHcMg8tWszHnCYLnt_IJwxPeNTs9I3xfaM3beoBqTLFriUKCTA3MoL-Sjgzj3i0t2qNJaduChKd0vP0y9ETwxiOeE56TVHNrG9_IQlguOpox0n483rqMXPKCSahvvczXtp6k-uC125xi-lxE8uPKBWBZQ56RRyctiOcD_KUShI4yFZqBnv8T4olKDfHcbWOapKMvxVVWaBBPphTGFcOqZU3Opu3eZt-pOlGDvU6OlvcxdPMZxhdj-XElGiYMZwlh54o-IJj9AEHH0GQwJvRhql9qyasAKQhc-masbP4m7wpVY_ZjGR373TXk_X8rmFmup6r6J8dq7Z2sS8SHGCM4o",
+            "q": "Data Analyst desde ayer"
+          },
+          "link": "https://www.google.com/search?sca_esv=4d65981f01013b52&hl=es&gl=cl&sxsrf=APpeQnvBTUzc4m4vSSNc2fS1q2ZT0kOWbA:1790968848328&q=Data+Analyst+desde+ayer&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rsTBuj_Rj3LJymAMs-53Mxk8iIibLpPnvzY-WK8wjPZ0ebxYLYjYHV8fcf4IKcOf651GSQtdHcMg8tWszHnCYLnt_IJwxPeNTs9I3xfaM3beoBqTLFriUKCTA3MoL-Sjgzj3i0t2qNJaduChKd0vP0y9ETwxiOeE56TVHNrG9_IQlguOpox0n483rqMXPKCSahvvczXtp6k-uC125xi-lxE8uPKBWBZQ56RRyctiOcD_KUShI4yFZqBnv8T4olKDfHcbWOapKMvxVVWaBBPphTGFcOqZU3Opu3eZt-pOlGDvU6OlvcxdPMZxhdj-XElGiYMZwlh54o-IJj9AEHH0GQwJvRhql9qyasAKQhc-masbP4m7wpVY_ZjGR373TXk_X8rmFmup6r6J8dq7Z2sS8SHGCM4o&chips=date_posted:3days&udm=8&sa=X&ved=2ahUKEwidiYjwhpyXAxWwzDgGHVmfJFMQkbEKegQIGxAC",
+          "serpapi_link": "https://serpapi.com/search.json?chips=date_posted%3A3days&engine=google_jobs&gl=cl&google_domain=google.com&hl=es&location=Chile&q=Data+Analyst+desde+ayer&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rsTBuj_Rj3LJymAMs-53Mxk8iIibLpPnvzY-WK8wjPZ0ebxYLYjYHV8fcf4IKcOf651GSQtdHcMg8tWszHnCYLnt_IJwxPeNTs9I3xfaM3beoBqTLFriUKCTA3MoL-Sjgzj3i0t2qNJaduChKd0vP0y9ETwxiOeE56TVHNrG9_IQlguOpox0n483rqMXPKCSahvvczXtp6k-uC125xi-lxE8uPKBWBZQ56RRyctiOcD_KUShI4yFZqBnv8T4olKDfHcbWOapKMvxVVWaBBPphTGFcOqZU3Opu3eZt-pOlGDvU6OlvcxdPMZxhdj-XElGiYMZwlh54o-IJj9AEHH0GQwJvRhql9qyasAKQhc-masbP4m7wpVY_ZjGR373TXk_X8rmFmup6r6J8dq7Z2sS8SHGCM4o"
+        },
+        {
+          "name": "Últimos 3 días",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4rsSSlpZni-nNC0orbf20KUEsdSXZ7mO8X39WwiRaZfIs2-Uncsz_lj68UFofKbt3_qbypJF7eHCjcFuwkPSNPMdd7ObWz1N8-AwDjCEb245WEEVezKulrxLBe3hQFwHfvbD9Wrti3hUPVcyu-AdETMMqBn4vEFPr3hQQSeii0cLPd6DJyENXlqTsAzEKpKZ8Rz_gfilfXR-iA1_WaBWq1dXNz6DKtyNlIfLoWIZvSjmne6HMwcAzGVGfXnEfd5sJGT9s3df28qQawlmDlSqTVuLKbGblz65AZD81fJJtLR4xQ_Cob4xqdh35XJcb0HCwWNPD5uHTCdogByizbNTTQvok3_m7rONJftpRKgp57HwnxH2GegZ9LVAS_yGlNaNu9Bgwgn_7dCnCVfJY2o5G6tLrMQVs",
+            "q": "Data Analyst en los últimos 3 días"
+          },
+          "link": "https://www.google.com/search?sca_esv=4d65981f01013b52&hl=es&gl=cl&sxsrf=APpeQnvBTUzc4m4vSSNc2fS1q2ZT0kOWbA:1790968848328&q=Data+Analyst+en+los+%C3%BAltimos+3+d%C3%ADas&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rsSSlpZni-nNC0orbf20KUEsdSXZ7mO8X39WwiRaZfIs2-Uncsz_lj68UFofKbt3_qbypJF7eHCjcFuwkPSNPMdd7ObWz1N8-AwDjCEb245WEEVezKulrxLBe3hQFwHfvbD9Wrti3hUPVcyu-AdETMMqBn4vEFPr3hQQSeii0cLPd6DJyENXlqTsAzEKpKZ8Rz_gfilfXR-iA1_WaBWq1dXNz6DKtyNlIfLoWIZvSjmne6HMwcAzGVGfXnEfd5sJGT9s3df28qQawlmDlSqTVuLKbGblz65AZD81fJJtLR4xQ_Cob4xqdh35XJcb0HCwWNPD5uHTCdogByizbNTTQvok3_m7rONJftpRKgp57HwnxH2GegZ9LVAS_yGlNaNu9Bgwgn_7dCnCVfJY2o5G6tLrMQVs&chips=date_posted:3days&udm=8&sa=X&ved=2ahUKEwidiYjwhpyXAxWwzDgGHVmfJFMQkbEKegQIGxAD",
+          "serpapi_link": "https://serpapi.com/search.json?chips=date_posted%3A3days&engine=google_jobs&gl=cl&google_domain=google.com&hl=es&location=Chile&q=Data+Analyst+en+los+%C3%BAltimos+3+d%C3%ADas&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rsSSlpZni-nNC0orbf20KUEsdSXZ7mO8X39WwiRaZfIs2-Uncsz_lj68UFofKbt3_qbypJF7eHCjcFuwkPSNPMdd7ObWz1N8-AwDjCEb245WEEVezKulrxLBe3hQFwHfvbD9Wrti3hUPVcyu-AdETMMqBn4vEFPr3hQQSeii0cLPd6DJyENXlqTsAzEKpKZ8Rz_gfilfXR-iA1_WaBWq1dXNz6DKtyNlIfLoWIZvSjmne6HMwcAzGVGfXnEfd5sJGT9s3df28qQawlmDlSqTVuLKbGblz65AZD81fJJtLR4xQ_Cob4xqdh35XJcb0HCwWNPD5uHTCdogByizbNTTQvok3_m7rONJftpRKgp57HwnxH2GegZ9LVAS_yGlNaNu9Bgwgn_7dCnCVfJY2o5G6tLrMQVs"
+        },
+        {
+          "name": "Última semana",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4rdf3hZ4zdlkAW_uEbRSgOyh05q27tu6vFNIEBb6BfmoFsMgBpjwn-7OAGCb6FRY5Q9J2eSz_SKHe7iJmqwwfijWfabauD2YO3iQn5y6idFIU3ks69WlO54OfZUwOD9HxNXd4SPXbXGIu7YxOZUbO4EIJ6hGn6vbviVlRVohSOsh5TseTCY2vFVckW8QBqEhN3Uo_Pkw_ywNYEryppcTjLOjx1Y_HgnNlZwU583Oth5QKe51ZCPsiuJULOXCU6urDf1v4c7M9k4PwtwEIYSlXbMWxwiC5Uex5HrIt0AfCCqi_qgDctkcA9oCqrAzdqakoNvNdwIVd9QZiSzDNkmydBKdyyICr3po5IlguRunBh37RJnB6WFEnNbiBLFNKafKnhwY1Ghx3D3gVC0aOi3CUpXLIihMU",
+            "q": "Data Analyst en la última semana"
+          },
+          "link": "https://www.google.com/search?sca_esv=4d65981f01013b52&hl=es&gl=cl&sxsrf=APpeQnvBTUzc4m4vSSNc2fS1q2ZT0kOWbA:1790968848328&q=Data+Analyst+en+la+%C3%BAltima+semana&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rdf3hZ4zdlkAW_uEbRSgOyh05q27tu6vFNIEBb6BfmoFsMgBpjwn-7OAGCb6FRY5Q9J2eSz_SKHe7iJmqwwfijWfabauD2YO3iQn5y6idFIU3ks69WlO54OfZUwOD9HxNXd4SPXbXGIu7YxOZUbO4EIJ6hGn6vbviVlRVohSOsh5TseTCY2vFVckW8QBqEhN3Uo_Pkw_ywNYEryppcTjLOjx1Y_HgnNlZwU583Oth5QKe51ZCPsiuJULOXCU6urDf1v4c7M9k4PwtwEIYSlXbMWxwiC5Uex5HrIt0AfCCqi_qgDctkcA9oCqrAzdqakoNvNdwIVd9QZiSzDNkmydBKdyyICr3po5IlguRunBh37RJnB6WFEnNbiBLFNKafKnhwY1Ghx3D3gVC0aOi3CUpXLIihMU&chips=date_posted:3days&udm=8&sa=X&ved=2ahUKEwidiYjwhpyXAxWwzDgGHVmfJFMQkbEKegQIGxAE",
+          "serpapi_link": "https://serpapi.com/search.json?chips=date_posted%3A3days&engine=google_jobs&gl=cl&google_domain=google.com&hl=es&location=Chile&q=Data+Analyst+en+la+%C3%BAltima+semana&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rdf3hZ4zdlkAW_uEbRSgOyh05q27tu6vFNIEBb6BfmoFsMgBpjwn-7OAGCb6FRY5Q9J2eSz_SKHe7iJmqwwfijWfabauD2YO3iQn5y6idFIU3ks69WlO54OfZUwOD9HxNXd4SPXbXGIu7YxOZUbO4EIJ6hGn6vbviVlRVohSOsh5TseTCY2vFVckW8QBqEhN3Uo_Pkw_ywNYEryppcTjLOjx1Y_HgnNlZwU583Oth5QKe51ZCPsiuJULOXCU6urDf1v4c7M9k4PwtwEIYSlXbMWxwiC5Uex5HrIt0AfCCqi_qgDctkcA9oCqrAzdqakoNvNdwIVd9QZiSzDNkmydBKdyyICr3po5IlguRunBh37RJnB6WFEnNbiBLFNKafKnhwY1Ghx3D3gVC0aOi3CUpXLIihMU"
+        },
+        {
+          "name": "Último mes",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4r47ZjGK923JIumBj3J7wejVgGA7yXq95ijdwnRF8fn6e4mbcYwrDL4ZaUR4OFRiKu6KbRDRTrkJB44KrVQBb0rHjcWsQTBAsNDTy2NbO4jpiv44YbflgSK7CF-c-jWap3NLcUdtOqfo8h1UegEtf3xTsGupbeSMctR6OtLpqVLgZ0YrlxsPjr2BFIfhAHLXjWYpFiazDX-xRCVcxoCPVzetHyYifM2DahgHjkGpwE6r-qf12jpAfr4fQ5XX0u-_Da8brOeVxHDUckyWN_KisXREjRbL_3TqdRmM0bNFGJhqS2RRB3saMvxT-ycRyIEtveV7jmNTsCyy0Q7L1WMh8zajOG8_G4yaRjU2K3xI-Qqym1bfTpF9WwGy1Q3gmv2UvLEF-N7kU893f3857OUrhCRKJ2UGg",
+            "q": "Data Analyst en el último mes"
+          },
+          "link": "https://www.google.com/search?sca_esv=4d65981f01013b52&hl=es&gl=cl&sxsrf=APpeQnvBTUzc4m4vSSNc2fS1q2ZT0kOWbA:1790968848328&q=Data+Analyst+en+el+%C3%BAltimo+mes&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4r47ZjGK923JIumBj3J7wejVgGA7yXq95ijdwnRF8fn6e4mbcYwrDL4ZaUR4OFRiKu6KbRDRTrkJB44KrVQBb0rHjcWsQTBAsNDTy2NbO4jpiv44YbflgSK7CF-c-jWap3NLcUdtOqfo8h1UegEtf3xTsGupbeSMctR6OtLpqVLgZ0YrlxsPjr2BFIfhAHLXjWYpFiazDX-xRCVcxoCPVzetHyYifM2DahgHjkGpwE6r-qf12jpAfr4fQ5XX0u-_Da8brOeVxHDUckyWN_KisXREjRbL_3TqdRmM0bNFGJhqS2RRB3saMvxT-ycRyIEtveV7jmNTsCyy0Q7L1WMh8zajOG8_G4yaRjU2K3xI-Qqym1bfTpF9WwGy1Q3gmv2UvLEF-N7kU893f3857OUrhCRKJ2UGg&chips=date_posted:3days&udm=8&sa=X&ved=2ahUKEwidiYjwhpyXAxWwzDgGHVmfJFMQkbEKegQIGxAF",
+          "serpapi_link": "https://serpapi.com/search.json?chips=date_posted%3A3days&engine=google_jobs&gl=cl&google_domain=google.com&hl=es&location=Chile&q=Data+Analyst+en+el+%C3%BAltimo+mes&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4r47ZjGK923JIumBj3J7wejVgGA7yXq95ijdwnRF8fn6e4mbcYwrDL4ZaUR4OFRiKu6KbRDRTrkJB44KrVQBb0rHjcWsQTBAsNDTy2NbO4jpiv44YbflgSK7CF-c-jWap3NLcUdtOqfo8h1UegEtf3xTsGupbeSMctR6OtLpqVLgZ0YrlxsPjr2BFIfhAHLXjWYpFiazDX-xRCVcxoCPVzetHyYifM2DahgHjkGpwE6r-qf12jpAfr4fQ5XX0u-_Da8brOeVxHDUckyWN_KisXREjRbL_3TqdRmM0bNFGJhqS2RRB3saMvxT-ycRyIEtveV7jmNTsCyy0Q7L1WMh8zajOG8_G4yaRjU2K3xI-Qqym1bfTpF9WwGy1Q3gmv2UvLEF-N7kU893f3857OUrhCRKJ2UGg"
+        }
+      ]
+    }
+  ],
+  "jobs_results": [
+    {
+      "title": "Analista BI: Power BI, SQL y AWS – Presencial",
+      "company_name": "Kibernum",
+      "location": "Lampa",
+      "via": "BeBee",
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Data+Analyst&htidocid=ifBXcHYVZuzhwS3vAAAAAA%3D%3D&hl=es-CL&shem=epsd1,esd2e,rimspwouoe&shndl=37&shmd=H4sIAAAAAAAA_xXMMQ6CMBSA4biyuTq92RhqTFxw0sUYicEwOJJXeIGatq_SEnHzDl7Ac7h6E08iLH_-6Yvek-i0taiVDwi7QwIZ36kdbgH5OYUHbC85_J4vyFryZEuFOgH5_fhbRxVCRUDGaWIgC3vmWtNs04TgfCKE9zquBzeoMi7ZCLYkuRdXln5M4RtsyWkMVKzWyz52tp5Pj0pSazszgikah3-MOL5gowAAAA&shmds=v1_ARwrE22lq971E7Z6pzuxwvzGsgXmDvbaLE-rG1PIsovOKwBfVw&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Data+Analyst&htidocid=ifBXcHYVZuzhwS3vAAAAAA%3D%3D",
+      "thumbnail": "https://serpapi.com/images/i/_9j_4AAQSkZJRgABAQAAAQABAAD_2wCEAAkGBwgHBgkIBwgKCgkLDRYPDQwMDRsUFRAWIB0iIiAdHx8kKDQsJCYxJx8fLT0tMTU3Ojo6Iys_RD84QzQ5OjcBCgoKDQwNGg8PGjclHyU3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3N__AABEIADgAOAMBIgACEQEDEQH_xAAZAAEAAwEBAAAAAAAAAAAAAAAAAwQFBgf_xAA0EAABAwIEAAkNAQAAAAAAAAABAAIDBBEFEhMhBhQxNlFxcoKyFiI0QVVjgZOhorHB0RX_xAAXAQEBAQEAAAAAAAAAAAAAAAAAAQQC_8QAGhEBAQEAAwEAAAAAAAAAAAAAAAERAxIhAv_aAAwDAQACEQMRAD8A9xREQES6yq_H6Gjqo6UyatQ97Wace-Uk236PymDVREQEREBVsRrYcPo5aqoJEcYF8oudzYfUqysThnzbrO542qybZBymLcKa_E38XogaeF2wDT57us-r4LKoYpIcVo2ysLXa8Zse0FBR6nGotHLqZhlzcl1ckNQMYpDU5NQPjtk5LZlr6yTI6erIuVqcf0MUjoHGYudlBeDsCeTZdDQPc-C73Em53KyWWOVlERQFicM-bdX3PG1bapYzQDE8Olo3SGMSZbuAvaxB_Ss8ujyeN7o3tew5XDcHoU9NLJNiNM6V5c7VYLntBdZ5CR-0H_KH9UkHAiOGeOXj7zkeHW0hvY9a03l-XWrz4InytmdEwyt2a8tGYdRWth3o_eKj_wA_3v2qzTw6MeTNfe91mt1KlREUQREQEREBERAREQf_2Q.jpeg",
+      "extensions": [
+        "hace 19 horas",
+        "Tiempo completo"
+      ],
+      "source_link": "https://bebee.com/cl/jobs/analista-bi-power-bi-sql-y-aws-presencial-kibernum-lampa--talent-639810775655252262",
+      "job_title": "Analista BI: Power BI, SQL y AWS – Presencial",
+      "description": "Kibernum busca un/a Analista BI para integrarse a una empresa líder, participando en iniciativas de BI, analítica de datos y evolución de soluciones hacia IA. Perfil técnico y hands-on con experiencia en SQL, Power BI y AWS. Requisito presencial en Lampa y movilidad propia.\n\n\nSe valorará experiencia con SAC/IA y capacidad de trabajar directamente con áreas de negocio, levantando necesidades y proponiendo soluciones efectivas. Jornada 07:00–16:30, 100% presencial.",
+      "apply_options": [
+        {
+          "title": "BeBee",
+          "link": "https://bebee.com/cl/jobs/analista-bi-power-bi-sql-y-aws-presencial-kibernum-lampa--talent-639810775655252262?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "WhatJobs",
+          "link": "https://cl.whatjobs.com/jobs/analista-bi:-power-bi,-sql/lampa?id=48456015&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "JobLeads",
+          "link": "https://www.jobleads.com/cl/job/analista-bi-power-bi-sql-y-aws-presencial--lampa--e57e5231f74c2db6d313c9a051aabcc68?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJBbmFsaXN0YSBCSTogUG93ZXIgQkksIFNRTCB5IEFXUyDigJMgUHJlc2VuY2lhbCIsImNvbXBhbnlfbmFtZSI6IktpYmVybnVtIiwiaHRpZG9jaWQiOiJpZkJYY0hZVlp1emh3UzN2QUFBQUFBPT0iLCJ1dWxlIjoidytDQUlRSUNJRlEyaHBiR1UiLCJnbCI6ImNsIiwiaGwiOiJlcyIsImZjIjoiRXN3QkNvd0JRVXBwVkRSMFNtNWFkSGd0VW5kQ1pXSjFORTlpVXpSTmIyMXhlVXBMUW1sUWRrUlZlSHBmVVZWS1ExOW9aRXhmV0haVVNVeEZkR3AyZEZWUFZtVnVNVVZGTjJKVE1WZFhTbW81Um5aTE56UTBjRkZRVlVVM1RrZFNjVFJ2VFZwWFVUTmxNMDVNUjBaM1gxbFVaall0ZUdkU1JWOVFVbEJITW1sbWJWOUZlbEZDYTNCamNVUnBjamQ2ZFRFU0YwVkJWRUZoY0ROQ1JUZERXalF0UlZBeVlqWlRiVkZWR2lKQlJITnlPV1pVTTFoNVkyUkhSVzloUVhaWlVXaHZYMFZMUmxOMVIyUnJhR1IzIiwiZmN2IjoiMyIsImZjX2lkIjoiaWZCWGNIWVZadXpod1MzdkFBQUFBQT09In0="
+    },
+    {
+      "title": "Analista de Datos Ssr. — Impacto en Linaje y Calidad",
+      "company_name": "Soho",
+      "location": "Santiago",
+      "via": "JobLeads",
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Data+Analyst&htidocid=RTmL8Itf7GK0DyWeAAAAAA%3D%3D&hl=es-CL&shem=epsd1,esd2e,rimspwouoe&shndl=37&shmd=H4sIAAAAAAAA_x2MMQrCQBAAsU1lbbW1xZ0INrESBRHsgnXY5JbLhcvtmT0hdj7CN_gIW3_iS4xpppqZ7DXLLruA3klCMAQHTCxQSK_g-3jCqYtYJwYKcHYBW4I77EfboMmh-rzleiMzhdRFT5N4ZLaeFtsmpSi51iJe2XGfXK1q7jQHqnjQLVfyRykN9hQ9JirXm9WgYrDLecHNNCswJIeWfyuUv2upAAAA&shmds=v1_ARwrE201uZdPAf7cUxnUpZXJqitiTPqsPs5K21s5eD5TvyPV9w&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Data+Analyst&htidocid=RTmL8Itf7GK0DyWeAAAAAA%3D%3D",
+      "extensions": [
+        "hace 2 días",
+        "De $16,7 M a $27,9 M por año",
+        "Tiempo completo"
+      ],
+      "source_link": "https://www.jobleads.com/cl/job/analista-de-datos-ssr-impacto-en-linaje-y-calidad--santiago--e655eab4fe3faff0de2e52cfc6bb0c40f",
+      "job_title": "Analista de Datos Ssr. — Impacto en Linaje y Calidad",
+      "description": "SOHO en Santiago busca un Data Analyst Ssr para unir las necesidades de negocio con la infraestructura técnica, identificando dónde está la información necesaria, su origen, modelado y calidad antes de la ingestión.\n\nTrabajarás con datasets y APIs (SAP, Snowflake) para entender el linaje de datos, colaborar con áreas de negocio y apoyar procesos de calidad de datos previos a la ingesta por parte de los Ingenieros de Datos. Power BI/DAX se utiliza, aunque no es el foco principal.",
+      "apply_options": [
+        {
+          "title": "JobLeads",
+          "link": "https://www.jobleads.com/cl/job/analista-de-datos-ssr-impacto-en-linaje-y-calidad--santiago--e655eab4fe3faff0de2e52cfc6bb0c40f?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJBbmFsaXN0YSBkZSBEYXRvcyBTc3IuIOKAlCBJbXBhY3RvIGVuIExpbmFqZSB5IENhbGlkYWQiLCJjb21wYW55X25hbWUiOiJTb2hvIiwiaHRpZG9jaWQiOiJSVG1MOEl0ZjdHSzBEeVdlQUFBQUFBPT0iLCJ1dWxlIjoidytDQUlRSUNJRlEyaHBiR1UiLCJnbCI6ImNsIiwiaGwiOiJlcyIsImZjIjoiRXN3QkNvd0JRVXBwVkRSMFNrWkZXVFZ4VjJOV1JuaG9kbDkyUzJ0TGExTlRkM0YyWTNneU1UaFhORzVRU3pCSFRHNVRjVUpoVTJocVRqUlhNblJRWm1GUlluaHFNelJxTldwcFdGUXlhSEkyUTBkUGRGOHphamM1VUdzd1NqSnVlVGw2T0U1Sk9XVjFOamRNVldGZk5qQlVOVXh0TlhReWNFTlNNRVJtV1RGTk5HWnFja2R1YlRWdllXOXVkM0V6U0UwU0YwVkJWRUZoY0ROQ1JUZERXalF0UlZBeVlqWlRiVkZWR2lKQlJITnlPV1pUWWxocU9HWmtNVmRYVlVFeVNXdExlak5aWWxkdFlWQkpUbEZCIiwiZmN2IjoiMyIsImZjX2lkIjoiUlRtTDhJdGY3R0swRHlXZUFBQUFBQT09In0="
+    },
+    {
+      "title": "Online Data Analyst - Spanish (CL)",
+      "company_name": "TELUS Digital",
+      "location": "Concepción",
+      "via": "BeBee",
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Data+Analyst&htidocid=NLfnzMrhastQ9uFwAAAAAA%3D%3D&hl=es-CL&shem=epsd1,esd2e,rimspwouoe&shndl=37&shmd=H4sIAAAAAAAA_xXMsQrCMBAAUFz7CeJwowo2IrjoVFpxKThU53JNjzSSXqIXof6MP-Hm2h-TLm98yWeWZBd2lgkKjAgZo3tLhA1UAdlKB8u8XB2gGX_yeFGL0BJQHxx5IIaz98bR_NjFGOSglIhLjUSMVqfa98ozNX5Qd9_IRC0dPik4jFTv9tshDWzWi-upvFVQWGMjumnNPWsK2o5f_gNAEq-5oQAAAA&shmds=v1_ARwrE214l4LTqG1d_GrUB6WfBO0x_3Koz2t0gt2uZXRbJdENZg&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Data+Analyst&htidocid=NLfnzMrhastQ9uFwAAAAAA%3D%3D",
+      "thumbnail": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAADgAAAA4CAMAAACfWMssAAAAkFBMVEX____6-fv9_P339fjy8PTp5e3v7fLs6e_j3uizpsChkLH1_e6535eaym7Sx93Sytq_tMqvnb-RnIqIsGHp7eZJHm3Eus5SLXStoLyYiKlvVIlcOXrX0d737_256pOu6HhjRoGnmLbJwtN7ZpKHcpzl-dWj4Wy755rp-Nx2Xo6RfqXH66ub3WDO7bTU8L7v-eXEe7WVAAABDElEQVRIie2Ry07DMBBFr2fsxHaBmFdqt6GN3ZQW8-j__x2pEBKLECGW4LOwxrKOPHMHKBQKhX_DAiD6hXdxedUorRWUJq5AihS4qXlW0u765vZuLMx9y0svUoBc1iusbafmPNs-bLaLcyV68DoiWci1XCHthvk2948H4LgHeAXuB256S087jzyEOe355XW_eTscP-_0kZIYy_kJx59wOk29_DxkmWOnWSQnJDuRTQUhiRicSJBERUJMi7XDYLz1oYvGicE1wThvbWzPhzfGhTxtVrY1to2jFa1nq5vsGptj5BCiVzmlHKdF0nqUQ8VK1wp63KJJLLWErGspuGM1t9fqa5bfzFQoFAp_mnebtg-8bb203QAAAABJRU5ErkJggg.png",
+      "extensions": [
+        "hace 3 días",
+        "Tiempo completo"
+      ],
+      "source_link": "https://bebee.com/cl/jobs/online-data-analyst-spanish-cl-telus-digital-concepcion--jooble-3358159379193189930",
+      "job_title": "Online Data Analyst - Spanish (CL)",
+      "description": "Copy link below to apply: Are you a detail-oriented individual with a passion for research and a good understanding of national and local geography? This freelance opportunity allows you to work at your own pace and from the comfort of your own home. A Day in the Life of an Online Data Analyst:\n\n\nIn this role, you will be working on a project aimed at enhancing the content and quality of digital maps that are used by millions of people worldwideCompleting research and evaluation tasks in a web-based environment such as verifying and comparing data, and determining the relevance and accuracy of information.\nJoin us today and be part of a dynamic and innovative team that is making a difference in the world! TELUS Digital AI Community\n\n\nOur global AI Community is a vibrant network of more than one million contributors from diverse backgrounds who help customers collect, enhance, train, translate, and localize content to build better AI models. Become part of our growing community and contribute to the development of innovative AI technologies used by some of the world's largest brands. Qualification path\n\n\nNo previous professional experience is required to apply to this role, however, working on this project will require you to pass the basic requirements and go through a standard assessment process. This is a part-time long-term project and your work will be subject to our standard quality assurance checks during the term of this agreement.\n\n\nBasic\nRequirements\nFull Professional Proficiency in English and Spanish languageBeing a resident in Chile for the last 5 consecutive years and having familiarity with current and historical business, media, sport, news, social media, and cultural affairs in ChileAbility to follow guidelines and conduct online research using search engines, online maps, and website informationFlexibility to work across a diverse set of task types, including maps, news, audio tasks, and relevanceDaily access to a broadband internet connection, computer, and relevant software\nAssessment In order to be hired into the program, you’ll take an open book qualification exam that will determine your suitability for the position and complete ID verification. Our team will provide you with guidelines and learning materials before your qualification exam. You will be required to complete the exam in a specific timeframe but at your convenience.\n\n\nService\nRates\nCompensation is based on tasks completed and project availability. Estimated earnings may vary depending on task volume and program requirements including, quality, and productivity, in accordance with the program's quality standards and guidelines.\n\n\nIndependent Contractor\nRelationship\nThis opportunity is offered on an independent contractor basis. Contributors have the flexibility to choose when and how much they work, subject to project availability and quality requirements. This opportunity is not and should not be construed as creating an employment relationship with TELUS Digital.",
+      "apply_options": [
+        {
+          "title": "BeBee",
+          "link": "https://bebee.com/cl/jobs/online-data-analyst-spanish-cl-telus-digital-concepcion--jooble-3358159379193189930?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Levels.fyi",
+          "link": "https://www.levels.fyi/jobs?jobId=32s0zrdguzkmo&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Jooble",
+          "link": "https://cl.jooble.org/rjdp/-2055871084680806323?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "LinkedIn",
+          "link": "https://cl.linkedin.com/jobs/view/online-data-analyst-spanish-speakers-in-chile-at-telus-digital-4470982808?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Chiletrabajos",
+          "link": "https://www.chiletrabajos.cl/trabajo/online-data-analyst-spanish-cl-3899823?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "JobLeads",
+          "link": "https://www.jobleads.com/cl/job/online-data-analyst-spanish-cl--concepcion--ece5824f32098e065f04106c1fc70025a?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJPbmxpbmUgRGF0YSBBbmFseXN0IC0gU3BhbmlzaCAoQ0wpIiwiY29tcGFueV9uYW1lIjoiVEVMVVMgRGlnaXRhbCIsImh0aWRvY2lkIjoiTkxmbnpNcmhhc3RROXVGd0FBQUFBQT09IiwidXVsZSI6IncrQ0FJUUlDSUZRMmhwYkdVIiwiZ2wiOiJjbCIsImhsIjoiZXMiLCJmYyI6IkVzd0JDb3dCUVVwcFZEUjBTMHhJZDFFelRHUXRlUzFQVkdaWE9VSkdWSGR4VlMxdFgweG1OMEpOZEZoaE1WTlVPRjlSUmxOZmJVdExZamN3ZW1kYU5tOXBaa1ZyUTBSNlpHTXplRkl6WTBRM1N6QTFjWE5RVEZoeFpIRlNYM0pOZWxZM00wcExYeTAwWm5wUlUyOXBUemhXUkZOWmRsRldhMGxWY1UxRlVVYzBjMlpQUVVkMVNqaE5VMk53V21rNGVuTVNGMFZCVkVGaGNETkNSVGREV2pRdFJWQXlZalpUYlZGVkdpSkJSSE55T1daUk9FRlJjR1JvT0d4M2VWRTVMVFJEYURWeFpYaEpielZLU25aMyIsImZjdiI6IjMiLCJmY19pZCI6Ik5MZm56TXJoYXN0UTl1RndBQUFBQUE9PSJ9"
+    },
+    {
+      "title": "Remote Spanish Data Analyst for Maps",
+      "company_name": "TELUS Digital",
+      "location": "Concepción",
+      "via": "Trabajo.org",
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Data+Analyst&htidocid=rltkW2etNVX3UsOSAAAAAA%3D%3D&hl=es-CL&shem=epsd1,esd2e,rimspwouoe&shndl=37&shmd=H4sIAAAAAAAA_xXMMQ6CQBBA0dhyBGMxtQVrTGy0MmJstBGtyQDjsmbZWZkxwdt4BztbLqY0v3r5yXuS7M7UshLkEYOTBjJUhG1A_xKFG3dwwihrKIevPJ5UI9QE1EZPDBTgwGw9TTeN6l8ZI-JTK4rqqrTi1nCgkntz51LGFNJgR9GjUrFcLfo0BjufXfbHaw6Zs07Rj9cdh4pi5YZP-AHW3540owAAAA&shmds=v1_ARwrE23TcV_4PL23rmDwKT6NnRx22cVLcp9LpogD93QxONumWA&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Data+Analyst&htidocid=rltkW2etNVX3UsOSAAAAAA%3D%3D",
+      "thumbnail": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAADgAAAA4CAMAAACfWMssAAAAkFBMVEX____6-fv9_P339fjy8PTp5e3v7fLs6e_j3uizpsChkLH1_e6535eaym7Sx93Sytq_tMqvnb-RnIqIsGHp7eZJHm3Eus5SLXStoLyYiKlvVIlcOXrX0d737_256pOu6HhjRoGnmLbJwtN7ZpKHcpzl-dWj4Wy755rp-Nx2Xo6RfqXH66ub3WDO7bTU8L7v-eXEe7WVAAABDElEQVRIie2Ry07DMBBFr2fsxHaBmFdqt6GN3ZQW8-j__x2pEBKLECGW4LOwxrKOPHMHKBQKhX_DAiD6hXdxedUorRWUJq5AihS4qXlW0u765vZuLMx9y0svUoBc1iusbafmPNs-bLaLcyV68DoiWci1XCHthvk2948H4LgHeAXuB256S087jzyEOe355XW_eTscP-_0kZIYy_kJx59wOk29_DxkmWOnWSQnJDuRTQUhiRicSJBERUJMi7XDYLz1oYvGicE1wThvbWzPhzfGhTxtVrY1to2jFa1nq5vsGptj5BCiVzmlHKdF0nqUQ8VK1wp63KJJLLWErGspuGM1t9fqa5bfzFQoFAp_mnebtg-8bb203QAAAABJRU5ErkJggg.png",
+      "extensions": [
+        "hace 2 días",
+        "Tiempo completo"
+      ],
+      "source_link": "https://cl.trabajo.org/oferta-2254-091f6e22e0bbcd2faf6c3bfd54224ad7",
+      "job_title": "Remote Spanish Data Analyst for Maps",
+      "description": "TELUS Digital is seeking a detail-oriented Online Data Analyst for a freelance, part-time role working remotely from Chile. You will help enhance digital maps by performing research, verifying data, and evaluating accuracy for global users.\n\nNo prior professional experience is required, but you will pass a basic qualification exam and ID verification as part of the onboarding process. This is a flexible, long-term contractor opportunity.",
+      "apply_options": [
+        {
+          "title": "Trabajo.org",
+          "link": "https://cl.trabajo.org/oferta-2254-091f6e22e0bbcd2faf6c3bfd54224ad7?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJSZW1vdGUgU3BhbmlzaCBEYXRhIEFuYWx5c3QgZm9yIE1hcHMiLCJjb21wYW55X25hbWUiOiJURUxVUyBEaWdpdGFsIiwiaHRpZG9jaWQiOiJybHRrVzJldE5WWDNVc09TQUFBQUFBPT0iLCJ1dWxlIjoidytDQUlRSUNJRlEyaHBiR1UiLCJnbCI6ImNsIiwiaGwiOiJlcyIsImZjIjoiRXN3QkNvd0JRVXBwVkRSMFNuaGFaR3RUTjB0YVNIWTFNMmswVG10MlQySm5jMHBmV25CWFVWaENPRXhLWjJsdE5FdEZjVm8wZFVaVFZFWjFNbmhGUlY5Q2NubE9TRXRpVlRCRWJIZHFWV3QwVVZkcWRXcHhUMkl5TFU5dFdsY3lUVFZRY2taNVZUSTJhVjltY1hOdmJGY3RhbkIwTFhKa1RqaE5VRE4xUlVOWFZFcDZRbFpWVkU5VVNVVTBZVlZLUlRjU0YwVkJWRUZoY0ROQ1JUZERXalF0UlZBeVlqWlRiVkZWR2lKQlJITnlPV1pST1Y5RlkzUkJaM1pVZVRaNFluVnNWREoyVW1kV1UzVXdOVjlSIiwiZmN2IjoiMyIsImZjX2lkIjoicmx0a1cyZXROVlgzVXNPU0FBQUFBQT09In0="
+    },
+    {
+      "title": "Accounting Data Analyst: Data-Driven Process & Automation",
+      "company_name": "Banco-De-Cr",
+      "location": "Santiago",
+      "via": "JobLeads",
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Data+Analyst&htidocid=piDfHgFmHuhQ8AWpAAAAAA%3D%3D&hl=es-CL&shem=epsd1,esd2e,rimspwouoe&shndl=37&shmd=H4sIAAAAAAAA_x2OsQrCQBBEsc0PCFZbWQjJiWATq2jAVrCxC5vLcolcbmN2I_GvrG39MRObgYE3j4nei-iWWctD0CY4yFERsoD-JZr-W5z3zZMCXHq2JAJryAblFrXhkEL5_chjoAqhIqC288QwwWdm52l1qFU7SY0R8YkTnUY2sdwaDlTyaO5cyhyF1NhT51Gp2O23Y9IFt1keMViOc4pP_ey84nQRHf8Aa-z6u7MAAAA&shmds=v1_ARwrE23cpCiov65ljD8IhufhzbhM83ffxqByrHwP7IWq0tWiYQ&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Data+Analyst&htidocid=piDfHgFmHuhQ8AWpAAAAAA%3D%3D",
+      "thumbnail": "https://serpapi.com/images/i/_9j_4AAQSkZJRgABAQAAAQABAAD_2wCEAAkGBwgHBgkIBwgKCgkLDRYPDQwMDRsUFRAWIB0iIiAdHx8kKDQsJCYxJx8fLT0tMTU3Ojo6Iys_RD84QzQ5OjcBCgoKDQwNGg8PGjclHyU3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3N__AABEIADgAOAMBIgACEQEDEQH_xAAbAAEAAgIDAAAAAAAAAAAAAAAABAcBBQIDBv_EAC4QAAEEAgECAwUJAAAAAAAAAAEAAgMEBREhBhIxQVEUMnGx0RMWIjNVY5GU8P_EABgBAQADAQAAAAAAAAAAAAAAAAADBAUG_8QAIREAAQQBAwUAAAAAAAAAAAAAAAECAxEEEhMxBSFxscH_2gAMAwEAAhEDEQA_ALxREQBERAEREAREQBamXqbBQyvimy9GOSNxa9jp2gtIOiDytqToE-OvRUZP031DYnlnfh7QdK90jh2-ZOz81DLI5laUs0unYcWSrt1-mvH0tv71dP8A63j_AOw36rm3qbBOhlmbl6JiiAMjxO3TNnQ2d8cqnD0xnQdHFWR8QPqtjU6fysGKcJMfca6W_CXiJjXPbHGHO7gHHR_EW8HhIJHySI1yUhYzun4uPjukZJqVOE7FszZrFwUGZCbI1WU3-5OZm9jvgfNR4-p8DK6FseZoF0_5Q9obt_OuOfUELweDx1_CWaNvL4V96vHWkbBHX7JH1nukc4uczeu5wI2RwPBdWSw1_KZqS7JiZK2KnkgisU42s-1dHy9zgR6P97t5OytDZjtUv0c9uOrgthERVScIiICPJSqyvL5a8T3nxc5gJWDj6bgA6rCQN6BjB1vx-QUlEFkf2Gpvfs0W9a32BYGPpDWqkA1-2P8AeQ_hSUQBERAEREAREQBERAEREB__2Q.jpeg",
+      "extensions": [
+        "hace 3 días",
+        "De $18 M a $27 M por año",
+        "Tiempo completo"
+      ],
+      "source_link": "https://www.jobleads.com/cl/job/accounting-data-analyst-data-driven-process-automation--santiago--e3bb7c6719b0ad5d39a601c251f633e56",
+      "job_title": "Accounting Data Analyst: Data-Driven Process & Automation",
+      "description": "Banco-De-Cr busca un Especialista en Accounting Data Analyst para transformar datos contables y de negocio en información útil para decisiones. El rol implica diseñar soluciones analíticas, levantar procesos y automatizar mejoras, con foco en calidad de información y trazabilidad.\n\nSe requieren habilidades en Excel, Power BI y SQL, además de experiencia en visualización de datos y manejo de grandes volúmenes. Se valoran conocimientos de Python, IA Generativa y herramientas de BPMN/Visio.",
+      "apply_options": [
+        {
+          "title": "JobLeads",
+          "link": "https://www.jobleads.com/cl/job/accounting-data-analyst-data-driven-process-automation--santiago--e3bb7c6719b0ad5d39a601c251f633e56?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJBY2NvdW50aW5nIERhdGEgQW5hbHlzdDogRGF0YS1Ecml2ZW4gUHJvY2VzcyBcdTAwMjYgQXV0b21hdGlvbiIsImNvbXBhbnlfbmFtZSI6IkJhbmNvLURlLUNyIiwiaHRpZG9jaWQiOiJwaURmSGdGbUh1aFE4QVdwQUFBQUFBPT0iLCJ1dWxlIjoidytDQUlRSUNJRlEyaHBiR1UiLCJnbCI6ImNsIiwiaGwiOiJlcyIsImZjIjoiRXN3QkNvd0JRVXBwVkRSMFNXdFpPV1pEWlMxYWFWVXpUMnRvYmpGSVJuTjJaVmhmWTNSWVdtSnBNbFZGV21NMmNURklRa1p0YWpNMVZVdHJYMUp4Y1UxWU5UaFNTRVJKUjFGNVNHaGtSbXMzY0ZoS2NtcDNWbHBqVTFoc1dHVTRlVU5FTjNWclZGRnlhVTVGUzE5ZlkxaHFkM2xZUkZkSWIzRm5TVTV1YnpGaWEwdERZM1ZxWlV0bFgzbDBXREV6YVdzU0YwVkJWRUZoY0ROQ1JUZERXalF0UlZBeVlqWlRiVkZWR2lKQlJITnlPV1pVV1ZaRGRITlpOVkZMV0ZWMk5XcGpNaTAwVnpkVlVYaE9OVmRSIiwiZmN2IjoiMyIsImZjX2lkIjoicGlEZkhnRm1IdWhROEFXcEFBQUFBQT09In0="
+    },
+    {
+      "title": "Commercial Analyst: Data-Driven Growth",
+      "company_name": "BAT",
+      "location": "Santiago",
+      "via": "Trabajo.org",
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Data+Analyst&htidocid=DQoDm21QWt755TrLAAAAAA%3D%3D&hl=es-CL&shem=epsd1,esd2e,rimspwouoe&shndl=37&shmd=H4sIAAAAAAAA_xXMMQ7CMAxAUbF2YWfyjESDkFjKBBRxANgrt7XSoCQOsYFyEC7DysVQl7886RefWXE6cgiUO4ce9hH9W7SCGhVXdXZPinDO_NKhgvb3lfuDeoSegELyxDAxs_W02A2qSSpjRHxpRVFdV3YcDEdqeTQ3bmVKIwNmSh6Vms12PZYp2uX8sL9OrwtGdWj5DwvEwiaYAAAA&shmds=v1_ARwrE23HMeAaUtcf3S7NheI8W6zZD60m7kS_tV33tC-hxtYcOA&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Data+Analyst&htidocid=DQoDm21QWt755TrLAAAAAA%3D%3D",
+      "thumbnail": "https://serpapi.com/images/i/_9j_4AAQSkZJRgABAQAAAQABAAD_2wCEAAkGBwgHBgkIBwgKCgkLDRYPDQwMDRsUFRAWIB0iIiAdHx8kKDQsJCYxJx8fLT0tMTU3Ojo6Iys_RD84QzQ5OjcBCgoKDQwNGg8PGjclHyU3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3N__AABEIADgAOAMBIgACEQEDEQH_xAAZAAEAAwEBAAAAAAAAAAAAAAAAAwQFBgf_xAA0EAABAwIEAAkNAQAAAAAAAAABAAIDBBEFEhMhBhQxNlFxcoKyFiI0QVVjgZOhorHB0RX_xAAXAQEBAQEAAAAAAAAAAAAAAAAAAQQC_8QAGhEBAQEAAwEAAAAAAAAAAAAAAAERAxIhAv_aAAwDAQACEQMRAD8A9xREQES6yq_H6Gjqo6UyatQ97Wace-Uk236PymDVREQEREBVsRrYcPo5aqoJEcYF8oudzYfUqysThnzbrO542qybZBymLcKa_E38XogaeF2wDT57us-r4LKoYpIcVo2ysLXa8Zse0FBR6nGotHLqZhlzcl1ckNQMYpDU5NQPjtk5LZlr6yTI6erIuVqcf0MUjoHGYudlBeDsCeTZdDQPc-C73Em53KyWWOVlERQFicM-bdX3PG1bapYzQDE8Olo3SGMSZbuAvaxB_Ss8ujyeN7o3tew5XDcHoU9NLJNiNM6V5c7VYLntBdZ5CR-0H_KH9UkHAiOGeOXj7zkeHW0hvY9a03l-XWrz4InytmdEwyt2a8tGYdRWth3o_eKj_wA_3v2qzTw6MeTNfe91mt1KlREUQREQEREBERAREQf_2Q.jpeg",
+      "extensions": [
+        "hace 2 días",
+        "Tiempo completo"
+      ],
+      "source_link": "https://cl.trabajo.org/oferta-5486-d65449292982a990141c79b3cd57c5be",
+      "job_title": "Commercial Analyst: Data-Driven Growth",
+      "description": "BAT Chile está buscando un Commercial Analyst para apoyar la toma de decisiones a través de análisis de ventas y reporting. El/la candidato/a ideal tendrá experiencia en BI, Excel y Power BI, capacidades analíticas y visión estratégica para optimizar el portafolio y las cuentas clave.\n\nLa posición es en Santiago, con oportunidad de desarrollo profesional y un entorno global. Se valorará experiencia previa en áreas comerciales y una actitud proactiva para identificar oportunidades de negocio.",
+      "apply_options": [
+        {
+          "title": "Trabajo.org",
+          "link": "https://cl.trabajo.org/oferta-5486-d65449292982a990141c79b3cd57c5be?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJDb21tZXJjaWFsIEFuYWx5c3Q6IERhdGEtRHJpdmVuIEdyb3d0aCIsImNvbXBhbnlfbmFtZSI6IkJBVCIsImh0aWRvY2lkIjoiRFFvRG0yMVFXdDc1NVRyTEFBQUFBQT09IiwidXVsZSI6IncrQ0FJUUlDSUZRMmhwYkdVIiwiZ2wiOiJjbCIsImhsIjoiZXMiLCJmYyI6IkVzd0JDb3dCUVVwcFZEUjBURlpxY0cxRlJsUk1ObWt3VEZCYVVIcGlPRVJ6WjNGM2JHNHlSVlp0UlZCaGVuWk5kWFp2UVMwMVNrNDJSVWxNU1Uxc2RrMXVVMnhyWTJSTlRIZDZUMDVTUzBOSVlsSnFlVVJ3Y0VNMUxYQk1VV3gyUVVFeFpYZElZMkpDZEZjemFWOUNPWE5RVEROU1JqUXhiVFJhUWkxekxVbGpRV1JqZURWUVdtODJWWFZRYWxkTE0wb1NGMFZCVkVGaGNETkNSVGREV2pRdFJWQXlZalpUYlZGVkdpSkJSSE55T1daVU1WbHVaVEpsU21GRWNVVkZhRFYyVWxOak0yMW9hRTQxWkZobiIsImZjdiI6IjMiLCJmY19pZCI6IkRRb0RtMjFRV3Q3NTVUckxBQUFBQUE9PSJ9"
+    },
+    {
+      "title": "Analista Senior de Marketing Data‑Driven",
+      "company_name": "LarrainVial",
+      "location": "Santiago",
+      "via": "Trabajo.org",
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Data+Analyst&htidocid=Vgq6qSQqrbFbF6BTAAAAAA%3D%3D&hl=es-CL&shem=epsd1,esd2e,rimspwouoe&shndl=37&shmd=H4sIAAAAAAAA_xXMMQrCQBBAUWxzAcFqa4usCDaxEgQRtArYhkkybEY3M-vuKCm9gkfwGrbexJNoml99XvaaZPsNg6ekYEpkkmhaNEeIF1RiZ7ag8H08t5HuyIWpP-90vWEL44V98CgG2exEnMfZulMNqbA2JZ-7P6nU5I30VhhrGexZ6jSmSh1EDB4Uq-VqMeSB3Xx6gBiB-ETgR7MEVgInPw8oAFSkAAAA&shmds=v1_ARwrE227vymCm64gnb2oLGQaJevHe3MmuJczxyIRkNgJH_rT7A&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Data+Analyst&htidocid=Vgq6qSQqrbFbF6BTAAAAAA%3D%3D",
+      "thumbnail": "https://serpapi.com/images/i/_9j_4AAQSkZJRgABAQAAAQABAAD_2wCEAAkGBwgHBgkIBwgKCgkLDRYPDQwMDRsUFRAWIB0iIiAdHx8kKDQsJCYxJx8fLT0tMTU3Ojo6Iys_RD84QzQ5OjcBCgoKDQwNGg8PGjclHyU3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3N__AABEIADgAOAMBIgACEQEDEQH_xAAZAAEAAwEBAAAAAAAAAAAAAAAAAwQFBgf_xAA0EAABAwIEAAkNAQAAAAAAAAABAAIDBBEFEhMhBhQxNlFxcoKyFiI0QVVjgZOhorHB0RX_xAAXAQEBAQEAAAAAAAAAAAAAAAAAAQQC_8QAGhEBAQEAAwEAAAAAAAAAAAAAAAERAxIhAv_aAAwDAQACEQMRAD8A9xREQES6yq_H6Gjqo6UyatQ97Wace-Uk236PymDVREQEREBVsRrYcPo5aqoJEcYF8oudzYfUqysThnzbrO542qybZBymLcKa_E38XogaeF2wDT57us-r4LKoYpIcVo2ysLXa8Zse0FBR6nGotHLqZhlzcl1ckNQMYpDU5NQPjtk5LZlr6yTI6erIuVqcf0MUjoHGYudlBeDsCeTZdDQPc-C73Em53KyWWOVlERQFicM-bdX3PG1bapYzQDE8Olo3SGMSZbuAvaxB_Ss8ujyeN7o3tew5XDcHoU9NLJNiNM6V5c7VYLntBdZ5CR-0H_KH9UkHAiOGeOXj7zkeHW0hvY9a03l-XWrz4InytmdEwyt2a8tGYdRWth3o_eKj_wA_3v2qzTw6MeTNfe91mt1KlREUQREQEREBERAREQf_2Q.jpeg",
+      "extensions": [
+        "hace 2 días",
+        "Tiempo completo"
+      ],
+      "source_link": "https://cl.trabajo.org/oferta-5486-613ab4e5e7142bbe3e22e56d7ee54d6b",
+      "job_title": "Analista Senior de Marketing Data‑Driven",
+      "description": "LarrainVial busca un Analista de Marketing para integrarse a la Gerencia de Innovación, Marketing y Experiencia de Clientes. Su objetivo es apoyar la toma de decisiones mediante análisis de datos, monitoreo de indicadores y generación de insights.\n\nSe busca perfil data-driven con Excel avanzado y experiencia en BI/Power BI, Inglés avanzado y al menos 3 años en marketing o analytics; orientado a optimizar resultados y a ampliar la eficiencia de las acciones de marketing.",
+      "apply_options": [
+        {
+          "title": "Trabajo.org",
+          "link": "https://cl.trabajo.org/oferta-5486-613ab4e5e7142bbe3e22e56d7ee54d6b?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJBbmFsaXN0YSBTZW5pb3IgZGUgTWFya2V0aW5nIERhdGHigJFEcml2ZW4iLCJjb21wYW55X25hbWUiOiJMYXJyYWluVmlhbCIsImh0aWRvY2lkIjoiVmdxNnFTUXFyYkZiRjZCVEFBQUFBQT09IiwidXVsZSI6IncrQ0FJUUlDSUZRMmhwYkdVIiwiZ2wiOiJjbCIsImhsIjoiZXMiLCJmYyI6IkVzd0JDb3dCUVVwcFZEUjBTWGsyTUhBd1ZGcHNUREJuUzBFeWFIbGFSMmhEVDNoUllubHhUekZYTkVoUVNYVmZZbXBzTm5OWmFUTXpOVVJZWXpSbWFFWjFUekZ0WDI1NFgwNVBiVGhDUkRJMVZGVm9PUzFyZFZBek9HZHdRbXBZYjNkbVdEQkpPWFF4UlZWbU1tMVFWR0puU2kwd1QyMWhVV3hwWkhwbE5XWm9OUzF6ZGtWSlMzUXhOWE56U0hsc1dDMFNGMFZCVkVGaGNETkNSVGREV2pRdFJWQXlZalpUYlZGVkdpSkJSSE55T1daUlZIVlBXVzV2WTE5UlFVaERRamRhWVROdFpqbEhlVUp4WWpoQiIsImZjdiI6IjMiLCJmY19pZCI6IlZncTZxU1FxcmJGYkY2QlRBQUFBQUE9PSJ9"
+    },
+    {
+      "title": "Cloud Data and Analytics Consultant, Professional Services (English, Portuguese, Spanish)",
+      "company_name": "Google LLC",
+      "location": "Santiago",
+      "via": "Jooble",
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Data+Analyst&htidocid=i9H9Simap5ZBxwuxAAAAAA%3D%3D&hl=es-CL&shem=epsd1,esd2e,rimspwouoe&shndl=37&shmd=H4sIAAAAAAAA_yWOMU7DQBBFRZsDUFBNCcjyokg0SYVMlCZFJB8gGtvDetF6ZvHMRs7V0nIArsRGaX7xn_T-X_09rJYmSh7gEw0BeYAPxnix0Cs0wpqjIVsFx1m-SDVIodDSfA49KTzv2MegY-EyW_aZlCpoE3IpXzbQ_V71J9OAMBDQlCIJEMNexEd62o5mSTfOqcbaq2FZrXuZnDB1srhv6fQWJx1xphTR6LR-f1vqxP718S6Bw6G5KdvyMqCXf1qj7LnSAAAA&shmds=v1_ARwrE206m6-NiFqSV7Ztm1zD1dGxZN4CtWlYJtUDGjZ4p-20JQ&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Data+Analyst&htidocid=i9H9Simap5ZBxwuxAAAAAA%3D%3D",
+      "extensions": [
+        "hace 3 días",
+        "Tiempo completo"
+      ],
+      "source_link": "https://cl.jooble.org/jdp/-6447905230348956462",
+      "job_title": "Cloud Data and Analytics Consultant, Professional Services (English, Portuguese, Spanish)",
+      "description": "Cloud Data and Analytics Consultant, Professional Services (English, Portuguese, Spanish) Share Cloud Data and Analytics Consultant, Professional Services (English, Portuguese, Spanish)\n\n Please submit your resume in English - we can only consider applications submitted in this language. \n\n Only applications of candidates with Mexican citizenship will be evaluated for this role in compliance with the provisions of Article 7 of the Federal Labor Law. \n In most instances, this position requires in-person interviews as part of the hiring process. \n\n Note: By applying to this position you will have an opportunity to share your preferred working location from the following:  São Paulo, Brazil; Santiago, Chile; Buenos Aires, Argentina; Bogotá, Bogota, Colombia; Mexico City, CDMX, Mexico  . \n\n Bachelor’s degree or equivalent practical experience. \n5 years of experience troubleshooting technical issues for internal/external partners or customers.  Experience in either system design or reading code (e.g., Java, C++, Python).  Ability to communicate in English and either Portuguese or Spanish fluently to engage with regional LATAM stakeholders.  Preferred qualifications:  Professional Cloud Certification. 8 years of experience working with software code in one or more languages (e.g., Python, Java, Scala, or Go).  Experience designing and deploying large-scale distributed data processing systems with one or more technologies (e.g. Relational Databases, Data Warehousing Databases, Hadoop, Spark, Teradata, BigQuery, others). \n\n About the job  The Google Cloud Consulting Professional Services team guides customers through the moments that matter most in their cloud journey to help businesses thrive. We help customers transform and evolve their business through the use of Google’s global network, web-scale data centers, and software infrastructure. As part of an innovative team in this rapidly growing business, you will help shape the future of businesses of all sizes and use technology to connect with customers, employees, and partners. \n\n As a Cloud Consultant, you will work with customers on critical projects to help them transform their businesses. You'll provide management, consulting, and technical capabilities to customer engagements while working with customer executives and key technical leaders to deploy solutions via Google Cloud Platform. You will also work with key partners, serving accounts to manage programs, deliver consulting services, and provide technical guidance and best practice expertise. \n\n Google Cloud accelerates every organization’s ability to digitally transform its business and industry. We deliver enterprise-grade solutions that leverage Google’s cutting-edge technology, and tools that help developers build more sustainably. Customers in more than 200 countries and territories turn to Google Cloud as their trusted partner to enable growth and solve their most critical business problems. \n\n Responsibilities  Work with customer technical leads, client executives, and partners to manage and deliver successful implementations of cloud solutions, becoming a trusted advisor to decision makers throughout the engagement.  Work with internal specialists, Product, and Engineering teams to package best practices and lessons learned into thought leadership, methodologies, and published assets.  Interact with Sales, partners, and customer technical stakeholders to manage project scope, priorities, deliverables, risks/issues, and timelines for successful client outcomes.  Advocate for customer needs in order to overcome adoption blockers and drive new feature development based on field experience.  Propose solution architectures and manage the deployment of cloud-based distributed virtualized infrastructure solutions according to complex customer requirements and implementation of best practices.  Google is proud to be an equal opportunity and affirmative action employer. We are committed to building a workforce that is representative of the users we serve, creating a culture of belonging, and providing an equal employment opportunity regardless of race, creed, color, religion, gender, sexual orientation, gender identity/expression, national origin, disability, age, genetic information, veteran status, marital status, pregnancy or related condition (including breastfeeding), expecting or parents-to-be, criminal histories consistent with legal requirements, or any other basis protected by law. See also Google's EEO Policy , Know your rights: workplace discrimination is illegal , Belonging at Google , and How we hire . \n\n Google is a global company and, in order to facilitate efficient collaboration and communication globally, English proficiency is a requirement for all roles unless stated otherwise in the job posting. \n\n To all recruitment agencies: Google does not accept agency resumes. Please do not forward resumes to our jobs alias, Google employees, or any other organization location. Google is not responsible for any fees related to unsolicited resumes. \n\n Equity is granted exclusively and discretionarily by Alphabet Inc. on the basis of an agreement concluded between you and Alphabet Inc. Alphabet Inc. is your sole contractual partner with respect to equity grants. GSU grants are not guaranteed, are discretionary, are subject to approval by the Alphabet Inc. board of directors or its delegate, the terms of the relevant Alphabet Inc. stock plan, and your grant agreement. They have no impact on statutory payments. Current or past grants do not confer an acquired right. \n\n#J-18808-Ljbffr",
+      "apply_options": [
+        {
+          "title": "Jooble",
+          "link": "https://cl.jooble.org/jdp/-6447905230348956462?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Indeed",
+          "link": "https://cl.indeed.com/viewjob?jk=875f6a1a1a58d6c3&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "LinkedIn",
+          "link": "https://cl.linkedin.com/jobs/view/cloud-data-and-analytics-consultant-professional-services-english-portuguese-spanish-at-google-4471518344?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "BeBee",
+          "link": "https://bebee.com/cl/jobs/cloud-data-and-analytics-consultant-professional-services-english-portuguese-spanish-google-gran-san--techmap_cl_4471518344?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "JobLeads",
+          "link": "https://www.jobleads.com/cl/job/cloud-data-and-analytics-consultant-professional-services-english-portuguese-spanish--santiago--efadefbfbbb62f801dd55045de180f5f1?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Buscojobs",
+          "link": "https://www.buscojobs.cl/cloud-data-and-analytics-consultant-professional-services-english-portuguese-spanish-en-santiago-ID-19489295?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJDbG91ZCBEYXRhIGFuZCBBbmFseXRpY3MgQ29uc3VsdGFudCwgUHJvZmVzc2lvbmFsIFNlcnZpY2VzIChFbmdsaXNoLCBQb3J0dWd1ZXNlLCBTcGFuaXNoKSIsImNvbXBhbnlfbmFtZSI6Ikdvb2dsZSBMTEMiLCJodGlkb2NpZCI6Imk5SDlTaW1hcDVaQnh3dXhBQUFBQUE9PSIsInV1bGUiOiJ3K0NBSVFJQ0lGUTJocGJHVSIsImdsIjoiY2wiLCJobCI6ImVzIiwiZmMiOiJFc3dCQ293QlFVcHBWRFIwVEVOSmJHMU1RWEo2UmxSMWJFeG5kWHBhYzNwV1FVSmpYMmswYmtoRlpHeDRSVzQzYnpSMmNHYzNSa0ZIVDJ0M01IUlJWVU5ZYTBsQ1dWSlNiR0ZqYTFZMlYyeFFRMDl4ZDFBMU4weFpUbEJ0Wmt0eldESnNSa0U0V0V0bU1FY3dPSFU0U0RNMmEydFZUa3haWjFwYVkxUnpSM05IVkMwM1pFbE1TbmxTUlVkRVNqSjZYMThTRjBWQlZFRmhjRE5DUlRkRFdqUXRSVkF5WWpaVGJWRlZHaUpCUkhOeU9XWlJhMngwU0VWSmRFVlVRMUo2UjA5WVUzWk1hR0phZUZOUlNISm4iLCJmY3YiOiIzIiwiZmNfaWQiOiJpOUg5U2ltYXA1WkJ4d3V4QUFBQUFBPT0ifQ=="
+    },
+    {
+      "title": "Associate Data Analyst",
+      "company_name": "Falabella",
+      "location": "Región Metropolitana",
+      "via": "Trabajo.org",
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Data+Analyst&htidocid=ncdTid7LPEjEO-snAAAAAA%3D%3D&hl=es-CL&shem=epsd1,esd2e,rimspwouoe&shndl=37&shmd=H4sIAAAAAAAA_xXMMQ7CMAwAQLH2CUwWI0ODkFjKVAnBxMIHKqe10iA3DrWRyk_4BxtrPwZdbrzivSoOtaq0EY3ghIZQJ-SXWgV-_urjSR1CR0BDZhKgBBeRwLQ-9mZZK-dUuQxqaLEtWxmcJPIyubt4XWi0x5Ey__9mf9hNZU5huzkjoydmXMYbhTh_ElzJRsnC0TDhDywib8CbAAAA&shmds=v1_ARwrE21CVknrItpmBy8IdOyp-j4NNMjaean4tjvMJtufd_ypEw&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Data+Analyst&htidocid=ncdTid7LPEjEO-snAAAAAA%3D%3D",
+      "thumbnail": "https://serpapi.com/images/i/_9j_4AAQSkZJRgABAQAAAQABAAD_2wCEAAkGBwgHBgkIBwgKCgkLDRYPDQwMDRsUFRAWIB0iIiAdHx8kKDQsJCYxJx8fLT0tMTU3Ojo6Iys_RD84QzQ5OjcBCgoKDQwNGg8PGjclHyU3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3N__AABEIADgAOAMBIgACEQEDEQH_xAAZAAEAAwEBAAAAAAAAAAAAAAAAAwQFBgf_xAA0EAABAwIEAAkNAQAAAAAAAAABAAIDBBEFEhMhBhQxNlFxcoKyFiI0QVVjgZOhorHB0RX_xAAXAQEBAQEAAAAAAAAAAAAAAAAAAQQC_8QAGhEBAQEAAwEAAAAAAAAAAAAAAAERAxIhAv_aAAwDAQACEQMRAD8A9xREQES6yq_H6Gjqo6UyatQ97Wace-Uk236PymDVREQEREBVsRrYcPo5aqoJEcYF8oudzYfUqysThnzbrO542qybZBymLcKa_E38XogaeF2wDT57us-r4LKoYpIcVo2ysLXa8Zse0FBR6nGotHLqZhlzcl1ckNQMYpDU5NQPjtk5LZlr6yTI6erIuVqcf0MUjoHGYudlBeDsCeTZdDQPc-C73Em53KyWWOVlERQFicM-bdX3PG1bapYzQDE8Olo3SGMSZbuAvaxB_Ss8ujyeN7o3tew5XDcHoU9NLJNiNM6V5c7VYLntBdZ5CR-0H_KH9UkHAiOGeOXj7zkeHW0hvY9a03l-XWrz4InytmdEwyt2a8tGYdRWth3o_eKj_wA_3v2qzTw6MeTNfe91mt1KlREUQREQEREBERAREQf_2Q.jpeg",
+      "extensions": [
+        "hace 2 días",
+        "Tiempo completo"
+      ],
+      "source_link": "https://cl.trabajo.org/oferta-1401-1b72622ea7de18b1a27d79038dbd4eb7",
+      "job_title": "Associate Data Analyst",
+      "description": "Descripción Empresa\n\nSomos más de 88 mil personas que cada día trabajamos por el firme Propósito - Simplificar y Disfrutar más la Vida. Estamos presentes en 9 países y compuestos por cinco grandes marcas posicionadas de diversas industrias: Falabella Retail, Sodimac, Banco Falabella, Tottus y Mallplaza. Cada una de éstas nos hace ser quienes somos, y es entre todos, como Un Solo Equipo, que buscamos diariamente reinventarnos y superar las experiencias de nuestros clientes.\n\nUn Equipo lleno de sueños que hace que las cosas pasen. nos atrevemos a emprender e innovar, a tomar riesgos y a generar oportunidades que nos permitan estar siempre a la vanguardia lo que nos lleva a reinventarnos para entregar la mejor experiencia de compra en cualquier punto de encuentro con nosotros.\n\nFunciones Del Cargo\nSomosGrupoFalabella te queremos contagiar de innovación, compromiso, grandes desafíos y por sobre todo un clima laboral entretenido y muy colaborativo.\n\nSi eres una persona apasionada por el análisis de datos y el conocimiento de clientes, y te motiva generar información estratégica que impacte la toma de decisiones del negocio, esta oportunidad es para ti\n\nEn Falabella Retail, nos encontramos en búsqueda de un/a Associate Data Analyst\n\n¿Cuál es la misión del cargo?\n\nAnalizar y gestionar información de clientes, campañas e indicadores de negocio, generando insights y soluciones que contribuyan a la toma de decisiones, la optimización de procesos y el crecimiento de la estrategia CRM.\n\nResponsabilidades\n\nConstruir y actualizar indicadores de clientes para el seguimiento del desempeño comercial y de marketing.Mantener dashboards y reportes periódicos que permitan monitorear métricas clave del negocio.Generar análisis que identifiquen oportunidades, tendencias y desviaciones relevantes para la gestión de clientes.Desarrollar reportes de seguimiento y resultados de campañas CRM y marketing.Monitorear indicadores de desempeño y elaborar análisis sobre la efectividad de campañas e iniciativas.Apoyar a las distintas áreas de negocio en la interpretación y utilización de la información generada.Construir y mantener procesos automatizados de extracción, transformación y carga de datos.Ejecutar controles y validaciones que aseguren la calidad e integridad de la información.Identificar oportunidades de mejora en procesos de reportería, análisis y automatización.Participar en proyectos analíticos y de reportería, colaborando con distintas áreas de la compañía.Levantar requerimientos, coordinar actividades con stakeholders y dar seguimiento a iniciativas del área.Comunicar avances, resultados y hallazgos de manera clara y oportuna a los distintos equipos involucrados.Beneficios\n\nSeguro complementario.Días libres extra a tus vacaciones legales.Aguinaldos.Descuentos en nuestras tiendas con tu tarjeta CMR.Oportunidades de crecimiento profesional y aprendizaje.Requisitos\n\nIngeniería Civil - Informativa - ComercialSQL intermedioHerramientas de visualización de datos (Power BI, Tableau, Looker o similares).BigQuery o motores de bases de datos similares.Motivación por aprender",
+      "apply_options": [
+        {
+          "title": "Trabajo.org",
+          "link": "https://cl.trabajo.org/oferta-1401-1b72622ea7de18b1a27d79038dbd4eb7?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJBc3NvY2lhdGUgRGF0YSBBbmFseXN0IiwiY29tcGFueV9uYW1lIjoiRmFsYWJlbGxhIiwiaHRpZG9jaWQiOiJuY2RUaWQ3TFBFakVPLXNuQUFBQUFBPT0iLCJ1dWxlIjoidytDQUlRSUNJRlEyaHBiR1UiLCJnbCI6ImNsIiwiaGwiOiJlcyIsImZjIjoiRXN3QkNvd0JRVXBwVkRSMFMzbGhUV2sxYjNoSmNUa3lPR2hVVG5oeGVHZFhNRTg0ZG1KME5EUjFVa3hZTlhaUk5qUmxSbGRUWDJrNVlsWndNWEJ6ZFZJMFREVTFUVVpZZEdsa0xUTnViVTl0WW5JM2RscEdaMjh4U0ZkT1lubDNla3BwTFRJMFpEUmtZMDVxWVVsckxVbHhVWFZ4T0VobWJEQm9VRVJNTnpCblExaGhVREpZVmtKSVlUQmtWV1poVm00U0YwVkJWRUZoY0ROQ1JUZERXalF0UlZBeVlqWlRiVkZWR2lKQlJITnlPV1pVUzBrNGNXWjRXVTVmUWtKYWRVc3RlalEwWlVWbmQwMXVaRkJCIiwiZmN2IjoiMyIsImZjX2lkIjoibmNkVGlkN0xQRWpFTy1zbkFBQUFBQT09In0="
+    },
+    {
+      "title": "Finance Data Analyst: Automation & Reconciliations",
+      "company_name": "Liberty Specialty Markets",
+      "location": "Chile",
+      "via": "JobLeads",
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Data+Analyst&htidocid=gmDfVQZNE_RjdUQEAAAAAA%3D%3D&hl=es-CL&shem=epsd1,esd2e,rimspwouoe&shndl=37&shmd=H4sIAAAAAAAA_x2NMQ6CQBBFY8sRrCYWFhZgTGywIhpttFAPQIZlAqvLzsoMCdzLytaLCTY_Ly95-dF7Fl2P1qM3BAdUhMyjG0RTyDrlBtWyhyXcyLA31tm_kBSK70deHZUIJQE1wREDeTgxV47mu1o1SJokIi6uRMfKxIabhD0V3CcPLmSaXGpsKThUyjfbdR8HX60WZ1tQqwPcAxmLbqQLtk9SmR72tXX0A3aA8wa3AAAA&shmds=v1_ARwrE21Sk-1QpdCc1NO_s60ILM0LHS0Cjw9w33kC5S7LuUhtRw&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Data+Analyst&htidocid=gmDfVQZNE_RjdUQEAAAAAA%3D%3D",
+      "extensions": [
+        "hace 3 días",
+        "De $12 M a $18 M por año",
+        "Tiempo completo"
+      ],
+      "source_link": "https://www.jobleads.com/cl/job/finance-data-analyst-automation-reconciliations--chile--e3c17dc6ed87b8b4f3f38cf46137eeb72",
+      "job_title": "Finance Data Analyst: Automation & Reconciliations",
+      "description": "Liberty Specialty Markets is seeking a BI Analyst to become the functional expert in data collection from the new core system, mastering its logic to automate reconciliations between applications and to build management reporting and KPIs.\n\nYou will sustain data quality feeding the operation and regulatory reports within the Finance team, perform advanced data analysis, data mining, and process mining to drive continuous improvements in data governance.",
+      "apply_options": [
+        {
+          "title": "JobLeads",
+          "link": "https://www.jobleads.com/cl/job/finance-data-analyst-automation-reconciliations--chile--e3c17dc6ed87b8b4f3f38cf46137eeb72?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Jooble",
+          "link": "https://cl.jooble.org/jdp/-7007250921823954469?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Trabajo.org",
+          "link": "https://cl.trabajo.org/oferta-2254-6fe92cdebe1a7b335456b85fff967ee0?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJGaW5hbmNlIERhdGEgQW5hbHlzdDogQXV0b21hdGlvbiBcdTAwMjYgUmVjb25jaWxpYXRpb25zIiwiY29tcGFueV9uYW1lIjoiTGliZXJ0eSBTcGVjaWFsdHkgTWFya2V0cyIsImh0aWRvY2lkIjoiZ21EZlZRWk5FX1JqZFVRRUFBQUFBQT09IiwidXVsZSI6IncrQ0FJUUlDSUZRMmhwYkdVIiwiZ2wiOiJjbCIsImhsIjoiZXMiLCJmYyI6IkVzd0JDb3dCUVVwcFZEUjBTMHR3ZWtwaFNsazNkMVZXVUVSTlNqUnBiVVJHYUhaellWQmFZVTk1YUVoUU9WVjBOMjFWWTJ0dmJUSXRPVVJYWkRSR2NWRlBTemxuVkRKaGVERnJPV3hTWnpCTVRYWnFhR05DYldKNlVVWk1hVzVJT0VwRlVtODFWalJPYWtSd1h6ZERRMVZKYnpWUVpYRlFTalUwYWkxS2IxSm5ibkpPU25aTmJuaFhWbmhPUVhKdU1uTVNGMFZCVkVGaGNETkNSVGREV2pRdFJWQXlZalpUYlZGVkdpSkJSSE55T1daU1RVdDNTV2xVYXpSNmRGQlNXbVoxVG1wME1tUlhieTFJYWxoUiIsImZjdiI6IjMiLCJmY19pZCI6ImdtRGZWUVpORV9SamRVUUVBQUFBQUE9PSJ9"
+    }
+  ],
+  "serpapi_pagination": {
+    "next_page_token": "eyJmYyI6IkV2Y0NDcmNDUVVwcFZEUjBUREptVFZSc2JGOHdVbFE1TkVKblV6SnpNa015ZGsxeVlrZEtNM2xrVEc1VFdtZGFWSEZYYWpSTFJWRkhWRXRuYTFWNllWbExZV3hEYzFsa1kyeHNRWFF6WlV0elJ6QjZaQzFyWTNWU2FteENSM0F6T1hBMVprOUpTalV6Y0hsc05tZHNNRFF0UW1vdFFVNW1VV0l5ZWtSTVUwWlBWR1ZJZWtoWk1UQm1OM2RtVW10bGN6TnRiWGxGVUVkT1JtNVdXa05UT1VRNFNtaEdabTQ1ZEVkS2EyRmpWbkpzWlhOYVVtMWlYM2QyUm5WeGNHeHNhVUpaUldZNFZqRnhSVzh0WWpkUk9UbFlNMjU1YldKRFowTm9ja3BuVlZGWlpGRkhNV1JTZWtkd05ESkNhV0pEVUhCa2REWnVNV3hCUmpodVlqTmFhRXN6TFZvek5WaElTMjlRVDNWcWIyOWpPVVJmTjFKTE5EbGtSV2R0YzFWbWNFcEtYMEZCZURKUVNHRkpibk5SY0hveVVYbENTVVZrTlhGdlJHTVNGMFZCVkVGaGNETkNSVGREV2pRdFJWQXlZalpUYlZGVkdpSkJSSE55T1daVVVHOVlia1ZqT1VORFIzSmtaWHAxVWxwUGRIUmZTMUpvYjFCbiIsImZjdiI6IjMifQ==",
+    "next": "https://serpapi.com/search.json?chips=date_posted%3A3days&engine=google_jobs&gl=cl&google_domain=google.com&hl=es&location=Chile&next_page_token=eyJmYyI6IkV2Y0NDcmNDUVVwcFZEUjBUREptVFZSc2JGOHdVbFE1TkVKblV6SnpNa015ZGsxeVlrZEtNM2xrVEc1VFdtZGFWSEZYYWpSTFJWRkhWRXRuYTFWNllWbExZV3hEYzFsa1kyeHNRWFF6WlV0elJ6QjZaQzFyWTNWU2FteENSM0F6T1hBMVprOUpTalV6Y0hsc05tZHNNRFF0UW1vdFFVNW1VV0l5ZWtSTVUwWlBWR1ZJZWtoWk1UQm1OM2RtVW10bGN6TnRiWGxGVUVkT1JtNVdXa05UT1VRNFNtaEdabTQ1ZEVkS2EyRmpWbkpzWlhOYVVtMWlYM2QyUm5WeGNHeHNhVUpaUldZNFZqRnhSVzh0WWpkUk9UbFlNMjU1YldKRFowTm9ja3BuVlZGWlpGRkhNV1JTZWtkd05ESkNhV0pEVUhCa2REWnVNV3hCUmpodVlqTmFhRXN6TFZvek5WaElTMjlRVDNWcWIyOWpPVVJmTjFKTE5EbGtSV2R0YzFWbWNFcEtYMEZCZURKUVNHRkpibk5SY0hveVVYbENTVVZrTlhGdlJHTVNGMFZCVkVGaGNETkNSVGREV2pRdFJWQXlZalpUYlZGVkdpSkJSSE55T1daVVVHOVlia1ZqT1VORFIzSmtaWHAxVWxwUGRIUmZTMUpvYjFCbiIsImZjdiI6IjMifQ%3D%3D&q=Data+Analyst"
+  },
+  "_pipeline_metadata": {
+    "ingestion_timestamp_utc": "2026-10-02T19:20:49.399549+00:00",
+    "search_group": "bi_analytics",
+    "target_market": "Chile",
+    "target_location": "Chile",
+    "date_filter_applied": "3days",
+    "new_records_count": 10,
+    "provider": "serpapi"
+  }
+}

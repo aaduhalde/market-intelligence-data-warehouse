@@ -1,0 +1,682 @@
+{
+  "search_metadata": {
+    "id": "6ab9e867f30d13c2856ac020",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/IOIGhF4gtqlj-9-y4l72WLUz21GE2FyHKx1pVT7depY/6ab9e867f30d13c2856ac020.json",
+    "markdown_endpoint": "https://serpapi.com/searches/IOIGhF4gtqlj-9-y4l72WLUz21GE2FyHKx1pVT7depY/6ab9e867f30d13c2856ac020.md",
+    "created_at": "2026-09-28 04:09:11 UTC",
+    "processed_at": "2026-09-28 04:09:11 UTC",
+    "google_jobs_url": "https://www.google.com/search?q=Data+Analyst&uule=w+CAIQICIFQ2hpbGU&hl=es&gl=cl&udm=8",
+    "raw_html_file": "https://serpapi.com/searches/IOIGhF4gtqlj-9-y4l72WLUz21GE2FyHKx1pVT7depY/6ab9e867f30d13c2856ac020.html",
+    "total_time_taken": 0.79
+  },
+  "search_parameters": {
+    "q": "Data Analyst",
+    "engine": "google_jobs",
+    "location_requested": "Chile",
+    "location_used": "Chile",
+    "google_domain": "google.com",
+    "hl": "es",
+    "gl": "cl"
+  },
+  "filters": [
+    {
+      "name": "Fecha de publicación",
+      "options": [
+        {
+          "name": "Ayer",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4rS7y9Li8FvM8Ea1DOU-m9FTqOIG6u_2SSUnGb1-PIib_WsF88cYdOqdbN6rHKHdEkGbE7Skekz6VrAOIvXzgp8JHqf2CX3y3hCFydZvrkARLzHOXJGVw1-Cv9IZsel-AyCx2-HdWufmVEQAaqyFfO_eJ81q2LOrShmmw5tuDL8lzCoiHuQ17LE69g8a3R7GFGS8eZOPE9txANyByJYXoy0pHVqQ2eJFzt7EuAhm5TqbgGYtLc0rzVIAY8JDmG0sn9fLOUtebMIzZ2MAExOtBvepNRAc0-BixEwmjnNlw3FWyzuLyHyb6dE1Vb6h-uS756dUnme8B6Pz2bk89tH-99YeFGo-Z-zUyU2pmvvYaHRTJ91R6C",
+            "q": "data desde ayer"
+          },
+          "link": "https://www.google.com/search?sca_esv=2d6c5a1e6a3d194c&hl=es&gl=cl&sxsrf=APpeQnuKOQt2btBzxNGHNvh2XriBT-g35A:1790568551904&q=data+desde+ayer&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rS7y9Li8FvM8Ea1DOU-m9FTqOIG6u_2SSUnGb1-PIib_WsF88cYdOqdbN6rHKHdEkGbE7Skekz6VrAOIvXzgp8JHqf2CX3y3hCFydZvrkARLzHOXJGVw1-Cv9IZsel-AyCx2-HdWufmVEQAaqyFfO_eJ81q2LOrShmmw5tuDL8lzCoiHuQ17LE69g8a3R7GFGS8eZOPE9txANyByJYXoy0pHVqQ2eJFzt7EuAhm5TqbgGYtLc0rzVIAY8JDmG0sn9fLOUtebMIzZ2MAExOtBvepNRAc0-BixEwmjnNlw3FWyzuLyHyb6dE1Vb6h-uS756dUnme8B6Pz2bk89tH-99YeFGo-Z-zUyU2pmvvYaHRTJ91R6C&udm=8&sa=X&ved=2ahUKEwjJt-3Ts5CXAxWyvokEHZOyDpIQkbEKegQIHhAC",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=cl&google_domain=google.com&hl=es&location=Chile&q=data+desde+ayer&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rS7y9Li8FvM8Ea1DOU-m9FTqOIG6u_2SSUnGb1-PIib_WsF88cYdOqdbN6rHKHdEkGbE7Skekz6VrAOIvXzgp8JHqf2CX3y3hCFydZvrkARLzHOXJGVw1-Cv9IZsel-AyCx2-HdWufmVEQAaqyFfO_eJ81q2LOrShmmw5tuDL8lzCoiHuQ17LE69g8a3R7GFGS8eZOPE9txANyByJYXoy0pHVqQ2eJFzt7EuAhm5TqbgGYtLc0rzVIAY8JDmG0sn9fLOUtebMIzZ2MAExOtBvepNRAc0-BixEwmjnNlw3FWyzuLyHyb6dE1Vb6h-uS756dUnme8B6Pz2bk89tH-99YeFGo-Z-zUyU2pmvvYaHRTJ91R6C"
+        },
+        {
+          "name": "Últimos 3 días",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4r0X2wrYfWRtqWxor0lTJj09HvOnrcRBPBp-Kzws2OeNb39soL21muOwhxSms5ggHdAhUQ2uWE_m1qgbeP7LeUMpv1t6byH6Rt7LhRM1Yq_IbUXXEsG4XXsrrGU7n6AWc5LW5_T_g016TheM0dCCs3RNo_V5XPDCdbiwUMGASR-LL4woqJNRVCyiH8q5BDUFnNn050pQJA8U06oXNzNIfiYek15is0a4YTssdYCTln4fyiZI7YC_4gEaahpdc81XTmh9l-Kl-MNpHRT86WQRl6dArQBner81osJn8-RVl8PbcZuRjpwFGq_9r_0sJXeJ6WIZ95XzrBSAY1-pDvuNz26HuuAjnX10Si1D0FuvbB6pHz2y4D",
+            "q": "data en los últimos 3 días"
+          },
+          "link": "https://www.google.com/search?sca_esv=2d6c5a1e6a3d194c&hl=es&gl=cl&sxsrf=APpeQnuKOQt2btBzxNGHNvh2XriBT-g35A:1790568551904&q=data+en+los+%C3%BAltimos+3+d%C3%ADas&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4r0X2wrYfWRtqWxor0lTJj09HvOnrcRBPBp-Kzws2OeNb39soL21muOwhxSms5ggHdAhUQ2uWE_m1qgbeP7LeUMpv1t6byH6Rt7LhRM1Yq_IbUXXEsG4XXsrrGU7n6AWc5LW5_T_g016TheM0dCCs3RNo_V5XPDCdbiwUMGASR-LL4woqJNRVCyiH8q5BDUFnNn050pQJA8U06oXNzNIfiYek15is0a4YTssdYCTln4fyiZI7YC_4gEaahpdc81XTmh9l-Kl-MNpHRT86WQRl6dArQBner81osJn8-RVl8PbcZuRjpwFGq_9r_0sJXeJ6WIZ95XzrBSAY1-pDvuNz26HuuAjnX10Si1D0FuvbB6pHz2y4D&udm=8&sa=X&ved=2ahUKEwjJt-3Ts5CXAxWyvokEHZOyDpIQkbEKegQIHhAD",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=cl&google_domain=google.com&hl=es&location=Chile&q=data+en+los+%C3%BAltimos+3+d%C3%ADas&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4r0X2wrYfWRtqWxor0lTJj09HvOnrcRBPBp-Kzws2OeNb39soL21muOwhxSms5ggHdAhUQ2uWE_m1qgbeP7LeUMpv1t6byH6Rt7LhRM1Yq_IbUXXEsG4XXsrrGU7n6AWc5LW5_T_g016TheM0dCCs3RNo_V5XPDCdbiwUMGASR-LL4woqJNRVCyiH8q5BDUFnNn050pQJA8U06oXNzNIfiYek15is0a4YTssdYCTln4fyiZI7YC_4gEaahpdc81XTmh9l-Kl-MNpHRT86WQRl6dArQBner81osJn8-RVl8PbcZuRjpwFGq_9r_0sJXeJ6WIZ95XzrBSAY1-pDvuNz26HuuAjnX10Si1D0FuvbB6pHz2y4D"
+        },
+        {
+          "name": "Última semana",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4rQonYkCRW-NujNKCBS-AWkPD4o7FmsD-4CPUCdtwZlNPsYhNrCxuEO5Dxdz9Oe0hx7Y-hlzGgdyEoW6F7h6W6LhHyMdhO0vInAQP5Y8kecls0jLx3fbbGa4u4qHsYh2AqIh6UgWKlQHfHHzTUkUT7Qab1MvKsynamr37i1Nlgxz3Gf9okG5nqzd3pit84g37_37oDEaKgilZ0439B6Vquc3vkJIyQiiKRYtTKq483vHqjGoWM1dZnHFdUUljSrfyrSzG2RAt9SeuefbkZ_yhRMzrW5-b4IKjoZY6VXJdw-vRG_Y-MOg2LigsJC9yDhwIasHOTklP5BpbXsdkiupVp5byHCyv0eLngpq_PVzCVLziRAYJm",
+            "q": "data en la última semana"
+          },
+          "link": "https://www.google.com/search?sca_esv=2d6c5a1e6a3d194c&hl=es&gl=cl&sxsrf=APpeQnuKOQt2btBzxNGHNvh2XriBT-g35A:1790568551904&q=data+en+la+%C3%BAltima+semana&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rQonYkCRW-NujNKCBS-AWkPD4o7FmsD-4CPUCdtwZlNPsYhNrCxuEO5Dxdz9Oe0hx7Y-hlzGgdyEoW6F7h6W6LhHyMdhO0vInAQP5Y8kecls0jLx3fbbGa4u4qHsYh2AqIh6UgWKlQHfHHzTUkUT7Qab1MvKsynamr37i1Nlgxz3Gf9okG5nqzd3pit84g37_37oDEaKgilZ0439B6Vquc3vkJIyQiiKRYtTKq483vHqjGoWM1dZnHFdUUljSrfyrSzG2RAt9SeuefbkZ_yhRMzrW5-b4IKjoZY6VXJdw-vRG_Y-MOg2LigsJC9yDhwIasHOTklP5BpbXsdkiupVp5byHCyv0eLngpq_PVzCVLziRAYJm&udm=8&sa=X&ved=2ahUKEwjJt-3Ts5CXAxWyvokEHZOyDpIQkbEKegQIHhAE",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=cl&google_domain=google.com&hl=es&location=Chile&q=data+en+la+%C3%BAltima+semana&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rQonYkCRW-NujNKCBS-AWkPD4o7FmsD-4CPUCdtwZlNPsYhNrCxuEO5Dxdz9Oe0hx7Y-hlzGgdyEoW6F7h6W6LhHyMdhO0vInAQP5Y8kecls0jLx3fbbGa4u4qHsYh2AqIh6UgWKlQHfHHzTUkUT7Qab1MvKsynamr37i1Nlgxz3Gf9okG5nqzd3pit84g37_37oDEaKgilZ0439B6Vquc3vkJIyQiiKRYtTKq483vHqjGoWM1dZnHFdUUljSrfyrSzG2RAt9SeuefbkZ_yhRMzrW5-b4IKjoZY6VXJdw-vRG_Y-MOg2LigsJC9yDhwIasHOTklP5BpbXsdkiupVp5byHCyv0eLngpq_PVzCVLziRAYJm"
+        },
+        {
+          "name": "Último mes",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4rU7a4i7gfiUrpCiwpqIjY07QgM1TP_PknGDK1QQaB3WN7_ID_cB7MI-pMFD5QUy5vKGX1ca6kJljbLrrdjwhcnQ5Mz3iM7nICcKGwvZXXMG6JuD-ZaXVnn3jLyeDn7QN2dXS49f0PZVFJFGgAEvj1xVAsMKKGUOR_DoOQzvGZjmzQPab8ynRgxd-yN88DOSXSWslQSLtpzcLhkCF5kOWhDO12wlJMIDq2B3PFFQJ9e1msQhPO9T747U66JHhuGXxDyCVlrelLpVYQXAh37zj-wwWL4eP313BPrOfCdOy3wHlDAyPWT_pT0HPGtav45d5_E4B5ppofdvZhrbHSzwurJaFs_7572B_TSEv5rCXkg9zrZHlW",
+            "q": "data en el último mes"
+          },
+          "link": "https://www.google.com/search?sca_esv=2d6c5a1e6a3d194c&hl=es&gl=cl&sxsrf=APpeQnuKOQt2btBzxNGHNvh2XriBT-g35A:1790568551904&q=data+en+el+%C3%BAltimo+mes&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rU7a4i7gfiUrpCiwpqIjY07QgM1TP_PknGDK1QQaB3WN7_ID_cB7MI-pMFD5QUy5vKGX1ca6kJljbLrrdjwhcnQ5Mz3iM7nICcKGwvZXXMG6JuD-ZaXVnn3jLyeDn7QN2dXS49f0PZVFJFGgAEvj1xVAsMKKGUOR_DoOQzvGZjmzQPab8ynRgxd-yN88DOSXSWslQSLtpzcLhkCF5kOWhDO12wlJMIDq2B3PFFQJ9e1msQhPO9T747U66JHhuGXxDyCVlrelLpVYQXAh37zj-wwWL4eP313BPrOfCdOy3wHlDAyPWT_pT0HPGtav45d5_E4B5ppofdvZhrbHSzwurJaFs_7572B_TSEv5rCXkg9zrZHlW&udm=8&sa=X&ved=2ahUKEwjJt-3Ts5CXAxWyvokEHZOyDpIQkbEKegQIHhAF",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=cl&google_domain=google.com&hl=es&location=Chile&q=data+en+el+%C3%BAltimo+mes&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rU7a4i7gfiUrpCiwpqIjY07QgM1TP_PknGDK1QQaB3WN7_ID_cB7MI-pMFD5QUy5vKGX1ca6kJljbLrrdjwhcnQ5Mz3iM7nICcKGwvZXXMG6JuD-ZaXVnn3jLyeDn7QN2dXS49f0PZVFJFGgAEvj1xVAsMKKGUOR_DoOQzvGZjmzQPab8ynRgxd-yN88DOSXSWslQSLtpzcLhkCF5kOWhDO12wlJMIDq2B3PFFQJ9e1msQhPO9T747U66JHhuGXxDyCVlrelLpVYQXAh37zj-wwWL4eP313BPrOfCdOy3wHlDAyPWT_pT0HPGtav45d5_E4B5ppofdvZhrbHSzwurJaFs_7572B_TSEv5rCXkg9zrZHlW"
+        }
+      ]
+    },
+    {
+      "name": "Fecha de publicación",
+      "options": [
+        {
+          "name": "Ayer",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4rS7y9Li8FvM8Ea1DOU-m9FTqOIG6u_2SSUnGb1-PIib_WsF88cYdOqdbN6rHKHdEkGbE7Skekz6VrAOIvXzgp8JHqf2CX3y3hCFydZvrkARLzHOXJGVw1-Cv9IZsel-AyCx2-HdWufmVEQAaqyFfO_eJ81q2LOrShmmw5tuDL8lzCoiHuQ17LE69g8a3R7GFGS8eZOPE9txANyByJYXoy0pHVqQ2eJFzt7EuAhm5TqbgGYtLc0rzVIAY8JDmG0sn9fLOUtebMIzZ2MAExOtBvepNRAc0-BixEwmjnNlw3FWyzuLyHyb6dE1Vb6h-uS756dUnme8B6Pz2bk89tH-99YeFGo-Z-zUyU2pmvvYaHRTJ91R6C",
+            "q": "data desde ayer"
+          },
+          "link": "https://www.google.com/search?sca_esv=2d6c5a1e6a3d194c&hl=es&gl=cl&sxsrf=APpeQnuKOQt2btBzxNGHNvh2XriBT-g35A:1790568551904&q=data+desde+ayer&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rS7y9Li8FvM8Ea1DOU-m9FTqOIG6u_2SSUnGb1-PIib_WsF88cYdOqdbN6rHKHdEkGbE7Skekz6VrAOIvXzgp8JHqf2CX3y3hCFydZvrkARLzHOXJGVw1-Cv9IZsel-AyCx2-HdWufmVEQAaqyFfO_eJ81q2LOrShmmw5tuDL8lzCoiHuQ17LE69g8a3R7GFGS8eZOPE9txANyByJYXoy0pHVqQ2eJFzt7EuAhm5TqbgGYtLc0rzVIAY8JDmG0sn9fLOUtebMIzZ2MAExOtBvepNRAc0-BixEwmjnNlw3FWyzuLyHyb6dE1Vb6h-uS756dUnme8B6Pz2bk89tH-99YeFGo-Z-zUyU2pmvvYaHRTJ91R6C&udm=8&sa=X&ved=2ahUKEwjJt-3Ts5CXAxWyvokEHZOyDpIQkbEKegQIHhAC",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=cl&google_domain=google.com&hl=es&location=Chile&q=data+desde+ayer&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rS7y9Li8FvM8Ea1DOU-m9FTqOIG6u_2SSUnGb1-PIib_WsF88cYdOqdbN6rHKHdEkGbE7Skekz6VrAOIvXzgp8JHqf2CX3y3hCFydZvrkARLzHOXJGVw1-Cv9IZsel-AyCx2-HdWufmVEQAaqyFfO_eJ81q2LOrShmmw5tuDL8lzCoiHuQ17LE69g8a3R7GFGS8eZOPE9txANyByJYXoy0pHVqQ2eJFzt7EuAhm5TqbgGYtLc0rzVIAY8JDmG0sn9fLOUtebMIzZ2MAExOtBvepNRAc0-BixEwmjnNlw3FWyzuLyHyb6dE1Vb6h-uS756dUnme8B6Pz2bk89tH-99YeFGo-Z-zUyU2pmvvYaHRTJ91R6C"
+        },
+        {
+          "name": "Últimos 3 días",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4r0X2wrYfWRtqWxor0lTJj09HvOnrcRBPBp-Kzws2OeNb39soL21muOwhxSms5ggHdAhUQ2uWE_m1qgbeP7LeUMpv1t6byH6Rt7LhRM1Yq_IbUXXEsG4XXsrrGU7n6AWc5LW5_T_g016TheM0dCCs3RNo_V5XPDCdbiwUMGASR-LL4woqJNRVCyiH8q5BDUFnNn050pQJA8U06oXNzNIfiYek15is0a4YTssdYCTln4fyiZI7YC_4gEaahpdc81XTmh9l-Kl-MNpHRT86WQRl6dArQBner81osJn8-RVl8PbcZuRjpwFGq_9r_0sJXeJ6WIZ95XzrBSAY1-pDvuNz26HuuAjnX10Si1D0FuvbB6pHz2y4D",
+            "q": "data en los últimos 3 días"
+          },
+          "link": "https://www.google.com/search?sca_esv=2d6c5a1e6a3d194c&hl=es&gl=cl&sxsrf=APpeQnuKOQt2btBzxNGHNvh2XriBT-g35A:1790568551904&q=data+en+los+%C3%BAltimos+3+d%C3%ADas&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4r0X2wrYfWRtqWxor0lTJj09HvOnrcRBPBp-Kzws2OeNb39soL21muOwhxSms5ggHdAhUQ2uWE_m1qgbeP7LeUMpv1t6byH6Rt7LhRM1Yq_IbUXXEsG4XXsrrGU7n6AWc5LW5_T_g016TheM0dCCs3RNo_V5XPDCdbiwUMGASR-LL4woqJNRVCyiH8q5BDUFnNn050pQJA8U06oXNzNIfiYek15is0a4YTssdYCTln4fyiZI7YC_4gEaahpdc81XTmh9l-Kl-MNpHRT86WQRl6dArQBner81osJn8-RVl8PbcZuRjpwFGq_9r_0sJXeJ6WIZ95XzrBSAY1-pDvuNz26HuuAjnX10Si1D0FuvbB6pHz2y4D&udm=8&sa=X&ved=2ahUKEwjJt-3Ts5CXAxWyvokEHZOyDpIQkbEKegQIHhAD",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=cl&google_domain=google.com&hl=es&location=Chile&q=data+en+los+%C3%BAltimos+3+d%C3%ADas&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4r0X2wrYfWRtqWxor0lTJj09HvOnrcRBPBp-Kzws2OeNb39soL21muOwhxSms5ggHdAhUQ2uWE_m1qgbeP7LeUMpv1t6byH6Rt7LhRM1Yq_IbUXXEsG4XXsrrGU7n6AWc5LW5_T_g016TheM0dCCs3RNo_V5XPDCdbiwUMGASR-LL4woqJNRVCyiH8q5BDUFnNn050pQJA8U06oXNzNIfiYek15is0a4YTssdYCTln4fyiZI7YC_4gEaahpdc81XTmh9l-Kl-MNpHRT86WQRl6dArQBner81osJn8-RVl8PbcZuRjpwFGq_9r_0sJXeJ6WIZ95XzrBSAY1-pDvuNz26HuuAjnX10Si1D0FuvbB6pHz2y4D"
+        },
+        {
+          "name": "Última semana",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4rQonYkCRW-NujNKCBS-AWkPD4o7FmsD-4CPUCdtwZlNPsYhNrCxuEO5Dxdz9Oe0hx7Y-hlzGgdyEoW6F7h6W6LhHyMdhO0vInAQP5Y8kecls0jLx3fbbGa4u4qHsYh2AqIh6UgWKlQHfHHzTUkUT7Qab1MvKsynamr37i1Nlgxz3Gf9okG5nqzd3pit84g37_37oDEaKgilZ0439B6Vquc3vkJIyQiiKRYtTKq483vHqjGoWM1dZnHFdUUljSrfyrSzG2RAt9SeuefbkZ_yhRMzrW5-b4IKjoZY6VXJdw-vRG_Y-MOg2LigsJC9yDhwIasHOTklP5BpbXsdkiupVp5byHCyv0eLngpq_PVzCVLziRAYJm",
+            "q": "data en la última semana"
+          },
+          "link": "https://www.google.com/search?sca_esv=2d6c5a1e6a3d194c&hl=es&gl=cl&sxsrf=APpeQnuKOQt2btBzxNGHNvh2XriBT-g35A:1790568551904&q=data+en+la+%C3%BAltima+semana&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rQonYkCRW-NujNKCBS-AWkPD4o7FmsD-4CPUCdtwZlNPsYhNrCxuEO5Dxdz9Oe0hx7Y-hlzGgdyEoW6F7h6W6LhHyMdhO0vInAQP5Y8kecls0jLx3fbbGa4u4qHsYh2AqIh6UgWKlQHfHHzTUkUT7Qab1MvKsynamr37i1Nlgxz3Gf9okG5nqzd3pit84g37_37oDEaKgilZ0439B6Vquc3vkJIyQiiKRYtTKq483vHqjGoWM1dZnHFdUUljSrfyrSzG2RAt9SeuefbkZ_yhRMzrW5-b4IKjoZY6VXJdw-vRG_Y-MOg2LigsJC9yDhwIasHOTklP5BpbXsdkiupVp5byHCyv0eLngpq_PVzCVLziRAYJm&udm=8&sa=X&ved=2ahUKEwjJt-3Ts5CXAxWyvokEHZOyDpIQkbEKegQIHhAE",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=cl&google_domain=google.com&hl=es&location=Chile&q=data+en+la+%C3%BAltima+semana&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rQonYkCRW-NujNKCBS-AWkPD4o7FmsD-4CPUCdtwZlNPsYhNrCxuEO5Dxdz9Oe0hx7Y-hlzGgdyEoW6F7h6W6LhHyMdhO0vInAQP5Y8kecls0jLx3fbbGa4u4qHsYh2AqIh6UgWKlQHfHHzTUkUT7Qab1MvKsynamr37i1Nlgxz3Gf9okG5nqzd3pit84g37_37oDEaKgilZ0439B6Vquc3vkJIyQiiKRYtTKq483vHqjGoWM1dZnHFdUUljSrfyrSzG2RAt9SeuefbkZ_yhRMzrW5-b4IKjoZY6VXJdw-vRG_Y-MOg2LigsJC9yDhwIasHOTklP5BpbXsdkiupVp5byHCyv0eLngpq_PVzCVLziRAYJm"
+        },
+        {
+          "name": "Último mes",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4rU7a4i7gfiUrpCiwpqIjY07QgM1TP_PknGDK1QQaB3WN7_ID_cB7MI-pMFD5QUy5vKGX1ca6kJljbLrrdjwhcnQ5Mz3iM7nICcKGwvZXXMG6JuD-ZaXVnn3jLyeDn7QN2dXS49f0PZVFJFGgAEvj1xVAsMKKGUOR_DoOQzvGZjmzQPab8ynRgxd-yN88DOSXSWslQSLtpzcLhkCF5kOWhDO12wlJMIDq2B3PFFQJ9e1msQhPO9T747U66JHhuGXxDyCVlrelLpVYQXAh37zj-wwWL4eP313BPrOfCdOy3wHlDAyPWT_pT0HPGtav45d5_E4B5ppofdvZhrbHSzwurJaFs_7572B_TSEv5rCXkg9zrZHlW",
+            "q": "data en el último mes"
+          },
+          "link": "https://www.google.com/search?sca_esv=2d6c5a1e6a3d194c&hl=es&gl=cl&sxsrf=APpeQnuKOQt2btBzxNGHNvh2XriBT-g35A:1790568551904&q=data+en+el+%C3%BAltimo+mes&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rU7a4i7gfiUrpCiwpqIjY07QgM1TP_PknGDK1QQaB3WN7_ID_cB7MI-pMFD5QUy5vKGX1ca6kJljbLrrdjwhcnQ5Mz3iM7nICcKGwvZXXMG6JuD-ZaXVnn3jLyeDn7QN2dXS49f0PZVFJFGgAEvj1xVAsMKKGUOR_DoOQzvGZjmzQPab8ynRgxd-yN88DOSXSWslQSLtpzcLhkCF5kOWhDO12wlJMIDq2B3PFFQJ9e1msQhPO9T747U66JHhuGXxDyCVlrelLpVYQXAh37zj-wwWL4eP313BPrOfCdOy3wHlDAyPWT_pT0HPGtav45d5_E4B5ppofdvZhrbHSzwurJaFs_7572B_TSEv5rCXkg9zrZHlW&udm=8&sa=X&ved=2ahUKEwjJt-3Ts5CXAxWyvokEHZOyDpIQkbEKegQIHhAF",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=cl&google_domain=google.com&hl=es&location=Chile&q=data+en+el+%C3%BAltimo+mes&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rU7a4i7gfiUrpCiwpqIjY07QgM1TP_PknGDK1QQaB3WN7_ID_cB7MI-pMFD5QUy5vKGX1ca6kJljbLrrdjwhcnQ5Mz3iM7nICcKGwvZXXMG6JuD-ZaXVnn3jLyeDn7QN2dXS49f0PZVFJFGgAEvj1xVAsMKKGUOR_DoOQzvGZjmzQPab8ynRgxd-yN88DOSXSWslQSLtpzcLhkCF5kOWhDO12wlJMIDq2B3PFFQJ9e1msQhPO9T747U66JHhuGXxDyCVlrelLpVYQXAh37zj-wwWL4eP313BPrOfCdOy3wHlDAyPWT_pT0HPGtav45d5_E4B5ppofdvZhrbHSzwurJaFs_7572B_TSEv5rCXkg9zrZHlW"
+        }
+      ]
+    },
+    {
+      "name": "Tipo de trabajo",
+      "options": [
+        {
+          "name": "Tiempo completo",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4r8_cIVxVsFw--IcqKCKuuP8l_FSHqNUYAe1ZHd6Qj--ix6pFxYgwJyiwwTz76f7yCgb2Lvf4NDMtQcdnaYMyHtNi5OIs3CnyyZJQM9P0jRUhhcAq_84C9U3vfsMe7R7Mw33xywA-5YbOrK22HjsDdwcmrp13ccXMOJfdD3lHX72sr3nxKJHx_zoKOJqhaKpuAF8U-26jsvA13SzDv5VDktSvotqsg2XFLw9AgK2_WSdQMGk8V5Wl7wBVKR4aGtaRApf1fN9fxjkeynhzYlN767eWR01A1ULp3rfrbmD6saOVAYrbPgZ72hQHHaBnsETVrt_3JzFdt0mcEg0Ws5lGMnaRR7qg",
+            "q": "data tiempo completo"
+          },
+          "link": "https://www.google.com/search?sca_esv=2d6c5a1e6a3d194c&hl=es&gl=cl&sxsrf=APpeQnuKOQt2btBzxNGHNvh2XriBT-g35A:1790568551904&q=data+tiempo+completo&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4r8_cIVxVsFw--IcqKCKuuP8l_FSHqNUYAe1ZHd6Qj--ix6pFxYgwJyiwwTz76f7yCgb2Lvf4NDMtQcdnaYMyHtNi5OIs3CnyyZJQM9P0jRUhhcAq_84C9U3vfsMe7R7Mw33xywA-5YbOrK22HjsDdwcmrp13ccXMOJfdD3lHX72sr3nxKJHx_zoKOJqhaKpuAF8U-26jsvA13SzDv5VDktSvotqsg2XFLw9AgK2_WSdQMGk8V5Wl7wBVKR4aGtaRApf1fN9fxjkeynhzYlN767eWR01A1ULp3rfrbmD6saOVAYrbPgZ72hQHHaBnsETVrt_3JzFdt0mcEg0Ws5lGMnaRR7qg&udm=8&sa=X&ved=2ahUKEwjJt-3Ts5CXAxWyvokEHZOyDpIQkbEKegQIGxAC",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=cl&google_domain=google.com&hl=es&location=Chile&q=data+tiempo+completo&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4r8_cIVxVsFw--IcqKCKuuP8l_FSHqNUYAe1ZHd6Qj--ix6pFxYgwJyiwwTz76f7yCgb2Lvf4NDMtQcdnaYMyHtNi5OIs3CnyyZJQM9P0jRUhhcAq_84C9U3vfsMe7R7Mw33xywA-5YbOrK22HjsDdwcmrp13ccXMOJfdD3lHX72sr3nxKJHx_zoKOJqhaKpuAF8U-26jsvA13SzDv5VDktSvotqsg2XFLw9AgK2_WSdQMGk8V5Wl7wBVKR4aGtaRApf1fN9fxjkeynhzYlN767eWR01A1ULp3rfrbmD6saOVAYrbPgZ72hQHHaBnsETVrt_3JzFdt0mcEg0Ws5lGMnaRR7qg"
+        },
+        {
+          "name": "Tiempo parcial",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4rMhNx_VE95Dcrlt3cUS-PvWLeh0q3UnQhTAG_98VzkLBgDK6xfabo1WG6ojmqsqOq9l4ejHKPG7trpQfnAh3Cs2WGfJrRA0KTDZLmHk2uBppgtFgBkAOOe1AztAgN5dtYwhGa5dzvrSgIQfZGYr55-KLKFl1eOIj0i9yo6iJTSyAr_Zt470D8BqEPXp0iArZ-eEpjTfs5d5UWh-7-o1PLJDp8j4bH_06HfO604PN6IUUG-lr2bCb-Y1GwNgKKt0HOHYEswENAqLmZj6SlTsyqZFN11oc9CjxXjG-m5gspcXEmLY8mxqq53XeDCEU6tQAmF8tluG74b0CmQv4WHPeHo4Omgs8",
+            "q": "data tiempo parcial"
+          },
+          "link": "https://www.google.com/search?sca_esv=2d6c5a1e6a3d194c&hl=es&gl=cl&sxsrf=APpeQnuKOQt2btBzxNGHNvh2XriBT-g35A:1790568551904&q=data+tiempo+parcial&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rMhNx_VE95Dcrlt3cUS-PvWLeh0q3UnQhTAG_98VzkLBgDK6xfabo1WG6ojmqsqOq9l4ejHKPG7trpQfnAh3Cs2WGfJrRA0KTDZLmHk2uBppgtFgBkAOOe1AztAgN5dtYwhGa5dzvrSgIQfZGYr55-KLKFl1eOIj0i9yo6iJTSyAr_Zt470D8BqEPXp0iArZ-eEpjTfs5d5UWh-7-o1PLJDp8j4bH_06HfO604PN6IUUG-lr2bCb-Y1GwNgKKt0HOHYEswENAqLmZj6SlTsyqZFN11oc9CjxXjG-m5gspcXEmLY8mxqq53XeDCEU6tQAmF8tluG74b0CmQv4WHPeHo4Omgs8&udm=8&sa=X&ved=2ahUKEwjJt-3Ts5CXAxWyvokEHZOyDpIQkbEKegQIGxAD",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=cl&google_domain=google.com&hl=es&location=Chile&q=data+tiempo+parcial&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rMhNx_VE95Dcrlt3cUS-PvWLeh0q3UnQhTAG_98VzkLBgDK6xfabo1WG6ojmqsqOq9l4ejHKPG7trpQfnAh3Cs2WGfJrRA0KTDZLmHk2uBppgtFgBkAOOe1AztAgN5dtYwhGa5dzvrSgIQfZGYr55-KLKFl1eOIj0i9yo6iJTSyAr_Zt470D8BqEPXp0iArZ-eEpjTfs5d5UWh-7-o1PLJDp8j4bH_06HfO604PN6IUUG-lr2bCb-Y1GwNgKKt0HOHYEswENAqLmZj6SlTsyqZFN11oc9CjxXjG-m5gspcXEmLY8mxqq53XeDCEU6tQAmF8tluG74b0CmQv4WHPeHo4Omgs8"
+        },
+        {
+          "name": "Con contrato",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4rl9LbzRe_jshG1H24DTsSsgMweM1e1RQXvxOhcxb70hFZw0QvM1HoRWRwCWvCe_K9D5i5g8tg2McrnHufRQNNSZBNwvZgJSHhoLK9Mn1qSRJINjtkQG9UVEbAsU3m9i6_8ksS6nQ3ECnRe_s_StVkILa89b3PQmJ1c_vz5_nBSG4dPaxpDkXPkphrf8v5z1C2hDRRlp0LCADKrPqb0xghVrej6L8geDD4AUb4fiXURCrp2st_qeMAc5GT1DFtMrJTmA5uCaZKB1WSA4_3n56kxz16SwXBYJpuTFX69NJP4dwSrF-6823vK_PtwebsrrSEh_a9GSnBNEogS2nBv_QbJ4OaTZs",
+            "q": "data con contrato"
+          },
+          "link": "https://www.google.com/search?sca_esv=2d6c5a1e6a3d194c&hl=es&gl=cl&sxsrf=APpeQnuKOQt2btBzxNGHNvh2XriBT-g35A:1790568551904&q=data+con+contrato&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rl9LbzRe_jshG1H24DTsSsgMweM1e1RQXvxOhcxb70hFZw0QvM1HoRWRwCWvCe_K9D5i5g8tg2McrnHufRQNNSZBNwvZgJSHhoLK9Mn1qSRJINjtkQG9UVEbAsU3m9i6_8ksS6nQ3ECnRe_s_StVkILa89b3PQmJ1c_vz5_nBSG4dPaxpDkXPkphrf8v5z1C2hDRRlp0LCADKrPqb0xghVrej6L8geDD4AUb4fiXURCrp2st_qeMAc5GT1DFtMrJTmA5uCaZKB1WSA4_3n56kxz16SwXBYJpuTFX69NJP4dwSrF-6823vK_PtwebsrrSEh_a9GSnBNEogS2nBv_QbJ4OaTZs&udm=8&sa=X&ved=2ahUKEwjJt-3Ts5CXAxWyvokEHZOyDpIQkbEKegQIGxAE",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=cl&google_domain=google.com&hl=es&location=Chile&q=data+con+contrato&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rl9LbzRe_jshG1H24DTsSsgMweM1e1RQXvxOhcxb70hFZw0QvM1HoRWRwCWvCe_K9D5i5g8tg2McrnHufRQNNSZBNwvZgJSHhoLK9Mn1qSRJINjtkQG9UVEbAsU3m9i6_8ksS6nQ3ECnRe_s_StVkILa89b3PQmJ1c_vz5_nBSG4dPaxpDkXPkphrf8v5z1C2hDRRlp0LCADKrPqb0xghVrej6L8geDD4AUb4fiXURCrp2st_qeMAc5GT1DFtMrJTmA5uCaZKB1WSA4_3n56kxz16SwXBYJpuTFX69NJP4dwSrF-6823vK_PtwebsrrSEh_a9GSnBNEogS2nBv_QbJ4OaTZs"
+        },
+        {
+          "name": "Prácticas",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4rsI-_RTWtFmJIINpGc1Q5cJGb7wElEzq4f0ZujABr3cgJTVsyr1QW-dFnG_ImCpn9LXFq4ZhhrQNj2TSGYTPRutoYo4qsiqr4_pBLvhJQ1hurEcNTdG0szKGdVzbBH-8wXMYkBOkbp7VzF7LfIV6l6qyRAWGxaCvrQXM55N54d2La6-r5F00pBVplYPo7x7343xBPmJm-sucu5C5m9NgD1ElcSbfoa265sEqCTeggUsFyIx1BqYLEo4kYReXinOs-zubHhpmUpzgwrdHVebkmoBxgOjD6rZz0QBm49mPl55mxWMZxwJ8AWBPZuuuVacH0kD80eZh2plTvUF8CjIWDbT2DNKI",
+            "q": "data prácticas"
+          },
+          "link": "https://www.google.com/search?sca_esv=2d6c5a1e6a3d194c&hl=es&gl=cl&sxsrf=APpeQnuKOQt2btBzxNGHNvh2XriBT-g35A:1790568551904&q=data+pr%C3%A1cticas&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rsI-_RTWtFmJIINpGc1Q5cJGb7wElEzq4f0ZujABr3cgJTVsyr1QW-dFnG_ImCpn9LXFq4ZhhrQNj2TSGYTPRutoYo4qsiqr4_pBLvhJQ1hurEcNTdG0szKGdVzbBH-8wXMYkBOkbp7VzF7LfIV6l6qyRAWGxaCvrQXM55N54d2La6-r5F00pBVplYPo7x7343xBPmJm-sucu5C5m9NgD1ElcSbfoa265sEqCTeggUsFyIx1BqYLEo4kYReXinOs-zubHhpmUpzgwrdHVebkmoBxgOjD6rZz0QBm49mPl55mxWMZxwJ8AWBPZuuuVacH0kD80eZh2plTvUF8CjIWDbT2DNKI&udm=8&sa=X&ved=2ahUKEwjJt-3Ts5CXAxWyvokEHZOyDpIQkbEKegQIGxAF",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=cl&google_domain=google.com&hl=es&location=Chile&q=data+pr%C3%A1cticas&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rsI-_RTWtFmJIINpGc1Q5cJGb7wElEzq4f0ZujABr3cgJTVsyr1QW-dFnG_ImCpn9LXFq4ZhhrQNj2TSGYTPRutoYo4qsiqr4_pBLvhJQ1hurEcNTdG0szKGdVzbBH-8wXMYkBOkbp7VzF7LfIV6l6qyRAWGxaCvrQXM55N54d2La6-r5F00pBVplYPo7x7343xBPmJm-sucu5C5m9NgD1ElcSbfoa265sEqCTeggUsFyIx1BqYLEo4kYReXinOs-zubHhpmUpzgwrdHVebkmoBxgOjD6rZz0QBm49mPl55mxWMZxwJ8AWBPZuuuVacH0kD80eZh2plTvUF8CjIWDbT2DNKI"
+        }
+      ]
+    },
+    {
+      "name": "Tipo de trabajo",
+      "options": [
+        {
+          "name": "Tiempo completo",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4r8_cIVxVsFw--IcqKCKuuP8l_FSHqNUYAe1ZHd6Qj--ix6pFxYgwJyiwwTz76f7yCgb2Lvf4NDMtQcdnaYMyHtNi5OIs3CnyyZJQM9P0jRUhhcAq_84C9U3vfsMe7R7Mw33xywA-5YbOrK22HjsDdwcmrp13ccXMOJfdD3lHX72sr3nxKJHx_zoKOJqhaKpuAF8U-26jsvA13SzDv5VDktSvotqsg2XFLw9AgK2_WSdQMGk8V5Wl7wBVKR4aGtaRApf1fN9fxjkeynhzYlN767eWR01A1ULp3rfrbmD6saOVAYrbPgZ72hQHHaBnsETVrt_3JzFdt0mcEg0Ws5lGMnaRR7qg",
+            "q": "data tiempo completo"
+          },
+          "link": "https://www.google.com/search?sca_esv=2d6c5a1e6a3d194c&hl=es&gl=cl&sxsrf=APpeQnuKOQt2btBzxNGHNvh2XriBT-g35A:1790568551904&q=data+tiempo+completo&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4r8_cIVxVsFw--IcqKCKuuP8l_FSHqNUYAe1ZHd6Qj--ix6pFxYgwJyiwwTz76f7yCgb2Lvf4NDMtQcdnaYMyHtNi5OIs3CnyyZJQM9P0jRUhhcAq_84C9U3vfsMe7R7Mw33xywA-5YbOrK22HjsDdwcmrp13ccXMOJfdD3lHX72sr3nxKJHx_zoKOJqhaKpuAF8U-26jsvA13SzDv5VDktSvotqsg2XFLw9AgK2_WSdQMGk8V5Wl7wBVKR4aGtaRApf1fN9fxjkeynhzYlN767eWR01A1ULp3rfrbmD6saOVAYrbPgZ72hQHHaBnsETVrt_3JzFdt0mcEg0Ws5lGMnaRR7qg&udm=8&sa=X&ved=2ahUKEwjJt-3Ts5CXAxWyvokEHZOyDpIQkbEKegQIGxAC",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=cl&google_domain=google.com&hl=es&location=Chile&q=data+tiempo+completo&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4r8_cIVxVsFw--IcqKCKuuP8l_FSHqNUYAe1ZHd6Qj--ix6pFxYgwJyiwwTz76f7yCgb2Lvf4NDMtQcdnaYMyHtNi5OIs3CnyyZJQM9P0jRUhhcAq_84C9U3vfsMe7R7Mw33xywA-5YbOrK22HjsDdwcmrp13ccXMOJfdD3lHX72sr3nxKJHx_zoKOJqhaKpuAF8U-26jsvA13SzDv5VDktSvotqsg2XFLw9AgK2_WSdQMGk8V5Wl7wBVKR4aGtaRApf1fN9fxjkeynhzYlN767eWR01A1ULp3rfrbmD6saOVAYrbPgZ72hQHHaBnsETVrt_3JzFdt0mcEg0Ws5lGMnaRR7qg"
+        },
+        {
+          "name": "Tiempo parcial",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4rMhNx_VE95Dcrlt3cUS-PvWLeh0q3UnQhTAG_98VzkLBgDK6xfabo1WG6ojmqsqOq9l4ejHKPG7trpQfnAh3Cs2WGfJrRA0KTDZLmHk2uBppgtFgBkAOOe1AztAgN5dtYwhGa5dzvrSgIQfZGYr55-KLKFl1eOIj0i9yo6iJTSyAr_Zt470D8BqEPXp0iArZ-eEpjTfs5d5UWh-7-o1PLJDp8j4bH_06HfO604PN6IUUG-lr2bCb-Y1GwNgKKt0HOHYEswENAqLmZj6SlTsyqZFN11oc9CjxXjG-m5gspcXEmLY8mxqq53XeDCEU6tQAmF8tluG74b0CmQv4WHPeHo4Omgs8",
+            "q": "data tiempo parcial"
+          },
+          "link": "https://www.google.com/search?sca_esv=2d6c5a1e6a3d194c&hl=es&gl=cl&sxsrf=APpeQnuKOQt2btBzxNGHNvh2XriBT-g35A:1790568551904&q=data+tiempo+parcial&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rMhNx_VE95Dcrlt3cUS-PvWLeh0q3UnQhTAG_98VzkLBgDK6xfabo1WG6ojmqsqOq9l4ejHKPG7trpQfnAh3Cs2WGfJrRA0KTDZLmHk2uBppgtFgBkAOOe1AztAgN5dtYwhGa5dzvrSgIQfZGYr55-KLKFl1eOIj0i9yo6iJTSyAr_Zt470D8BqEPXp0iArZ-eEpjTfs5d5UWh-7-o1PLJDp8j4bH_06HfO604PN6IUUG-lr2bCb-Y1GwNgKKt0HOHYEswENAqLmZj6SlTsyqZFN11oc9CjxXjG-m5gspcXEmLY8mxqq53XeDCEU6tQAmF8tluG74b0CmQv4WHPeHo4Omgs8&udm=8&sa=X&ved=2ahUKEwjJt-3Ts5CXAxWyvokEHZOyDpIQkbEKegQIGxAD",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=cl&google_domain=google.com&hl=es&location=Chile&q=data+tiempo+parcial&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rMhNx_VE95Dcrlt3cUS-PvWLeh0q3UnQhTAG_98VzkLBgDK6xfabo1WG6ojmqsqOq9l4ejHKPG7trpQfnAh3Cs2WGfJrRA0KTDZLmHk2uBppgtFgBkAOOe1AztAgN5dtYwhGa5dzvrSgIQfZGYr55-KLKFl1eOIj0i9yo6iJTSyAr_Zt470D8BqEPXp0iArZ-eEpjTfs5d5UWh-7-o1PLJDp8j4bH_06HfO604PN6IUUG-lr2bCb-Y1GwNgKKt0HOHYEswENAqLmZj6SlTsyqZFN11oc9CjxXjG-m5gspcXEmLY8mxqq53XeDCEU6tQAmF8tluG74b0CmQv4WHPeHo4Omgs8"
+        },
+        {
+          "name": "Con contrato",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4rl9LbzRe_jshG1H24DTsSsgMweM1e1RQXvxOhcxb70hFZw0QvM1HoRWRwCWvCe_K9D5i5g8tg2McrnHufRQNNSZBNwvZgJSHhoLK9Mn1qSRJINjtkQG9UVEbAsU3m9i6_8ksS6nQ3ECnRe_s_StVkILa89b3PQmJ1c_vz5_nBSG4dPaxpDkXPkphrf8v5z1C2hDRRlp0LCADKrPqb0xghVrej6L8geDD4AUb4fiXURCrp2st_qeMAc5GT1DFtMrJTmA5uCaZKB1WSA4_3n56kxz16SwXBYJpuTFX69NJP4dwSrF-6823vK_PtwebsrrSEh_a9GSnBNEogS2nBv_QbJ4OaTZs",
+            "q": "data con contrato"
+          },
+          "link": "https://www.google.com/search?sca_esv=2d6c5a1e6a3d194c&hl=es&gl=cl&sxsrf=APpeQnuKOQt2btBzxNGHNvh2XriBT-g35A:1790568551904&q=data+con+contrato&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rl9LbzRe_jshG1H24DTsSsgMweM1e1RQXvxOhcxb70hFZw0QvM1HoRWRwCWvCe_K9D5i5g8tg2McrnHufRQNNSZBNwvZgJSHhoLK9Mn1qSRJINjtkQG9UVEbAsU3m9i6_8ksS6nQ3ECnRe_s_StVkILa89b3PQmJ1c_vz5_nBSG4dPaxpDkXPkphrf8v5z1C2hDRRlp0LCADKrPqb0xghVrej6L8geDD4AUb4fiXURCrp2st_qeMAc5GT1DFtMrJTmA5uCaZKB1WSA4_3n56kxz16SwXBYJpuTFX69NJP4dwSrF-6823vK_PtwebsrrSEh_a9GSnBNEogS2nBv_QbJ4OaTZs&udm=8&sa=X&ved=2ahUKEwjJt-3Ts5CXAxWyvokEHZOyDpIQkbEKegQIGxAE",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=cl&google_domain=google.com&hl=es&location=Chile&q=data+con+contrato&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rl9LbzRe_jshG1H24DTsSsgMweM1e1RQXvxOhcxb70hFZw0QvM1HoRWRwCWvCe_K9D5i5g8tg2McrnHufRQNNSZBNwvZgJSHhoLK9Mn1qSRJINjtkQG9UVEbAsU3m9i6_8ksS6nQ3ECnRe_s_StVkILa89b3PQmJ1c_vz5_nBSG4dPaxpDkXPkphrf8v5z1C2hDRRlp0LCADKrPqb0xghVrej6L8geDD4AUb4fiXURCrp2st_qeMAc5GT1DFtMrJTmA5uCaZKB1WSA4_3n56kxz16SwXBYJpuTFX69NJP4dwSrF-6823vK_PtwebsrrSEh_a9GSnBNEogS2nBv_QbJ4OaTZs"
+        },
+        {
+          "name": "Prácticas",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4rsI-_RTWtFmJIINpGc1Q5cJGb7wElEzq4f0ZujABr3cgJTVsyr1QW-dFnG_ImCpn9LXFq4ZhhrQNj2TSGYTPRutoYo4qsiqr4_pBLvhJQ1hurEcNTdG0szKGdVzbBH-8wXMYkBOkbp7VzF7LfIV6l6qyRAWGxaCvrQXM55N54d2La6-r5F00pBVplYPo7x7343xBPmJm-sucu5C5m9NgD1ElcSbfoa265sEqCTeggUsFyIx1BqYLEo4kYReXinOs-zubHhpmUpzgwrdHVebkmoBxgOjD6rZz0QBm49mPl55mxWMZxwJ8AWBPZuuuVacH0kD80eZh2plTvUF8CjIWDbT2DNKI",
+            "q": "data prácticas"
+          },
+          "link": "https://www.google.com/search?sca_esv=2d6c5a1e6a3d194c&hl=es&gl=cl&sxsrf=APpeQnuKOQt2btBzxNGHNvh2XriBT-g35A:1790568551904&q=data+pr%C3%A1cticas&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rsI-_RTWtFmJIINpGc1Q5cJGb7wElEzq4f0ZujABr3cgJTVsyr1QW-dFnG_ImCpn9LXFq4ZhhrQNj2TSGYTPRutoYo4qsiqr4_pBLvhJQ1hurEcNTdG0szKGdVzbBH-8wXMYkBOkbp7VzF7LfIV6l6qyRAWGxaCvrQXM55N54d2La6-r5F00pBVplYPo7x7343xBPmJm-sucu5C5m9NgD1ElcSbfoa265sEqCTeggUsFyIx1BqYLEo4kYReXinOs-zubHhpmUpzgwrdHVebkmoBxgOjD6rZz0QBm49mPl55mxWMZxwJ8AWBPZuuuVacH0kD80eZh2plTvUF8CjIWDbT2DNKI&udm=8&sa=X&ved=2ahUKEwjJt-3Ts5CXAxWyvokEHZOyDpIQkbEKegQIGxAF",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=cl&google_domain=google.com&hl=es&location=Chile&q=data+pr%C3%A1cticas&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rsI-_RTWtFmJIINpGc1Q5cJGb7wElEzq4f0ZujABr3cgJTVsyr1QW-dFnG_ImCpn9LXFq4ZhhrQNj2TSGYTPRutoYo4qsiqr4_pBLvhJQ1hurEcNTdG0szKGdVzbBH-8wXMYkBOkbp7VzF7LfIV6l6qyRAWGxaCvrQXM55N54d2La6-r5F00pBVplYPo7x7343xBPmJm-sucu5C5m9NgD1ElcSbfoa265sEqCTeggUsFyIx1BqYLEo4kYReXinOs-zubHhpmUpzgwrdHVebkmoBxgOjD6rZz0QBm49mPl55mxWMZxwJ8AWBPZuuuVacH0kD80eZh2plTvUF8CjIWDbT2DNKI"
+        }
+      ]
+    },
+    {
+      "name": "Fecha de publicación",
+      "options": [
+        {
+          "name": "Ayer",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4rS7y9Li8FvM8Ea1DOU-m9FTqOIG6u_2SSUnGb1-PIib_WsF88cYdOqdbN6rHKHdEkGbE7Skekz6VrAOIvXzgp8JHqf2CX3y3hCFydZvrkARLzHOXJGVw1-Cv9IZsel-AyCx2-HdWufmVEQAaqyFfO_eJ81q2LOrShmmw5tuDL8lzCoiHuQ17LE69g8a3R7GFGS8eZOPE9txANyByJYXoy0pHVqQ2eJFzt7EuAhm5TqbgGYtLc0rzVIAY8JDmG0sn9fLOUtebMIzZ2MAExOtBvepNRAc0-BixEwmjnNlw3FWyzuLyHyb6dE1Vb6h-uS756dUnme8B6Pz2bk89tH-99YeFGo-Z-zUyU2pmvvYaHRTJ91R6C",
+            "q": "data desde ayer"
+          },
+          "link": "https://www.google.com/search?sca_esv=2d6c5a1e6a3d194c&hl=es&gl=cl&sxsrf=APpeQnuKOQt2btBzxNGHNvh2XriBT-g35A:1790568551904&q=data+desde+ayer&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rS7y9Li8FvM8Ea1DOU-m9FTqOIG6u_2SSUnGb1-PIib_WsF88cYdOqdbN6rHKHdEkGbE7Skekz6VrAOIvXzgp8JHqf2CX3y3hCFydZvrkARLzHOXJGVw1-Cv9IZsel-AyCx2-HdWufmVEQAaqyFfO_eJ81q2LOrShmmw5tuDL8lzCoiHuQ17LE69g8a3R7GFGS8eZOPE9txANyByJYXoy0pHVqQ2eJFzt7EuAhm5TqbgGYtLc0rzVIAY8JDmG0sn9fLOUtebMIzZ2MAExOtBvepNRAc0-BixEwmjnNlw3FWyzuLyHyb6dE1Vb6h-uS756dUnme8B6Pz2bk89tH-99YeFGo-Z-zUyU2pmvvYaHRTJ91R6C&udm=8&sa=X&ved=2ahUKEwjJt-3Ts5CXAxWyvokEHZOyDpIQkbEKegQIHBAC",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=cl&google_domain=google.com&hl=es&location=Chile&q=data+desde+ayer&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rS7y9Li8FvM8Ea1DOU-m9FTqOIG6u_2SSUnGb1-PIib_WsF88cYdOqdbN6rHKHdEkGbE7Skekz6VrAOIvXzgp8JHqf2CX3y3hCFydZvrkARLzHOXJGVw1-Cv9IZsel-AyCx2-HdWufmVEQAaqyFfO_eJ81q2LOrShmmw5tuDL8lzCoiHuQ17LE69g8a3R7GFGS8eZOPE9txANyByJYXoy0pHVqQ2eJFzt7EuAhm5TqbgGYtLc0rzVIAY8JDmG0sn9fLOUtebMIzZ2MAExOtBvepNRAc0-BixEwmjnNlw3FWyzuLyHyb6dE1Vb6h-uS756dUnme8B6Pz2bk89tH-99YeFGo-Z-zUyU2pmvvYaHRTJ91R6C"
+        },
+        {
+          "name": "Últimos 3 días",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4r0X2wrYfWRtqWxor0lTJj09HvOnrcRBPBp-Kzws2OeNb39soL21muOwhxSms5ggHdAhUQ2uWE_m1qgbeP7LeUMpv1t6byH6Rt7LhRM1Yq_IbUXXEsG4XXsrrGU7n6AWc5LW5_T_g016TheM0dCCs3RNo_V5XPDCdbiwUMGASR-LL4woqJNRVCyiH8q5BDUFnNn050pQJA8U06oXNzNIfiYek15is0a4YTssdYCTln4fyiZI7YC_4gEaahpdc81XTmh9l-Kl-MNpHRT86WQRl6dArQBner81osJn8-RVl8PbcZuRjpwFGq_9r_0sJXeJ6WIZ95XzrBSAY1-pDvuNz26HuuAjnX10Si1D0FuvbB6pHz2y4D",
+            "q": "data en los últimos 3 días"
+          },
+          "link": "https://www.google.com/search?sca_esv=2d6c5a1e6a3d194c&hl=es&gl=cl&sxsrf=APpeQnuKOQt2btBzxNGHNvh2XriBT-g35A:1790568551904&q=data+en+los+%C3%BAltimos+3+d%C3%ADas&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4r0X2wrYfWRtqWxor0lTJj09HvOnrcRBPBp-Kzws2OeNb39soL21muOwhxSms5ggHdAhUQ2uWE_m1qgbeP7LeUMpv1t6byH6Rt7LhRM1Yq_IbUXXEsG4XXsrrGU7n6AWc5LW5_T_g016TheM0dCCs3RNo_V5XPDCdbiwUMGASR-LL4woqJNRVCyiH8q5BDUFnNn050pQJA8U06oXNzNIfiYek15is0a4YTssdYCTln4fyiZI7YC_4gEaahpdc81XTmh9l-Kl-MNpHRT86WQRl6dArQBner81osJn8-RVl8PbcZuRjpwFGq_9r_0sJXeJ6WIZ95XzrBSAY1-pDvuNz26HuuAjnX10Si1D0FuvbB6pHz2y4D&udm=8&sa=X&ved=2ahUKEwjJt-3Ts5CXAxWyvokEHZOyDpIQkbEKegQIHBAD",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=cl&google_domain=google.com&hl=es&location=Chile&q=data+en+los+%C3%BAltimos+3+d%C3%ADas&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4r0X2wrYfWRtqWxor0lTJj09HvOnrcRBPBp-Kzws2OeNb39soL21muOwhxSms5ggHdAhUQ2uWE_m1qgbeP7LeUMpv1t6byH6Rt7LhRM1Yq_IbUXXEsG4XXsrrGU7n6AWc5LW5_T_g016TheM0dCCs3RNo_V5XPDCdbiwUMGASR-LL4woqJNRVCyiH8q5BDUFnNn050pQJA8U06oXNzNIfiYek15is0a4YTssdYCTln4fyiZI7YC_4gEaahpdc81XTmh9l-Kl-MNpHRT86WQRl6dArQBner81osJn8-RVl8PbcZuRjpwFGq_9r_0sJXeJ6WIZ95XzrBSAY1-pDvuNz26HuuAjnX10Si1D0FuvbB6pHz2y4D"
+        },
+        {
+          "name": "Última semana",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4rQonYkCRW-NujNKCBS-AWkPD4o7FmsD-4CPUCdtwZlNPsYhNrCxuEO5Dxdz9Oe0hx7Y-hlzGgdyEoW6F7h6W6LhHyMdhO0vInAQP5Y8kecls0jLx3fbbGa4u4qHsYh2AqIh6UgWKlQHfHHzTUkUT7Qab1MvKsynamr37i1Nlgxz3Gf9okG5nqzd3pit84g37_37oDEaKgilZ0439B6Vquc3vkJIyQiiKRYtTKq483vHqjGoWM1dZnHFdUUljSrfyrSzG2RAt9SeuefbkZ_yhRMzrW5-b4IKjoZY6VXJdw-vRG_Y-MOg2LigsJC9yDhwIasHOTklP5BpbXsdkiupVp5byHCyv0eLngpq_PVzCVLziRAYJm",
+            "q": "data en la última semana"
+          },
+          "link": "https://www.google.com/search?sca_esv=2d6c5a1e6a3d194c&hl=es&gl=cl&sxsrf=APpeQnuKOQt2btBzxNGHNvh2XriBT-g35A:1790568551904&q=data+en+la+%C3%BAltima+semana&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rQonYkCRW-NujNKCBS-AWkPD4o7FmsD-4CPUCdtwZlNPsYhNrCxuEO5Dxdz9Oe0hx7Y-hlzGgdyEoW6F7h6W6LhHyMdhO0vInAQP5Y8kecls0jLx3fbbGa4u4qHsYh2AqIh6UgWKlQHfHHzTUkUT7Qab1MvKsynamr37i1Nlgxz3Gf9okG5nqzd3pit84g37_37oDEaKgilZ0439B6Vquc3vkJIyQiiKRYtTKq483vHqjGoWM1dZnHFdUUljSrfyrSzG2RAt9SeuefbkZ_yhRMzrW5-b4IKjoZY6VXJdw-vRG_Y-MOg2LigsJC9yDhwIasHOTklP5BpbXsdkiupVp5byHCyv0eLngpq_PVzCVLziRAYJm&udm=8&sa=X&ved=2ahUKEwjJt-3Ts5CXAxWyvokEHZOyDpIQkbEKegQIHBAE",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=cl&google_domain=google.com&hl=es&location=Chile&q=data+en+la+%C3%BAltima+semana&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rQonYkCRW-NujNKCBS-AWkPD4o7FmsD-4CPUCdtwZlNPsYhNrCxuEO5Dxdz9Oe0hx7Y-hlzGgdyEoW6F7h6W6LhHyMdhO0vInAQP5Y8kecls0jLx3fbbGa4u4qHsYh2AqIh6UgWKlQHfHHzTUkUT7Qab1MvKsynamr37i1Nlgxz3Gf9okG5nqzd3pit84g37_37oDEaKgilZ0439B6Vquc3vkJIyQiiKRYtTKq483vHqjGoWM1dZnHFdUUljSrfyrSzG2RAt9SeuefbkZ_yhRMzrW5-b4IKjoZY6VXJdw-vRG_Y-MOg2LigsJC9yDhwIasHOTklP5BpbXsdkiupVp5byHCyv0eLngpq_PVzCVLziRAYJm"
+        },
+        {
+          "name": "Último mes",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4rU7a4i7gfiUrpCiwpqIjY07QgM1TP_PknGDK1QQaB3WN7_ID_cB7MI-pMFD5QUy5vKGX1ca6kJljbLrrdjwhcnQ5Mz3iM7nICcKGwvZXXMG6JuD-ZaXVnn3jLyeDn7QN2dXS49f0PZVFJFGgAEvj1xVAsMKKGUOR_DoOQzvGZjmzQPab8ynRgxd-yN88DOSXSWslQSLtpzcLhkCF5kOWhDO12wlJMIDq2B3PFFQJ9e1msQhPO9T747U66JHhuGXxDyCVlrelLpVYQXAh37zj-wwWL4eP313BPrOfCdOy3wHlDAyPWT_pT0HPGtav45d5_E4B5ppofdvZhrbHSzwurJaFs_7572B_TSEv5rCXkg9zrZHlW",
+            "q": "data en el último mes"
+          },
+          "link": "https://www.google.com/search?sca_esv=2d6c5a1e6a3d194c&hl=es&gl=cl&sxsrf=APpeQnuKOQt2btBzxNGHNvh2XriBT-g35A:1790568551904&q=data+en+el+%C3%BAltimo+mes&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rU7a4i7gfiUrpCiwpqIjY07QgM1TP_PknGDK1QQaB3WN7_ID_cB7MI-pMFD5QUy5vKGX1ca6kJljbLrrdjwhcnQ5Mz3iM7nICcKGwvZXXMG6JuD-ZaXVnn3jLyeDn7QN2dXS49f0PZVFJFGgAEvj1xVAsMKKGUOR_DoOQzvGZjmzQPab8ynRgxd-yN88DOSXSWslQSLtpzcLhkCF5kOWhDO12wlJMIDq2B3PFFQJ9e1msQhPO9T747U66JHhuGXxDyCVlrelLpVYQXAh37zj-wwWL4eP313BPrOfCdOy3wHlDAyPWT_pT0HPGtav45d5_E4B5ppofdvZhrbHSzwurJaFs_7572B_TSEv5rCXkg9zrZHlW&udm=8&sa=X&ved=2ahUKEwjJt-3Ts5CXAxWyvokEHZOyDpIQkbEKegQIHBAF",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=cl&google_domain=google.com&hl=es&location=Chile&q=data+en+el+%C3%BAltimo+mes&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rU7a4i7gfiUrpCiwpqIjY07QgM1TP_PknGDK1QQaB3WN7_ID_cB7MI-pMFD5QUy5vKGX1ca6kJljbLrrdjwhcnQ5Mz3iM7nICcKGwvZXXMG6JuD-ZaXVnn3jLyeDn7QN2dXS49f0PZVFJFGgAEvj1xVAsMKKGUOR_DoOQzvGZjmzQPab8ynRgxd-yN88DOSXSWslQSLtpzcLhkCF5kOWhDO12wlJMIDq2B3PFFQJ9e1msQhPO9T747U66JHhuGXxDyCVlrelLpVYQXAh37zj-wwWL4eP313BPrOfCdOy3wHlDAyPWT_pT0HPGtav45d5_E4B5ppofdvZhrbHSzwurJaFs_7572B_TSEv5rCXkg9zrZHlW"
+        }
+      ]
+    },
+    {
+      "name": "Fecha de publicación",
+      "options": [
+        {
+          "name": "Ayer",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4rS7y9Li8FvM8Ea1DOU-m9FTqOIG6u_2SSUnGb1-PIib_WsF88cYdOqdbN6rHKHdEkGbE7Skekz6VrAOIvXzgp8JHqf2CX3y3hCFydZvrkARLzHOXJGVw1-Cv9IZsel-AyCx2-HdWufmVEQAaqyFfO_eJ81q2LOrShmmw5tuDL8lzCoiHuQ17LE69g8a3R7GFGS8eZOPE9txANyByJYXoy0pHVqQ2eJFzt7EuAhm5TqbgGYtLc0rzVIAY8JDmG0sn9fLOUtebMIzZ2MAExOtBvepNRAc0-BixEwmjnNlw3FWyzuLyHyb6dE1Vb6h-uS756dUnme8B6Pz2bk89tH-99YeFGo-Z-zUyU2pmvvYaHRTJ91R6C",
+            "q": "data desde ayer"
+          },
+          "link": "https://www.google.com/search?sca_esv=2d6c5a1e6a3d194c&hl=es&gl=cl&sxsrf=APpeQnuKOQt2btBzxNGHNvh2XriBT-g35A:1790568551904&q=data+desde+ayer&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rS7y9Li8FvM8Ea1DOU-m9FTqOIG6u_2SSUnGb1-PIib_WsF88cYdOqdbN6rHKHdEkGbE7Skekz6VrAOIvXzgp8JHqf2CX3y3hCFydZvrkARLzHOXJGVw1-Cv9IZsel-AyCx2-HdWufmVEQAaqyFfO_eJ81q2LOrShmmw5tuDL8lzCoiHuQ17LE69g8a3R7GFGS8eZOPE9txANyByJYXoy0pHVqQ2eJFzt7EuAhm5TqbgGYtLc0rzVIAY8JDmG0sn9fLOUtebMIzZ2MAExOtBvepNRAc0-BixEwmjnNlw3FWyzuLyHyb6dE1Vb6h-uS756dUnme8B6Pz2bk89tH-99YeFGo-Z-zUyU2pmvvYaHRTJ91R6C&udm=8&sa=X&ved=2ahUKEwjJt-3Ts5CXAxWyvokEHZOyDpIQkbEKegQIHBAC",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=cl&google_domain=google.com&hl=es&location=Chile&q=data+desde+ayer&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rS7y9Li8FvM8Ea1DOU-m9FTqOIG6u_2SSUnGb1-PIib_WsF88cYdOqdbN6rHKHdEkGbE7Skekz6VrAOIvXzgp8JHqf2CX3y3hCFydZvrkARLzHOXJGVw1-Cv9IZsel-AyCx2-HdWufmVEQAaqyFfO_eJ81q2LOrShmmw5tuDL8lzCoiHuQ17LE69g8a3R7GFGS8eZOPE9txANyByJYXoy0pHVqQ2eJFzt7EuAhm5TqbgGYtLc0rzVIAY8JDmG0sn9fLOUtebMIzZ2MAExOtBvepNRAc0-BixEwmjnNlw3FWyzuLyHyb6dE1Vb6h-uS756dUnme8B6Pz2bk89tH-99YeFGo-Z-zUyU2pmvvYaHRTJ91R6C"
+        },
+        {
+          "name": "Últimos 3 días",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4r0X2wrYfWRtqWxor0lTJj09HvOnrcRBPBp-Kzws2OeNb39soL21muOwhxSms5ggHdAhUQ2uWE_m1qgbeP7LeUMpv1t6byH6Rt7LhRM1Yq_IbUXXEsG4XXsrrGU7n6AWc5LW5_T_g016TheM0dCCs3RNo_V5XPDCdbiwUMGASR-LL4woqJNRVCyiH8q5BDUFnNn050pQJA8U06oXNzNIfiYek15is0a4YTssdYCTln4fyiZI7YC_4gEaahpdc81XTmh9l-Kl-MNpHRT86WQRl6dArQBner81osJn8-RVl8PbcZuRjpwFGq_9r_0sJXeJ6WIZ95XzrBSAY1-pDvuNz26HuuAjnX10Si1D0FuvbB6pHz2y4D",
+            "q": "data en los últimos 3 días"
+          },
+          "link": "https://www.google.com/search?sca_esv=2d6c5a1e6a3d194c&hl=es&gl=cl&sxsrf=APpeQnuKOQt2btBzxNGHNvh2XriBT-g35A:1790568551904&q=data+en+los+%C3%BAltimos+3+d%C3%ADas&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4r0X2wrYfWRtqWxor0lTJj09HvOnrcRBPBp-Kzws2OeNb39soL21muOwhxSms5ggHdAhUQ2uWE_m1qgbeP7LeUMpv1t6byH6Rt7LhRM1Yq_IbUXXEsG4XXsrrGU7n6AWc5LW5_T_g016TheM0dCCs3RNo_V5XPDCdbiwUMGASR-LL4woqJNRVCyiH8q5BDUFnNn050pQJA8U06oXNzNIfiYek15is0a4YTssdYCTln4fyiZI7YC_4gEaahpdc81XTmh9l-Kl-MNpHRT86WQRl6dArQBner81osJn8-RVl8PbcZuRjpwFGq_9r_0sJXeJ6WIZ95XzrBSAY1-pDvuNz26HuuAjnX10Si1D0FuvbB6pHz2y4D&udm=8&sa=X&ved=2ahUKEwjJt-3Ts5CXAxWyvokEHZOyDpIQkbEKegQIHBAD",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=cl&google_domain=google.com&hl=es&location=Chile&q=data+en+los+%C3%BAltimos+3+d%C3%ADas&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4r0X2wrYfWRtqWxor0lTJj09HvOnrcRBPBp-Kzws2OeNb39soL21muOwhxSms5ggHdAhUQ2uWE_m1qgbeP7LeUMpv1t6byH6Rt7LhRM1Yq_IbUXXEsG4XXsrrGU7n6AWc5LW5_T_g016TheM0dCCs3RNo_V5XPDCdbiwUMGASR-LL4woqJNRVCyiH8q5BDUFnNn050pQJA8U06oXNzNIfiYek15is0a4YTssdYCTln4fyiZI7YC_4gEaahpdc81XTmh9l-Kl-MNpHRT86WQRl6dArQBner81osJn8-RVl8PbcZuRjpwFGq_9r_0sJXeJ6WIZ95XzrBSAY1-pDvuNz26HuuAjnX10Si1D0FuvbB6pHz2y4D"
+        },
+        {
+          "name": "Última semana",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4rQonYkCRW-NujNKCBS-AWkPD4o7FmsD-4CPUCdtwZlNPsYhNrCxuEO5Dxdz9Oe0hx7Y-hlzGgdyEoW6F7h6W6LhHyMdhO0vInAQP5Y8kecls0jLx3fbbGa4u4qHsYh2AqIh6UgWKlQHfHHzTUkUT7Qab1MvKsynamr37i1Nlgxz3Gf9okG5nqzd3pit84g37_37oDEaKgilZ0439B6Vquc3vkJIyQiiKRYtTKq483vHqjGoWM1dZnHFdUUljSrfyrSzG2RAt9SeuefbkZ_yhRMzrW5-b4IKjoZY6VXJdw-vRG_Y-MOg2LigsJC9yDhwIasHOTklP5BpbXsdkiupVp5byHCyv0eLngpq_PVzCVLziRAYJm",
+            "q": "data en la última semana"
+          },
+          "link": "https://www.google.com/search?sca_esv=2d6c5a1e6a3d194c&hl=es&gl=cl&sxsrf=APpeQnuKOQt2btBzxNGHNvh2XriBT-g35A:1790568551904&q=data+en+la+%C3%BAltima+semana&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rQonYkCRW-NujNKCBS-AWkPD4o7FmsD-4CPUCdtwZlNPsYhNrCxuEO5Dxdz9Oe0hx7Y-hlzGgdyEoW6F7h6W6LhHyMdhO0vInAQP5Y8kecls0jLx3fbbGa4u4qHsYh2AqIh6UgWKlQHfHHzTUkUT7Qab1MvKsynamr37i1Nlgxz3Gf9okG5nqzd3pit84g37_37oDEaKgilZ0439B6Vquc3vkJIyQiiKRYtTKq483vHqjGoWM1dZnHFdUUljSrfyrSzG2RAt9SeuefbkZ_yhRMzrW5-b4IKjoZY6VXJdw-vRG_Y-MOg2LigsJC9yDhwIasHOTklP5BpbXsdkiupVp5byHCyv0eLngpq_PVzCVLziRAYJm&udm=8&sa=X&ved=2ahUKEwjJt-3Ts5CXAxWyvokEHZOyDpIQkbEKegQIHBAE",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=cl&google_domain=google.com&hl=es&location=Chile&q=data+en+la+%C3%BAltima+semana&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rQonYkCRW-NujNKCBS-AWkPD4o7FmsD-4CPUCdtwZlNPsYhNrCxuEO5Dxdz9Oe0hx7Y-hlzGgdyEoW6F7h6W6LhHyMdhO0vInAQP5Y8kecls0jLx3fbbGa4u4qHsYh2AqIh6UgWKlQHfHHzTUkUT7Qab1MvKsynamr37i1Nlgxz3Gf9okG5nqzd3pit84g37_37oDEaKgilZ0439B6Vquc3vkJIyQiiKRYtTKq483vHqjGoWM1dZnHFdUUljSrfyrSzG2RAt9SeuefbkZ_yhRMzrW5-b4IKjoZY6VXJdw-vRG_Y-MOg2LigsJC9yDhwIasHOTklP5BpbXsdkiupVp5byHCyv0eLngpq_PVzCVLziRAYJm"
+        },
+        {
+          "name": "Último mes",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4rU7a4i7gfiUrpCiwpqIjY07QgM1TP_PknGDK1QQaB3WN7_ID_cB7MI-pMFD5QUy5vKGX1ca6kJljbLrrdjwhcnQ5Mz3iM7nICcKGwvZXXMG6JuD-ZaXVnn3jLyeDn7QN2dXS49f0PZVFJFGgAEvj1xVAsMKKGUOR_DoOQzvGZjmzQPab8ynRgxd-yN88DOSXSWslQSLtpzcLhkCF5kOWhDO12wlJMIDq2B3PFFQJ9e1msQhPO9T747U66JHhuGXxDyCVlrelLpVYQXAh37zj-wwWL4eP313BPrOfCdOy3wHlDAyPWT_pT0HPGtav45d5_E4B5ppofdvZhrbHSzwurJaFs_7572B_TSEv5rCXkg9zrZHlW",
+            "q": "data en el último mes"
+          },
+          "link": "https://www.google.com/search?sca_esv=2d6c5a1e6a3d194c&hl=es&gl=cl&sxsrf=APpeQnuKOQt2btBzxNGHNvh2XriBT-g35A:1790568551904&q=data+en+el+%C3%BAltimo+mes&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rU7a4i7gfiUrpCiwpqIjY07QgM1TP_PknGDK1QQaB3WN7_ID_cB7MI-pMFD5QUy5vKGX1ca6kJljbLrrdjwhcnQ5Mz3iM7nICcKGwvZXXMG6JuD-ZaXVnn3jLyeDn7QN2dXS49f0PZVFJFGgAEvj1xVAsMKKGUOR_DoOQzvGZjmzQPab8ynRgxd-yN88DOSXSWslQSLtpzcLhkCF5kOWhDO12wlJMIDq2B3PFFQJ9e1msQhPO9T747U66JHhuGXxDyCVlrelLpVYQXAh37zj-wwWL4eP313BPrOfCdOy3wHlDAyPWT_pT0HPGtav45d5_E4B5ppofdvZhrbHSzwurJaFs_7572B_TSEv5rCXkg9zrZHlW&udm=8&sa=X&ved=2ahUKEwjJt-3Ts5CXAxWyvokEHZOyDpIQkbEKegQIHBAF",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=cl&google_domain=google.com&hl=es&location=Chile&q=data+en+el+%C3%BAltimo+mes&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rU7a4i7gfiUrpCiwpqIjY07QgM1TP_PknGDK1QQaB3WN7_ID_cB7MI-pMFD5QUy5vKGX1ca6kJljbLrrdjwhcnQ5Mz3iM7nICcKGwvZXXMG6JuD-ZaXVnn3jLyeDn7QN2dXS49f0PZVFJFGgAEvj1xVAsMKKGUOR_DoOQzvGZjmzQPab8ynRgxd-yN88DOSXSWslQSLtpzcLhkCF5kOWhDO12wlJMIDq2B3PFFQJ9e1msQhPO9T747U66JHhuGXxDyCVlrelLpVYQXAh37zj-wwWL4eP313BPrOfCdOy3wHlDAyPWT_pT0HPGtav45d5_E4B5ppofdvZhrbHSzwurJaFs_7572B_TSEv5rCXkg9zrZHlW"
+        }
+      ]
+    },
+    {
+      "name": "Tipo de trabajo",
+      "options": [
+        {
+          "name": "Tiempo completo",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4r8_cIVxVsFw--IcqKCKuuP8l_FSHqNUYAe1ZHd6Qj--ix6pFxYgwJyiwwTz76f7yCgb2Lvf4NDMtQcdnaYMyHtNi5OIs3CnyyZJQM9P0jRUhhcAq_84C9U3vfsMe7R7Mw33xywA-5YbOrK22HjsDdwcmrp13ccXMOJfdD3lHX72sr3nxKJHx_zoKOJqhaKpuAF8U-26jsvA13SzDv5VDktSvotqsg2XFLw9AgK2_WSdQMGk8V5Wl7wBVKR4aGtaRApf1fN9fxjkeynhzYlN767eWR01A1ULp3rfrbmD6saOVAYrbPgZ72hQHHaBnsETVrt_3JzFdt0mcEg0Ws5lGMnaRR7qg",
+            "q": "data tiempo completo"
+          },
+          "link": "https://www.google.com/search?sca_esv=2d6c5a1e6a3d194c&hl=es&gl=cl&sxsrf=APpeQnuKOQt2btBzxNGHNvh2XriBT-g35A:1790568551904&q=data+tiempo+completo&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4r8_cIVxVsFw--IcqKCKuuP8l_FSHqNUYAe1ZHd6Qj--ix6pFxYgwJyiwwTz76f7yCgb2Lvf4NDMtQcdnaYMyHtNi5OIs3CnyyZJQM9P0jRUhhcAq_84C9U3vfsMe7R7Mw33xywA-5YbOrK22HjsDdwcmrp13ccXMOJfdD3lHX72sr3nxKJHx_zoKOJqhaKpuAF8U-26jsvA13SzDv5VDktSvotqsg2XFLw9AgK2_WSdQMGk8V5Wl7wBVKR4aGtaRApf1fN9fxjkeynhzYlN767eWR01A1ULp3rfrbmD6saOVAYrbPgZ72hQHHaBnsETVrt_3JzFdt0mcEg0Ws5lGMnaRR7qg&udm=8&sa=X&ved=2ahUKEwjJt-3Ts5CXAxWyvokEHZOyDpIQkbEKegQIHRAC",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=cl&google_domain=google.com&hl=es&location=Chile&q=data+tiempo+completo&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4r8_cIVxVsFw--IcqKCKuuP8l_FSHqNUYAe1ZHd6Qj--ix6pFxYgwJyiwwTz76f7yCgb2Lvf4NDMtQcdnaYMyHtNi5OIs3CnyyZJQM9P0jRUhhcAq_84C9U3vfsMe7R7Mw33xywA-5YbOrK22HjsDdwcmrp13ccXMOJfdD3lHX72sr3nxKJHx_zoKOJqhaKpuAF8U-26jsvA13SzDv5VDktSvotqsg2XFLw9AgK2_WSdQMGk8V5Wl7wBVKR4aGtaRApf1fN9fxjkeynhzYlN767eWR01A1ULp3rfrbmD6saOVAYrbPgZ72hQHHaBnsETVrt_3JzFdt0mcEg0Ws5lGMnaRR7qg"
+        },
+        {
+          "name": "Tiempo parcial",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4rMhNx_VE95Dcrlt3cUS-PvWLeh0q3UnQhTAG_98VzkLBgDK6xfabo1WG6ojmqsqOq9l4ejHKPG7trpQfnAh3Cs2WGfJrRA0KTDZLmHk2uBppgtFgBkAOOe1AztAgN5dtYwhGa5dzvrSgIQfZGYr55-KLKFl1eOIj0i9yo6iJTSyAr_Zt470D8BqEPXp0iArZ-eEpjTfs5d5UWh-7-o1PLJDp8j4bH_06HfO604PN6IUUG-lr2bCb-Y1GwNgKKt0HOHYEswENAqLmZj6SlTsyqZFN11oc9CjxXjG-m5gspcXEmLY8mxqq53XeDCEU6tQAmF8tluG74b0CmQv4WHPeHo4Omgs8",
+            "q": "data tiempo parcial"
+          },
+          "link": "https://www.google.com/search?sca_esv=2d6c5a1e6a3d194c&hl=es&gl=cl&sxsrf=APpeQnuKOQt2btBzxNGHNvh2XriBT-g35A:1790568551904&q=data+tiempo+parcial&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rMhNx_VE95Dcrlt3cUS-PvWLeh0q3UnQhTAG_98VzkLBgDK6xfabo1WG6ojmqsqOq9l4ejHKPG7trpQfnAh3Cs2WGfJrRA0KTDZLmHk2uBppgtFgBkAOOe1AztAgN5dtYwhGa5dzvrSgIQfZGYr55-KLKFl1eOIj0i9yo6iJTSyAr_Zt470D8BqEPXp0iArZ-eEpjTfs5d5UWh-7-o1PLJDp8j4bH_06HfO604PN6IUUG-lr2bCb-Y1GwNgKKt0HOHYEswENAqLmZj6SlTsyqZFN11oc9CjxXjG-m5gspcXEmLY8mxqq53XeDCEU6tQAmF8tluG74b0CmQv4WHPeHo4Omgs8&udm=8&sa=X&ved=2ahUKEwjJt-3Ts5CXAxWyvokEHZOyDpIQkbEKegQIHRAD",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=cl&google_domain=google.com&hl=es&location=Chile&q=data+tiempo+parcial&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rMhNx_VE95Dcrlt3cUS-PvWLeh0q3UnQhTAG_98VzkLBgDK6xfabo1WG6ojmqsqOq9l4ejHKPG7trpQfnAh3Cs2WGfJrRA0KTDZLmHk2uBppgtFgBkAOOe1AztAgN5dtYwhGa5dzvrSgIQfZGYr55-KLKFl1eOIj0i9yo6iJTSyAr_Zt470D8BqEPXp0iArZ-eEpjTfs5d5UWh-7-o1PLJDp8j4bH_06HfO604PN6IUUG-lr2bCb-Y1GwNgKKt0HOHYEswENAqLmZj6SlTsyqZFN11oc9CjxXjG-m5gspcXEmLY8mxqq53XeDCEU6tQAmF8tluG74b0CmQv4WHPeHo4Omgs8"
+        },
+        {
+          "name": "Con contrato",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4rl9LbzRe_jshG1H24DTsSsgMweM1e1RQXvxOhcxb70hFZw0QvM1HoRWRwCWvCe_K9D5i5g8tg2McrnHufRQNNSZBNwvZgJSHhoLK9Mn1qSRJINjtkQG9UVEbAsU3m9i6_8ksS6nQ3ECnRe_s_StVkILa89b3PQmJ1c_vz5_nBSG4dPaxpDkXPkphrf8v5z1C2hDRRlp0LCADKrPqb0xghVrej6L8geDD4AUb4fiXURCrp2st_qeMAc5GT1DFtMrJTmA5uCaZKB1WSA4_3n56kxz16SwXBYJpuTFX69NJP4dwSrF-6823vK_PtwebsrrSEh_a9GSnBNEogS2nBv_QbJ4OaTZs",
+            "q": "data con contrato"
+          },
+          "link": "https://www.google.com/search?sca_esv=2d6c5a1e6a3d194c&hl=es&gl=cl&sxsrf=APpeQnuKOQt2btBzxNGHNvh2XriBT-g35A:1790568551904&q=data+con+contrato&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rl9LbzRe_jshG1H24DTsSsgMweM1e1RQXvxOhcxb70hFZw0QvM1HoRWRwCWvCe_K9D5i5g8tg2McrnHufRQNNSZBNwvZgJSHhoLK9Mn1qSRJINjtkQG9UVEbAsU3m9i6_8ksS6nQ3ECnRe_s_StVkILa89b3PQmJ1c_vz5_nBSG4dPaxpDkXPkphrf8v5z1C2hDRRlp0LCADKrPqb0xghVrej6L8geDD4AUb4fiXURCrp2st_qeMAc5GT1DFtMrJTmA5uCaZKB1WSA4_3n56kxz16SwXBYJpuTFX69NJP4dwSrF-6823vK_PtwebsrrSEh_a9GSnBNEogS2nBv_QbJ4OaTZs&udm=8&sa=X&ved=2ahUKEwjJt-3Ts5CXAxWyvokEHZOyDpIQkbEKegQIHRAE",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=cl&google_domain=google.com&hl=es&location=Chile&q=data+con+contrato&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rl9LbzRe_jshG1H24DTsSsgMweM1e1RQXvxOhcxb70hFZw0QvM1HoRWRwCWvCe_K9D5i5g8tg2McrnHufRQNNSZBNwvZgJSHhoLK9Mn1qSRJINjtkQG9UVEbAsU3m9i6_8ksS6nQ3ECnRe_s_StVkILa89b3PQmJ1c_vz5_nBSG4dPaxpDkXPkphrf8v5z1C2hDRRlp0LCADKrPqb0xghVrej6L8geDD4AUb4fiXURCrp2st_qeMAc5GT1DFtMrJTmA5uCaZKB1WSA4_3n56kxz16SwXBYJpuTFX69NJP4dwSrF-6823vK_PtwebsrrSEh_a9GSnBNEogS2nBv_QbJ4OaTZs"
+        },
+        {
+          "name": "Prácticas",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4rsI-_RTWtFmJIINpGc1Q5cJGb7wElEzq4f0ZujABr3cgJTVsyr1QW-dFnG_ImCpn9LXFq4ZhhrQNj2TSGYTPRutoYo4qsiqr4_pBLvhJQ1hurEcNTdG0szKGdVzbBH-8wXMYkBOkbp7VzF7LfIV6l6qyRAWGxaCvrQXM55N54d2La6-r5F00pBVplYPo7x7343xBPmJm-sucu5C5m9NgD1ElcSbfoa265sEqCTeggUsFyIx1BqYLEo4kYReXinOs-zubHhpmUpzgwrdHVebkmoBxgOjD6rZz0QBm49mPl55mxWMZxwJ8AWBPZuuuVacH0kD80eZh2plTvUF8CjIWDbT2DNKI",
+            "q": "data prácticas"
+          },
+          "link": "https://www.google.com/search?sca_esv=2d6c5a1e6a3d194c&hl=es&gl=cl&sxsrf=APpeQnuKOQt2btBzxNGHNvh2XriBT-g35A:1790568551904&q=data+pr%C3%A1cticas&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rsI-_RTWtFmJIINpGc1Q5cJGb7wElEzq4f0ZujABr3cgJTVsyr1QW-dFnG_ImCpn9LXFq4ZhhrQNj2TSGYTPRutoYo4qsiqr4_pBLvhJQ1hurEcNTdG0szKGdVzbBH-8wXMYkBOkbp7VzF7LfIV6l6qyRAWGxaCvrQXM55N54d2La6-r5F00pBVplYPo7x7343xBPmJm-sucu5C5m9NgD1ElcSbfoa265sEqCTeggUsFyIx1BqYLEo4kYReXinOs-zubHhpmUpzgwrdHVebkmoBxgOjD6rZz0QBm49mPl55mxWMZxwJ8AWBPZuuuVacH0kD80eZh2plTvUF8CjIWDbT2DNKI&udm=8&sa=X&ved=2ahUKEwjJt-3Ts5CXAxWyvokEHZOyDpIQkbEKegQIHRAF",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=cl&google_domain=google.com&hl=es&location=Chile&q=data+pr%C3%A1cticas&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rsI-_RTWtFmJIINpGc1Q5cJGb7wElEzq4f0ZujABr3cgJTVsyr1QW-dFnG_ImCpn9LXFq4ZhhrQNj2TSGYTPRutoYo4qsiqr4_pBLvhJQ1hurEcNTdG0szKGdVzbBH-8wXMYkBOkbp7VzF7LfIV6l6qyRAWGxaCvrQXM55N54d2La6-r5F00pBVplYPo7x7343xBPmJm-sucu5C5m9NgD1ElcSbfoa265sEqCTeggUsFyIx1BqYLEo4kYReXinOs-zubHhpmUpzgwrdHVebkmoBxgOjD6rZz0QBm49mPl55mxWMZxwJ8AWBPZuuuVacH0kD80eZh2plTvUF8CjIWDbT2DNKI"
+        }
+      ]
+    },
+    {
+      "name": "Tipo de trabajo",
+      "options": [
+        {
+          "name": "Tiempo completo",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4r8_cIVxVsFw--IcqKCKuuP8l_FSHqNUYAe1ZHd6Qj--ix6pFxYgwJyiwwTz76f7yCgb2Lvf4NDMtQcdnaYMyHtNi5OIs3CnyyZJQM9P0jRUhhcAq_84C9U3vfsMe7R7Mw33xywA-5YbOrK22HjsDdwcmrp13ccXMOJfdD3lHX72sr3nxKJHx_zoKOJqhaKpuAF8U-26jsvA13SzDv5VDktSvotqsg2XFLw9AgK2_WSdQMGk8V5Wl7wBVKR4aGtaRApf1fN9fxjkeynhzYlN767eWR01A1ULp3rfrbmD6saOVAYrbPgZ72hQHHaBnsETVrt_3JzFdt0mcEg0Ws5lGMnaRR7qg",
+            "q": "data tiempo completo"
+          },
+          "link": "https://www.google.com/search?sca_esv=2d6c5a1e6a3d194c&hl=es&gl=cl&sxsrf=APpeQnuKOQt2btBzxNGHNvh2XriBT-g35A:1790568551904&q=data+tiempo+completo&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4r8_cIVxVsFw--IcqKCKuuP8l_FSHqNUYAe1ZHd6Qj--ix6pFxYgwJyiwwTz76f7yCgb2Lvf4NDMtQcdnaYMyHtNi5OIs3CnyyZJQM9P0jRUhhcAq_84C9U3vfsMe7R7Mw33xywA-5YbOrK22HjsDdwcmrp13ccXMOJfdD3lHX72sr3nxKJHx_zoKOJqhaKpuAF8U-26jsvA13SzDv5VDktSvotqsg2XFLw9AgK2_WSdQMGk8V5Wl7wBVKR4aGtaRApf1fN9fxjkeynhzYlN767eWR01A1ULp3rfrbmD6saOVAYrbPgZ72hQHHaBnsETVrt_3JzFdt0mcEg0Ws5lGMnaRR7qg&udm=8&sa=X&ved=2ahUKEwjJt-3Ts5CXAxWyvokEHZOyDpIQkbEKegQIHRAC",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=cl&google_domain=google.com&hl=es&location=Chile&q=data+tiempo+completo&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4r8_cIVxVsFw--IcqKCKuuP8l_FSHqNUYAe1ZHd6Qj--ix6pFxYgwJyiwwTz76f7yCgb2Lvf4NDMtQcdnaYMyHtNi5OIs3CnyyZJQM9P0jRUhhcAq_84C9U3vfsMe7R7Mw33xywA-5YbOrK22HjsDdwcmrp13ccXMOJfdD3lHX72sr3nxKJHx_zoKOJqhaKpuAF8U-26jsvA13SzDv5VDktSvotqsg2XFLw9AgK2_WSdQMGk8V5Wl7wBVKR4aGtaRApf1fN9fxjkeynhzYlN767eWR01A1ULp3rfrbmD6saOVAYrbPgZ72hQHHaBnsETVrt_3JzFdt0mcEg0Ws5lGMnaRR7qg"
+        },
+        {
+          "name": "Tiempo parcial",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4rMhNx_VE95Dcrlt3cUS-PvWLeh0q3UnQhTAG_98VzkLBgDK6xfabo1WG6ojmqsqOq9l4ejHKPG7trpQfnAh3Cs2WGfJrRA0KTDZLmHk2uBppgtFgBkAOOe1AztAgN5dtYwhGa5dzvrSgIQfZGYr55-KLKFl1eOIj0i9yo6iJTSyAr_Zt470D8BqEPXp0iArZ-eEpjTfs5d5UWh-7-o1PLJDp8j4bH_06HfO604PN6IUUG-lr2bCb-Y1GwNgKKt0HOHYEswENAqLmZj6SlTsyqZFN11oc9CjxXjG-m5gspcXEmLY8mxqq53XeDCEU6tQAmF8tluG74b0CmQv4WHPeHo4Omgs8",
+            "q": "data tiempo parcial"
+          },
+          "link": "https://www.google.com/search?sca_esv=2d6c5a1e6a3d194c&hl=es&gl=cl&sxsrf=APpeQnuKOQt2btBzxNGHNvh2XriBT-g35A:1790568551904&q=data+tiempo+parcial&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rMhNx_VE95Dcrlt3cUS-PvWLeh0q3UnQhTAG_98VzkLBgDK6xfabo1WG6ojmqsqOq9l4ejHKPG7trpQfnAh3Cs2WGfJrRA0KTDZLmHk2uBppgtFgBkAOOe1AztAgN5dtYwhGa5dzvrSgIQfZGYr55-KLKFl1eOIj0i9yo6iJTSyAr_Zt470D8BqEPXp0iArZ-eEpjTfs5d5UWh-7-o1PLJDp8j4bH_06HfO604PN6IUUG-lr2bCb-Y1GwNgKKt0HOHYEswENAqLmZj6SlTsyqZFN11oc9CjxXjG-m5gspcXEmLY8mxqq53XeDCEU6tQAmF8tluG74b0CmQv4WHPeHo4Omgs8&udm=8&sa=X&ved=2ahUKEwjJt-3Ts5CXAxWyvokEHZOyDpIQkbEKegQIHRAD",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=cl&google_domain=google.com&hl=es&location=Chile&q=data+tiempo+parcial&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rMhNx_VE95Dcrlt3cUS-PvWLeh0q3UnQhTAG_98VzkLBgDK6xfabo1WG6ojmqsqOq9l4ejHKPG7trpQfnAh3Cs2WGfJrRA0KTDZLmHk2uBppgtFgBkAOOe1AztAgN5dtYwhGa5dzvrSgIQfZGYr55-KLKFl1eOIj0i9yo6iJTSyAr_Zt470D8BqEPXp0iArZ-eEpjTfs5d5UWh-7-o1PLJDp8j4bH_06HfO604PN6IUUG-lr2bCb-Y1GwNgKKt0HOHYEswENAqLmZj6SlTsyqZFN11oc9CjxXjG-m5gspcXEmLY8mxqq53XeDCEU6tQAmF8tluG74b0CmQv4WHPeHo4Omgs8"
+        },
+        {
+          "name": "Con contrato",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4rl9LbzRe_jshG1H24DTsSsgMweM1e1RQXvxOhcxb70hFZw0QvM1HoRWRwCWvCe_K9D5i5g8tg2McrnHufRQNNSZBNwvZgJSHhoLK9Mn1qSRJINjtkQG9UVEbAsU3m9i6_8ksS6nQ3ECnRe_s_StVkILa89b3PQmJ1c_vz5_nBSG4dPaxpDkXPkphrf8v5z1C2hDRRlp0LCADKrPqb0xghVrej6L8geDD4AUb4fiXURCrp2st_qeMAc5GT1DFtMrJTmA5uCaZKB1WSA4_3n56kxz16SwXBYJpuTFX69NJP4dwSrF-6823vK_PtwebsrrSEh_a9GSnBNEogS2nBv_QbJ4OaTZs",
+            "q": "data con contrato"
+          },
+          "link": "https://www.google.com/search?sca_esv=2d6c5a1e6a3d194c&hl=es&gl=cl&sxsrf=APpeQnuKOQt2btBzxNGHNvh2XriBT-g35A:1790568551904&q=data+con+contrato&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rl9LbzRe_jshG1H24DTsSsgMweM1e1RQXvxOhcxb70hFZw0QvM1HoRWRwCWvCe_K9D5i5g8tg2McrnHufRQNNSZBNwvZgJSHhoLK9Mn1qSRJINjtkQG9UVEbAsU3m9i6_8ksS6nQ3ECnRe_s_StVkILa89b3PQmJ1c_vz5_nBSG4dPaxpDkXPkphrf8v5z1C2hDRRlp0LCADKrPqb0xghVrej6L8geDD4AUb4fiXURCrp2st_qeMAc5GT1DFtMrJTmA5uCaZKB1WSA4_3n56kxz16SwXBYJpuTFX69NJP4dwSrF-6823vK_PtwebsrrSEh_a9GSnBNEogS2nBv_QbJ4OaTZs&udm=8&sa=X&ved=2ahUKEwjJt-3Ts5CXAxWyvokEHZOyDpIQkbEKegQIHRAE",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=cl&google_domain=google.com&hl=es&location=Chile&q=data+con+contrato&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rl9LbzRe_jshG1H24DTsSsgMweM1e1RQXvxOhcxb70hFZw0QvM1HoRWRwCWvCe_K9D5i5g8tg2McrnHufRQNNSZBNwvZgJSHhoLK9Mn1qSRJINjtkQG9UVEbAsU3m9i6_8ksS6nQ3ECnRe_s_StVkILa89b3PQmJ1c_vz5_nBSG4dPaxpDkXPkphrf8v5z1C2hDRRlp0LCADKrPqb0xghVrej6L8geDD4AUb4fiXURCrp2st_qeMAc5GT1DFtMrJTmA5uCaZKB1WSA4_3n56kxz16SwXBYJpuTFX69NJP4dwSrF-6823vK_PtwebsrrSEh_a9GSnBNEogS2nBv_QbJ4OaTZs"
+        },
+        {
+          "name": "Prácticas",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4rsI-_RTWtFmJIINpGc1Q5cJGb7wElEzq4f0ZujABr3cgJTVsyr1QW-dFnG_ImCpn9LXFq4ZhhrQNj2TSGYTPRutoYo4qsiqr4_pBLvhJQ1hurEcNTdG0szKGdVzbBH-8wXMYkBOkbp7VzF7LfIV6l6qyRAWGxaCvrQXM55N54d2La6-r5F00pBVplYPo7x7343xBPmJm-sucu5C5m9NgD1ElcSbfoa265sEqCTeggUsFyIx1BqYLEo4kYReXinOs-zubHhpmUpzgwrdHVebkmoBxgOjD6rZz0QBm49mPl55mxWMZxwJ8AWBPZuuuVacH0kD80eZh2plTvUF8CjIWDbT2DNKI",
+            "q": "data prácticas"
+          },
+          "link": "https://www.google.com/search?sca_esv=2d6c5a1e6a3d194c&hl=es&gl=cl&sxsrf=APpeQnuKOQt2btBzxNGHNvh2XriBT-g35A:1790568551904&q=data+pr%C3%A1cticas&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rsI-_RTWtFmJIINpGc1Q5cJGb7wElEzq4f0ZujABr3cgJTVsyr1QW-dFnG_ImCpn9LXFq4ZhhrQNj2TSGYTPRutoYo4qsiqr4_pBLvhJQ1hurEcNTdG0szKGdVzbBH-8wXMYkBOkbp7VzF7LfIV6l6qyRAWGxaCvrQXM55N54d2La6-r5F00pBVplYPo7x7343xBPmJm-sucu5C5m9NgD1ElcSbfoa265sEqCTeggUsFyIx1BqYLEo4kYReXinOs-zubHhpmUpzgwrdHVebkmoBxgOjD6rZz0QBm49mPl55mxWMZxwJ8AWBPZuuuVacH0kD80eZh2plTvUF8CjIWDbT2DNKI&udm=8&sa=X&ved=2ahUKEwjJt-3Ts5CXAxWyvokEHZOyDpIQkbEKegQIHRAF",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=cl&google_domain=google.com&hl=es&location=Chile&q=data+pr%C3%A1cticas&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rsI-_RTWtFmJIINpGc1Q5cJGb7wElEzq4f0ZujABr3cgJTVsyr1QW-dFnG_ImCpn9LXFq4ZhhrQNj2TSGYTPRutoYo4qsiqr4_pBLvhJQ1hurEcNTdG0szKGdVzbBH-8wXMYkBOkbp7VzF7LfIV6l6qyRAWGxaCvrQXM55N54d2La6-r5F00pBVplYPo7x7343xBPmJm-sucu5C5m9NgD1ElcSbfoa265sEqCTeggUsFyIx1BqYLEo4kYReXinOs-zubHhpmUpzgwrdHVebkmoBxgOjD6rZz0QBm49mPl55mxWMZxwJ8AWBPZuuuVacH0kD80eZh2plTvUF8CjIWDbT2DNKI"
+        }
+      ]
+    }
+  ],
+  "jobs_results": [
+    {
+      "title": "Data Platform Engineer",
+      "company_name": "Accenture",
+      "location": "Santiago",
+      "via": "Accenture",
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Data+Analyst&htidocid=wIbeGindtiNQh1XhAAAAAA%3D%3D&hl=es-CL&shem=epsd1,esd2e,rimspwouoe&shndl=37&shmd=H4sIAAAAAAAA_xXMsQ6CQAwA0Liyuzh1duCMCQtOJhJXEz-AlKMemKM9ryXhH_wjV39MWd74ivemqC5oCLeI9pA8QcNhZKJcQ_f96GumHqEnoClFEiCGq0iItDsNZklr51RjGdTQRl96mZwwdbK4p3S60uqAmdK_p_ZYHZYycdhvz94T25xpHe_INmKQH9svEsiOAAAA&shmds=v1_ARwrE23xwh2fkPC5yyIZfQm4QzHmGs1tpR4UnpfyWTmyxsQsXQ&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Data+Analyst&htidocid=wIbeGindtiNQh1XhAAAAAA%3D%3D",
+      "thumbnail": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAADgAAAAcCAMAAAADZYwMAAAAgVBMVEX___8AAACqqqrIyMi5ubmioqI8PDzz8_Pb29uzs7PDw8Po6OiWlpa_v7_MzMy8vLzi4uJFRUWWAP_T09OHh4d4eHhUVFQ1NTVLS0sqKirMiv_ZrP_Bcf-iAP_Xp__05__Dd_-2UP_iv_-uOv-zSf_s1P_47f9oaGgdHR1cXFwODg7nM4exAAABYklEQVQ4je2S23KcMBBEu1mEBBJa7sv6ljixDfj_PzAt7CQvdrmKZ0-VGKHRGfWMBHxhN7df7fjE7rr7h0Pgj5_dURSP990R7Nfvrns6wEnp4_ORA--eDmHACxD7Y2jJ6sN1b4yVc6FMf1Wo983B6aQzMgMMNN46izQ8oMlOOMosMn2vwCi3AIVchpbyi9d8yGlgWFYcmNlEeCz0RqtkP7J0LNzMJuNZLCYOUUlHDk2uPBnzk5ByZOOV3Vp_ZjgxwIYYVI4LfmN-VsJJSloKOKnOd_DiwaKuL-ub1FByr3CkSy4pJZvtL1j9B1XzHiQudJEhSUH0A3vYaGf2vXOYPgGvLkU5Q2DDDafEBwTGQQeb1v4Dc6TA-A5eKWmLZC2Sqg1rapVaKxUNObHALFA9qtRVvwfewJJrIaK5rPUkneNrqwfit9dNdxVbjoAZLcyQKg-6i6We4w4iu67h2Fv6tm_DHyHvEYyrFlJZAAAAAElFTkSuQmCC.png",
+      "extensions": [
+        "hace 4 días",
+        "Tiempo completo"
+      ],
+      "source_link": "https://www.accenture.com/cl-es/careers/jobdetails?id=14716343_es&title=Data+Platform+Engineer",
+      "job_title": "Data Platform Engineer",
+      "description": "Stack & herramientas\n\tPython 3.x avanzado (pandas, pyarrow, pydantic).\n\tAzure: Service Bus, Cosmos DB, Key Vault, Storage (Blob, ADLS Gen2, File Share), Container Apps, Azure DevOps.\n\tDatabricks (Delta Lake, SQL, Unity Catalog).\n\tSQL Server con ODBC.\n\tDocker y CI/CD con pipelines de Azure DevOps.\n\nHabilidades Blandas\n\tCapacidad de traducir decisiones técnicas de arquitectura a lenguaje de negocio comprensible para fullstacks, científicos de datos y stakeholder de minería.\n\tMentoría activa a científicos de datos y desarrolladores que construyen sobre los templates y estándares definidos.\n\tFacilitar instancias de revisión técnica (design reviews, code reviews) con criterio constructivo y sin generar fricción en los equipos.\n\tAbordar problemas técnicos considerando el impacto operacional, los plazos del negocio y las restricciones regulatorias.\n\tPriorizar deuda técnica con criterio estratégico: distinguir lo que bloquea operaciones de lo que puede planificarse.\n\tProponer soluciones que equilibren velocidad de entrega con sostenibilidad arquitectónica a largo plazo.\n\tManejo de tensiones entre equipos (desarrollo vs. operaciones vs. negocio) orientando decisiones hacia el estándar sin imponer.\n\tDisposición a iterar sobre los estándares cuando la evidencia del campo lo justifica, incorporando feedback de los equipos.\n \nCriterio\tRequerimiento:\nExperiencia total\t5+ años en arquitectura de datos o ingeniería de datos senior\nAzure Data Platform\tDatabricks, ADLS, Cosmos DB, Service Bus — comprobable\nIndustria\tMinería, manufactura o energía con datos de proceso en tiempo real (diferenciador)\nGobierno de datos\tData Mesh, Data Governance en entornos corporativos grandes (deseable)\nIdiomas\tEspañol nativo\n\nSKILL: Python, Azure, Docker",
+      "apply_options": [
+        {
+          "title": "Accenture",
+          "link": "https://www.accenture.com/cl-es/careers/jobdetails?id=14716343_es&title=Data+Platform+Engineer&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "BeBee",
+          "link": "https://bebee.com/cl/jobs/data-platform-engineer-accenture-chile-gran-santiago--techmap_cl_4465165568?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "JobLeads",
+          "link": "https://www.jobleads.com/cl/job/data-platform-engineer--santiago--ee7f054b6fe2ffaab51f96ebc14c9d620?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Jooble",
+          "link": "https://cl.jooble.org/jdp/7239735785246118344?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "LinkedIn",
+          "link": "https://cl.linkedin.com/jobs/view/data-platform-engineer-at-accenture-chile-4465165568?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "WhatJobs",
+          "link": "https://cl.whatjobs.com/jobs/data-platform-engineer/santiago?id=48331690&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Trabajo.org",
+          "link": "https://cl.trabajo.org/oferta-2254-868880cdcba3b481e0524856e7ee69d2?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Jobstore",
+          "link": "https://www.jobstore.com/cl/job/l30536431/data-platform-engineer-job?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJEYXRhIFBsYXRmb3JtIEVuZ2luZWVyIiwiY29tcGFueV9uYW1lIjoiQWNjZW50dXJlIiwiaHRpZG9jaWQiOiJ3SWJlR2luZHRpTlFoMVhoQUFBQUFBPT0iLCJ1dWxlIjoidytDQUlRSUNJRlEyaHBiR1UiLCJnbCI6ImNsIiwiaGwiOiJlcyIsImZjIjoiRXN3QkNvd0JRVXBwVkRSMFNpMU5iRE4yVUhBeVZGVnRhakpGUVdsR1lXVmZZVlV3ZEZSNmVERjVPVE5JT0hwdWREVkVOazgxTUROVVIxaFBXSG96VkdKeGFIQjNSRnBHYldKamRHSklURzE2VERGSmNFOWlkbXBXYmxVNGExRkVPVXhzTmpOMVkxZERjV2M1Wm5oNE1ITmZTMU5MVmsxUk5rNWpNWFIyYTFCaVl6ZEdZMU5PV2xCQlEyYzFRWGRKT0ZnU0Yxb3RhVFZoYjI1dlRuSk1PWEIwVVZCckxWYzJhMEZyR2lKQlJITnlPV1pTWDNReGFGOWpVbk00TVhCWU5IVlpZbVpMTTBkZmFGVXRjSEpCIiwiZmN2IjoiMyIsImZjX2lkIjoid0liZUdpbmR0aU5RaDFYaEFBQUFBQT09In0="
+    },
+    {
+      "title": "Data Analyst Crédito Empresas",
+      "company_name": "Itaú Chile",
+      "location": "Las Condes",
+      "via": "LinkedIn",
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Data+Analyst&htidocid=8rVI8sF7QpMZfHcdAAAAAA%3D%3D&hl=es-CL&shem=epsd1,esd2e,rimspwouoe&shndl=37&shmd=H4sIAAAAAAAA_xXMMQrCQBAAQGzzA622tsiJYBOxkFNE8A9hk1uSyN3tmV0hvsQ3-IW09zFJM-UU31VxuqAinCP6jyjYMf_coAzXkEYSlAqaPMvrTQ7BEVBInhgowo2587Q59qpJKmNEfNmJog5t2XIwHKnhyTy5kYVaehwpeVSq94fdVKbYbdd3xTyD7QdPy_lAAcvRkfwBVZq3EJoAAAA&shmds=v1_ARwrE22-IRe5fYZ9X8WI_RrqVXPpArrkJHaPDrKXi6JKrvIjeA&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Data+Analyst&htidocid=8rVI8sF7QpMZfHcdAAAAAA%3D%3D",
+      "thumbnail": "https://serpapi.com/searches/6ab9e867f30d13c2856ac020/images/GifkPCv2-BVy_1PsppIfbCuHt151EBpZfx4FEz4GnJY.jpeg",
+      "extensions": [
+        "hace 3 días",
+        "Tiempo completo"
+      ],
+      "source_link": "https://cl.linkedin.com/jobs/view/data-analyst-cr%C3%A9dito-empresas-at-ita%C3%BA-chile-4472031822",
+      "job_title": "Data Analyst Crédito Empresas",
+      "description": "¿Quieres llevar tu carrera a otro nivel?\n\n\n\n\n¡En Itaú no nos detenemos! Somos la principal filial en el exterior de Itaú Unibanco, el mayor banco privado de América Latina. En Chile, sumamos más de 4.600 itubers y atendemos a cerca de un millón de clientes. Nuestra visión es ser líderes en performance sustentable y satisfacción de clientes, gracias a la colaboración, diversidad, inclusión y aprendizaje continuo. ¡Ser ituber es probar, errar, aprender y crecer! Lo cual nos permite avanzar en la construcción de una banca tan diversa como nuestros clientes.\n\n\n\n\nBuscamos un talento cómo tú\n\n\n\n\n🚀 ¿Quieres transformar la forma en que hacemos crédito para Empresas?\n\nEn Itaú buscamos un/a Data Analyst – Crédito Empresas, para ser parte de un desafío clave: evolucionar la manera en que identificamos oportunidades y generamos ofertas de crédito para nuestros clientes Empresas.\n\n\n\n\nBuscamos a alguien que combine visión de negocio, capacidad analítica y curiosidad por nuevas tecnologías, con ganas de construir nuevas formas de hacer las cosas.\n\nEl desafío no es solo analizar datos. Queremos usar información, analítica e Inteligencia Artificial para crear estrategias más inteligentes, simples y eficientes, que nos permitan llegar a más empresas con ofertas relevantes y oportunas.\n\n\n\n\n🔍 ¿Cuál será tu desafío?\n\nTransformar datos en oportunidades de crédito, identificando qué empresas podemos atender, con qué productos y bajo qué condiciones.Diseñar y evolucionar estrategias de oferta de crédito para clientes Empresas, buscando mejorar cobertura, oportunidad y experiencia.Explorar y desarrollar nuevos casos de uso de IA y analítica avanzada aplicados a la selección de clientes, generación de ofertas y procesos de crédito.Buscar nuevas formas de automatizar y hacer más eficiente la construcción, evaluación y seguimiento de nuestras estrategias.Conectar la mirada comercial, financiera y de riesgo para construir propuestas sustentables.Medir el desempeño de las estrategias implementadas y convertir los resultados en nuevas decisiones y oportunidades de negocio.Trabajar transversalmente con equipos de Negocio, Riesgo, Data y Tecnología para llevar ideas desde el análisis hasta su implementación.\n\n\n🎯 ¿A quién buscamos?\n\nA alguien que disfrute resolver problemas, cuestionar la forma actual de hacer las cosas y construir soluciones nuevas.\n\n✔ Formación en Ingeniería Civil, Industrial, Comercial o carrera afín.\n\n✔ +3  años de experiencia en Business Analytics, estrategia, riesgo de crédito, inteligencia de negocio o áreas relacionadas.\n\n✔ Capacidad para trabajar con grandes volúmenes de información y convertirlos en decisiones y estrategias de negocio.\n\n✔ Manejo avanzado de SQL y Excel y conocimientos de Python.\n\n✔ Interés y experiencia —o muchas ganas de desarrollarse— en el uso de IA, automatización y nuevas herramientas de análisis aplicadas al negocio.\n\n✔ Capacidad para desenvolverse con autonomía, estructurar problemas y comunicar propuestas a diferentes niveles de la organización.\n\n✔ Experiencia en Banca Empresas, crédito, riesgo o industria financiera será especialmente valorada.\n\n\n\n\n✨ ¿Qué hace diferente este desafío?\n\n\n\n\nTendrás la oportunidad de participar directamente en la evolución de cómo Itaú ofrece crédito a sus clientes Empresas, combinando conocimiento de negocio con datos, analítica e IA.\n\nEs un espacio para crear, probar y escalar nuevas ideas, con exposición a desafíos relevantes del negocio y posibilidad concreta de generar impacto.\n\n\n\n\nSi te entusiasma usar datos e IA para construir una nueva forma de hacer crédito para Empresas, queremos conocerte. 🚀\n\n\n\n\nBeneficios\n\n\n\n\n¡Ofrecemos una propuesta de beneficios integrales para ti, enfocados en tu tiempo, familia, salud, desarrollo de carrera, momentos especiales, y mucho más!\n\n\n\n\nJornada laboral de 40 horasModelo de trabajo hibrido (dependiendo de tus funciones).32 horas o 4 días libres al año que puedes usarlos como quieras.Voy y vuelvo: Disfruta de 3 meses sin goce de sueldo para cumplir tus sueños.Medio día libre por tu cumpleaños.Seguro complementario de salud, catastrófico y dental, además de seguro de vida.Beneficios de conciliación y equilibrio de vida laboral y personal.Acceso a oportunidades que potencien tu formación y desarrollo profesional.Bonos de navidad, fiestas patrias, vacaciones, matrimonio, entre otros y mucho más.\n\n\nEncuentra el detalle en: https://trabajaenitau.cl/content/Beneficios/?locale=es_ES\n\nValoramos el talento diverso, equidad e inclusión.",
+      "apply_options": [
+        {
+          "title": "LinkedIn",
+          "link": "https://cl.linkedin.com/jobs/view/data-analyst-cr%C3%A9dito-empresas-at-ita%C3%BA-chile-4472031822?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "BeBee",
+          "link": "https://bebee.com/cl/jobs/data-analyst-credito-empresas-itau-chile-las-condes-santiago-metropolitan-region--t7xk-854549670?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJEYXRhIEFuYWx5c3QgQ3LDqWRpdG8gRW1wcmVzYXMiLCJjb21wYW55X25hbWUiOiJJdGHDuiBDaGlsZSIsImh0aWRvY2lkIjoiOHJWSThzRjdRcE1aZkhjZEFBQUFBQT09IiwidXVsZSI6IncrQ0FJUUlDSUZRMmhwYkdVIiwiZ2wiOiJjbCIsImhsIjoiZXMiLCJmYyI6IkVzd0JDb3dCUVVwcFZEUjBUSE5DWkVkSlpFbGxhbFpCVkhobExYTk9hbk5UUmtSeVdEUnBWVmg1ZFZSYVpuaEtSMGw2WjBKNE5sQklPQzFzTlhsTk0ySjBlR05xTmxWYU5FUXRkRXh1UlZCUk1EUjJNWHBsZG5wU1FWQkhTRXR1TWpGTE1sOU9iMnhuTkVRNGMzQlFSVlF3TUUxVmJFbzBaMFZFWkdGVWRYSklTMnhuUVdoVE1ubHZZM0ZrWVdGTUxWUVNGMW90YVRWaGIyNXZUbkpNT1hCMFVWQnJMVmMyYTBGckdpSkJSSE55T1daU1dYQjNWM05ZWjJONmRXOXVUMFJ2VEVKSlFtWkJaRWxhVkVGbiIsImZjdiI6IjMiLCJmY19pZCI6IjhyVkk4c0Y3UXBNWmZIY2RBQUFBQUE9PSJ9"
+    },
+    {
+      "title": "Data Scientist Modelos Riesgo No Financiero",
+      "company_name": "Banco de Crédito e Inversiones",
+      "location": "Las Condes",
+      "via": "Laborum",
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Data+Analyst&htidocid=d_1GVwMKGqSiaiODAAAAAA%3D%3D&hl=es-CL&shem=epsd1,esd2e,rimspwouoe&shndl=37&shmd=H4sIAAAAAAAA_xWNMQrCQBBFsc0RrKYWzIpgEzsVRVELPUDYZIfNymYn7oySK3kDsc3F3DS_efz3su8kO-20aLjXDoM4FriQQU8MN4dsCa4Eexd0SDxSAdXw4-cLjQaDgG3nkQADHIisx-m6Eem4UIrZ55ZFi6vzmlpFASvq1YMqHqfkRkfsvBYsl6tFn3fBzuabVKHRu43DxzhJZjiGN0Z26c9j56wZthQM8h9XjTvcuwAAAA&shmds=v1_ARwrE21utdtDoFZen-DMMdIh8POvrp8rqLssPk1DwnXbRnmi7Q&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Data+Analyst&htidocid=d_1GVwMKGqSiaiODAAAAAA%3D%3D",
+      "thumbnail": "https://serpapi.com/searches/6ab9e867f30d13c2856ac020/images/CmUAO8P0UgLISMIZ8TCteYDWyFgzqzKv8hjKsJCqrkk.jpeg",
+      "extensions": [
+        "hace 5 días",
+        "Tiempo completo"
+      ],
+      "source_link": "https://www.laborum.cl/empleos/data-scientist-modelos-riesgo-no-financiero-banco-de-credito-e-inversiones-1118453369.html",
+      "job_title": "Data Scientist Modelos Riesgo No Financiero",
+      "description": "En este rol tendrás la oportunidad de:\n\n\n\n\nInterpretar y dar seguimiento permanente a las actualizaciones normativas (CMF, UAF) para asegurar que el diseño de los modelos de machine learning cumpla a cabalidad con los requerimientos.\nEjecutar la extracción, limpieza, cuadratura y transformación (Feature Engineering) de grandes volúmenes de datos transaccionales, estructurados y no estructurados, garantizando calidad.\nDiseñar, crear y calibrar sistemas de reglas de negocio fundamentadas de manera empírica mediante analítica de datos profunda, integrándolas al ecosistema preventivo de las gerencias.\nProgramar, entrenar y afinar modelos de machine learning (Supervisados, No Supervisados, Grafos y GenAI) en el entorno de desarrollo Databricks, optimizando su capacidad predictiva.\nConfeccionar de manera exhaustiva la documentación técnica, manuales metodológicos y bitácoras de decisiones que sustentan la explicabilidad de los modelos y reglas ante validadores.\nLiderar sesiones consultivas y comités de trabajo (\"bajadas técnicas\") con los equipos de operaciones, cumplimiento y riesgos, capacitando a los usuarios finales en la correcta interpretación.\nCoordinar con las áreas de Arquitectura y TI los flujos de despliegue continuo (MLOps), asegurando que los modelos de machine learning pasen a producción de forma estable, escalable y segura.\n\n\nPara tener éxito en esta posición necesitas:\n\n\n\nEstudios: Ingeniería Civil (Computación, Industrial, Matemática, Eléctrica), Estadístico, Matemático, Economista\n\nExperiencias Habilitantes (2 a 4 años): Desarrollo de Modelos en Negocios Financieros. Experiencia desarrollando soluciones analíticas punta a punta y modelos de machine learning. Se consideran perfiles recién egresados que demuestren un nivel técnico excepcional a través de prácticas profesionales, trabajos esporádicos, proyectos de título de alto impacto o proyectos freelance.\n\nLenguajes de Programación (Avanzado): Excelente nivel y destreza en Python, SQL y PySpark. \n\nMachine Learning & Advanced Analytics (Avanzado): Dominio profundo en descubrimiento de datos, transformación y aplicación de algoritmos de machine learning (supervisados y no supervisados), así como análisis de grafos y redes complejas. Capacidad de calibrar hiperparámetros y optimizar el rendimiento.\nDiseño y Automatización de Procesos (MLOps) (Intermedio)\n\n\nEs aún mejor si tienes:\n\n\nEstudios de Magíster, Doctorado o Diplomados de especialización avanzada en Ciencia de Datos, Inteligencia Artificial, MLOps, Economía Aplicada o temáticas afines al cargo (Magíster Ciencia de Datos)\nDeseable experiencia demostrable gestionando mesas de trabajo interdisciplinarias, levantando procesos con áreas de negocio y liderando la integración a la gestión de activos analíticos\nDeseable conocimiento o participación previa actuando como contraparte técnica, generando documentación probatoria (metodológica) y atendiendo procesos de revisión.\nNormativa Local e Internacional: Conocimiento sólido de las normativas de la CMF y requerimientos de la UAF vinculados a gestión de fraude, ciberseguridad, riesgo operacional y PLAFT\nInteligencia Artificial Generativa y LLMs (Intermedio)\n\n\nCondiciones:\n\n¡Prepárate para un gran inicio! En caso de ser seleccionado e ingresar con contrato indefinido, tendrás una inducción presencial de 2 semanas para sumergirte en nuestra cultura.\n\n\n\nEn Bci buscamos innovación, calidad de servicio y una alta orientación al cumplimiento de objetivos. Si reúnes estas características, te invitamos a postular con nosotros.\n\nEstamos en constante búsqueda de crear experiencias memorables a nuestros clientes, tanto internos como externos, por lo que valoramos el trabajo en equipo, el deseo irrenunciable por satisfacer las necesidades de nuestros clientes y la pasión por realizar una gestión de excelencia.Cuando postulas a la Corporación Bci tienes la oportunidad de acceder a un mundo de beneficios, por ejemplo:\n\n- Bono anual sólo por ser un Colaborador Bci, bono por matrimonio, bono por el nacimiento de tus hijos, bono de ayuda para el cuidado de hijos en casa, entre otros. Si tienes de ganas de estudiar puedes postular a becas de estudio y pos título para ti o tus hijos.\n- Permisos para celebrar y compartir el cumpleaños de tus hijos, tu cónyuge, y para el tuyo como también para otras ocasiones especiales.\n- Seguro complementario de salud y dental con copago.",
+      "apply_options": [
+        {
+          "title": "Laborum",
+          "link": "https://www.laborum.cl/empleos/data-scientist-modelos-riesgo-no-financiero-banco-de-credito-e-inversiones-1118453369.html?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "LinkedIn",
+          "link": "https://cl.linkedin.com/jobs/view/data-scientist-modelos-riesgo-no-financiero-at-banco-bci-4471107884?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Trabajo",
+          "link": "https://cl.trabajo.bz/view/9574557.html?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJEYXRhIFNjaWVudGlzdCBNb2RlbG9zIFJpZXNnbyBObyBGaW5hbmNpZXJvIiwiY29tcGFueV9uYW1lIjoiQmFuY28gZGUgQ3LDqWRpdG8gZSBJbnZlcnNpb25lcyIsImh0aWRvY2lkIjoiZF8xR1Z3TUtHcVNpYWlPREFBQUFBQT09IiwidXVsZSI6IncrQ0FJUUlDSUZRMmhwYkdVIiwiZ2wiOiJjbCIsImhsIjoiZXMiLCJmYyI6IkVzd0JDb3dCUVVwcFZEUjBTVVZ5Vm5ORk1XRk5kazlQYlhSQmRrczVkMWxyTjJwWUxVaE1UbXRGYlZCMlZqVnFOV2RIWkhSSlMwTTNVakpHWWt0MmQyTkxaVWhoYXkxWFZsSnVlazU2YW5Gc1ZITnhaV3R4TFRkQ09VSnZjV2QyVTFsWWFUQk5UVGRsUmtaM1ZWRjNUV3RvUzFjNGQxQjNNM05mYkdkeldVVkVNamhKZDIxTlpURktYMmhRWTNoSFowc1NGMW90YVRWaGIyNXZUbkpNT1hCMFVWQnJMVmMyYTBGckdpSkJSSE55T1daU00yRXlWR2RRTUZWWWRUaHBjRjlqVkY5bGMwUlRUV0ZVYVhOQiIsImZjdiI6IjMiLCJmY19pZCI6ImRfMUdWd01LR3FTaWFpT0RBQUFBQUE9PSJ9"
+    },
+    {
+      "title": "Power BI & Data Engineer - Regional Analytics",
+      "company_name": "WiTI",
+      "location": "Región Metropolitana",
+      "via": "BeBee",
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Data+Analyst&htidocid=Iewt4dGeWaeyTUdyAAAAAA%3D%3D&hl=es-CL&shem=epsd1,esd2e,rimspwouoe&shndl=37&shmd=H4sIAAAAAAAA_xWNMQrCQBBFsc0RBGEqC8GsCDaxUhQJKIgIlmGSDJuVzcyaXTFeydbONhczaV7x4f0XfUbR8SwvamCbwhR2GBD2rA1TP83hQtoIo4VNj3cwhU8g737-8aQSoSSg2lkSIIaDiLY0XlchOJ8o5b2NtQ_YS3EhtRKmXFp1l9wPyHyFDTmLgbLlatHGjvVscjPXdDgbut2X4UShESfWBGT8A91C5wetAAAA&shmds=v1_ARwrE23jehfCrBLZz-iBoNQnWfuPoH3e2e9ZvBevJdIHOvcTVQ&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Data+Analyst&htidocid=Iewt4dGeWaeyTUdyAAAAAA%3D%3D",
+      "thumbnail": "https://serpapi.com/images/i/_9j_4AAQSkZJRgABAQAAAQABAAD_2wCEAAkGBwgHBgkIBwgKCgkLDRYPDQwMDRsUFRAWIB0iIiAdHx8kKDQsJCYxJx8fLT0tMTU3Ojo6Iys_RD84QzQ5OjcBCgoKDQwNGg8PGjclHyU3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3N__AABEIADgAOAMBIgACEQEDEQH_xAAZAAEAAwEBAAAAAAAAAAAAAAAAAwQFBgf_xAA0EAABAwIEAAkNAQAAAAAAAAABAAIDBBEFEhMhBhQxNlFxcoKyFiI0QVVjgZOhorHB0RX_xAAXAQEBAQEAAAAAAAAAAAAAAAAAAQQC_8QAGhEBAQEAAwEAAAAAAAAAAAAAAAERAxIhAv_aAAwDAQACEQMRAD8A9xREQES6yq_H6Gjqo6UyatQ97Wace-Uk236PymDVREQEREBVsRrYcPo5aqoJEcYF8oudzYfUqysThnzbrO542qybZBymLcKa_E38XogaeF2wDT57us-r4LKoYpIcVo2ysLXa8Zse0FBR6nGotHLqZhlzcl1ckNQMYpDU5NQPjtk5LZlr6yTI6erIuVqcf0MUjoHGYudlBeDsCeTZdDQPc-C73Em53KyWWOVlERQFicM-bdX3PG1bapYzQDE8Olo3SGMSZbuAvaxB_Ss8ujyeN7o3tew5XDcHoU9NLJNiNM6V5c7VYLntBdZ5CR-0H_KH9UkHAiOGeOXj7zkeHW0hvY9a03l-XWrz4InytmdEwyt2a8tGYdRWth3o_eKj_wA_3v2qzTw6MeTNfe91mt1KlREUQREQEREBERAREQf_2Q.jpeg",
+      "extensions": [
+        "hace 1 día",
+        "Tiempo completo"
+      ],
+      "source_link": "https://bebee.com/cl/jobs/power-bi-data-engineer-regional-analytics-witi--talent-639045493122336403",
+      "job_title": "Power BI & Data Engineer - Regional Analytics",
+      "description": "WiTi conecta talento tecnológico con proyectos de alto impacto en Latinoamérica. Buscamos un/a BI Engineer / Data Engineer con dominio de Power BI, SQL y Python para integrarse a una iniciativa corporativa de datos con alcance en Chile y Perú.\n\n\nEl proyecto consolida información en un Data Lake y habilita modelos semánticos, reportería y analítica para apoyar la toma de decisiones en un ecosistema regional de movilidad y retail.",
+      "apply_options": [
+        {
+          "title": "BeBee",
+          "link": "https://bebee.com/cl/jobs/power-bi-data-engineer-regional-analytics-witi--talent-639045493122336403?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJQb3dlciBCSSBcdTAwMjYgRGF0YSBFbmdpbmVlciAtIFJlZ2lvbmFsIEFuYWx5dGljcyIsImNvbXBhbnlfbmFtZSI6IldpVEkiLCJodGlkb2NpZCI6Iklld3Q0ZEdlV2FleVRVZHlBQUFBQUE9PSIsInV1bGUiOiJ3K0NBSVFJQ0lGUTJocGJHVSIsImdsIjoiY2wiLCJobCI6ImVzIiwiZmMiOiJFc3dCQ293QlFVcHBWRFIwU3pOc1dqSnRjbnB5WjBGb1FYZFNVbmcwWkc1S1JGSlpiM0E0VlVOME4ydGxSMWxrWDJsNFRsQnBiR0ZuVUdKYWNFeHhaVFZHZFRkdkxWcEtNWEpmVm5SQmJHbHRNWEJSZEZCcWExTklaRFU0TWpkUVJqQllaREZ6VEVsTk0yTkNhRkY0TjA5U01FUnhZbHBYY1ZWcmNtZGxXbk5mWHpaVmFXVkdabll3WjJ4S1pYWmtjSElTRjFvdGFUVmhiMjV2VG5KTU9YQjBVVkJyTFZjMmEwRnJHaUpCUkhOeU9XWlVhREZLV0ZONU4wVnllR3BEVUZrNVlWZ3haVTAxZHpkVmFuZEIiLCJmY3YiOiIzIiwiZmNfaWQiOiJJZXd0NGRHZVdhZXlUVWR5QUFBQUFBPT0ifQ=="
+    },
+    {
+      "title": "Líder Data Analytics",
+      "company_name": "RENEE RPO Asistido para ALEMANA SEGUROS",
+      "location": "Vitacura",
+      "via": "Trabajando.cl",
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Data+Analyst&htidocid=VA-nwb_a4wvT0p2aAAAAAA%3D%3D&hl=es-CL&shem=epsd1,esd2e,rimspwouoe&shndl=37&shmd=H4sIAAAAAAAA_xXNPQ6CQBBA4dhyBKupLcD402BF4oYGwUC0NQNMYM3CrjtLgjey8QK2XExoXvfyeZ-Vd0imb00WzugQoh7V28mKQyinH78GqhFqAuqMIg3UQ6x1o2h9ap0zHAYBs_IbdjhPfqW7QPdU6jF46pKXPLhFS0aho8fuuB190zebfS5SISC_ZhCxZCdrDQbtzCfiEqURFCK-5VmxeHfpsBos_gHALcYGqwAAAA&shmds=v1_ARwrE22HWS3lJpLtW-Z9ssT9BrH2AHjamAHx3Xo7VJipG_eICA&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Data+Analyst&htidocid=VA-nwb_a4wvT0p2aAAAAAA%3D%3D",
+      "extensions": [
+        "hace 5 días",
+        "Tiempo completo"
+      ],
+      "source_link": "https://www.trabajando.cl/trabajo/6128424-lider-data-analytics",
+      "job_title": "Líder Data Analytics",
+      "description": "Alemana Seguros es una destacada compañía chilena del sector seguros de vida y salud 🏥, dedicada a brindar protección y tranquilidad a las personas mediante productos innovadores y simples. Su cultura se basa en el bienestar, la cercanía, la integridad y el trabajo en equipo, impulsando la excelencia y la mejora continua. El cargo de Líder de Data Analytics se inserta en la Gerencia de Operaciones TI, reportando jerárquicamente al Subgerente de Sistemas y funcionalmente a la Gerencia de Operaciones TI.\n\nMisión del Cargo:\nImpulsar la transformación de datos en información estratégica para respaldar la toma de decisiones de negocio 📊. Liderar la visión, estrategia y hoja de ruta en analítica, asegurando la integridad, disponibilidad y seguridad de los datos. Guiar la migración hacia arquitecturas de datos modernas en la nube y fomentar la excelencia operativa en el equipo.\n\nResponsabilidades:\n\n\n🔹 Liderar la migración y construcción de arquitecturas de datos en la nube (GCP, AWS, Azure).\n\n🔹 Gestionar y mantener soluciones de datos robustas y escalables.\n\n🔹 Asegurar la integridad, seguridad y disponibilidad de los datos organizacionales.\n\n🔹 Establecer la visión y hoja de ruta del área de analítica alineada con la estrategia de la compañía.\n\n🔹 Priorizar iniciativas de datos considerando viabilidad técnica y valor de negocio.\n\n🔹 Implementar procesos de ingesta y gobierno de datos en entornos cloud.\n\n🔹 Desarrollar e implementar herramientas de observabilidad y control de procesos de datos.\n\n🔹 Liderar equipos multidisciplinarios de analistas, ingenieros de datos y especialistas BI.\n\n🔹 Impulsar el desarrollo de capacidades técnicas dentro del equipo.\n\n🔹 Colaborar transversalmente con distintas áreas internas y con proveedores externos.\n\n🔹 Participar en la optimización de recursos y cumplimiento de procedimientos de seguridad.\n\n🔹 Apoyar en funciones operativas y adaptarse a necesidades emergentes del área.\n\n\nRequisitos Clave:\n🎓 Formación en Ingeniería Civil Informática, Civil Industrial, Computación o afín.\n\n🎓 Postgrado completo (egresado) en áreas relacionadas.\n\n💼 Al menos 5 años de experiencia en cargos similares liderando proyectos de datos.\n\n   Experiencia en arquitecturas de datos cloud (GCP, AWS, Azure).\n\n📚 Manejo de herramientas Big Data (Hadoop, Spark) y bases de datos relacionales/NoSQL (BigQuery, Postgres, MySQL, DynamoDB, MongoDB).\n\n📈 Dominio de herramientas de visualización de datos (Looker, PowerBI, Tableau).\n\n💻 Programación en Python, Java; R deseable.\n\n🔒 Gobierno de datos y frameworks de seguridad.\n\n🔧 Conocimientos en DevOps (Git, CI/CD, control de versiones, GitLab, Jenkins).\n\n🤝 Liderazgo colaborativo y capacidad para gestionar equipos multidisciplinarios.\n\n🗣  Comunicación efectiva, pensamiento analítico y orientación a la calidad.\n\n📊 Capacidad para alinearse a la estrategia del negocio y gestionar el cambio.\n\n🏆 Certificaciones en cloud recomendadas (AWS, Google Cloud Platform).\n\n\nOferta:\nBanda Salarial: 💲 No especificada\n\nHorario: 🕒 Jornada Completa\n\nModalidad de Trabajo: 🏢 Presencial\n\nBeneficios Adicionales: 📈 Contrato a plazo fijo con posterior paso a indefinido; inducción de 60 días acompañada por el equipo TI; ambiente de trabajo innovador, colaborativo y orientado al bienestar; alto potencial de desarrollo profesional en data & analytics.\n\n\n¡Sé protagonista de la transformación digital en Alemana Seguros! Postula y lleva tu carrera al siguiente nivel 🚀",
+      "apply_options": [
+        {
+          "title": "Trabajando.cl",
+          "link": "https://www.trabajando.cl/trabajo/6128424-lider-data-analytics?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "JobLeads",
+          "link": "https://www.jobleads.com/cl/job/lider-data-analytics--vitacura--e766f33c739f480954a0acb6d0ab90cbb?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "BeBee",
+          "link": "https://bebee.com/cl/jobs/lider-data-analytics-tecnova-it-solutions-vitacura--talent-638820199216645779?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "WhatJobs",
+          "link": "https://cl.whatjobs.com/jobs/l%C3%ADder-data-analytics/vitacura?id=48414023&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Supermercado Al Día",
+          "link": "https://supermercadoaldia.cl/empleos/lider-data-analytics-renee-rpo-asistido-para-alemana-seguros-4e8db798?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJMw61kZXIgRGF0YSBBbmFseXRpY3MiLCJjb21wYW55X25hbWUiOiJSRU5FRSBSUE8gQXNpc3RpZG8gcGFyYSBBTEVNQU5BIFNFR1VST1MiLCJodGlkb2NpZCI6IlZBLW53Yl9hNHd2VDBwMmFBQUFBQUE9PSIsInV1bGUiOiJ3K0NBSVFJQ0lGUTJocGJHVSIsImdsIjoiY2wiLCJobCI6ImVzIiwiZmMiOiJFc3dCQ293QlFVcHBWRFIwU21wdFRYRllRbGx3TlhCM1dFZG1jbFJ5YlhjM1VqSnhia2wzWDNaa2JFTkxRbkJhU1RGdmRrbHlPRGd3VUd0UFFXWnVaR1kyVW5OTGJsSXhXbFl3YURZMWR6UkxUV1kwVkhZNVNqVkhRVGhqYkZCRVYxazFkak5SWmpCYVlXTTBVV1ppWjFjNVlrOVJlRTU1TkUxNFZ6UnhXWFZNWlc5UExWTXRNSGxOY0ZoTFVFaDRYelVTRjFvdGFUVmhiMjV2VG5KTU9YQjBVVkJyTFZjMmEwRnJHaUpCUkhOeU9XWlNWMUZ0YzFsNFJUbDJNRnB3Y1hKU1Vrd3hVbkozY0doRWMzQjMiLCJmY3YiOiIzIiwiZmNfaWQiOiJWQS1ud2JfYTR3dlQwcDJhQUFBQUFBPT0ifQ=="
+    },
+    {
+      "title": "Data Scientist",
+      "company_name": "NTT DATA EMEAL",
+      "location": "Santiago",
+      "via": "NTT DATA Careers",
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Data+Analyst&htidocid=MWWSsp3ck3TOjb_uAAAAAA%3D%3D&hl=es-CL&shem=epsd1,esd2e,rimspwouoe&shndl=37&shmd=H4sIAAAAAAAA_xXNMQ6CQBBA0dhyBKqpTdw1JjZYkUBs1AZ6MsBkWbPsrM6YcATPZOvFlOaX72fvTbarUBGawVNUL1pA__3I40UjwkhAcwrEQBHOzC5QfppUkxTWigTjRFH9YAaeLUfqebF37mVNJxM-KQVU6g7H_WJSdNv81rZQlW0J9bUuLyvb4H-Ljn_g1xU-iwAAAA&shmds=v1_ARwrE23eu0picEwZa5l_xnX9TS2byCJ4d0D93lhXjQjTy6qCqg&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Data+Analyst&htidocid=MWWSsp3ck3TOjb_uAAAAAA%3D%3D",
+      "thumbnail": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAADgAAAA4CAMAAACfWMssAAAAaVBMVEX___9ro9LW6fQAarjd7fYAcr1wptOErtYAYLWwzuakv9661uvL4O9VmM1Ekct5qteTvt8AVLGbvt4egMOkyOTw-Ptfn9GAs9rq9PqSuNuryeNkms1BjMfE3e8AWLIAXLMnhsUAZbcAdbz_NiPXAAABA0lEQVRIie2Ry7KDIAyG_yByEcVaBJV67fs_ZLGLtjNnzsI93zAhhHybBMhkMpnM_9SNbW1gl71bNxRFITpz0ePdcncoTa8ALxh0JCGoTyGgJ6KaByJtQkvDQCTHjzg52AlBoIzQZQkp42OOSyxFD3rEdvVR662Px6BN1Lb9iEHipuRmzkRbGyeJSqS60wBV8CsPsz04FMcwWyc-YtsAfZO69gp6HtWQRPoRlWw4P1gSfceY_IpG-fc9rgxxB613TCG9n6foGlfqwtqNIX1v-_yk73T2-Yz-mbrHBUj9vE6FJY2BGWM86ndMh6fkZ2veHbISar64jRPd7HR1i5lMJpP5ywspzg4UroTmUQAAAABJRU5ErkJggg.png",
+      "extensions": [
+        "hace 26 días",
+        "Tiempo completo"
+      ],
+      "source_link": "https://careers.nttdata.com/global/en/job/186423ea0444510/Data-Scientist",
+      "job_title": "Data Scientist",
+      "description": "Objetivo del cargo\n\nResponsable del desarrollo, despliegue y transferencia de modelos analíticos y pipelines que sustentan los objetivos del \n\nproyecto, asegurando la generación de valor para los stakeholders.\n\nAlcances / responsabilidades\n\n• Consolidar datos, pipelines y modelos del proyecto.\n\n• Construir, ajustar y desplegar productos analíticos a producción.\n\n• Ejecutar pilotajes y análisis avanzados para validar lo desarrollado y generar valor a los stakeholders.\n\n• Documentar y ejecutar la transferencia de los desarrollos a continuidad operacional\n\n\nRequisitos mínimos (obligatorios)\n\n• Mínimo 3 años de experiencia práctica en modelamiento y análisis avanzados.\n\n• Dominio de Databricks, SQL y Python.\n\n• Construcción de modelos predictivos / Machine Learning (Redes Neuronales, Random Forest, anomaly detection, \n\nseries de tiempo).\n\n• Soluciones end-to-end (datos → modelo → consumo) y visualización de resultados (Power BI, Plotly / Dash o \n\nequivalente).\n\n• Buenas prácticas de ingeniería de software y control de versiones con Git (ramas, pull requests, code review); \n\ntrabajo bajo metodologías ágiles (Azure DevOps).\n\nExperiencia en minería (altamente valorada)\n\n• Experiencia comprobable en la industria minera y sus procesos (Mina, Concentradora, Hidrometalurgia, Flotación o \n\nprocesos asociados) — altamente valorada por el cliente.\n\n• Idealmente sobre datos operacionales reales de proceso minero.\n\nCertificaciones (deseables)\n\n• Databricks Machine Learning (Associate) o certificaciones Azure de ciencia de datos / ML.\n\n• Formación de postgrado en Ciencia de Datos o áreas afines.\n\nGestión de proyectos, personas y comunicación\n\n• Gestión del tiempo: cumple los plazos de sus modelos y análisis con autonomía.\n\n• Gestión de requerimientos: traduce necesidades de negocio en soluciones analíticas con apoyo del líder.\n\n• Gestión de personas / equipo: coordina eficazmente con expertos de proceso y el equipo técnico.\n\n• Comunicación: explica resultados de modelos de forma clara a usuarios y contrapartes.\n\nRequisitos deseables (diferenciadores)\n\n• Prácticas de MLOps: versionamiento y registro de modelos (MLflow), reproducibilidad y monitoreo del desempeño.\n\n• Trazabilidad de material; operaciones de mina y planta.\n\n• Hidrometalurgia, lixiviación o procesos asociados a SX-EW.\n\n• Unity Catalog, Delta Lake, Databricks Asset Bundles (DAB) y PySpark.\n\nFormación académica\n\nTítulo profesional en Ingeniería, Estadística o carrera afín. Deseable formación de postgrado en Ciencia de Datos.",
+      "apply_options": [
+        {
+          "title": "NTT DATA Careers",
+          "link": "https://careers.nttdata.com/global/en/job/186423ea0444510/Data-Scientist?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "NTT DATA Careers",
+          "link": "https://careers.services.global.ntt/pt/pt/job/186423ea0444510/Data-Scientist?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "BeBee",
+          "link": "https://bebee.com/cl/jobs/data-scientist-kibernum-santiago--jooble--2850904468586736279?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Indeed",
+          "link": "https://cl.indeed.com/viewjob?jk=ac35da4338d3382d&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "LinkedIn",
+          "link": "https://cl.linkedin.com/jobs/view/data-scientist-at-zenta-group-4456383598?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "JobLeads",
+          "link": "https://www.jobleads.com/cl/job/data-scientist--santiago--e0d6fac4e7bd795dc6d7bcd698de71408?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Jooble",
+          "link": "https://cl.jooble.org/jdp/-440102646009389762?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "RIPLEY - Trabaja Con Nosotros - Computrabajo",
+          "link": "https://ripleychile.pandape.computrabajo.com/Detail/13089871?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJEYXRhIFNjaWVudGlzdCIsImNvbXBhbnlfbmFtZSI6Ik5UVCBEQVRBIEVNRUFMIiwiaHRpZG9jaWQiOiJNV1dTc3AzY2szVE9qYl91QUFBQUFBPT0iLCJ1dWxlIjoidytDQUlRSUNJRlEyaHBiR1UiLCJnbCI6ImNsIiwiaGwiOiJlcyIsImZjIjoiRXN3QkNvd0JRVXBwVkRSMFNrOU1NbVJvV25NelYzcG9Wa0kyVDNJdFlWTnVRbm95V1dGbVJHMXRTMDg1U210bWFrNTBiWEI0Y1RRdFNWWk1kbk51YW5aZmFGSlpUelJMVld4RmIxQjVSVzVIWlhJdFdHeFhOVFZ1VEVwTlNUSjFZbmRyWkdSVmFpMUdTMWxuTlhFNFgyMUZhV3RsU2pkNlVHWmtWRjlYVjFGSlJtcHlhMEZQU1dWME0wRldlVWRDUlZRU0Yxb3RhVFZoYjI1dlRuSk1PWEIwVVZCckxWYzJhMEZyR2lKQlJITnlPV1pUY0ZkUFJEaHlaMUJ4TlhOS1l6ZElNVmczVFhSR05GTk5NR2QzIiwiZmN2IjoiMyIsImZjX2lkIjoiTVdXU3NwM2NrM1RPamJfdUFBQUFBQT09In0="
+    },
+    {
+      "title": "Data Engineer",
+      "company_name": "TIMINING",
+      "location": "Providencia",
+      "via": "Get On Board",
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Data+Analyst&htidocid=m9id_Frp5ep3FjSDAAAAAA%3D%3D&hl=es-CL&shem=epsd1,esd2e,rimspwouoe&shndl=37&shmd=H4sIAAAAAAAA_xXMMQrCMBQAUFx7AcEps0gigktdlZLB4uBefpJPGknzY36UHsBTuXox6fLG13xWze4MFcQl-ZAQSyvM78vPFzoQDgVOOSIJTKIj8hE3p7HWzK1SzFF6rlCDlZYmRQkNzepBhhcGHqFgjlBxOBz3s8zJb9d3fdW97rslvBV6B4fJBvgDqCtJs4cAAAA&shmds=v1_ARwrE21-kWnrdh-WO87Z9_KsmnxIMbZbDHdILS6clZbP3RQ28g&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Data+Analyst&htidocid=m9id_Frp5ep3FjSDAAAAAA%3D%3D",
+      "thumbnail": "https://serpapi.com/searches/6ab9e867f30d13c2856ac020/images/xYVoRZoDKhO6AIcGqxRwQPpzBP82COFxjdLYguslvDA.png",
+      "extensions": [
+        "hace 26 días",
+        "Tiempo completo"
+      ],
+      "source_link": "https://www.getonbrd.cl/jobs/data-science-analytics/data-engineer-timining-santiago-45d2",
+      "job_title": "Data Engineer",
+      "description": "Propósito del rolAsegurar la correcta integración, transformación y disponibilidad de los datos provenientes de las distintas fuentes de información del cliente hacia los productos de TIMining. Su objetivo es garantizar la confiabilidad y calidad de las pipelines ETL, así como apoyar en la calibración de algoritmos y el desarrollo de automatizaciones internas que optimicen procesos, aportando valor tanto al cliente como al equipo interno. © Get on Board.    Responsabilidades  Desarrollo, mantención y documentación de scripts en Python y SQL (conectores) enfocados en la extracción, transformación y carga (ETL) a las bases de datos de los productos de TIMining.Escribir, depurar y mantener scripts en Python para la ingesta, transformación y validación de datos espaciales (topografía, modelos 3D, etc.).Asistir y presentar en reuniones de carácter técnico con cliente para la solicitud de accesos a sus fuentes de información o la respuesta a dudas que ellos podrían tener.Calibración de algoritmos pertenecientes a los softwares de la empresa.Desarrollo de proyectos internos que permitan la automatización de labores rutinarias con el objetivo de simplificar el día a día del equipo.Validación de los resultados de las pipelines ETL, tanto cualitativa como cuantitativa mediante la comparación con reportes operacionales de las faenas.Análisis y documentación de las fuentes de información del cliente por sistema de gestión de flota (FMS), sistema de navegación (MGS) u otras fuentes de información.Identificar, evaluar y mitigar los riesgos al momento de desarrollar las pipelines ETL, considerando los datos disponibles y calidad. Implementando estrategias para manejar problemas y contingencias de manera proactiva.    Requerimientos del cargo  EducaciónIngeniería en ciencia de datos.Ingeniero en computación, o civil o carrera afín.Topógrafo.Requerimientos del cargoMínimo 2 años de experiencia en cargos similares.Experiencia en implementación de pipelines ETL.Capacidad para trabajar de manera autónoma y en equipo, con habilidades analíticas y de resolución de problemas.Conocimiento y manejo de Python y SQL avanzado.Consultas a APIsConocimiento avanzado en bases de datos.Conocimiento avanzado en Google Suite y office.IdiomasEspañol Nativo. (Excluyente)Inglés upper-intermediate. (Deseable)    Deseables  Experiencia en implementación de proyectos tecnológicos.Conocimiento de la industria minera a cielo abierto y sus desafíos operativos.Conocimiento en arquitecturas cloud.   GETONBRD Job ID: 63452  Condiciones       Horario flexible  Entrada y salida flexibles, libertad para realizar trámites personales o familiares.         Teletrabajo opcional  Algunos días puedes trabajarlos desde tu casa.         Cobertura de salud  TIMINING paga o copaga cobertura de salud adicional a lo legal.         Computadora  TIMINING proporciona una computadora para tu trabajo.         Vestimenta informal  TIMINING no exige ningún código de vestimenta.        Política de trabajo remoto    Híbrido    Se trabaja algunos días de forma remota y otros en la oficina en Santiago (Chile).",
+      "apply_options": [
+        {
+          "title": "Get On Board",
+          "link": "https://www.getonbrd.cl/jobs/data-science-analytics/data-engineer-timining-santiago-45d2?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJEYXRhIEVuZ2luZWVyIiwiY29tcGFueV9uYW1lIjoiVElNSU5JTkciLCJodGlkb2NpZCI6Im05aWRfRnJwNWVwM0ZqU0RBQUFBQUE9PSIsInV1bGUiOiJ3K0NBSVFJQ0lGUTJocGJHVSIsImdsIjoiY2wiLCJobCI6ImVzIiwiZmMiOiJFc3dCQ293QlFVcHBWRFIwU21GTlFWWnVXRWM0V20xUlZFZE5RWFZwU0c5NE9HOUdlR3RUUm0weFpFOUNZbTUyY2toR1dFVkpVV2N4T1RkS2RUSnVTbUpXU1ZjMU56TXhSSEJWU1hoQ1QyOVJSMk5FU1RZd1lscG9jVzFDUjBWMFNXcDZNMXBUYTNWNkxYUTRkVko1ZUVSTWNUbFRkRnBaTXpWV2RXWlBhMTgwY1V4R2EybFJjbXRTVWw5RFJXOU1OVWNTRjFvdGFUVmhiMjV2VG5KTU9YQjBVVkJyTFZjMmEwRnJHaUpCUkhOeU9XWlRWSEIzVVVWRGMxaENWRWt4VlZCUFpHUklkVmN4ZFd0UmRYQm4iLCJmY3YiOiIzIiwiZmNfaWQiOiJtOWlkX0ZycDVlcDNGalNEQUFBQUFBPT0ifQ=="
+    },
+    {
+      "title": "Data AI Architect",
+      "company_name": "ACL",
+      "location": "Santiago",
+      "via": "LinkedIn",
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Data+Analyst&htidocid=6L9_8MHefcC-xW-cAAAAAA%3D%3D&hl=es-CL&shem=epsd1,esd2e,rimspwouoe&shndl=37&shmd=H4sIAAAAAAAA_xXMsQrCMBAAUFy7uDvd7JAUwaVOQUEENz-gXNMjiaS52Duho9_l6o9Jlze-5rNp2gsqgruBm31MSl47GH5feb1pRBgJaKqZGKjAlTlk2p2iapXOWpFsgihq8sbzZLnQwIt98iArvUScqWZU6g_HdjG1hP3Wne_r9cCiCQP_ARn6WlqDAAAA&shmds=v1_ARwrE20EbhA2b1dN78U4ZuZ6c2kvMlbkKWzbowQrAGoE9Z-B9A&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Data+Analyst&htidocid=6L9_8MHefcC-xW-cAAAAAA%3D%3D",
+      "thumbnail": "https://serpapi.com/searches/6ab9e867f30d13c2856ac020/images/8wijW9C48ce3xaXYDa0cePVwOTpxqNVDdPms4Z09bYI.jpeg",
+      "extensions": [
+        "hace 3 días",
+        "Tiempo completo"
+      ],
+      "source_link": "https://cl.linkedin.com/jobs/view/data-ai-architect-at-acl-4469780873",
+      "job_title": "Data AI Architect",
+      "description": "En ACL, empresa líder en soluciones tecnológicas con más de 30 años de experiencia en Latinoamérica, estamos buscando talento para el cargo de Data AI Architect, con al menos 4 años de experiencia, para trabajar híbrido en Santiago de Chile, Si te entusiasma trabajar en un entorno dinámico, con desafíos constantes y oportunidades de crecimiento, ¡esta es tu oportunidad!\n\n\n\n\n¡Buscamos un Lead AI & Data Solutions Architect para liderar la evolución de nuestra plataforma de Inteligencia Artificial Generativa y Datos!\n\n\n\n\nSobre el Rol\n\nBuscamos a un/a profesional apasionado/a por la tecnología, capaz de diseñar e implementar arquitecturas avanzadas que conecten el mundo de los Datos y la IA Generativa. Serás el pilar técnico para diseñar soluciones escalables, seguras y de alto impacto operacional.\n\n\n\n\nRequisitos excluyentes\n\n🤖 Inteligencia Artificial Generativa & ML\n\nArquitectura de soluciones de IA y Datos: Experiencia sólida definiendo la visión y estructura técnica de proyectos analíticos e IA de punta a punta.LLMs y Machine Learning: Dominio de modelos de lenguaje de gran escala (fine-tuning, prompt engineering, evaluación) y algoritmos de ML tradicional.RAG (Retrieval-Augmented Generation): Experiencia en el diseño e implementación de arquitecturas de generación aumentada con recuperación (bases de datos vectoriales, embeddings, reranking).Frameworks GenAI: Manejo avanzado e integración con LangChain y LangGraph para la creación de flujos de trabajo de agentes complejos.Diseño e integración de soluciones GenAI: Capacidad para llevar modelos generativos desde el concepto hasta la producción integrada en ecosistemas empresariales.\n\n\n☁️ Cloud, Data & MLOps\n\nCloud Computing & Multi-cloud: Conocimiento técnico y práctico en las principales nubes del mercado (Azure, AWS, OCI).Arquitectura de datos escalable e ingenieria: Solida formación en Data Engineering y analítica de datos (Data & Analytics), con enfoque en el diseño de arquitecturas robustas, escalables y seguras.MLOps: Implementación de prácticas de CI/CD para modelos de aprendizaje automático, monitoreo, gobernanza y despliegue continuo.\n\n\n\n\n\n📍 Modalidad de trabajo hibrido\n\n🎁 Aguinaldo en festividades\n\n💰 Asignaciones monetarias.\n\n🏥 Seguro complementario de salud copago y seguro de vida.\n\n🎓 Cursos gratis en ACL Academy .\n\n🚀 Desarrollo Profesional.\n\n🤝 Cultura organizacional cercana, inclusiva y orientada al bienestar.\n\n\n\n\n🌟 Nuestra cultura En ACL, transformamos desafíos en oportunidades. Con más de 30 años apoyando a empresas en Chile y LATAM, combinamos experiencia, innovación y tecnología para entregar soluciones a medida en Desarrollo de Software, QA, IA y Staff Augmentation. Más que un proveedor, somos un socio estratégico que entiende las necesidades de cada cliente y trabaja a su lado para alcanzar objetivos. Para nuestro Team Aceliano, somos un espacio de aprendizaje, crecimiento y realización profesional.\n\n\n\n\n📬 ¿Te interesa?\n\n\n\n\nEnvía tu CV actualizado a mmagallanes@acl.cl indicando en el asunto: Arquitecto Cloud Azure \n\n\n\n\n¡Estamos listos para conocerte",
+      "apply_options": [
+        {
+          "title": "LinkedIn",
+          "link": "https://cl.linkedin.com/jobs/view/data-ai-architect-at-acl-4469780873?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "BeBee",
+          "link": "https://bebee.com/cl/jobs/data-ai-architect-acl-gran-santiago--techmap_cl_4469780873?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJEYXRhIEFJIEFyY2hpdGVjdCIsImNvbXBhbnlfbmFtZSI6IkFDTCIsImh0aWRvY2lkIjoiNkw5XzhNSGVmY0MteFctY0FBQUFBQT09IiwidXVsZSI6IncrQ0FJUUlDSUZRMmhwYkdVIiwiZ2wiOiJjbCIsImhsIjoiZXMiLCJmYyI6IkVzd0JDb3dCUVVwcFZEUjBTVTFVZFUxbldFYzBjMlZtWnpodGRrRjFSMmg2WTNwTWFucFFUREJ1V0Y5eFJ6aFVTakJLWkZWTFNGUlBTM0JsUlVreVJ5MXhOa2xsWTFCMlpXSkxRalZ4V1MxRmVscEtRbUpHVEd4SWMxTTRPRVoxYjJGTGFWaEVURmwzVUY5UE5qY3lUM2hYZVhCd01XMUJlR1kwTjBaZmQyTmpkRzlYVEU1MWFFcEZUSFJpYm1GVWRIWVNGMW90YVRWaGIyNXZUbkpNT1hCMFVWQnJMVmMyYTBGckdpSkJSSE55T1daU2NWQnJVRFJMVlhOblVVeEJjVkZaUkZvMlJHOVhZVFo2VkdKQiIsImZjdiI6IjMiLCJmY19pZCI6IjZMOV84TUhlZmNDLXhXLWNBQUFBQUE9PSJ9"
+    },
+    {
+      "title": "Data Analytics Engineer",
+      "company_name": "Toptal",
+      "location": "Chile",
+      "via": "LinkedIn",
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Data+Analyst&htidocid=RN1A-8zA_e5R5hEKAAAAAA%3D%3D&hl=es-CL&shem=epsd1,esd2e,rimspwouoe&shndl=37&shmd=H4sIAAAAAAAA_xXMMQ7CMAxAUbF2YWfyzJAgJBjKhABxAfbKba0kyI1DbaRyAQ7FysWgy9_er96Lan9GQzhm5JelTuGSQ8pEYw3t96OPJ_UIPQENhUmAMlxFAtPqEM2K1t6rsgtq-Neuk8FLplYmf5dW5zQacaTCaNRsd5vJlRzWy5sUQ553p5iYfi20Ly-JAAAA&shmds=v1_ARwrE21XM1nvRn8q7wbSJdJeB7GDjut1R32Y3TEFVU8B9SsukQ&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Data+Analyst&htidocid=RN1A-8zA_e5R5hEKAAAAAA%3D%3D",
+      "thumbnail": "https://serpapi.com/searches/6ab9e867f30d13c2856ac020/images/-glu0NOheiXVMowQLF13DT_NHHVk15_f7WSGPPcMk0A.jpeg",
+      "extensions": [
+        "hace 5 días",
+        "Tiempo completo"
+      ],
+      "source_link": "https://cl.linkedin.com/jobs/view/data-analytics-engineer-at-toptal-4470977299",
+      "job_title": "Data Analytics Engineer",
+      "description": "About Toptal\n\nToptal is a global network of top talent in business, design, and technology that enables companies to scale their teams, on-demand. With $200+ million in annual revenue and team members based around the globe, Toptal is the world’s largest fully remote workforce.\n\n\n\n\nWe take the best elements of virtual teams and combine them with a support structure that encourages innovation, social interaction, and fun. We see no borders, move at a fast pace, and are never afraid to break the mold.\n\n\n\n\nJob Summary:\n\nToptal prides itself on being a data-driven organization. The primary objective of the Data Analytics Engineer is to help drive business impact and better decision making by laying the data foundation for a world-class analytics function. This role will be critical to fostering trust in our data and confidence in our decisions.\n\n\n\n\nOur Data Analytics Engineers focus on creating a data environment that is conducive to analytics and business decision making. You will own and maintain the data transformation layer. This will require data governance (quality, accuracy, coverage, security), data modeling (structure, relationships, integrity), technical communication (data dictionaries, user training), quality control (code reviews, data validation), raw data analysis, and building AI data systems and pipelines. You will be the product owner for our data warehouse and will coordinate closely with our functional Business Analysts on one side, and Data Engineers on the other.\n\n\n\n\nThis role sits within the Business Analytics Center of Excellence and will ensure trustworthy data is available for all downstream data users. Positive relationships with both Data Engineers and Business Analysts will be key, but you must also think independently and bring your own point of view. To be successful in this role you must live and breathe SQL daily and be a critical thinker, problem solver and self-starter.\n\n\n\n\nThis role requires an AI-heavy workflow and skillset. We’ve transformed our codebase to be instrumented for agentic development and continue to build our internal AI tooling, and you will be part of this process. Fluency with using LLMs and agentic coding tools is a requirement of this role. The flip side of that is the part machines cannot do: understanding our business and metrics deeply, and making decisions on what matters and what doesn’t in terms of pushing the company’s business objectives forward.\n\n\n\n\nThis is a remote position. We do not offer visa sponsorship or assistance. Resumes and communication must be submitted in English.\n\n\n\n\nResponsibilities:\n\nThe following information is intended to describe the general nature and level of work being performed. It is not intended to be an exhaustive list of all duties, responsibilities, or required skills.\n\nDesign, write, review and ship SQL models across our repositories that transform raw data into usable data products for all organizational stakeholders. Own and maintain the transformation layer.Proactively work with the Data Engineers to ensure new data sources are added and available, and then modeled and published in our data warehouse.Proactively monitor the data warehouse and extract insights to identify opportunities to improve data operations, data accuracy and quality, coverage, integrity, structure, and general usability.Turn ambiguous business asks into modeled data. Run requirements gathering with stakeholders. Establish the grain, surface the edge cases, write down the business rules, and push back when the request would produce a misleading number.Implement measures and processes to improve data quality, accuracy, coverage, lineage, access and retention across dozens of source production databases.Own the data dictionary. Write table and column documentation that traces each field to its true origin. This documentation is consumed by AI agents as well as humans, and is an integral part of the semantic layer.Diagnose and resolve data incidents.Review your teammates’ code and provide feedback to maintain the hygiene of the data warehouse production environment.Work closely with Business Analysts, Data Engineers, Data Scientists, and business process owners to empower data-driven decision making.Enable end users to better use data, understand complexities, nuances, and limitations.Help make the team faster. Improve the agent playbooks, documentation, and tooling the team uses to work with the warehouse.\n\n\nQualifications and Job Requirements:\n\nBachelor’s degree is required, preferably in Engineering or a related technical field.4+ years of experience in an Analytics Engineer, Data Engineer, or Data Analyst role where you personally shipped production data models.Expert-level SQL skills and a working knowledge of Python.Fluency with LLMs and agentic coding tools. You already use tools such as Claude Code, Cursor or equivalent as part of your daily working practice. You know where they are reliable, where they should not be used, and how to verify their output.Experience with cloud data warehousing, such as BigQuery or Snowflake.Good understanding of a modern transformation framework (dbt, Dataform, SQLMesh or similar). You understand dependency graphs, refs, incremental strategies, tests and environment promotion as concepts, not just as commands.Git fluency. Branching, pull requests, code review, conflict resolution and generally working with a critical production environment.Strong familiarity with orchestration tools such as Airflow, Cloud Composer, Dagster or Prefect. You can read a DAG, understand its schedule and dependencies, and find out why a task failed.Process discipline. Jira, ticket hygiene, and code review etiquette. It’s mandatory you understand how to avoid shipping unverified LLM-generated code.Experience in doing exploratory/raw data analysis, data modeling, and data governance (quality, accuracy, coverage, security, etc.).Experience translating business logic and objectives into SQL code and linking data and analytics to business strategy and operations to drive real impact.Familiarity with BI tools (Tableau, Power BI, etc.).Detail oriented, methodical, and thorough.Team player who builds strong relationships and collaborates with others.Outstanding written and verbal communication skills, including the ability to explain complex issues in a simple and intuitive way.Ability to work collaboratively and independently; take ownership of quality, accuracy, and timeliness of deliverables.You must be a world-class individual contributor to thrive at Toptal. You will not be here just to tell other people what to do.",
+      "apply_options": [
+        {
+          "title": "LinkedIn",
+          "link": "https://cl.linkedin.com/jobs/view/data-analytics-engineer-at-toptal-4470977299?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "BeBee",
+          "link": "https://bebee.com/cl/jobs/data-analytics-engineer-toptal--fj-2378491674?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Levels.fyi",
+          "link": "https://www.levels.fyi/jobs?jobId=1ol8s7aeisteu&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJEYXRhIEFuYWx5dGljcyBFbmdpbmVlciIsImNvbXBhbnlfbmFtZSI6IlRvcHRhbCIsImh0aWRvY2lkIjoiUk4xQS04ekFfZTVSNWhFS0FBQUFBQT09IiwidXVsZSI6IncrQ0FJUUlDSUZRMmhwYkdVIiwiZ2wiOiJjbCIsImhsIjoiZXMiLCJmYyI6IkVzd0JDb3dCUVVwcFZEUjBTM0pFWkROWFVtTXpNbWh6WmtwaGFWSk5UMGRCY1VaUGNYUmZhVVI2ZUROcFpXTlFNSEpVUkZkblVsRjFaa2hIUmt4V1MyOXBZbk5MUm5NdFRtaFBjbEZpZDBKdk5XYzViRVk0TTFscFkyNUJkVXBwYkhWRVUwaGhUV1JGVVZoR1ZGbHpURE5tVkd0bFRUZHNYMmxLVW5aaVlWWnVjVkUzY201blpXdGxhbEZQVW5ST1oxQVNGMW90YVRWaGIyNXZUbkpNT1hCMFVWQnJMVmMyYTBGckdpSkJSSE55T1daVFpqRktkR3BpU0V4WlZreFJVbmxhWXpWdVZEbHVNamxaZUZKMyIsImZjdiI6IjMiLCJmY19pZCI6IlJOMUEtOHpBX2U1UjVoRUtBQUFBQUE9PSJ9"
+    },
+    {
+      "title": "Data Engineer – AWS (Lakehouse)",
+      "company_name": "BC Tecnología",
+      "location": "Las Condes",
+      "via": "Get On Board",
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Data+Analyst&htidocid=umXuRkJlLigRGD_eAAAAAA%3D%3D&hl=es-CL&shem=epsd1,esd2e,rimspwouoe&shndl=37&shmd=H4sIAAAAAAAA_xXMMQ6CQBAAwNjyBGOxpVpwxsQGGxSNDZ0mlmSBzYEetyd7JJT-wdon-AFbfuJLDM2UE7wnQXxAj3C0urZELfyeL9hdzzBP8U4Vd0KLCPLhK4-OSoSSgBpniIEsnJi1oem28t5JpJSICbV49HURFtwotpRzr26cy0gmFbbkDHrK1ptVHzqrl7N9AhcqLBvWwwfHNkWBhG1J8gfylwjroAAAAA&shmds=v1_ARwrE21SFeivQRvY7-QDEPWZxrJguni-TgpAanyItkCVtV6fvA&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Data+Analyst&htidocid=umXuRkJlLigRGD_eAAAAAA%3D%3D",
+      "thumbnail": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAADgAAAA4CAMAAACfWMssAAAAjVBMVEX___8AKFYAHVBqeJAAJlX_XDX6-_0AG08AFk3Z3uUAAEb_USLl6O33-PoAI1MAIFIAEUsACkpygJf_0sr_ysBebokAAEDR1956h5wwR2w-U3SOmasRL1tHXHwAAEPw8vVSZIGeqLcfPGTDytT_t6n_cFD_TBf_7ur_v7P_a0j_d1r_Rgn_3db_ZUH_5uGuXs_lAAABI0lEQVRIie3U23KDIBAGYDDgWlBUYhttjo2pObTJ-z9egcbptNOLXS4z_jfqjN_sCouMTXnE5E8uMfD5RSmVRsBZwgWf4ARZWtB4gGzRdgb46zInQb5ab8AILky2seiyHnLDx2QrbNEAXUQCpbtAt6XBis_aHUDSFaRWef3m77d2j3bfUPX3J8KOeAgW__4vWMf8dPwAlPgv-4kFB2NmdZlFttrXkYuTVpHbwVrXq6jCAKS2I8jC-BGvSjdyNQBF9kr8GfK5llI3CFkn46kS4VgdPJwjauZrBYYLd5BVOMjvUsrhiGp30e4rBfdfx8kVlGeUCxmXJTh9wMOQ4-ninbwSHWs-PJPDJxmGegNiL_6BWpLr-Vb1lbouIbfmFsOmPH6-APxGDyIy1d0WAAAAAElFTkSuQmCC.png",
+      "extensions": [
+        "hace 12 días",
+        "Tiempo completo"
+      ],
+      "source_link": "https://www.getonbrd.com/jobs/data-science-analytics/data-engineer-aws-lakehouse-bc-tecnologia-santiago",
+      "job_title": "Data Engineer – AWS (Lakehouse)",
+      "description": "This job is posted by BC Tecnología on behalf of   Cencosud        En BC Tecnología somos una consultora de TI que crea y potencia equipos ágiles para proyectos en clientes de servicios financieros, seguros, retail y gobierno. Participarás en iniciativas de datos orientadas a construir y operar plataformas basadas en lakehouse, con foco en ingesta, procesamiento, consumo y control de calidad. Trabajaremos con un enfoque práctico en el ciclo completo de los pipelines (diseño, automatización, monitoreo y gobernanza), integrando servicios en AWS y buenas prácticas de desarrollo (versionamiento, documentación y IaC) para asegurar entregas robustas y escalables en el tiempo. Find this job and more on Get on Board.    Conocimientos fundacionales  En este rol nos enfocamos en que puedas operar y evolucionar soluciones de datos end-to-end, asegurando que los datos fluyan con calidad, trazabilidad y observabilidad.Operar plataformas basadas en lakehouse, promoviendo una arquitectura ordenada para ingesta, transformación y consumo.Aplicar patrones de ingesta y consumo, implementando flujos que respondan a necesidades de negocio y a requerimientos técnicos (reprocesos, incrementalidad y rendimiento).Garantizar monitoreo y observabilidad de pipelines (métricas, alertas y diagnóstico), para reducir tiempos de indisponibilidad y facilitar la operación.Implementar gobernanza y calidad de datos, incorporando controles, estándares y criterios verificables para que los datasets sean confiables.Construir y mantener orquestación y automatización de procesos usando servicios cloud y herramientas de trabajo (ETL/ELT, workflows y tareas programadas).Desarrollar y acompañar el ciclo de vida del código: definiciones de infraestructura con Terraform, automatización, revisiones en equipo y documentación.Además, trabajamos en un entorno colaborativo y ágil, donde nos importa la comunicación efectiva y la mejora continua.    Herramientas y tecnología  Buscamos un perfil con experiencia práctica en componentes típicos de plataformas de datos en AWS, con capacidad para operar pipelines y llevarlos a una operación confiable y medible.Requerimos:Conocimientos fundacionales en lakehouse, ingesta/consumo, observabilidad de pipelines y gobernanza/calidad de datos.Experiencia con AWS: Glue y Glue Catalog, Lambda, Step Functions, EventBridge, CloudWatch y S3.Experiencia con analítica sobre datos: Redshift (incluyendo Redshift Serverless) y Spectrum.Uso de Athena para consultas/consultabilidad según arquitectura.Conocimiento de orquestación con Airflow y/o prácticas similares con pods (cuando corresponda al diseño del pipeline).Gestión de trabajo y documentación con GitHub, Jira y Confluence.Automatización e integración de capa de datos y transformaciones mediante Terraform y dbt.    Deseable  Experiencia en optimización de costos y desempeño en servicios AWS asociados a procesamiento/consulta (por ejemplo, ajuste de patrones de uso de Athena/Redshift y particionamiento/organización en S3).Automatización avanzada de despliegues y ambientes con Terraform, incluyendo versionamiento de infraestructura y pipelines CI/CD.Madurez en gobernanza: linaje de datos, definición de estándares de nombres/campos y rutinas de validación.Participación en equipos ágiles, con habilidad para estimar, priorizar y reportar con claridad.    Beneficios  En BC Tecnología promovemos un ambiente de trabajo colaborativo que valora el compromiso y el aprendizaje constante. Nuestra cultura se orienta al crecimiento profesional a través de la integración y el intercambio de conocimientos entre equipos.La modalidad híbrida que ofrecemos, ubicada en Las Condes, permite combinar la flexibilidad del trabajo remoto con la colaboración presencial, facilitando un mejor equilibrio y dinamismo laboral.Participarás en proyectos innovadores con clientes de alto nivel y sectores diversos, en un entorno que fomenta la inclusión, el respeto y el desarrollo técnico y profesional.Únete y construyamos soluciones de datos confiables y escalables.   GETONBRD Job ID: 63738        Remote work policy    Hybrid    This job is performed partly from home and partly at the office in Santiago (Chile).",
+      "apply_options": [
+        {
+          "title": "Get On Board",
+          "link": "https://www.getonbrd.com/jobs/data-science-analytics/data-engineer-aws-lakehouse-bc-tecnologia-santiago?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJEYXRhIEVuZ2luZWVyIOKAkyBBV1MgKExha2Vob3VzZSkiLCJjb21wYW55X25hbWUiOiJCQyBUZWNub2xvZ8OtYSIsImh0aWRvY2lkIjoidW1YdVJrSmxMaWdSR0RfZUFBQUFBQT09IiwidXVsZSI6IncrQ0FJUUlDSUZRMmhwYkdVIiwiZ2wiOiJjbCIsImhsIjoiZXMiLCJmYyI6IkVzd0JDb3dCUVVwcFZEUjBTV3ByZGtOSE9YUjNSRzVhTkVST01sRnhSVE5KYW5aNWIzQkJhbW94UWxGSFR6VTFVak5hVURScVFWbzFNMjV5UjI4d1NYVkxkMUEyYnpWblRWbENiemsyUkV0dWNUTmphREJvV2tOV1FqQlZja1ZmVFZGUE5rTnBibTEyTFVGYU5WZzJUbVZuY21VelRHMUdZV3B1WlhGS1RXc3lSWE5wY25OaFkwOTJTbk5xWTFkV2RYZ1NGMW90YVRWaGIyNXZUbkpNT1hCMFVWQnJMVmMyYTBGckdpSkJSSE55T1daVFJVZDBUbnBEVURGbExYQllUM2RKVUMxcE9GQkpVRVZ2UjBaQiIsImZjdiI6IjMiLCJmY19pZCI6InVtWHVSa0psTGlnUkdEX2VBQUFBQUE9PSJ9"
+    }
+  ],
+  "serpapi_pagination": {
+    "next_page_token": "eyJmYyI6IkVvd0VDc3dEUVVwcFZEUjBUR1ZZWkdvd1NXMHlXR0YyTUVwTGIxOTBiMHRYVGtNNVNYWXliMVJJTm5WeGNYcHFkMDlUTWxGa1RFSlVMVzEzTTJvdE5GQnNWSGd4Wm1wV2VHdFJlRWc0WVhWMWNYUnRNMWRuZEV0UFdUZEVjM2RtZW14dlpIYzRObWhLWTBrMmRtZDNiakYyTlc1NFlXbG5ZWGhmZUdoTFR6Sk5VemxxVDFScVRuRmZObmhZWWs5WGNXRktjVk5TY1dGbFRraHZPVEZoTkcxb05teEhZbkJQVTFacGRGQmtVVWhOZDBoQ2JqWlhSMGRrVVd4bmFrWnRja3RqUTJWRlRtNWpVa0pyTmpWRlNWZGZkMU5IVVZoVGQyMVlXamMyT0ZSd2NqVXpSbHBSUVdaZlNtdHhPVzFzVFdKR05WaG9ZbWRMVG1sa1ozVndaVXh1Wms1a1JWZDRWR05HYzJaTVVUTTFWV05mTms1RmQyMUtTakZmWVVKQmVGOHpjbkJsTFVweFlqUnpMVXhhV21odlEybzNTRW95VlRSV09HOVVRMGN0YzFWNlpHaDJVRTFKYUhoU1NERTJTMWg2YjJWeFpIbHBaMVZUTWpZMVRGcFdlV00xZW1abGMzQk1kV1JJWm5OUFEyRnpkbXBmUTAxeVNsQnlZVzlvZDNOMVJXdGpOazVEYUROUFltMVRMV2RWTlY5eFlVSjVjVEprZVZGdU4xcG1VVTFFWjIxQ2EzbHNaVWt3VlhCelNub3dURlYzVTFnMU5GQnpWV28xU1RNMk5UbEpSVlp1V1dob1pteG9ZVmxFWnhJWFdpMXBOV0Z2Ym05T2NrdzVjSFJSVUdzdFZ6WnJRV3NhSWtGRWMzSTVabE5xTldsblRtbGhTbWxIV0RONVdXTmFkbkF6ZWxGWVIwczJXR2MiLCJmY3YiOiIzIn0=",
+    "next": "https://serpapi.com/search.json?engine=google_jobs&gl=cl&google_domain=google.com&hl=es&location=Chile&next_page_token=eyJmYyI6IkVvd0VDc3dEUVVwcFZEUjBUR1ZZWkdvd1NXMHlXR0YyTUVwTGIxOTBiMHRYVGtNNVNYWXliMVJJTm5WeGNYcHFkMDlUTWxGa1RFSlVMVzEzTTJvdE5GQnNWSGd4Wm1wV2VHdFJlRWc0WVhWMWNYUnRNMWRuZEV0UFdUZEVjM2RtZW14dlpIYzRObWhLWTBrMmRtZDNiakYyTlc1NFlXbG5ZWGhmZUdoTFR6Sk5VemxxVDFScVRuRmZObmhZWWs5WGNXRktjVk5TY1dGbFRraHZPVEZoTkcxb05teEhZbkJQVTFacGRGQmtVVWhOZDBoQ2JqWlhSMGRrVVd4bmFrWnRja3RqUTJWRlRtNWpVa0pyTmpWRlNWZGZkMU5IVVZoVGQyMVlXamMyT0ZSd2NqVXpSbHBSUVdaZlNtdHhPVzFzVFdKR05WaG9ZbWRMVG1sa1ozVndaVXh1Wms1a1JWZDRWR05HYzJaTVVUTTFWV05mTms1RmQyMUtTakZmWVVKQmVGOHpjbkJsTFVweFlqUnpMVXhhV21odlEybzNTRW95VlRSV09HOVVRMGN0YzFWNlpHaDJVRTFKYUhoU1NERTJTMWg2YjJWeFpIbHBaMVZUTWpZMVRGcFdlV00xZW1abGMzQk1kV1JJWm5OUFEyRnpkbXBmUTAxeVNsQnlZVzlvZDNOMVJXdGpOazVEYUROUFltMVRMV2RWTlY5eFlVSjVjVEprZVZGdU4xcG1VVTFFWjIxQ2EzbHNaVWt3VlhCelNub3dURlYzVTFnMU5GQnpWV28xU1RNMk5UbEpSVlp1V1dob1pteG9ZVmxFWnhJWFdpMXBOV0Z2Ym05T2NrdzVjSFJSVUdzdFZ6WnJRV3NhSWtGRWMzSTVabE5xTldsblRtbGhTbWxIV0RONVdXTmFkbkF6ZWxGWVIwczJXR2MiLCJmY3YiOiIzIn0%3D&q=Data+Analyst"
+  },
+  "_pipeline_metadata": {
+    "ingestion_timestamp_utc": "2026-09-28T04:09:12.701057+00:00",
+    "search_group": "bi_analytics",
+    "target_market": "Chile",
+    "target_location": "Chile",
+    "date_filter_applied": "month",
+    "new_records_count": 10,
+    "provider": "serpapi"
+  }
+}

@@ -1,0 +1,625 @@
+{
+  "search_metadata": {
+    "id": "6ab9e8856372f3af394a1a33",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/PI_LV2Y8f1A1LN41oKARHs2k_1ksCvP1RZgCZcyLKIU/6ab9e8856372f3af394a1a33.json",
+    "markdown_endpoint": "https://serpapi.com/searches/PI_LV2Y8f1A1LN41oKARHs2k_1ksCvP1RZgCZcyLKIU/6ab9e8856372f3af394a1a33.md",
+    "created_at": "2026-09-28 04:09:41 UTC",
+    "processed_at": "2026-09-28 04:09:41 UTC",
+    "google_jobs_url": "https://www.google.com/search?q=Data+Engineer+remoto&uule=w+CAIQICIEUGVydQ&hl=es&gl=pe&udm=8",
+    "raw_html_file": "https://serpapi.com/searches/PI_LV2Y8f1A1LN41oKARHs2k_1ksCvP1RZgCZcyLKIU/6ab9e8856372f3af394a1a33.html",
+    "total_time_taken": 4.42
+  },
+  "search_parameters": {
+    "q": "Data Engineer remoto",
+    "engine": "google_jobs",
+    "location_requested": "Peru",
+    "location_used": "Peru",
+    "google_domain": "google.com",
+    "hl": "es",
+    "gl": "pe"
+  },
+  "filters": [
+    {
+      "name": "Fecha de publicación",
+      "options": [
+        {
+          "name": "Ayer",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4r3dv6TGVRfd6DXtZirxI0o6xKXghaCEv96Sm31YQzcqeN3jJpLjF5Xj4M2G2-nVFS45Htq5y25dYegTEX6R5iKoGfuG2JoaK8c8DYTzZ4-ghfXv1Tg4af68mAgzZ9icV6nrpp5a4r2ZglmNZRe0hmIBfBDJKC0N3_MQRbyBHNxg0PsHy5oRuxoIvzD9Q3kgxdlBtUV8u6cuTIeUeLZ_psFDAfoIMpkMY4gPbXTn-PJ8nVNvUFsG1ZVwyf2i3Fb4nYpcw2fV5NIr9a4KksH1K125w6LnvnRa43YKmL8VJmYMN-TjtNOWr-ub3hKMEx2xtstdMHy1TdGR8d7jAU3zFqw2Nkjuf8Q-VaW-eSHhbVHtxuAMmpyMbWyehZGe_siugbd57IDA",
+            "q": "Data Engineer remoto desde ayer"
+          },
+          "link": "https://www.google.com/search?sca_esv=2d6c5a1e6a3d194c&hl=es&gl=pe&sxsrf=APpeQnvLoyhXn8wH72KWLxrlmVcXR9TvdQ:1790568584916&q=Data+Engineer+remoto+desde+ayer&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4r3dv6TGVRfd6DXtZirxI0o6xKXghaCEv96Sm31YQzcqeN3jJpLjF5Xj4M2G2-nVFS45Htq5y25dYegTEX6R5iKoGfuG2JoaK8c8DYTzZ4-ghfXv1Tg4af68mAgzZ9icV6nrpp5a4r2ZglmNZRe0hmIBfBDJKC0N3_MQRbyBHNxg0PsHy5oRuxoIvzD9Q3kgxdlBtUV8u6cuTIeUeLZ_psFDAfoIMpkMY4gPbXTn-PJ8nVNvUFsG1ZVwyf2i3Fb4nYpcw2fV5NIr9a4KksH1K125w6LnvnRa43YKmL8VJmYMN-TjtNOWr-ub3hKMEx2xtstdMHy1TdGR8d7jAU3zFqw2Nkjuf8Q-VaW-eSHhbVHtxuAMmpyMbWyehZGe_siugbd57IDA&udm=8&sa=X&ved=2ahUKEwjAp8zjs5CXAxX8v4kEHQfzLuEQkbEKegQIGxAC",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=pe&google_domain=google.com&hl=es&location=Peru&q=Data+Engineer+remoto+desde+ayer&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4r3dv6TGVRfd6DXtZirxI0o6xKXghaCEv96Sm31YQzcqeN3jJpLjF5Xj4M2G2-nVFS45Htq5y25dYegTEX6R5iKoGfuG2JoaK8c8DYTzZ4-ghfXv1Tg4af68mAgzZ9icV6nrpp5a4r2ZglmNZRe0hmIBfBDJKC0N3_MQRbyBHNxg0PsHy5oRuxoIvzD9Q3kgxdlBtUV8u6cuTIeUeLZ_psFDAfoIMpkMY4gPbXTn-PJ8nVNvUFsG1ZVwyf2i3Fb4nYpcw2fV5NIr9a4KksH1K125w6LnvnRa43YKmL8VJmYMN-TjtNOWr-ub3hKMEx2xtstdMHy1TdGR8d7jAU3zFqw2Nkjuf8Q-VaW-eSHhbVHtxuAMmpyMbWyehZGe_siugbd57IDA"
+        },
+        {
+          "name": "Últimos 3 días",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4rsIrUljaPH9okET3XT5Wp29C0FQ51D_JOocK01pUQcvDG6_08Hk0daCTGkqH4Xvf1OyIxh3_uvqvTbvLmJwT-kzGNrYsh0ZDtuTQYDdYB1JVJj6pKlQOPCgu7kFrG8Y2fQiHilmYRiPuA6jEbtWwEbbjpBhuPQ-PHzS2Yrrnxys8pegBgMbjzBOaJTRmjSUjWZkoM8ZtGua9WFnXeaeBXQMXzFSEv8AHo1-thtF8of2iweKg6OedmMwbzpIHOANcD6aJvNKj_z26EJzjyz4UM6ny_JeUZ-xRwBXEy5NNo3gPaqDAPpxCyWYgeJHXQ2-LfYOHN_YQyQKunsmasBESRqa5EM-BiXPBn8UGG7cSoQL3_hriTCa4-1AKWZ6yqi3XqIZYy8g",
+            "q": "Data Engineer remoto en los últimos 3 días"
+          },
+          "link": "https://www.google.com/search?sca_esv=2d6c5a1e6a3d194c&hl=es&gl=pe&sxsrf=APpeQnvLoyhXn8wH72KWLxrlmVcXR9TvdQ:1790568584916&q=Data+Engineer+remoto+en+los+%C3%BAltimos+3+d%C3%ADas&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rsIrUljaPH9okET3XT5Wp29C0FQ51D_JOocK01pUQcvDG6_08Hk0daCTGkqH4Xvf1OyIxh3_uvqvTbvLmJwT-kzGNrYsh0ZDtuTQYDdYB1JVJj6pKlQOPCgu7kFrG8Y2fQiHilmYRiPuA6jEbtWwEbbjpBhuPQ-PHzS2Yrrnxys8pegBgMbjzBOaJTRmjSUjWZkoM8ZtGua9WFnXeaeBXQMXzFSEv8AHo1-thtF8of2iweKg6OedmMwbzpIHOANcD6aJvNKj_z26EJzjyz4UM6ny_JeUZ-xRwBXEy5NNo3gPaqDAPpxCyWYgeJHXQ2-LfYOHN_YQyQKunsmasBESRqa5EM-BiXPBn8UGG7cSoQL3_hriTCa4-1AKWZ6yqi3XqIZYy8g&udm=8&sa=X&ved=2ahUKEwjAp8zjs5CXAxX8v4kEHQfzLuEQkbEKegQIGxAD",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=pe&google_domain=google.com&hl=es&location=Peru&q=Data+Engineer+remoto+en+los+%C3%BAltimos+3+d%C3%ADas&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rsIrUljaPH9okET3XT5Wp29C0FQ51D_JOocK01pUQcvDG6_08Hk0daCTGkqH4Xvf1OyIxh3_uvqvTbvLmJwT-kzGNrYsh0ZDtuTQYDdYB1JVJj6pKlQOPCgu7kFrG8Y2fQiHilmYRiPuA6jEbtWwEbbjpBhuPQ-PHzS2Yrrnxys8pegBgMbjzBOaJTRmjSUjWZkoM8ZtGua9WFnXeaeBXQMXzFSEv8AHo1-thtF8of2iweKg6OedmMwbzpIHOANcD6aJvNKj_z26EJzjyz4UM6ny_JeUZ-xRwBXEy5NNo3gPaqDAPpxCyWYgeJHXQ2-LfYOHN_YQyQKunsmasBESRqa5EM-BiXPBn8UGG7cSoQL3_hriTCa4-1AKWZ6yqi3XqIZYy8g"
+        },
+        {
+          "name": "Última semana",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4rdLPaf_8xfwxpFkO4dCwU4QpBiP4OiZt65hHNg1rOj1lr84n5izdKdkew3fKWT86bKJepWoHRHQYxLXN_dF3rOkqeQ7HzT3-GDS3VEcsALlMLxVXQAYInCoZiWeLfdeC3UxFsXbl4sgBNz25Iyt0M8LYXzTkcYsOvxzKmFFz7rchdk1JLcJ0lexKCdtUighp5KnUZzufHlxBk_Rl2A3HEmSyLpPIBzft8H--IFKBbOCBn0CYyQmXCSlqxz_A8x_x0AXYNH80IEh4kZVVeCF-Qf0dmaeiSBvB5_Y8PgA3XfeuDVM13lyk-n9ZaX9oiYhCM5WokheWKMQP3kaPtIKoZyH3yKIXMZubg37VoqD4POjOXE91Q45s0Bh5ZIPGkTgubrDqOow",
+            "q": "Data Engineer remoto en la última semana"
+          },
+          "link": "https://www.google.com/search?sca_esv=2d6c5a1e6a3d194c&hl=es&gl=pe&sxsrf=APpeQnvLoyhXn8wH72KWLxrlmVcXR9TvdQ:1790568584916&q=Data+Engineer+remoto+en+la+%C3%BAltima+semana&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rdLPaf_8xfwxpFkO4dCwU4QpBiP4OiZt65hHNg1rOj1lr84n5izdKdkew3fKWT86bKJepWoHRHQYxLXN_dF3rOkqeQ7HzT3-GDS3VEcsALlMLxVXQAYInCoZiWeLfdeC3UxFsXbl4sgBNz25Iyt0M8LYXzTkcYsOvxzKmFFz7rchdk1JLcJ0lexKCdtUighp5KnUZzufHlxBk_Rl2A3HEmSyLpPIBzft8H--IFKBbOCBn0CYyQmXCSlqxz_A8x_x0AXYNH80IEh4kZVVeCF-Qf0dmaeiSBvB5_Y8PgA3XfeuDVM13lyk-n9ZaX9oiYhCM5WokheWKMQP3kaPtIKoZyH3yKIXMZubg37VoqD4POjOXE91Q45s0Bh5ZIPGkTgubrDqOow&udm=8&sa=X&ved=2ahUKEwjAp8zjs5CXAxX8v4kEHQfzLuEQkbEKegQIGxAE",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=pe&google_domain=google.com&hl=es&location=Peru&q=Data+Engineer+remoto+en+la+%C3%BAltima+semana&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rdLPaf_8xfwxpFkO4dCwU4QpBiP4OiZt65hHNg1rOj1lr84n5izdKdkew3fKWT86bKJepWoHRHQYxLXN_dF3rOkqeQ7HzT3-GDS3VEcsALlMLxVXQAYInCoZiWeLfdeC3UxFsXbl4sgBNz25Iyt0M8LYXzTkcYsOvxzKmFFz7rchdk1JLcJ0lexKCdtUighp5KnUZzufHlxBk_Rl2A3HEmSyLpPIBzft8H--IFKBbOCBn0CYyQmXCSlqxz_A8x_x0AXYNH80IEh4kZVVeCF-Qf0dmaeiSBvB5_Y8PgA3XfeuDVM13lyk-n9ZaX9oiYhCM5WokheWKMQP3kaPtIKoZyH3yKIXMZubg37VoqD4POjOXE91Q45s0Bh5ZIPGkTgubrDqOow"
+        },
+        {
+          "name": "Último mes",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4rbEuBYaSZikTI9rl4Hr1eijYZN8x4ayih80wh7IVw4fpJBSdJohx1lNqfji_cJCvDLQVjLaCkDDbdqNR7fnIjLSrSKrKN7Id5d0L0iks3UrtXdYgExf3ALNUWJPA-EW9XUMGCfVnGNTbSXRLOctqv9cpqU7kyGGPwqSEz5KlH8mqY_EJopzPJxHIloDmfsPpgcIVK8P7cyCF51bNQuLLR5KoCSbJ7QpP9NT3uJHO1GLYSwNCP_2iO9LmS1XN7Fv-eAv8CnMrOgzdHoK_AgBwCZZ1uTneBjXfT8ZHy4rxxV2pAl2NQNlCsjpGXmXIMiSeP6A43X9Gr6urGt_pgKllKHljzvqa1XBO91vQ9YsSQg6ST_sTiMZKkiKycZWB0XFUXDuKDZg",
+            "q": "Data Engineer remoto en el último mes"
+          },
+          "link": "https://www.google.com/search?sca_esv=2d6c5a1e6a3d194c&hl=es&gl=pe&sxsrf=APpeQnvLoyhXn8wH72KWLxrlmVcXR9TvdQ:1790568584916&q=Data+Engineer+remoto+en+el+%C3%BAltimo+mes&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rbEuBYaSZikTI9rl4Hr1eijYZN8x4ayih80wh7IVw4fpJBSdJohx1lNqfji_cJCvDLQVjLaCkDDbdqNR7fnIjLSrSKrKN7Id5d0L0iks3UrtXdYgExf3ALNUWJPA-EW9XUMGCfVnGNTbSXRLOctqv9cpqU7kyGGPwqSEz5KlH8mqY_EJopzPJxHIloDmfsPpgcIVK8P7cyCF51bNQuLLR5KoCSbJ7QpP9NT3uJHO1GLYSwNCP_2iO9LmS1XN7Fv-eAv8CnMrOgzdHoK_AgBwCZZ1uTneBjXfT8ZHy4rxxV2pAl2NQNlCsjpGXmXIMiSeP6A43X9Gr6urGt_pgKllKHljzvqa1XBO91vQ9YsSQg6ST_sTiMZKkiKycZWB0XFUXDuKDZg&udm=8&sa=X&ved=2ahUKEwjAp8zjs5CXAxX8v4kEHQfzLuEQkbEKegQIGxAF",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=pe&google_domain=google.com&hl=es&location=Peru&q=Data+Engineer+remoto+en+el+%C3%BAltimo+mes&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rbEuBYaSZikTI9rl4Hr1eijYZN8x4ayih80wh7IVw4fpJBSdJohx1lNqfji_cJCvDLQVjLaCkDDbdqNR7fnIjLSrSKrKN7Id5d0L0iks3UrtXdYgExf3ALNUWJPA-EW9XUMGCfVnGNTbSXRLOctqv9cpqU7kyGGPwqSEz5KlH8mqY_EJopzPJxHIloDmfsPpgcIVK8P7cyCF51bNQuLLR5KoCSbJ7QpP9NT3uJHO1GLYSwNCP_2iO9LmS1XN7Fv-eAv8CnMrOgzdHoK_AgBwCZZ1uTneBjXfT8ZHy4rxxV2pAl2NQNlCsjpGXmXIMiSeP6A43X9Gr6urGt_pgKllKHljzvqa1XBO91vQ9YsSQg6ST_sTiMZKkiKycZWB0XFUXDuKDZg"
+        }
+      ]
+    },
+    {
+      "name": "Fecha de publicación",
+      "options": [
+        {
+          "name": "Ayer",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4r3dv6TGVRfd6DXtZirxI0o6xKXghaCEv96Sm31YQzcqeN3jJpLjF5Xj4M2G2-nVFS45Htq5y25dYegTEX6R5iKoGfuG2JoaK8c8DYTzZ4-ghfXv1Tg4af68mAgzZ9icV6nrpp5a4r2ZglmNZRe0hmIBfBDJKC0N3_MQRbyBHNxg0PsHy5oRuxoIvzD9Q3kgxdlBtUV8u6cuTIeUeLZ_psFDAfoIMpkMY4gPbXTn-PJ8nVNvUFsG1ZVwyf2i3Fb4nYpcw2fV5NIr9a4KksH1K125w6LnvnRa43YKmL8VJmYMN-TjtNOWr-ub3hKMEx2xtstdMHy1TdGR8d7jAU3zFqw2Nkjuf8Q-VaW-eSHhbVHtxuAMmpyMbWyehZGe_siugbd57IDA",
+            "q": "Data Engineer remoto desde ayer"
+          },
+          "link": "https://www.google.com/search?sca_esv=2d6c5a1e6a3d194c&hl=es&gl=pe&sxsrf=APpeQnvLoyhXn8wH72KWLxrlmVcXR9TvdQ:1790568584916&q=Data+Engineer+remoto+desde+ayer&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4r3dv6TGVRfd6DXtZirxI0o6xKXghaCEv96Sm31YQzcqeN3jJpLjF5Xj4M2G2-nVFS45Htq5y25dYegTEX6R5iKoGfuG2JoaK8c8DYTzZ4-ghfXv1Tg4af68mAgzZ9icV6nrpp5a4r2ZglmNZRe0hmIBfBDJKC0N3_MQRbyBHNxg0PsHy5oRuxoIvzD9Q3kgxdlBtUV8u6cuTIeUeLZ_psFDAfoIMpkMY4gPbXTn-PJ8nVNvUFsG1ZVwyf2i3Fb4nYpcw2fV5NIr9a4KksH1K125w6LnvnRa43YKmL8VJmYMN-TjtNOWr-ub3hKMEx2xtstdMHy1TdGR8d7jAU3zFqw2Nkjuf8Q-VaW-eSHhbVHtxuAMmpyMbWyehZGe_siugbd57IDA&udm=8&sa=X&ved=2ahUKEwjAp8zjs5CXAxX8v4kEHQfzLuEQkbEKegQIGxAC",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=pe&google_domain=google.com&hl=es&location=Peru&q=Data+Engineer+remoto+desde+ayer&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4r3dv6TGVRfd6DXtZirxI0o6xKXghaCEv96Sm31YQzcqeN3jJpLjF5Xj4M2G2-nVFS45Htq5y25dYegTEX6R5iKoGfuG2JoaK8c8DYTzZ4-ghfXv1Tg4af68mAgzZ9icV6nrpp5a4r2ZglmNZRe0hmIBfBDJKC0N3_MQRbyBHNxg0PsHy5oRuxoIvzD9Q3kgxdlBtUV8u6cuTIeUeLZ_psFDAfoIMpkMY4gPbXTn-PJ8nVNvUFsG1ZVwyf2i3Fb4nYpcw2fV5NIr9a4KksH1K125w6LnvnRa43YKmL8VJmYMN-TjtNOWr-ub3hKMEx2xtstdMHy1TdGR8d7jAU3zFqw2Nkjuf8Q-VaW-eSHhbVHtxuAMmpyMbWyehZGe_siugbd57IDA"
+        },
+        {
+          "name": "Últimos 3 días",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4rsIrUljaPH9okET3XT5Wp29C0FQ51D_JOocK01pUQcvDG6_08Hk0daCTGkqH4Xvf1OyIxh3_uvqvTbvLmJwT-kzGNrYsh0ZDtuTQYDdYB1JVJj6pKlQOPCgu7kFrG8Y2fQiHilmYRiPuA6jEbtWwEbbjpBhuPQ-PHzS2Yrrnxys8pegBgMbjzBOaJTRmjSUjWZkoM8ZtGua9WFnXeaeBXQMXzFSEv8AHo1-thtF8of2iweKg6OedmMwbzpIHOANcD6aJvNKj_z26EJzjyz4UM6ny_JeUZ-xRwBXEy5NNo3gPaqDAPpxCyWYgeJHXQ2-LfYOHN_YQyQKunsmasBESRqa5EM-BiXPBn8UGG7cSoQL3_hriTCa4-1AKWZ6yqi3XqIZYy8g",
+            "q": "Data Engineer remoto en los últimos 3 días"
+          },
+          "link": "https://www.google.com/search?sca_esv=2d6c5a1e6a3d194c&hl=es&gl=pe&sxsrf=APpeQnvLoyhXn8wH72KWLxrlmVcXR9TvdQ:1790568584916&q=Data+Engineer+remoto+en+los+%C3%BAltimos+3+d%C3%ADas&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rsIrUljaPH9okET3XT5Wp29C0FQ51D_JOocK01pUQcvDG6_08Hk0daCTGkqH4Xvf1OyIxh3_uvqvTbvLmJwT-kzGNrYsh0ZDtuTQYDdYB1JVJj6pKlQOPCgu7kFrG8Y2fQiHilmYRiPuA6jEbtWwEbbjpBhuPQ-PHzS2Yrrnxys8pegBgMbjzBOaJTRmjSUjWZkoM8ZtGua9WFnXeaeBXQMXzFSEv8AHo1-thtF8of2iweKg6OedmMwbzpIHOANcD6aJvNKj_z26EJzjyz4UM6ny_JeUZ-xRwBXEy5NNo3gPaqDAPpxCyWYgeJHXQ2-LfYOHN_YQyQKunsmasBESRqa5EM-BiXPBn8UGG7cSoQL3_hriTCa4-1AKWZ6yqi3XqIZYy8g&udm=8&sa=X&ved=2ahUKEwjAp8zjs5CXAxX8v4kEHQfzLuEQkbEKegQIGxAD",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=pe&google_domain=google.com&hl=es&location=Peru&q=Data+Engineer+remoto+en+los+%C3%BAltimos+3+d%C3%ADas&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rsIrUljaPH9okET3XT5Wp29C0FQ51D_JOocK01pUQcvDG6_08Hk0daCTGkqH4Xvf1OyIxh3_uvqvTbvLmJwT-kzGNrYsh0ZDtuTQYDdYB1JVJj6pKlQOPCgu7kFrG8Y2fQiHilmYRiPuA6jEbtWwEbbjpBhuPQ-PHzS2Yrrnxys8pegBgMbjzBOaJTRmjSUjWZkoM8ZtGua9WFnXeaeBXQMXzFSEv8AHo1-thtF8of2iweKg6OedmMwbzpIHOANcD6aJvNKj_z26EJzjyz4UM6ny_JeUZ-xRwBXEy5NNo3gPaqDAPpxCyWYgeJHXQ2-LfYOHN_YQyQKunsmasBESRqa5EM-BiXPBn8UGG7cSoQL3_hriTCa4-1AKWZ6yqi3XqIZYy8g"
+        },
+        {
+          "name": "Última semana",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4rdLPaf_8xfwxpFkO4dCwU4QpBiP4OiZt65hHNg1rOj1lr84n5izdKdkew3fKWT86bKJepWoHRHQYxLXN_dF3rOkqeQ7HzT3-GDS3VEcsALlMLxVXQAYInCoZiWeLfdeC3UxFsXbl4sgBNz25Iyt0M8LYXzTkcYsOvxzKmFFz7rchdk1JLcJ0lexKCdtUighp5KnUZzufHlxBk_Rl2A3HEmSyLpPIBzft8H--IFKBbOCBn0CYyQmXCSlqxz_A8x_x0AXYNH80IEh4kZVVeCF-Qf0dmaeiSBvB5_Y8PgA3XfeuDVM13lyk-n9ZaX9oiYhCM5WokheWKMQP3kaPtIKoZyH3yKIXMZubg37VoqD4POjOXE91Q45s0Bh5ZIPGkTgubrDqOow",
+            "q": "Data Engineer remoto en la última semana"
+          },
+          "link": "https://www.google.com/search?sca_esv=2d6c5a1e6a3d194c&hl=es&gl=pe&sxsrf=APpeQnvLoyhXn8wH72KWLxrlmVcXR9TvdQ:1790568584916&q=Data+Engineer+remoto+en+la+%C3%BAltima+semana&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rdLPaf_8xfwxpFkO4dCwU4QpBiP4OiZt65hHNg1rOj1lr84n5izdKdkew3fKWT86bKJepWoHRHQYxLXN_dF3rOkqeQ7HzT3-GDS3VEcsALlMLxVXQAYInCoZiWeLfdeC3UxFsXbl4sgBNz25Iyt0M8LYXzTkcYsOvxzKmFFz7rchdk1JLcJ0lexKCdtUighp5KnUZzufHlxBk_Rl2A3HEmSyLpPIBzft8H--IFKBbOCBn0CYyQmXCSlqxz_A8x_x0AXYNH80IEh4kZVVeCF-Qf0dmaeiSBvB5_Y8PgA3XfeuDVM13lyk-n9ZaX9oiYhCM5WokheWKMQP3kaPtIKoZyH3yKIXMZubg37VoqD4POjOXE91Q45s0Bh5ZIPGkTgubrDqOow&udm=8&sa=X&ved=2ahUKEwjAp8zjs5CXAxX8v4kEHQfzLuEQkbEKegQIGxAE",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=pe&google_domain=google.com&hl=es&location=Peru&q=Data+Engineer+remoto+en+la+%C3%BAltima+semana&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rdLPaf_8xfwxpFkO4dCwU4QpBiP4OiZt65hHNg1rOj1lr84n5izdKdkew3fKWT86bKJepWoHRHQYxLXN_dF3rOkqeQ7HzT3-GDS3VEcsALlMLxVXQAYInCoZiWeLfdeC3UxFsXbl4sgBNz25Iyt0M8LYXzTkcYsOvxzKmFFz7rchdk1JLcJ0lexKCdtUighp5KnUZzufHlxBk_Rl2A3HEmSyLpPIBzft8H--IFKBbOCBn0CYyQmXCSlqxz_A8x_x0AXYNH80IEh4kZVVeCF-Qf0dmaeiSBvB5_Y8PgA3XfeuDVM13lyk-n9ZaX9oiYhCM5WokheWKMQP3kaPtIKoZyH3yKIXMZubg37VoqD4POjOXE91Q45s0Bh5ZIPGkTgubrDqOow"
+        },
+        {
+          "name": "Último mes",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4rbEuBYaSZikTI9rl4Hr1eijYZN8x4ayih80wh7IVw4fpJBSdJohx1lNqfji_cJCvDLQVjLaCkDDbdqNR7fnIjLSrSKrKN7Id5d0L0iks3UrtXdYgExf3ALNUWJPA-EW9XUMGCfVnGNTbSXRLOctqv9cpqU7kyGGPwqSEz5KlH8mqY_EJopzPJxHIloDmfsPpgcIVK8P7cyCF51bNQuLLR5KoCSbJ7QpP9NT3uJHO1GLYSwNCP_2iO9LmS1XN7Fv-eAv8CnMrOgzdHoK_AgBwCZZ1uTneBjXfT8ZHy4rxxV2pAl2NQNlCsjpGXmXIMiSeP6A43X9Gr6urGt_pgKllKHljzvqa1XBO91vQ9YsSQg6ST_sTiMZKkiKycZWB0XFUXDuKDZg",
+            "q": "Data Engineer remoto en el último mes"
+          },
+          "link": "https://www.google.com/search?sca_esv=2d6c5a1e6a3d194c&hl=es&gl=pe&sxsrf=APpeQnvLoyhXn8wH72KWLxrlmVcXR9TvdQ:1790568584916&q=Data+Engineer+remoto+en+el+%C3%BAltimo+mes&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rbEuBYaSZikTI9rl4Hr1eijYZN8x4ayih80wh7IVw4fpJBSdJohx1lNqfji_cJCvDLQVjLaCkDDbdqNR7fnIjLSrSKrKN7Id5d0L0iks3UrtXdYgExf3ALNUWJPA-EW9XUMGCfVnGNTbSXRLOctqv9cpqU7kyGGPwqSEz5KlH8mqY_EJopzPJxHIloDmfsPpgcIVK8P7cyCF51bNQuLLR5KoCSbJ7QpP9NT3uJHO1GLYSwNCP_2iO9LmS1XN7Fv-eAv8CnMrOgzdHoK_AgBwCZZ1uTneBjXfT8ZHy4rxxV2pAl2NQNlCsjpGXmXIMiSeP6A43X9Gr6urGt_pgKllKHljzvqa1XBO91vQ9YsSQg6ST_sTiMZKkiKycZWB0XFUXDuKDZg&udm=8&sa=X&ved=2ahUKEwjAp8zjs5CXAxX8v4kEHQfzLuEQkbEKegQIGxAF",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=pe&google_domain=google.com&hl=es&location=Peru&q=Data+Engineer+remoto+en+el+%C3%BAltimo+mes&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rbEuBYaSZikTI9rl4Hr1eijYZN8x4ayih80wh7IVw4fpJBSdJohx1lNqfji_cJCvDLQVjLaCkDDbdqNR7fnIjLSrSKrKN7Id5d0L0iks3UrtXdYgExf3ALNUWJPA-EW9XUMGCfVnGNTbSXRLOctqv9cpqU7kyGGPwqSEz5KlH8mqY_EJopzPJxHIloDmfsPpgcIVK8P7cyCF51bNQuLLR5KoCSbJ7QpP9NT3uJHO1GLYSwNCP_2iO9LmS1XN7Fv-eAv8CnMrOgzdHoK_AgBwCZZ1uTneBjXfT8ZHy4rxxV2pAl2NQNlCsjpGXmXIMiSeP6A43X9Gr6urGt_pgKllKHljzvqa1XBO91vQ9YsSQg6ST_sTiMZKkiKycZWB0XFUXDuKDZg"
+        }
+      ]
+    },
+    {
+      "name": "Tipo de trabajo",
+      "options": [
+        {
+          "name": "Tiempo completo",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4ruLIIYM44Ilf83fPQ-KfdpEFlwzZmAGqxG_Kn-CFSx5Rj1XyswtjcXgB2e4nAwthkm6wkLC3XnmzP0x5NIuks8b5sjGigSCSug_gNhokL5aB0N7-DzHc5lItmBOGrdEe28xxawpLgL-xKXl78rzK_8e6MS9XbLPmuZ30WVdUcqdkT_dWPzM_4E9YF4nv4eMZddFURxHH_c9spobOJJUp_mStORl7ZlPfV6WGlNmZNfDE8YChmbSPHRXbEqHqwSCQupaRdownLmubptetHybkVX-Kz97PLV_MQOyo7lU4fLPsyKJbGdHKOtHX1jQqUMnb4kBiU2pbYCPtLal657hVgoJ1wCUQ",
+            "q": "Data Engineer remoto tiempo completo"
+          },
+          "link": "https://www.google.com/search?sca_esv=2d6c5a1e6a3d194c&hl=es&gl=pe&sxsrf=APpeQnvLoyhXn8wH72KWLxrlmVcXR9TvdQ:1790568584916&q=Data+Engineer+remoto+tiempo+completo&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4ruLIIYM44Ilf83fPQ-KfdpEFlwzZmAGqxG_Kn-CFSx5Rj1XyswtjcXgB2e4nAwthkm6wkLC3XnmzP0x5NIuks8b5sjGigSCSug_gNhokL5aB0N7-DzHc5lItmBOGrdEe28xxawpLgL-xKXl78rzK_8e6MS9XbLPmuZ30WVdUcqdkT_dWPzM_4E9YF4nv4eMZddFURxHH_c9spobOJJUp_mStORl7ZlPfV6WGlNmZNfDE8YChmbSPHRXbEqHqwSCQupaRdownLmubptetHybkVX-Kz97PLV_MQOyo7lU4fLPsyKJbGdHKOtHX1jQqUMnb4kBiU2pbYCPtLal657hVgoJ1wCUQ&udm=8&sa=X&ved=2ahUKEwjAp8zjs5CXAxX8v4kEHQfzLuEQkbEKegQIHhAC",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=pe&google_domain=google.com&hl=es&location=Peru&q=Data+Engineer+remoto+tiempo+completo&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4ruLIIYM44Ilf83fPQ-KfdpEFlwzZmAGqxG_Kn-CFSx5Rj1XyswtjcXgB2e4nAwthkm6wkLC3XnmzP0x5NIuks8b5sjGigSCSug_gNhokL5aB0N7-DzHc5lItmBOGrdEe28xxawpLgL-xKXl78rzK_8e6MS9XbLPmuZ30WVdUcqdkT_dWPzM_4E9YF4nv4eMZddFURxHH_c9spobOJJUp_mStORl7ZlPfV6WGlNmZNfDE8YChmbSPHRXbEqHqwSCQupaRdownLmubptetHybkVX-Kz97PLV_MQOyo7lU4fLPsyKJbGdHKOtHX1jQqUMnb4kBiU2pbYCPtLal657hVgoJ1wCUQ"
+        },
+        {
+          "name": "Tiempo parcial",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4rYCwOK1t0egRnb9GtkaHPsGLSYjx1JbjlGrRw5kOka75orsaA50cumrX4jJMt4rbt0o4rjGtSUH6JL8kk5V97StSQXq65HtOFRILdo_V8bEpBw36O0qFh0TCjrwvLuUP8oTVRen1aE2bKDlUwIAfALBo4GNVFtsar8W_TU2FgKpblb8tqRn5NHhoDnUB0izmCUFiDMIJpEvhfkL82ND55ptisCR8fl7lWN0-j89wDtQi892nMU8uL999Q4w6yInSseopFt3qv1bvciYIlWDIUq8PGOi8WsDCq7KROMFXUOpvj-tmnqYkefx0ID2wNxL_vO6YtgWy9GwRKiHbtbgaFjkbSYRe67jXaf-uBgm1Ug9lxUF1L",
+            "q": "Data Engineer remoto tiempo parcial"
+          },
+          "link": "https://www.google.com/search?sca_esv=2d6c5a1e6a3d194c&hl=es&gl=pe&sxsrf=APpeQnvLoyhXn8wH72KWLxrlmVcXR9TvdQ:1790568584916&q=Data+Engineer+remoto+tiempo+parcial&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rYCwOK1t0egRnb9GtkaHPsGLSYjx1JbjlGrRw5kOka75orsaA50cumrX4jJMt4rbt0o4rjGtSUH6JL8kk5V97StSQXq65HtOFRILdo_V8bEpBw36O0qFh0TCjrwvLuUP8oTVRen1aE2bKDlUwIAfALBo4GNVFtsar8W_TU2FgKpblb8tqRn5NHhoDnUB0izmCUFiDMIJpEvhfkL82ND55ptisCR8fl7lWN0-j89wDtQi892nMU8uL999Q4w6yInSseopFt3qv1bvciYIlWDIUq8PGOi8WsDCq7KROMFXUOpvj-tmnqYkefx0ID2wNxL_vO6YtgWy9GwRKiHbtbgaFjkbSYRe67jXaf-uBgm1Ug9lxUF1L&udm=8&sa=X&ved=2ahUKEwjAp8zjs5CXAxX8v4kEHQfzLuEQkbEKegQIHhAD",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=pe&google_domain=google.com&hl=es&location=Peru&q=Data+Engineer+remoto+tiempo+parcial&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rYCwOK1t0egRnb9GtkaHPsGLSYjx1JbjlGrRw5kOka75orsaA50cumrX4jJMt4rbt0o4rjGtSUH6JL8kk5V97StSQXq65HtOFRILdo_V8bEpBw36O0qFh0TCjrwvLuUP8oTVRen1aE2bKDlUwIAfALBo4GNVFtsar8W_TU2FgKpblb8tqRn5NHhoDnUB0izmCUFiDMIJpEvhfkL82ND55ptisCR8fl7lWN0-j89wDtQi892nMU8uL999Q4w6yInSseopFt3qv1bvciYIlWDIUq8PGOi8WsDCq7KROMFXUOpvj-tmnqYkefx0ID2wNxL_vO6YtgWy9GwRKiHbtbgaFjkbSYRe67jXaf-uBgm1Ug9lxUF1L"
+        },
+        {
+          "name": "Con contrato",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4ryyUtiah9zKaM4ojPGypVA81nCqwefveTYfRbRXUg25-N0QbQYYOqB023d1Dxozyc4xr--35HCH8BmNGsEv80EjfSmFVj9MU4XEtgzNV4P9BwkA1RkkngbdpG_3bHodfyZDs4YWCAPSyve0U3lqHR4iVSy_cmSOplCkS-rAgzF0ZXajVSG93Dxjdns0rxk3ES3LanFKWHbRzCJjMDTUQ0pOdki6kf07L8kidOiQ2qkRRKrz_lUSw_S_JwZDkYpfwv__qeVOVWHUv-0C7iSjq2Q9-NiODgCC-9eF2lm8hARiEjFDgXmtm8ofniOuy344yQbMQ2wXOj4AvNQcXU9TAXXWlJFwrNza89AT3n8o0VVJlvmPc5",
+            "q": "Data Engineer remoto con contrato"
+          },
+          "link": "https://www.google.com/search?sca_esv=2d6c5a1e6a3d194c&hl=es&gl=pe&sxsrf=APpeQnvLoyhXn8wH72KWLxrlmVcXR9TvdQ:1790568584916&q=Data+Engineer+remoto+con+contrato&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4ryyUtiah9zKaM4ojPGypVA81nCqwefveTYfRbRXUg25-N0QbQYYOqB023d1Dxozyc4xr--35HCH8BmNGsEv80EjfSmFVj9MU4XEtgzNV4P9BwkA1RkkngbdpG_3bHodfyZDs4YWCAPSyve0U3lqHR4iVSy_cmSOplCkS-rAgzF0ZXajVSG93Dxjdns0rxk3ES3LanFKWHbRzCJjMDTUQ0pOdki6kf07L8kidOiQ2qkRRKrz_lUSw_S_JwZDkYpfwv__qeVOVWHUv-0C7iSjq2Q9-NiODgCC-9eF2lm8hARiEjFDgXmtm8ofniOuy344yQbMQ2wXOj4AvNQcXU9TAXXWlJFwrNza89AT3n8o0VVJlvmPc5&udm=8&sa=X&ved=2ahUKEwjAp8zjs5CXAxX8v4kEHQfzLuEQkbEKegQIHhAE",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=pe&google_domain=google.com&hl=es&location=Peru&q=Data+Engineer+remoto+con+contrato&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4ryyUtiah9zKaM4ojPGypVA81nCqwefveTYfRbRXUg25-N0QbQYYOqB023d1Dxozyc4xr--35HCH8BmNGsEv80EjfSmFVj9MU4XEtgzNV4P9BwkA1RkkngbdpG_3bHodfyZDs4YWCAPSyve0U3lqHR4iVSy_cmSOplCkS-rAgzF0ZXajVSG93Dxjdns0rxk3ES3LanFKWHbRzCJjMDTUQ0pOdki6kf07L8kidOiQ2qkRRKrz_lUSw_S_JwZDkYpfwv__qeVOVWHUv-0C7iSjq2Q9-NiODgCC-9eF2lm8hARiEjFDgXmtm8ofniOuy344yQbMQ2wXOj4AvNQcXU9TAXXWlJFwrNza89AT3n8o0VVJlvmPc5"
+        },
+        {
+          "name": "Prácticas",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4r_N1UzR5kRYz-7NKv2QvnNtpdJfFJl_Lae6mQDIvUXYq31xZSsadK-pTP0odXnllwEdAPzEWcrzWCU8JtHdbKZSlQuO_rt8gYBLH7nfhwsXY2P2NyGJf9VjUwaz7AnGBSiwqhE35TI3tdQeuKlCm3-yKwXhVWvGbu6YJ2nRTTliS_b5TqgoMTeq_TxfJG4aoAIm3jwilIrkX8H4E6u93Ik4Y6VyqGBKJj1kbU9wnZG3wVuWEELvyY1ZwM_JqT4EVILTnhoWtTPUnciwJgxsqWYF_OqVvMMSlOjn9J7MrUZTJeo_MFmeIpQnx2bLO4_8ikKMZIV9mupnPpkPeP989g9MP9NblsN5sW7iaNKS_w6ZiiaQa3",
+            "q": "Data Engineer remoto prácticas"
+          },
+          "link": "https://www.google.com/search?sca_esv=2d6c5a1e6a3d194c&hl=es&gl=pe&sxsrf=APpeQnvLoyhXn8wH72KWLxrlmVcXR9TvdQ:1790568584916&q=Data+Engineer+remoto+pr%C3%A1cticas&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4r_N1UzR5kRYz-7NKv2QvnNtpdJfFJl_Lae6mQDIvUXYq31xZSsadK-pTP0odXnllwEdAPzEWcrzWCU8JtHdbKZSlQuO_rt8gYBLH7nfhwsXY2P2NyGJf9VjUwaz7AnGBSiwqhE35TI3tdQeuKlCm3-yKwXhVWvGbu6YJ2nRTTliS_b5TqgoMTeq_TxfJG4aoAIm3jwilIrkX8H4E6u93Ik4Y6VyqGBKJj1kbU9wnZG3wVuWEELvyY1ZwM_JqT4EVILTnhoWtTPUnciwJgxsqWYF_OqVvMMSlOjn9J7MrUZTJeo_MFmeIpQnx2bLO4_8ikKMZIV9mupnPpkPeP989g9MP9NblsN5sW7iaNKS_w6ZiiaQa3&udm=8&sa=X&ved=2ahUKEwjAp8zjs5CXAxX8v4kEHQfzLuEQkbEKegQIHhAF",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=pe&google_domain=google.com&hl=es&location=Peru&q=Data+Engineer+remoto+pr%C3%A1cticas&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4r_N1UzR5kRYz-7NKv2QvnNtpdJfFJl_Lae6mQDIvUXYq31xZSsadK-pTP0odXnllwEdAPzEWcrzWCU8JtHdbKZSlQuO_rt8gYBLH7nfhwsXY2P2NyGJf9VjUwaz7AnGBSiwqhE35TI3tdQeuKlCm3-yKwXhVWvGbu6YJ2nRTTliS_b5TqgoMTeq_TxfJG4aoAIm3jwilIrkX8H4E6u93Ik4Y6VyqGBKJj1kbU9wnZG3wVuWEELvyY1ZwM_JqT4EVILTnhoWtTPUnciwJgxsqWYF_OqVvMMSlOjn9J7MrUZTJeo_MFmeIpQnx2bLO4_8ikKMZIV9mupnPpkPeP989g9MP9NblsN5sW7iaNKS_w6ZiiaQa3"
+        }
+      ]
+    },
+    {
+      "name": "Tipo de trabajo",
+      "options": [
+        {
+          "name": "Tiempo completo",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4ruLIIYM44Ilf83fPQ-KfdpEFlwzZmAGqxG_Kn-CFSx5Rj1XyswtjcXgB2e4nAwthkm6wkLC3XnmzP0x5NIuks8b5sjGigSCSug_gNhokL5aB0N7-DzHc5lItmBOGrdEe28xxawpLgL-xKXl78rzK_8e6MS9XbLPmuZ30WVdUcqdkT_dWPzM_4E9YF4nv4eMZddFURxHH_c9spobOJJUp_mStORl7ZlPfV6WGlNmZNfDE8YChmbSPHRXbEqHqwSCQupaRdownLmubptetHybkVX-Kz97PLV_MQOyo7lU4fLPsyKJbGdHKOtHX1jQqUMnb4kBiU2pbYCPtLal657hVgoJ1wCUQ",
+            "q": "Data Engineer remoto tiempo completo"
+          },
+          "link": "https://www.google.com/search?sca_esv=2d6c5a1e6a3d194c&hl=es&gl=pe&sxsrf=APpeQnvLoyhXn8wH72KWLxrlmVcXR9TvdQ:1790568584916&q=Data+Engineer+remoto+tiempo+completo&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4ruLIIYM44Ilf83fPQ-KfdpEFlwzZmAGqxG_Kn-CFSx5Rj1XyswtjcXgB2e4nAwthkm6wkLC3XnmzP0x5NIuks8b5sjGigSCSug_gNhokL5aB0N7-DzHc5lItmBOGrdEe28xxawpLgL-xKXl78rzK_8e6MS9XbLPmuZ30WVdUcqdkT_dWPzM_4E9YF4nv4eMZddFURxHH_c9spobOJJUp_mStORl7ZlPfV6WGlNmZNfDE8YChmbSPHRXbEqHqwSCQupaRdownLmubptetHybkVX-Kz97PLV_MQOyo7lU4fLPsyKJbGdHKOtHX1jQqUMnb4kBiU2pbYCPtLal657hVgoJ1wCUQ&udm=8&sa=X&ved=2ahUKEwjAp8zjs5CXAxX8v4kEHQfzLuEQkbEKegQIHhAC",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=pe&google_domain=google.com&hl=es&location=Peru&q=Data+Engineer+remoto+tiempo+completo&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4ruLIIYM44Ilf83fPQ-KfdpEFlwzZmAGqxG_Kn-CFSx5Rj1XyswtjcXgB2e4nAwthkm6wkLC3XnmzP0x5NIuks8b5sjGigSCSug_gNhokL5aB0N7-DzHc5lItmBOGrdEe28xxawpLgL-xKXl78rzK_8e6MS9XbLPmuZ30WVdUcqdkT_dWPzM_4E9YF4nv4eMZddFURxHH_c9spobOJJUp_mStORl7ZlPfV6WGlNmZNfDE8YChmbSPHRXbEqHqwSCQupaRdownLmubptetHybkVX-Kz97PLV_MQOyo7lU4fLPsyKJbGdHKOtHX1jQqUMnb4kBiU2pbYCPtLal657hVgoJ1wCUQ"
+        },
+        {
+          "name": "Tiempo parcial",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4rYCwOK1t0egRnb9GtkaHPsGLSYjx1JbjlGrRw5kOka75orsaA50cumrX4jJMt4rbt0o4rjGtSUH6JL8kk5V97StSQXq65HtOFRILdo_V8bEpBw36O0qFh0TCjrwvLuUP8oTVRen1aE2bKDlUwIAfALBo4GNVFtsar8W_TU2FgKpblb8tqRn5NHhoDnUB0izmCUFiDMIJpEvhfkL82ND55ptisCR8fl7lWN0-j89wDtQi892nMU8uL999Q4w6yInSseopFt3qv1bvciYIlWDIUq8PGOi8WsDCq7KROMFXUOpvj-tmnqYkefx0ID2wNxL_vO6YtgWy9GwRKiHbtbgaFjkbSYRe67jXaf-uBgm1Ug9lxUF1L",
+            "q": "Data Engineer remoto tiempo parcial"
+          },
+          "link": "https://www.google.com/search?sca_esv=2d6c5a1e6a3d194c&hl=es&gl=pe&sxsrf=APpeQnvLoyhXn8wH72KWLxrlmVcXR9TvdQ:1790568584916&q=Data+Engineer+remoto+tiempo+parcial&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rYCwOK1t0egRnb9GtkaHPsGLSYjx1JbjlGrRw5kOka75orsaA50cumrX4jJMt4rbt0o4rjGtSUH6JL8kk5V97StSQXq65HtOFRILdo_V8bEpBw36O0qFh0TCjrwvLuUP8oTVRen1aE2bKDlUwIAfALBo4GNVFtsar8W_TU2FgKpblb8tqRn5NHhoDnUB0izmCUFiDMIJpEvhfkL82ND55ptisCR8fl7lWN0-j89wDtQi892nMU8uL999Q4w6yInSseopFt3qv1bvciYIlWDIUq8PGOi8WsDCq7KROMFXUOpvj-tmnqYkefx0ID2wNxL_vO6YtgWy9GwRKiHbtbgaFjkbSYRe67jXaf-uBgm1Ug9lxUF1L&udm=8&sa=X&ved=2ahUKEwjAp8zjs5CXAxX8v4kEHQfzLuEQkbEKegQIHhAD",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=pe&google_domain=google.com&hl=es&location=Peru&q=Data+Engineer+remoto+tiempo+parcial&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rYCwOK1t0egRnb9GtkaHPsGLSYjx1JbjlGrRw5kOka75orsaA50cumrX4jJMt4rbt0o4rjGtSUH6JL8kk5V97StSQXq65HtOFRILdo_V8bEpBw36O0qFh0TCjrwvLuUP8oTVRen1aE2bKDlUwIAfALBo4GNVFtsar8W_TU2FgKpblb8tqRn5NHhoDnUB0izmCUFiDMIJpEvhfkL82ND55ptisCR8fl7lWN0-j89wDtQi892nMU8uL999Q4w6yInSseopFt3qv1bvciYIlWDIUq8PGOi8WsDCq7KROMFXUOpvj-tmnqYkefx0ID2wNxL_vO6YtgWy9GwRKiHbtbgaFjkbSYRe67jXaf-uBgm1Ug9lxUF1L"
+        },
+        {
+          "name": "Con contrato",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4ryyUtiah9zKaM4ojPGypVA81nCqwefveTYfRbRXUg25-N0QbQYYOqB023d1Dxozyc4xr--35HCH8BmNGsEv80EjfSmFVj9MU4XEtgzNV4P9BwkA1RkkngbdpG_3bHodfyZDs4YWCAPSyve0U3lqHR4iVSy_cmSOplCkS-rAgzF0ZXajVSG93Dxjdns0rxk3ES3LanFKWHbRzCJjMDTUQ0pOdki6kf07L8kidOiQ2qkRRKrz_lUSw_S_JwZDkYpfwv__qeVOVWHUv-0C7iSjq2Q9-NiODgCC-9eF2lm8hARiEjFDgXmtm8ofniOuy344yQbMQ2wXOj4AvNQcXU9TAXXWlJFwrNza89AT3n8o0VVJlvmPc5",
+            "q": "Data Engineer remoto con contrato"
+          },
+          "link": "https://www.google.com/search?sca_esv=2d6c5a1e6a3d194c&hl=es&gl=pe&sxsrf=APpeQnvLoyhXn8wH72KWLxrlmVcXR9TvdQ:1790568584916&q=Data+Engineer+remoto+con+contrato&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4ryyUtiah9zKaM4ojPGypVA81nCqwefveTYfRbRXUg25-N0QbQYYOqB023d1Dxozyc4xr--35HCH8BmNGsEv80EjfSmFVj9MU4XEtgzNV4P9BwkA1RkkngbdpG_3bHodfyZDs4YWCAPSyve0U3lqHR4iVSy_cmSOplCkS-rAgzF0ZXajVSG93Dxjdns0rxk3ES3LanFKWHbRzCJjMDTUQ0pOdki6kf07L8kidOiQ2qkRRKrz_lUSw_S_JwZDkYpfwv__qeVOVWHUv-0C7iSjq2Q9-NiODgCC-9eF2lm8hARiEjFDgXmtm8ofniOuy344yQbMQ2wXOj4AvNQcXU9TAXXWlJFwrNza89AT3n8o0VVJlvmPc5&udm=8&sa=X&ved=2ahUKEwjAp8zjs5CXAxX8v4kEHQfzLuEQkbEKegQIHhAE",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=pe&google_domain=google.com&hl=es&location=Peru&q=Data+Engineer+remoto+con+contrato&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4ryyUtiah9zKaM4ojPGypVA81nCqwefveTYfRbRXUg25-N0QbQYYOqB023d1Dxozyc4xr--35HCH8BmNGsEv80EjfSmFVj9MU4XEtgzNV4P9BwkA1RkkngbdpG_3bHodfyZDs4YWCAPSyve0U3lqHR4iVSy_cmSOplCkS-rAgzF0ZXajVSG93Dxjdns0rxk3ES3LanFKWHbRzCJjMDTUQ0pOdki6kf07L8kidOiQ2qkRRKrz_lUSw_S_JwZDkYpfwv__qeVOVWHUv-0C7iSjq2Q9-NiODgCC-9eF2lm8hARiEjFDgXmtm8ofniOuy344yQbMQ2wXOj4AvNQcXU9TAXXWlJFwrNza89AT3n8o0VVJlvmPc5"
+        },
+        {
+          "name": "Prácticas",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4r_N1UzR5kRYz-7NKv2QvnNtpdJfFJl_Lae6mQDIvUXYq31xZSsadK-pTP0odXnllwEdAPzEWcrzWCU8JtHdbKZSlQuO_rt8gYBLH7nfhwsXY2P2NyGJf9VjUwaz7AnGBSiwqhE35TI3tdQeuKlCm3-yKwXhVWvGbu6YJ2nRTTliS_b5TqgoMTeq_TxfJG4aoAIm3jwilIrkX8H4E6u93Ik4Y6VyqGBKJj1kbU9wnZG3wVuWEELvyY1ZwM_JqT4EVILTnhoWtTPUnciwJgxsqWYF_OqVvMMSlOjn9J7MrUZTJeo_MFmeIpQnx2bLO4_8ikKMZIV9mupnPpkPeP989g9MP9NblsN5sW7iaNKS_w6ZiiaQa3",
+            "q": "Data Engineer remoto prácticas"
+          },
+          "link": "https://www.google.com/search?sca_esv=2d6c5a1e6a3d194c&hl=es&gl=pe&sxsrf=APpeQnvLoyhXn8wH72KWLxrlmVcXR9TvdQ:1790568584916&q=Data+Engineer+remoto+pr%C3%A1cticas&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4r_N1UzR5kRYz-7NKv2QvnNtpdJfFJl_Lae6mQDIvUXYq31xZSsadK-pTP0odXnllwEdAPzEWcrzWCU8JtHdbKZSlQuO_rt8gYBLH7nfhwsXY2P2NyGJf9VjUwaz7AnGBSiwqhE35TI3tdQeuKlCm3-yKwXhVWvGbu6YJ2nRTTliS_b5TqgoMTeq_TxfJG4aoAIm3jwilIrkX8H4E6u93Ik4Y6VyqGBKJj1kbU9wnZG3wVuWEELvyY1ZwM_JqT4EVILTnhoWtTPUnciwJgxsqWYF_OqVvMMSlOjn9J7MrUZTJeo_MFmeIpQnx2bLO4_8ikKMZIV9mupnPpkPeP989g9MP9NblsN5sW7iaNKS_w6ZiiaQa3&udm=8&sa=X&ved=2ahUKEwjAp8zjs5CXAxX8v4kEHQfzLuEQkbEKegQIHhAF",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=pe&google_domain=google.com&hl=es&location=Peru&q=Data+Engineer+remoto+pr%C3%A1cticas&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4r_N1UzR5kRYz-7NKv2QvnNtpdJfFJl_Lae6mQDIvUXYq31xZSsadK-pTP0odXnllwEdAPzEWcrzWCU8JtHdbKZSlQuO_rt8gYBLH7nfhwsXY2P2NyGJf9VjUwaz7AnGBSiwqhE35TI3tdQeuKlCm3-yKwXhVWvGbu6YJ2nRTTliS_b5TqgoMTeq_TxfJG4aoAIm3jwilIrkX8H4E6u93Ik4Y6VyqGBKJj1kbU9wnZG3wVuWEELvyY1ZwM_JqT4EVILTnhoWtTPUnciwJgxsqWYF_OqVvMMSlOjn9J7MrUZTJeo_MFmeIpQnx2bLO4_8ikKMZIV9mupnPpkPeP989g9MP9NblsN5sW7iaNKS_w6ZiiaQa3"
+        }
+      ]
+    },
+    {
+      "name": "Tipo de trabajo",
+      "options": [
+        {
+          "name": "Tiempo completo",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4ruLIIYM44Ilf83fPQ-KfdpEFlwzZmAGqxG_Kn-CFSx5Rj1XyswtjcXgB2e4nAwthkm6wkLC3XnmzP0x5NIuks8b5sjGigSCSug_gNhokL5aB0N7-DzHc5lItmBOGrdEe28xxawpLgL-xKXl78rzK_8e6MS9XbLPmuZ30WVdUcqdkT_dWPzM_4E9YF4nv4eMZddFURxHH_c9spobOJJUp_mStORl7ZlPfV6WGlNmZNfDE8YChmbSPHRXbEqHqwSCQupaRdownLmubptetHybkVX-Kz97PLV_MQOyo7lU4fLPsyKJbGdHKOtHX1jQqUMnb4kBiU2pbYCPtLal657hVgoJ1wCUQ",
+            "q": "Data Engineer remoto tiempo completo"
+          },
+          "link": "https://www.google.com/search?sca_esv=2d6c5a1e6a3d194c&hl=es&gl=pe&sxsrf=APpeQnvLoyhXn8wH72KWLxrlmVcXR9TvdQ:1790568584916&q=Data+Engineer+remoto+tiempo+completo&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4ruLIIYM44Ilf83fPQ-KfdpEFlwzZmAGqxG_Kn-CFSx5Rj1XyswtjcXgB2e4nAwthkm6wkLC3XnmzP0x5NIuks8b5sjGigSCSug_gNhokL5aB0N7-DzHc5lItmBOGrdEe28xxawpLgL-xKXl78rzK_8e6MS9XbLPmuZ30WVdUcqdkT_dWPzM_4E9YF4nv4eMZddFURxHH_c9spobOJJUp_mStORl7ZlPfV6WGlNmZNfDE8YChmbSPHRXbEqHqwSCQupaRdownLmubptetHybkVX-Kz97PLV_MQOyo7lU4fLPsyKJbGdHKOtHX1jQqUMnb4kBiU2pbYCPtLal657hVgoJ1wCUQ&udm=8&sa=X&ved=2ahUKEwjAp8zjs5CXAxX8v4kEHQfzLuEQkbEKegQIGhAC",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=pe&google_domain=google.com&hl=es&location=Peru&q=Data+Engineer+remoto+tiempo+completo&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4ruLIIYM44Ilf83fPQ-KfdpEFlwzZmAGqxG_Kn-CFSx5Rj1XyswtjcXgB2e4nAwthkm6wkLC3XnmzP0x5NIuks8b5sjGigSCSug_gNhokL5aB0N7-DzHc5lItmBOGrdEe28xxawpLgL-xKXl78rzK_8e6MS9XbLPmuZ30WVdUcqdkT_dWPzM_4E9YF4nv4eMZddFURxHH_c9spobOJJUp_mStORl7ZlPfV6WGlNmZNfDE8YChmbSPHRXbEqHqwSCQupaRdownLmubptetHybkVX-Kz97PLV_MQOyo7lU4fLPsyKJbGdHKOtHX1jQqUMnb4kBiU2pbYCPtLal657hVgoJ1wCUQ"
+        },
+        {
+          "name": "Tiempo parcial",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4rYCwOK1t0egRnb9GtkaHPsGLSYjx1JbjlGrRw5kOka75orsaA50cumrX4jJMt4rbt0o4rjGtSUH6JL8kk5V97StSQXq65HtOFRILdo_V8bEpBw36O0qFh0TCjrwvLuUP8oTVRen1aE2bKDlUwIAfALBo4GNVFtsar8W_TU2FgKpblb8tqRn5NHhoDnUB0izmCUFiDMIJpEvhfkL82ND55ptisCR8fl7lWN0-j89wDtQi892nMU8uL999Q4w6yInSseopFt3qv1bvciYIlWDIUq8PGOi8WsDCq7KROMFXUOpvj-tmnqYkefx0ID2wNxL_vO6YtgWy9GwRKiHbtbgaFjkbSYRe67jXaf-uBgm1Ug9lxUF1L",
+            "q": "Data Engineer remoto tiempo parcial"
+          },
+          "link": "https://www.google.com/search?sca_esv=2d6c5a1e6a3d194c&hl=es&gl=pe&sxsrf=APpeQnvLoyhXn8wH72KWLxrlmVcXR9TvdQ:1790568584916&q=Data+Engineer+remoto+tiempo+parcial&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rYCwOK1t0egRnb9GtkaHPsGLSYjx1JbjlGrRw5kOka75orsaA50cumrX4jJMt4rbt0o4rjGtSUH6JL8kk5V97StSQXq65HtOFRILdo_V8bEpBw36O0qFh0TCjrwvLuUP8oTVRen1aE2bKDlUwIAfALBo4GNVFtsar8W_TU2FgKpblb8tqRn5NHhoDnUB0izmCUFiDMIJpEvhfkL82ND55ptisCR8fl7lWN0-j89wDtQi892nMU8uL999Q4w6yInSseopFt3qv1bvciYIlWDIUq8PGOi8WsDCq7KROMFXUOpvj-tmnqYkefx0ID2wNxL_vO6YtgWy9GwRKiHbtbgaFjkbSYRe67jXaf-uBgm1Ug9lxUF1L&udm=8&sa=X&ved=2ahUKEwjAp8zjs5CXAxX8v4kEHQfzLuEQkbEKegQIGhAD",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=pe&google_domain=google.com&hl=es&location=Peru&q=Data+Engineer+remoto+tiempo+parcial&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rYCwOK1t0egRnb9GtkaHPsGLSYjx1JbjlGrRw5kOka75orsaA50cumrX4jJMt4rbt0o4rjGtSUH6JL8kk5V97StSQXq65HtOFRILdo_V8bEpBw36O0qFh0TCjrwvLuUP8oTVRen1aE2bKDlUwIAfALBo4GNVFtsar8W_TU2FgKpblb8tqRn5NHhoDnUB0izmCUFiDMIJpEvhfkL82ND55ptisCR8fl7lWN0-j89wDtQi892nMU8uL999Q4w6yInSseopFt3qv1bvciYIlWDIUq8PGOi8WsDCq7KROMFXUOpvj-tmnqYkefx0ID2wNxL_vO6YtgWy9GwRKiHbtbgaFjkbSYRe67jXaf-uBgm1Ug9lxUF1L"
+        },
+        {
+          "name": "Con contrato",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4ryyUtiah9zKaM4ojPGypVA81nCqwefveTYfRbRXUg25-N0QbQYYOqB023d1Dxozyc4xr--35HCH8BmNGsEv80EjfSmFVj9MU4XEtgzNV4P9BwkA1RkkngbdpG_3bHodfyZDs4YWCAPSyve0U3lqHR4iVSy_cmSOplCkS-rAgzF0ZXajVSG93Dxjdns0rxk3ES3LanFKWHbRzCJjMDTUQ0pOdki6kf07L8kidOiQ2qkRRKrz_lUSw_S_JwZDkYpfwv__qeVOVWHUv-0C7iSjq2Q9-NiODgCC-9eF2lm8hARiEjFDgXmtm8ofniOuy344yQbMQ2wXOj4AvNQcXU9TAXXWlJFwrNza89AT3n8o0VVJlvmPc5",
+            "q": "Data Engineer remoto con contrato"
+          },
+          "link": "https://www.google.com/search?sca_esv=2d6c5a1e6a3d194c&hl=es&gl=pe&sxsrf=APpeQnvLoyhXn8wH72KWLxrlmVcXR9TvdQ:1790568584916&q=Data+Engineer+remoto+con+contrato&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4ryyUtiah9zKaM4ojPGypVA81nCqwefveTYfRbRXUg25-N0QbQYYOqB023d1Dxozyc4xr--35HCH8BmNGsEv80EjfSmFVj9MU4XEtgzNV4P9BwkA1RkkngbdpG_3bHodfyZDs4YWCAPSyve0U3lqHR4iVSy_cmSOplCkS-rAgzF0ZXajVSG93Dxjdns0rxk3ES3LanFKWHbRzCJjMDTUQ0pOdki6kf07L8kidOiQ2qkRRKrz_lUSw_S_JwZDkYpfwv__qeVOVWHUv-0C7iSjq2Q9-NiODgCC-9eF2lm8hARiEjFDgXmtm8ofniOuy344yQbMQ2wXOj4AvNQcXU9TAXXWlJFwrNza89AT3n8o0VVJlvmPc5&udm=8&sa=X&ved=2ahUKEwjAp8zjs5CXAxX8v4kEHQfzLuEQkbEKegQIGhAE",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=pe&google_domain=google.com&hl=es&location=Peru&q=Data+Engineer+remoto+con+contrato&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4ryyUtiah9zKaM4ojPGypVA81nCqwefveTYfRbRXUg25-N0QbQYYOqB023d1Dxozyc4xr--35HCH8BmNGsEv80EjfSmFVj9MU4XEtgzNV4P9BwkA1RkkngbdpG_3bHodfyZDs4YWCAPSyve0U3lqHR4iVSy_cmSOplCkS-rAgzF0ZXajVSG93Dxjdns0rxk3ES3LanFKWHbRzCJjMDTUQ0pOdki6kf07L8kidOiQ2qkRRKrz_lUSw_S_JwZDkYpfwv__qeVOVWHUv-0C7iSjq2Q9-NiODgCC-9eF2lm8hARiEjFDgXmtm8ofniOuy344yQbMQ2wXOj4AvNQcXU9TAXXWlJFwrNza89AT3n8o0VVJlvmPc5"
+        },
+        {
+          "name": "Prácticas",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4r_N1UzR5kRYz-7NKv2QvnNtpdJfFJl_Lae6mQDIvUXYq31xZSsadK-pTP0odXnllwEdAPzEWcrzWCU8JtHdbKZSlQuO_rt8gYBLH7nfhwsXY2P2NyGJf9VjUwaz7AnGBSiwqhE35TI3tdQeuKlCm3-yKwXhVWvGbu6YJ2nRTTliS_b5TqgoMTeq_TxfJG4aoAIm3jwilIrkX8H4E6u93Ik4Y6VyqGBKJj1kbU9wnZG3wVuWEELvyY1ZwM_JqT4EVILTnhoWtTPUnciwJgxsqWYF_OqVvMMSlOjn9J7MrUZTJeo_MFmeIpQnx2bLO4_8ikKMZIV9mupnPpkPeP989g9MP9NblsN5sW7iaNKS_w6ZiiaQa3",
+            "q": "Data Engineer remoto prácticas"
+          },
+          "link": "https://www.google.com/search?sca_esv=2d6c5a1e6a3d194c&hl=es&gl=pe&sxsrf=APpeQnvLoyhXn8wH72KWLxrlmVcXR9TvdQ:1790568584916&q=Data+Engineer+remoto+pr%C3%A1cticas&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4r_N1UzR5kRYz-7NKv2QvnNtpdJfFJl_Lae6mQDIvUXYq31xZSsadK-pTP0odXnllwEdAPzEWcrzWCU8JtHdbKZSlQuO_rt8gYBLH7nfhwsXY2P2NyGJf9VjUwaz7AnGBSiwqhE35TI3tdQeuKlCm3-yKwXhVWvGbu6YJ2nRTTliS_b5TqgoMTeq_TxfJG4aoAIm3jwilIrkX8H4E6u93Ik4Y6VyqGBKJj1kbU9wnZG3wVuWEELvyY1ZwM_JqT4EVILTnhoWtTPUnciwJgxsqWYF_OqVvMMSlOjn9J7MrUZTJeo_MFmeIpQnx2bLO4_8ikKMZIV9mupnPpkPeP989g9MP9NblsN5sW7iaNKS_w6ZiiaQa3&udm=8&sa=X&ved=2ahUKEwjAp8zjs5CXAxX8v4kEHQfzLuEQkbEKegQIGhAF",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=pe&google_domain=google.com&hl=es&location=Peru&q=Data+Engineer+remoto+pr%C3%A1cticas&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4r_N1UzR5kRYz-7NKv2QvnNtpdJfFJl_Lae6mQDIvUXYq31xZSsadK-pTP0odXnllwEdAPzEWcrzWCU8JtHdbKZSlQuO_rt8gYBLH7nfhwsXY2P2NyGJf9VjUwaz7AnGBSiwqhE35TI3tdQeuKlCm3-yKwXhVWvGbu6YJ2nRTTliS_b5TqgoMTeq_TxfJG4aoAIm3jwilIrkX8H4E6u93Ik4Y6VyqGBKJj1kbU9wnZG3wVuWEELvyY1ZwM_JqT4EVILTnhoWtTPUnciwJgxsqWYF_OqVvMMSlOjn9J7MrUZTJeo_MFmeIpQnx2bLO4_8ikKMZIV9mupnPpkPeP989g9MP9NblsN5sW7iaNKS_w6ZiiaQa3"
+        }
+      ]
+    },
+    {
+      "name": "Tipo de trabajo",
+      "options": [
+        {
+          "name": "Tiempo completo",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4ruLIIYM44Ilf83fPQ-KfdpEFlwzZmAGqxG_Kn-CFSx5Rj1XyswtjcXgB2e4nAwthkm6wkLC3XnmzP0x5NIuks8b5sjGigSCSug_gNhokL5aB0N7-DzHc5lItmBOGrdEe28xxawpLgL-xKXl78rzK_8e6MS9XbLPmuZ30WVdUcqdkT_dWPzM_4E9YF4nv4eMZddFURxHH_c9spobOJJUp_mStORl7ZlPfV6WGlNmZNfDE8YChmbSPHRXbEqHqwSCQupaRdownLmubptetHybkVX-Kz97PLV_MQOyo7lU4fLPsyKJbGdHKOtHX1jQqUMnb4kBiU2pbYCPtLal657hVgoJ1wCUQ",
+            "q": "Data Engineer remoto tiempo completo"
+          },
+          "link": "https://www.google.com/search?sca_esv=2d6c5a1e6a3d194c&hl=es&gl=pe&sxsrf=APpeQnvLoyhXn8wH72KWLxrlmVcXR9TvdQ:1790568584916&q=Data+Engineer+remoto+tiempo+completo&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4ruLIIYM44Ilf83fPQ-KfdpEFlwzZmAGqxG_Kn-CFSx5Rj1XyswtjcXgB2e4nAwthkm6wkLC3XnmzP0x5NIuks8b5sjGigSCSug_gNhokL5aB0N7-DzHc5lItmBOGrdEe28xxawpLgL-xKXl78rzK_8e6MS9XbLPmuZ30WVdUcqdkT_dWPzM_4E9YF4nv4eMZddFURxHH_c9spobOJJUp_mStORl7ZlPfV6WGlNmZNfDE8YChmbSPHRXbEqHqwSCQupaRdownLmubptetHybkVX-Kz97PLV_MQOyo7lU4fLPsyKJbGdHKOtHX1jQqUMnb4kBiU2pbYCPtLal657hVgoJ1wCUQ&udm=8&sa=X&ved=2ahUKEwjAp8zjs5CXAxX8v4kEHQfzLuEQkbEKegQIGhAC",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=pe&google_domain=google.com&hl=es&location=Peru&q=Data+Engineer+remoto+tiempo+completo&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4ruLIIYM44Ilf83fPQ-KfdpEFlwzZmAGqxG_Kn-CFSx5Rj1XyswtjcXgB2e4nAwthkm6wkLC3XnmzP0x5NIuks8b5sjGigSCSug_gNhokL5aB0N7-DzHc5lItmBOGrdEe28xxawpLgL-xKXl78rzK_8e6MS9XbLPmuZ30WVdUcqdkT_dWPzM_4E9YF4nv4eMZddFURxHH_c9spobOJJUp_mStORl7ZlPfV6WGlNmZNfDE8YChmbSPHRXbEqHqwSCQupaRdownLmubptetHybkVX-Kz97PLV_MQOyo7lU4fLPsyKJbGdHKOtHX1jQqUMnb4kBiU2pbYCPtLal657hVgoJ1wCUQ"
+        },
+        {
+          "name": "Tiempo parcial",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4rYCwOK1t0egRnb9GtkaHPsGLSYjx1JbjlGrRw5kOka75orsaA50cumrX4jJMt4rbt0o4rjGtSUH6JL8kk5V97StSQXq65HtOFRILdo_V8bEpBw36O0qFh0TCjrwvLuUP8oTVRen1aE2bKDlUwIAfALBo4GNVFtsar8W_TU2FgKpblb8tqRn5NHhoDnUB0izmCUFiDMIJpEvhfkL82ND55ptisCR8fl7lWN0-j89wDtQi892nMU8uL999Q4w6yInSseopFt3qv1bvciYIlWDIUq8PGOi8WsDCq7KROMFXUOpvj-tmnqYkefx0ID2wNxL_vO6YtgWy9GwRKiHbtbgaFjkbSYRe67jXaf-uBgm1Ug9lxUF1L",
+            "q": "Data Engineer remoto tiempo parcial"
+          },
+          "link": "https://www.google.com/search?sca_esv=2d6c5a1e6a3d194c&hl=es&gl=pe&sxsrf=APpeQnvLoyhXn8wH72KWLxrlmVcXR9TvdQ:1790568584916&q=Data+Engineer+remoto+tiempo+parcial&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rYCwOK1t0egRnb9GtkaHPsGLSYjx1JbjlGrRw5kOka75orsaA50cumrX4jJMt4rbt0o4rjGtSUH6JL8kk5V97StSQXq65HtOFRILdo_V8bEpBw36O0qFh0TCjrwvLuUP8oTVRen1aE2bKDlUwIAfALBo4GNVFtsar8W_TU2FgKpblb8tqRn5NHhoDnUB0izmCUFiDMIJpEvhfkL82ND55ptisCR8fl7lWN0-j89wDtQi892nMU8uL999Q4w6yInSseopFt3qv1bvciYIlWDIUq8PGOi8WsDCq7KROMFXUOpvj-tmnqYkefx0ID2wNxL_vO6YtgWy9GwRKiHbtbgaFjkbSYRe67jXaf-uBgm1Ug9lxUF1L&udm=8&sa=X&ved=2ahUKEwjAp8zjs5CXAxX8v4kEHQfzLuEQkbEKegQIGhAD",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=pe&google_domain=google.com&hl=es&location=Peru&q=Data+Engineer+remoto+tiempo+parcial&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rYCwOK1t0egRnb9GtkaHPsGLSYjx1JbjlGrRw5kOka75orsaA50cumrX4jJMt4rbt0o4rjGtSUH6JL8kk5V97StSQXq65HtOFRILdo_V8bEpBw36O0qFh0TCjrwvLuUP8oTVRen1aE2bKDlUwIAfALBo4GNVFtsar8W_TU2FgKpblb8tqRn5NHhoDnUB0izmCUFiDMIJpEvhfkL82ND55ptisCR8fl7lWN0-j89wDtQi892nMU8uL999Q4w6yInSseopFt3qv1bvciYIlWDIUq8PGOi8WsDCq7KROMFXUOpvj-tmnqYkefx0ID2wNxL_vO6YtgWy9GwRKiHbtbgaFjkbSYRe67jXaf-uBgm1Ug9lxUF1L"
+        },
+        {
+          "name": "Con contrato",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4ryyUtiah9zKaM4ojPGypVA81nCqwefveTYfRbRXUg25-N0QbQYYOqB023d1Dxozyc4xr--35HCH8BmNGsEv80EjfSmFVj9MU4XEtgzNV4P9BwkA1RkkngbdpG_3bHodfyZDs4YWCAPSyve0U3lqHR4iVSy_cmSOplCkS-rAgzF0ZXajVSG93Dxjdns0rxk3ES3LanFKWHbRzCJjMDTUQ0pOdki6kf07L8kidOiQ2qkRRKrz_lUSw_S_JwZDkYpfwv__qeVOVWHUv-0C7iSjq2Q9-NiODgCC-9eF2lm8hARiEjFDgXmtm8ofniOuy344yQbMQ2wXOj4AvNQcXU9TAXXWlJFwrNza89AT3n8o0VVJlvmPc5",
+            "q": "Data Engineer remoto con contrato"
+          },
+          "link": "https://www.google.com/search?sca_esv=2d6c5a1e6a3d194c&hl=es&gl=pe&sxsrf=APpeQnvLoyhXn8wH72KWLxrlmVcXR9TvdQ:1790568584916&q=Data+Engineer+remoto+con+contrato&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4ryyUtiah9zKaM4ojPGypVA81nCqwefveTYfRbRXUg25-N0QbQYYOqB023d1Dxozyc4xr--35HCH8BmNGsEv80EjfSmFVj9MU4XEtgzNV4P9BwkA1RkkngbdpG_3bHodfyZDs4YWCAPSyve0U3lqHR4iVSy_cmSOplCkS-rAgzF0ZXajVSG93Dxjdns0rxk3ES3LanFKWHbRzCJjMDTUQ0pOdki6kf07L8kidOiQ2qkRRKrz_lUSw_S_JwZDkYpfwv__qeVOVWHUv-0C7iSjq2Q9-NiODgCC-9eF2lm8hARiEjFDgXmtm8ofniOuy344yQbMQ2wXOj4AvNQcXU9TAXXWlJFwrNza89AT3n8o0VVJlvmPc5&udm=8&sa=X&ved=2ahUKEwjAp8zjs5CXAxX8v4kEHQfzLuEQkbEKegQIGhAE",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=pe&google_domain=google.com&hl=es&location=Peru&q=Data+Engineer+remoto+con+contrato&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4ryyUtiah9zKaM4ojPGypVA81nCqwefveTYfRbRXUg25-N0QbQYYOqB023d1Dxozyc4xr--35HCH8BmNGsEv80EjfSmFVj9MU4XEtgzNV4P9BwkA1RkkngbdpG_3bHodfyZDs4YWCAPSyve0U3lqHR4iVSy_cmSOplCkS-rAgzF0ZXajVSG93Dxjdns0rxk3ES3LanFKWHbRzCJjMDTUQ0pOdki6kf07L8kidOiQ2qkRRKrz_lUSw_S_JwZDkYpfwv__qeVOVWHUv-0C7iSjq2Q9-NiODgCC-9eF2lm8hARiEjFDgXmtm8ofniOuy344yQbMQ2wXOj4AvNQcXU9TAXXWlJFwrNza89AT3n8o0VVJlvmPc5"
+        },
+        {
+          "name": "Prácticas",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4r_N1UzR5kRYz-7NKv2QvnNtpdJfFJl_Lae6mQDIvUXYq31xZSsadK-pTP0odXnllwEdAPzEWcrzWCU8JtHdbKZSlQuO_rt8gYBLH7nfhwsXY2P2NyGJf9VjUwaz7AnGBSiwqhE35TI3tdQeuKlCm3-yKwXhVWvGbu6YJ2nRTTliS_b5TqgoMTeq_TxfJG4aoAIm3jwilIrkX8H4E6u93Ik4Y6VyqGBKJj1kbU9wnZG3wVuWEELvyY1ZwM_JqT4EVILTnhoWtTPUnciwJgxsqWYF_OqVvMMSlOjn9J7MrUZTJeo_MFmeIpQnx2bLO4_8ikKMZIV9mupnPpkPeP989g9MP9NblsN5sW7iaNKS_w6ZiiaQa3",
+            "q": "Data Engineer remoto prácticas"
+          },
+          "link": "https://www.google.com/search?sca_esv=2d6c5a1e6a3d194c&hl=es&gl=pe&sxsrf=APpeQnvLoyhXn8wH72KWLxrlmVcXR9TvdQ:1790568584916&q=Data+Engineer+remoto+pr%C3%A1cticas&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4r_N1UzR5kRYz-7NKv2QvnNtpdJfFJl_Lae6mQDIvUXYq31xZSsadK-pTP0odXnllwEdAPzEWcrzWCU8JtHdbKZSlQuO_rt8gYBLH7nfhwsXY2P2NyGJf9VjUwaz7AnGBSiwqhE35TI3tdQeuKlCm3-yKwXhVWvGbu6YJ2nRTTliS_b5TqgoMTeq_TxfJG4aoAIm3jwilIrkX8H4E6u93Ik4Y6VyqGBKJj1kbU9wnZG3wVuWEELvyY1ZwM_JqT4EVILTnhoWtTPUnciwJgxsqWYF_OqVvMMSlOjn9J7MrUZTJeo_MFmeIpQnx2bLO4_8ikKMZIV9mupnPpkPeP989g9MP9NblsN5sW7iaNKS_w6ZiiaQa3&udm=8&sa=X&ved=2ahUKEwjAp8zjs5CXAxX8v4kEHQfzLuEQkbEKegQIGhAF",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=pe&google_domain=google.com&hl=es&location=Peru&q=Data+Engineer+remoto+pr%C3%A1cticas&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4r_N1UzR5kRYz-7NKv2QvnNtpdJfFJl_Lae6mQDIvUXYq31xZSsadK-pTP0odXnllwEdAPzEWcrzWCU8JtHdbKZSlQuO_rt8gYBLH7nfhwsXY2P2NyGJf9VjUwaz7AnGBSiwqhE35TI3tdQeuKlCm3-yKwXhVWvGbu6YJ2nRTTliS_b5TqgoMTeq_TxfJG4aoAIm3jwilIrkX8H4E6u93Ik4Y6VyqGBKJj1kbU9wnZG3wVuWEELvyY1ZwM_JqT4EVILTnhoWtTPUnciwJgxsqWYF_OqVvMMSlOjn9J7MrUZTJeo_MFmeIpQnx2bLO4_8ikKMZIV9mupnPpkPeP989g9MP9NblsN5sW7iaNKS_w6ZiiaQa3"
+        }
+      ]
+    },
+    {
+      "name": "Fecha de publicación",
+      "options": [
+        {
+          "name": "Ayer",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4r3dv6TGVRfd6DXtZirxI0o6xKXghaCEv96Sm31YQzcqeN3jJpLjF5Xj4M2G2-nVFS45Htq5y25dYegTEX6R5iKoGfuG2JoaK8c8DYTzZ4-ghfXv1Tg4af68mAgzZ9icV6nrpp5a4r2ZglmNZRe0hmIBfBDJKC0N3_MQRbyBHNxg0PsHy5oRuxoIvzD9Q3kgxdlBtUV8u6cuTIeUeLZ_psFDAfoIMpkMY4gPbXTn-PJ8nVNvUFsG1ZVwyf2i3Fb4nYpcw2fV5NIr9a4KksH1K125w6LnvnRa43YKmL8VJmYMN-TjtNOWr-ub3hKMEx2xtstdMHy1TdGR8d7jAU3zFqw2Nkjuf8Q-VaW-eSHhbVHtxuAMmpyMbWyehZGe_siugbd57IDA",
+            "q": "Data Engineer remoto desde ayer"
+          },
+          "link": "https://www.google.com/search?sca_esv=2d6c5a1e6a3d194c&hl=es&gl=pe&sxsrf=APpeQnvLoyhXn8wH72KWLxrlmVcXR9TvdQ:1790568584916&q=Data+Engineer+remoto+desde+ayer&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4r3dv6TGVRfd6DXtZirxI0o6xKXghaCEv96Sm31YQzcqeN3jJpLjF5Xj4M2G2-nVFS45Htq5y25dYegTEX6R5iKoGfuG2JoaK8c8DYTzZ4-ghfXv1Tg4af68mAgzZ9icV6nrpp5a4r2ZglmNZRe0hmIBfBDJKC0N3_MQRbyBHNxg0PsHy5oRuxoIvzD9Q3kgxdlBtUV8u6cuTIeUeLZ_psFDAfoIMpkMY4gPbXTn-PJ8nVNvUFsG1ZVwyf2i3Fb4nYpcw2fV5NIr9a4KksH1K125w6LnvnRa43YKmL8VJmYMN-TjtNOWr-ub3hKMEx2xtstdMHy1TdGR8d7jAU3zFqw2Nkjuf8Q-VaW-eSHhbVHtxuAMmpyMbWyehZGe_siugbd57IDA&udm=8&sa=X&ved=2ahUKEwjAp8zjs5CXAxX8v4kEHQfzLuEQkbEKegQIHRAC",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=pe&google_domain=google.com&hl=es&location=Peru&q=Data+Engineer+remoto+desde+ayer&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4r3dv6TGVRfd6DXtZirxI0o6xKXghaCEv96Sm31YQzcqeN3jJpLjF5Xj4M2G2-nVFS45Htq5y25dYegTEX6R5iKoGfuG2JoaK8c8DYTzZ4-ghfXv1Tg4af68mAgzZ9icV6nrpp5a4r2ZglmNZRe0hmIBfBDJKC0N3_MQRbyBHNxg0PsHy5oRuxoIvzD9Q3kgxdlBtUV8u6cuTIeUeLZ_psFDAfoIMpkMY4gPbXTn-PJ8nVNvUFsG1ZVwyf2i3Fb4nYpcw2fV5NIr9a4KksH1K125w6LnvnRa43YKmL8VJmYMN-TjtNOWr-ub3hKMEx2xtstdMHy1TdGR8d7jAU3zFqw2Nkjuf8Q-VaW-eSHhbVHtxuAMmpyMbWyehZGe_siugbd57IDA"
+        },
+        {
+          "name": "Últimos 3 días",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4rsIrUljaPH9okET3XT5Wp29C0FQ51D_JOocK01pUQcvDG6_08Hk0daCTGkqH4Xvf1OyIxh3_uvqvTbvLmJwT-kzGNrYsh0ZDtuTQYDdYB1JVJj6pKlQOPCgu7kFrG8Y2fQiHilmYRiPuA6jEbtWwEbbjpBhuPQ-PHzS2Yrrnxys8pegBgMbjzBOaJTRmjSUjWZkoM8ZtGua9WFnXeaeBXQMXzFSEv8AHo1-thtF8of2iweKg6OedmMwbzpIHOANcD6aJvNKj_z26EJzjyz4UM6ny_JeUZ-xRwBXEy5NNo3gPaqDAPpxCyWYgeJHXQ2-LfYOHN_YQyQKunsmasBESRqa5EM-BiXPBn8UGG7cSoQL3_hriTCa4-1AKWZ6yqi3XqIZYy8g",
+            "q": "Data Engineer remoto en los últimos 3 días"
+          },
+          "link": "https://www.google.com/search?sca_esv=2d6c5a1e6a3d194c&hl=es&gl=pe&sxsrf=APpeQnvLoyhXn8wH72KWLxrlmVcXR9TvdQ:1790568584916&q=Data+Engineer+remoto+en+los+%C3%BAltimos+3+d%C3%ADas&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rsIrUljaPH9okET3XT5Wp29C0FQ51D_JOocK01pUQcvDG6_08Hk0daCTGkqH4Xvf1OyIxh3_uvqvTbvLmJwT-kzGNrYsh0ZDtuTQYDdYB1JVJj6pKlQOPCgu7kFrG8Y2fQiHilmYRiPuA6jEbtWwEbbjpBhuPQ-PHzS2Yrrnxys8pegBgMbjzBOaJTRmjSUjWZkoM8ZtGua9WFnXeaeBXQMXzFSEv8AHo1-thtF8of2iweKg6OedmMwbzpIHOANcD6aJvNKj_z26EJzjyz4UM6ny_JeUZ-xRwBXEy5NNo3gPaqDAPpxCyWYgeJHXQ2-LfYOHN_YQyQKunsmasBESRqa5EM-BiXPBn8UGG7cSoQL3_hriTCa4-1AKWZ6yqi3XqIZYy8g&udm=8&sa=X&ved=2ahUKEwjAp8zjs5CXAxX8v4kEHQfzLuEQkbEKegQIHRAD",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=pe&google_domain=google.com&hl=es&location=Peru&q=Data+Engineer+remoto+en+los+%C3%BAltimos+3+d%C3%ADas&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rsIrUljaPH9okET3XT5Wp29C0FQ51D_JOocK01pUQcvDG6_08Hk0daCTGkqH4Xvf1OyIxh3_uvqvTbvLmJwT-kzGNrYsh0ZDtuTQYDdYB1JVJj6pKlQOPCgu7kFrG8Y2fQiHilmYRiPuA6jEbtWwEbbjpBhuPQ-PHzS2Yrrnxys8pegBgMbjzBOaJTRmjSUjWZkoM8ZtGua9WFnXeaeBXQMXzFSEv8AHo1-thtF8of2iweKg6OedmMwbzpIHOANcD6aJvNKj_z26EJzjyz4UM6ny_JeUZ-xRwBXEy5NNo3gPaqDAPpxCyWYgeJHXQ2-LfYOHN_YQyQKunsmasBESRqa5EM-BiXPBn8UGG7cSoQL3_hriTCa4-1AKWZ6yqi3XqIZYy8g"
+        },
+        {
+          "name": "Última semana",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4rdLPaf_8xfwxpFkO4dCwU4QpBiP4OiZt65hHNg1rOj1lr84n5izdKdkew3fKWT86bKJepWoHRHQYxLXN_dF3rOkqeQ7HzT3-GDS3VEcsALlMLxVXQAYInCoZiWeLfdeC3UxFsXbl4sgBNz25Iyt0M8LYXzTkcYsOvxzKmFFz7rchdk1JLcJ0lexKCdtUighp5KnUZzufHlxBk_Rl2A3HEmSyLpPIBzft8H--IFKBbOCBn0CYyQmXCSlqxz_A8x_x0AXYNH80IEh4kZVVeCF-Qf0dmaeiSBvB5_Y8PgA3XfeuDVM13lyk-n9ZaX9oiYhCM5WokheWKMQP3kaPtIKoZyH3yKIXMZubg37VoqD4POjOXE91Q45s0Bh5ZIPGkTgubrDqOow",
+            "q": "Data Engineer remoto en la última semana"
+          },
+          "link": "https://www.google.com/search?sca_esv=2d6c5a1e6a3d194c&hl=es&gl=pe&sxsrf=APpeQnvLoyhXn8wH72KWLxrlmVcXR9TvdQ:1790568584916&q=Data+Engineer+remoto+en+la+%C3%BAltima+semana&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rdLPaf_8xfwxpFkO4dCwU4QpBiP4OiZt65hHNg1rOj1lr84n5izdKdkew3fKWT86bKJepWoHRHQYxLXN_dF3rOkqeQ7HzT3-GDS3VEcsALlMLxVXQAYInCoZiWeLfdeC3UxFsXbl4sgBNz25Iyt0M8LYXzTkcYsOvxzKmFFz7rchdk1JLcJ0lexKCdtUighp5KnUZzufHlxBk_Rl2A3HEmSyLpPIBzft8H--IFKBbOCBn0CYyQmXCSlqxz_A8x_x0AXYNH80IEh4kZVVeCF-Qf0dmaeiSBvB5_Y8PgA3XfeuDVM13lyk-n9ZaX9oiYhCM5WokheWKMQP3kaPtIKoZyH3yKIXMZubg37VoqD4POjOXE91Q45s0Bh5ZIPGkTgubrDqOow&udm=8&sa=X&ved=2ahUKEwjAp8zjs5CXAxX8v4kEHQfzLuEQkbEKegQIHRAE",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=pe&google_domain=google.com&hl=es&location=Peru&q=Data+Engineer+remoto+en+la+%C3%BAltima+semana&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rdLPaf_8xfwxpFkO4dCwU4QpBiP4OiZt65hHNg1rOj1lr84n5izdKdkew3fKWT86bKJepWoHRHQYxLXN_dF3rOkqeQ7HzT3-GDS3VEcsALlMLxVXQAYInCoZiWeLfdeC3UxFsXbl4sgBNz25Iyt0M8LYXzTkcYsOvxzKmFFz7rchdk1JLcJ0lexKCdtUighp5KnUZzufHlxBk_Rl2A3HEmSyLpPIBzft8H--IFKBbOCBn0CYyQmXCSlqxz_A8x_x0AXYNH80IEh4kZVVeCF-Qf0dmaeiSBvB5_Y8PgA3XfeuDVM13lyk-n9ZaX9oiYhCM5WokheWKMQP3kaPtIKoZyH3yKIXMZubg37VoqD4POjOXE91Q45s0Bh5ZIPGkTgubrDqOow"
+        },
+        {
+          "name": "Último mes",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4rbEuBYaSZikTI9rl4Hr1eijYZN8x4ayih80wh7IVw4fpJBSdJohx1lNqfji_cJCvDLQVjLaCkDDbdqNR7fnIjLSrSKrKN7Id5d0L0iks3UrtXdYgExf3ALNUWJPA-EW9XUMGCfVnGNTbSXRLOctqv9cpqU7kyGGPwqSEz5KlH8mqY_EJopzPJxHIloDmfsPpgcIVK8P7cyCF51bNQuLLR5KoCSbJ7QpP9NT3uJHO1GLYSwNCP_2iO9LmS1XN7Fv-eAv8CnMrOgzdHoK_AgBwCZZ1uTneBjXfT8ZHy4rxxV2pAl2NQNlCsjpGXmXIMiSeP6A43X9Gr6urGt_pgKllKHljzvqa1XBO91vQ9YsSQg6ST_sTiMZKkiKycZWB0XFUXDuKDZg",
+            "q": "Data Engineer remoto en el último mes"
+          },
+          "link": "https://www.google.com/search?sca_esv=2d6c5a1e6a3d194c&hl=es&gl=pe&sxsrf=APpeQnvLoyhXn8wH72KWLxrlmVcXR9TvdQ:1790568584916&q=Data+Engineer+remoto+en+el+%C3%BAltimo+mes&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rbEuBYaSZikTI9rl4Hr1eijYZN8x4ayih80wh7IVw4fpJBSdJohx1lNqfji_cJCvDLQVjLaCkDDbdqNR7fnIjLSrSKrKN7Id5d0L0iks3UrtXdYgExf3ALNUWJPA-EW9XUMGCfVnGNTbSXRLOctqv9cpqU7kyGGPwqSEz5KlH8mqY_EJopzPJxHIloDmfsPpgcIVK8P7cyCF51bNQuLLR5KoCSbJ7QpP9NT3uJHO1GLYSwNCP_2iO9LmS1XN7Fv-eAv8CnMrOgzdHoK_AgBwCZZ1uTneBjXfT8ZHy4rxxV2pAl2NQNlCsjpGXmXIMiSeP6A43X9Gr6urGt_pgKllKHljzvqa1XBO91vQ9YsSQg6ST_sTiMZKkiKycZWB0XFUXDuKDZg&udm=8&sa=X&ved=2ahUKEwjAp8zjs5CXAxX8v4kEHQfzLuEQkbEKegQIHRAF",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=pe&google_domain=google.com&hl=es&location=Peru&q=Data+Engineer+remoto+en+el+%C3%BAltimo+mes&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rbEuBYaSZikTI9rl4Hr1eijYZN8x4ayih80wh7IVw4fpJBSdJohx1lNqfji_cJCvDLQVjLaCkDDbdqNR7fnIjLSrSKrKN7Id5d0L0iks3UrtXdYgExf3ALNUWJPA-EW9XUMGCfVnGNTbSXRLOctqv9cpqU7kyGGPwqSEz5KlH8mqY_EJopzPJxHIloDmfsPpgcIVK8P7cyCF51bNQuLLR5KoCSbJ7QpP9NT3uJHO1GLYSwNCP_2iO9LmS1XN7Fv-eAv8CnMrOgzdHoK_AgBwCZZ1uTneBjXfT8ZHy4rxxV2pAl2NQNlCsjpGXmXIMiSeP6A43X9Gr6urGt_pgKllKHljzvqa1XBO91vQ9YsSQg6ST_sTiMZKkiKycZWB0XFUXDuKDZg"
+        }
+      ]
+    },
+    {
+      "name": "Fecha de publicación",
+      "options": [
+        {
+          "name": "Ayer",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4r3dv6TGVRfd6DXtZirxI0o6xKXghaCEv96Sm31YQzcqeN3jJpLjF5Xj4M2G2-nVFS45Htq5y25dYegTEX6R5iKoGfuG2JoaK8c8DYTzZ4-ghfXv1Tg4af68mAgzZ9icV6nrpp5a4r2ZglmNZRe0hmIBfBDJKC0N3_MQRbyBHNxg0PsHy5oRuxoIvzD9Q3kgxdlBtUV8u6cuTIeUeLZ_psFDAfoIMpkMY4gPbXTn-PJ8nVNvUFsG1ZVwyf2i3Fb4nYpcw2fV5NIr9a4KksH1K125w6LnvnRa43YKmL8VJmYMN-TjtNOWr-ub3hKMEx2xtstdMHy1TdGR8d7jAU3zFqw2Nkjuf8Q-VaW-eSHhbVHtxuAMmpyMbWyehZGe_siugbd57IDA",
+            "q": "Data Engineer remoto desde ayer"
+          },
+          "link": "https://www.google.com/search?sca_esv=2d6c5a1e6a3d194c&hl=es&gl=pe&sxsrf=APpeQnvLoyhXn8wH72KWLxrlmVcXR9TvdQ:1790568584916&q=Data+Engineer+remoto+desde+ayer&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4r3dv6TGVRfd6DXtZirxI0o6xKXghaCEv96Sm31YQzcqeN3jJpLjF5Xj4M2G2-nVFS45Htq5y25dYegTEX6R5iKoGfuG2JoaK8c8DYTzZ4-ghfXv1Tg4af68mAgzZ9icV6nrpp5a4r2ZglmNZRe0hmIBfBDJKC0N3_MQRbyBHNxg0PsHy5oRuxoIvzD9Q3kgxdlBtUV8u6cuTIeUeLZ_psFDAfoIMpkMY4gPbXTn-PJ8nVNvUFsG1ZVwyf2i3Fb4nYpcw2fV5NIr9a4KksH1K125w6LnvnRa43YKmL8VJmYMN-TjtNOWr-ub3hKMEx2xtstdMHy1TdGR8d7jAU3zFqw2Nkjuf8Q-VaW-eSHhbVHtxuAMmpyMbWyehZGe_siugbd57IDA&udm=8&sa=X&ved=2ahUKEwjAp8zjs5CXAxX8v4kEHQfzLuEQkbEKegQIHRAC",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=pe&google_domain=google.com&hl=es&location=Peru&q=Data+Engineer+remoto+desde+ayer&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4r3dv6TGVRfd6DXtZirxI0o6xKXghaCEv96Sm31YQzcqeN3jJpLjF5Xj4M2G2-nVFS45Htq5y25dYegTEX6R5iKoGfuG2JoaK8c8DYTzZ4-ghfXv1Tg4af68mAgzZ9icV6nrpp5a4r2ZglmNZRe0hmIBfBDJKC0N3_MQRbyBHNxg0PsHy5oRuxoIvzD9Q3kgxdlBtUV8u6cuTIeUeLZ_psFDAfoIMpkMY4gPbXTn-PJ8nVNvUFsG1ZVwyf2i3Fb4nYpcw2fV5NIr9a4KksH1K125w6LnvnRa43YKmL8VJmYMN-TjtNOWr-ub3hKMEx2xtstdMHy1TdGR8d7jAU3zFqw2Nkjuf8Q-VaW-eSHhbVHtxuAMmpyMbWyehZGe_siugbd57IDA"
+        },
+        {
+          "name": "Últimos 3 días",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4rsIrUljaPH9okET3XT5Wp29C0FQ51D_JOocK01pUQcvDG6_08Hk0daCTGkqH4Xvf1OyIxh3_uvqvTbvLmJwT-kzGNrYsh0ZDtuTQYDdYB1JVJj6pKlQOPCgu7kFrG8Y2fQiHilmYRiPuA6jEbtWwEbbjpBhuPQ-PHzS2Yrrnxys8pegBgMbjzBOaJTRmjSUjWZkoM8ZtGua9WFnXeaeBXQMXzFSEv8AHo1-thtF8of2iweKg6OedmMwbzpIHOANcD6aJvNKj_z26EJzjyz4UM6ny_JeUZ-xRwBXEy5NNo3gPaqDAPpxCyWYgeJHXQ2-LfYOHN_YQyQKunsmasBESRqa5EM-BiXPBn8UGG7cSoQL3_hriTCa4-1AKWZ6yqi3XqIZYy8g",
+            "q": "Data Engineer remoto en los últimos 3 días"
+          },
+          "link": "https://www.google.com/search?sca_esv=2d6c5a1e6a3d194c&hl=es&gl=pe&sxsrf=APpeQnvLoyhXn8wH72KWLxrlmVcXR9TvdQ:1790568584916&q=Data+Engineer+remoto+en+los+%C3%BAltimos+3+d%C3%ADas&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rsIrUljaPH9okET3XT5Wp29C0FQ51D_JOocK01pUQcvDG6_08Hk0daCTGkqH4Xvf1OyIxh3_uvqvTbvLmJwT-kzGNrYsh0ZDtuTQYDdYB1JVJj6pKlQOPCgu7kFrG8Y2fQiHilmYRiPuA6jEbtWwEbbjpBhuPQ-PHzS2Yrrnxys8pegBgMbjzBOaJTRmjSUjWZkoM8ZtGua9WFnXeaeBXQMXzFSEv8AHo1-thtF8of2iweKg6OedmMwbzpIHOANcD6aJvNKj_z26EJzjyz4UM6ny_JeUZ-xRwBXEy5NNo3gPaqDAPpxCyWYgeJHXQ2-LfYOHN_YQyQKunsmasBESRqa5EM-BiXPBn8UGG7cSoQL3_hriTCa4-1AKWZ6yqi3XqIZYy8g&udm=8&sa=X&ved=2ahUKEwjAp8zjs5CXAxX8v4kEHQfzLuEQkbEKegQIHRAD",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=pe&google_domain=google.com&hl=es&location=Peru&q=Data+Engineer+remoto+en+los+%C3%BAltimos+3+d%C3%ADas&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rsIrUljaPH9okET3XT5Wp29C0FQ51D_JOocK01pUQcvDG6_08Hk0daCTGkqH4Xvf1OyIxh3_uvqvTbvLmJwT-kzGNrYsh0ZDtuTQYDdYB1JVJj6pKlQOPCgu7kFrG8Y2fQiHilmYRiPuA6jEbtWwEbbjpBhuPQ-PHzS2Yrrnxys8pegBgMbjzBOaJTRmjSUjWZkoM8ZtGua9WFnXeaeBXQMXzFSEv8AHo1-thtF8of2iweKg6OedmMwbzpIHOANcD6aJvNKj_z26EJzjyz4UM6ny_JeUZ-xRwBXEy5NNo3gPaqDAPpxCyWYgeJHXQ2-LfYOHN_YQyQKunsmasBESRqa5EM-BiXPBn8UGG7cSoQL3_hriTCa4-1AKWZ6yqi3XqIZYy8g"
+        },
+        {
+          "name": "Última semana",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4rdLPaf_8xfwxpFkO4dCwU4QpBiP4OiZt65hHNg1rOj1lr84n5izdKdkew3fKWT86bKJepWoHRHQYxLXN_dF3rOkqeQ7HzT3-GDS3VEcsALlMLxVXQAYInCoZiWeLfdeC3UxFsXbl4sgBNz25Iyt0M8LYXzTkcYsOvxzKmFFz7rchdk1JLcJ0lexKCdtUighp5KnUZzufHlxBk_Rl2A3HEmSyLpPIBzft8H--IFKBbOCBn0CYyQmXCSlqxz_A8x_x0AXYNH80IEh4kZVVeCF-Qf0dmaeiSBvB5_Y8PgA3XfeuDVM13lyk-n9ZaX9oiYhCM5WokheWKMQP3kaPtIKoZyH3yKIXMZubg37VoqD4POjOXE91Q45s0Bh5ZIPGkTgubrDqOow",
+            "q": "Data Engineer remoto en la última semana"
+          },
+          "link": "https://www.google.com/search?sca_esv=2d6c5a1e6a3d194c&hl=es&gl=pe&sxsrf=APpeQnvLoyhXn8wH72KWLxrlmVcXR9TvdQ:1790568584916&q=Data+Engineer+remoto+en+la+%C3%BAltima+semana&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rdLPaf_8xfwxpFkO4dCwU4QpBiP4OiZt65hHNg1rOj1lr84n5izdKdkew3fKWT86bKJepWoHRHQYxLXN_dF3rOkqeQ7HzT3-GDS3VEcsALlMLxVXQAYInCoZiWeLfdeC3UxFsXbl4sgBNz25Iyt0M8LYXzTkcYsOvxzKmFFz7rchdk1JLcJ0lexKCdtUighp5KnUZzufHlxBk_Rl2A3HEmSyLpPIBzft8H--IFKBbOCBn0CYyQmXCSlqxz_A8x_x0AXYNH80IEh4kZVVeCF-Qf0dmaeiSBvB5_Y8PgA3XfeuDVM13lyk-n9ZaX9oiYhCM5WokheWKMQP3kaPtIKoZyH3yKIXMZubg37VoqD4POjOXE91Q45s0Bh5ZIPGkTgubrDqOow&udm=8&sa=X&ved=2ahUKEwjAp8zjs5CXAxX8v4kEHQfzLuEQkbEKegQIHRAE",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=pe&google_domain=google.com&hl=es&location=Peru&q=Data+Engineer+remoto+en+la+%C3%BAltima+semana&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rdLPaf_8xfwxpFkO4dCwU4QpBiP4OiZt65hHNg1rOj1lr84n5izdKdkew3fKWT86bKJepWoHRHQYxLXN_dF3rOkqeQ7HzT3-GDS3VEcsALlMLxVXQAYInCoZiWeLfdeC3UxFsXbl4sgBNz25Iyt0M8LYXzTkcYsOvxzKmFFz7rchdk1JLcJ0lexKCdtUighp5KnUZzufHlxBk_Rl2A3HEmSyLpPIBzft8H--IFKBbOCBn0CYyQmXCSlqxz_A8x_x0AXYNH80IEh4kZVVeCF-Qf0dmaeiSBvB5_Y8PgA3XfeuDVM13lyk-n9ZaX9oiYhCM5WokheWKMQP3kaPtIKoZyH3yKIXMZubg37VoqD4POjOXE91Q45s0Bh5ZIPGkTgubrDqOow"
+        },
+        {
+          "name": "Último mes",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4rbEuBYaSZikTI9rl4Hr1eijYZN8x4ayih80wh7IVw4fpJBSdJohx1lNqfji_cJCvDLQVjLaCkDDbdqNR7fnIjLSrSKrKN7Id5d0L0iks3UrtXdYgExf3ALNUWJPA-EW9XUMGCfVnGNTbSXRLOctqv9cpqU7kyGGPwqSEz5KlH8mqY_EJopzPJxHIloDmfsPpgcIVK8P7cyCF51bNQuLLR5KoCSbJ7QpP9NT3uJHO1GLYSwNCP_2iO9LmS1XN7Fv-eAv8CnMrOgzdHoK_AgBwCZZ1uTneBjXfT8ZHy4rxxV2pAl2NQNlCsjpGXmXIMiSeP6A43X9Gr6urGt_pgKllKHljzvqa1XBO91vQ9YsSQg6ST_sTiMZKkiKycZWB0XFUXDuKDZg",
+            "q": "Data Engineer remoto en el último mes"
+          },
+          "link": "https://www.google.com/search?sca_esv=2d6c5a1e6a3d194c&hl=es&gl=pe&sxsrf=APpeQnvLoyhXn8wH72KWLxrlmVcXR9TvdQ:1790568584916&q=Data+Engineer+remoto+en+el+%C3%BAltimo+mes&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rbEuBYaSZikTI9rl4Hr1eijYZN8x4ayih80wh7IVw4fpJBSdJohx1lNqfji_cJCvDLQVjLaCkDDbdqNR7fnIjLSrSKrKN7Id5d0L0iks3UrtXdYgExf3ALNUWJPA-EW9XUMGCfVnGNTbSXRLOctqv9cpqU7kyGGPwqSEz5KlH8mqY_EJopzPJxHIloDmfsPpgcIVK8P7cyCF51bNQuLLR5KoCSbJ7QpP9NT3uJHO1GLYSwNCP_2iO9LmS1XN7Fv-eAv8CnMrOgzdHoK_AgBwCZZ1uTneBjXfT8ZHy4rxxV2pAl2NQNlCsjpGXmXIMiSeP6A43X9Gr6urGt_pgKllKHljzvqa1XBO91vQ9YsSQg6ST_sTiMZKkiKycZWB0XFUXDuKDZg&udm=8&sa=X&ved=2ahUKEwjAp8zjs5CXAxX8v4kEHQfzLuEQkbEKegQIHRAF",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=pe&google_domain=google.com&hl=es&location=Peru&q=Data+Engineer+remoto+en+el+%C3%BAltimo+mes&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rbEuBYaSZikTI9rl4Hr1eijYZN8x4ayih80wh7IVw4fpJBSdJohx1lNqfji_cJCvDLQVjLaCkDDbdqNR7fnIjLSrSKrKN7Id5d0L0iks3UrtXdYgExf3ALNUWJPA-EW9XUMGCfVnGNTbSXRLOctqv9cpqU7kyGGPwqSEz5KlH8mqY_EJopzPJxHIloDmfsPpgcIVK8P7cyCF51bNQuLLR5KoCSbJ7QpP9NT3uJHO1GLYSwNCP_2iO9LmS1XN7Fv-eAv8CnMrOgzdHoK_AgBwCZZ1uTneBjXfT8ZHy4rxxV2pAl2NQNlCsjpGXmXIMiSeP6A43X9Gr6urGt_pgKllKHljzvqa1XBO91vQ9YsSQg6ST_sTiMZKkiKycZWB0XFUXDuKDZg"
+        }
+      ]
+    }
+  ],
+  "jobs_results": [
+    {
+      "title": "Senior Data Engineer AI DLC - REMOTE",
+      "company_name": "Protecso",
+      "location": "Lima",
+      "via": "BeBee",
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Data+Engineer+remoto&htidocid=OrJQE2y3I8SyW801AAAAAA%3D%3D&hl=es-PE&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_x3MsQrCMBAAUFw7OTvdLNiI4FInaYsIFUXdy7U90pQ0F3MR-iF-jas_Jrq88SWvWZLfyBkOUGBEKJ02jijA_ghFlcMKruXpfC8zaD5veTypQ-gIaPSWGMjBgVlbWuz6GL1kSonYVEvEaNq05VGxo4YnNXAjP2rpMZC3GKnebNdT6p1ezi-BI7XyDysz4hdax1YKlwAAAA&shmds=v1_ARwrE21kogerRtrfNv76cmCjOeY4k0DsS3XMJv3uSsrjY3L5fw&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Data+Engineer+remoto&htidocid=OrJQE2y3I8SyW801AAAAAA%3D%3D",
+      "thumbnail": "https://serpapi.com/searches/6ab9e8856372f3af394a1a33/images/lhKhVdiJuvCgykowxuA9VkuHKT3mPrL7kD0MTTe979c.jpeg",
+      "extensions": [
+        "hace 2 días",
+        "Tiempo completo"
+      ],
+      "source_link": "https://bebee.com/pe/jobs/senior-data-engineer-ai-dlc-remote-protecso-lima--t7xk-854918915",
+      "job_title": "Senior Data Engineer AI DLC - REMOTE",
+      "description": "En Protecso, ofrecemos soluciones de negocios en Outsourcing TI, Managed Services, DevOps as a Service, Soluciones Cloud, Desarrollo Web y Mobile, Automatización de Procesos, Blockchain & IoT, Integración de Sistemas, Business Analytics, HubSpot, LeanFlows. Estamos guiados por valores, que aman lo que hacen y saben que todo es posible. En esta oportunidad nos encontramos en la búsqueda de profesionales para el cargo de:\n\n\n🚀 Senior Data Engineer - Remoto\n\n\n✅ ROLE AND RESPONSIBILITIES:\n\n\nAI-AUGMENTED PIPELINE DEVELOPMENT & AUTOMATION\n\n\nDevelop, construct, and maintain large-scale data processing systems that collect data from a variety of structured and unstructured sources — using AI code generation tools to accelerate pipeline authoring, reduce boilerplate, and improve code quality.Build and optimize ELT pipelines using AI-assisted tooling to identify bottlenecks, suggest optimizations, and automate routine pipeline maintenance tasks.Identify, design, and implement internal process improvements: use AI to automate manual processes, optimize data delivery, and re-design infrastructure for greater scalability — replacing manual analysis with AI-driven discovery of improvement opportunities.Build the infrastructure required for optimal extraction, transformation, and loading of data from various sources; use AI to accelerate infrastructure-as-code authoring and configuration.\nAI-READY DATA PREPARATION & ML ENABLEMENT\nPrepare data for data scientist exploration and discovery using AI-assisted data profiling and quality assessment tools — surfacing anomalies, schema drift, and data gaps faster than manual inspection allows.Perform data wrangling and munging for downstream analytics and machine learning; leverage AI tools to generate and validate transformation logic against business rules.Assemble large, complex datasets that meet functional and non-functional business requirements; use AI to rapidly evaluate dimensional modeling approaches and ontology alignment strategies.Enable large-scale machine learning by designing and maintaining annotated datasets, elastic search approaches, and scalable data lake structures that support AI/ML workloads.\nANALYTICS PIPELINE & INSIGHT GENERATION\nCreate and maintain analytics pipelines that generate data and insight to power business decision-making; use AI-assisted analysis to proactively surface trends, anomalies, and opportunities within pipeline outputs.Collaborate with data scientists, analysts, and business stakeholders on requirements for dimensional modeling, distributed ETL pipelines, and cross-repository data migration.Evaluate, compare, and improve design patterns, data lifecycle approaches, and data ontology alignment — using AI to model trade-offs and accelerate proof-of-concept validation.Work with data and analytics experts to continuously improve the functionality, reliability, and intelligence of data systems.\nROOT CAUSE ANALYSIS & QUALITY MANAGEMENT\nPerform root cause analysis on internal and external data and processes using AI-assisted investigation tools — replacing slow, manual log and lineage review with faster, AI-accelerated diagnostics.Develop and maintain data quality frameworks; use AI to automate anomaly detection, schema validation, and data contract enforcement across pipelines.Develop a strong understanding of company domains, strategic direction, and user needs to ensure data systems are aligned to business outcomes, not just technical requirements.\n✅ QUALIFICATIONS AND REQUIREMENTS:\n4+ years of experience in a Data Engineer role.Graduate degree in Computer Science, Statistics, Informatics, Information Systems, or another quantitative field.Advanced SQL knowledge and experience with relational databases and query authoring.Required: Demonstrated, hands-on experience using AI tools to accelerate data engineering tasks — pipeline development, data quality automation, code generation, or root cause analysis — with specific examples you can speak to.Experience building and optimizing data pipelines, architectures, and datasets.Strong analytic skills working with unstructured and disconnected datasets.Experience with big data tools: Hadoop, Spark, Kafka, etc.Experience with relational and NoSQL databases including Postgres and Cassandra.Experience with pipeline and workflow management tools: Airflow, Luigi, Azkaban, or similar.Experience with AWS cloud services: EC2, EMR, RDS, Redshift.Experience with stream-processing systems: Storm, Spark Streaming, or similar.Working knowledge of message queuing, stream processing, and highly scalable data stores.Proficiency in object-oriented/scripting languages: Python, Java, Scala, C++, or similar.Experience supporting cross-functional teams in dynamic, agile environments.\n✅*\nPREFERRED EXPERIENCE\n*:\nExperience designing or supporting data infrastructure for AI/ML model training, including annotated datasets and feature stores.Familiarity with AI-assisted data quality or observability platforms (e.g., Monte Carlo, Soda, or similar).Experience with LLM-based data processing pipelines or retrieval-augmented generation (RAG) architectures.Healthcare data experience; familiarity with FHIR/HL7 standards a plus.Bilingual — Spanish and English.\n✅\nCondiciones\n:\n\nModalidad\nREMOTA\n.\nHorario laboral de lunes a viernes de 8:30 a.m. a 6:30 p.m.\nRemuneración acorde al mercado laboral.\nContrato en planilla de PROTECSO.\nIngreso inmediato.\n\n->> ACTUALIZA TU CV PARA QUE SE ASEMEJE A ESTA VACANTE.\n¡Ven y únete al equipo de PROTECSO!. Te esperamos para ser parte de los grandes desafíos...",
+      "apply_options": [
+        {
+          "title": "BeBee",
+          "link": "https://bebee.com/pe/jobs/senior-data-engineer-ai-dlc-remote-protecso-lima--t7xk-854918915?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Jobrapido.com",
+          "link": "https://pe.jobrapido.com/jobpreview/3172968385545764864?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Front Nova",
+          "link": "https://27.hostingdata.infinityfree.me/remote-jobs/senior-data-engineer-is-remote-1?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJTZW5pb3IgRGF0YSBFbmdpbmVlciBBSSBETEMgLSBSRU1PVEUiLCJjb21wYW55X25hbWUiOiJQcm90ZWNzbyIsImh0aWRvY2lkIjoiT3JKUUUyeTNJOFN5VzgwMUFBQUFBQT09IiwidXVsZSI6IncrQ0FJUUlDSUVVR1Z5ZFEiLCJnbCI6InBlIiwiaGwiOiJlcyIsImZjIjoiRXN3QkNvd0JRVXBwVkRSMFNXeGhWWFIxZGxaNlkyWmFiWGxIUzA0eU9EQjBUek41ZDA1WlNHeFNXRkpNWVY5VFgxUjBabXd4UTJwUGFGUm9SREpCYjBaUGR6Rk5XQzFDTTA1RVVWOHpaSFZWT0VGb1V6QnBaVGxYYjA1UFlUVkxhVEI0VUhGRVUwaENVbVJtYkdSaWVIcFNRMEZpWlZKamRERXlXamRwWkVsM1ZtYzBVbUZUYkRSNWFtSnNOblZKU0UwU0YybFBhVFZoYzBSRVRsOTZYM0IwVVZCb0xXRTNhVkUwR2lKQlJITnlPV1pSZFdwS1QzZEJZMG81TkhnNU4yTmthbTVGTm1rMlpXaElSM1YzIiwiZmN2IjoiMyIsImZjX2lkIjoiT3JKUUUyeTNJOFN5VzgwMUFBQUFBQT09In0="
+    },
+    {
+      "title": "Remote Data Engineer (Surquillo)",
+      "company_name": "Bluelight Consulting",
+      "location": "Surquillo",
+      "via": "Jobrapido.com",
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Data+Engineer+remoto&htidocid=xOQD5BR6Iwz1OLrgAAAAAA%3D%3D&hl=es-PE&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_z3NPQ7CMAxAYbH2CExmA4YGIbGUAYkfscMBqrS10iAnTmtH6nW4BisXQ11Y3vi94r0oTg8MrAhXqxZu0fmIOML6mccheyLeVNB8PzJk7Cx0CBgSIQNGuDM7wuWxV01SGSNCpRO16tuy5WA4YsOTeXEjc2rp7YiJrGK9P-ymMkW3XZ0pI3nXK1w4Sib10c34__8DOmkdhaQAAAA&shmds=v1_ARwrE23BI5u73WNgZfUOSmBrfyEa8bh58CDvh9la_4Fz5B6QrA&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Data+Engineer+remoto&htidocid=xOQD5BR6Iwz1OLrgAAAAAA%3D%3D",
+      "extensions": [
+        "hace 1 día",
+        "Tiempo completo"
+      ],
+      "source_link": "https://pe.jobrapido.com/jobpreview/2466963173257773056",
+      "job_title": "Remote Data Engineer (Surquillo)",
+      "description": "Bluelight Consulting LLC is seeking an ETL Data Engineer to develop and maintain data engineering processes in a fast-paced environment. The role involves utilizing Python (PySpark) within Azure Synapse Analytics to create efficient ETL processes while collaborating with data architects to build data storage structures. Candidates should have a Bachelor's degree in Computer Science or related fields and proven experience with Azure and SQL. This position offers adaptable work arrangements and opportunities for continuous professional growth.",
+      "apply_options": [
+        {
+          "title": "Jobrapido.com",
+          "link": "https://pe.jobrapido.com/jobpreview/2466963173257773056?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Kit Empleo",
+          "link": "https://www.kitempleo.pe/empleo/68620838/remote-data-engineer-surquillo?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJSZW1vdGUgRGF0YSBFbmdpbmVlciAoU3VycXVpbGxvKSIsImNvbXBhbnlfbmFtZSI6IkJsdWVsaWdodCBDb25zdWx0aW5nIiwiaHRpZG9jaWQiOiJ4T1FENUJSNkl3ejFPTHJnQUFBQUFBPT0iLCJ1dWxlIjoidytDQUlRSUNJRVVHVnlkUSIsImdsIjoicGUiLCJobCI6ImVzIiwiZmMiOiJFc3dCQ293QlFVcHBWRFIwUzJaWGNVTjNha05QV1ZGd09HWnZXVVpqU1VkTVNWZGxhVWRDTTNRM1JYbGFUWFJpVlhjeU5ETTFSRk50Vm5wRWJqQm9ZeTFITjJkelMzRlhPWFU1YWxkSE1XdHdOVVJ6WmpoMWQydHpMWGsyUzNCVGMySTBja0ZRVHkxS1lsSk1kalp5ZUdsNmNtUnBOMnhQY2tNMGFtaGxPSFl0Wkd0V2JUWjBOa2hIZVhsR1VFUktNRzRTRjJsUGFUVmhjMFJFVGw5NlgzQjBVVkJvTFdFM2FWRTBHaUpCUkhOeU9XWlRMVTlIZWtoSlIwTmpWelJyZG1KUVdsRjRhRlpTVlRRMlZFeFIiLCJmY3YiOiIzIiwiZmNfaWQiOiJ4T1FENUJSNkl3ejFPTHJnQUFBQUFBPT0ifQ=="
+    },
+    {
+      "title": "Senior Data Engineer, Azure",
+      "company_name": "XenonStack Moments",
+      "location": "Perú",
+      "via": "LinkedIn",
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Data+Engineer+remoto&htidocid=RigKjRI91qwCM813AAAAAA%3D%3D&hl=es-PE&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_xXMMQrCQBAFUGxzBG2mFsmKYBMrQbEShDR2YZN8NtHNTNzZQPAgHiZtLiZpXvmS3yrJcnArgS42WrqyaxkIOzp_h4CMynnSz4DaUg1C13sIgekm4jzWpybGXjNjVH3qNNrYVmklnRFGKaN5SakLhTY2oPc2ojgc92Pas9tunmDhPNrqTXfpwFGX-oEwT39TbnmTmQAAAA&shmds=v1_ARwrE21XuxpO-8tIQKKcKGZuIhPgyV-ICC_GL1-NiwdoRLUrMg&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Data+Engineer+remoto&htidocid=RigKjRI91qwCM813AAAAAA%3D%3D",
+      "thumbnail": "https://serpapi.com/searches/6ab9e8856372f3af394a1a33/images/uxHfMoZ8_LuGatcFwErmhSWj6y2X4nF1dBeq2waR-FQ.jpeg",
+      "extensions": [
+        "hace 2 días",
+        "Tiempo completo"
+      ],
+      "source_link": "https://pe.linkedin.com/jobs/view/senior-data-engineer-azure-at-xenonstack-moments-4472273555",
+      "job_title": "Senior Data Engineer, Azure",
+      "description": "About Xenonstack\n\nXenonStack is a Data and AI Foundry for Agentic Systems, enabling enterprises to design, deploy, operate, and scale intelligent agents across digital and physical environments.\n\nWe Build Enterprise-grade Platforms Across The Agentic Stack\n\nAkira AI — Reasoning and agent orchestration. Turn models into collaborative, policy-governed agents that learn and act together.ElixirData — Agentic analytics intelligence. Explainable, decision-centric analytics for measurable business outcomes.NexaStack — Agentic infrastructure automation. Secure, compliant AI deployment across cloud, edge, and on-prem.MetaSecure — Trust, compliance and defense. Continuous assurance with AI-BOMs, risk scoring, and agentic security.\n\nOur mission is to accelerate the world’s transition to AI + Human Intelligence by making agentic systems reliable, responsible, and enterprise-ready.",
+      "apply_options": [
+        {
+          "title": "LinkedIn",
+          "link": "https://pe.linkedin.com/jobs/view/senior-data-engineer-azure-at-xenonstack-moments-4472273555?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJTZW5pb3IgRGF0YSBFbmdpbmVlciwgQXp1cmUiLCJjb21wYW55X25hbWUiOiJYZW5vblN0YWNrIE1vbWVudHMiLCJodGlkb2NpZCI6IlJpZ0tqUkk5MXF3Q004MTNBQUFBQUE9PSIsInV1bGUiOiJ3K0NBSVFJQ0lFVUdWeWRRIiwiZ2wiOiJwZSIsImhsIjoiZXMiLCJmYyI6IkVzd0JDb3dCUVVwcFZEUjBTamd6TURoTlVsVjJTbFk1UWxJNGNVeFVUVlZPTkRjNFYzVnVUVGt5Y1djdFF6RnNRVUpNWW1vM1NISlRjek10V1RKaFpFSk1YMDUyTFU5cU1qTlhORzlUV1hWdmJXcDBNMHQ1T0U4d1JrMHRUMEZIWVZsNlgzSmpZVXRRVG5obVZXbGlUV2t4WVdKMGRUSlNSVVJHUjFWdFlqZFVOelJNVjJnMWFVSTNhbnB5VmpGQ2FrMFNGMmxQYVRWaGMwUkVUbDk2WDNCMFVWQm9MV0UzYVZFMEdpSkJSSE55T1daVWVqazRNR0ZPZGxSbGMySlZjR2ROZG1kV1NWaHFNMjF5T0ZSbiIsImZjdiI6IjMiLCJmY19pZCI6IlJpZ0tqUkk5MXF3Q004MTNBQUFBQUE9PSJ9"
+    },
+    {
+      "title": "Stellus - Data Engineer",
+      "company_name": "SGF Global",
+      "location": "Perú",
+      "via": "Trabajo.org",
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Data+Engineer+remoto&htidocid=pgLecBfjoXlJAV3EAAAAAA%3D%3D&hl=es-PE&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_xXMsQ6CQAwA0Liyujl1NpEzJjrgqrKa8AGkB82BKdeTloRv8JNY-THD8saX_XbZrTJinhRO8EBDeMbQR6KxAL8u-p2oRWgJaEhMAhShFAlMh3tnlrRwTpXzoIbWN3kjg5NIXmb3Ea8btXY4UmI0qi_X85ynGI77qnxByeKRt_JN47r8AeuYLAWNAAAA&shmds=v1_ARwrE238OBo62J4OMcfA4kPPU2Yaytw996EysdluSb8QIKNSog&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Data+Engineer+remoto&htidocid=pgLecBfjoXlJAV3EAAAAAA%3D%3D",
+      "extensions": [
+        "hace 4 días",
+        "De EUR 30 a EUR 33 por hora",
+        "Tiempo completo"
+      ],
+      "source_link": "https://pe.trabajo.org/oferta-4085-fb70a791760d22799b143f6c04cd304c",
+      "job_title": "Stellus - Data Engineer",
+      "description": "Job Title: Data Engineer\n\nLocation: Remote within LATAM, Peru is preferred\n\nEmployment Type: Contract\n\nAbout the Role\n\nWe are looking for a bilingual, motivated, and detail-oriented Data Engineer to join our client's team in the healthcare sector. In this role, you will contribute to designing, building, and optimizing scalable data solutions that support data migration, analytics, reporting, and operational efficiencies.\n\nResponsibilities\n\nDesign, develop, and maintain scalable data pipelines and ELT processes.Build and optimize data solutions within the Snowflake ecosystem.Develop and maintain DBT transformations and data models.Design and implement API-based integrations between Salesforce and enterprise data platforms.Support the migration and consolidation of data from legacy platforms into Stellus Rx's modern cloud environment.Ensure data quality, governance, reliability, security, and scalability across all solutions.Leverage AI-assisted development tools to accelerate delivery, improve engineering productivity, and reduce manual effort.Requirements\n\n5 years of experience as a Data Engineer.Strong hands-on expertise with Snowflake.Experience developing and maintaining DBT models and transformations.Advanced SQL development skills.Experience building and optimizing scalable ELT/ETL data pipelines.Fluent Spanish and professional English communication skills.Experience leveraging AI-assisted development tools to improve productivity.Preferred Qualifications (if any)\n\nExperience applying AI-Assisted Development Lifecycle (AI-DLC) practices.Experience with Airflow or similar workflow orchestration tools.Python development experience.Healthcare or Pharmacy industry experience.Salary & Benefits (Optional)\n\nRate: $30-$33/hr\n\nCompany-provided equipment\n\nWho We Are\n\nSGF Global is an integrated talent solutions provider, offering staffing, recruitment, Employer of Record (EOR), nearshore, and consulting services across a wide range of industries in 35 countries. We’re a dynamic, people-first organization where fresh ideas are always welcome. Our culture is built on collaboration, innovation, and a genuine passion for helping people grow. At SGF Global, smiles are part of the dress code, and every voice matters.\n\nAre you looking to join an organization where your ideas are valued, your growth is supported, and your work makes a global impact? We’re always looking for talented individuals who are ready to make a difference.\n\nExplore opportunitiesGrow your careerBe part of something globalYour future starts here.",
+      "apply_options": [
+        {
+          "title": "Trabajo.org",
+          "link": "https://pe.trabajo.org/oferta-4085-fb70a791760d22799b143f6c04cd304c?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Jobiglo",
+          "link": "https://pe.jobiglo.com/emploi-data-engineer-data-conversions-j-6aa123c57003e8641e076410?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJTdGVsbHVzIC0gRGF0YSBFbmdpbmVlciIsImNvbXBhbnlfbmFtZSI6IlNHRiBHbG9iYWwiLCJodGlkb2NpZCI6InBnTGVjQmZqb1hsSkFWM0VBQUFBQUE9PSIsInV1bGUiOiJ3K0NBSVFJQ0lFVUdWeWRRIiwiZ2wiOiJwZSIsImhsIjoiZXMiLCJmYyI6IkVzd0JDb3dCUVVwcFZEUjBTVXRFY2xsdWIxbGtjVE41U0VJNFJEWTFlWFJIUzNFdGJtNWtOMHR2U2xkZmJXMWpTRlZ6VlRscGVsUnRlbTlvZGxGc2MycG9WV3hoWDI5VE5IZzRZemN5YWxac1VIcElla1JsTmpNMFVFNTFTVTV3V0U5clpsTmxiR2hHYlZaYU5teG9WVk15WXpaVVZGQjFhVTAyTXpKUFRqQkxibEJCZWs1T1R6bERTbXhOTlVKa2Vta1NGMmxQYVRWaGMwUkVUbDk2WDNCMFVWQm9MV0UzYVZFMEdpSkJSSE55T1daUk1EaDFTbkJVVFZWbWRucHFOV2gwY25oVlZIVjRWbTg0ZGpabiIsImZjdiI6IjMiLCJmY19pZCI6InBnTGVjQmZqb1hsSkFWM0VBQUFBQUE9PSJ9"
+    },
+    {
+      "title": "Remote Azure Data Engineer (Callao)",
+      "company_name": "Bluelight Consulting",
+      "location": "Callao",
+      "via": "Jobrapido.com",
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Data+Engineer+remoto&htidocid=WwpZiTm9kQmWWYnDAAAAAA%3D%3D&hl=es-PE&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_yXNMQrCQBBAUWxzBAuZUi2yIthoZaLYe4EwSYZNZLKzZmYheBuvYevFJNj88v3svciKOw1iBOdXGgkuaAjX4PtANMK6RGaUzRHq70efiVqEloCGyCRAAW4inml56syiHp1T5dyrofVN3sjgJFAtk3tIrXMq7XCkyGhU7Q-7KY_Bb1cFJ-LedwalBE1sffAz_p__AM3b0f6kAAAA&shmds=v1_ARwrE21dHGgLYX2jQ_nM97xI4JR0ay23P3-aCCS4rBbuH_Q0iQ&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Data+Engineer+remoto&htidocid=WwpZiTm9kQmWWYnDAAAAAA%3D%3D",
+      "extensions": [
+        "hace 1 día",
+        "Tiempo completo"
+      ],
+      "source_link": "https://pe.jobrapido.com/jobpreview/1818126174702796800",
+      "job_title": "Remote Azure Data Engineer (Callao)",
+      "description": "Bluelight Consulting LLC is seeking a skilled ETL Data Engineer to develop and maintain data processes using Python (PySpark) within Azure Synapse Analytics. In this role, you'll design data storage structures and ensure data quality, contributing to impactful projects in a collaborative environment.  \n\nIdóneo candidates will possess a Bachelor's degree in Computer Science and relevant ETL experience. The position offers competitive salary, flexible hours, and opportunities for professional development.",
+      "apply_options": [
+        {
+          "title": "Jobrapido.com",
+          "link": "https://pe.jobrapido.com/jobpreview/1818126174702796800?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJSZW1vdGUgQXp1cmUgRGF0YSBFbmdpbmVlciAoQ2FsbGFvKSIsImNvbXBhbnlfbmFtZSI6IkJsdWVsaWdodCBDb25zdWx0aW5nIiwiaHRpZG9jaWQiOiJXd3BaaVRtOWtRbVdXWW5EQUFBQUFBPT0iLCJ1dWxlIjoidytDQUlRSUNJRVVHVnlkUSIsImdsIjoicGUiLCJobCI6ImVzIiwiZmMiOiJFc3dCQ293QlFVcHBWRFIwVEU1eGN6WmpVbXRTWVVOZlUwSnROMnBXV2xSUlVXNXNkbTlVTjNJNVNHbFpVMmxyWW1OQlVIVlRTa2xzVVVFMVFVdDBVVGt0UkRkdU1UZDFiVEl3VFUxMloyUkViMHRUYmxoZlRVaHpRM2RvY0ZaaFZGbzVjR0pNUldkdk5IVkRTRk54UmtaMlZGb3hSSHAyU1VWU1dHeDJTVlkwVldwS2QzVXhjRUkyY0ZKZmJtRlRjREVTRjJsUGFUVmhjMFJFVGw5NlgzQjBVVkJvTFdFM2FWRTBHaUpCUkhOeU9XWlVXa2R4Tkhkbk5rNXZNamR0TmxCcmVIcFVUMnhJYnpac1MwZFIiLCJmY3YiOiIzIiwiZmNfaWQiOiJXd3BaaVRtOWtRbVdXWW5EQUFBQUFBPT0ifQ=="
+    },
+    {
+      "title": "Data Engineer - Remote, Flexible Hours, Growth",
+      "company_name": "Bluelight Consulting Llc",
+      "location": "Áncash",
+      "via": "Buscojobs",
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Data+Engineer+remoto&htidocid=GKQXUzjvjm6aR-lnAAAAAA%3D%3D&hl=es-PE&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_xXNOw6CQBAA0NhyBKtJ7AyCMbHBzh8W2ngBssBkd82wgztDpPVItrZczNi89iWfWXI7GjVwCtYHxAgruGPHiimcCUdfE8KFhygplJFf6gqop688B2wNtAjY9YQMGKBktoTznVPtpchzEcqsqFHfZA13OQesecwfXMufSpyJ2JNRrDbb9Zj1wS4XexqQvHUKBw4ykPpg4UrNP5jeoTHifv1ihxC0AAAA&shmds=v1_ARwrE217i3GqvDT8kFEumemPKbJWT4J_du6z4MNCT-bnd70g1w&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Data+Engineer+remoto&htidocid=GKQXUzjvjm6aR-lnAAAAAA%3D%3D",
+      "extensions": [
+        "hace 7 días",
+        "Tiempo completo"
+      ],
+      "source_link": "https://www.buscojobs.pe/data-engineer-remote-flexible-hours-growth-en-ancash-ID-13192717",
+      "job_title": "Data Engineer - Remote, Flexible Hours, Growth",
+      "description": "Bluelight Consulting LLC is hiring a Data Pipeline Developer in Chimbote, Peru.\nThis role involves developing and maintaining data models, monitoring data pipelines, and collaborating with analytics teams to enhance data accessibility.\nThe ideal candidate will have a BS or MS in Computer Science and over 3 years of experience in Data Pipeline development.\nBluelight offers a competitive salary, flexible working hours, and opportunities for continuing education and remote work.\n#J-*****-Ljbffr",
+      "apply_options": [
+        {
+          "title": "Buscojobs",
+          "link": "https://www.buscojobs.pe/data-engineer-remote-flexible-hours-growth-en-ancash-ID-13192717?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJEYXRhIEVuZ2luZWVyIC0gUmVtb3RlLCBGbGV4aWJsZSBIb3VycywgR3Jvd3RoIiwiY29tcGFueV9uYW1lIjoiQmx1ZWxpZ2h0IENvbnN1bHRpbmcgTGxjIiwiaHRpZG9jaWQiOiJHS1FYVXpqdmptNmFSLWxuQUFBQUFBPT0iLCJ1dWxlIjoidytDQUlRSUNJRVVHVnlkUSIsImdsIjoicGUiLCJobCI6ImVzIiwiZmMiOiJFc3dCQ293QlFVcHBWRFIwVEU5MmIzTnRiRVJrUkhOWWIwVnhTbmRXTWtKR1JWQktNRFF0TFZwRloxVkJjVTA0Ums4M2RqbHBObVpQUzNSNlUwNWFTWFZrUzBaMGNUZGhZMWd4YlUxT2JHVldiblpwWDBKaVNFWlhZbXMxUVRrdGR5MHpXRGN3VjI4eU9VbGplbmR2UkVacmMzSllXblZmZFdKaWQxQjJRVkl5U0hJelNTMVpkRUpMUmt0RVprSkNYMllTRjJsUGFUVmhjMFJFVGw5NlgzQjBVVkJvTFdFM2FWRTBHaUpCUkhOeU9XWlNhMlphUkZGWFFqUndkbGxzZGxFMWNVeDFZa28zTkRCeU1qWkIiLCJmY3YiOiIzIiwiZmNfaWQiOiJHS1FYVXpqdmptNmFSLWxuQUFBQUFBPT0ifQ=="
+    },
+    {
+      "title": "Remote Data Engineer: Azure Synapse ETL Mastery",
+      "company_name": "Bluelight Consulting LLC",
+      "location": "Callao",
+      "via": "BeBee",
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Data+Engineer+remoto&htidocid=boTk6vgj3G6ZOpe3AAAAAA%3D%3D&hl=es-PE&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_xXNMW7CQBAFUKXlCKlGlClsFInGqcBBNCYFpLfG9tfa0Xhn8Ywl4Fa0aXOxyM1r3-r5svo6Y1QHfbIzHWIYIjAVtHvME-hyj5wMdPiu6MTmmO4FNX-_dp3RMXUgjEmghEhH1SB4_ejdkxV5biZZMGcf2qzVMdeIRm_5jza2UFvPE5Kwo37fbm5ZiuFtvZcZMoTeqdRos_gQA1VVuQQli7D-A7HHE8y0AAAA&shmds=v1_ARwrE23KQXBhmX2IjiQx3rZ5b_h2n-D3eS0LFFogjpK2e5lysg&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Data+Engineer+remoto&htidocid=boTk6vgj3G6ZOpe3AAAAAA%3D%3D",
+      "extensions": [
+        "hace 22 días",
+        "Tiempo completo"
+      ],
+      "source_link": "https://bebee.com/pe/jobs/remote-data-engineer-azure-synapse-etl-mastery-bluelight-consulting-llc-callao--jobted-b6e28295b412f7dccb98b1a313979603",
+      "job_title": "Remote Data Engineer: Azure Synapse ETL Mastery",
+      "description": "Bluelight Consulting LLC is looking for a talented ETL Data Engineer to join their team in Piura, Peru. This position involves developing and maintaining ETL processes using Python (PySpark) within Azure Synapse Analytics. Candidates must have a Bachelor’s degree in Computer Science and proven experience in ETL data engineering.\n\n\nRemote working options are available alongside a competitive salary, generous paid time off, and a commitment to ongoing education and professional development. Join Bluelight and make an impact in a collaborative environment.",
+      "apply_options": [
+        {
+          "title": "BeBee",
+          "link": "https://bebee.com/pe/jobs/remote-data-engineer-azure-synapse-etl-mastery-bluelight-consulting-llc-callao--jobted-b6e28295b412f7dccb98b1a313979603?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Jobrapido.com",
+          "link": "https://pe.jobrapido.com/jobpreview/446317812248477696?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Kit Empleo",
+          "link": "https://www.kitempleo.pe/empleo/68573131/remote-data-engineer-azure-synapse-etl-mastery-callao?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJSZW1vdGUgRGF0YSBFbmdpbmVlcjogQXp1cmUgU3luYXBzZSBFVEwgTWFzdGVyeSIsImNvbXBhbnlfbmFtZSI6IkJsdWVsaWdodCBDb25zdWx0aW5nIExMQyIsImh0aWRvY2lkIjoiYm9UazZ2Z2ozRzZaT3BlM0FBQUFBQT09IiwidXVsZSI6IncrQ0FJUUlDSUVVR1Z5ZFEiLCJnbCI6InBlIiwiaGwiOiJlcyIsImZjIjoiRXN3QkNvd0JRVXBwVkRSMFNraGxPVjk1ZHprMWQyUTNZVEJ5TUhCNGVtTlZWRko2VnprNGMwNU9Nbk5qYkdod2VGaDJkRGxxZEc1eWVIRllOVjlaYWtWTVZqRlVkM00yY1dOTlpGWlJiRjlSWlZCNmNIQXplVGhyUm01WGJFcE1SR2MxU1ZKSlNqWmpPRmhvVm1NemVGQlBWRE5VTVZKRlQwNXFZMDV1UlVNMGVHZzRNRTF6TW14RGEwNURjMXBpWVd3U0YybFBhVFZoYzBSRVRsOTZYM0IwVVZCb0xXRTNhVkUwR2lKQlJITnlPV1pSYld4cU0waDFTazkzV1RkU1pubFdURWxMZVhoeFZtWnRabHAzIiwiZmN2IjoiMyIsImZjX2lkIjoiYm9UazZ2Z2ozRzZaT3BlM0FBQUFBQT09In0="
+    },
+    {
+      "title": "Data Engineer Junior / Ingeniero(a) de Datos Junior por proyecto - Remoto",
+      "company_name": "IBR PERU S.A.",
+      "location": "Lima",
+      "via": "Bumeran Perú",
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Data+Engineer+remoto&htidocid=k6hqRzXOfkX_9Qd0AAAAAA%3D%3D&hl=es-PE&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_zWMsQrCMBRFce3u4vRGFUxEcNFJsUjFQSrOJW0faSTJi0kK9dccXPwxzeBw73Luudl7lHUHEQXkViqL6OHUW0UeOBRWolXoaSpm0CL8ZhT-2KV4emITCRZQoqFIG6g_r_DosRVJQOM0EqCFI5HUONl2Mbqw4TwEzWSIIqqGNWQ4Waxp4HeqQ6oqdMKj0yJitVovB-asnI-LfQmXvLzBle1Yej0rI76OqQhIwQAAAA&shmds=v1_ARwrE21NEUVrdq4S83F6NIS2vdRqWvnxN-M3GO3R3ja-uJaScQ&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Data+Engineer+remoto&htidocid=k6hqRzXOfkX_9Qd0AAAAAA%3D%3D",
+      "thumbnail": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAADgAAAAjCAMAAAD2STl0AAAAw1BMVEX___8MIucMIugAAN0HIOmSmtsADuL75vD3-_8OI8gAFecAGulOWMoAANIAAOToeaHT2POxuOlHUs1veN0AANjnf6TjiKk8ScxWYcl0etz_9PzAxvC1vfD10-PefJ_hlbL_-v8wPcvv8vvnk7LvkLPupMHJzeyaodl_h86Gj9jlpsD1zeHorseqsd3b4Pfkw9XrvdHisMPl6fsIH9soN9CIj995g9ZIVt0AHsudpOi1veAAEsodLtozQcimq-A-StYrONwXmB5eAAAB2UlEQVQ4je2UW3PaMBBGdatvwjIBGUx9gRrsJIQQB1wKpZD-_1_VlQ2NIeoUOn3K5Dx4PCOdWe-3khF6V3w2m2g2hJGl8-LEazIcnW8IpPySasTxZOz5vp-pB-DFZ-s5JUTcwstd50Bwn6uFXjb1HuKZOYVHHMfJG1HU4iPlBxxH7uZKfJrGD1lcPJvFsCiSpzPR6lNhLxD6ZGBMmIJgwt02GvqzLMv8bDwbT_zeJHkTT7rZqBZBJEsbWEuGMS8ts5fU8SRZAehirQDR6dYfXzJMZATzGJkzr3feW6PL0DoR0WJJsPNVrUSpOQpX3-4WOm8lad86ERGUdFYI7aVYp13qMMPVzMtaMyLnJ2K6ZIRuEGpxwkuDQFj0u0a0YVe7Fge11-GYbVMlYsw4pUJoK76K7Ecf2G05YW6IatEIomi_n2taBBEfRJifgmH2UqUBIm_9MdNGRfiuCoLdQVqLYnOJyH4GihfJiGPXPYqbS8RDOChcwjiCa8TjHFV1CPJ6sU0JFvm_VST0GrHRI9tal4usHChKda-M7hXhYOYo4Cbjv44jzZHNmDrke_j3HOFU_TtQyyFCc7or2vfo1pUqlLR0f9Op6-Su3Gn_nMeq2mtataE73B_8f34ByqctSQBJtQEAAAAASUVORK5CYII.png",
+      "source_link": "https://www.bumeran.com.pe/empleos/data-engineer-junior-ingenieroa-de-datos-junior-por-proyecto-remoto-ibr-peru-s.a.-1118390683.html",
+      "job_title": "Data Engineer Junior / Ingeniero(a) de Datos Junior por proyecto - Remoto",
+      "description": "Por encargo de nuestro cliente, una empresa líder en el sector educativo en el Perú, nos encontramos en la búsqueda de un/a Data Engineer Junior - Por proyecto 1 mes  para integrarse a su equipo de Tecnología.\n\n\n\n\nRequisitos: \n\n Bachiller o Egresado en Ingeniería de Computación y Sistemas, Ingeniería de Sistemas de Información, Ingeniería de Sistemas, Ingeniería de Software, Ciencias de la Computación o carreras afines. Experiencia mínima de 2 años en roles de Data Engineering, integración de datos o Business Intelligence. Experiencia desarrollando y manteniendo pipelines ETL/ELT en entornos productivos. Dominio de SQL avanzado (SQL Server, PostgreSQL, MySQL o Redshift) y Python orientado a datos. Conocimientos y experiencia en servicios AWS como S3, Glue, DMS, Athena, Redshift e IAM. Manejo de herramientas de control de versiones y despliegue como Git, Jenkins y Docker. Experiencia en construcción de dashboards y análisis de información con Power BI (nivel intermedio). Nivel de Inglés - Intermedio ( Lectura técnica). Disponibilidad para laborar por proyecto.Funciones: \n\n Diseñar y desarrollar procesos ETL/ELT sobre AWS (Glue Jobs, PySpark, DMS), cumpliendo las fechas establecidas en el plan de trabajo del área. Ingestar fuentes de datos heterogéneas (bases de datos, APIs, archivos) hacia el Datalake corporativo mediante AWS DMS, Python y servicios de integración. Dar soporte y mantenimiento al Datalake en AWS (S3, Glue, Lake Formation), incluyendo el monitoreo de permisos en Lake Formation / IAM. Asegurar que el procesamiento diario de la data se ejecute correctamente en el Datalake, resolviendo los incidentes de datos en AWS y garantizando la continuidad de las cargas de ingesta y analítica. Ejecutar tuning y optimización de los procesos de integración de datos, incluyendo la reingeniería de flujos legacy. Administrar eficientemente los recursos de los servicios de nube AWS, contribuyendo al control y la optimización de costos. Orquestar flujos de datos y desplegar stacks de infraestructura como código, manteniendo los pipelines de CI/CD (Jenkins, Git). Construir dashboards y reportes en Power BI que soporten la toma de decisiones de las áreas usuarias, asegurando su correcta ejecución y la actualización programada de los datos. Participar en el levantamiento de requerimientos e incidentes con las áreas de negocio y coordinar con los proveedores de servicios (AWS, Power BI). Documentar procesos, scripts y componentes de la arquitectura de datos, aplicando los estándares de calidad y gobierno de datos definidos por el área.\n\n\nBeneficios: \n\n Modalidad: 100% Remoto Salario acorde al mercado.",
+      "apply_options": [
+        {
+          "title": "Bumeran Perú",
+          "link": "https://www.bumeran.com.pe/empleos/data-engineer-junior-ingenieroa-de-datos-junior-por-proyecto-remoto-ibr-peru-s.a.-1118390683.html?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJEYXRhIEVuZ2luZWVyIEp1bmlvciAvIEluZ2VuaWVybyhhKSBkZSBEYXRvcyBKdW5pb3IgcG9yIHByb3llY3RvIC0gUmVtb3RvIiwiY29tcGFueV9uYW1lIjoiSUJSIFBFUlUgUy5BLiIsImh0aWRvY2lkIjoiazZocVJ6WE9ma1hfOVFkMEFBQUFBQT09IiwidXVsZSI6IncrQ0FJUUlDSUVVR1Z5ZFEiLCJnbCI6InBlIiwiaGwiOiJlcyIsImZjIjoiRXN3QkNvd0JRVXBwVkRSMFMzVlVkV3RoVG05SlYwOXpaSFkwWkhJNVZISTRjR2RsUTBnd1FUVndTblZSUm5KNGRrVXhRVGhTUlhneGEyOW1SR0phTUVGdU9VZFJTbVZVZW5CMk5IUnpjRWhpWVhCQlRFWlFaekJ6U1U5Nk1tMVdXVUZRTVVjM1VuRkxaMk52UjNvMFFtRXdTMWxMZUVkVllTMVRORE0wZDNKVGFYZFFTa0pDYWpnelIwWjRiR2RKU2prU0YybFBhVFZoYzBSRVRsOTZYM0IwVVZCb0xXRTNhVkUwR2lKQlJITnlPV1pUYTJZM01FNW5YMEp4Y1ZORFNrMWZOVUZ3ZFVGUGJWcGpTVUpSIiwiZmN2IjoiMyIsImZjX2lkIjoiazZocVJ6WE9ma1hfOVFkMEFBQUFBQT09In0="
+    },
+    {
+      "title": "Data Engineer - Remote, Flexible Hours, Growth",
+      "company_name": "Bluelight Consulting LLC",
+      "location": "Lima",
+      "via": "BeBee",
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Data+Engineer+remoto&htidocid=N197MSkD-l3ckmVCAAAAAA%3D%3D&hl=es-PE&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_xXNMQ6CQBAAwNjyBKutDXLGxAY7UbHAxg-QAzbHmeX2ZJfIq3yArR8zNNNO8lkl97NVC5fgfEAcYQsPHFgxhSvh7BtCuPE0SgrlyG_tc2h-X3lN2FnoEHCIhAwYoGR2hOtjrxolN0aEMidq1bdZy4PhgA3P5smNLNTS2xEjWcV6f9jNWQxuAyeakLzrFQoOMpH64KCqiiWo_GD_CHMXirEAAAA&shmds=v1_ARwrE22V6AHv2SO7Nj4SFbk8pydXe5IckVCyI9XjKgHYPwlbYA&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Data+Engineer+remoto&htidocid=N197MSkD-l3ckmVCAAAAAA%3D%3D",
+      "extensions": [
+        "hace 21 días",
+        "Tiempo completo"
+      ],
+      "source_link": "https://bebee.com/pe/jobs/data-engineer-remote-flexible-hours-growth-bluelight-consulting-llc-san-isidro--jobted-44f3a239b6f7f1901308c8514edda899",
+      "job_title": "Data Engineer - Remote, Flexible Hours, Growth",
+      "description": "Bluelight Consulting LLC in Lima, Peru is seeking a skilled individual for a software development role focused on data pipeline creation and integration. The position requires 3+ years of experience in data pipeline development and extensive knowledge of AWS services and SQL. Join a dynamic team dedicated to innovation and continuous growth, with opportunities for professional development, including training and certifications.\n\n\nEnjoy flexible working hours and generous paid time off in a remote-friendly environment.",
+      "apply_options": [
+        {
+          "title": "BeBee",
+          "link": "https://bebee.com/pe/jobs/data-engineer-remote-flexible-hours-growth-bluelight-consulting-llc-san-isidro--jobted-44f3a239b6f7f1901308c8514edda899?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Jooble",
+          "link": "https://pe.jooble.org/jdp/1804159643044006028?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Peru Jobs Expertini",
+          "link": "https://pe.expertini.com/job/data-engineer-remote-flexible-hours-growth-lima-metropolitana-bluelight-consulting-llc-1227-1452871/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Sercanto",
+          "link": "https://www.sercanto.com.pe/detail/a/data-engineer-remote-flexible-hours-growth_lima_34538493?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Jobrapido.com",
+          "link": "https://pe.jobrapido.com/jobpreview/3754920502645227520?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Kit Empleo",
+          "link": "https://www.kitempleo.pe/empleo/68997799/data-engineer-remote-flexible-hours-growth-lima?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJEYXRhIEVuZ2luZWVyIC0gUmVtb3RlLCBGbGV4aWJsZSBIb3VycywgR3Jvd3RoIiwiY29tcGFueV9uYW1lIjoiQmx1ZWxpZ2h0IENvbnN1bHRpbmcgTExDIiwiaHRpZG9jaWQiOiJOMTk3TVNrRC1sM2NrbVZDQUFBQUFBPT0iLCJ1dWxlIjoidytDQUlRSUNJRVVHVnlkUSIsImdsIjoicGUiLCJobCI6ImVzIiwiZmMiOiJFc3dCQ293QlFVcHBWRFIwUzNkamNVOXpOMk5mT0ZSVWNFMXBkVzFrZGpnM1VGWmlVazR6VkMxclpXWm9abnBETVRaVE1FRjBXRzl0ZUZWNmNtSmhaWGxQVTAxeFZHUXdSakJvVkV4dmIzaFdZMlIwUzBJNFRrVlVXWFZMZEhaTGExZG5SVlZZYkROdlNUQkRlRUk1U0RnNWVIaHBTRzFJUmtGeGNteHlkRWh3WTBObGVFWnpSbHBtUm1Nd1VFdGtNMG9TRjJsUGFUVmhjMFJFVGw5NlgzQjBVVkJvTFdFM2FWRTBHaUpCUkhOeU9XWlNWazg0VVhsd1NWSTFVR2hqTWxsNE9GVnNaa1ZXTms4MFZGQlIiLCJmY3YiOiIzIiwiZmNfaWQiOiJOMTk3TVNrRC1sM2NrbVZDQUFBQUFBPT0ifQ=="
+    },
+    {
+      "title": "Azure Data Engineer - Remote, Latin America",
+      "company_name": "Bluelight Consulting LLC",
+      "location": "Callao",
+      "via": "BeBee",
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Data+Engineer+remoto&htidocid=z_yFms2V_A7NR85IAAAAAA%3D%3D&hl=es-PE&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_xXNMQrCMBSAYVx7BKeHo2gjgotOtYognbxAeW0faeQlLzYJFO_kBVy9mO3ybz9f9llk9-KdBoILRoSr08YRDbCFB1mJtIEKo3FQWBpMi0doft_wStQhdARkPZMAObiJaKblqY_Rh6NSIXCuQ5zeNm_FKnHUyKie0oQ5dehxIM8Yqd4fdmPunV6vzpyIje4jlOJC4gnWUFXlDJTIjPIH70TYGbAAAAA&shmds=v1_ARwrE227KR_VXwyoECC6jhWrOpLVYPcVWIe-peEOehiiJtR-ew&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Data+Engineer+remoto&htidocid=z_yFms2V_A7NR85IAAAAAA%3D%3D",
+      "extensions": [
+        "hace 22 días",
+        "Tiempo completo"
+      ],
+      "source_link": "https://bebee.com/pe/jobs/azure-data-engineer-remote-latin-america-bluelight-consulting-llc-callao--jobted-1f06c8ddca06205ed46cd6f12c0850c5",
+      "job_title": "Azure Data Engineer - Remote, Latin America",
+      "description": "Bluelight is a leading software consultancy dedicated to designing and developing innovative technology that enhances users' lives. With a steadfast commitment to delivering exceptional service to our clients, Bluelight excels in its focus on quality and customer satisfaction. Our mission is not only to create cutting-edge applications but also to foster a collaborative and enriching work environment where each team member can grow and thrive.\n\n\nWith a presence across the United States and Central/South America, Bluelight is in an exciting phase of expansion, continually seeking exceptional talent to join its dynamic and diverse community. We are looking for a skilled individual to join our rapidly growing team at Bluelight. This position is ideal for someone who thrives in a fast-paced, dynamic environment where everyone's opinions and efforts are valued and appreciated.\n\n\nYou will have the opportunity to contribute to challenging and meaningful projects, developing high-quality applications that stand out in the market. We value continuous learning, personal growth, and hard work, offering a collaborative environment that promotes professional development. If you are passionate about software development and eager to be part of a growing software consultancy, we invite you to apply and join us on this exciting journey.\n\n\nKey Responsibilities - ETL Data Engineering: Develop and maintain ETL data engineering processes using Python (PySpark) within Azure Synapse Analytics Notebooks, and/or Azure Synapse Analytics Pipelines, to ensure efficient data extractions, transformation, and loading.\n\n\nData Warehousing: Apply your expertise in data warehousing, understanding star schemas, facts, and dimensions, to design and build effective data storage structures in a Massively Parallel Processing (MPP) SWL Pool.Data Source Expertise: Extract data from various sources, including REST APIs, SWL database tables, and CSV files.Azure Synapse Analytics Expertise: Utilize your deep knowledge of Azure Synapse Analytics to design and optimize data notebooks/pipelines for scalability and performance.Data Fabric Concepts: Contribute to the implementation and understanding of other Data Fabric concepts, such as data lakes, lakehouses, delta lakes, and data cataloging, to enhance data management capabilities.Data Modeling: Collaborate with data architects to create data models and schemas that align with business requirements.Data Quality: Implement data quality checks and validation processes to maintain data accuracy and consistency.Performance Tuning: Identify and resolve performance bottlenecks and optimize ETL data notebooks/pipelines to meet SLAs.Monitoring and Troubleshooting: Monitoring ETL jobs, diagnose issues, and implement solutions to ensure data pipeline reliability.Documentation: Maintain comprehensive documentation of ETL data engineering processes, data flows, and data transformations.Collaboration: Work closely with cross-functional teams to understand data requirements and provide support for data-related initiatives.Security and Compliance: Ensure data security and compliance with data governance and privacy standards.\nRequired Skills & Qualifications - Bachelor’s degree in Computer Science, Information Technology, or a related field; or equivalent work experience, with certifications related to data engineering or data science (e.g.\n\n\nAzure Data\nEngineer) being a plus.\n\n\nProven experience in ETL data engineering with significant expertise in using Python (PySpark) to perform data extraction, transformation, and loading from REST APIs, SQL database tables, and CSV files.Proficiency in using Azure Synapse Analytics resources including Notebooks, Pipelines, Linked Services, and Azure Key Vault.Demonstrated ability to write complex SQL queries, optimize query performance, and work with both SparkSQL and MS SQL to effectively extract, transform, and load data.Knowledge of data integration best practices and tools.Experience with version control systems, such as Git (Azure DevOps).Strong problem-solving and analytical skills, with a keen attention to detail.Excellent communication skills, both verbal and written, with the ability to work collaboratively in a team environment with shifting priorities.Familiarity with big data technologies, machine learning, and data analysis preferred.Experience with data visualization tools (e.g. Power BI, Tableau) and Agile Methodologies a plus.\nCompany\nBenefits - Competitive salary and bonuses, including performance-based salary increases.\n\n\nGenerous paid‑time‑off policy - Flexible working hours - Work remotely - Continuing education, training, conferences - Company-sponsored coursework, exams, and certifications Being a consultant in our team is a fun, challenging, and rewarding career choice. Your contributions are highly valued by clients, and the work you do often has a direct and significant impact on their business. You will have the opportunity to work on a variety of projects for our incredible clients, which will accelerate your career growth. You’ll collaborate with modern technologies and work alongside some of the best professionals in the industry! If you’re eager to be part of an exciting, challenging, and rapidly growing consultancy, we encourage you to apply.",
+      "apply_options": [
+        {
+          "title": "BeBee",
+          "link": "https://bebee.com/pe/jobs/azure-data-engineer-remote-latin-america-bluelight-consulting-llc-callao--jobted-1f06c8ddca06205ed46cd6f12c0850c5?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Jobrapido.com",
+          "link": "https://pe.jobrapido.com/jobpreview/1325486794422091776?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJBenVyZSBEYXRhIEVuZ2luZWVyIC0gUmVtb3RlLCBMYXRpbiBBbWVyaWNhIiwiY29tcGFueV9uYW1lIjoiQmx1ZWxpZ2h0IENvbnN1bHRpbmcgTExDIiwiaHRpZG9jaWQiOiJ6X3lGbXMyVl9BN05SODVJQUFBQUFBPT0iLCJ1dWxlIjoidytDQUlRSUNJRVVHVnlkUSIsImdsIjoicGUiLCJobCI6ImVzIiwiZmMiOiJFc3dCQ293QlFVcHBWRFIwUzBsYVJUSk9RVTR3V2xGSlZtSTNabXhSZGtreVJtTkJXSGR5U25sRWRtWjJTRFpLZG5SMGRreDVTbGx4WkRJd09XTjRUVXhTTTAxM1RFZG9PRlJsZDA5V1kwdGpYMVpwZVdOWWJtRnpUM1F4V1dOUVlubFBjMDVqTTJaclZuQjZXVVJVY2tGc1ozUm9iRGhFVWtob1IyOVBYekpoZWxkNlVHSkhTVEExVVVsa1dFcFVNMjBTRjJsUGFUVmhjMFJFVGw5NlgzQjBVVkJvTFdFM2FWRTBHaUpCUkhOeU9XWlJWMWd6TUZOWFZYTmlPRUUwTURKUlFVOW5XRGM0ZHkwNFYxVkIiLCJmY3YiOiIzIiwiZmNfaWQiOiJ6X3lGbXMyVl9BN05SODVJQUFBQUFBPT0ifQ=="
+    }
+  ],
+  "serpapi_pagination": {
+    "next_page_token": "eyJmYyI6IkVvd0RDc3dDUVVwcFZEUjBTWE5UZUZWd1JsSnVlWGhzUVc5SFRsVlVhMjVDYUdoeFZHRTFPWGR6T0d4SWNrMTRUbVpSYmpkUmIxcGhjR1ZQTmtoaGEzRTBYM2g2UkVwWmFVOWFMVnB1V0VkWFMwY3hTMlJLVEVsVlpHWmhNbFJsYUZKc2FGRTVWR2x3YzJkdVJ6aHFhRzFhZDBwd1ptMDVRbVE0YkVaNFZFbzJVVzB5WXkxSFIyTldWekpXTW5oUlgySmFjbXQ1YUZaclFuaEhWRXd5VTAxRFZtVnpUbFEyWVY5NFRHWnhPVkJUV2xWWllWSjJNMGMyV2tnMlVFOHdXazlCVWtKWlEzaEVWMnR4TTNwd2NEbG1jMWRuU0daUVRYQm1NVWRDU0RWR2RGaHlURUZwV0MxaWMyazVTV3hyZFhOeWNrRldSUzFVWkROUlptZ3hTamx0TFdGWFVVdzNOR3R4V1RkU1YyUkNTRXBSY1RWYVptWkJaVmhXWmt0Q05FWm5UbWhpTldSWFFsRlhkRkYzWkZRM1VYVlJkMTlSTUhWa1JqRjVMV1JHU1V3M1MxWjVlWGRyTTFGRlh6Tk5NR1VTRjJsUGFUVmhjMFJFVGw5NlgzQjBVVkJvTFdFM2FWRTBHaUpCUkhOeU9XWlJkamczTmpOWGVFVndjR1pQU2poQ1VuTTJaV2RrUkRFNVgzZDMiLCJmY3YiOiIzIn0=",
+    "next": "https://serpapi.com/search.json?engine=google_jobs&gl=pe&google_domain=google.com&hl=es&location=Peru&next_page_token=eyJmYyI6IkVvd0RDc3dDUVVwcFZEUjBTWE5UZUZWd1JsSnVlWGhzUVc5SFRsVlVhMjVDYUdoeFZHRTFPWGR6T0d4SWNrMTRUbVpSYmpkUmIxcGhjR1ZQTmtoaGEzRTBYM2g2UkVwWmFVOWFMVnB1V0VkWFMwY3hTMlJLVEVsVlpHWmhNbFJsYUZKc2FGRTVWR2x3YzJkdVJ6aHFhRzFhZDBwd1ptMDVRbVE0YkVaNFZFbzJVVzB5WXkxSFIyTldWekpXTW5oUlgySmFjbXQ1YUZaclFuaEhWRXd5VTAxRFZtVnpUbFEyWVY5NFRHWnhPVkJUV2xWWllWSjJNMGMyV2tnMlVFOHdXazlCVWtKWlEzaEVWMnR4TTNwd2NEbG1jMWRuU0daUVRYQm1NVWRDU0RWR2RGaHlURUZwV0MxaWMyazVTV3hyZFhOeWNrRldSUzFVWkROUlptZ3hTamx0TFdGWFVVdzNOR3R4V1RkU1YyUkNTRXBSY1RWYVptWkJaVmhXWmt0Q05FWm5UbWhpTldSWFFsRlhkRkYzWkZRM1VYVlJkMTlSTUhWa1JqRjVMV1JHU1V3M1MxWjVlWGRyTTFGRlh6Tk5NR1VTRjJsUGFUVmhjMFJFVGw5NlgzQjBVVkJvTFdFM2FWRTBHaUpCUkhOeU9XWlJkamczTmpOWGVFVndjR1pQU2poQ1VuTTJaV2RrUkRFNVgzZDMiLCJmY3YiOiIzIn0%3D&q=Data+Engineer+remoto"
+  },
+  "_pipeline_metadata": {
+    "ingestion_timestamp_utc": "2026-09-28T04:09:45.780077+00:00",
+    "search_group": "data_engineering_db",
+    "target_market": "Peru_Remote",
+    "target_location": "Peru",
+    "date_filter_applied": "month",
+    "new_records_count": 10,
+    "provider": "serpapi"
+  }
+}

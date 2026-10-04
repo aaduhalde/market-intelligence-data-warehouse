@@ -1,0 +1,471 @@
+{
+  "search_metadata": {
+    "id": "6ac00411079a2babc4db7768",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/ilkRdtXLhqNAQ6EQqLLzgvLyUht4OFv9cS16Boyk29w/6ac00411079a2babc4db7768.json",
+    "markdown_endpoint": "https://serpapi.com/searches/ilkRdtXLhqNAQ6EQqLLzgvLyUht4OFv9cS16Boyk29w/6ac00411079a2babc4db7768.md",
+    "created_at": "2026-10-02 19:20:49 UTC",
+    "processed_at": "2026-10-02 19:20:49 UTC",
+    "google_jobs_url": "https://www.google.com/search?q=Data+Engineer&uule=w+CAIQICIFQ2hpbGU&hl=es&gl=cl&chips=date_posted:3days&udm=8",
+    "raw_html_file": "https://serpapi.com/searches/ilkRdtXLhqNAQ6EQqLLzgvLyUht4OFv9cS16Boyk29w/6ac00411079a2babc4db7768.html",
+    "total_time_taken": 0.9
+  },
+  "search_parameters": {
+    "q": "Data Engineer",
+    "engine": "google_jobs",
+    "location_requested": "Chile",
+    "location_used": "Chile",
+    "google_domain": "google.com",
+    "hl": "es",
+    "gl": "cl",
+    "chips": "date_posted:3days"
+  },
+  "filters": [
+    {
+      "name": "Tipo de trabajo",
+      "options": [
+        {
+          "name": "Tiempo completo",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4rr9gnhUdFSJ6dAxBSnrYDTUIfC45TATRrSt-ofvU7qeucBr-Vh7WNgJYoS1RVbjlyuKw5Av7nCelkcAsTyX8ZkM1ME-IllnUe2wkRGAKOLiroxJnV8xy7C7ju7eeE1Pe8GZ4uLCANPwccvHQOVJiOj061MrKYojmQl2AiMD6ofqWV-Mp7mB-dHMx7oPRKDuewGu-JQKfgoOIgficNzWC0YIwIbSdt8xPA9zc-Y80f2sGjaht1npCZaINEOPwCIbX3rJ6K-u8m9S5xMt1NouQBEJPiLGsXbXB-QUGPoHqZew9Bsf10CyMsGym1dsYw_i0-jNAS_FCimS91lRg24lVbUf-3OP-2QPshTtR0yYxLNIRI_9nf",
+            "q": "data tiempo completo"
+          },
+          "link": "https://www.google.com/search?sca_esv=4d65981f01013b52&hl=es&gl=cl&sxsrf=APpeQnscrJ5s8SzZYF3d3PMTiZ8O1-WcjQ:1790968849782&q=data+tiempo+completo&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rr9gnhUdFSJ6dAxBSnrYDTUIfC45TATRrSt-ofvU7qeucBr-Vh7WNgJYoS1RVbjlyuKw5Av7nCelkcAsTyX8ZkM1ME-IllnUe2wkRGAKOLiroxJnV8xy7C7ju7eeE1Pe8GZ4uLCANPwccvHQOVJiOj061MrKYojmQl2AiMD6ofqWV-Mp7mB-dHMx7oPRKDuewGu-JQKfgoOIgficNzWC0YIwIbSdt8xPA9zc-Y80f2sGjaht1npCZaINEOPwCIbX3rJ6K-u8m9S5xMt1NouQBEJPiLGsXbXB-QUGPoHqZew9Bsf10CyMsGym1dsYw_i0-jNAS_FCimS91lRg24lVbUf-3OP-2QPshTtR0yYxLNIRI_9nf&chips=date_posted:3days&udm=8&sa=X&ved=2ahUKEwjr7-DwhpyXAxWoK1kFHTACFJwQkbEKegQIGBAC",
+          "serpapi_link": "https://serpapi.com/search.json?chips=date_posted%3A3days&engine=google_jobs&gl=cl&google_domain=google.com&hl=es&location=Chile&q=data+tiempo+completo&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rr9gnhUdFSJ6dAxBSnrYDTUIfC45TATRrSt-ofvU7qeucBr-Vh7WNgJYoS1RVbjlyuKw5Av7nCelkcAsTyX8ZkM1ME-IllnUe2wkRGAKOLiroxJnV8xy7C7ju7eeE1Pe8GZ4uLCANPwccvHQOVJiOj061MrKYojmQl2AiMD6ofqWV-Mp7mB-dHMx7oPRKDuewGu-JQKfgoOIgficNzWC0YIwIbSdt8xPA9zc-Y80f2sGjaht1npCZaINEOPwCIbX3rJ6K-u8m9S5xMt1NouQBEJPiLGsXbXB-QUGPoHqZew9Bsf10CyMsGym1dsYw_i0-jNAS_FCimS91lRg24lVbUf-3OP-2QPshTtR0yYxLNIRI_9nf"
+        },
+        {
+          "name": "Tiempo parcial",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4rjdygdj3dMWkENbzHOm63F5W6InAivNJx8GGz5wKhn4Rgs8VHsuj0UP3yYEXZD2EsIKhQ8faEcQKVfrXYVFuRXKMjFQY2C7a_aRWbYW7W5M6Z_Hi-ibIJqtwlqRy6y4cdWx07mt27NJhPa1Sa_-D-L0jKz2KF_A6lgX1OheNMz89uUr-bZeYNzyGh5iDJUUilWdF-0V6DNmOcxslc72nH5PDQISTKUG_lY9KqwvkYp5ciHgw9n2HBa7e0vx6B8cs_70pXLtqbbqqykicXbeCxS385xJSK45vkyL599AMOz9CXlBAhp0Pdo8O08iLx5Rr-q480o_lfx6Rtvsn-n5pP5fZXDIIXNbVu4IfwE5QAJUEAY3cn0acnjEpVg_HmbIuHesLmKw",
+            "q": "data tiempo parcial"
+          },
+          "link": "https://www.google.com/search?sca_esv=4d65981f01013b52&hl=es&gl=cl&sxsrf=APpeQnscrJ5s8SzZYF3d3PMTiZ8O1-WcjQ:1790968849782&q=data+tiempo+parcial&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rjdygdj3dMWkENbzHOm63F5W6InAivNJx8GGz5wKhn4Rgs8VHsuj0UP3yYEXZD2EsIKhQ8faEcQKVfrXYVFuRXKMjFQY2C7a_aRWbYW7W5M6Z_Hi-ibIJqtwlqRy6y4cdWx07mt27NJhPa1Sa_-D-L0jKz2KF_A6lgX1OheNMz89uUr-bZeYNzyGh5iDJUUilWdF-0V6DNmOcxslc72nH5PDQISTKUG_lY9KqwvkYp5ciHgw9n2HBa7e0vx6B8cs_70pXLtqbbqqykicXbeCxS385xJSK45vkyL599AMOz9CXlBAhp0Pdo8O08iLx5Rr-q480o_lfx6Rtvsn-n5pP5fZXDIIXNbVu4IfwE5QAJUEAY3cn0acnjEpVg_HmbIuHesLmKw&chips=date_posted:3days&udm=8&sa=X&ved=2ahUKEwjr7-DwhpyXAxWoK1kFHTACFJwQkbEKegQIGBAD",
+          "serpapi_link": "https://serpapi.com/search.json?chips=date_posted%3A3days&engine=google_jobs&gl=cl&google_domain=google.com&hl=es&location=Chile&q=data+tiempo+parcial&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rjdygdj3dMWkENbzHOm63F5W6InAivNJx8GGz5wKhn4Rgs8VHsuj0UP3yYEXZD2EsIKhQ8faEcQKVfrXYVFuRXKMjFQY2C7a_aRWbYW7W5M6Z_Hi-ibIJqtwlqRy6y4cdWx07mt27NJhPa1Sa_-D-L0jKz2KF_A6lgX1OheNMz89uUr-bZeYNzyGh5iDJUUilWdF-0V6DNmOcxslc72nH5PDQISTKUG_lY9KqwvkYp5ciHgw9n2HBa7e0vx6B8cs_70pXLtqbbqqykicXbeCxS385xJSK45vkyL599AMOz9CXlBAhp0Pdo8O08iLx5Rr-q480o_lfx6Rtvsn-n5pP5fZXDIIXNbVu4IfwE5QAJUEAY3cn0acnjEpVg_HmbIuHesLmKw"
+        },
+        {
+          "name": "Con contrato",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4rJYC-HJKx_PYAkikqTxfccjKPAxQy692sc6_UShfrrr-0_eSd437fDMF7ituz_7uRj_GCPpW6f8IR35QrYkI2OCYbLf0HIRbxmNhcJF6sauzBvrZOABJu-FgQTGJFJC26Ibm_azWcfhQkLV3BgnWlU77JuTpLvl1ChpxirSNyOaavdpefkS2O8oHpn1KY95prCD6rcIn7Kz3WB-nTk2MLUqQ9YZh9xk_OGeEYSV-PhnQtwNs3xUQy5EkBkqNAGJcHleMDrM4kyXp_xMqlhab9DuXyVJz1XHxw0L9rL2Voby246eVDRT6noD7_r9vLLHEJBuj2oxf7R1D-I3Zorjo7hssv9CEmfgq9wKllet1JilxuVs0aYhMwlfI53eGLWKVXkJ9jUA",
+            "q": "data con contrato"
+          },
+          "link": "https://www.google.com/search?sca_esv=4d65981f01013b52&hl=es&gl=cl&sxsrf=APpeQnscrJ5s8SzZYF3d3PMTiZ8O1-WcjQ:1790968849782&q=data+con+contrato&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rJYC-HJKx_PYAkikqTxfccjKPAxQy692sc6_UShfrrr-0_eSd437fDMF7ituz_7uRj_GCPpW6f8IR35QrYkI2OCYbLf0HIRbxmNhcJF6sauzBvrZOABJu-FgQTGJFJC26Ibm_azWcfhQkLV3BgnWlU77JuTpLvl1ChpxirSNyOaavdpefkS2O8oHpn1KY95prCD6rcIn7Kz3WB-nTk2MLUqQ9YZh9xk_OGeEYSV-PhnQtwNs3xUQy5EkBkqNAGJcHleMDrM4kyXp_xMqlhab9DuXyVJz1XHxw0L9rL2Voby246eVDRT6noD7_r9vLLHEJBuj2oxf7R1D-I3Zorjo7hssv9CEmfgq9wKllet1JilxuVs0aYhMwlfI53eGLWKVXkJ9jUA&chips=date_posted:3days&udm=8&sa=X&ved=2ahUKEwjr7-DwhpyXAxWoK1kFHTACFJwQkbEKegQIGBAE",
+          "serpapi_link": "https://serpapi.com/search.json?chips=date_posted%3A3days&engine=google_jobs&gl=cl&google_domain=google.com&hl=es&location=Chile&q=data+con+contrato&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rJYC-HJKx_PYAkikqTxfccjKPAxQy692sc6_UShfrrr-0_eSd437fDMF7ituz_7uRj_GCPpW6f8IR35QrYkI2OCYbLf0HIRbxmNhcJF6sauzBvrZOABJu-FgQTGJFJC26Ibm_azWcfhQkLV3BgnWlU77JuTpLvl1ChpxirSNyOaavdpefkS2O8oHpn1KY95prCD6rcIn7Kz3WB-nTk2MLUqQ9YZh9xk_OGeEYSV-PhnQtwNs3xUQy5EkBkqNAGJcHleMDrM4kyXp_xMqlhab9DuXyVJz1XHxw0L9rL2Voby246eVDRT6noD7_r9vLLHEJBuj2oxf7R1D-I3Zorjo7hssv9CEmfgq9wKllet1JilxuVs0aYhMwlfI53eGLWKVXkJ9jUA"
+        },
+        {
+          "name": "Prácticas",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4rS7y9Li8FvM8Ea1DOU-m9FaW48vbMyFrZwepQHs1GY0dgbp0vv2PMBOztv-_06zN-dmM9nqnos4EnhoGCxtpsmGVo8Pi9ThQjS4_YiDZYRNWPk1i_Yj6EFVEgo7pl9ltViDyBSxAItfRPO9GUHRFv_EWeWmx2VUJ1ApDtRYQB_TKV2fHVMKLTJeBWpoPBBfvbOsi0JgmVNsaOLzozqmapsC2QM94XaeHsNsyCSx6ic2_qNQFyhV_DHZwt-WFH-Qd-v8Sld9lFfacmN_Qfeh3hH7iirKz7EwtxYmMj0PJPzUM9zZZwkKNybVzGm_ATxbBo1mFrbywunPw7YUa67G5Tzy1gAad3MeUZ_rFxoCLTLPBmfwhr",
+            "q": "data prácticas"
+          },
+          "link": "https://www.google.com/search?sca_esv=4d65981f01013b52&hl=es&gl=cl&sxsrf=APpeQnscrJ5s8SzZYF3d3PMTiZ8O1-WcjQ:1790968849782&q=data+pr%C3%A1cticas&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rS7y9Li8FvM8Ea1DOU-m9FaW48vbMyFrZwepQHs1GY0dgbp0vv2PMBOztv-_06zN-dmM9nqnos4EnhoGCxtpsmGVo8Pi9ThQjS4_YiDZYRNWPk1i_Yj6EFVEgo7pl9ltViDyBSxAItfRPO9GUHRFv_EWeWmx2VUJ1ApDtRYQB_TKV2fHVMKLTJeBWpoPBBfvbOsi0JgmVNsaOLzozqmapsC2QM94XaeHsNsyCSx6ic2_qNQFyhV_DHZwt-WFH-Qd-v8Sld9lFfacmN_Qfeh3hH7iirKz7EwtxYmMj0PJPzUM9zZZwkKNybVzGm_ATxbBo1mFrbywunPw7YUa67G5Tzy1gAad3MeUZ_rFxoCLTLPBmfwhr&chips=date_posted:3days&udm=8&sa=X&ved=2ahUKEwjr7-DwhpyXAxWoK1kFHTACFJwQkbEKegQIGBAF",
+          "serpapi_link": "https://serpapi.com/search.json?chips=date_posted%3A3days&engine=google_jobs&gl=cl&google_domain=google.com&hl=es&location=Chile&q=data+pr%C3%A1cticas&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rS7y9Li8FvM8Ea1DOU-m9FaW48vbMyFrZwepQHs1GY0dgbp0vv2PMBOztv-_06zN-dmM9nqnos4EnhoGCxtpsmGVo8Pi9ThQjS4_YiDZYRNWPk1i_Yj6EFVEgo7pl9ltViDyBSxAItfRPO9GUHRFv_EWeWmx2VUJ1ApDtRYQB_TKV2fHVMKLTJeBWpoPBBfvbOsi0JgmVNsaOLzozqmapsC2QM94XaeHsNsyCSx6ic2_qNQFyhV_DHZwt-WFH-Qd-v8Sld9lFfacmN_Qfeh3hH7iirKz7EwtxYmMj0PJPzUM9zZZwkKNybVzGm_ATxbBo1mFrbywunPw7YUa67G5Tzy1gAad3MeUZ_rFxoCLTLPBmfwhr"
+        }
+      ]
+    },
+    {
+      "name": "Tipo de trabajo",
+      "options": [
+        {
+          "name": "Tiempo completo",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4rr9gnhUdFSJ6dAxBSnrYDTUIfC45TATRrSt-ofvU7qeucBr-Vh7WNgJYoS1RVbjlyuKw5Av7nCelkcAsTyX8ZkM1ME-IllnUe2wkRGAKOLiroxJnV8xy7C7ju7eeE1Pe8GZ4uLCANPwccvHQOVJiOj061MrKYojmQl2AiMD6ofqWV-Mp7mB-dHMx7oPRKDuewGu-JQKfgoOIgficNzWC0YIwIbSdt8xPA9zc-Y80f2sGjaht1npCZaINEOPwCIbX3rJ6K-u8m9S5xMt1NouQBEJPiLGsXbXB-QUGPoHqZew9Bsf10CyMsGym1dsYw_i0-jNAS_FCimS91lRg24lVbUf-3OP-2QPshTtR0yYxLNIRI_9nf",
+            "q": "data tiempo completo"
+          },
+          "link": "https://www.google.com/search?sca_esv=4d65981f01013b52&hl=es&gl=cl&sxsrf=APpeQnscrJ5s8SzZYF3d3PMTiZ8O1-WcjQ:1790968849782&q=data+tiempo+completo&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rr9gnhUdFSJ6dAxBSnrYDTUIfC45TATRrSt-ofvU7qeucBr-Vh7WNgJYoS1RVbjlyuKw5Av7nCelkcAsTyX8ZkM1ME-IllnUe2wkRGAKOLiroxJnV8xy7C7ju7eeE1Pe8GZ4uLCANPwccvHQOVJiOj061MrKYojmQl2AiMD6ofqWV-Mp7mB-dHMx7oPRKDuewGu-JQKfgoOIgficNzWC0YIwIbSdt8xPA9zc-Y80f2sGjaht1npCZaINEOPwCIbX3rJ6K-u8m9S5xMt1NouQBEJPiLGsXbXB-QUGPoHqZew9Bsf10CyMsGym1dsYw_i0-jNAS_FCimS91lRg24lVbUf-3OP-2QPshTtR0yYxLNIRI_9nf&chips=date_posted:3days&udm=8&sa=X&ved=2ahUKEwjr7-DwhpyXAxWoK1kFHTACFJwQkbEKegQIGBAC",
+          "serpapi_link": "https://serpapi.com/search.json?chips=date_posted%3A3days&engine=google_jobs&gl=cl&google_domain=google.com&hl=es&location=Chile&q=data+tiempo+completo&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rr9gnhUdFSJ6dAxBSnrYDTUIfC45TATRrSt-ofvU7qeucBr-Vh7WNgJYoS1RVbjlyuKw5Av7nCelkcAsTyX8ZkM1ME-IllnUe2wkRGAKOLiroxJnV8xy7C7ju7eeE1Pe8GZ4uLCANPwccvHQOVJiOj061MrKYojmQl2AiMD6ofqWV-Mp7mB-dHMx7oPRKDuewGu-JQKfgoOIgficNzWC0YIwIbSdt8xPA9zc-Y80f2sGjaht1npCZaINEOPwCIbX3rJ6K-u8m9S5xMt1NouQBEJPiLGsXbXB-QUGPoHqZew9Bsf10CyMsGym1dsYw_i0-jNAS_FCimS91lRg24lVbUf-3OP-2QPshTtR0yYxLNIRI_9nf"
+        },
+        {
+          "name": "Tiempo parcial",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4rjdygdj3dMWkENbzHOm63F5W6InAivNJx8GGz5wKhn4Rgs8VHsuj0UP3yYEXZD2EsIKhQ8faEcQKVfrXYVFuRXKMjFQY2C7a_aRWbYW7W5M6Z_Hi-ibIJqtwlqRy6y4cdWx07mt27NJhPa1Sa_-D-L0jKz2KF_A6lgX1OheNMz89uUr-bZeYNzyGh5iDJUUilWdF-0V6DNmOcxslc72nH5PDQISTKUG_lY9KqwvkYp5ciHgw9n2HBa7e0vx6B8cs_70pXLtqbbqqykicXbeCxS385xJSK45vkyL599AMOz9CXlBAhp0Pdo8O08iLx5Rr-q480o_lfx6Rtvsn-n5pP5fZXDIIXNbVu4IfwE5QAJUEAY3cn0acnjEpVg_HmbIuHesLmKw",
+            "q": "data tiempo parcial"
+          },
+          "link": "https://www.google.com/search?sca_esv=4d65981f01013b52&hl=es&gl=cl&sxsrf=APpeQnscrJ5s8SzZYF3d3PMTiZ8O1-WcjQ:1790968849782&q=data+tiempo+parcial&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rjdygdj3dMWkENbzHOm63F5W6InAivNJx8GGz5wKhn4Rgs8VHsuj0UP3yYEXZD2EsIKhQ8faEcQKVfrXYVFuRXKMjFQY2C7a_aRWbYW7W5M6Z_Hi-ibIJqtwlqRy6y4cdWx07mt27NJhPa1Sa_-D-L0jKz2KF_A6lgX1OheNMz89uUr-bZeYNzyGh5iDJUUilWdF-0V6DNmOcxslc72nH5PDQISTKUG_lY9KqwvkYp5ciHgw9n2HBa7e0vx6B8cs_70pXLtqbbqqykicXbeCxS385xJSK45vkyL599AMOz9CXlBAhp0Pdo8O08iLx5Rr-q480o_lfx6Rtvsn-n5pP5fZXDIIXNbVu4IfwE5QAJUEAY3cn0acnjEpVg_HmbIuHesLmKw&chips=date_posted:3days&udm=8&sa=X&ved=2ahUKEwjr7-DwhpyXAxWoK1kFHTACFJwQkbEKegQIGBAD",
+          "serpapi_link": "https://serpapi.com/search.json?chips=date_posted%3A3days&engine=google_jobs&gl=cl&google_domain=google.com&hl=es&location=Chile&q=data+tiempo+parcial&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rjdygdj3dMWkENbzHOm63F5W6InAivNJx8GGz5wKhn4Rgs8VHsuj0UP3yYEXZD2EsIKhQ8faEcQKVfrXYVFuRXKMjFQY2C7a_aRWbYW7W5M6Z_Hi-ibIJqtwlqRy6y4cdWx07mt27NJhPa1Sa_-D-L0jKz2KF_A6lgX1OheNMz89uUr-bZeYNzyGh5iDJUUilWdF-0V6DNmOcxslc72nH5PDQISTKUG_lY9KqwvkYp5ciHgw9n2HBa7e0vx6B8cs_70pXLtqbbqqykicXbeCxS385xJSK45vkyL599AMOz9CXlBAhp0Pdo8O08iLx5Rr-q480o_lfx6Rtvsn-n5pP5fZXDIIXNbVu4IfwE5QAJUEAY3cn0acnjEpVg_HmbIuHesLmKw"
+        },
+        {
+          "name": "Con contrato",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4rJYC-HJKx_PYAkikqTxfccjKPAxQy692sc6_UShfrrr-0_eSd437fDMF7ituz_7uRj_GCPpW6f8IR35QrYkI2OCYbLf0HIRbxmNhcJF6sauzBvrZOABJu-FgQTGJFJC26Ibm_azWcfhQkLV3BgnWlU77JuTpLvl1ChpxirSNyOaavdpefkS2O8oHpn1KY95prCD6rcIn7Kz3WB-nTk2MLUqQ9YZh9xk_OGeEYSV-PhnQtwNs3xUQy5EkBkqNAGJcHleMDrM4kyXp_xMqlhab9DuXyVJz1XHxw0L9rL2Voby246eVDRT6noD7_r9vLLHEJBuj2oxf7R1D-I3Zorjo7hssv9CEmfgq9wKllet1JilxuVs0aYhMwlfI53eGLWKVXkJ9jUA",
+            "q": "data con contrato"
+          },
+          "link": "https://www.google.com/search?sca_esv=4d65981f01013b52&hl=es&gl=cl&sxsrf=APpeQnscrJ5s8SzZYF3d3PMTiZ8O1-WcjQ:1790968849782&q=data+con+contrato&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rJYC-HJKx_PYAkikqTxfccjKPAxQy692sc6_UShfrrr-0_eSd437fDMF7ituz_7uRj_GCPpW6f8IR35QrYkI2OCYbLf0HIRbxmNhcJF6sauzBvrZOABJu-FgQTGJFJC26Ibm_azWcfhQkLV3BgnWlU77JuTpLvl1ChpxirSNyOaavdpefkS2O8oHpn1KY95prCD6rcIn7Kz3WB-nTk2MLUqQ9YZh9xk_OGeEYSV-PhnQtwNs3xUQy5EkBkqNAGJcHleMDrM4kyXp_xMqlhab9DuXyVJz1XHxw0L9rL2Voby246eVDRT6noD7_r9vLLHEJBuj2oxf7R1D-I3Zorjo7hssv9CEmfgq9wKllet1JilxuVs0aYhMwlfI53eGLWKVXkJ9jUA&chips=date_posted:3days&udm=8&sa=X&ved=2ahUKEwjr7-DwhpyXAxWoK1kFHTACFJwQkbEKegQIGBAE",
+          "serpapi_link": "https://serpapi.com/search.json?chips=date_posted%3A3days&engine=google_jobs&gl=cl&google_domain=google.com&hl=es&location=Chile&q=data+con+contrato&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rJYC-HJKx_PYAkikqTxfccjKPAxQy692sc6_UShfrrr-0_eSd437fDMF7ituz_7uRj_GCPpW6f8IR35QrYkI2OCYbLf0HIRbxmNhcJF6sauzBvrZOABJu-FgQTGJFJC26Ibm_azWcfhQkLV3BgnWlU77JuTpLvl1ChpxirSNyOaavdpefkS2O8oHpn1KY95prCD6rcIn7Kz3WB-nTk2MLUqQ9YZh9xk_OGeEYSV-PhnQtwNs3xUQy5EkBkqNAGJcHleMDrM4kyXp_xMqlhab9DuXyVJz1XHxw0L9rL2Voby246eVDRT6noD7_r9vLLHEJBuj2oxf7R1D-I3Zorjo7hssv9CEmfgq9wKllet1JilxuVs0aYhMwlfI53eGLWKVXkJ9jUA"
+        },
+        {
+          "name": "Prácticas",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4rS7y9Li8FvM8Ea1DOU-m9FaW48vbMyFrZwepQHs1GY0dgbp0vv2PMBOztv-_06zN-dmM9nqnos4EnhoGCxtpsmGVo8Pi9ThQjS4_YiDZYRNWPk1i_Yj6EFVEgo7pl9ltViDyBSxAItfRPO9GUHRFv_EWeWmx2VUJ1ApDtRYQB_TKV2fHVMKLTJeBWpoPBBfvbOsi0JgmVNsaOLzozqmapsC2QM94XaeHsNsyCSx6ic2_qNQFyhV_DHZwt-WFH-Qd-v8Sld9lFfacmN_Qfeh3hH7iirKz7EwtxYmMj0PJPzUM9zZZwkKNybVzGm_ATxbBo1mFrbywunPw7YUa67G5Tzy1gAad3MeUZ_rFxoCLTLPBmfwhr",
+            "q": "data prácticas"
+          },
+          "link": "https://www.google.com/search?sca_esv=4d65981f01013b52&hl=es&gl=cl&sxsrf=APpeQnscrJ5s8SzZYF3d3PMTiZ8O1-WcjQ:1790968849782&q=data+pr%C3%A1cticas&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rS7y9Li8FvM8Ea1DOU-m9FaW48vbMyFrZwepQHs1GY0dgbp0vv2PMBOztv-_06zN-dmM9nqnos4EnhoGCxtpsmGVo8Pi9ThQjS4_YiDZYRNWPk1i_Yj6EFVEgo7pl9ltViDyBSxAItfRPO9GUHRFv_EWeWmx2VUJ1ApDtRYQB_TKV2fHVMKLTJeBWpoPBBfvbOsi0JgmVNsaOLzozqmapsC2QM94XaeHsNsyCSx6ic2_qNQFyhV_DHZwt-WFH-Qd-v8Sld9lFfacmN_Qfeh3hH7iirKz7EwtxYmMj0PJPzUM9zZZwkKNybVzGm_ATxbBo1mFrbywunPw7YUa67G5Tzy1gAad3MeUZ_rFxoCLTLPBmfwhr&chips=date_posted:3days&udm=8&sa=X&ved=2ahUKEwjr7-DwhpyXAxWoK1kFHTACFJwQkbEKegQIGBAF",
+          "serpapi_link": "https://serpapi.com/search.json?chips=date_posted%3A3days&engine=google_jobs&gl=cl&google_domain=google.com&hl=es&location=Chile&q=data+pr%C3%A1cticas&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rS7y9Li8FvM8Ea1DOU-m9FaW48vbMyFrZwepQHs1GY0dgbp0vv2PMBOztv-_06zN-dmM9nqnos4EnhoGCxtpsmGVo8Pi9ThQjS4_YiDZYRNWPk1i_Yj6EFVEgo7pl9ltViDyBSxAItfRPO9GUHRFv_EWeWmx2VUJ1ApDtRYQB_TKV2fHVMKLTJeBWpoPBBfvbOsi0JgmVNsaOLzozqmapsC2QM94XaeHsNsyCSx6ic2_qNQFyhV_DHZwt-WFH-Qd-v8Sld9lFfacmN_Qfeh3hH7iirKz7EwtxYmMj0PJPzUM9zZZwkKNybVzGm_ATxbBo1mFrbywunPw7YUa67G5Tzy1gAad3MeUZ_rFxoCLTLPBmfwhr"
+        }
+      ]
+    },
+    {
+      "name": "Fecha de publicación",
+      "options": [
+        {
+          "name": "Ayer",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4rWPOoQuos13HPdhKOnKkvRW-mfcvhTsNeBqED-uxZCWwCzTHvRC7zFPeaoVriprEbeeqXuwmSYOtyFqqjPRTLjcmVNQ3Q4-l2wAkPZi266mWZASeKDR3zIaEYlXc6dj9rLPl7mivI1XZGsGBsF7AoUyGKDM3QBilbcvocOIJ41KQkMQRQe7y8xf-vo4EbczIkHhd1In9WId2ixaxw7sp3MMcw8_4EtdZzWVokvPZnwBDf0oGdlkwrsjmkzK8On_dDu_J34mxT7KxSsX4QsXRqx5HyktYeWtkjkJjibWiz19iEmVQeL7mlqxxm_vnESfJdjDZE8-8fL_V2AYSo7A3CPyKJVdRAmsoCcM0fkEijMPMspnKFyy7wMeqWpuuFnKd4qtwfPkmoJZZhlToLCgEtiP5YiOM",
+            "q": "data desde ayer"
+          },
+          "link": "https://www.google.com/search?sca_esv=4d65981f01013b52&hl=es&gl=cl&sxsrf=APpeQnscrJ5s8SzZYF3d3PMTiZ8O1-WcjQ:1790968849782&q=data+desde+ayer&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rWPOoQuos13HPdhKOnKkvRW-mfcvhTsNeBqED-uxZCWwCzTHvRC7zFPeaoVriprEbeeqXuwmSYOtyFqqjPRTLjcmVNQ3Q4-l2wAkPZi266mWZASeKDR3zIaEYlXc6dj9rLPl7mivI1XZGsGBsF7AoUyGKDM3QBilbcvocOIJ41KQkMQRQe7y8xf-vo4EbczIkHhd1In9WId2ixaxw7sp3MMcw8_4EtdZzWVokvPZnwBDf0oGdlkwrsjmkzK8On_dDu_J34mxT7KxSsX4QsXRqx5HyktYeWtkjkJjibWiz19iEmVQeL7mlqxxm_vnESfJdjDZE8-8fL_V2AYSo7A3CPyKJVdRAmsoCcM0fkEijMPMspnKFyy7wMeqWpuuFnKd4qtwfPkmoJZZhlToLCgEtiP5YiOM&chips=date_posted:3days&udm=8&sa=X&ved=2ahUKEwjr7-DwhpyXAxWoK1kFHTACFJwQkbEKegQIFxAC",
+          "serpapi_link": "https://serpapi.com/search.json?chips=date_posted%3A3days&engine=google_jobs&gl=cl&google_domain=google.com&hl=es&location=Chile&q=data+desde+ayer&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rWPOoQuos13HPdhKOnKkvRW-mfcvhTsNeBqED-uxZCWwCzTHvRC7zFPeaoVriprEbeeqXuwmSYOtyFqqjPRTLjcmVNQ3Q4-l2wAkPZi266mWZASeKDR3zIaEYlXc6dj9rLPl7mivI1XZGsGBsF7AoUyGKDM3QBilbcvocOIJ41KQkMQRQe7y8xf-vo4EbczIkHhd1In9WId2ixaxw7sp3MMcw8_4EtdZzWVokvPZnwBDf0oGdlkwrsjmkzK8On_dDu_J34mxT7KxSsX4QsXRqx5HyktYeWtkjkJjibWiz19iEmVQeL7mlqxxm_vnESfJdjDZE8-8fL_V2AYSo7A3CPyKJVdRAmsoCcM0fkEijMPMspnKFyy7wMeqWpuuFnKd4qtwfPkmoJZZhlToLCgEtiP5YiOM"
+        },
+        {
+          "name": "Últimos 3 días",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4rtPojjA27olSwuHLKxyl9ciM0klYg7p9TSxYcnAN2T-Fl4CezAfJV_PESHgos7O0FxmM3PSY2uwNOsJJEwPtwTZkU7UGrnasXv4ZDk4j0o5oYFRkIDL25pT3s0l215b2WkWg7lC-6KCOUs8M-DXfDJIoMU63CbY4oia0Db8o1dSY-lTtLMuDETMWBwNOef73Nl3yp32odR_q2q4WZnh1JmEkhpVmgIX0pZi9Ixg4iINAzNfdlroGx5yVYra0C_or_o8cgu0fbhDEUReaBq-TiaK6zH-kXl6WGoPjhhAGltUwjoZlKkqUNTXu-zNt0vvKnbdS9aAwGZKCzk1ZD_-77V2wQe3b_l3zQBWNYMmZBiEYk2DBr6B685D7MCRRqr_4CbevTjIojqNBP91oLVTRT14XSLNA",
+            "q": "data en los últimos 3 días"
+          },
+          "link": "https://www.google.com/search?sca_esv=4d65981f01013b52&hl=es&gl=cl&sxsrf=APpeQnscrJ5s8SzZYF3d3PMTiZ8O1-WcjQ:1790968849782&q=data+en+los+%C3%BAltimos+3+d%C3%ADas&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rtPojjA27olSwuHLKxyl9ciM0klYg7p9TSxYcnAN2T-Fl4CezAfJV_PESHgos7O0FxmM3PSY2uwNOsJJEwPtwTZkU7UGrnasXv4ZDk4j0o5oYFRkIDL25pT3s0l215b2WkWg7lC-6KCOUs8M-DXfDJIoMU63CbY4oia0Db8o1dSY-lTtLMuDETMWBwNOef73Nl3yp32odR_q2q4WZnh1JmEkhpVmgIX0pZi9Ixg4iINAzNfdlroGx5yVYra0C_or_o8cgu0fbhDEUReaBq-TiaK6zH-kXl6WGoPjhhAGltUwjoZlKkqUNTXu-zNt0vvKnbdS9aAwGZKCzk1ZD_-77V2wQe3b_l3zQBWNYMmZBiEYk2DBr6B685D7MCRRqr_4CbevTjIojqNBP91oLVTRT14XSLNA&chips=date_posted:3days&udm=8&sa=X&ved=2ahUKEwjr7-DwhpyXAxWoK1kFHTACFJwQkbEKegQIFxAD",
+          "serpapi_link": "https://serpapi.com/search.json?chips=date_posted%3A3days&engine=google_jobs&gl=cl&google_domain=google.com&hl=es&location=Chile&q=data+en+los+%C3%BAltimos+3+d%C3%ADas&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rtPojjA27olSwuHLKxyl9ciM0klYg7p9TSxYcnAN2T-Fl4CezAfJV_PESHgos7O0FxmM3PSY2uwNOsJJEwPtwTZkU7UGrnasXv4ZDk4j0o5oYFRkIDL25pT3s0l215b2WkWg7lC-6KCOUs8M-DXfDJIoMU63CbY4oia0Db8o1dSY-lTtLMuDETMWBwNOef73Nl3yp32odR_q2q4WZnh1JmEkhpVmgIX0pZi9Ixg4iINAzNfdlroGx5yVYra0C_or_o8cgu0fbhDEUReaBq-TiaK6zH-kXl6WGoPjhhAGltUwjoZlKkqUNTXu-zNt0vvKnbdS9aAwGZKCzk1ZD_-77V2wQe3b_l3zQBWNYMmZBiEYk2DBr6B685D7MCRRqr_4CbevTjIojqNBP91oLVTRT14XSLNA"
+        },
+        {
+          "name": "Última semana",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4rAcot_iWY5OTyFR6kR7h3sWr3G4c5jSP7eh1Uj_JwhO17ayGBOfyysM9ivWN9Tcp11-B2QET2wvoO7gXkkQhKp1TZzW57JsjuhE2CJ07cWcsjh0y6Gad4YNQchi8xAFaSWrW_b4r8d-XIJI7qZEtyL-bVLHvNuvp7hU7ykoVF5wU7fymEYGQaIwSFmWDnToKTRphrcs4Fk0JAGofRnAHtZ-10xRrmTNvDgQSjKgNoP4YGGE9g5VUbF6ILkhPbwYSpZX-ce95V7SIqaa2vz8bhbcFYQ3dcHJ-Bb2Di8SQfKR11QOl0b0RJLjWRv-8fQxXq7q73sDvCNAHWeDyovUIx6OISS9M2Yi8tH_lFQXVBT43NJu-ZKJ_HaSC1K_IoZv9XH-eeD0S9oYDEF3dST-NOM93emt8",
+            "q": "data en la última semana"
+          },
+          "link": "https://www.google.com/search?sca_esv=4d65981f01013b52&hl=es&gl=cl&sxsrf=APpeQnscrJ5s8SzZYF3d3PMTiZ8O1-WcjQ:1790968849782&q=data+en+la+%C3%BAltima+semana&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rAcot_iWY5OTyFR6kR7h3sWr3G4c5jSP7eh1Uj_JwhO17ayGBOfyysM9ivWN9Tcp11-B2QET2wvoO7gXkkQhKp1TZzW57JsjuhE2CJ07cWcsjh0y6Gad4YNQchi8xAFaSWrW_b4r8d-XIJI7qZEtyL-bVLHvNuvp7hU7ykoVF5wU7fymEYGQaIwSFmWDnToKTRphrcs4Fk0JAGofRnAHtZ-10xRrmTNvDgQSjKgNoP4YGGE9g5VUbF6ILkhPbwYSpZX-ce95V7SIqaa2vz8bhbcFYQ3dcHJ-Bb2Di8SQfKR11QOl0b0RJLjWRv-8fQxXq7q73sDvCNAHWeDyovUIx6OISS9M2Yi8tH_lFQXVBT43NJu-ZKJ_HaSC1K_IoZv9XH-eeD0S9oYDEF3dST-NOM93emt8&chips=date_posted:3days&udm=8&sa=X&ved=2ahUKEwjr7-DwhpyXAxWoK1kFHTACFJwQkbEKegQIFxAE",
+          "serpapi_link": "https://serpapi.com/search.json?chips=date_posted%3A3days&engine=google_jobs&gl=cl&google_domain=google.com&hl=es&location=Chile&q=data+en+la+%C3%BAltima+semana&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rAcot_iWY5OTyFR6kR7h3sWr3G4c5jSP7eh1Uj_JwhO17ayGBOfyysM9ivWN9Tcp11-B2QET2wvoO7gXkkQhKp1TZzW57JsjuhE2CJ07cWcsjh0y6Gad4YNQchi8xAFaSWrW_b4r8d-XIJI7qZEtyL-bVLHvNuvp7hU7ykoVF5wU7fymEYGQaIwSFmWDnToKTRphrcs4Fk0JAGofRnAHtZ-10xRrmTNvDgQSjKgNoP4YGGE9g5VUbF6ILkhPbwYSpZX-ce95V7SIqaa2vz8bhbcFYQ3dcHJ-Bb2Di8SQfKR11QOl0b0RJLjWRv-8fQxXq7q73sDvCNAHWeDyovUIx6OISS9M2Yi8tH_lFQXVBT43NJu-ZKJ_HaSC1K_IoZv9XH-eeD0S9oYDEF3dST-NOM93emt8"
+        },
+        {
+          "name": "Último mes",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4r7hOUA05M1a03bn-LSaBMsUhsumxbE0ZFFwwAyjsigb0fsTLRVXhi-eftCrc87D2ZmlusUZPY1rXjxf_QonaWZItOWtQQsxFutH3_Kw1nKdOV77Z9u9-DYpwZlBP50PjHHsCLKxxfv2HsnUxfSub3zlhlgWQQu9PP70dSaUaSwornPfOEC7OODLrIasDk0uN2k5ckHbh5qiHSMF0KxLgq4kXxSwtCnzcXCcg6ZpOcLn2Mvc3ewCzAkhvSh0qhHm0C5PrOUozFBAa9m3c6Xeh0U47lz5KPMw85BqX8DBMbCtdjWjPTdCXsLX2STMs_f5S55gdWy91sOqaV8Wz6EeNjf-tq_UbIzuptg40GefMYGsgRSLizMZfx4vD_L-sYCxtDy-erbQDwHgBhH7WlfBBKidr9vqA",
+            "q": "data en el último mes"
+          },
+          "link": "https://www.google.com/search?sca_esv=4d65981f01013b52&hl=es&gl=cl&sxsrf=APpeQnscrJ5s8SzZYF3d3PMTiZ8O1-WcjQ:1790968849782&q=data+en+el+%C3%BAltimo+mes&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4r7hOUA05M1a03bn-LSaBMsUhsumxbE0ZFFwwAyjsigb0fsTLRVXhi-eftCrc87D2ZmlusUZPY1rXjxf_QonaWZItOWtQQsxFutH3_Kw1nKdOV77Z9u9-DYpwZlBP50PjHHsCLKxxfv2HsnUxfSub3zlhlgWQQu9PP70dSaUaSwornPfOEC7OODLrIasDk0uN2k5ckHbh5qiHSMF0KxLgq4kXxSwtCnzcXCcg6ZpOcLn2Mvc3ewCzAkhvSh0qhHm0C5PrOUozFBAa9m3c6Xeh0U47lz5KPMw85BqX8DBMbCtdjWjPTdCXsLX2STMs_f5S55gdWy91sOqaV8Wz6EeNjf-tq_UbIzuptg40GefMYGsgRSLizMZfx4vD_L-sYCxtDy-erbQDwHgBhH7WlfBBKidr9vqA&chips=date_posted:3days&udm=8&sa=X&ved=2ahUKEwjr7-DwhpyXAxWoK1kFHTACFJwQkbEKegQIFxAF",
+          "serpapi_link": "https://serpapi.com/search.json?chips=date_posted%3A3days&engine=google_jobs&gl=cl&google_domain=google.com&hl=es&location=Chile&q=data+en+el+%C3%BAltimo+mes&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4r7hOUA05M1a03bn-LSaBMsUhsumxbE0ZFFwwAyjsigb0fsTLRVXhi-eftCrc87D2ZmlusUZPY1rXjxf_QonaWZItOWtQQsxFutH3_Kw1nKdOV77Z9u9-DYpwZlBP50PjHHsCLKxxfv2HsnUxfSub3zlhlgWQQu9PP70dSaUaSwornPfOEC7OODLrIasDk0uN2k5ckHbh5qiHSMF0KxLgq4kXxSwtCnzcXCcg6ZpOcLn2Mvc3ewCzAkhvSh0qhHm0C5PrOUozFBAa9m3c6Xeh0U47lz5KPMw85BqX8DBMbCtdjWjPTdCXsLX2STMs_f5S55gdWy91sOqaV8Wz6EeNjf-tq_UbIzuptg40GefMYGsgRSLizMZfx4vD_L-sYCxtDy-erbQDwHgBhH7WlfBBKidr9vqA"
+        }
+      ]
+    },
+    {
+      "name": "Fecha de publicación",
+      "options": [
+        {
+          "name": "Ayer",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4rWPOoQuos13HPdhKOnKkvRW-mfcvhTsNeBqED-uxZCWwCzTHvRC7zFPeaoVriprEbeeqXuwmSYOtyFqqjPRTLjcmVNQ3Q4-l2wAkPZi266mWZASeKDR3zIaEYlXc6dj9rLPl7mivI1XZGsGBsF7AoUyGKDM3QBilbcvocOIJ41KQkMQRQe7y8xf-vo4EbczIkHhd1In9WId2ixaxw7sp3MMcw8_4EtdZzWVokvPZnwBDf0oGdlkwrsjmkzK8On_dDu_J34mxT7KxSsX4QsXRqx5HyktYeWtkjkJjibWiz19iEmVQeL7mlqxxm_vnESfJdjDZE8-8fL_V2AYSo7A3CPyKJVdRAmsoCcM0fkEijMPMspnKFyy7wMeqWpuuFnKd4qtwfPkmoJZZhlToLCgEtiP5YiOM",
+            "q": "data desde ayer"
+          },
+          "link": "https://www.google.com/search?sca_esv=4d65981f01013b52&hl=es&gl=cl&sxsrf=APpeQnscrJ5s8SzZYF3d3PMTiZ8O1-WcjQ:1790968849782&q=data+desde+ayer&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rWPOoQuos13HPdhKOnKkvRW-mfcvhTsNeBqED-uxZCWwCzTHvRC7zFPeaoVriprEbeeqXuwmSYOtyFqqjPRTLjcmVNQ3Q4-l2wAkPZi266mWZASeKDR3zIaEYlXc6dj9rLPl7mivI1XZGsGBsF7AoUyGKDM3QBilbcvocOIJ41KQkMQRQe7y8xf-vo4EbczIkHhd1In9WId2ixaxw7sp3MMcw8_4EtdZzWVokvPZnwBDf0oGdlkwrsjmkzK8On_dDu_J34mxT7KxSsX4QsXRqx5HyktYeWtkjkJjibWiz19iEmVQeL7mlqxxm_vnESfJdjDZE8-8fL_V2AYSo7A3CPyKJVdRAmsoCcM0fkEijMPMspnKFyy7wMeqWpuuFnKd4qtwfPkmoJZZhlToLCgEtiP5YiOM&chips=date_posted:3days&udm=8&sa=X&ved=2ahUKEwjr7-DwhpyXAxWoK1kFHTACFJwQkbEKegQIFxAC",
+          "serpapi_link": "https://serpapi.com/search.json?chips=date_posted%3A3days&engine=google_jobs&gl=cl&google_domain=google.com&hl=es&location=Chile&q=data+desde+ayer&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rWPOoQuos13HPdhKOnKkvRW-mfcvhTsNeBqED-uxZCWwCzTHvRC7zFPeaoVriprEbeeqXuwmSYOtyFqqjPRTLjcmVNQ3Q4-l2wAkPZi266mWZASeKDR3zIaEYlXc6dj9rLPl7mivI1XZGsGBsF7AoUyGKDM3QBilbcvocOIJ41KQkMQRQe7y8xf-vo4EbczIkHhd1In9WId2ixaxw7sp3MMcw8_4EtdZzWVokvPZnwBDf0oGdlkwrsjmkzK8On_dDu_J34mxT7KxSsX4QsXRqx5HyktYeWtkjkJjibWiz19iEmVQeL7mlqxxm_vnESfJdjDZE8-8fL_V2AYSo7A3CPyKJVdRAmsoCcM0fkEijMPMspnKFyy7wMeqWpuuFnKd4qtwfPkmoJZZhlToLCgEtiP5YiOM"
+        },
+        {
+          "name": "Últimos 3 días",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4rtPojjA27olSwuHLKxyl9ciM0klYg7p9TSxYcnAN2T-Fl4CezAfJV_PESHgos7O0FxmM3PSY2uwNOsJJEwPtwTZkU7UGrnasXv4ZDk4j0o5oYFRkIDL25pT3s0l215b2WkWg7lC-6KCOUs8M-DXfDJIoMU63CbY4oia0Db8o1dSY-lTtLMuDETMWBwNOef73Nl3yp32odR_q2q4WZnh1JmEkhpVmgIX0pZi9Ixg4iINAzNfdlroGx5yVYra0C_or_o8cgu0fbhDEUReaBq-TiaK6zH-kXl6WGoPjhhAGltUwjoZlKkqUNTXu-zNt0vvKnbdS9aAwGZKCzk1ZD_-77V2wQe3b_l3zQBWNYMmZBiEYk2DBr6B685D7MCRRqr_4CbevTjIojqNBP91oLVTRT14XSLNA",
+            "q": "data en los últimos 3 días"
+          },
+          "link": "https://www.google.com/search?sca_esv=4d65981f01013b52&hl=es&gl=cl&sxsrf=APpeQnscrJ5s8SzZYF3d3PMTiZ8O1-WcjQ:1790968849782&q=data+en+los+%C3%BAltimos+3+d%C3%ADas&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rtPojjA27olSwuHLKxyl9ciM0klYg7p9TSxYcnAN2T-Fl4CezAfJV_PESHgos7O0FxmM3PSY2uwNOsJJEwPtwTZkU7UGrnasXv4ZDk4j0o5oYFRkIDL25pT3s0l215b2WkWg7lC-6KCOUs8M-DXfDJIoMU63CbY4oia0Db8o1dSY-lTtLMuDETMWBwNOef73Nl3yp32odR_q2q4WZnh1JmEkhpVmgIX0pZi9Ixg4iINAzNfdlroGx5yVYra0C_or_o8cgu0fbhDEUReaBq-TiaK6zH-kXl6WGoPjhhAGltUwjoZlKkqUNTXu-zNt0vvKnbdS9aAwGZKCzk1ZD_-77V2wQe3b_l3zQBWNYMmZBiEYk2DBr6B685D7MCRRqr_4CbevTjIojqNBP91oLVTRT14XSLNA&chips=date_posted:3days&udm=8&sa=X&ved=2ahUKEwjr7-DwhpyXAxWoK1kFHTACFJwQkbEKegQIFxAD",
+          "serpapi_link": "https://serpapi.com/search.json?chips=date_posted%3A3days&engine=google_jobs&gl=cl&google_domain=google.com&hl=es&location=Chile&q=data+en+los+%C3%BAltimos+3+d%C3%ADas&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rtPojjA27olSwuHLKxyl9ciM0klYg7p9TSxYcnAN2T-Fl4CezAfJV_PESHgos7O0FxmM3PSY2uwNOsJJEwPtwTZkU7UGrnasXv4ZDk4j0o5oYFRkIDL25pT3s0l215b2WkWg7lC-6KCOUs8M-DXfDJIoMU63CbY4oia0Db8o1dSY-lTtLMuDETMWBwNOef73Nl3yp32odR_q2q4WZnh1JmEkhpVmgIX0pZi9Ixg4iINAzNfdlroGx5yVYra0C_or_o8cgu0fbhDEUReaBq-TiaK6zH-kXl6WGoPjhhAGltUwjoZlKkqUNTXu-zNt0vvKnbdS9aAwGZKCzk1ZD_-77V2wQe3b_l3zQBWNYMmZBiEYk2DBr6B685D7MCRRqr_4CbevTjIojqNBP91oLVTRT14XSLNA"
+        },
+        {
+          "name": "Última semana",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4rAcot_iWY5OTyFR6kR7h3sWr3G4c5jSP7eh1Uj_JwhO17ayGBOfyysM9ivWN9Tcp11-B2QET2wvoO7gXkkQhKp1TZzW57JsjuhE2CJ07cWcsjh0y6Gad4YNQchi8xAFaSWrW_b4r8d-XIJI7qZEtyL-bVLHvNuvp7hU7ykoVF5wU7fymEYGQaIwSFmWDnToKTRphrcs4Fk0JAGofRnAHtZ-10xRrmTNvDgQSjKgNoP4YGGE9g5VUbF6ILkhPbwYSpZX-ce95V7SIqaa2vz8bhbcFYQ3dcHJ-Bb2Di8SQfKR11QOl0b0RJLjWRv-8fQxXq7q73sDvCNAHWeDyovUIx6OISS9M2Yi8tH_lFQXVBT43NJu-ZKJ_HaSC1K_IoZv9XH-eeD0S9oYDEF3dST-NOM93emt8",
+            "q": "data en la última semana"
+          },
+          "link": "https://www.google.com/search?sca_esv=4d65981f01013b52&hl=es&gl=cl&sxsrf=APpeQnscrJ5s8SzZYF3d3PMTiZ8O1-WcjQ:1790968849782&q=data+en+la+%C3%BAltima+semana&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rAcot_iWY5OTyFR6kR7h3sWr3G4c5jSP7eh1Uj_JwhO17ayGBOfyysM9ivWN9Tcp11-B2QET2wvoO7gXkkQhKp1TZzW57JsjuhE2CJ07cWcsjh0y6Gad4YNQchi8xAFaSWrW_b4r8d-XIJI7qZEtyL-bVLHvNuvp7hU7ykoVF5wU7fymEYGQaIwSFmWDnToKTRphrcs4Fk0JAGofRnAHtZ-10xRrmTNvDgQSjKgNoP4YGGE9g5VUbF6ILkhPbwYSpZX-ce95V7SIqaa2vz8bhbcFYQ3dcHJ-Bb2Di8SQfKR11QOl0b0RJLjWRv-8fQxXq7q73sDvCNAHWeDyovUIx6OISS9M2Yi8tH_lFQXVBT43NJu-ZKJ_HaSC1K_IoZv9XH-eeD0S9oYDEF3dST-NOM93emt8&chips=date_posted:3days&udm=8&sa=X&ved=2ahUKEwjr7-DwhpyXAxWoK1kFHTACFJwQkbEKegQIFxAE",
+          "serpapi_link": "https://serpapi.com/search.json?chips=date_posted%3A3days&engine=google_jobs&gl=cl&google_domain=google.com&hl=es&location=Chile&q=data+en+la+%C3%BAltima+semana&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rAcot_iWY5OTyFR6kR7h3sWr3G4c5jSP7eh1Uj_JwhO17ayGBOfyysM9ivWN9Tcp11-B2QET2wvoO7gXkkQhKp1TZzW57JsjuhE2CJ07cWcsjh0y6Gad4YNQchi8xAFaSWrW_b4r8d-XIJI7qZEtyL-bVLHvNuvp7hU7ykoVF5wU7fymEYGQaIwSFmWDnToKTRphrcs4Fk0JAGofRnAHtZ-10xRrmTNvDgQSjKgNoP4YGGE9g5VUbF6ILkhPbwYSpZX-ce95V7SIqaa2vz8bhbcFYQ3dcHJ-Bb2Di8SQfKR11QOl0b0RJLjWRv-8fQxXq7q73sDvCNAHWeDyovUIx6OISS9M2Yi8tH_lFQXVBT43NJu-ZKJ_HaSC1K_IoZv9XH-eeD0S9oYDEF3dST-NOM93emt8"
+        },
+        {
+          "name": "Último mes",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4r7hOUA05M1a03bn-LSaBMsUhsumxbE0ZFFwwAyjsigb0fsTLRVXhi-eftCrc87D2ZmlusUZPY1rXjxf_QonaWZItOWtQQsxFutH3_Kw1nKdOV77Z9u9-DYpwZlBP50PjHHsCLKxxfv2HsnUxfSub3zlhlgWQQu9PP70dSaUaSwornPfOEC7OODLrIasDk0uN2k5ckHbh5qiHSMF0KxLgq4kXxSwtCnzcXCcg6ZpOcLn2Mvc3ewCzAkhvSh0qhHm0C5PrOUozFBAa9m3c6Xeh0U47lz5KPMw85BqX8DBMbCtdjWjPTdCXsLX2STMs_f5S55gdWy91sOqaV8Wz6EeNjf-tq_UbIzuptg40GefMYGsgRSLizMZfx4vD_L-sYCxtDy-erbQDwHgBhH7WlfBBKidr9vqA",
+            "q": "data en el último mes"
+          },
+          "link": "https://www.google.com/search?sca_esv=4d65981f01013b52&hl=es&gl=cl&sxsrf=APpeQnscrJ5s8SzZYF3d3PMTiZ8O1-WcjQ:1790968849782&q=data+en+el+%C3%BAltimo+mes&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4r7hOUA05M1a03bn-LSaBMsUhsumxbE0ZFFwwAyjsigb0fsTLRVXhi-eftCrc87D2ZmlusUZPY1rXjxf_QonaWZItOWtQQsxFutH3_Kw1nKdOV77Z9u9-DYpwZlBP50PjHHsCLKxxfv2HsnUxfSub3zlhlgWQQu9PP70dSaUaSwornPfOEC7OODLrIasDk0uN2k5ckHbh5qiHSMF0KxLgq4kXxSwtCnzcXCcg6ZpOcLn2Mvc3ewCzAkhvSh0qhHm0C5PrOUozFBAa9m3c6Xeh0U47lz5KPMw85BqX8DBMbCtdjWjPTdCXsLX2STMs_f5S55gdWy91sOqaV8Wz6EeNjf-tq_UbIzuptg40GefMYGsgRSLizMZfx4vD_L-sYCxtDy-erbQDwHgBhH7WlfBBKidr9vqA&chips=date_posted:3days&udm=8&sa=X&ved=2ahUKEwjr7-DwhpyXAxWoK1kFHTACFJwQkbEKegQIFxAF",
+          "serpapi_link": "https://serpapi.com/search.json?chips=date_posted%3A3days&engine=google_jobs&gl=cl&google_domain=google.com&hl=es&location=Chile&q=data+en+el+%C3%BAltimo+mes&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4r7hOUA05M1a03bn-LSaBMsUhsumxbE0ZFFwwAyjsigb0fsTLRVXhi-eftCrc87D2ZmlusUZPY1rXjxf_QonaWZItOWtQQsxFutH3_Kw1nKdOV77Z9u9-DYpwZlBP50PjHHsCLKxxfv2HsnUxfSub3zlhlgWQQu9PP70dSaUaSwornPfOEC7OODLrIasDk0uN2k5ckHbh5qiHSMF0KxLgq4kXxSwtCnzcXCcg6ZpOcLn2Mvc3ewCzAkhvSh0qhHm0C5PrOUozFBAa9m3c6Xeh0U47lz5KPMw85BqX8DBMbCtdjWjPTdCXsLX2STMs_f5S55gdWy91sOqaV8Wz6EeNjf-tq_UbIzuptg40GefMYGsgRSLizMZfx4vD_L-sYCxtDy-erbQDwHgBhH7WlfBBKidr9vqA"
+        }
+      ]
+    }
+  ],
+  "jobs_results": [
+    {
+      "title": "Data & AI Architect Senior",
+      "company_name": "Muck Consultores",
+      "location": "Santiago",
+      "via": "Chiletrabajos",
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Data+Engineer&htidocid=zQSk-lU0ING21E3zAAAAAA%3D%3D&hl=es-CL&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_xXMsQrCMBAAUFz7CeJwk4NDI4KDdSoK4uDUDyjX9EijaS7mrtAv8WNc_THp8sZXfFbF6YqKsIX6DnW2g1eyCg1Fz7mC7veV90Q9Qk9AYwrEQBFuzC7Q-jyoJqmMEQmlE0X1trQ8Go7U8Wye3MlCKwNmSgGV2sNxP5cput3mMdkXXDjKFJQzyRI3GNWj4z8KD3ANmQAAAA&shmds=v1_ARwrE22w_UyE3s9CXa2SHXZMSkzGmbZfrcU0I4PRLq7aFQoWAQ&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Data+Engineer&htidocid=zQSk-lU0ING21E3zAAAAAA%3D%3D",
+      "extensions": [
+        "hace 1 día",
+        "Tiempo completo"
+      ],
+      "source_link": "https://www.chiletrabajos.cl/trabajo/3907060",
+      "job_title": "Data & AI Architect Senior",
+      "description": "Hay empresas que mueven millones de transacciones al día, y detrás de cada una de ellas hay datos que necesitan ser gobernados, arquitecturados y potenciados con inteligencia artificial.\r\n\r\nEn Muck Consultores llevamos más de 17 años conectando talento especializado con los proyectos tecnológicos más exigentes de Chile y Latinoamérica. Nos sumamos a los equipos de nuestros clientes desde adentro, como una extensión natural de su capacidad tecnológica, acompañando transformaciones que importan en las industrias más desafiantes.\r\n\r\nPropósito del Rol:\r\nBuscamos un/a Data & AI Architect Senior para integrarse a un proyecto de alto impacto en importante empresa del sector retail. El rol es estratégico y técnico: diseñar la arquitectura de datos que habilita soluciones de IA Generativa en producción, trabajando codo a codo con equipos de ingeniería de agentes IA, DevOps y operaciones en un ecosistema multicloud (Azure, AWS y OCI).\r\nNo buscamos solo a alguien que modele datos. Buscamos a alguien que entienda cómo los datos alimentan agentes, LLMs y pipelines de IA a escala empresarial.\r\n\r\nPrincipales Funciones:\r\nDiseñar y definir la arquitectura de datos en ecosistema multicloud (Azure, AWS y OCI)\r\nDefinir estándares de etiquetado, clasificación y gobierno de datos en las distintas plataformas cloud\r\nHabilitar datos de calidad para soluciones de IA Generativa: RAG, LangChain, LangGraph, LLMs y agentes inteligentes\r\nParticipar en el co-desarrollo de automatizaciones orientadas a datos junto al equipo de ingeniería IA\r\nColaborar con equipos DevOps en la implementación de pipelines CI/CD orientados a datos\r\nDiseñar modelos de gobierno de datos, runbooks y estándares operacionales\r\nAsegurar calidad, disponibilidad y trazabilidad de los datos en entornos productivos\r\nParticipar en la definición de KPIs y métricas de datos para la organización\r\n\r\nRequisitos:\r\n+5 años de experiencia como Arquitecto de Datos o Data & AI Architect\r\nExperiencia en arquitecturas de datos multicloud (Azure, AWS y/u OCI)\r\nConocimiento en Data Lakes, Data Warehouses y arquitecturas modernas de datos\r\nExperiencia habilitando datos para soluciones de IA Generativa, RAG o LLMs\r\nManejo de herramientas de procesamiento y almacenamiento de datos a gran escala\r\nConocimiento en pipelines ETL/ELT, orquestación y gobierno de datos\r\nExperiencia en MLOps o LLMOps aplicada a datos\r\nTitulado en Ingeniería en Informática, Sistemas, Ingeniería Civil en Informática o similares\r\n\r\nDeseable:\r\nExperiencia con herramientas de observabilidad de datos\r\nConocimiento en automatización con Ansible o herramientas similares\r\nExperiencia en smoke tests y control de calidad de datos\r\nConocimiento en frameworks agénticos: LangChain, LangGraph u otros\r\n\r\nOfrecemos:\r\nBono de colación y movilización\r\nSeguro complementario de salud\r\nModalidad: Híbrido\r\nReajuste salarial por IPC anual\r\nRenta competitiva acorde al mercado\r\nContrato a plazo fijo, después indefinido\r\nDuración: 6 meses con extensión\r\nParticipación en proyecto de alto impacto en el sector retail",
+      "apply_options": [
+        {
+          "title": "Chiletrabajos",
+          "link": "https://www.chiletrabajos.cl/trabajo/3907060?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Trabajo.org",
+          "link": "https://cl.trabajo.org/oferta-5349-7ec909a58c24558f85582b596f827f29?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJEYXRhIFx1MDAyNiBBSSBBcmNoaXRlY3QgU2VuaW9yIiwiY29tcGFueV9uYW1lIjoiTXVjayBDb25zdWx0b3JlcyIsImh0aWRvY2lkIjoielFTay1sVTBJTkcyMUUzekFBQUFBQT09IiwidXVsZSI6IncrQ0FJUUlDSUZRMmhwYkdVIiwiZ2wiOiJjbCIsImhsIjoiZXMiLCJmYyI6IkVzd0JDb3dCUVVwcFZEUjBTMFkyUVVndGEyeDRjRFZCWDI0NWNYWTRMUzFNV0UweWNFSktablU1UVhWWmIzbE9Samx0UTBWdllVSjZhamRDZWpZME16QjJSa3g2UmtaSlVrOTFiMEpXWHpkVGFrY3RaVUV5YlV4dFZrcG1lRTV4YzBKMFF6RTVjVmxaU2w5dWFHRXRSWGhxVjBacVFrdzRhMlJYY2t4M2RsUTRWR1Y1YmpKM2VFVm5TMkpMV2kxZlQzQVNGMFZSVkVGaGNYVnFURFpxV0RWT2IxQnpTVlJSTkVGckdpSkJSSE55T1daVFUwTlJWVWh2VTIxRVEwOWtObHBxVEVGSWRXTjBVSEp5YzI1biIsImZjdiI6IjMiLCJmY19pZCI6InpRU2stbFUwSU5HMjFFM3pBQUFBQUE9PSJ9"
+    },
+    {
+      "title": "Ingeniero(a) de Datos (Data Driven Marketing) - Casa Central",
+      "company_name": "DUOC UC",
+      "location": "Santiago",
+      "via": "Trabajando.cl",
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Data+Engineer&htidocid=q0ZZDfG2IKKt00sdAAAAAA%3D%3D&hl=es-CL&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_xWMoQ7CMBBAg53FoU4OElZCggG5JQRBEASFIDe4dIWuV3oH2V_hsfwYm3lPvZd9Rtl5FywFR4lznMKNoEJlgbwXQpXcmwLsMT1IXbBTmEOJglBS0IR-DfXvK88X3XBIqY2eGPpiy2w9TTaNapS1MSK-sKKo7lpcuTUcqObO3LmWARdpMFH0qHRZrhZdEYOdjavToYRTOfyOGNSh5T8Ot_3GsgAAAA&shmds=v1_ARwrE20uSexoBWao-8dKWALHfePy_axpaSWfqgJ1JY_4H6zAbg&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Data+Engineer&htidocid=q0ZZDfG2IKKt00sdAAAAAA%3D%3D",
+      "thumbnail": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAADgAAAAwCAMAAABzC0lBAAAAnFBMVEX____3rAD3rgD70IwAAADy9PUAAAYAAA_h5ejd4eT99ef9-O38683U2d34qQDY3N-YnqWAiJD82KDr7vD78NgAABf97dTO09f5zoT2uC3Cxsq2u8B1fYdia3b526RGUV8IIjkAACn615b5zXn5vlH3vT6QlZz5yG754K8nOEsAEC73tB33xF8AHjgAACP4vEYXKz9XYG2nrLH85sAvt9U6AAABSUlEQVRIie2SW3ODIBCFFyLKKogGEnNPqkmLTa_x__-3rprLdCYPmb7WM6Mg8nEOCwCDBg0a9LjMX7nCXrrJVKn4QQwLNPqCzliapnN1d6LMFwDLXNBrtc6F0Kg1Gux_jpiKN5zdNdVBBpAHFrbBbvsEiMZKqQtxBokpebnhCiru6En3NDLi6QF02IKRyKLnLoC2wqJEewMVfxmzBioWV6z0_Eije--vYP3aB7BSoDbyF1iNGTkyRxC8MXfk3cwetO91D5IZGonyBs64P4NsDpRWtTxVMaSIqwjqD9GDC0O7vILTuGRHGPNZMufxgbZJdp98k9CCkxrE7guyybcFCdKIlkNxPg46DypHTO0-dY4zxjxQk5L3KYiiqABYB2EYUAKUrfqSx02jkq7jXdL2mqb7bLxrw56W3fq4PBVtXcnvenUGDRr0X_UDpWQVZfw5PfEAAAAASUVORK5CYII.png",
+      "extensions": [
+        "hace 3 días",
+        "Tiempo completo"
+      ],
+      "source_link": "https://www.trabajando.cl/trabajo/6131701-ingeniero-a-de-datos-data-driven-marketing-casa-central",
+      "job_title": "Ingeniero(a) de Datos (Data Driven Marketing) - Casa Central",
+      "description": "Duoc UC Casa Central requiere contratar Ingeniero de Datos (Data Driven Marketing), para la Dirección de Admisión y Marketing, quien será responsable de construir, automatizar y mantener la infraestructura de datos que permite transformar información dispersa, proveniente de múltiples sistemas, en insumos confiables, oportunos y accesibles para la toma de decisiones de la Dirección de Marketing y Admisión, habilitando así el trabajo analítico y de reportería del equipo de Data Driven Marketing. \n\nBuscamos una persona con perfil técnico, orientada a objetivos, ordenada, organizada y con buen desarrollo de habilidades interpersonales, que le permitan generar relaciones positivas y de confianza con actores relevantes de otras áreas internas. \n\nEntre sus principales funciones se encuentran: \n\nDiseñar y mantener procesos de integración de datos provenientes de sistemas institucionales, plataformas de marketing y fuentes externas, asegurando su disponibilidad, calidad y trazabilidad para el análisis y la toma de decisiones.  \n\n\nImplementar y administrar pipelines de datos y procesos de automatización sobre plataformas analíticas institucionales, resguardando la continuidad operativa y el flujo eficiente de información. \n\n\nModelar y mantener estructuras de almacenamiento y explotación de datos de acuerdo con los estándares institucionales de arquitectura y gobierno de datos.  \n\n\nDesarrollar y mantener reportes, consultas especializadas y tableros de control que permitan monitorear indicadores y apoyar la toma de decisiones de la Dirección.  \n\n\nDocumentar y controlar los desarrollos, procesos y activos de datos mediante prácticas de versionamiento y gestión del conocimiento que aseguren su trazabilidad y sostenibilidad. \n\n\nCoordinar la definición de estándares, accesos y requerimientos técnicos con las áreas de Tecnología, Procesos y Gobierno de Datos, asegurando el alineamiento de las soluciones implementadas. \n\n\nEs requisito contar con:\n\nConocimientos: Azure (servicios de datos e integración), construcción de procesos ETL y ELT, conformación y mantención de pipelines de datos, integración y consumo de APIs, SQL de nivel intermedio-avanzado, Power BI, Microsoft Fabric, Python, Git y modelado de datos / data warehouse. Deseable: Certificación Azure DP-900 o equivalente en AWS o GCP. \n\n\nFormación: Carreras de a lo menos 10 semestres, tales como, Ingeniería Informática, Ingeniería Civil Informática o carrera afín. \n\n\nExperiencia: 2 a 3 años en roles de integración, modelamiento o ingeniería de datos, idealmente en contextos con reportería y analítica de negocio.",
+      "apply_options": [
+        {
+          "title": "Trabajando.cl",
+          "link": "https://www.trabajando.cl/trabajo/6131701-ingeniero-a-de-datos-data-driven-marketing-casa-central?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Indeed",
+          "link": "https://cl.indeed.com/viewjob?jk=65d16952532712df&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "BeBee",
+          "link": "https://bebee.com/cl/jobs/ingenieroa-de-datos-data-driven-marketing-casa-central-duoc-uc-santiago--fj-2390754480?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Jooble",
+          "link": "https://cl.jooble.org/jdp/2479500936721636934?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJJbmdlbmllcm8oYSkgZGUgRGF0b3MgKERhdGEgRHJpdmVuIE1hcmtldGluZykgLSBDYXNhIENlbnRyYWwiLCJjb21wYW55X25hbWUiOiJEVU9DIFVDIiwiaHRpZG9jaWQiOiJxMFpaRGZHMklLS3QwMHNkQUFBQUFBPT0iLCJ1dWxlIjoidytDQUlRSUNJRlEyaHBiR1UiLCJnbCI6ImNsIiwiaGwiOiJlcyIsImZjIjoiRXN3QkNvd0JRVXBwVkRSMFMzVklkM3BpY25sdE9XcE5UbXR5VDFKMFFXcEhTRXBpTldKeU9IWlhSMnN3TW1SWExVOWZVSFpwVFVkdU9IQjZSMlp4UzJFeE0wSlhlV2g1UjBKMlpETm9TRmh4UkhwNFpESk1ORVZST0ZZMWVtNU5NM1JyVFZWZmQxbDNUM1JWTFRkQ1RtMVBRV2RoTldKMVVFZENYMlptZW01TldtVXhlRFJHVTNoNGVtOVhhbGRxVG5FU0YwVlJWRUZoY1hWcVREWnFXRFZPYjFCelNWUlJORUZyR2lKQlJITnlPV1pTUVdZelEzVk1lbFF5VTFGRFFUUTVRMlpOZFZGVVRrRnZVVXhSIiwiZmN2IjoiMyIsImZjX2lkIjoicTBaWkRmRzJJS0t0MDBzZEFBQUFBQT09In0="
+    },
+    {
+      "title": "Senior Data Engineer (AWS)",
+      "company_name": "EY",
+      "location": "Santiago",
+      "via": "EY Careers",
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Data+Engineer&htidocid=1Z6YbRTBF3bOeRo3AAAAAA%3D%3D&hl=es-CL&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_xXMMQ6CQBAAwNhS-ACrLdWCMyYWYmUi8QEUxoossDmOHLsnuyY8wTfZ-jFDM-Vkn1V2roiDTHBDQyjZByaaYHt9VLsCmt9XX2_qEDoCGlMkAWK4i_hIm0tvlrRwTjXmXg0ttHkroxOmRmY3SKMLtfY4UYpoVB9PhzlP7Pfr8rlUFbIF9PIH005l8YsAAAA&shmds=v1_ARwrE20gtxQvw1MK2mao2bmYGCBMK_4RK85M1_OQyFP6fgfLKQ&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Data+Engineer&htidocid=1Z6YbRTBF3bOeRo3AAAAAA%3D%3D",
+      "thumbnail": "https://serpapi.com/images/i/_9j_4AAQSkZJRgABAQAAAQABAAD_2wCEAAkGBwgHBgkIBwgKCgkLDRYPDQwMDRsUFRAWIB0iIiAdHx8kKDQsJCYxJx8fLT0tMTU3Ojo6Iys_RD84QzQ5OjcBCgoKDQwNGg8PGjclHyU3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3N__AABEIACkAOAMBEQACEQEDEQH_xAAbAAEAAgMBAQAAAAAAAAAAAAAAAwQCBQYHAf_EACwQAAEDAwIDBgcAAAAAAAAAAAEAAgMEBRESIQYxQVFhcYGRoRQWIjKxwdH_xAAZAQEAAwEBAAAAAAAAAAAAAAAAAgMEBQH_xAApEQEAAgECBAMJAAAAAAAAAAAAAQIDESEEBWGRErHRExQxQVFxgaHB_9oADAMBAAIRAxEAPwD3FAQEBBhJLHEMyPDfFU5uIxYY1yWiEq1m3whUkuLAcRNLu87BcfNz3FE-HFXXrO0evkurw8_NeXeZxB8c4NGXEAd6ja1axradCI1QPqekUUkh7hgeqxZOP02xUteekaR3nbzWRj-s6IX_AB0vINiHjusOSOa59oiKR99--_8AFkexr1YC2uccyS79cDKz15De0-LLk37_ALlL3mI2iErLdC3clzvErZj5Hw1N51n8-iE8ReVxdlQINPfL7HaJYWSU75TKCRpI2xj-rzQVvmgCklqHW-oaInAOa7bY9fXbzC9ElXxPSU9DSVLY3ympzpjaRluOefPZBuoXOfEx72GNzmglhOdJ7EGaAgIOM482rbfh2k4d9XZuN0F-0TRzvmpK68wXAVDdDYmgA8jn2_CDS8M26J3Ek0MpL20ZeWZ6lrsA_tB3yAgICCpW22jr3MdWU7ZSwEN1Z2QRU1lttLOyenpGMlZ9rhnbbCCant1HTVMlTBA1k0udbxzOTk-6C0gICAgICAgICAg__9k.jpeg",
+      "extensions": [
+        "hace 2 días",
+        "Tiempo completo"
+      ],
+      "source_link": "https://careers.ey.com/ey/job/Santiago-Senior-Data-Engineer-%28AWS%29-Z_-M/1443293933/",
+      "job_title": "Senior Data Engineer (AWS)",
+      "description": "En EY, tendrás la oportunidad de desarrollar una carrera tan única como tú, con una visión global, el apoyo, la cultura inclusiva y la tecnología para convertirte en la mejor versión de ti. Contamos con tu voz y perspectiva únicas para ayudar a que EY también sea aún mejor. Súmate a nosotros y construye una experiencia excepcional para ti y un mejor mundo de negocio para todos.   El área de Financial Services (FSO) es un importante diferenciador de EY. Somos la única firma de servicios profesionales que cuenta con una unidad de negocios independiente que reúne todos nuestros servicios, ya sea de auditoría, consultoría, impuestos o estrategia y transacciones, dedicada exclusivamente a los clientes de los segmentos de Mercado de Capitales, Bancos, Seguros y Gestión de Activos, para asegurar que brindamos un servicio excepcional a corto y largo plazo en un entorno regulatorio en constante cambio.  El equipo de Technology Consulting especializado en la industria financiera, desarrolla servicios de asesorías en temas de tecnologías de la información, por medio de la implementación de herramientas tecnológicas para optimizar el proceso y funcionamiento del negocio.   La oportunidad: Actualmente en EY, nos encontramos en búsqueda de nuesttro próximo Data Engineer, con conocimientos en AWS.   Tus responsabilidades clave: -Actuar como referente técnico del dominio de datos en AWS. -Orquestar pipelines, bajo frameworks ETL / ELT en AWS. -Participar en migraciones desde ambientes on-premise hacia AWS -Integrar fuentes de datos Mainframe, Core Bancario, APIs y sistemas transaccionales -Colaborar con arquitectos, analistas y equipos de negocio     Habilidades y atributos para lograr el éxito - Trabajo en equipo- Orientación al cliente - Adecuadas relaciones interpersonales - Flexibilidad para aprender y adaptarse constantemente en un entorno dinámico   Para ser exitoso/a en el puesto es necesario - Titulo profesional en Ingeniería Informática, Ingeniería Civil Informática, Ingeniería en Computación, Ingeniería Electrónica, o carrera afín. - 2 a 3 años de experiencia. - Experiencia desarrollando pipelines ETL/ELT utilizando AWS Glue -Conocimientos en PySpark -Conocimientos en DataStage -Implementar controles de calidad, trazabilidad, linaje y gobierno de datos utilizando IBM Knowledge Catalog y herramientas equivalentes   Que estamos buscando   Personas que se identifiquen con los valores de EY, demuestren integridad, respeto por los demás, reconozcan la importancia del trabajo en equipo, y quieran incorporarse a una empresa comprometida con la diversidad e inclusión. Qué hay para ti   - Acelera tus capacidades técnicas y habilidades de liderazgo transformador con cursos y programas de desarrollo enfocados en tu futuro.- Amplía tus horizontes trabajando en equipos altamente integrados en todo el mundo y colabora con personas de diversos orígenes, tanto a nivel profesional como cultural. - Saca lo mejor de ti con una inversión continua en tu bienestar personal y desarrollo profesional. - Desarrolla tu propio propósito personal y ayúdanos a crear un efecto dominó positivo en nuestros equipos, nuestro negocio, clientes y sociedad, construyendo juntos un mejor mundo de laboral. Si te incorporas a EY, ofrecemos un paquete de compensación competitivo en el sector y recibirás recompensas en función de tu desempeño. Nuestro paquete Total Rewards incluye una variedad de programas y beneficios diseñados para contribuir con tu bienestar. Además, ofrecemos:   - Desarrollo profesional basado en un extenso programa de capacitación, coordinado por nuestro Centro de Excelencia y Desarrollo. - Programa EY Badges: un programa único y de vanguardia para el desarrollo profesional, el aprendizaje y el reconocimiento, que prepara a los profesionales en teoría y práctica en los temas más actuales.- Ambiente de trabajo inclusivo, que ofrece la flexibilidad necesaria para cumplir con los objetivos profesionales y personales, fomentando una cultura laboral enfocada a resultados.   Si puedes demostrar con confianza que cumples con los criterios anteriores, contáctanos lo antes posible.EY es una firma global líder que ofrece servicios de Auditoría, Consultoría, Estrategia y Transacciones e Impuestos, con una red integrada por más de 280.000 profesionales en 150 países del mundo.     Nuestro propósito es construir un mundo mejor de negocios para nuestra gente, para nuestros clientes y para nuestras comunidades. Trabajamos continuamente para mejorar la calidad de nuestros servicios, invirtiendo en nuestra gente y en innovación. Las oportunidades de crecer, tener éxito y desarrollarse en EY son ilimitadas.     EY cree en la igualdad de oportunidades y no discrimina por motivos de género, edad, estado civil, credo, identidad de género, orientación sexual, origen étnico u origen nacional, discapacidad o características físicas. Todas nuestras oportunidades de trabajo están abiertas a personas con discapacidad. #TechEYChile",
+      "apply_options": [
+        {
+          "title": "EY Careers",
+          "link": "https://careers.ey.com/ey/job/Santiago-Senior-Data-Engineer-%28AWS%29-Z_-M/1443293933/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Indeed",
+          "link": "https://cl.indeed.com/viewjob?jk=01978e08c3b079aa&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "BeBee",
+          "link": "https://bebee.com/cl/jobs/senior-data-engineer-aws-ey-santiago--fj-2392256750?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Jooble",
+          "link": "https://cl.jooble.org/jdp/1828840529051580928?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "FONABE",
+          "link": "https://jobs.fonabe.com/jobs/senior-data-engineer-aws-b4956cd6?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Recruit.net",
+          "link": "https://www.recruit.net/job/data-engineer-aws-jobs/C396201FB29F0732?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "EduCativ",
+          "link": "https://educativ.net/jobs/job/6623098-senior-data-engineer-aws/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJTZW5pb3IgRGF0YSBFbmdpbmVlciAoQVdTKSIsImNvbXBhbnlfbmFtZSI6IkVZIiwiaHRpZG9jaWQiOiIxWjZZYlJUQkYzYk9lUm8zQUFBQUFBPT0iLCJ1dWxlIjoidytDQUlRSUNJRlEyaHBiR1UiLCJnbCI6ImNsIiwiaGwiOiJlcyIsImZjIjoiRXN3QkNvd0JRVXBwVkRSMFNtSjJWbDlNVFdKNFJ6RTNPVlJNU1hjdGNGRk1XbWgzTFZkd1RuUkVaemt6UjNaeFNuSTRhSFZJTjFKbmVXdHJORFpIUzJsdVVYWjBPSGw2YjNOc1dIWTBTbmRpU3kxUGFuZFRUMFJNVUhCeVpGQlJPVFExWDFRemQxWjZOa0o0ZDE5NlYwbzVjMGREV1c1UldFUXRZblJoZFRsdU1rRklXREZvUWtGa1FqRk1jWGhxUzFNU0YwVlJWRUZoY1hWcVREWnFXRFZPYjFCelNWUlJORUZyR2lKQlJITnlPV1pSVTJ0eFdsUkdhazlrTFVONVIyMXpjRjg1Ym5wdlZubFRTbVozIiwiZmN2IjoiMyIsImZjX2lkIjoiMVo2WWJSVEJGM2JPZVJvM0FBQUFBQT09In0="
+    },
+    {
+      "title": "Data Engineer Jr ( GCP)",
+      "company_name": "Stefanini LATAM",
+      "location": "Santiago",
+      "via": "LinkedIn",
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Data+Engineer&htidocid=CQsLVYo0B-1NFzMYAAAAAA%3D%3D&hl=es-CL&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_xXMMQrCQBAAQGzzBG22VIucCFpoFVQCoiDEPmyS9XJy2T1zK-QdPsfWj0maKSf5TJLtERXhxNYxUQ_nHuaQH26LHVS_b3y9qUFoCKgLngSIIRexnqb7VjXEnTEx-tRGRXV1WktnhKmSwTyliiNlbLGn4FGpXG9WQxrYLmeF0gPZsYNLds-u41sgq0Mrf-d2FkCVAAAA&shmds=v1_ARwrE23k92trz1nzqcE89rp5T_EfhIHM-yCcP57Bt_nu87zG4g&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Data+Engineer&htidocid=CQsLVYo0B-1NFzMYAAAAAA%3D%3D",
+      "thumbnail": "https://serpapi.com/searches/6ac00411079a2babc4db7768/images/VhCKT8rmULHtjBAf9bP-oi6zGMoyp0xifxCKeEOf9T8.jpeg",
+      "extensions": [
+        "hace 1 día",
+        "Tiempo completo"
+      ],
+      "source_link": "https://cl.linkedin.com/jobs/view/data-engineer-jr-gcp-at-stefanini-latam-4472801765",
+      "job_title": "Data Engineer Jr ( GCP)",
+      "description": "🚀 Desde Stefanini LATAM estamos en búsqueda de un/a Data Engineer Junior - GCP\n\n\n\n\n📍 Modalidad: Hibrido ( 1 a 3 veces por semana oficina) (Santiago Centro).\n\n\n\n\n🧠 Descripción del rol\n\nNos encontramos en la búsqueda de un/a Data Engineer Junior para sumarse a nuestro equipo de datos y participar en el desarrollo, implementación y mantenimiento de soluciones sobre Google Cloud Platform (GCP).\n\nBuscamos profesionales con una buena base técnica en Ingeniería de Datos, experiencia inicial trabajando con datos y muchas ganas de continuar desarrollándose en tecnologías Cloud. Tendrás la oportunidad de colaborar en la construcción de pipelines, procesos de integración y transformación de datos, trabajando junto a especialistas y arquitectos en proyectos de alto impacto para el negocio.\n\n\n\n\n🚀 Responsabilidades\n\nDesarrollar y mantener pipelines ETL/ELT.Participar en procesos de ingesta, procesamiento y transformación de información.Desarrollar soluciones utilizando Python y SQL.Trabajar con BigQuery y servicios de datos de Google Cloud Platform.Apoyar procesos batch y procesamiento de grandes volúmenes de datos.Participar en la construcción y mantenimiento de Data Lakes y Data Warehouses.Ejecutar validaciones de calidad e integridad de datos.Apoyar el monitoreo, mantenimiento y resolución de incidencias en pipelines.Documentar procesos, desarrollos y soluciones implementadas.Participar en procesos de versionamiento y despliegue de soluciones.Colaborar con Data Engineers Senior, Arquitectura, BI y otros equipos técnicos.Incorporar progresivamente buenas prácticas de desarrollo, Cloud y Data Engineering.\n\n\n🛠️ Requisitos técnicos\n\n✅ Must Have\n\nExperiencia o conocimientos en Python.SQL.Experiencia o conocimientos en Google Cloud Platform (GCP).BigQuery.Procesos ETL / ELT.Conceptos y desarrollo de pipelines de datos.Interés por desarrollarse profesionalmente en el ecosistema Cloud y de Datos.\n\n\n📈 Experiencia requerida\n\nIdealmente entre 1 y 3 años de experiencia en Data Engineering, desarrollo de software o áreas relacionadas con datos.Se priorizarán perfiles con experiencia práctica en Python, SQL, BigQuery, ETL/ELT y pipelines de datos, junto con capacidad de aprendizaje y crecimiento profesional.\n\n\n➕ Deseable\n\nPub/Sub.Terraform.DBT o Dataform.CI/CD.Apache Beam.Experiencia previa en banca o servicios financieros.\n\n\n💡 Si estás buscando potenciar tu carrera en Ingeniería de Datos y desarrollarte en tecnologías Cloud de primer nivel, ¡queremos conocerte!\n\n\n\n\nPostúlate y da el próximo paso en tu carrera junto a Stefanini LATAM 🚀.",
+      "apply_options": [
+        {
+          "title": "LinkedIn",
+          "link": "https://cl.linkedin.com/jobs/view/data-engineer-jr-gcp-at-stefanini-latam-4472801765?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJEYXRhIEVuZ2luZWVyIEpyICggR0NQKSIsImNvbXBhbnlfbmFtZSI6IlN0ZWZhbmluaSBMQVRBTSIsImh0aWRvY2lkIjoiQ1FzTFZZbzBCLTFORnpNWUFBQUFBQT09IiwidXVsZSI6IncrQ0FJUUlDSUZRMmhwYkdVIiwiZ2wiOiJjbCIsImhsIjoiZXMiLCJmYyI6IkVzd0JDb3dCUVVwcFZEUjBTazl2TkZSek1WRldkV2hTY25SR2JXNU5ORVptUVhCT2MxQktVMGhSTW1wV1NURmZNRjk2TFdKeWRtWjZOV3BEVmtRdFdteEdZM2w1YjB0RE1VOXJUV1owTjFkaVJYUm9kMmRzZFdFMVFuUjFiWE0zWnpGVWJ5MVhRakF0UkhKVlNVZ3RVM0ZVYVVGME5Hc3paR3BzVjJkZlJrWlpha1Z5ZUc0eFRHVk1SV3RJVVdwQk9YTVNGMFZSVkVGaGNYVnFURFpxV0RWT2IxQnpTVlJSTkVGckdpSkJSSE55T1daVE9VbGtXRVIyZDJGUk0xTmthV3hTVFd4SFIyMDVUMU5yV1VGMyIsImZjdiI6IjMiLCJmY19pZCI6IkNRc0xWWW8wQi0xTkZ6TVlBQUFBQUE9PSJ9"
+    },
+    {
+      "title": "Data Observability Lead",
+      "company_name": "Manpower Chile",
+      "location": "Santiago",
+      "via": "Computrabajo",
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Data+Engineer&htidocid=ytm-JXO52e9ki0fPAAAAAA%3D%3D&hl=es-CL&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_xXMMQ7CMAwAQLH2CZ08MyQICYYygsQCYuABldNaSVAah9pAeQbfYeVjqMuNV30W1faAinBxQuMTXUxR33Ai7Btwv6_cH9Qj9AQ0lEQMlOHI7BPVu6BapLFWJBkviho70_FgOZPjyd7YyUwrAUcqCZXa9WY1mZL9sj5jLvyiEfYhJprbK2aN6PkPwVhBXpQAAAA&shmds=v1_ARwrE22NP0HgaeEJqOHqpKu8iOOmFyLEM7Bso570FQndhikHDQ&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Data+Engineer&htidocid=ytm-JXO52e9ki0fPAAAAAA%3D%3D",
+      "thumbnail": "https://serpapi.com/searches/6ac00411079a2babc4db7768/images/oQ7Fj_J7ia8C7KBfGdBIAQRJY8n4pL0YquPa-pUCJ8w.jpeg",
+      "extensions": [
+        "hace 19 horas",
+        "$3,5 M por mes",
+        "Tiempo completo"
+      ],
+      "source_link": "https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-data-observability-lead-en-santiago-centro-1D978ECA8D4ED96B61373E686DCF3405",
+      "job_title": "Data Observability Lead",
+      "description": "En Manpower creemos en tu talento y queremos cambiar tu vida a través de un trabajo de calidad. Por eso, tenemos para ti las mejores oportunidades laborales que impulsarán tu éxito. ¿Qué esperas para postular? ¡Te invitamos seguir desarrollando tus talentos con nosotros!\n\nEstamos buscando DATA OBSERVABILITY LEAD comprometidos/as y proactivos/as para unirse a nuestro equipo\n\nEn ManpowerChile promovemos la inclusión porque sabemos que el talento está en las personas. Todas nuestras búsquedas se enmarcan bajo la ley 21.015, la cual promueve la inclusión laboral de personas en situación de discapacidad.\nRubro: Telecomunicaciones y Tecnología. \n\nPropósito del cargo:\nLiderar la operación y evolución de las capacidades de Data Observability de la organización, asegurando la integridad, disponibilidad, trazabilidad y confiabilidad de los datos corporativos. Será responsable de garantizar la excelencia operativa del ecosistema de datos, optimizar costos cloud mediante prácticas FinOps, liderar iniciativas de automatización y resguardar el cumplimiento normativo asociado al tratamiento y monitoreo de información crítica. \n\nPrincipales tareas (funciones):\n1.\tAsegurar la integridad del ecosistema de datos mediante el monitoreo proactivo de interfaces del DWH. \n2.\tOptimizar el gasto operativo de nube aplicando prácticas de FinOps y supervisando el consumo de recursos de las soluciones de datos en los diferentes ambientes en que son desplegadas. \n3.\tEstablecer marcos de automatización para ambientes pre-productivos y productivos, liderando los procesos de CI/CD. \n4.\tLiderar el ciclo de vida evolutivo de las soluciones de datos en producción, gestionando el backlog de mejoras técnicas, actualizaciones de esquemas y refactorización de pipelines. \n5.\tSupervisar la trazabilidad (lineage) y exactitud de los flujos de datos destinados a reportería regulatoria y auditorías externas. \n6.\tCoordinar la respuesta ante incidentes críticos de datos y liderar el análisis de causa raíz (RCA). \n7.\tGestionar metadatos y análisis de impacto a través de herramientas de linaje y catálogos\n8.\tMonitorear la privacidad de datos en tránsito (detección de anomalías en datos sensibles/PII). \n\nRequisitos Excluyentes:\n•\tTítulo profesional de Ingeniería Civil Informática, Ingeniería en Ciencias de la Computación, Ingeniería de Software o carrera afín. \n•\tExperiencia laboral total de al menos 6 años en áreas de datos, tecnología o analítica avanzada. \n•\tExperiencia mínima de 3 años en cargos similares tales como Data Observability Lead, Data Ops Lead, Senior Data Engineer, Data Architect, SRE o Cloud Lead. [ \n•\tExperiencia en plataformas de Data Observability como Monte Carlo, Soda, Acceldata o Great Expectations. \n•\tConocimientos sólidos en arquitecturas Data Lakehouse (Databricks, Snowflake o BigQuery). \n•\tExperiencia en CI/CD para datos utilizando GitLab CI, GitHub Actions o Jenkins. \n•\tManejo de orquestadores como Airflow, Dagster o Prefect. \n•\tExperiencia en herramientas de monitoreo y observabilidad como Datadog, New Relic o Prometheus/Grafana. \n•\tConocimientos en FinOps, optimización de costos cloud y Cloud Economics. \n•\tInglés nivel intermedio. \n\nRequisitos Deseables:\n•\tCertificaciones cloud (AWS, Azure o GCP). \n•\tCertificaciones DevOps, DataOps o FinOps. \n•\tConocimiento de OpenLineage, DataHub o Amundsen. \n•\tExperiencia en industrias de alta criticidad de datos como Telecomunicaciones, Banca, Retail o Tecnológicas. \n•\tLiderazgo colaborativo, pensamiento analítico, orientación a resultados, gestión de incidentes y capacidad de influencia con stakeholders. \n\nCondiciones del cargo:\n•\tRenta bruta mensual: $3.500.000\n•\tTipo de contrato: Reemplazo por licencia médica prolongada\n•\tJornada: Artículo 22.\nSi quieres unirte al mejor equipo de trabajo ¡Postula Aquí!\n.\n\n -Requerimientos- Educación mínima: Universitaria / I.P. / C.F.T.\n4 años de experiencia\nPalabras clave: datos, data, lider, jefe, gerente, manager, director, chief, lead, jefatura, regente",
+      "apply_options": [
+        {
+          "title": "Computrabajo",
+          "link": "https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-data-observability-lead-en-santiago-centro-1D978ECA8D4ED96B61373E686DCF3405?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJEYXRhIE9ic2VydmFiaWxpdHkgTGVhZCIsImNvbXBhbnlfbmFtZSI6Ik1hbnBvd2VyIENoaWxlIiwiaHRpZG9jaWQiOiJ5dG0tSlhPNTJlOWtpMGZQQUFBQUFBPT0iLCJ1dWxlIjoidytDQUlRSUNJRlEyaHBiR1UiLCJnbCI6ImNsIiwiaGwiOiJlcyIsImZjIjoiRXN3QkNvd0JRVXBwVkRSMFNWRjNiVk5rZVZwTVMyNXhWbEpGWkdVMlYyUTRaa3AyY25oTVpFZ3RNVGQxYWxFdFptVTFaVkIyTVhZeVNYQk9jVGg0UTFWdVpGQnpPVk5GTjJWYWVtazRUM0EzWVRZdFJIQTJRMmhUWkRKNGNYZFhXRGR2YTFka2RXOUxORWRGTUdVd2FYRjZlbmhQUXpkTE1IRmhNamxxWDBobVlYazFSbFF6ZDIxMFZsSjVZa3BMV2xnU0YwVlJWRUZoY1hWcVREWnFXRFZPYjFCelNWUlJORUZyR2lKQlJITnlPV1pVU1c5U2JUWlZaR0pmZVdseE5FaEhhM2hKYmtkbFRHNUdNelJSIiwiZmN2IjoiMyIsImZjX2lkIjoieXRtLUpYTzUyZTlraTBmUEFBQUFBQT09In0="
+    },
+    {
+      "title": "Data Analytics Engineer – Semi Senior",
+      "company_name": "DRIMO",
+      "location": "Coquimbo",
+      "via": "Trabajo.org",
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Data+Engineer&htidocid=EYNZpbx3U7nvEM2yAAAAAA%3D%3D&hl=es-CL&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_xXMMQ6CMBQA0LiyuTr92YEaExecjKhxMCZ6ANLCTylp-wu_JLh5BxfP4upNPImwvPEl71lyzGWUsPPSPqIpGQ5eG4_Ywe_5gjs6M-INdRmo74fbHisJFQK6YJEAPZyItMXFto4xcCYEs001RzluaUlOkEdFg2hI8UTBtewwWBmxWG9WQxq8Xs7z2_lynbY9tb1xiv52mYRsmwAAAA&shmds=v1_ARwrE20W9MstK_9rAqGwyFOAJ6kPqs2od5--tk1IYEkDloMPsQ&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Data+Engineer&htidocid=EYNZpbx3U7nvEM2yAAAAAA%3D%3D",
+      "thumbnail": "https://serpapi.com/images/i/_9j_4AAQSkZJRgABAQAAAQABAAD_2wCEAAkGBwgHBgkIBwgKCgkLDRYPDQwMDRsUFRAWIB0iIiAdHx8kKDQsJCYxJx8fLT0tMTU3Ojo6Iys_RD84QzQ5OjcBCgoKDQwNGg8PGjclHyU3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3N__AABEIADgAOAMBIgACEQEDEQH_xAAZAAEAAwEBAAAAAAAAAAAAAAAAAwQFBgf_xAA0EAABAwIEAAkNAQAAAAAAAAABAAIDBBEFEhMhBhQxNlFxcoKyFiI0QVVjgZOhorHB0RX_xAAXAQEBAQEAAAAAAAAAAAAAAAAAAQQC_8QAGhEBAQEAAwEAAAAAAAAAAAAAAAERAxIhAv_aAAwDAQACEQMRAD8A9xREQES6yq_H6Gjqo6UyatQ97Wace-Uk236PymDVREQEREBVsRrYcPo5aqoJEcYF8oudzYfUqysThnzbrO542qybZBymLcKa_E38XogaeF2wDT57us-r4LKoYpIcVo2ysLXa8Zse0FBR6nGotHLqZhlzcl1ckNQMYpDU5NQPjtk5LZlr6yTI6erIuVqcf0MUjoHGYudlBeDsCeTZdDQPc-C73Em53KyWWOVlERQFicM-bdX3PG1bapYzQDE8Olo3SGMSZbuAvaxB_Ss8ujyeN7o3tew5XDcHoU9NLJNiNM6V5c7VYLntBdZ5CR-0H_KH9UkHAiOGeOXj7zkeHW0hvY9a03l-XWrz4InytmdEwyt2a8tGYdRWth3o_eKj_wA_3v2qzTw6MeTNfe91mt1KlREUQREQEREBERAREQf_2Q.jpeg",
+      "extensions": [
+        "hace 2 días",
+        "Tiempo completo"
+      ],
+      "source_link": "https://cl.trabajo.org/oferta-5486-b2ee164f78dab39c74956621e6d8dd63",
+      "job_title": "Data Analytics Engineer – Semi Senior",
+      "description": "DRIMO busca un Data Engineer - Analytics Engineer Semi Senior para unirse al equipo de uno de nuestros principales clientes, una aerolínea reconocida. Tendrás la oportunidad de trabajar en proyectos de alto impacto y gran escala.\n\nTu misión será migrar ambientes exploratorios a Bundles y colaborar con el negocio en desarrollo y validación de procesos, usando Dataform y herramientas de IA para respaldar soluciones de datos en la nube (BigQuery, GCP).",
+      "apply_options": [
+        {
+          "title": "Trabajo.org",
+          "link": "https://cl.trabajo.org/oferta-5486-b2ee164f78dab39c74956621e6d8dd63?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJEYXRhIEFuYWx5dGljcyBFbmdpbmVlciDigJMgU2VtaSBTZW5pb3IiLCJjb21wYW55X25hbWUiOiJEUklNTyIsImh0aWRvY2lkIjoiRVlOWnBieDNVN252RU0yeUFBQUFBQT09IiwidXVsZSI6IncrQ0FJUUlDSUZRMmhwYkdVIiwiZ2wiOiJjbCIsImhsIjoiZXMiLCJmYyI6IkVzd0JDb3dCUVVwcFZEUjBURWw0WjBoTU5uUk9MV3B5Y0RsUlgwOVVNVGxyTW1KWlZFYzVXRFJQV0d4RWRrNUJRVEpXY210SGQzSjRkemRMVWtOQlRGSTBUVk5vVEVseVpqQm5XakZRVGpSVFRtNWtORWQ1ZDNGU2FGQk9iRWh2V20xa1NUSk1YME40WVVoMFZFTlBWazlpUWxwalJVY3phM2ROWTJSWFpsbzFZbVpQVW1wbWFHZGxWVXhEUldWWmF6Y1NGMFZSVkVGaGNYVnFURFpxV0RWT2IxQnpTVlJSTkVGckdpSkJSSE55T1daUlRHTTFNVTFZWTFkaVNtcDFhREZyWm5wb05FVTFia0ZSUjFsUiIsImZjdiI6IjMiLCJmY19pZCI6IkVZTlpwYngzVTdudkVNMnlBQUFBQUE9PSJ9"
+    },
+    {
+      "title": "Data/ AI Architect Senior",
+      "company_name": "Confipetrol S.A.",
+      "location": "Las Condes",
+      "via": "LinkedIn",
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Data+Engineer&htidocid=FnKB5JozpF8rExUBAAAAAA%3D%3D&hl=es-CL&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_xXMMQrCQBBAUWxzBAuZ2mJXBEFiFRREsMsBwmQzJhs2O-vOCLmJd7H1YprmF6_4xXtVHC-oaKG6QZXd4JWcQk3Rcy6h_X7k-aIOoSOgKQVioAhX5j7Q-jSoJimtFQmmF0X1zjieLEdqebYjt7KkkQEzpYBKzf6wm02K_XZz5vjwiTRzgNpUZhnfUeDvHckPgtDqI5oAAAA&shmds=v1_ARwrE20LE_VpqJkCSa-3MbuUX34CnpWErCqEcz3_haSl6S1sIw&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Data+Engineer&htidocid=FnKB5JozpF8rExUBAAAAAA%3D%3D",
+      "thumbnail": "https://serpapi.com/images/i/_9j_4AAQSkZJRgABAQAAAQABAAD_2wCEAAkGBwgHBgkIBwgKCgkLDRYPDQwMDRsUFRAWIB0iIiAdHx8kKDQsJCYxJx8fLT0tMTU3Ojo6Iys_RD84QzQ5OjcBCgoKDQwNGg8PGjclHyU3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3N__AABEIADgAOAMBEQACEQEDEQH_xAAZAAEBAQADAAAAAAAAAAAAAAAABAUCAwf_xAAlEAABBAEEAgIDAQAAAAAAAAABAAMEEQISITFBBRMGYSJRcRT_xAAYAQEBAQEBAAAAAAAAAAAAAAAAAwUBAv_EACMRAAIDAAEEAgMBAAAAAAAAAAABAgMRMQQSEyFRcUFCYQX_2gAMAwEAAhEDEQA_APcUAQBAEAQBAEAQBAEAQBAEAQBAEBPPmMwIjkmQSG2xZrk_SlddGmDnPhFKqpWzUIcskx8vjlCMnGHL1AWWC3pcrsgHkbji1FdWnX3qL-s9lX0zVnY5L730VwJjM-I3JjkltwWLG4-lam6N0FOHDJW1Sqm4S5RQqkwgCAICefDZnxHI0gEtuCjRo_1SuqjdBwnwylVsqpqcOUYEr447lLg4ty5ubWPs9r-T954WBpGP646CzLf86TnBRlLFuvfZo19fFQm3Fa8xZ6_pvwIbMCK3GjghtsULO5-1p01QpgoQ4RnW2ytm5y5ZQqkwgCAk8pBx8jDyjZuuNA5Y5am6vY3VEEEbdheoS7XpyS1YYr_w6O9rvynk8dfsvQ-BtmAD1vVAgne-1ZdQ1-qJurfydh-JQvbi4JMwHFwZY4-28RiDkdNcEfl3vsN-b555ZmIeJfJxc-HxMnBlhOnNDTpOLbgGJ53quRZo9Gj0EXUSzhDxL5Nrx8X_ABQ2o3vceDeOkZu1qI6ugLUpPuelEsWFK8nQgCAIAgCAIAgCAIAgCAIAgCA__9k.jpeg",
+      "extensions": [
+        "hace 2 días",
+        "Tiempo completo"
+      ],
+      "source_link": "https://cl.linkedin.com/jobs/view/data-ai-architect-senior-at-confipetrol-s-a-4472637705",
+      "job_title": "Data/ AI Architect Senior",
+      "description": "Hay empresas que mueven millones de transacciones al día, y detrás de cada una de ellas hay datos que necesitan ser gobernados, arquitecturados y potenciados con inteligencia artificial.\n\nLlevamos más de 20 años conectando talento especializado con los proyectos tecnológicos más exigentes de Chile y Latinoamérica. Nos sumamos a los equipos de nuestros clientes desde adentro, como una extensión natural de su capacidad tecnológica, acompañando transformaciones que importan en las industrias más desafiantes.\n\n\n\n\nPropósito del Rol\n\nBuscamos un/a Data & AI Architect Senior para integrarse a un proyecto de alto impacto en importante empresa del sector retail. El rol es estratégico y técnico: diseñar la arquitectura de datos que habilita soluciones de IA Generativa en producción, trabajando codo a codo con equipos de ingeniería de agentes IA, DevOps y operaciones en un ecosistema multicloud (Azure, AWS y OCI).\n\nNo buscamos solo a alguien que modele datos. Buscamos a alguien que entienda cómo los datos alimentan agentes, LLMs y pipelines de IA a escala empresarial.\n\n\n\n\nPrincipales Funciones\n\nDiseñar y definir la arquitectura de datos en ecosistema multicloud (Azure, AWS y OCI)Definir estándares de etiquetado, clasificación y gobierno de datos en las distintas plataformas cloudHabilitar datos de calidad para soluciones de IA Generativa: RAG, LangChain, LangGraph, LLMs y agentes inteligentesParticipar en el co-desarrollo de automatizaciones orientadas a datos junto al equipo de ingeniería IAColaborar con equipos DevOps en la implementación de pipelines CI/CD orientados a datosDiseñar modelos de gobierno de datos, runbooks y estándares operacionalesAsegurar calidad, disponibilidad y trazabilidad de los datos en entornos productivosParticipar en la definición de KPIs y métricas de datos para la organización\n\n\nRequisitos\n\n+5 años de experiencia como Arquitecto de Datos o Data & AI ArchitectExperiencia en arquitecturas de datos multicloud (Azure, AWS y/u OCI)Conocimiento en Data Lakes, Data Warehouses y arquitecturas modernas de datosExperiencia habilitando datos para soluciones de IA Generativa, RAG o LLMsManejo de herramientas de procesamiento y almacenamiento de datos a gran escalaConocimiento en pipelines ETL/ELT, orquestación y gobierno de datosExperiencia en MLOps o LLMOps aplicada a datosTitulado en Ingeniería en Informática, Sistemas, Ingeniería Civil en Informática o similares\n\n\nDeseable\n\nExperiencia con herramientas de observabilidad de datosConocimiento en automatización con Ansible o herramientas similaresExperiencia en smoke tests y control de calidad de datosConocimiento en frameworks agénticos: LangChain, LangGraph u otros\n\n\nOfrecemos\n\nBono de colación y movilizaciónSeguro complementario de saludModalidad: HíbridoReajuste salarial por IPC anualRenta competitiva acorde al mercadoContrato a plazo fijo, después indefinidoDuración: 6 meses con extensiónParticipación en proyecto de alto impacto en el sector retail",
+      "apply_options": [
+        {
+          "title": "LinkedIn",
+          "link": "https://cl.linkedin.com/jobs/view/data-ai-architect-senior-at-confipetrol-s-a-4472637705?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "BeBee",
+          "link": "https://bebee.com/cl/jobs/data-ai-architect-senior-confipetrol-sa-las-condes--techmap_cl_4472637705?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJEYXRhLyBBSSBBcmNoaXRlY3QgU2VuaW9yIiwiY29tcGFueV9uYW1lIjoiQ29uZmlwZXRyb2wgUy5BLiIsImh0aWRvY2lkIjoiRm5LQjVKb3pwRjhyRXhVQkFBQUFBQT09IiwidXVsZSI6IncrQ0FJUUlDSUZRMmhwYkdVIiwiZ2wiOiJjbCIsImhsIjoiZXMiLCJmYyI6IkVzd0JDb3dCUVVwcFZEUjBTM055VWt4U1MwRTBZMHhMZVVaZmNIaDVZbmhMZVZKSFNFdHNlazlyU1hWV1JUZDNaMGhNV21FNE1ub3llbFp5VEZZMlZIQkNjamxUT1VWNlFVeHlVVkV0VkZaa1QxWldia05ZVURGMmVuVnRWMmhLY1VGSmVYQlRTMFpaZEU5dldrbGFhazQyUTJoaE5Ha3RjVGR1UkY4M1ZqVllTVU5HZDJKTFprdEZObE0yZEdOeWFpMFNGMFZSVkVGaGNYVnFURFpxV0RWT2IxQnpTVlJSTkVGckdpSkJSSE55T1daVVFXdEhWVVJzYlZWUlMzSTVPV3BCWWtkaVV6a3RaSEl6TUU5QiIsImZjdiI6IjMiLCJmY19pZCI6IkZuS0I1Sm96cEY4ckV4VUJBQUFBQUE9PSJ9"
+    },
+    {
+      "title": "Ingeniero(a) de Datos (Data Driven Marketing) - Casa Central",
+      "company_name": "Duoc UC",
+      "location": "Providencia",
+      "via": "BeBee",
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Data+Engineer&htidocid=MUH2d3bYuYBUgA5vAAAAAA%3D%3D&hl=es-CL&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_xWMMQ6CQBAAY8sDLKy2BBPBmNhgCYmxMLGxsiALbI7T4_a8PQjvsrT1Y0IzU81En1X0uFhFVpPnGBNoCUoMLBDPQii9HsnCFf2LgrYqgR0UKAgF2eDR5FD_vvIeqMUlpd4ZYpiLM7MytDl1ITjJs0zEpEoCBt2kDfcZW6p5yp5cy4JKOvTkDAaqDsf9lDqrtuty4AbuxfK7eR51S7bR-AedepEstQAAAA&shmds=v1_ARwrE21BqyP7OacIM1CoXfqj1wEkFHJj5rg77GtFo0mpGGkWeA&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Data+Engineer&htidocid=MUH2d3bYuYBUgA5vAAAAAA%3D%3D",
+      "thumbnail": "https://serpapi.com/images/i/_9j_4AAQSkZJRgABAQAAAQABAAD_2wCEAAkGBwgHBgkIBwgKCgkLDRYPDQwMDRsUFRAWIB0iIiAdHx8kKDQsJCYxJx8fLT0tMTU3Ojo6Iys_RD84QzQ5OjcBCgoKDQwNGg8PGjclHyU3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3N__AABEIADgAOAMBIgACEQEDEQH_xAAaAAEAAgMBAAAAAAAAAAAAAAAABAcBAgYD_8QAKxAAAQQBAgUDAwUAAAAAAAAAAQACAwQRBRIGExQhMUFRcWGBkRciMkJT_8QAFwEBAQEBAAAAAAAAAAAAAAAAAAEEA__EAB0RAQACAgIDAAAAAAAAAAAAAAABAgMRBPASMdH_2gAMAwEAAhEDEQA_AKNREQEREBERAREQFldBwDVgu8W6fXtwMnheX7o3tyHYY4jI-Qukl4ch1jRGWrWmnTdXFazKyrViLOe1m3aTGc47uI7eVmycmmO_hbvv461xTau4V0isj9PKIsvrus3S58vKY9jWltc8hshdL28ZdjHbt6rTh_hLSI-JeHKWow2rUV_Y6aVx21pN8bnBjHDBznHr39kx8vFkmK1kthvWNyrpbsje8kMY52AXHAzgDyVaWkcG0IuGqNu7octnW46Vuw7TJDIySyWzMYwuaCDta0uOG4LlC0iWQusOlrRaVJzAySqGEOiZgDYBIS7Hg4J_v7LS5K3RTtbEY1WzygwNL84Z4Ge-AiCLBNLXkEsEj45G-HscQR9wvTrrfU9T1U_Uf68w7_z5UdFNQbSOutgSAWp8StDZBzD-8AYAPuMLHWWeVHF1E3LidujZzDtYfcD0K8ETULuUt-qahJcbdkvWnW2fxndM4yD4dnK1kv3JJpJpLc75ZDl8jpCXOP1PqoyKoySSck5JRYRAREQEREBERAREQf_Z.jpeg",
+      "extensions": [
+        "hace 3 días",
+        "Tiempo completo"
+      ],
+      "source_link": "https://bebee.com/cl/jobs/ingenieroa-de-datos-data-driven-marketing-casa-central-duoc-uc-providencia--fj-2390754484",
+      "job_title": "Ingeniero(a) de Datos (Data Driven Marketing) - Casa Central",
+      "description": "Duoc UC Casa Central requiere contratar Ingeniero de Datos (Data Driven Marketing), para la Dirección de Admisión y Marketing, quien será responsable de construir, automatizar y mantener la infraestructura de datos que permite transformar información dispersa, proveniente de múltiples sistemas, en insumos confiables, oportunos y accesibles para la toma de decisiones de la Dirección de Marketing y Admisión, habilitando así el trabajo analítico y de reportería del equipo de Data Driven Marketing.\n\n\nBuscamos una persona con perfil técnico, orientada a objetivos, ordenada, organizada y con buen desarrollo de habilidades interpersonales, que le permitan generar relaciones positivas y de confianza con actores relevantes de otras áreas internas.\n\n\nEntre sus principales funciones se encuentran:\n\n\nDiseñar y mantener procesos de integración de datos provenientes de sistemas institucionales, plataformas de marketing y fuentes externas, asegurando su disponibilidad, calidad y trazabilidad para el análisis y la toma de decisiones.Implementar y administrar pipelines de datos y procesos de automatización sobre plataformas analíticas institucionales, resguardando la continuidad operativa y el flujo eficiente de información.Modelar y mantener estructuras de almacenamiento y explotación de datos de acuerdo con los estándares institucionales de arquitectura y gobierno de datos.Desarrollar y mantener reportes, consultas especializadas y tableros de control que permitan monitorear indicadores y apoyar la toma de decisiones de la Dirección.Documentar y controlar los desarrollos, procesos y activos de datos mediante prácticas de versionamiento y gestión del conocimiento que aseguren su trazabilidad y sostenibilidad.Coordinar la definición de estándares, accesos y requerimientos técnicos con las áreas de Tecnología, Procesos y Gobierno de Datos, asegurando el alineamiento de las soluciones implementadas.\nEs requisito contar con:\nConocimientos: Azure (servicios de datos e integración), construcción de procesos ETL y ELT, conformación y mantención de pipelines de datos, integración y consumo de APIs, SQL de nivel intermedio-avanzado, Power BI, Microsoft Fabric, Python, Git y modelado de datos / data warehouse. Deseable: Certificación Azure DP-900 o equivalente en AWS o GCP.Formación: Carreras de a lo menos 10 semestres, tales como, Ingeniería Informática, Ingeniería Civil Informática o carrera afín.Experiencia: 2 a 3 años en roles de integración, modelamiento o ingeniería de datos, idealmente en contextos con reportería y analítica de negocio.",
+      "apply_options": [
+        {
+          "title": "BeBee",
+          "link": "https://bebee.com/cl/jobs/ingenieroa-de-datos-data-driven-marketing-casa-central-duoc-uc-providencia--fj-2390754484?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "LinkedIn",
+          "link": "https://cl.linkedin.com/jobs/view/ingeniero-a-de-datos-data-driven-marketing-casa-central-at-duoc-uc-4473958525?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJJbmdlbmllcm8oYSkgZGUgRGF0b3MgKERhdGEgRHJpdmVuIE1hcmtldGluZykgLSBDYXNhIENlbnRyYWwiLCJjb21wYW55X25hbWUiOiJEdW9jIFVDIiwiaHRpZG9jaWQiOiJNVUgyZDNiWXVZQlVnQTV2QUFBQUFBPT0iLCJ1dWxlIjoidytDQUlRSUNJRlEyaHBiR1UiLCJnbCI6ImNsIiwiaGwiOiJlcyIsImZjIjoiRXN3QkNvd0JRVXBwVkRSMFMxRTVNVzFRWkZrdGNuZG1hWFV4TUdSUGQwMUVjR2hNZWtWRGFIVjNkbGxpYURoV1QxbE9TWEJUYTI0dFpDMUlVV05mUVdGNWQyaDRhRU5LT0dKME1VNW9UbFJPYWpZM1JWUTRPV3BRUm10bmFFOTJRM2x1U0ROTlJXWkNPVmhIU21GQ2RrSkJXazAzZUc5dVgzZGhkV2cyUVhKc2VscHVZWE5EVTJOUFUza3dVVmt6ZW5BU0YwVlJWRUZoY1hWcVREWnFXRFZPYjFCelNWUlJORUZyR2lKQlJITnlPV1pSVjJrM1dWTTFUVkZOTVhGRFEyOTNla1pyU1hCSlJrWklXVEpCIiwiZmN2IjoiMyIsImZjX2lkIjoiTVVIMmQzYll1WUJVZ0E1dkFBQUFBQT09In0="
+    },
+    {
+      "title": "Data Steward Senior, Gerencia Tecnología",
+      "company_name": "Walmart Chile",
+      "location": "Huechuraba",
+      "via": "LinkedIn",
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Data+Engineer&htidocid=-aqve1EBQ6hhPBwxAAAAAA%3D%3D&hl=es-CL&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_xXMsQrCMBAAUFz7CbrcLNKI4FJHhXav4Fgu6dFE0lxMrtgPcvUHXPtj0uWNr_hsiuaGgtAKvTH10FJwnA5QU6JgHMKdTGDPw_LFCvTyy6-JeoSegMboiYEC1MyDp-3FisRcKZWzL4csKM6UhkfFgTTP6sk6r3TZYqLoUag7nY9zGcOw3z3Qj5gErtZ5WtdmImOnhBr_7YkOKacAAAA&shmds=v1_ARwrE20ApGuGkWaaJuUeISWPiAWGsdjSy6mgWK2crU5c5SDmfw&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Data+Engineer&htidocid=-aqve1EBQ6hhPBwxAAAAAA%3D%3D",
+      "thumbnail": "https://serpapi.com/searches/6ac00411079a2babc4db7768/images/1Rm3LPfnogNcBC2usofkxkwOlMkw6W3IU2havacNUEY.jpeg",
+      "extensions": [
+        "hace 1 día",
+        "Tiempo completo"
+      ],
+      "source_link": "https://cl.linkedin.com/jobs/view/data-steward-senior-gerencia-tecnolog%C3%ADa-at-walmart-chile-4474358546",
+      "job_title": "Data Steward Senior, Gerencia Tecnología",
+      "description": "¿Tienes ganas de hacer la diferencia y alcanzar tu mejor versión?\n\n\n\n\nEn Walmart Chile nos transformamos día a día con orgullo y pasión para brindar la mejor experiencia omnicanal y generar un impacto real en nuestros colaboradores, clientes y comunidades.\n\n\n\n\nSomos el Retail minorista más grande del mundo y el tercer empleador más grande de Chile. En Chile nos puedes encontrar a través de nuestras plataformas digitales Lider App y lider.cl, y nuestros formatos Lider, Express de Lider, Super Bodega aCuenta y Central Mayorista. ¡Pero eso no es todo! Para lograr la experiencia de compra de excelencia que buscamos, contamos también con nuestras plantas productivas y centros de distribución.\n\n\n\n\nEl desarrollo, el impacto social y el bienestar de nuestros colaboradores es parte de lo que nos hace únicos. En Walmart Chile puedes crecer sin límites y ser 100% tú.\n\nÚnete a nuestro propósito de Ayudar a las Personas a ahorrar dinero y Vivir Mejor y acompáñanos a impactar a más de miles de familias.\n\n\n\n\nEl equipo de Tecnología está buscando a su próximo/a Data Steward Senior para hacer la diferencia en nuestros equipos.\n\n\n\n\nValoramos tu historia y eso que nos hace únicos. Es por eso que impulsamos un ambiente de trabajo inclusivo, en donde puedes ser tu mejor versión y hacer la diferencia junto a nosotr@s.\n\n\n\n\n*Esta oferta laboral se rige bajo la Ley Nº 21.015 que incentiva la inclusión de personas con discapacidad al mundo laboral.\n\n\n\n\nPrincipales funciones:\n\nInterpretar problemas de negocio y transformarlos en soluciones matemáticas y basadas en datos, identificando la aplicación de análisis de datos, análisis de big data y automatización para abordar desafíos empresariales. Comunicar casos de uso y demostrar cómo estas metodologías contribuyen a resolver problemas de negocio y generar valor para la organización.Proporcionar recomendaciones a las áreas de negocio para resolver problemáticas complejas, desarrollando casos de negocio con retorno de inversión o ahorro de costos proyectado. Traducir requerimientos de negocio en proyectos, actividades e iniciativas alineadas con la estrategia de la compañía, actuando como vínculo entre las necesidades del negocio y soluciones basadas en datos.Gestionar y priorizar requerimientos de información, definiendo las fuentes de datos más adecuadas según el propósito de uso e incorporando fuentes externas cuando sea necesario. Velar por la calidad de los datos extraídos mediante controles y revisiones, además de orientar y apoyar la validación de entregables asociados a la gestión de datos.Liderar iniciativas de Data Quality Management (DQM), colaborando en la definición de estrategias de calidad de datos, métricas, reglas de negocio y acuerdos de nivel de servicio. Diseñar, implementar y supervisar procedimientos operativos de gestión de calidad de datos, impulsando mejoras que aseguren la confiabilidad, disponibilidad y uso adecuado de la información.Definir y gestionar la integración de datos maestros (Master Data) y metadatos, identificando fuentes oficiales de información y estableciendo estándares, reglas de datos, jerarquías y afiliaciones. Liderar la implementación y administración de soluciones de gestión de datos maestros y entornos de metadatos, asegurando una arquitectura de datos consistente para los distintos dominios del negocio.Liderar iniciativas de Gobierno de Datos (Data Governance), definiendo estrategias, políticas, procesos y buenas prácticas. Asesorar a stakeholders y líderes en la aplicación de marcos de gobernanza, cumplimiento regulatorio y adopción organizacional de la gestión de datos.\n\n\n¿Qué esperamos de ti?\n\nIngeniería Comercial, Matemáticas, Finanzas, Informática o carrera afín. Profesiones no excluyentes.3- 5 años de experiencia en administración de datos, gestión de datos, administración de bases de datos, análisis de datos o área relacionada.Deseable: Postgrado/Maestría en Estadística, Análisis, Matemáticas, Informática, Tecnologías de la información.Inglés AvanzadoConocimiento gestión de datos maestros, herramientas de modelado de procesos, creación de perfiles, almacenamiento e integración de datos.Microsoft Office nivel avanzado (Excel, Word, Power Point, Access y Project).Conocimiento avanzado de Lenguaje SQL/ NoSQL y programación.Políticas y requisitos normativos y éticos en torno a privacidad, seguridad, almacenamiento, retención y documentación de los datos.Sólidos conocimientos en Big Data y Pipeline.\n\n\nBeneficios\n\nPotenciamos tu bienestar para que puedas vivir mejor, por eso contamos con muchísimos beneficios para ti. Te dejamos algunos:\n\n\n\n\nAsesoría Financiera: Te entregamos orientación y asesorías relacionadas con la protección y planificación de tus finanzas personales y familiares.Convenios de descuentos: Convenios a precios especiales en telefonía, seguro automotriz, descuento en compras ¡y mucho más!Seguro complementario de salud: ¡La salud es lo primero! por eso te ofrecemos un seguro de salud complementario a tu sistema previsional, que cubre distintas prestaciones.*Los beneficios dependerán de las condiciones de contrato y antigüedad, formato y/o unidad de negocio de Walmart Chile*\n\n\n\n\nSi quieres conocer más de nuestra Compañía, ingresa a: www.postulawalmartchile.cl",
+      "apply_options": [
+        {
+          "title": "LinkedIn",
+          "link": "https://cl.linkedin.com/jobs/view/data-steward-senior-gerencia-tecnolog%C3%ADa-at-walmart-chile-4474358546?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJEYXRhIFN0ZXdhcmQgU2VuaW9yLCBHZXJlbmNpYSBUZWNub2xvZ8OtYSIsImNvbXBhbnlfbmFtZSI6IldhbG1hcnQgQ2hpbGUiLCJodGlkb2NpZCI6Ii1hcXZlMUVCUTZoaFBCd3hBQUFBQUE9PSIsInV1bGUiOiJ3K0NBSVFJQ0lGUTJocGJHVSIsImdsIjoiY2wiLCJobCI6ImVzIiwiZmMiOiJFc3dCQ293QlFVcHBWRFIwU2tkemFWVTJOR3AyZWswdGNsWjJRa3N5VGtoZlJGRXpNbEJLT1Vjd1RVRkJSRWRLTFZGdFZ6QnNhV3hDV1ZoMWMzb3RUR2N4VGxOMlJGQmhkMU5pZG01blUwSmxWVlJ5V0ZoeE9FcGFSVU4yVkVGTk9HaFFWV2xHVnpRMFNXOWxjRVZTVjFrNWRVeG9kRzV1ZDNWR1VXcFhPVnAzUjBWVFVWOHpZMmR5WVVWZlluTXdkVmdTRjBWUlZFRmhjWFZxVERacVdEVk9iMUJ6U1ZSUk5FRnJHaUpCUkhOeU9XWlNNRGRTTUdodGFXRkZXblF4TUdadVNHSmpYMkV6Y0dsS1dXdDMiLCJmY3YiOiIzIiwiZmNfaWQiOiItYXF2ZTFFQlE2aGhQQnd4QUFBQUFBPT0ifQ=="
+    },
+    {
+      "title": "Data & Analytics Strategy Executive",
+      "company_name": "iProspect Chile SpA",
+      "location": "Chile",
+      "via": "Workday",
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Data+Engineer&htidocid=7c7gMKsVZKqT8JaOAAAAAA%3D%3D&hl=es-CL&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_x3MPQ6CQBBA4dhyBGMxlYUFa0xssMKf2JpwALIsk2XJsrMyg4HTeA9bLybYvOQ1X_JeJeerFg1byIP2kzjDUEivBe0EtxHNIO6FGVTfDz8HrDXUCNhFjwQY4E5kPa5PjUjkTClmn1oWPTupoU5RwIpG1VLFS0pudI_Rz3x5OO7HNAa727hHTxzRCFwa5xGKmC_2f35VAI5aogAAAA&shmds=v1_ARwrE212zWcahqlh9_-VnIvkTFs9lZUWUGJqn0En3rMnGfjRyQ&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Data+Engineer&htidocid=7c7gMKsVZKqT8JaOAAAAAA%3D%3D",
+      "extensions": [
+        "hace 3 días",
+        "Tiempo completo"
+      ],
+      "source_link": "https://dentsuaegis.wd3.myworkdayjobs.com/en-US/DAN_GLOBAL/job/Data---Analytics-Strategy-Executive_R1132294",
+      "job_title": "Data & Analytics Strategy Executive",
+      "description": "Buscamos un Analista de Métricas & CRO con curiosidad por el comportamiento del usuario, bases sólidas en analítica y comprensión de paid media (sin necesidad de gestionar campañas), con capacidad para analizar datos y proponer hipótesis accionables. Job Description: Diagnóstico & Métricas Analizar el rendimiento del tráfico digital en GA4, prestando especial atención a cómo impactan los canales de Paid Media (drop-offs, conversiones, segmentación por fuente/medio). Revisar embudos de conversión y detectar fricciones en el journey del usuario combinando datos cuantitativos y cualitativos (mapas de calor o grabaciones básicas). Ayudar a levantar hallazgos para estructurar hipótesis de mejora. Analizar y realizar configuraciones de eventos en plataforma para mejorar la analítica de nuestros clientes. Experimentación Apoyar en el diseño y seguimiento de pruebas A/B (monitoreo de métricas primarias y secundarias). Colaborar en la documentación de resultados y aprendizajes de cada experimento. Reporte & Seguimiento Preparar tableros y reportes visuales de resultados (en Data Studio o GA4) comprensibles para perfiles no técnicos. Mantener actualizado el backlog de hipótesis y el roadmap de experimentación. Participar en reuniones de seguimiento con clientes presentando hallazgos y próximos pasos. Lo que buscamos: Entendimiento de Paid Media (conocimiento de métricas clave de pauta como CPA, ROAS, CPC y cómo el tráfico pago llega al sitio, sin requerir ejecución ni optimización de campañas), desenvolviéndose bien en las diversas plataformas de Meta, Google y TikTok. Manejo básico de GA4 (embudos, informes de exploración, eventos de conversión) y nociones de GTM. Capacidad de comunicar hallazgos de forma clara, visual y orientada al negocio. Atención al detalle, pensamiento crítico y muchas ganas de aprender sobre CRO y analítica. #LI-IL1 Location: Santiago Brand: Iprospect Time Type: Full time Contract Type: Permanent Can’t find a suitable job? Sign up for job alerts tailored to your interests and be first in line for new opportunities. About dentsu For over 120 years, innovation has been a core tenet of our offering – exploring new ways to reach, engage and nurture relationships with audiences. Together we drive a multiplier effect for clients at a global scale, through the development of Integrated Growth Solutions that are underpinned by our promise to clients: innovating to impact. Be a force for good. Sustainability is a vital part of our business and an important area of focus for our clients. We’re leading the way – helping to build a more sustainable planet. Dream loud. In this moment of transformation, we need our people to be fearless, embracing change and ambiguity, driven by the love for their work and excitement for the future. Team without limits. We create opportunities for connection and collaboration between our colleagues and clients, building a sense of belonging and having some fun along the way. Find out more about us Who we are Our Social Impact Our work",
+      "apply_options": [
+        {
+          "title": "Workday",
+          "link": "https://dentsuaegis.wd3.myworkdayjobs.com/en-US/DAN_GLOBAL/job/Data---Analytics-Strategy-Executive_R1132294?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJEYXRhIFx1MDAyNiBBbmFseXRpY3MgU3RyYXRlZ3kgRXhlY3V0aXZlIiwiY29tcGFueV9uYW1lIjoiaVByb3NwZWN0IENoaWxlIFNwQSIsImh0aWRvY2lkIjoiN2M3Z01Lc1ZaS3FUOEphT0FBQUFBQT09IiwidXVsZSI6IncrQ0FJUUlDSUZRMmhwYkdVIiwiZ2wiOiJjbCIsImhsIjoiZXMiLCJmYyI6IkVzd0JDb3dCUVVwcFZEUjBUSFZKWTNKUGRuUmxSM2hQUXpoVmNEbEJhSEpRVlhCRlZYbzNhbUZ5VDBadk9HaFZZVXRqYW1RMmExcEpRbkJEVkUwME5qVlpZekkwTWpCQloyZDJOV1ZrUzFCSU5WZGpVbmxLVVVSbFJtTllPVEZJWjE5ZlIzUlhTRVF5WHpGVGVURkhTVVZFWmpWa1RHbE1OMmhZU0RGMmNXVklPV050TWxKWmJWUndWV1o1UWxkdGJsTVNGMFZSVkVGaGNYVnFURFpxV0RWT2IxQnpTVlJSTkVGckdpSkJSSE55T1daUlVWcEdkVXBGUVVKa1dUZ3lSR0pSUjJsSWMxaDBlRUk0YVVWbiIsImZjdiI6IjMiLCJmY19pZCI6IjdjN2dNS3NWWktxVDhKYU9BQUFBQUE9PSJ9"
+    }
+  ],
+  "serpapi_pagination": {
+    "next_page_token": "eyJmYyI6IkVvd0VDc3dEUVVwcFZEUjBTMU5YWlZoMlV6TndjekY2VDNWUE5DMUtRWE15UlhSWlJVRk9jbUozWW1GV1NGQm9ka3hOZFV0VFkxcGxTRmR5ZDNKaFRrNXVNbU5XVUZWTGJtdGpaemxGT0ZWSWVFMVBaWG8zVWxGMk9USkZZbGRTYUdOSlVUSlFYMnhJTFhGak5WZFBWRWwzUVU5WFUzZEJOM04yVTFFMlFYSXlWVEJ1VlVsVVNEVklUbEZzTVZwMmExZzBhMUZsWkZaTWJtNDFUbE5WY3kxeGJUTXhYM05wWTNjNVkwTnNhMjFPVkVSaE1WaHRhVWh4Y21KUFgzUkZUVkZxWjBaNlJHazVYeTEyWkZCaE4zQjNkSE5aT0ZCcU0xWTJaR3cxTTBoS0xWcGpUMHRxVVZSNWExZE5SRGhtY2xWeE9GTmtlVUpQVmxaMmVVRkpiR3BYZERCTVMyeFdVbkUyWkVSbVpFSlhOV05YWVRNdFFVUlJZMXBRU0RFMFgyaDVWVVJNVHpGU1EwRm1hRmxDV1RaSGNqWXpiRzh4WjNWUlUxWk9XVU5aTFVKMllUWlhhbUp2V25kTlZVRk1VM1JuTTBwNlEyNVVYM2RPZGxsaE9IZEVZbUZ5UkVSdGNTMVBVM0o0ZDI1Q1kzSjFhRmRrWkc5cGEyZHNUelpUZFRKVk5YQkhWRUU0WmtGbk1Ia3dXSFF6V1doTWQxVnBPRXhpZEVoT1dsWnlZMEZZZVZKd1VUZG9MVUZ4WDBVNVQzSlBjVWd0VTBjeVlqazVlVEoyTUVONFZFZEthVGhKYkhsdExXZHZSVWwwVEJJWFJWRlVRV0Z4ZFdwTU5tcFlOVTV2VUhOSlZGRTBRV3NhSWtGRWMzSTVabEpGY1Y4MWFFcHlXVEJpVGpZM2FGTXhTWEIyZUVwWUxYQmZjMmMiLCJmY3YiOiIzIn0=",
+    "next": "https://serpapi.com/search.json?chips=date_posted%3A3days&engine=google_jobs&gl=cl&google_domain=google.com&hl=es&location=Chile&next_page_token=eyJmYyI6IkVvd0VDc3dEUVVwcFZEUjBTMU5YWlZoMlV6TndjekY2VDNWUE5DMUtRWE15UlhSWlJVRk9jbUozWW1GV1NGQm9ka3hOZFV0VFkxcGxTRmR5ZDNKaFRrNXVNbU5XVUZWTGJtdGpaemxGT0ZWSWVFMVBaWG8zVWxGMk9USkZZbGRTYUdOSlVUSlFYMnhJTFhGak5WZFBWRWwzUVU5WFUzZEJOM04yVTFFMlFYSXlWVEJ1VlVsVVNEVklUbEZzTVZwMmExZzBhMUZsWkZaTWJtNDFUbE5WY3kxeGJUTXhYM05wWTNjNVkwTnNhMjFPVkVSaE1WaHRhVWh4Y21KUFgzUkZUVkZxWjBaNlJHazVYeTEyWkZCaE4zQjNkSE5aT0ZCcU0xWTJaR3cxTTBoS0xWcGpUMHRxVVZSNWExZE5SRGhtY2xWeE9GTmtlVUpQVmxaMmVVRkpiR3BYZERCTVMyeFdVbkUyWkVSbVpFSlhOV05YWVRNdFFVUlJZMXBRU0RFMFgyaDVWVVJNVHpGU1EwRm1hRmxDV1RaSGNqWXpiRzh4WjNWUlUxWk9XVU5aTFVKMllUWlhhbUp2V25kTlZVRk1VM1JuTTBwNlEyNVVYM2RPZGxsaE9IZEVZbUZ5UkVSdGNTMVBVM0o0ZDI1Q1kzSjFhRmRrWkc5cGEyZHNUelpUZFRKVk5YQkhWRUU0WmtGbk1Ia3dXSFF6V1doTWQxVnBPRXhpZEVoT1dsWnlZMEZZZVZKd1VUZG9MVUZ4WDBVNVQzSlBjVWd0VTBjeVlqazVlVEoyTUVONFZFZEthVGhKYkhsdExXZHZSVWwwVEJJWFJWRlVRV0Z4ZFdwTU5tcFlOVTV2VUhOSlZGRTBRV3NhSWtGRWMzSTVabEpGY1Y4MWFFcHlXVEJpVGpZM2FGTXhTWEIyZUVwWUxYQmZjMmMiLCJmY3YiOiIzIn0%3D&q=Data+Engineer"
+  },
+  "_pipeline_metadata": {
+    "ingestion_timestamp_utc": "2026-10-02T19:20:50.803995+00:00",
+    "search_group": "data_engineering_db",
+    "target_market": "Chile",
+    "target_location": "Chile",
+    "date_filter_applied": "3days",
+    "new_records_count": 10,
+    "provider": "serpapi"
+  }
+}

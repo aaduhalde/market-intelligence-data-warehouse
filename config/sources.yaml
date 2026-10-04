@@ -1,0 +1,44 @@
+job_sources:
+  - id: google_jobs
+    provider: serpapi
+    engine: google_jobs
+    enabled: true
+
+    incremental:
+      enabled: true
+      state_file: "data/ingestion_state.json"
+
+    search_groups:
+      roles:
+        - name: "bi_analytics"
+          query: "Data Analyst"
+        - name: "data_engineering_db"
+          query: "Data Engineer"
+
+      markets:
+        - name: "Peru"
+          location: "Peru"
+          gl: "pe"
+          hl: "es"
+        - name: "Argentina"
+          location: "Argentina"
+          gl: "ar"
+          hl: "es"
+        - name: "Chile"
+          location: "Chile"
+          gl: "cl"
+          hl: "es"
+        - name: "Colombia"
+          location: "Colombia"
+          gl: "co"
+          hl: "es"
+        - name: "Mexico"
+          location: "Mexico"
+          gl: "mx"
+          hl: "es"
+        # Para empleos remotos usamos la ubicación base del país solicitando vacantes remotas
+        - name: "Peru_Remote"
+          location: "Peru"
+          gl: "pe"
+          hl: "es"
+          remote_only: true

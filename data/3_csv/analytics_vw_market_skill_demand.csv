@@ -1,0 +1,27 @@
+﻿skill_id,nombre_skill,categoria_skill,total_menciones,total_ofertas,market_skill_demand_pct
+1,APIs,automation,10,146,6.85
+2,Automation,automation,13,146,8.9
+3,AWS,cloud,31,146,21.23
+4,Azure,cloud,32,146,21.92
+5,Data Integration,engineering,6,146,4.11
+6,Data Modeling,engineering,10,146,6.85
+7,Data Pipelines,engineering,21,146,14.38
+8,Data Visualization,bi,9,146,6.16
+9,Data Warehouse,engineering,9,146,6.16
+10,DAX,bi,4,146,2.74
+11,Dimensional Modeling,engineering,1,146,0.68
+12,ELT,engineering,18,146,12.33
+13,ETL,engineering,36,146,24.66
+14,Excel,productivity,22,146,15.07
+15,Google Cloud,cloud,10,146,6.85
+16,Looker,bi,7,146,4.79
+17,MySQL,databases,5,146,3.42
+18,NumPy,data_core,2,146,1.37
+19,Pandas,data_core,4,146,2.74
+20,PostgreSQL,databases,10,146,6.85
+21,Power BI,bi,32,146,21.92
+22,Power Query,bi,4,146,2.74
+23,Python,data_core,64,146,43.84
+24,SQL,data_core,68,146,46.58
+25,SQL Server,databases,4,146,2.74
+26,Tableau,bi,13,146,8.9

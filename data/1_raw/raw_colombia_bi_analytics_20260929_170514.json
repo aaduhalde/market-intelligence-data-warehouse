@@ -1,0 +1,602 @@
+{
+  "search_metadata": {
+    "id": "6abbefde703f175a62fbcb7f",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/hcphDjpBHJy74GJSOaE7i1lqZ301gwPor2nQYO6numY/6abbefde703f175a62fbcb7f.json",
+    "markdown_endpoint": "https://serpapi.com/searches/hcphDjpBHJy74GJSOaE7i1lqZ301gwPor2nQYO6numY/6abbefde703f175a62fbcb7f.md",
+    "created_at": "2026-09-29 17:05:34 UTC",
+    "processed_at": "2026-09-29 17:05:34 UTC",
+    "google_jobs_url": "https://www.google.com/search?q=Data+Analyst&uule=w+CAIQICIIQ29sb21iaWE&hl=es&gl=co&chips=date_posted:today&udm=8",
+    "raw_html_file": "https://serpapi.com/searches/hcphDjpBHJy74GJSOaE7i1lqZ301gwPor2nQYO6numY/6abbefde703f175a62fbcb7f.html",
+    "total_time_taken": 4.85
+  },
+  "search_parameters": {
+    "q": "Data Analyst",
+    "engine": "google_jobs",
+    "location_requested": "Colombia",
+    "location_used": "Colombia",
+    "google_domain": "google.com",
+    "hl": "es",
+    "gl": "co",
+    "chips": "date_posted:today"
+  },
+  "filters": [
+    {
+      "name": "Tipo de trabajo",
+      "options": [
+        {
+          "name": "Tiempo completo",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4rjdygdj3dMWkENbzHOm63F8EX1DVcI6P4YgHOGSUHh1o0-NTXZe2cTr8nv5rROG0e8otGJwA9ug3_DYQlq7zBByeSNXFux2rpox_G1Y7AvFEnghEek8JOyMrwjUmbWXIAbW68rl3MSJa1exuKqz1v_4_DqUcfNcvyVA6VipgE2p9vR0cE_pux3nDGM4FuUaWQGxP2REqzZ-wrulCTDHJLbUrtk3FEZEXA5j9v-NaIRF2K2kWNXB_NggcV0FIY0QSoJ_3Wnge89sQDP02DV9Fv6JHn5WTOXtgvOjKmQG7kcmkkNH8NdQCEzAuDhD9PeJxT02JTRr5z09hpSBY0fhfEGxs7QoYsAdxMfUwDWdNQjTuKvGya",
+            "q": "data tiempo completo"
+          },
+          "link": "https://www.google.com/search?sca_esv=d1654259742c7a2c&hl=es&gl=co&sxsrf=APpeQnvse-pLCoPcVMB4j52zECZy-yQLJg:1790701538601&q=data+tiempo+completo&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rjdygdj3dMWkENbzHOm63F8EX1DVcI6P4YgHOGSUHh1o0-NTXZe2cTr8nv5rROG0e8otGJwA9ug3_DYQlq7zBByeSNXFux2rpox_G1Y7AvFEnghEek8JOyMrwjUmbWXIAbW68rl3MSJa1exuKqz1v_4_DqUcfNcvyVA6VipgE2p9vR0cE_pux3nDGM4FuUaWQGxP2REqzZ-wrulCTDHJLbUrtk3FEZEXA5j9v-NaIRF2K2kWNXB_NggcV0FIY0QSoJ_3Wnge89sQDP02DV9Fv6JHn5WTOXtgvOjKmQG7kcmkkNH8NdQCEzAuDhD9PeJxT02JTRr5z09hpSBY0fhfEGxs7QoYsAdxMfUwDWdNQjTuKvGya&chips=date_posted:today&udm=8&sa=X&ved=2ahUKEwjJiu2Io5SXAxXyGVkFHSn4GX4QkbEKegQIHBAC",
+          "serpapi_link": "https://serpapi.com/search.json?chips=date_posted%3Atoday&engine=google_jobs&gl=co&google_domain=google.com&hl=es&location=Colombia&q=data+tiempo+completo&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rjdygdj3dMWkENbzHOm63F8EX1DVcI6P4YgHOGSUHh1o0-NTXZe2cTr8nv5rROG0e8otGJwA9ug3_DYQlq7zBByeSNXFux2rpox_G1Y7AvFEnghEek8JOyMrwjUmbWXIAbW68rl3MSJa1exuKqz1v_4_DqUcfNcvyVA6VipgE2p9vR0cE_pux3nDGM4FuUaWQGxP2REqzZ-wrulCTDHJLbUrtk3FEZEXA5j9v-NaIRF2K2kWNXB_NggcV0FIY0QSoJ_3Wnge89sQDP02DV9Fv6JHn5WTOXtgvOjKmQG7kcmkkNH8NdQCEzAuDhD9PeJxT02JTRr5z09hpSBY0fhfEGxs7QoYsAdxMfUwDWdNQjTuKvGya"
+        },
+        {
+          "name": "Tiempo parcial",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4roShN0sMy5ev2uGhHNkJW5RCgd0tfprgnWAVOyOQK2XPo1aYyWiGDegYVb8MZz2w2tUoPriu2LVeIwOMpIkjG0TkWMuFrn2VgIdF9B5XkdZb7aUBewWWf6BZSbKa2hMnPylpBptZycm05Ru5uHfBLbuR_Yxb0SQbVGn1K1MAB-Vahrw8e6bpO3u79HdwWOdAtqXsN5c4sygDCDwZ7J9-2WjNyAIJ4x9BZ7PFG7gs_kNI_ahv_iMcI4FrXXbfW0Tzg3SB4N3JSXKszRf4Pp-SZH-Ksfks8xW1DpNaPFnb8R_f33n8ZqNziv_IlNcGdEvpJCUunYiNIbd9y5_f4GEoauH25Z4QbrRHGX0hhBmhv4MTrsB9B",
+            "q": "data tiempo parcial"
+          },
+          "link": "https://www.google.com/search?sca_esv=d1654259742c7a2c&hl=es&gl=co&sxsrf=APpeQnvse-pLCoPcVMB4j52zECZy-yQLJg:1790701538601&q=data+tiempo+parcial&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4roShN0sMy5ev2uGhHNkJW5RCgd0tfprgnWAVOyOQK2XPo1aYyWiGDegYVb8MZz2w2tUoPriu2LVeIwOMpIkjG0TkWMuFrn2VgIdF9B5XkdZb7aUBewWWf6BZSbKa2hMnPylpBptZycm05Ru5uHfBLbuR_Yxb0SQbVGn1K1MAB-Vahrw8e6bpO3u79HdwWOdAtqXsN5c4sygDCDwZ7J9-2WjNyAIJ4x9BZ7PFG7gs_kNI_ahv_iMcI4FrXXbfW0Tzg3SB4N3JSXKszRf4Pp-SZH-Ksfks8xW1DpNaPFnb8R_f33n8ZqNziv_IlNcGdEvpJCUunYiNIbd9y5_f4GEoauH25Z4QbrRHGX0hhBmhv4MTrsB9B&chips=date_posted:today&udm=8&sa=X&ved=2ahUKEwjJiu2Io5SXAxXyGVkFHSn4GX4QkbEKegQIHBAD",
+          "serpapi_link": "https://serpapi.com/search.json?chips=date_posted%3Atoday&engine=google_jobs&gl=co&google_domain=google.com&hl=es&location=Colombia&q=data+tiempo+parcial&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4roShN0sMy5ev2uGhHNkJW5RCgd0tfprgnWAVOyOQK2XPo1aYyWiGDegYVb8MZz2w2tUoPriu2LVeIwOMpIkjG0TkWMuFrn2VgIdF9B5XkdZb7aUBewWWf6BZSbKa2hMnPylpBptZycm05Ru5uHfBLbuR_Yxb0SQbVGn1K1MAB-Vahrw8e6bpO3u79HdwWOdAtqXsN5c4sygDCDwZ7J9-2WjNyAIJ4x9BZ7PFG7gs_kNI_ahv_iMcI4FrXXbfW0Tzg3SB4N3JSXKszRf4Pp-SZH-Ksfks8xW1DpNaPFnb8R_f33n8ZqNziv_IlNcGdEvpJCUunYiNIbd9y5_f4GEoauH25Z4QbrRHGX0hhBmhv4MTrsB9B"
+        },
+        {
+          "name": "Con contrato",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4rcyAXw0LNf4_5_PJXENkvOnC4Q0N9yVeDMIrYrPpQ-wl1RE5Aux_HmlkGKgkmty5RSa1jgF6lExqLxkJh4MkVAwxBnzapqo-awf74ZKkpAXFpLz91L0JwA3ovUuoCry2SAzl5kKyzzmGhO6bw4ZniyupO2-1o1WC4b9w1TZyBB7pbBMpLmfvhPoqL8FF8zYFhmkSDEXxvIMeqhKr3KyGIj3JDg5C1es_rbhbTxxmiKmqYZxTSeNgDmLU8kAMfw3hSW0pb21kkfUsUkCVo-b0osq_es2S8jT3heRjifoSTW5HbajKeG0VvN_Hwcl85RjHRftcR3JoUcgt4KvcTVVQT1nB3K0IXiWsGYe2XO3bc74rNpSLyKqx7rN0sm1NSqDpCb6Z3aQ",
+            "q": "data con contrato"
+          },
+          "link": "https://www.google.com/search?sca_esv=d1654259742c7a2c&hl=es&gl=co&sxsrf=APpeQnvse-pLCoPcVMB4j52zECZy-yQLJg:1790701538601&q=data+con+contrato&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rcyAXw0LNf4_5_PJXENkvOnC4Q0N9yVeDMIrYrPpQ-wl1RE5Aux_HmlkGKgkmty5RSa1jgF6lExqLxkJh4MkVAwxBnzapqo-awf74ZKkpAXFpLz91L0JwA3ovUuoCry2SAzl5kKyzzmGhO6bw4ZniyupO2-1o1WC4b9w1TZyBB7pbBMpLmfvhPoqL8FF8zYFhmkSDEXxvIMeqhKr3KyGIj3JDg5C1es_rbhbTxxmiKmqYZxTSeNgDmLU8kAMfw3hSW0pb21kkfUsUkCVo-b0osq_es2S8jT3heRjifoSTW5HbajKeG0VvN_Hwcl85RjHRftcR3JoUcgt4KvcTVVQT1nB3K0IXiWsGYe2XO3bc74rNpSLyKqx7rN0sm1NSqDpCb6Z3aQ&chips=date_posted:today&udm=8&sa=X&ved=2ahUKEwjJiu2Io5SXAxXyGVkFHSn4GX4QkbEKegQIHBAE",
+          "serpapi_link": "https://serpapi.com/search.json?chips=date_posted%3Atoday&engine=google_jobs&gl=co&google_domain=google.com&hl=es&location=Colombia&q=data+con+contrato&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rcyAXw0LNf4_5_PJXENkvOnC4Q0N9yVeDMIrYrPpQ-wl1RE5Aux_HmlkGKgkmty5RSa1jgF6lExqLxkJh4MkVAwxBnzapqo-awf74ZKkpAXFpLz91L0JwA3ovUuoCry2SAzl5kKyzzmGhO6bw4ZniyupO2-1o1WC4b9w1TZyBB7pbBMpLmfvhPoqL8FF8zYFhmkSDEXxvIMeqhKr3KyGIj3JDg5C1es_rbhbTxxmiKmqYZxTSeNgDmLU8kAMfw3hSW0pb21kkfUsUkCVo-b0osq_es2S8jT3heRjifoSTW5HbajKeG0VvN_Hwcl85RjHRftcR3JoUcgt4KvcTVVQT1nB3K0IXiWsGYe2XO3bc74rNpSLyKqx7rN0sm1NSqDpCb6Z3aQ"
+        },
+        {
+          "name": "Prácticas",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4rQWouZWAncMJhilUr0mvKMZx1vJUP9CFw97uB5teJZfYDGk9E1cVvvLLIPSKbKIjhN_0QCyZetT3wJpb_IG-lG4nKLXNmy3X5NKvwndVFKsheF0Pv0xgj3vdOi2zQHO5pseQlSixOwOl2CZcwJot9c-qlFLxKBXFNQv4lT6oTlbjkxcr5Cz_y5dxispP_3_N4ycRgcqOkuxoXL66QFDUAzX6Spw-XOZs28Dh_ik8oe-bptFVUHUvYi2QU1h1Da2nZNc-kdbcelb5TC14Du3Y8YFMu_dxNLONQBUAC5ld_Hi5uP_QgTpk8I1JLhZ3ujCF1Jaul72stKMW9ulBDyoLanwhhPsOPt-WeQLHGtEISR1tTzff9",
+            "q": "data prácticas"
+          },
+          "link": "https://www.google.com/search?sca_esv=d1654259742c7a2c&hl=es&gl=co&sxsrf=APpeQnvse-pLCoPcVMB4j52zECZy-yQLJg:1790701538601&q=data+pr%C3%A1cticas&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rQWouZWAncMJhilUr0mvKMZx1vJUP9CFw97uB5teJZfYDGk9E1cVvvLLIPSKbKIjhN_0QCyZetT3wJpb_IG-lG4nKLXNmy3X5NKvwndVFKsheF0Pv0xgj3vdOi2zQHO5pseQlSixOwOl2CZcwJot9c-qlFLxKBXFNQv4lT6oTlbjkxcr5Cz_y5dxispP_3_N4ycRgcqOkuxoXL66QFDUAzX6Spw-XOZs28Dh_ik8oe-bptFVUHUvYi2QU1h1Da2nZNc-kdbcelb5TC14Du3Y8YFMu_dxNLONQBUAC5ld_Hi5uP_QgTpk8I1JLhZ3ujCF1Jaul72stKMW9ulBDyoLanwhhPsOPt-WeQLHGtEISR1tTzff9&chips=date_posted:today&udm=8&sa=X&ved=2ahUKEwjJiu2Io5SXAxXyGVkFHSn4GX4QkbEKegQIHBAF",
+          "serpapi_link": "https://serpapi.com/search.json?chips=date_posted%3Atoday&engine=google_jobs&gl=co&google_domain=google.com&hl=es&location=Colombia&q=data+pr%C3%A1cticas&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rQWouZWAncMJhilUr0mvKMZx1vJUP9CFw97uB5teJZfYDGk9E1cVvvLLIPSKbKIjhN_0QCyZetT3wJpb_IG-lG4nKLXNmy3X5NKvwndVFKsheF0Pv0xgj3vdOi2zQHO5pseQlSixOwOl2CZcwJot9c-qlFLxKBXFNQv4lT6oTlbjkxcr5Cz_y5dxispP_3_N4ycRgcqOkuxoXL66QFDUAzX6Spw-XOZs28Dh_ik8oe-bptFVUHUvYi2QU1h1Da2nZNc-kdbcelb5TC14Du3Y8YFMu_dxNLONQBUAC5ld_Hi5uP_QgTpk8I1JLhZ3ujCF1Jaul72stKMW9ulBDyoLanwhhPsOPt-WeQLHGtEISR1tTzff9"
+        }
+      ]
+    },
+    {
+      "name": "Tipo de trabajo",
+      "options": [
+        {
+          "name": "Tiempo completo",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4rjdygdj3dMWkENbzHOm63F8EX1DVcI6P4YgHOGSUHh1o0-NTXZe2cTr8nv5rROG0e8otGJwA9ug3_DYQlq7zBByeSNXFux2rpox_G1Y7AvFEnghEek8JOyMrwjUmbWXIAbW68rl3MSJa1exuKqz1v_4_DqUcfNcvyVA6VipgE2p9vR0cE_pux3nDGM4FuUaWQGxP2REqzZ-wrulCTDHJLbUrtk3FEZEXA5j9v-NaIRF2K2kWNXB_NggcV0FIY0QSoJ_3Wnge89sQDP02DV9Fv6JHn5WTOXtgvOjKmQG7kcmkkNH8NdQCEzAuDhD9PeJxT02JTRr5z09hpSBY0fhfEGxs7QoYsAdxMfUwDWdNQjTuKvGya",
+            "q": "data tiempo completo"
+          },
+          "link": "https://www.google.com/search?sca_esv=d1654259742c7a2c&hl=es&gl=co&sxsrf=APpeQnvse-pLCoPcVMB4j52zECZy-yQLJg:1790701538601&q=data+tiempo+completo&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rjdygdj3dMWkENbzHOm63F8EX1DVcI6P4YgHOGSUHh1o0-NTXZe2cTr8nv5rROG0e8otGJwA9ug3_DYQlq7zBByeSNXFux2rpox_G1Y7AvFEnghEek8JOyMrwjUmbWXIAbW68rl3MSJa1exuKqz1v_4_DqUcfNcvyVA6VipgE2p9vR0cE_pux3nDGM4FuUaWQGxP2REqzZ-wrulCTDHJLbUrtk3FEZEXA5j9v-NaIRF2K2kWNXB_NggcV0FIY0QSoJ_3Wnge89sQDP02DV9Fv6JHn5WTOXtgvOjKmQG7kcmkkNH8NdQCEzAuDhD9PeJxT02JTRr5z09hpSBY0fhfEGxs7QoYsAdxMfUwDWdNQjTuKvGya&chips=date_posted:today&udm=8&sa=X&ved=2ahUKEwjJiu2Io5SXAxXyGVkFHSn4GX4QkbEKegQIHBAC",
+          "serpapi_link": "https://serpapi.com/search.json?chips=date_posted%3Atoday&engine=google_jobs&gl=co&google_domain=google.com&hl=es&location=Colombia&q=data+tiempo+completo&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rjdygdj3dMWkENbzHOm63F8EX1DVcI6P4YgHOGSUHh1o0-NTXZe2cTr8nv5rROG0e8otGJwA9ug3_DYQlq7zBByeSNXFux2rpox_G1Y7AvFEnghEek8JOyMrwjUmbWXIAbW68rl3MSJa1exuKqz1v_4_DqUcfNcvyVA6VipgE2p9vR0cE_pux3nDGM4FuUaWQGxP2REqzZ-wrulCTDHJLbUrtk3FEZEXA5j9v-NaIRF2K2kWNXB_NggcV0FIY0QSoJ_3Wnge89sQDP02DV9Fv6JHn5WTOXtgvOjKmQG7kcmkkNH8NdQCEzAuDhD9PeJxT02JTRr5z09hpSBY0fhfEGxs7QoYsAdxMfUwDWdNQjTuKvGya"
+        },
+        {
+          "name": "Tiempo parcial",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4roShN0sMy5ev2uGhHNkJW5RCgd0tfprgnWAVOyOQK2XPo1aYyWiGDegYVb8MZz2w2tUoPriu2LVeIwOMpIkjG0TkWMuFrn2VgIdF9B5XkdZb7aUBewWWf6BZSbKa2hMnPylpBptZycm05Ru5uHfBLbuR_Yxb0SQbVGn1K1MAB-Vahrw8e6bpO3u79HdwWOdAtqXsN5c4sygDCDwZ7J9-2WjNyAIJ4x9BZ7PFG7gs_kNI_ahv_iMcI4FrXXbfW0Tzg3SB4N3JSXKszRf4Pp-SZH-Ksfks8xW1DpNaPFnb8R_f33n8ZqNziv_IlNcGdEvpJCUunYiNIbd9y5_f4GEoauH25Z4QbrRHGX0hhBmhv4MTrsB9B",
+            "q": "data tiempo parcial"
+          },
+          "link": "https://www.google.com/search?sca_esv=d1654259742c7a2c&hl=es&gl=co&sxsrf=APpeQnvse-pLCoPcVMB4j52zECZy-yQLJg:1790701538601&q=data+tiempo+parcial&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4roShN0sMy5ev2uGhHNkJW5RCgd0tfprgnWAVOyOQK2XPo1aYyWiGDegYVb8MZz2w2tUoPriu2LVeIwOMpIkjG0TkWMuFrn2VgIdF9B5XkdZb7aUBewWWf6BZSbKa2hMnPylpBptZycm05Ru5uHfBLbuR_Yxb0SQbVGn1K1MAB-Vahrw8e6bpO3u79HdwWOdAtqXsN5c4sygDCDwZ7J9-2WjNyAIJ4x9BZ7PFG7gs_kNI_ahv_iMcI4FrXXbfW0Tzg3SB4N3JSXKszRf4Pp-SZH-Ksfks8xW1DpNaPFnb8R_f33n8ZqNziv_IlNcGdEvpJCUunYiNIbd9y5_f4GEoauH25Z4QbrRHGX0hhBmhv4MTrsB9B&chips=date_posted:today&udm=8&sa=X&ved=2ahUKEwjJiu2Io5SXAxXyGVkFHSn4GX4QkbEKegQIHBAD",
+          "serpapi_link": "https://serpapi.com/search.json?chips=date_posted%3Atoday&engine=google_jobs&gl=co&google_domain=google.com&hl=es&location=Colombia&q=data+tiempo+parcial&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4roShN0sMy5ev2uGhHNkJW5RCgd0tfprgnWAVOyOQK2XPo1aYyWiGDegYVb8MZz2w2tUoPriu2LVeIwOMpIkjG0TkWMuFrn2VgIdF9B5XkdZb7aUBewWWf6BZSbKa2hMnPylpBptZycm05Ru5uHfBLbuR_Yxb0SQbVGn1K1MAB-Vahrw8e6bpO3u79HdwWOdAtqXsN5c4sygDCDwZ7J9-2WjNyAIJ4x9BZ7PFG7gs_kNI_ahv_iMcI4FrXXbfW0Tzg3SB4N3JSXKszRf4Pp-SZH-Ksfks8xW1DpNaPFnb8R_f33n8ZqNziv_IlNcGdEvpJCUunYiNIbd9y5_f4GEoauH25Z4QbrRHGX0hhBmhv4MTrsB9B"
+        },
+        {
+          "name": "Con contrato",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4rcyAXw0LNf4_5_PJXENkvOnC4Q0N9yVeDMIrYrPpQ-wl1RE5Aux_HmlkGKgkmty5RSa1jgF6lExqLxkJh4MkVAwxBnzapqo-awf74ZKkpAXFpLz91L0JwA3ovUuoCry2SAzl5kKyzzmGhO6bw4ZniyupO2-1o1WC4b9w1TZyBB7pbBMpLmfvhPoqL8FF8zYFhmkSDEXxvIMeqhKr3KyGIj3JDg5C1es_rbhbTxxmiKmqYZxTSeNgDmLU8kAMfw3hSW0pb21kkfUsUkCVo-b0osq_es2S8jT3heRjifoSTW5HbajKeG0VvN_Hwcl85RjHRftcR3JoUcgt4KvcTVVQT1nB3K0IXiWsGYe2XO3bc74rNpSLyKqx7rN0sm1NSqDpCb6Z3aQ",
+            "q": "data con contrato"
+          },
+          "link": "https://www.google.com/search?sca_esv=d1654259742c7a2c&hl=es&gl=co&sxsrf=APpeQnvse-pLCoPcVMB4j52zECZy-yQLJg:1790701538601&q=data+con+contrato&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rcyAXw0LNf4_5_PJXENkvOnC4Q0N9yVeDMIrYrPpQ-wl1RE5Aux_HmlkGKgkmty5RSa1jgF6lExqLxkJh4MkVAwxBnzapqo-awf74ZKkpAXFpLz91L0JwA3ovUuoCry2SAzl5kKyzzmGhO6bw4ZniyupO2-1o1WC4b9w1TZyBB7pbBMpLmfvhPoqL8FF8zYFhmkSDEXxvIMeqhKr3KyGIj3JDg5C1es_rbhbTxxmiKmqYZxTSeNgDmLU8kAMfw3hSW0pb21kkfUsUkCVo-b0osq_es2S8jT3heRjifoSTW5HbajKeG0VvN_Hwcl85RjHRftcR3JoUcgt4KvcTVVQT1nB3K0IXiWsGYe2XO3bc74rNpSLyKqx7rN0sm1NSqDpCb6Z3aQ&chips=date_posted:today&udm=8&sa=X&ved=2ahUKEwjJiu2Io5SXAxXyGVkFHSn4GX4QkbEKegQIHBAE",
+          "serpapi_link": "https://serpapi.com/search.json?chips=date_posted%3Atoday&engine=google_jobs&gl=co&google_domain=google.com&hl=es&location=Colombia&q=data+con+contrato&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rcyAXw0LNf4_5_PJXENkvOnC4Q0N9yVeDMIrYrPpQ-wl1RE5Aux_HmlkGKgkmty5RSa1jgF6lExqLxkJh4MkVAwxBnzapqo-awf74ZKkpAXFpLz91L0JwA3ovUuoCry2SAzl5kKyzzmGhO6bw4ZniyupO2-1o1WC4b9w1TZyBB7pbBMpLmfvhPoqL8FF8zYFhmkSDEXxvIMeqhKr3KyGIj3JDg5C1es_rbhbTxxmiKmqYZxTSeNgDmLU8kAMfw3hSW0pb21kkfUsUkCVo-b0osq_es2S8jT3heRjifoSTW5HbajKeG0VvN_Hwcl85RjHRftcR3JoUcgt4KvcTVVQT1nB3K0IXiWsGYe2XO3bc74rNpSLyKqx7rN0sm1NSqDpCb6Z3aQ"
+        },
+        {
+          "name": "Prácticas",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4rQWouZWAncMJhilUr0mvKMZx1vJUP9CFw97uB5teJZfYDGk9E1cVvvLLIPSKbKIjhN_0QCyZetT3wJpb_IG-lG4nKLXNmy3X5NKvwndVFKsheF0Pv0xgj3vdOi2zQHO5pseQlSixOwOl2CZcwJot9c-qlFLxKBXFNQv4lT6oTlbjkxcr5Cz_y5dxispP_3_N4ycRgcqOkuxoXL66QFDUAzX6Spw-XOZs28Dh_ik8oe-bptFVUHUvYi2QU1h1Da2nZNc-kdbcelb5TC14Du3Y8YFMu_dxNLONQBUAC5ld_Hi5uP_QgTpk8I1JLhZ3ujCF1Jaul72stKMW9ulBDyoLanwhhPsOPt-WeQLHGtEISR1tTzff9",
+            "q": "data prácticas"
+          },
+          "link": "https://www.google.com/search?sca_esv=d1654259742c7a2c&hl=es&gl=co&sxsrf=APpeQnvse-pLCoPcVMB4j52zECZy-yQLJg:1790701538601&q=data+pr%C3%A1cticas&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rQWouZWAncMJhilUr0mvKMZx1vJUP9CFw97uB5teJZfYDGk9E1cVvvLLIPSKbKIjhN_0QCyZetT3wJpb_IG-lG4nKLXNmy3X5NKvwndVFKsheF0Pv0xgj3vdOi2zQHO5pseQlSixOwOl2CZcwJot9c-qlFLxKBXFNQv4lT6oTlbjkxcr5Cz_y5dxispP_3_N4ycRgcqOkuxoXL66QFDUAzX6Spw-XOZs28Dh_ik8oe-bptFVUHUvYi2QU1h1Da2nZNc-kdbcelb5TC14Du3Y8YFMu_dxNLONQBUAC5ld_Hi5uP_QgTpk8I1JLhZ3ujCF1Jaul72stKMW9ulBDyoLanwhhPsOPt-WeQLHGtEISR1tTzff9&chips=date_posted:today&udm=8&sa=X&ved=2ahUKEwjJiu2Io5SXAxXyGVkFHSn4GX4QkbEKegQIHBAF",
+          "serpapi_link": "https://serpapi.com/search.json?chips=date_posted%3Atoday&engine=google_jobs&gl=co&google_domain=google.com&hl=es&location=Colombia&q=data+pr%C3%A1cticas&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rQWouZWAncMJhilUr0mvKMZx1vJUP9CFw97uB5teJZfYDGk9E1cVvvLLIPSKbKIjhN_0QCyZetT3wJpb_IG-lG4nKLXNmy3X5NKvwndVFKsheF0Pv0xgj3vdOi2zQHO5pseQlSixOwOl2CZcwJot9c-qlFLxKBXFNQv4lT6oTlbjkxcr5Cz_y5dxispP_3_N4ycRgcqOkuxoXL66QFDUAzX6Spw-XOZs28Dh_ik8oe-bptFVUHUvYi2QU1h1Da2nZNc-kdbcelb5TC14Du3Y8YFMu_dxNLONQBUAC5ld_Hi5uP_QgTpk8I1JLhZ3ujCF1Jaul72stKMW9ulBDyoLanwhhPsOPt-WeQLHGtEISR1tTzff9"
+        }
+      ]
+    },
+    {
+      "name": "Fecha de publicación",
+      "options": [
+        {
+          "name": "Ayer",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4rVVNivViyVtms2aJvUHdkkE4a8KWRLPsTTxhYwY24-bnxYHnZGWvtIeTvwBFxR3ODKU3cVf9zm2d9O3uLwIfpF-kOhYup1_6IXwDrqkY_XccYisK-LvGb5H3XBXewxHueem3Kc_ScrAco0vjUIwApKmBS0v5B_eGe_BrkEdVdqHf_FbPXMPT81tOn1Bs3AZiXFH6yyQMnkahOI9jlCLML7ccJUN2kOAwDAGV5d6F24D7E1mYK4y8JsJ9bgp_lFry0UMjij8blrvXG1KCQ-ahxOmmEQfS5UWXEsEsgQKRprNvunT6sFJxtAm8i_UWIedjN_DiFmuvnvrw7myZ_bGf4LNGBpQMNS8DdYKYEMVsN-lt523A6NfWueno51uBjYSOG9OE72DHIrhEQbNT17v6A-WB0hDo",
+            "q": "data desde ayer"
+          },
+          "link": "https://www.google.com/search?sca_esv=d1654259742c7a2c&hl=es&gl=co&sxsrf=APpeQnvse-pLCoPcVMB4j52zECZy-yQLJg:1790701538601&q=data+desde+ayer&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rVVNivViyVtms2aJvUHdkkE4a8KWRLPsTTxhYwY24-bnxYHnZGWvtIeTvwBFxR3ODKU3cVf9zm2d9O3uLwIfpF-kOhYup1_6IXwDrqkY_XccYisK-LvGb5H3XBXewxHueem3Kc_ScrAco0vjUIwApKmBS0v5B_eGe_BrkEdVdqHf_FbPXMPT81tOn1Bs3AZiXFH6yyQMnkahOI9jlCLML7ccJUN2kOAwDAGV5d6F24D7E1mYK4y8JsJ9bgp_lFry0UMjij8blrvXG1KCQ-ahxOmmEQfS5UWXEsEsgQKRprNvunT6sFJxtAm8i_UWIedjN_DiFmuvnvrw7myZ_bGf4LNGBpQMNS8DdYKYEMVsN-lt523A6NfWueno51uBjYSOG9OE72DHIrhEQbNT17v6A-WB0hDo&chips=date_posted:today&udm=8&sa=X&ved=2ahUKEwjJiu2Io5SXAxXyGVkFHSn4GX4QkbEKegQIHhAC",
+          "serpapi_link": "https://serpapi.com/search.json?chips=date_posted%3Atoday&engine=google_jobs&gl=co&google_domain=google.com&hl=es&location=Colombia&q=data+desde+ayer&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rVVNivViyVtms2aJvUHdkkE4a8KWRLPsTTxhYwY24-bnxYHnZGWvtIeTvwBFxR3ODKU3cVf9zm2d9O3uLwIfpF-kOhYup1_6IXwDrqkY_XccYisK-LvGb5H3XBXewxHueem3Kc_ScrAco0vjUIwApKmBS0v5B_eGe_BrkEdVdqHf_FbPXMPT81tOn1Bs3AZiXFH6yyQMnkahOI9jlCLML7ccJUN2kOAwDAGV5d6F24D7E1mYK4y8JsJ9bgp_lFry0UMjij8blrvXG1KCQ-ahxOmmEQfS5UWXEsEsgQKRprNvunT6sFJxtAm8i_UWIedjN_DiFmuvnvrw7myZ_bGf4LNGBpQMNS8DdYKYEMVsN-lt523A6NfWueno51uBjYSOG9OE72DHIrhEQbNT17v6A-WB0hDo"
+        },
+        {
+          "name": "Últimos 3 días",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4rFzaqi6X-nLhHx30s6Z1rK_dgzWPQX_ilnTMyaFGrP58rULEpvJMG150qlUkNVSimv7uDSBtY6lAbgvQz-nSzv6swR3dNrZ4CA5hfE1TD5Dfm7vHBmaV_MMTYtGKaIE83udImVfiCx79rwFFxQG5H021V_TJ2Jt_IT9KKEQloJ4FAOfgZSCYWRO5uOt7ALWFl_YI_1Gcsv3Xh2lbhD1JqRno9M2nzXE-qj6fZ6bP-bWwcPb0V5UMrPGzpM0UhnaDpRi2dK2sC_nhL4wbwXMkvLKwQFtzyRksyDnse46Ih9hc0TmKpTN9A0_yz1QGWTbIqwzUhZPv6-x5my20PXcgiHrGyseKElN-xeElIWIAU6BxldeefVeXlmyFQCfbIMJkIAx8wr0PLdEXTt06QykEUz-MS01Q",
+            "q": "data en los últimos 3 días"
+          },
+          "link": "https://www.google.com/search?sca_esv=d1654259742c7a2c&hl=es&gl=co&sxsrf=APpeQnvse-pLCoPcVMB4j52zECZy-yQLJg:1790701538601&q=data+en+los+%C3%BAltimos+3+d%C3%ADas&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rFzaqi6X-nLhHx30s6Z1rK_dgzWPQX_ilnTMyaFGrP58rULEpvJMG150qlUkNVSimv7uDSBtY6lAbgvQz-nSzv6swR3dNrZ4CA5hfE1TD5Dfm7vHBmaV_MMTYtGKaIE83udImVfiCx79rwFFxQG5H021V_TJ2Jt_IT9KKEQloJ4FAOfgZSCYWRO5uOt7ALWFl_YI_1Gcsv3Xh2lbhD1JqRno9M2nzXE-qj6fZ6bP-bWwcPb0V5UMrPGzpM0UhnaDpRi2dK2sC_nhL4wbwXMkvLKwQFtzyRksyDnse46Ih9hc0TmKpTN9A0_yz1QGWTbIqwzUhZPv6-x5my20PXcgiHrGyseKElN-xeElIWIAU6BxldeefVeXlmyFQCfbIMJkIAx8wr0PLdEXTt06QykEUz-MS01Q&chips=date_posted:today&udm=8&sa=X&ved=2ahUKEwjJiu2Io5SXAxXyGVkFHSn4GX4QkbEKegQIHhAD",
+          "serpapi_link": "https://serpapi.com/search.json?chips=date_posted%3Atoday&engine=google_jobs&gl=co&google_domain=google.com&hl=es&location=Colombia&q=data+en+los+%C3%BAltimos+3+d%C3%ADas&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rFzaqi6X-nLhHx30s6Z1rK_dgzWPQX_ilnTMyaFGrP58rULEpvJMG150qlUkNVSimv7uDSBtY6lAbgvQz-nSzv6swR3dNrZ4CA5hfE1TD5Dfm7vHBmaV_MMTYtGKaIE83udImVfiCx79rwFFxQG5H021V_TJ2Jt_IT9KKEQloJ4FAOfgZSCYWRO5uOt7ALWFl_YI_1Gcsv3Xh2lbhD1JqRno9M2nzXE-qj6fZ6bP-bWwcPb0V5UMrPGzpM0UhnaDpRi2dK2sC_nhL4wbwXMkvLKwQFtzyRksyDnse46Ih9hc0TmKpTN9A0_yz1QGWTbIqwzUhZPv6-x5my20PXcgiHrGyseKElN-xeElIWIAU6BxldeefVeXlmyFQCfbIMJkIAx8wr0PLdEXTt06QykEUz-MS01Q"
+        },
+        {
+          "name": "Última semana",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4r2YIQD5S0wiJLM8D3QoSGRaVxbpqbb7rumhagNEKfs4DZtLO-uOWL9fq29u3hzByj5dlWRfAd72b3a4AG0Bsahft_BSavglMGeI8GETUv2ZLTJLt2FSHptCCEgLlI2dRVoCZRYaq9onxkSwISHEyWxVmdm9KdMqoNbTBUFcwYuknohzqOI8sKgNIneb_drNZMwRGi04S3AJvzoXLl3iAiTChkxz3lpQIJw83jVjjoTZKVYiYgBbZvpyO_c92BERP77R6wTuoYq1mSNw4dT62Cl5TnhdueUO8vaWftF9TD-klhTgHVIJ08qnr1py1eNVRkM4UH3Qd85arBdYIwPDkwcwpQb2aBXs7rBDwAuVeEo-0nkukq6ipN18Bompq5ROdKNNOJvdjauuMuPkg-Y9jgr6-kVv8",
+            "q": "data en la última semana"
+          },
+          "link": "https://www.google.com/search?sca_esv=d1654259742c7a2c&hl=es&gl=co&sxsrf=APpeQnvse-pLCoPcVMB4j52zECZy-yQLJg:1790701538601&q=data+en+la+%C3%BAltima+semana&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4r2YIQD5S0wiJLM8D3QoSGRaVxbpqbb7rumhagNEKfs4DZtLO-uOWL9fq29u3hzByj5dlWRfAd72b3a4AG0Bsahft_BSavglMGeI8GETUv2ZLTJLt2FSHptCCEgLlI2dRVoCZRYaq9onxkSwISHEyWxVmdm9KdMqoNbTBUFcwYuknohzqOI8sKgNIneb_drNZMwRGi04S3AJvzoXLl3iAiTChkxz3lpQIJw83jVjjoTZKVYiYgBbZvpyO_c92BERP77R6wTuoYq1mSNw4dT62Cl5TnhdueUO8vaWftF9TD-klhTgHVIJ08qnr1py1eNVRkM4UH3Qd85arBdYIwPDkwcwpQb2aBXs7rBDwAuVeEo-0nkukq6ipN18Bompq5ROdKNNOJvdjauuMuPkg-Y9jgr6-kVv8&chips=date_posted:today&udm=8&sa=X&ved=2ahUKEwjJiu2Io5SXAxXyGVkFHSn4GX4QkbEKegQIHhAE",
+          "serpapi_link": "https://serpapi.com/search.json?chips=date_posted%3Atoday&engine=google_jobs&gl=co&google_domain=google.com&hl=es&location=Colombia&q=data+en+la+%C3%BAltima+semana&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4r2YIQD5S0wiJLM8D3QoSGRaVxbpqbb7rumhagNEKfs4DZtLO-uOWL9fq29u3hzByj5dlWRfAd72b3a4AG0Bsahft_BSavglMGeI8GETUv2ZLTJLt2FSHptCCEgLlI2dRVoCZRYaq9onxkSwISHEyWxVmdm9KdMqoNbTBUFcwYuknohzqOI8sKgNIneb_drNZMwRGi04S3AJvzoXLl3iAiTChkxz3lpQIJw83jVjjoTZKVYiYgBbZvpyO_c92BERP77R6wTuoYq1mSNw4dT62Cl5TnhdueUO8vaWftF9TD-klhTgHVIJ08qnr1py1eNVRkM4UH3Qd85arBdYIwPDkwcwpQb2aBXs7rBDwAuVeEo-0nkukq6ipN18Bompq5ROdKNNOJvdjauuMuPkg-Y9jgr6-kVv8"
+        },
+        {
+          "name": "Último mes",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4rOXaF_MuSFyN549V3IFM46GeVHzgrxOZlCHeEQecAJHoIvwTtMu0cEpJ70S9GqQR36bsV7eyQHYs17MHqSJSKOZIJBrhcgandieNXiGxgE7TFeJaZhcLwF-UdPp6RsZvAzTepIKplUofgk2QZGt9-LDb8sf2F97DTQWjS_t3n8ZHx7OCSkWlOIM1RreBycAEPTzfvoit_NWInLlKSFCcUKgqIeOSfHdJomdxLpRDMA_aQimrVYFxf470kngpckv0Ll4X0gCE9F-oRkrGqFyN4W2oiSvDlOr1RQJSXTysHB0Zli7DIbzyT_QqlXuIg-gvFuJEB-YZm2iQG5tMqbnyaUESDASL98l6aTFDfSVZjmJOWnxj4JN5yV1RLgTAKNrXzp_YQ0qbhDVSwqLhP66z641ZFYqM",
+            "q": "data en el último mes"
+          },
+          "link": "https://www.google.com/search?sca_esv=d1654259742c7a2c&hl=es&gl=co&sxsrf=APpeQnvse-pLCoPcVMB4j52zECZy-yQLJg:1790701538601&q=data+en+el+%C3%BAltimo+mes&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rOXaF_MuSFyN549V3IFM46GeVHzgrxOZlCHeEQecAJHoIvwTtMu0cEpJ70S9GqQR36bsV7eyQHYs17MHqSJSKOZIJBrhcgandieNXiGxgE7TFeJaZhcLwF-UdPp6RsZvAzTepIKplUofgk2QZGt9-LDb8sf2F97DTQWjS_t3n8ZHx7OCSkWlOIM1RreBycAEPTzfvoit_NWInLlKSFCcUKgqIeOSfHdJomdxLpRDMA_aQimrVYFxf470kngpckv0Ll4X0gCE9F-oRkrGqFyN4W2oiSvDlOr1RQJSXTysHB0Zli7DIbzyT_QqlXuIg-gvFuJEB-YZm2iQG5tMqbnyaUESDASL98l6aTFDfSVZjmJOWnxj4JN5yV1RLgTAKNrXzp_YQ0qbhDVSwqLhP66z641ZFYqM&chips=date_posted:today&udm=8&sa=X&ved=2ahUKEwjJiu2Io5SXAxXyGVkFHSn4GX4QkbEKegQIHhAF",
+          "serpapi_link": "https://serpapi.com/search.json?chips=date_posted%3Atoday&engine=google_jobs&gl=co&google_domain=google.com&hl=es&location=Colombia&q=data+en+el+%C3%BAltimo+mes&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rOXaF_MuSFyN549V3IFM46GeVHzgrxOZlCHeEQecAJHoIvwTtMu0cEpJ70S9GqQR36bsV7eyQHYs17MHqSJSKOZIJBrhcgandieNXiGxgE7TFeJaZhcLwF-UdPp6RsZvAzTepIKplUofgk2QZGt9-LDb8sf2F97DTQWjS_t3n8ZHx7OCSkWlOIM1RreBycAEPTzfvoit_NWInLlKSFCcUKgqIeOSfHdJomdxLpRDMA_aQimrVYFxf470kngpckv0Ll4X0gCE9F-oRkrGqFyN4W2oiSvDlOr1RQJSXTysHB0Zli7DIbzyT_QqlXuIg-gvFuJEB-YZm2iQG5tMqbnyaUESDASL98l6aTFDfSVZjmJOWnxj4JN5yV1RLgTAKNrXzp_YQ0qbhDVSwqLhP66z641ZFYqM"
+        }
+      ]
+    },
+    {
+      "name": "Fecha de publicación",
+      "options": [
+        {
+          "name": "Ayer",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4rVVNivViyVtms2aJvUHdkkE4a8KWRLPsTTxhYwY24-bnxYHnZGWvtIeTvwBFxR3ODKU3cVf9zm2d9O3uLwIfpF-kOhYup1_6IXwDrqkY_XccYisK-LvGb5H3XBXewxHueem3Kc_ScrAco0vjUIwApKmBS0v5B_eGe_BrkEdVdqHf_FbPXMPT81tOn1Bs3AZiXFH6yyQMnkahOI9jlCLML7ccJUN2kOAwDAGV5d6F24D7E1mYK4y8JsJ9bgp_lFry0UMjij8blrvXG1KCQ-ahxOmmEQfS5UWXEsEsgQKRprNvunT6sFJxtAm8i_UWIedjN_DiFmuvnvrw7myZ_bGf4LNGBpQMNS8DdYKYEMVsN-lt523A6NfWueno51uBjYSOG9OE72DHIrhEQbNT17v6A-WB0hDo",
+            "q": "data desde ayer"
+          },
+          "link": "https://www.google.com/search?sca_esv=d1654259742c7a2c&hl=es&gl=co&sxsrf=APpeQnvse-pLCoPcVMB4j52zECZy-yQLJg:1790701538601&q=data+desde+ayer&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rVVNivViyVtms2aJvUHdkkE4a8KWRLPsTTxhYwY24-bnxYHnZGWvtIeTvwBFxR3ODKU3cVf9zm2d9O3uLwIfpF-kOhYup1_6IXwDrqkY_XccYisK-LvGb5H3XBXewxHueem3Kc_ScrAco0vjUIwApKmBS0v5B_eGe_BrkEdVdqHf_FbPXMPT81tOn1Bs3AZiXFH6yyQMnkahOI9jlCLML7ccJUN2kOAwDAGV5d6F24D7E1mYK4y8JsJ9bgp_lFry0UMjij8blrvXG1KCQ-ahxOmmEQfS5UWXEsEsgQKRprNvunT6sFJxtAm8i_UWIedjN_DiFmuvnvrw7myZ_bGf4LNGBpQMNS8DdYKYEMVsN-lt523A6NfWueno51uBjYSOG9OE72DHIrhEQbNT17v6A-WB0hDo&chips=date_posted:today&udm=8&sa=X&ved=2ahUKEwjJiu2Io5SXAxXyGVkFHSn4GX4QkbEKegQIHhAC",
+          "serpapi_link": "https://serpapi.com/search.json?chips=date_posted%3Atoday&engine=google_jobs&gl=co&google_domain=google.com&hl=es&location=Colombia&q=data+desde+ayer&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rVVNivViyVtms2aJvUHdkkE4a8KWRLPsTTxhYwY24-bnxYHnZGWvtIeTvwBFxR3ODKU3cVf9zm2d9O3uLwIfpF-kOhYup1_6IXwDrqkY_XccYisK-LvGb5H3XBXewxHueem3Kc_ScrAco0vjUIwApKmBS0v5B_eGe_BrkEdVdqHf_FbPXMPT81tOn1Bs3AZiXFH6yyQMnkahOI9jlCLML7ccJUN2kOAwDAGV5d6F24D7E1mYK4y8JsJ9bgp_lFry0UMjij8blrvXG1KCQ-ahxOmmEQfS5UWXEsEsgQKRprNvunT6sFJxtAm8i_UWIedjN_DiFmuvnvrw7myZ_bGf4LNGBpQMNS8DdYKYEMVsN-lt523A6NfWueno51uBjYSOG9OE72DHIrhEQbNT17v6A-WB0hDo"
+        },
+        {
+          "name": "Últimos 3 días",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4rFzaqi6X-nLhHx30s6Z1rK_dgzWPQX_ilnTMyaFGrP58rULEpvJMG150qlUkNVSimv7uDSBtY6lAbgvQz-nSzv6swR3dNrZ4CA5hfE1TD5Dfm7vHBmaV_MMTYtGKaIE83udImVfiCx79rwFFxQG5H021V_TJ2Jt_IT9KKEQloJ4FAOfgZSCYWRO5uOt7ALWFl_YI_1Gcsv3Xh2lbhD1JqRno9M2nzXE-qj6fZ6bP-bWwcPb0V5UMrPGzpM0UhnaDpRi2dK2sC_nhL4wbwXMkvLKwQFtzyRksyDnse46Ih9hc0TmKpTN9A0_yz1QGWTbIqwzUhZPv6-x5my20PXcgiHrGyseKElN-xeElIWIAU6BxldeefVeXlmyFQCfbIMJkIAx8wr0PLdEXTt06QykEUz-MS01Q",
+            "q": "data en los últimos 3 días"
+          },
+          "link": "https://www.google.com/search?sca_esv=d1654259742c7a2c&hl=es&gl=co&sxsrf=APpeQnvse-pLCoPcVMB4j52zECZy-yQLJg:1790701538601&q=data+en+los+%C3%BAltimos+3+d%C3%ADas&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rFzaqi6X-nLhHx30s6Z1rK_dgzWPQX_ilnTMyaFGrP58rULEpvJMG150qlUkNVSimv7uDSBtY6lAbgvQz-nSzv6swR3dNrZ4CA5hfE1TD5Dfm7vHBmaV_MMTYtGKaIE83udImVfiCx79rwFFxQG5H021V_TJ2Jt_IT9KKEQloJ4FAOfgZSCYWRO5uOt7ALWFl_YI_1Gcsv3Xh2lbhD1JqRno9M2nzXE-qj6fZ6bP-bWwcPb0V5UMrPGzpM0UhnaDpRi2dK2sC_nhL4wbwXMkvLKwQFtzyRksyDnse46Ih9hc0TmKpTN9A0_yz1QGWTbIqwzUhZPv6-x5my20PXcgiHrGyseKElN-xeElIWIAU6BxldeefVeXlmyFQCfbIMJkIAx8wr0PLdEXTt06QykEUz-MS01Q&chips=date_posted:today&udm=8&sa=X&ved=2ahUKEwjJiu2Io5SXAxXyGVkFHSn4GX4QkbEKegQIHhAD",
+          "serpapi_link": "https://serpapi.com/search.json?chips=date_posted%3Atoday&engine=google_jobs&gl=co&google_domain=google.com&hl=es&location=Colombia&q=data+en+los+%C3%BAltimos+3+d%C3%ADas&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rFzaqi6X-nLhHx30s6Z1rK_dgzWPQX_ilnTMyaFGrP58rULEpvJMG150qlUkNVSimv7uDSBtY6lAbgvQz-nSzv6swR3dNrZ4CA5hfE1TD5Dfm7vHBmaV_MMTYtGKaIE83udImVfiCx79rwFFxQG5H021V_TJ2Jt_IT9KKEQloJ4FAOfgZSCYWRO5uOt7ALWFl_YI_1Gcsv3Xh2lbhD1JqRno9M2nzXE-qj6fZ6bP-bWwcPb0V5UMrPGzpM0UhnaDpRi2dK2sC_nhL4wbwXMkvLKwQFtzyRksyDnse46Ih9hc0TmKpTN9A0_yz1QGWTbIqwzUhZPv6-x5my20PXcgiHrGyseKElN-xeElIWIAU6BxldeefVeXlmyFQCfbIMJkIAx8wr0PLdEXTt06QykEUz-MS01Q"
+        },
+        {
+          "name": "Última semana",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4r2YIQD5S0wiJLM8D3QoSGRaVxbpqbb7rumhagNEKfs4DZtLO-uOWL9fq29u3hzByj5dlWRfAd72b3a4AG0Bsahft_BSavglMGeI8GETUv2ZLTJLt2FSHptCCEgLlI2dRVoCZRYaq9onxkSwISHEyWxVmdm9KdMqoNbTBUFcwYuknohzqOI8sKgNIneb_drNZMwRGi04S3AJvzoXLl3iAiTChkxz3lpQIJw83jVjjoTZKVYiYgBbZvpyO_c92BERP77R6wTuoYq1mSNw4dT62Cl5TnhdueUO8vaWftF9TD-klhTgHVIJ08qnr1py1eNVRkM4UH3Qd85arBdYIwPDkwcwpQb2aBXs7rBDwAuVeEo-0nkukq6ipN18Bompq5ROdKNNOJvdjauuMuPkg-Y9jgr6-kVv8",
+            "q": "data en la última semana"
+          },
+          "link": "https://www.google.com/search?sca_esv=d1654259742c7a2c&hl=es&gl=co&sxsrf=APpeQnvse-pLCoPcVMB4j52zECZy-yQLJg:1790701538601&q=data+en+la+%C3%BAltima+semana&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4r2YIQD5S0wiJLM8D3QoSGRaVxbpqbb7rumhagNEKfs4DZtLO-uOWL9fq29u3hzByj5dlWRfAd72b3a4AG0Bsahft_BSavglMGeI8GETUv2ZLTJLt2FSHptCCEgLlI2dRVoCZRYaq9onxkSwISHEyWxVmdm9KdMqoNbTBUFcwYuknohzqOI8sKgNIneb_drNZMwRGi04S3AJvzoXLl3iAiTChkxz3lpQIJw83jVjjoTZKVYiYgBbZvpyO_c92BERP77R6wTuoYq1mSNw4dT62Cl5TnhdueUO8vaWftF9TD-klhTgHVIJ08qnr1py1eNVRkM4UH3Qd85arBdYIwPDkwcwpQb2aBXs7rBDwAuVeEo-0nkukq6ipN18Bompq5ROdKNNOJvdjauuMuPkg-Y9jgr6-kVv8&chips=date_posted:today&udm=8&sa=X&ved=2ahUKEwjJiu2Io5SXAxXyGVkFHSn4GX4QkbEKegQIHhAE",
+          "serpapi_link": "https://serpapi.com/search.json?chips=date_posted%3Atoday&engine=google_jobs&gl=co&google_domain=google.com&hl=es&location=Colombia&q=data+en+la+%C3%BAltima+semana&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4r2YIQD5S0wiJLM8D3QoSGRaVxbpqbb7rumhagNEKfs4DZtLO-uOWL9fq29u3hzByj5dlWRfAd72b3a4AG0Bsahft_BSavglMGeI8GETUv2ZLTJLt2FSHptCCEgLlI2dRVoCZRYaq9onxkSwISHEyWxVmdm9KdMqoNbTBUFcwYuknohzqOI8sKgNIneb_drNZMwRGi04S3AJvzoXLl3iAiTChkxz3lpQIJw83jVjjoTZKVYiYgBbZvpyO_c92BERP77R6wTuoYq1mSNw4dT62Cl5TnhdueUO8vaWftF9TD-klhTgHVIJ08qnr1py1eNVRkM4UH3Qd85arBdYIwPDkwcwpQb2aBXs7rBDwAuVeEo-0nkukq6ipN18Bompq5ROdKNNOJvdjauuMuPkg-Y9jgr6-kVv8"
+        },
+        {
+          "name": "Último mes",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4rOXaF_MuSFyN549V3IFM46GeVHzgrxOZlCHeEQecAJHoIvwTtMu0cEpJ70S9GqQR36bsV7eyQHYs17MHqSJSKOZIJBrhcgandieNXiGxgE7TFeJaZhcLwF-UdPp6RsZvAzTepIKplUofgk2QZGt9-LDb8sf2F97DTQWjS_t3n8ZHx7OCSkWlOIM1RreBycAEPTzfvoit_NWInLlKSFCcUKgqIeOSfHdJomdxLpRDMA_aQimrVYFxf470kngpckv0Ll4X0gCE9F-oRkrGqFyN4W2oiSvDlOr1RQJSXTysHB0Zli7DIbzyT_QqlXuIg-gvFuJEB-YZm2iQG5tMqbnyaUESDASL98l6aTFDfSVZjmJOWnxj4JN5yV1RLgTAKNrXzp_YQ0qbhDVSwqLhP66z641ZFYqM",
+            "q": "data en el último mes"
+          },
+          "link": "https://www.google.com/search?sca_esv=d1654259742c7a2c&hl=es&gl=co&sxsrf=APpeQnvse-pLCoPcVMB4j52zECZy-yQLJg:1790701538601&q=data+en+el+%C3%BAltimo+mes&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rOXaF_MuSFyN549V3IFM46GeVHzgrxOZlCHeEQecAJHoIvwTtMu0cEpJ70S9GqQR36bsV7eyQHYs17MHqSJSKOZIJBrhcgandieNXiGxgE7TFeJaZhcLwF-UdPp6RsZvAzTepIKplUofgk2QZGt9-LDb8sf2F97DTQWjS_t3n8ZHx7OCSkWlOIM1RreBycAEPTzfvoit_NWInLlKSFCcUKgqIeOSfHdJomdxLpRDMA_aQimrVYFxf470kngpckv0Ll4X0gCE9F-oRkrGqFyN4W2oiSvDlOr1RQJSXTysHB0Zli7DIbzyT_QqlXuIg-gvFuJEB-YZm2iQG5tMqbnyaUESDASL98l6aTFDfSVZjmJOWnxj4JN5yV1RLgTAKNrXzp_YQ0qbhDVSwqLhP66z641ZFYqM&chips=date_posted:today&udm=8&sa=X&ved=2ahUKEwjJiu2Io5SXAxXyGVkFHSn4GX4QkbEKegQIHhAF",
+          "serpapi_link": "https://serpapi.com/search.json?chips=date_posted%3Atoday&engine=google_jobs&gl=co&google_domain=google.com&hl=es&location=Colombia&q=data+en+el+%C3%BAltimo+mes&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rOXaF_MuSFyN549V3IFM46GeVHzgrxOZlCHeEQecAJHoIvwTtMu0cEpJ70S9GqQR36bsV7eyQHYs17MHqSJSKOZIJBrhcgandieNXiGxgE7TFeJaZhcLwF-UdPp6RsZvAzTepIKplUofgk2QZGt9-LDb8sf2F97DTQWjS_t3n8ZHx7OCSkWlOIM1RreBycAEPTzfvoit_NWInLlKSFCcUKgqIeOSfHdJomdxLpRDMA_aQimrVYFxf470kngpckv0Ll4X0gCE9F-oRkrGqFyN4W2oiSvDlOr1RQJSXTysHB0Zli7DIbzyT_QqlXuIg-gvFuJEB-YZm2iQG5tMqbnyaUESDASL98l6aTFDfSVZjmJOWnxj4JN5yV1RLgTAKNrXzp_YQ0qbhDVSwqLhP66z641ZFYqM"
+        }
+      ]
+    },
+    {
+      "name": "Tipo de trabajo",
+      "options": [
+        {
+          "name": "Tiempo completo",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4rjdygdj3dMWkENbzHOm63F8EX1DVcI6P4YgHOGSUHh1o0-NTXZe2cTr8nv5rROG0e8otGJwA9ug3_DYQlq7zBByeSNXFux2rpox_G1Y7AvFEnghEek8JOyMrwjUmbWXIAbW68rl3MSJa1exuKqz1v_4_DqUcfNcvyVA6VipgE2p9vR0cE_pux3nDGM4FuUaWQGxP2REqzZ-wrulCTDHJLbUrtk3FEZEXA5j9v-NaIRF2K2kWNXB_NggcV0FIY0QSoJ_3Wnge89sQDP02DV9Fv6JHn5WTOXtgvOjKmQG7kcmkkNH8NdQCEzAuDhD9PeJxT02JTRr5z09hpSBY0fhfEGxs7QoYsAdxMfUwDWdNQjTuKvGya",
+            "q": "data tiempo completo"
+          },
+          "link": "https://www.google.com/search?sca_esv=d1654259742c7a2c&hl=es&gl=co&sxsrf=APpeQnvse-pLCoPcVMB4j52zECZy-yQLJg:1790701538601&q=data+tiempo+completo&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rjdygdj3dMWkENbzHOm63F8EX1DVcI6P4YgHOGSUHh1o0-NTXZe2cTr8nv5rROG0e8otGJwA9ug3_DYQlq7zBByeSNXFux2rpox_G1Y7AvFEnghEek8JOyMrwjUmbWXIAbW68rl3MSJa1exuKqz1v_4_DqUcfNcvyVA6VipgE2p9vR0cE_pux3nDGM4FuUaWQGxP2REqzZ-wrulCTDHJLbUrtk3FEZEXA5j9v-NaIRF2K2kWNXB_NggcV0FIY0QSoJ_3Wnge89sQDP02DV9Fv6JHn5WTOXtgvOjKmQG7kcmkkNH8NdQCEzAuDhD9PeJxT02JTRr5z09hpSBY0fhfEGxs7QoYsAdxMfUwDWdNQjTuKvGya&chips=date_posted:today&udm=8&sa=X&ved=2ahUKEwjJiu2Io5SXAxXyGVkFHSn4GX4QkbEKegQIGxAC",
+          "serpapi_link": "https://serpapi.com/search.json?chips=date_posted%3Atoday&engine=google_jobs&gl=co&google_domain=google.com&hl=es&location=Colombia&q=data+tiempo+completo&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rjdygdj3dMWkENbzHOm63F8EX1DVcI6P4YgHOGSUHh1o0-NTXZe2cTr8nv5rROG0e8otGJwA9ug3_DYQlq7zBByeSNXFux2rpox_G1Y7AvFEnghEek8JOyMrwjUmbWXIAbW68rl3MSJa1exuKqz1v_4_DqUcfNcvyVA6VipgE2p9vR0cE_pux3nDGM4FuUaWQGxP2REqzZ-wrulCTDHJLbUrtk3FEZEXA5j9v-NaIRF2K2kWNXB_NggcV0FIY0QSoJ_3Wnge89sQDP02DV9Fv6JHn5WTOXtgvOjKmQG7kcmkkNH8NdQCEzAuDhD9PeJxT02JTRr5z09hpSBY0fhfEGxs7QoYsAdxMfUwDWdNQjTuKvGya"
+        },
+        {
+          "name": "Tiempo parcial",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4roShN0sMy5ev2uGhHNkJW5RCgd0tfprgnWAVOyOQK2XPo1aYyWiGDegYVb8MZz2w2tUoPriu2LVeIwOMpIkjG0TkWMuFrn2VgIdF9B5XkdZb7aUBewWWf6BZSbKa2hMnPylpBptZycm05Ru5uHfBLbuR_Yxb0SQbVGn1K1MAB-Vahrw8e6bpO3u79HdwWOdAtqXsN5c4sygDCDwZ7J9-2WjNyAIJ4x9BZ7PFG7gs_kNI_ahv_iMcI4FrXXbfW0Tzg3SB4N3JSXKszRf4Pp-SZH-Ksfks8xW1DpNaPFnb8R_f33n8ZqNziv_IlNcGdEvpJCUunYiNIbd9y5_f4GEoauH25Z4QbrRHGX0hhBmhv4MTrsB9B",
+            "q": "data tiempo parcial"
+          },
+          "link": "https://www.google.com/search?sca_esv=d1654259742c7a2c&hl=es&gl=co&sxsrf=APpeQnvse-pLCoPcVMB4j52zECZy-yQLJg:1790701538601&q=data+tiempo+parcial&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4roShN0sMy5ev2uGhHNkJW5RCgd0tfprgnWAVOyOQK2XPo1aYyWiGDegYVb8MZz2w2tUoPriu2LVeIwOMpIkjG0TkWMuFrn2VgIdF9B5XkdZb7aUBewWWf6BZSbKa2hMnPylpBptZycm05Ru5uHfBLbuR_Yxb0SQbVGn1K1MAB-Vahrw8e6bpO3u79HdwWOdAtqXsN5c4sygDCDwZ7J9-2WjNyAIJ4x9BZ7PFG7gs_kNI_ahv_iMcI4FrXXbfW0Tzg3SB4N3JSXKszRf4Pp-SZH-Ksfks8xW1DpNaPFnb8R_f33n8ZqNziv_IlNcGdEvpJCUunYiNIbd9y5_f4GEoauH25Z4QbrRHGX0hhBmhv4MTrsB9B&chips=date_posted:today&udm=8&sa=X&ved=2ahUKEwjJiu2Io5SXAxXyGVkFHSn4GX4QkbEKegQIGxAD",
+          "serpapi_link": "https://serpapi.com/search.json?chips=date_posted%3Atoday&engine=google_jobs&gl=co&google_domain=google.com&hl=es&location=Colombia&q=data+tiempo+parcial&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4roShN0sMy5ev2uGhHNkJW5RCgd0tfprgnWAVOyOQK2XPo1aYyWiGDegYVb8MZz2w2tUoPriu2LVeIwOMpIkjG0TkWMuFrn2VgIdF9B5XkdZb7aUBewWWf6BZSbKa2hMnPylpBptZycm05Ru5uHfBLbuR_Yxb0SQbVGn1K1MAB-Vahrw8e6bpO3u79HdwWOdAtqXsN5c4sygDCDwZ7J9-2WjNyAIJ4x9BZ7PFG7gs_kNI_ahv_iMcI4FrXXbfW0Tzg3SB4N3JSXKszRf4Pp-SZH-Ksfks8xW1DpNaPFnb8R_f33n8ZqNziv_IlNcGdEvpJCUunYiNIbd9y5_f4GEoauH25Z4QbrRHGX0hhBmhv4MTrsB9B"
+        },
+        {
+          "name": "Con contrato",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4rcyAXw0LNf4_5_PJXENkvOnC4Q0N9yVeDMIrYrPpQ-wl1RE5Aux_HmlkGKgkmty5RSa1jgF6lExqLxkJh4MkVAwxBnzapqo-awf74ZKkpAXFpLz91L0JwA3ovUuoCry2SAzl5kKyzzmGhO6bw4ZniyupO2-1o1WC4b9w1TZyBB7pbBMpLmfvhPoqL8FF8zYFhmkSDEXxvIMeqhKr3KyGIj3JDg5C1es_rbhbTxxmiKmqYZxTSeNgDmLU8kAMfw3hSW0pb21kkfUsUkCVo-b0osq_es2S8jT3heRjifoSTW5HbajKeG0VvN_Hwcl85RjHRftcR3JoUcgt4KvcTVVQT1nB3K0IXiWsGYe2XO3bc74rNpSLyKqx7rN0sm1NSqDpCb6Z3aQ",
+            "q": "data con contrato"
+          },
+          "link": "https://www.google.com/search?sca_esv=d1654259742c7a2c&hl=es&gl=co&sxsrf=APpeQnvse-pLCoPcVMB4j52zECZy-yQLJg:1790701538601&q=data+con+contrato&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rcyAXw0LNf4_5_PJXENkvOnC4Q0N9yVeDMIrYrPpQ-wl1RE5Aux_HmlkGKgkmty5RSa1jgF6lExqLxkJh4MkVAwxBnzapqo-awf74ZKkpAXFpLz91L0JwA3ovUuoCry2SAzl5kKyzzmGhO6bw4ZniyupO2-1o1WC4b9w1TZyBB7pbBMpLmfvhPoqL8FF8zYFhmkSDEXxvIMeqhKr3KyGIj3JDg5C1es_rbhbTxxmiKmqYZxTSeNgDmLU8kAMfw3hSW0pb21kkfUsUkCVo-b0osq_es2S8jT3heRjifoSTW5HbajKeG0VvN_Hwcl85RjHRftcR3JoUcgt4KvcTVVQT1nB3K0IXiWsGYe2XO3bc74rNpSLyKqx7rN0sm1NSqDpCb6Z3aQ&chips=date_posted:today&udm=8&sa=X&ved=2ahUKEwjJiu2Io5SXAxXyGVkFHSn4GX4QkbEKegQIGxAE",
+          "serpapi_link": "https://serpapi.com/search.json?chips=date_posted%3Atoday&engine=google_jobs&gl=co&google_domain=google.com&hl=es&location=Colombia&q=data+con+contrato&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rcyAXw0LNf4_5_PJXENkvOnC4Q0N9yVeDMIrYrPpQ-wl1RE5Aux_HmlkGKgkmty5RSa1jgF6lExqLxkJh4MkVAwxBnzapqo-awf74ZKkpAXFpLz91L0JwA3ovUuoCry2SAzl5kKyzzmGhO6bw4ZniyupO2-1o1WC4b9w1TZyBB7pbBMpLmfvhPoqL8FF8zYFhmkSDEXxvIMeqhKr3KyGIj3JDg5C1es_rbhbTxxmiKmqYZxTSeNgDmLU8kAMfw3hSW0pb21kkfUsUkCVo-b0osq_es2S8jT3heRjifoSTW5HbajKeG0VvN_Hwcl85RjHRftcR3JoUcgt4KvcTVVQT1nB3K0IXiWsGYe2XO3bc74rNpSLyKqx7rN0sm1NSqDpCb6Z3aQ"
+        },
+        {
+          "name": "Prácticas",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4rQWouZWAncMJhilUr0mvKMZx1vJUP9CFw97uB5teJZfYDGk9E1cVvvLLIPSKbKIjhN_0QCyZetT3wJpb_IG-lG4nKLXNmy3X5NKvwndVFKsheF0Pv0xgj3vdOi2zQHO5pseQlSixOwOl2CZcwJot9c-qlFLxKBXFNQv4lT6oTlbjkxcr5Cz_y5dxispP_3_N4ycRgcqOkuxoXL66QFDUAzX6Spw-XOZs28Dh_ik8oe-bptFVUHUvYi2QU1h1Da2nZNc-kdbcelb5TC14Du3Y8YFMu_dxNLONQBUAC5ld_Hi5uP_QgTpk8I1JLhZ3ujCF1Jaul72stKMW9ulBDyoLanwhhPsOPt-WeQLHGtEISR1tTzff9",
+            "q": "data prácticas"
+          },
+          "link": "https://www.google.com/search?sca_esv=d1654259742c7a2c&hl=es&gl=co&sxsrf=APpeQnvse-pLCoPcVMB4j52zECZy-yQLJg:1790701538601&q=data+pr%C3%A1cticas&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rQWouZWAncMJhilUr0mvKMZx1vJUP9CFw97uB5teJZfYDGk9E1cVvvLLIPSKbKIjhN_0QCyZetT3wJpb_IG-lG4nKLXNmy3X5NKvwndVFKsheF0Pv0xgj3vdOi2zQHO5pseQlSixOwOl2CZcwJot9c-qlFLxKBXFNQv4lT6oTlbjkxcr5Cz_y5dxispP_3_N4ycRgcqOkuxoXL66QFDUAzX6Spw-XOZs28Dh_ik8oe-bptFVUHUvYi2QU1h1Da2nZNc-kdbcelb5TC14Du3Y8YFMu_dxNLONQBUAC5ld_Hi5uP_QgTpk8I1JLhZ3ujCF1Jaul72stKMW9ulBDyoLanwhhPsOPt-WeQLHGtEISR1tTzff9&chips=date_posted:today&udm=8&sa=X&ved=2ahUKEwjJiu2Io5SXAxXyGVkFHSn4GX4QkbEKegQIGxAF",
+          "serpapi_link": "https://serpapi.com/search.json?chips=date_posted%3Atoday&engine=google_jobs&gl=co&google_domain=google.com&hl=es&location=Colombia&q=data+pr%C3%A1cticas&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rQWouZWAncMJhilUr0mvKMZx1vJUP9CFw97uB5teJZfYDGk9E1cVvvLLIPSKbKIjhN_0QCyZetT3wJpb_IG-lG4nKLXNmy3X5NKvwndVFKsheF0Pv0xgj3vdOi2zQHO5pseQlSixOwOl2CZcwJot9c-qlFLxKBXFNQv4lT6oTlbjkxcr5Cz_y5dxispP_3_N4ycRgcqOkuxoXL66QFDUAzX6Spw-XOZs28Dh_ik8oe-bptFVUHUvYi2QU1h1Da2nZNc-kdbcelb5TC14Du3Y8YFMu_dxNLONQBUAC5ld_Hi5uP_QgTpk8I1JLhZ3ujCF1Jaul72stKMW9ulBDyoLanwhhPsOPt-WeQLHGtEISR1tTzff9"
+        }
+      ]
+    },
+    {
+      "name": "Tipo de trabajo",
+      "options": [
+        {
+          "name": "Tiempo completo",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4rjdygdj3dMWkENbzHOm63F8EX1DVcI6P4YgHOGSUHh1o0-NTXZe2cTr8nv5rROG0e8otGJwA9ug3_DYQlq7zBByeSNXFux2rpox_G1Y7AvFEnghEek8JOyMrwjUmbWXIAbW68rl3MSJa1exuKqz1v_4_DqUcfNcvyVA6VipgE2p9vR0cE_pux3nDGM4FuUaWQGxP2REqzZ-wrulCTDHJLbUrtk3FEZEXA5j9v-NaIRF2K2kWNXB_NggcV0FIY0QSoJ_3Wnge89sQDP02DV9Fv6JHn5WTOXtgvOjKmQG7kcmkkNH8NdQCEzAuDhD9PeJxT02JTRr5z09hpSBY0fhfEGxs7QoYsAdxMfUwDWdNQjTuKvGya",
+            "q": "data tiempo completo"
+          },
+          "link": "https://www.google.com/search?sca_esv=d1654259742c7a2c&hl=es&gl=co&sxsrf=APpeQnvse-pLCoPcVMB4j52zECZy-yQLJg:1790701538601&q=data+tiempo+completo&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rjdygdj3dMWkENbzHOm63F8EX1DVcI6P4YgHOGSUHh1o0-NTXZe2cTr8nv5rROG0e8otGJwA9ug3_DYQlq7zBByeSNXFux2rpox_G1Y7AvFEnghEek8JOyMrwjUmbWXIAbW68rl3MSJa1exuKqz1v_4_DqUcfNcvyVA6VipgE2p9vR0cE_pux3nDGM4FuUaWQGxP2REqzZ-wrulCTDHJLbUrtk3FEZEXA5j9v-NaIRF2K2kWNXB_NggcV0FIY0QSoJ_3Wnge89sQDP02DV9Fv6JHn5WTOXtgvOjKmQG7kcmkkNH8NdQCEzAuDhD9PeJxT02JTRr5z09hpSBY0fhfEGxs7QoYsAdxMfUwDWdNQjTuKvGya&chips=date_posted:today&udm=8&sa=X&ved=2ahUKEwjJiu2Io5SXAxXyGVkFHSn4GX4QkbEKegQIGxAC",
+          "serpapi_link": "https://serpapi.com/search.json?chips=date_posted%3Atoday&engine=google_jobs&gl=co&google_domain=google.com&hl=es&location=Colombia&q=data+tiempo+completo&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rjdygdj3dMWkENbzHOm63F8EX1DVcI6P4YgHOGSUHh1o0-NTXZe2cTr8nv5rROG0e8otGJwA9ug3_DYQlq7zBByeSNXFux2rpox_G1Y7AvFEnghEek8JOyMrwjUmbWXIAbW68rl3MSJa1exuKqz1v_4_DqUcfNcvyVA6VipgE2p9vR0cE_pux3nDGM4FuUaWQGxP2REqzZ-wrulCTDHJLbUrtk3FEZEXA5j9v-NaIRF2K2kWNXB_NggcV0FIY0QSoJ_3Wnge89sQDP02DV9Fv6JHn5WTOXtgvOjKmQG7kcmkkNH8NdQCEzAuDhD9PeJxT02JTRr5z09hpSBY0fhfEGxs7QoYsAdxMfUwDWdNQjTuKvGya"
+        },
+        {
+          "name": "Tiempo parcial",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4roShN0sMy5ev2uGhHNkJW5RCgd0tfprgnWAVOyOQK2XPo1aYyWiGDegYVb8MZz2w2tUoPriu2LVeIwOMpIkjG0TkWMuFrn2VgIdF9B5XkdZb7aUBewWWf6BZSbKa2hMnPylpBptZycm05Ru5uHfBLbuR_Yxb0SQbVGn1K1MAB-Vahrw8e6bpO3u79HdwWOdAtqXsN5c4sygDCDwZ7J9-2WjNyAIJ4x9BZ7PFG7gs_kNI_ahv_iMcI4FrXXbfW0Tzg3SB4N3JSXKszRf4Pp-SZH-Ksfks8xW1DpNaPFnb8R_f33n8ZqNziv_IlNcGdEvpJCUunYiNIbd9y5_f4GEoauH25Z4QbrRHGX0hhBmhv4MTrsB9B",
+            "q": "data tiempo parcial"
+          },
+          "link": "https://www.google.com/search?sca_esv=d1654259742c7a2c&hl=es&gl=co&sxsrf=APpeQnvse-pLCoPcVMB4j52zECZy-yQLJg:1790701538601&q=data+tiempo+parcial&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4roShN0sMy5ev2uGhHNkJW5RCgd0tfprgnWAVOyOQK2XPo1aYyWiGDegYVb8MZz2w2tUoPriu2LVeIwOMpIkjG0TkWMuFrn2VgIdF9B5XkdZb7aUBewWWf6BZSbKa2hMnPylpBptZycm05Ru5uHfBLbuR_Yxb0SQbVGn1K1MAB-Vahrw8e6bpO3u79HdwWOdAtqXsN5c4sygDCDwZ7J9-2WjNyAIJ4x9BZ7PFG7gs_kNI_ahv_iMcI4FrXXbfW0Tzg3SB4N3JSXKszRf4Pp-SZH-Ksfks8xW1DpNaPFnb8R_f33n8ZqNziv_IlNcGdEvpJCUunYiNIbd9y5_f4GEoauH25Z4QbrRHGX0hhBmhv4MTrsB9B&chips=date_posted:today&udm=8&sa=X&ved=2ahUKEwjJiu2Io5SXAxXyGVkFHSn4GX4QkbEKegQIGxAD",
+          "serpapi_link": "https://serpapi.com/search.json?chips=date_posted%3Atoday&engine=google_jobs&gl=co&google_domain=google.com&hl=es&location=Colombia&q=data+tiempo+parcial&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4roShN0sMy5ev2uGhHNkJW5RCgd0tfprgnWAVOyOQK2XPo1aYyWiGDegYVb8MZz2w2tUoPriu2LVeIwOMpIkjG0TkWMuFrn2VgIdF9B5XkdZb7aUBewWWf6BZSbKa2hMnPylpBptZycm05Ru5uHfBLbuR_Yxb0SQbVGn1K1MAB-Vahrw8e6bpO3u79HdwWOdAtqXsN5c4sygDCDwZ7J9-2WjNyAIJ4x9BZ7PFG7gs_kNI_ahv_iMcI4FrXXbfW0Tzg3SB4N3JSXKszRf4Pp-SZH-Ksfks8xW1DpNaPFnb8R_f33n8ZqNziv_IlNcGdEvpJCUunYiNIbd9y5_f4GEoauH25Z4QbrRHGX0hhBmhv4MTrsB9B"
+        },
+        {
+          "name": "Con contrato",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4rcyAXw0LNf4_5_PJXENkvOnC4Q0N9yVeDMIrYrPpQ-wl1RE5Aux_HmlkGKgkmty5RSa1jgF6lExqLxkJh4MkVAwxBnzapqo-awf74ZKkpAXFpLz91L0JwA3ovUuoCry2SAzl5kKyzzmGhO6bw4ZniyupO2-1o1WC4b9w1TZyBB7pbBMpLmfvhPoqL8FF8zYFhmkSDEXxvIMeqhKr3KyGIj3JDg5C1es_rbhbTxxmiKmqYZxTSeNgDmLU8kAMfw3hSW0pb21kkfUsUkCVo-b0osq_es2S8jT3heRjifoSTW5HbajKeG0VvN_Hwcl85RjHRftcR3JoUcgt4KvcTVVQT1nB3K0IXiWsGYe2XO3bc74rNpSLyKqx7rN0sm1NSqDpCb6Z3aQ",
+            "q": "data con contrato"
+          },
+          "link": "https://www.google.com/search?sca_esv=d1654259742c7a2c&hl=es&gl=co&sxsrf=APpeQnvse-pLCoPcVMB4j52zECZy-yQLJg:1790701538601&q=data+con+contrato&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rcyAXw0LNf4_5_PJXENkvOnC4Q0N9yVeDMIrYrPpQ-wl1RE5Aux_HmlkGKgkmty5RSa1jgF6lExqLxkJh4MkVAwxBnzapqo-awf74ZKkpAXFpLz91L0JwA3ovUuoCry2SAzl5kKyzzmGhO6bw4ZniyupO2-1o1WC4b9w1TZyBB7pbBMpLmfvhPoqL8FF8zYFhmkSDEXxvIMeqhKr3KyGIj3JDg5C1es_rbhbTxxmiKmqYZxTSeNgDmLU8kAMfw3hSW0pb21kkfUsUkCVo-b0osq_es2S8jT3heRjifoSTW5HbajKeG0VvN_Hwcl85RjHRftcR3JoUcgt4KvcTVVQT1nB3K0IXiWsGYe2XO3bc74rNpSLyKqx7rN0sm1NSqDpCb6Z3aQ&chips=date_posted:today&udm=8&sa=X&ved=2ahUKEwjJiu2Io5SXAxXyGVkFHSn4GX4QkbEKegQIGxAE",
+          "serpapi_link": "https://serpapi.com/search.json?chips=date_posted%3Atoday&engine=google_jobs&gl=co&google_domain=google.com&hl=es&location=Colombia&q=data+con+contrato&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rcyAXw0LNf4_5_PJXENkvOnC4Q0N9yVeDMIrYrPpQ-wl1RE5Aux_HmlkGKgkmty5RSa1jgF6lExqLxkJh4MkVAwxBnzapqo-awf74ZKkpAXFpLz91L0JwA3ovUuoCry2SAzl5kKyzzmGhO6bw4ZniyupO2-1o1WC4b9w1TZyBB7pbBMpLmfvhPoqL8FF8zYFhmkSDEXxvIMeqhKr3KyGIj3JDg5C1es_rbhbTxxmiKmqYZxTSeNgDmLU8kAMfw3hSW0pb21kkfUsUkCVo-b0osq_es2S8jT3heRjifoSTW5HbajKeG0VvN_Hwcl85RjHRftcR3JoUcgt4KvcTVVQT1nB3K0IXiWsGYe2XO3bc74rNpSLyKqx7rN0sm1NSqDpCb6Z3aQ"
+        },
+        {
+          "name": "Prácticas",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4rQWouZWAncMJhilUr0mvKMZx1vJUP9CFw97uB5teJZfYDGk9E1cVvvLLIPSKbKIjhN_0QCyZetT3wJpb_IG-lG4nKLXNmy3X5NKvwndVFKsheF0Pv0xgj3vdOi2zQHO5pseQlSixOwOl2CZcwJot9c-qlFLxKBXFNQv4lT6oTlbjkxcr5Cz_y5dxispP_3_N4ycRgcqOkuxoXL66QFDUAzX6Spw-XOZs28Dh_ik8oe-bptFVUHUvYi2QU1h1Da2nZNc-kdbcelb5TC14Du3Y8YFMu_dxNLONQBUAC5ld_Hi5uP_QgTpk8I1JLhZ3ujCF1Jaul72stKMW9ulBDyoLanwhhPsOPt-WeQLHGtEISR1tTzff9",
+            "q": "data prácticas"
+          },
+          "link": "https://www.google.com/search?sca_esv=d1654259742c7a2c&hl=es&gl=co&sxsrf=APpeQnvse-pLCoPcVMB4j52zECZy-yQLJg:1790701538601&q=data+pr%C3%A1cticas&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rQWouZWAncMJhilUr0mvKMZx1vJUP9CFw97uB5teJZfYDGk9E1cVvvLLIPSKbKIjhN_0QCyZetT3wJpb_IG-lG4nKLXNmy3X5NKvwndVFKsheF0Pv0xgj3vdOi2zQHO5pseQlSixOwOl2CZcwJot9c-qlFLxKBXFNQv4lT6oTlbjkxcr5Cz_y5dxispP_3_N4ycRgcqOkuxoXL66QFDUAzX6Spw-XOZs28Dh_ik8oe-bptFVUHUvYi2QU1h1Da2nZNc-kdbcelb5TC14Du3Y8YFMu_dxNLONQBUAC5ld_Hi5uP_QgTpk8I1JLhZ3ujCF1Jaul72stKMW9ulBDyoLanwhhPsOPt-WeQLHGtEISR1tTzff9&chips=date_posted:today&udm=8&sa=X&ved=2ahUKEwjJiu2Io5SXAxXyGVkFHSn4GX4QkbEKegQIGxAF",
+          "serpapi_link": "https://serpapi.com/search.json?chips=date_posted%3Atoday&engine=google_jobs&gl=co&google_domain=google.com&hl=es&location=Colombia&q=data+pr%C3%A1cticas&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rQWouZWAncMJhilUr0mvKMZx1vJUP9CFw97uB5teJZfYDGk9E1cVvvLLIPSKbKIjhN_0QCyZetT3wJpb_IG-lG4nKLXNmy3X5NKvwndVFKsheF0Pv0xgj3vdOi2zQHO5pseQlSixOwOl2CZcwJot9c-qlFLxKBXFNQv4lT6oTlbjkxcr5Cz_y5dxispP_3_N4ycRgcqOkuxoXL66QFDUAzX6Spw-XOZs28Dh_ik8oe-bptFVUHUvYi2QU1h1Da2nZNc-kdbcelb5TC14Du3Y8YFMu_dxNLONQBUAC5ld_Hi5uP_QgTpk8I1JLhZ3ujCF1Jaul72stKMW9ulBDyoLanwhhPsOPt-WeQLHGtEISR1tTzff9"
+        }
+      ]
+    },
+    {
+      "name": "Fecha de publicación",
+      "options": [
+        {
+          "name": "Ayer",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4rVVNivViyVtms2aJvUHdkkE4a8KWRLPsTTxhYwY24-bnxYHnZGWvtIeTvwBFxR3ODKU3cVf9zm2d9O3uLwIfpF-kOhYup1_6IXwDrqkY_XccYisK-LvGb5H3XBXewxHueem3Kc_ScrAco0vjUIwApKmBS0v5B_eGe_BrkEdVdqHf_FbPXMPT81tOn1Bs3AZiXFH6yyQMnkahOI9jlCLML7ccJUN2kOAwDAGV5d6F24D7E1mYK4y8JsJ9bgp_lFry0UMjij8blrvXG1KCQ-ahxOmmEQfS5UWXEsEsgQKRprNvunT6sFJxtAm8i_UWIedjN_DiFmuvnvrw7myZ_bGf4LNGBpQMNS8DdYKYEMVsN-lt523A6NfWueno51uBjYSOG9OE72DHIrhEQbNT17v6A-WB0hDo",
+            "q": "data desde ayer"
+          },
+          "link": "https://www.google.com/search?sca_esv=d1654259742c7a2c&hl=es&gl=co&sxsrf=APpeQnvse-pLCoPcVMB4j52zECZy-yQLJg:1790701538601&q=data+desde+ayer&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rVVNivViyVtms2aJvUHdkkE4a8KWRLPsTTxhYwY24-bnxYHnZGWvtIeTvwBFxR3ODKU3cVf9zm2d9O3uLwIfpF-kOhYup1_6IXwDrqkY_XccYisK-LvGb5H3XBXewxHueem3Kc_ScrAco0vjUIwApKmBS0v5B_eGe_BrkEdVdqHf_FbPXMPT81tOn1Bs3AZiXFH6yyQMnkahOI9jlCLML7ccJUN2kOAwDAGV5d6F24D7E1mYK4y8JsJ9bgp_lFry0UMjij8blrvXG1KCQ-ahxOmmEQfS5UWXEsEsgQKRprNvunT6sFJxtAm8i_UWIedjN_DiFmuvnvrw7myZ_bGf4LNGBpQMNS8DdYKYEMVsN-lt523A6NfWueno51uBjYSOG9OE72DHIrhEQbNT17v6A-WB0hDo&chips=date_posted:today&udm=8&sa=X&ved=2ahUKEwjJiu2Io5SXAxXyGVkFHSn4GX4QkbEKegQIHxAC",
+          "serpapi_link": "https://serpapi.com/search.json?chips=date_posted%3Atoday&engine=google_jobs&gl=co&google_domain=google.com&hl=es&location=Colombia&q=data+desde+ayer&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rVVNivViyVtms2aJvUHdkkE4a8KWRLPsTTxhYwY24-bnxYHnZGWvtIeTvwBFxR3ODKU3cVf9zm2d9O3uLwIfpF-kOhYup1_6IXwDrqkY_XccYisK-LvGb5H3XBXewxHueem3Kc_ScrAco0vjUIwApKmBS0v5B_eGe_BrkEdVdqHf_FbPXMPT81tOn1Bs3AZiXFH6yyQMnkahOI9jlCLML7ccJUN2kOAwDAGV5d6F24D7E1mYK4y8JsJ9bgp_lFry0UMjij8blrvXG1KCQ-ahxOmmEQfS5UWXEsEsgQKRprNvunT6sFJxtAm8i_UWIedjN_DiFmuvnvrw7myZ_bGf4LNGBpQMNS8DdYKYEMVsN-lt523A6NfWueno51uBjYSOG9OE72DHIrhEQbNT17v6A-WB0hDo"
+        },
+        {
+          "name": "Últimos 3 días",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4rFzaqi6X-nLhHx30s6Z1rK_dgzWPQX_ilnTMyaFGrP58rULEpvJMG150qlUkNVSimv7uDSBtY6lAbgvQz-nSzv6swR3dNrZ4CA5hfE1TD5Dfm7vHBmaV_MMTYtGKaIE83udImVfiCx79rwFFxQG5H021V_TJ2Jt_IT9KKEQloJ4FAOfgZSCYWRO5uOt7ALWFl_YI_1Gcsv3Xh2lbhD1JqRno9M2nzXE-qj6fZ6bP-bWwcPb0V5UMrPGzpM0UhnaDpRi2dK2sC_nhL4wbwXMkvLKwQFtzyRksyDnse46Ih9hc0TmKpTN9A0_yz1QGWTbIqwzUhZPv6-x5my20PXcgiHrGyseKElN-xeElIWIAU6BxldeefVeXlmyFQCfbIMJkIAx8wr0PLdEXTt06QykEUz-MS01Q",
+            "q": "data en los últimos 3 días"
+          },
+          "link": "https://www.google.com/search?sca_esv=d1654259742c7a2c&hl=es&gl=co&sxsrf=APpeQnvse-pLCoPcVMB4j52zECZy-yQLJg:1790701538601&q=data+en+los+%C3%BAltimos+3+d%C3%ADas&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rFzaqi6X-nLhHx30s6Z1rK_dgzWPQX_ilnTMyaFGrP58rULEpvJMG150qlUkNVSimv7uDSBtY6lAbgvQz-nSzv6swR3dNrZ4CA5hfE1TD5Dfm7vHBmaV_MMTYtGKaIE83udImVfiCx79rwFFxQG5H021V_TJ2Jt_IT9KKEQloJ4FAOfgZSCYWRO5uOt7ALWFl_YI_1Gcsv3Xh2lbhD1JqRno9M2nzXE-qj6fZ6bP-bWwcPb0V5UMrPGzpM0UhnaDpRi2dK2sC_nhL4wbwXMkvLKwQFtzyRksyDnse46Ih9hc0TmKpTN9A0_yz1QGWTbIqwzUhZPv6-x5my20PXcgiHrGyseKElN-xeElIWIAU6BxldeefVeXlmyFQCfbIMJkIAx8wr0PLdEXTt06QykEUz-MS01Q&chips=date_posted:today&udm=8&sa=X&ved=2ahUKEwjJiu2Io5SXAxXyGVkFHSn4GX4QkbEKegQIHxAD",
+          "serpapi_link": "https://serpapi.com/search.json?chips=date_posted%3Atoday&engine=google_jobs&gl=co&google_domain=google.com&hl=es&location=Colombia&q=data+en+los+%C3%BAltimos+3+d%C3%ADas&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rFzaqi6X-nLhHx30s6Z1rK_dgzWPQX_ilnTMyaFGrP58rULEpvJMG150qlUkNVSimv7uDSBtY6lAbgvQz-nSzv6swR3dNrZ4CA5hfE1TD5Dfm7vHBmaV_MMTYtGKaIE83udImVfiCx79rwFFxQG5H021V_TJ2Jt_IT9KKEQloJ4FAOfgZSCYWRO5uOt7ALWFl_YI_1Gcsv3Xh2lbhD1JqRno9M2nzXE-qj6fZ6bP-bWwcPb0V5UMrPGzpM0UhnaDpRi2dK2sC_nhL4wbwXMkvLKwQFtzyRksyDnse46Ih9hc0TmKpTN9A0_yz1QGWTbIqwzUhZPv6-x5my20PXcgiHrGyseKElN-xeElIWIAU6BxldeefVeXlmyFQCfbIMJkIAx8wr0PLdEXTt06QykEUz-MS01Q"
+        },
+        {
+          "name": "Última semana",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4r2YIQD5S0wiJLM8D3QoSGRaVxbpqbb7rumhagNEKfs4DZtLO-uOWL9fq29u3hzByj5dlWRfAd72b3a4AG0Bsahft_BSavglMGeI8GETUv2ZLTJLt2FSHptCCEgLlI2dRVoCZRYaq9onxkSwISHEyWxVmdm9KdMqoNbTBUFcwYuknohzqOI8sKgNIneb_drNZMwRGi04S3AJvzoXLl3iAiTChkxz3lpQIJw83jVjjoTZKVYiYgBbZvpyO_c92BERP77R6wTuoYq1mSNw4dT62Cl5TnhdueUO8vaWftF9TD-klhTgHVIJ08qnr1py1eNVRkM4UH3Qd85arBdYIwPDkwcwpQb2aBXs7rBDwAuVeEo-0nkukq6ipN18Bompq5ROdKNNOJvdjauuMuPkg-Y9jgr6-kVv8",
+            "q": "data en la última semana"
+          },
+          "link": "https://www.google.com/search?sca_esv=d1654259742c7a2c&hl=es&gl=co&sxsrf=APpeQnvse-pLCoPcVMB4j52zECZy-yQLJg:1790701538601&q=data+en+la+%C3%BAltima+semana&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4r2YIQD5S0wiJLM8D3QoSGRaVxbpqbb7rumhagNEKfs4DZtLO-uOWL9fq29u3hzByj5dlWRfAd72b3a4AG0Bsahft_BSavglMGeI8GETUv2ZLTJLt2FSHptCCEgLlI2dRVoCZRYaq9onxkSwISHEyWxVmdm9KdMqoNbTBUFcwYuknohzqOI8sKgNIneb_drNZMwRGi04S3AJvzoXLl3iAiTChkxz3lpQIJw83jVjjoTZKVYiYgBbZvpyO_c92BERP77R6wTuoYq1mSNw4dT62Cl5TnhdueUO8vaWftF9TD-klhTgHVIJ08qnr1py1eNVRkM4UH3Qd85arBdYIwPDkwcwpQb2aBXs7rBDwAuVeEo-0nkukq6ipN18Bompq5ROdKNNOJvdjauuMuPkg-Y9jgr6-kVv8&chips=date_posted:today&udm=8&sa=X&ved=2ahUKEwjJiu2Io5SXAxXyGVkFHSn4GX4QkbEKegQIHxAE",
+          "serpapi_link": "https://serpapi.com/search.json?chips=date_posted%3Atoday&engine=google_jobs&gl=co&google_domain=google.com&hl=es&location=Colombia&q=data+en+la+%C3%BAltima+semana&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4r2YIQD5S0wiJLM8D3QoSGRaVxbpqbb7rumhagNEKfs4DZtLO-uOWL9fq29u3hzByj5dlWRfAd72b3a4AG0Bsahft_BSavglMGeI8GETUv2ZLTJLt2FSHptCCEgLlI2dRVoCZRYaq9onxkSwISHEyWxVmdm9KdMqoNbTBUFcwYuknohzqOI8sKgNIneb_drNZMwRGi04S3AJvzoXLl3iAiTChkxz3lpQIJw83jVjjoTZKVYiYgBbZvpyO_c92BERP77R6wTuoYq1mSNw4dT62Cl5TnhdueUO8vaWftF9TD-klhTgHVIJ08qnr1py1eNVRkM4UH3Qd85arBdYIwPDkwcwpQb2aBXs7rBDwAuVeEo-0nkukq6ipN18Bompq5ROdKNNOJvdjauuMuPkg-Y9jgr6-kVv8"
+        },
+        {
+          "name": "Último mes",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4rOXaF_MuSFyN549V3IFM46GeVHzgrxOZlCHeEQecAJHoIvwTtMu0cEpJ70S9GqQR36bsV7eyQHYs17MHqSJSKOZIJBrhcgandieNXiGxgE7TFeJaZhcLwF-UdPp6RsZvAzTepIKplUofgk2QZGt9-LDb8sf2F97DTQWjS_t3n8ZHx7OCSkWlOIM1RreBycAEPTzfvoit_NWInLlKSFCcUKgqIeOSfHdJomdxLpRDMA_aQimrVYFxf470kngpckv0Ll4X0gCE9F-oRkrGqFyN4W2oiSvDlOr1RQJSXTysHB0Zli7DIbzyT_QqlXuIg-gvFuJEB-YZm2iQG5tMqbnyaUESDASL98l6aTFDfSVZjmJOWnxj4JN5yV1RLgTAKNrXzp_YQ0qbhDVSwqLhP66z641ZFYqM",
+            "q": "data en el último mes"
+          },
+          "link": "https://www.google.com/search?sca_esv=d1654259742c7a2c&hl=es&gl=co&sxsrf=APpeQnvse-pLCoPcVMB4j52zECZy-yQLJg:1790701538601&q=data+en+el+%C3%BAltimo+mes&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rOXaF_MuSFyN549V3IFM46GeVHzgrxOZlCHeEQecAJHoIvwTtMu0cEpJ70S9GqQR36bsV7eyQHYs17MHqSJSKOZIJBrhcgandieNXiGxgE7TFeJaZhcLwF-UdPp6RsZvAzTepIKplUofgk2QZGt9-LDb8sf2F97DTQWjS_t3n8ZHx7OCSkWlOIM1RreBycAEPTzfvoit_NWInLlKSFCcUKgqIeOSfHdJomdxLpRDMA_aQimrVYFxf470kngpckv0Ll4X0gCE9F-oRkrGqFyN4W2oiSvDlOr1RQJSXTysHB0Zli7DIbzyT_QqlXuIg-gvFuJEB-YZm2iQG5tMqbnyaUESDASL98l6aTFDfSVZjmJOWnxj4JN5yV1RLgTAKNrXzp_YQ0qbhDVSwqLhP66z641ZFYqM&chips=date_posted:today&udm=8&sa=X&ved=2ahUKEwjJiu2Io5SXAxXyGVkFHSn4GX4QkbEKegQIHxAF",
+          "serpapi_link": "https://serpapi.com/search.json?chips=date_posted%3Atoday&engine=google_jobs&gl=co&google_domain=google.com&hl=es&location=Colombia&q=data+en+el+%C3%BAltimo+mes&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rOXaF_MuSFyN549V3IFM46GeVHzgrxOZlCHeEQecAJHoIvwTtMu0cEpJ70S9GqQR36bsV7eyQHYs17MHqSJSKOZIJBrhcgandieNXiGxgE7TFeJaZhcLwF-UdPp6RsZvAzTepIKplUofgk2QZGt9-LDb8sf2F97DTQWjS_t3n8ZHx7OCSkWlOIM1RreBycAEPTzfvoit_NWInLlKSFCcUKgqIeOSfHdJomdxLpRDMA_aQimrVYFxf470kngpckv0Ll4X0gCE9F-oRkrGqFyN4W2oiSvDlOr1RQJSXTysHB0Zli7DIbzyT_QqlXuIg-gvFuJEB-YZm2iQG5tMqbnyaUESDASL98l6aTFDfSVZjmJOWnxj4JN5yV1RLgTAKNrXzp_YQ0qbhDVSwqLhP66z641ZFYqM"
+        }
+      ]
+    },
+    {
+      "name": "Fecha de publicación",
+      "options": [
+        {
+          "name": "Ayer",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4rVVNivViyVtms2aJvUHdkkE4a8KWRLPsTTxhYwY24-bnxYHnZGWvtIeTvwBFxR3ODKU3cVf9zm2d9O3uLwIfpF-kOhYup1_6IXwDrqkY_XccYisK-LvGb5H3XBXewxHueem3Kc_ScrAco0vjUIwApKmBS0v5B_eGe_BrkEdVdqHf_FbPXMPT81tOn1Bs3AZiXFH6yyQMnkahOI9jlCLML7ccJUN2kOAwDAGV5d6F24D7E1mYK4y8JsJ9bgp_lFry0UMjij8blrvXG1KCQ-ahxOmmEQfS5UWXEsEsgQKRprNvunT6sFJxtAm8i_UWIedjN_DiFmuvnvrw7myZ_bGf4LNGBpQMNS8DdYKYEMVsN-lt523A6NfWueno51uBjYSOG9OE72DHIrhEQbNT17v6A-WB0hDo",
+            "q": "data desde ayer"
+          },
+          "link": "https://www.google.com/search?sca_esv=d1654259742c7a2c&hl=es&gl=co&sxsrf=APpeQnvse-pLCoPcVMB4j52zECZy-yQLJg:1790701538601&q=data+desde+ayer&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rVVNivViyVtms2aJvUHdkkE4a8KWRLPsTTxhYwY24-bnxYHnZGWvtIeTvwBFxR3ODKU3cVf9zm2d9O3uLwIfpF-kOhYup1_6IXwDrqkY_XccYisK-LvGb5H3XBXewxHueem3Kc_ScrAco0vjUIwApKmBS0v5B_eGe_BrkEdVdqHf_FbPXMPT81tOn1Bs3AZiXFH6yyQMnkahOI9jlCLML7ccJUN2kOAwDAGV5d6F24D7E1mYK4y8JsJ9bgp_lFry0UMjij8blrvXG1KCQ-ahxOmmEQfS5UWXEsEsgQKRprNvunT6sFJxtAm8i_UWIedjN_DiFmuvnvrw7myZ_bGf4LNGBpQMNS8DdYKYEMVsN-lt523A6NfWueno51uBjYSOG9OE72DHIrhEQbNT17v6A-WB0hDo&chips=date_posted:today&udm=8&sa=X&ved=2ahUKEwjJiu2Io5SXAxXyGVkFHSn4GX4QkbEKegQIHxAC",
+          "serpapi_link": "https://serpapi.com/search.json?chips=date_posted%3Atoday&engine=google_jobs&gl=co&google_domain=google.com&hl=es&location=Colombia&q=data+desde+ayer&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rVVNivViyVtms2aJvUHdkkE4a8KWRLPsTTxhYwY24-bnxYHnZGWvtIeTvwBFxR3ODKU3cVf9zm2d9O3uLwIfpF-kOhYup1_6IXwDrqkY_XccYisK-LvGb5H3XBXewxHueem3Kc_ScrAco0vjUIwApKmBS0v5B_eGe_BrkEdVdqHf_FbPXMPT81tOn1Bs3AZiXFH6yyQMnkahOI9jlCLML7ccJUN2kOAwDAGV5d6F24D7E1mYK4y8JsJ9bgp_lFry0UMjij8blrvXG1KCQ-ahxOmmEQfS5UWXEsEsgQKRprNvunT6sFJxtAm8i_UWIedjN_DiFmuvnvrw7myZ_bGf4LNGBpQMNS8DdYKYEMVsN-lt523A6NfWueno51uBjYSOG9OE72DHIrhEQbNT17v6A-WB0hDo"
+        },
+        {
+          "name": "Últimos 3 días",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4rFzaqi6X-nLhHx30s6Z1rK_dgzWPQX_ilnTMyaFGrP58rULEpvJMG150qlUkNVSimv7uDSBtY6lAbgvQz-nSzv6swR3dNrZ4CA5hfE1TD5Dfm7vHBmaV_MMTYtGKaIE83udImVfiCx79rwFFxQG5H021V_TJ2Jt_IT9KKEQloJ4FAOfgZSCYWRO5uOt7ALWFl_YI_1Gcsv3Xh2lbhD1JqRno9M2nzXE-qj6fZ6bP-bWwcPb0V5UMrPGzpM0UhnaDpRi2dK2sC_nhL4wbwXMkvLKwQFtzyRksyDnse46Ih9hc0TmKpTN9A0_yz1QGWTbIqwzUhZPv6-x5my20PXcgiHrGyseKElN-xeElIWIAU6BxldeefVeXlmyFQCfbIMJkIAx8wr0PLdEXTt06QykEUz-MS01Q",
+            "q": "data en los últimos 3 días"
+          },
+          "link": "https://www.google.com/search?sca_esv=d1654259742c7a2c&hl=es&gl=co&sxsrf=APpeQnvse-pLCoPcVMB4j52zECZy-yQLJg:1790701538601&q=data+en+los+%C3%BAltimos+3+d%C3%ADas&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rFzaqi6X-nLhHx30s6Z1rK_dgzWPQX_ilnTMyaFGrP58rULEpvJMG150qlUkNVSimv7uDSBtY6lAbgvQz-nSzv6swR3dNrZ4CA5hfE1TD5Dfm7vHBmaV_MMTYtGKaIE83udImVfiCx79rwFFxQG5H021V_TJ2Jt_IT9KKEQloJ4FAOfgZSCYWRO5uOt7ALWFl_YI_1Gcsv3Xh2lbhD1JqRno9M2nzXE-qj6fZ6bP-bWwcPb0V5UMrPGzpM0UhnaDpRi2dK2sC_nhL4wbwXMkvLKwQFtzyRksyDnse46Ih9hc0TmKpTN9A0_yz1QGWTbIqwzUhZPv6-x5my20PXcgiHrGyseKElN-xeElIWIAU6BxldeefVeXlmyFQCfbIMJkIAx8wr0PLdEXTt06QykEUz-MS01Q&chips=date_posted:today&udm=8&sa=X&ved=2ahUKEwjJiu2Io5SXAxXyGVkFHSn4GX4QkbEKegQIHxAD",
+          "serpapi_link": "https://serpapi.com/search.json?chips=date_posted%3Atoday&engine=google_jobs&gl=co&google_domain=google.com&hl=es&location=Colombia&q=data+en+los+%C3%BAltimos+3+d%C3%ADas&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rFzaqi6X-nLhHx30s6Z1rK_dgzWPQX_ilnTMyaFGrP58rULEpvJMG150qlUkNVSimv7uDSBtY6lAbgvQz-nSzv6swR3dNrZ4CA5hfE1TD5Dfm7vHBmaV_MMTYtGKaIE83udImVfiCx79rwFFxQG5H021V_TJ2Jt_IT9KKEQloJ4FAOfgZSCYWRO5uOt7ALWFl_YI_1Gcsv3Xh2lbhD1JqRno9M2nzXE-qj6fZ6bP-bWwcPb0V5UMrPGzpM0UhnaDpRi2dK2sC_nhL4wbwXMkvLKwQFtzyRksyDnse46Ih9hc0TmKpTN9A0_yz1QGWTbIqwzUhZPv6-x5my20PXcgiHrGyseKElN-xeElIWIAU6BxldeefVeXlmyFQCfbIMJkIAx8wr0PLdEXTt06QykEUz-MS01Q"
+        },
+        {
+          "name": "Última semana",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4r2YIQD5S0wiJLM8D3QoSGRaVxbpqbb7rumhagNEKfs4DZtLO-uOWL9fq29u3hzByj5dlWRfAd72b3a4AG0Bsahft_BSavglMGeI8GETUv2ZLTJLt2FSHptCCEgLlI2dRVoCZRYaq9onxkSwISHEyWxVmdm9KdMqoNbTBUFcwYuknohzqOI8sKgNIneb_drNZMwRGi04S3AJvzoXLl3iAiTChkxz3lpQIJw83jVjjoTZKVYiYgBbZvpyO_c92BERP77R6wTuoYq1mSNw4dT62Cl5TnhdueUO8vaWftF9TD-klhTgHVIJ08qnr1py1eNVRkM4UH3Qd85arBdYIwPDkwcwpQb2aBXs7rBDwAuVeEo-0nkukq6ipN18Bompq5ROdKNNOJvdjauuMuPkg-Y9jgr6-kVv8",
+            "q": "data en la última semana"
+          },
+          "link": "https://www.google.com/search?sca_esv=d1654259742c7a2c&hl=es&gl=co&sxsrf=APpeQnvse-pLCoPcVMB4j52zECZy-yQLJg:1790701538601&q=data+en+la+%C3%BAltima+semana&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4r2YIQD5S0wiJLM8D3QoSGRaVxbpqbb7rumhagNEKfs4DZtLO-uOWL9fq29u3hzByj5dlWRfAd72b3a4AG0Bsahft_BSavglMGeI8GETUv2ZLTJLt2FSHptCCEgLlI2dRVoCZRYaq9onxkSwISHEyWxVmdm9KdMqoNbTBUFcwYuknohzqOI8sKgNIneb_drNZMwRGi04S3AJvzoXLl3iAiTChkxz3lpQIJw83jVjjoTZKVYiYgBbZvpyO_c92BERP77R6wTuoYq1mSNw4dT62Cl5TnhdueUO8vaWftF9TD-klhTgHVIJ08qnr1py1eNVRkM4UH3Qd85arBdYIwPDkwcwpQb2aBXs7rBDwAuVeEo-0nkukq6ipN18Bompq5ROdKNNOJvdjauuMuPkg-Y9jgr6-kVv8&chips=date_posted:today&udm=8&sa=X&ved=2ahUKEwjJiu2Io5SXAxXyGVkFHSn4GX4QkbEKegQIHxAE",
+          "serpapi_link": "https://serpapi.com/search.json?chips=date_posted%3Atoday&engine=google_jobs&gl=co&google_domain=google.com&hl=es&location=Colombia&q=data+en+la+%C3%BAltima+semana&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4r2YIQD5S0wiJLM8D3QoSGRaVxbpqbb7rumhagNEKfs4DZtLO-uOWL9fq29u3hzByj5dlWRfAd72b3a4AG0Bsahft_BSavglMGeI8GETUv2ZLTJLt2FSHptCCEgLlI2dRVoCZRYaq9onxkSwISHEyWxVmdm9KdMqoNbTBUFcwYuknohzqOI8sKgNIneb_drNZMwRGi04S3AJvzoXLl3iAiTChkxz3lpQIJw83jVjjoTZKVYiYgBbZvpyO_c92BERP77R6wTuoYq1mSNw4dT62Cl5TnhdueUO8vaWftF9TD-klhTgHVIJ08qnr1py1eNVRkM4UH3Qd85arBdYIwPDkwcwpQb2aBXs7rBDwAuVeEo-0nkukq6ipN18Bompq5ROdKNNOJvdjauuMuPkg-Y9jgr6-kVv8"
+        },
+        {
+          "name": "Último mes",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4rOXaF_MuSFyN549V3IFM46GeVHzgrxOZlCHeEQecAJHoIvwTtMu0cEpJ70S9GqQR36bsV7eyQHYs17MHqSJSKOZIJBrhcgandieNXiGxgE7TFeJaZhcLwF-UdPp6RsZvAzTepIKplUofgk2QZGt9-LDb8sf2F97DTQWjS_t3n8ZHx7OCSkWlOIM1RreBycAEPTzfvoit_NWInLlKSFCcUKgqIeOSfHdJomdxLpRDMA_aQimrVYFxf470kngpckv0Ll4X0gCE9F-oRkrGqFyN4W2oiSvDlOr1RQJSXTysHB0Zli7DIbzyT_QqlXuIg-gvFuJEB-YZm2iQG5tMqbnyaUESDASL98l6aTFDfSVZjmJOWnxj4JN5yV1RLgTAKNrXzp_YQ0qbhDVSwqLhP66z641ZFYqM",
+            "q": "data en el último mes"
+          },
+          "link": "https://www.google.com/search?sca_esv=d1654259742c7a2c&hl=es&gl=co&sxsrf=APpeQnvse-pLCoPcVMB4j52zECZy-yQLJg:1790701538601&q=data+en+el+%C3%BAltimo+mes&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rOXaF_MuSFyN549V3IFM46GeVHzgrxOZlCHeEQecAJHoIvwTtMu0cEpJ70S9GqQR36bsV7eyQHYs17MHqSJSKOZIJBrhcgandieNXiGxgE7TFeJaZhcLwF-UdPp6RsZvAzTepIKplUofgk2QZGt9-LDb8sf2F97DTQWjS_t3n8ZHx7OCSkWlOIM1RreBycAEPTzfvoit_NWInLlKSFCcUKgqIeOSfHdJomdxLpRDMA_aQimrVYFxf470kngpckv0Ll4X0gCE9F-oRkrGqFyN4W2oiSvDlOr1RQJSXTysHB0Zli7DIbzyT_QqlXuIg-gvFuJEB-YZm2iQG5tMqbnyaUESDASL98l6aTFDfSVZjmJOWnxj4JN5yV1RLgTAKNrXzp_YQ0qbhDVSwqLhP66z641ZFYqM&chips=date_posted:today&udm=8&sa=X&ved=2ahUKEwjJiu2Io5SXAxXyGVkFHSn4GX4QkbEKegQIHxAF",
+          "serpapi_link": "https://serpapi.com/search.json?chips=date_posted%3Atoday&engine=google_jobs&gl=co&google_domain=google.com&hl=es&location=Colombia&q=data+en+el+%C3%BAltimo+mes&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rOXaF_MuSFyN549V3IFM46GeVHzgrxOZlCHeEQecAJHoIvwTtMu0cEpJ70S9GqQR36bsV7eyQHYs17MHqSJSKOZIJBrhcgandieNXiGxgE7TFeJaZhcLwF-UdPp6RsZvAzTepIKplUofgk2QZGt9-LDb8sf2F97DTQWjS_t3n8ZHx7OCSkWlOIM1RreBycAEPTzfvoit_NWInLlKSFCcUKgqIeOSfHdJomdxLpRDMA_aQimrVYFxf470kngpckv0Ll4X0gCE9F-oRkrGqFyN4W2oiSvDlOr1RQJSXTysHB0Zli7DIbzyT_QqlXuIg-gvFuJEB-YZm2iQG5tMqbnyaUESDASL98l6aTFDfSVZjmJOWnxj4JN5yV1RLgTAKNrXzp_YQ0qbhDVSwqLhP66z641ZFYqM"
+        }
+      ]
+    }
+  ],
+  "jobs_results": [
+    {
+      "title": "Data & Analytics Manager - Remote | LATAM | Performance Marketing for Universities 📈🎓",
+      "company_name": "Atomic - Remote Jobs",
+      "location": "Bogotá",
+      "via": "LinkedIn",
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Data+Analyst&htidocid=PJ8jQQiPpU0UeCmDAAAAAA%3D%3D&hl=es-CO&shem=epsd1,esd2e,rimspwouoe&shndl=37&shmd=H4sIAAAAAAAA_0WOQUoDQRREcZsjuMlfuRCcEcFNXI0IgZCAiK7Dn0nZae3uP_b_ShQP4MpNDhC8htvcwlPkCHZW2VRB8aiqwd_R4OOGjemEmsTh3XynNOPEDpnO6A5RDPRJ0-a-mRW_RX6UHDl1KFh-hvnkqET0kPwbsnrzUNpt1l-7zfd6RO32V19esWBagBD7ACEkGou4gOOrpVmvo7pWDZVT47JfdRJrSWhlVT9Jq3uZ65Iz-sCG-cXl-arqkzsdNibRd4ebk0Lvy6_FiW1__gHW_GCR3QAAAA&shmds=v1_ARwrE22pZdqeDiaggNNsvCf88d8TZfFBiohVf9R17ikhUuu3mw&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Data+Analyst&htidocid=PJ8jQQiPpU0UeCmDAAAAAA%3D%3D",
+      "thumbnail": "https://serpapi.com/searches/6abbefde703f175a62fbcb7f/images/3H4d6yywDxrfDY9aAfxZqUO2te9BUmvTdT_lmdC7b0c.jpeg",
+      "extensions": [
+        "hace 16 horas",
+        "Tiempo completo"
+      ],
+      "source_link": "https://co.linkedin.com/jobs/view/data-analytics-manager-remote-latam-performance-marketing-for-universities-%F0%9F%93%88%F0%9F%8E%93-at-atomic-remote-jobs-4471586573",
+      "job_title": "Data & Analytics Manager - Remote | LATAM | Performance Marketing for Universities 📈🎓",
+      "description": "🏢 About The Role\n\nA mission-driven performance marketing agency is hiring a Data & Analytics Manager to lead reporting, analytics strategy, and performance insights across higher education and nonprofit partners. This role is centered on transforming complex marketing and CRM data into clear, actionable insights that help teams make smarter decisions and improve campaign performance.\n\nYou’ll work closely with Paid Media, Account Services, Leadership, and external partners to build dashboards, identify trends, improve reporting systems, and support strategic marketing decisions through data.\n\nThis is a remote role, paid in USD, with compensation based on experience and scope.\n\n🌍 About The Agency\n\nThis agency works exclusively with universities and nonprofit organizations — partners doing work that improves communities and expands opportunity.\n\nTheir mission is simple:\n\nTo build a better agency for organizations building a better world.\n\nThey combine sharp strategy, creative excellence, and data-driven execution to drive meaningful outcomes like enrollments, applications, inquiries, donations, and awareness.\n\nThe culture is built around high ownership, strong collaboration, and continuous improvement. They care deeply about both results and relationships — internally and externally.\n\n🛠 What You’ll Do\n\n Build and maintain dashboards and reporting systems Analyze marketing and CRM data to identify trends and opportunities Monitor campaign performance and provide actionable insights Support conversion tracking and data accuracy across platforms Collaborate with Paid Media, Account Services, and Leadership teams Help improve analytics processes and reporting operations Research new tools and solutions to support growth\n\n✅ What We’re Looking For\n\n 5+ years of analytics or marketing data experience Strong reporting, dashboard, and data visualization skills Experience with marketing KPIs and lead generation reporting Familiarity with CRM systems like Salesforce, Hubspot, or Slate Analytical, organized, and solutions-oriented mindset Strong communication and collaboration skills Comfortable working in fast-paced agency environments Native or near-native English fluency\n\n🌟 Bonus Points\n\n Experience in higher education marketing Experience with Paid Media or SEO performance reporting Exposure to CRO (conversion rate optimization) initiatives Experience managing analysts, contractors, or analytics resources Agency experience supporting multiple client accounts Familiarity with predictive analytics or statistical analysis techniques\n\n💰 What You’ll Get\n\n💵 Competitive USD compensation based on experience and scope\n\n🌍 100% remote role\n\n📊 High-impact strategic work across marketing and analytics\n\n🤝 Collaborative, systems-minded, mission-driven culture\n\n📈 Strong ownership and growth opportunities\n\n🚀 The chance to help organizations doing meaningful work make smarter, data-driven decisions\n\n🧩 Why This Role Might Be a Fit\n\n✅ You genuinely enjoy turning messy data into clear insights\n\n✅ You like solving problems and improving systems\n\n✅ You think strategically but also enjoy hands-on analytics work\n\n✅ You’re comfortable communicating with both technical and non-technical teams\n\n✅ You care about accuracy, performance, and continuous improvement\n\n✅ You want your work to support mission-driven organizations making real impact\n\n🧭 Interview Process\n\n Application Review – resume + relevant analytics experience Intro Call – background, reporting experience, and marketing analytics exposure Technical/Analytics Interview – dashboards, KPIs, reporting systems, and analysis approach Interview w/ the Team – collaboration style and communication approach Interview w/ Leadership – strategic fit and long-term growth potential Offer Hire - Welcome to the team!\n\nTimeline: usually 3–4 weeks.\n\n📩 Ready to Apply?\n\nSend your resume and a short note about your analytics experience, reporting background, and approach to turning data into actionable insights.\n\nIf you’ve worked in agency environments, higher education, or performance marketing, we’d especially love to hear from you.",
+      "apply_options": [
+        {
+          "title": "LinkedIn",
+          "link": "https://co.linkedin.com/jobs/view/data-analytics-manager-remote-latam-performance-marketing-for-universities-%F0%9F%93%88%F0%9F%8E%93-at-atomic-remote-jobs-4471586573?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJEYXRhIFx1MDAyNiBBbmFseXRpY3MgTWFuYWdlciAtIFJlbW90ZSB8IExBVEFNIHwgUGVyZm9ybWFuY2UgTWFya2V0aW5nIGZvciBVbml2ZXJzaXRpZXMg8J+TiPCfjpMiLCJjb21wYW55X25hbWUiOiJBdG9taWMgLSBSZW1vdGUgSm9icyIsImh0aWRvY2lkIjoiUEo4alFRaVBwVTBVZUNtREFBQUFBQT09IiwidXVsZSI6IncrQ0FJUUlDSUlRMjlzYjIxaWFXRSIsImdsIjoiY28iLCJobCI6ImVzIiwiZmMiOiJFc3dCQ293QlFVcHBWRFIwVEdJMmEyZE9OVnBDTW1ZelZVMVdZbXh0VVRsMlIyNTVWMHhaVFVRM1NuSmpXWE42YzBsR1pVMDFibEZaTUVoQmNFWlRabTlRYUd0cFVFNVBUbHB3UTJ0UVptd3dkRkI2Y1dReWVqUklha05RZDBWclZWQjBVbUl4YlMwMk56bEZhVmhtVlZKZk1VdEpVM2xpTUhsV2R6bElVRlZrUzFsNlpXY3lRbEJNVUVWQmVXRlNlR2tTRnpSMUxUZGhjMjFTU2xCTGVqVk9iMUJ4WmtSdU9FRmpHaUpCUkhOeU9XWlRWVVJXVDJOd1JVaHdMWGhTVW01Sk5IcHBORlV5U0VOcWFXdFIiLCJmY3YiOiIzIiwiZmNfaWQiOiJQSjhqUVFpUHBVMFVlQ21EQUFBQUFBPT0ifQ=="
+    },
+    {
+      "title": "Head of Data",
+      "company_name": "DROPI",
+      "location": "Cali, Valle del Cauca",
+      "via": "Computrabajo",
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Data+Analyst&htidocid=AhFtV0ojV41RK7YlAAAAAA%3D%3D&hl=es-CO&shem=epsd1,esd2e,rimspwouoe&shndl=37&shmd=H4sIAAAAAAAA_xWNMQrCQBAAsc0TLGRrlTsRbGJpQK0UC9uwl1uTyOb2dC-QN_gkWz9m0gxMM5N9ZtnqROhBHlBgwhzc76uvnjyCJ6AuMglQgKNIzTTfNylFza1VZVNrwtRWppLOSiAng32K0wmlNvimyJio3O42g4mhXi6K2-V6nmoH5HYNd2SmccOj9xX-Ae2myquNAAAA&shmds=v1_ARwrE21GdvgFruR3VjhPWQvLTO5Vhm7EbhTm1QJTPMzmMxdD5A&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Data+Analyst&htidocid=AhFtV0ojV41RK7YlAAAAAA%3D%3D",
+      "thumbnail": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAADgAAAAYCAMAAACY9M4aAAAAaVBMVEURDA0QCw0SDA0AAAAQCw7____7-_sNBwhTUVKpqakGAAApJifh4eH09PTw7-8MBgqLiouAf39vbm60s7TKycpEQUJkY2NMSksbFxg8OTqgn6DAwMDp6enc29vS0dJYVld4d3gyLzCWlZb-AWjKAAABrUlEQVQ4jdWT25qjIBCENZUWUVQEjxgl5v0fchozh6izM9_u3daFIvBb3XQTXV8Ux3H0oy5fivbgz9wZrIDtEST-AqyGxQGDnGe16AF_9j2C8HSDdn6ZrVXFHe_bxMn9csmwCxXS29rYq_ZAqtyTFLleD-QlGzvsQN0k1LSTGUUEqA7BDi11QIYwFPzI-AVZ7MGaiIwBKv4tWhU2G-3J92nrMdT1gLwbNW_ozR6UdnCaPdgKPdQIzKSSJG1KkmtRlsXYUaJoPjk2XIcJIA0x0CprDiGFo3Qig0Zx9FNKDikZV-5BC3bNM14UKFb3gLuFHNNpBm5cKqlSann4OIILO7KrGfgUIkzBsd8ceWFhWDVPx_sRlEtvH6hQxVHMEecZ51gS-YahNmG1PuGJ1xzjoGxMpHnYYeu5fG7Cqda6rfPOIMKqdY6OvK65yvcdGENS-O9ipeWKjtlWx1C30AtZqGYXchTRV-fE72RDBYvsREmH8_0Sq87Fa7d-gBVcwZYKWvXYZo7ks3FPIJO5nhYN7rL4O_B4QT5BPqGQ1RUfn7_crRfwoH8Gfwn2PwLfAM4lG2GyzpZ0AAAAAElFTkSuQmCC.png",
+      "extensions": [
+        "hace 17 horas",
+        "Tiempo completo"
+      ],
+      "source_link": "https://co.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-head-of-data-en-cali-715BFBF1CFC4E70A61373E686DCF3405",
+      "job_title": "Head of Data",
+      "description": "En Dropi estamos transformando la forma en la que se hace e-commerce en LATAM, y queremos que tú hagas parte de esta historia.\n¿Te apasiona convertir datos en decisiones que mueven un negocio? ¿Disfrutas diseñar arquitecturas a escala, liderar equipos técnicos y anticiparte a los retos antes de que se vuelvan urgentes?\nBuscamos un Head of Data  que se sume a nuestro equipo con visión estratégica, liderazgo técnico y ganas de definir cómo fluye, se gobierna y se aprovecha la información en una de las startups de e-commerce con mayor crecimiento en Latinoamérica.\n ¿Qué harás?\nDiseñar y gobernar el flujo de datos desde nuestras bases transaccionales (Aurora Postgres, una por país) hasta nuestro data warehouse analítico en AWS.\nEvaluar e implementar bases de datos columnares y liderar la evolución hacia CDC/DMS para replicación en tiempo real.\nEstudiar las tendencias del mercado en datos y proponer opciones de arquitectura con sus pros, contras, costos y riesgos.\nConstruir y mantener el roadmap del área de datos a mediano y largo plazo.\nLiderar, mentorizar y hacer crecer al equipo de ingenieros de datos, estableciendo estándares de calidad y buenas prácticas.\nImplementar CI/CD e infraestructura como código para pipelines y procesos de datos, y usar IA para acelerar el trabajo del área.\nTrabajar con equipos de desarrollo y líderes de IT y de negocio, y presentar propuestas ante la junta directiva.\n Tus superpoderes\nExperiencia sólida en arquitecturas de datos en AWS (Aurora, DMS, Glue, S3, Lambda, Iceberg u otros formatos de tabla).\nConocimiento profundo de PostgreSQL: réplicas, CDC y performance.\nExperiencia con bases de datos columnares (Redshift, ClickHouse, Snowflake, BigQuery, DuckDB, Apache Druid) y criterio para decidir cuándo usarlas.\nExperiencia diseñando pipelines ETL/ELT a escala y modelado analítico (esquemas estrella, vistas materializadas).\nFamiliaridad con gobernanza de datos: control de acceso, trazabilidad y prevención de fuga de datos.\nExperiencia con CI/CD para datos y con herramientas de IA aplicadas a ingeniería de datos.\nExperiencia gestionando equipos técnicos de ingenieros de datos o backend.\nEs un plus si tienes experiencia con herramientas de BI y multi-país o multi-tenant.\n Tus competencias clave\nPensamiento estratégico y visión de mediano/largo plazo\nLiderazgo y desarrollo de equipos\nComunicación efectiva con audiencias técnicas y no técnicas\nNegociación y priorización entre equipos\nOrientación al aprendizaje y a la mejora continua\n ¿Qué ofrecemos?\nSer parte de una startup de e-commerce en pleno crecimiento.\nUn entorno dinámico, retador y orientado a resultados.\nAprendizaje constante en tecnología, logística y comercio digital.\nLa oportunidad de generar impacto real dentro de Dropi.\nEn Dropi serás parte de una empresa que está redefiniendo el futuro del comercio digital en LATAM. -Requerimientos- Educación mínima: Universidad / Carrera Profesional\n años de experiencia\nPalabras clave: datos, data",
+      "apply_options": [
+        {
+          "title": "Computrabajo",
+          "link": "https://co.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-head-of-data-en-cali-715BFBF1CFC4E70A61373E686DCF3405?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJIZWFkIG9mIERhdGEiLCJjb21wYW55X25hbWUiOiJEUk9QSSIsImh0aWRvY2lkIjoiQWhGdFYwb2pWNDFSSzdZbEFBQUFBQT09IiwidXVsZSI6IncrQ0FJUUlDSUlRMjlzYjIxaWFXRSIsImdsIjoiY28iLCJobCI6ImVzIiwiZmMiOiJFc3dCQ293QlFVcHBWRFIwUzJWdVEyaFBXa1l3VldoMVZVVlRTSE5IVms4MWNEZE1ZVEpHY0ZCbFozWk1NMEYwY0ZGZmRuSldjek5YZUVKM1dUWndTME50T1hGS2ExUmZiMkpqTUZCWlpHMDJNalo1UmxSUVVUbEVWR1ppUlhoeVlsaFpNbUZDZUZOU1IxWm5hVEpwVmxGMFFXcGxNekZRUkMxNlNISm5PRVZoYlhkdk1teFBOV3huYlVoeU5VeElPREFTRnpSMUxUZGhjMjFTU2xCTGVqVk9iMUJ4WmtSdU9FRmpHaUpCUkhOeU9XWlNVRk5xZW1aRmJrMU1iV1ZtTTBwS2JrNUZWbkptVDFvNWVFSkIiLCJmY3YiOiIzIiwiZmNfaWQiOiJBaEZ0VjBvalY0MVJLN1lsQUFBQUFBPT0ifQ=="
+    },
+    {
+      "title": "Remote Tech Lead, Data Engineering — Scalable Pipelines",
+      "company_name": "Lumenalta",
+      "location": "Colombia",
+      "via": "BeBee",
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Data+Analyst&htidocid=6BTqOVTnvaxWBYGuAAAAAA%3D%3D&hl=es-CO&shem=epsd1,esd2e,rimspwouoe&shndl=37&shmd=H4sIAAAAAAAA_xWOsQ4BQRRFo9VrVK8W2RWJhhLRbCEodPJm92Z25M28YUai9BG-wwdo_YkvsZrTnOTk9F-9_nEHrxl0QN1SBW7GtOLMtA7WBeDqgqXv40n7moWNgLYuQjqV5mQ-73S5oWFqQPBRoIRAG1UrGC7anGOal2VKUtiUObu6qNWXGmD0Xp7VpD9OqeUronDGaTqb3IsY7GhQ3TwCS3fSFZcq6o3jH4TqrgqxAAAA&shmds=v1_ARwrE2150sa1ZJpc3fcUIUMg50g8-9_PzfCS5I-NwBfHbqRlIQ&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Data+Analyst&htidocid=6BTqOVTnvaxWBYGuAAAAAA%3D%3D",
+      "extensions": [
+        "hace 17 horas",
+        "Tiempo completo"
+      ],
+      "source_link": "https://bebee.com/co/jobs/remote-tech-lead-data-engineering-scalable-pipelines-lumenalta--jobted-3f2de1eb87452ee954c0af393a0d63b1",
+      "job_title": "Remote Tech Lead, Data Engineering — Scalable Pipelines",
+      "description": "Lumenalta is seeking a Tech Lead, Data Engineering to own the technical direction of data initiatives while remaining hands-on. You will bridge architecture, execution, and people leadership across data teams. The role emphasizes mentorship, design of scalable pipelines with Databricks, PySpark, AWS, and SQL, and collaboration with product and engineering stakeholders to deliver high-impact business outcomes.",
+      "apply_options": [
+        {
+          "title": "BeBee",
+          "link": "https://bebee.com/co/jobs/remote-tech-lead-data-engineering-scalable-pipelines-lumenalta--jobted-3f2de1eb87452ee954c0af393a0d63b1?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "JobLeads",
+          "link": "https://www.jobleads.com/co/job/remote-tech-lead-data-engineering-scalable-pipelines--colombia--e36bff6e7bdf11bea05b416b1de258300?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJSZW1vdGUgVGVjaCBMZWFkLCBEYXRhIEVuZ2luZWVyaW5nIOKAlCBTY2FsYWJsZSBQaXBlbGluZXMiLCJjb21wYW55X25hbWUiOiJMdW1lbmFsdGEiLCJodGlkb2NpZCI6IjZCVHFPVlRudmF4V0JZR3VBQUFBQUE9PSIsInV1bGUiOiJ3K0NBSVFJQ0lJUTI5c2IyMWlhV0UiLCJnbCI6ImNvIiwiaGwiOiJlcyIsImZjIjoiRXN3QkNvd0JRVXBwVkRSMFNVTnJhWGR3V2psdFMwcFFjbDl5TXpCYVVUaGFZamhQWTB4MFZVdFNPR2hMTTJWM2NHeGhhM1UzYkY4M2FHRTBiV1YxVGtNM04wbEZiVjkwZVZaM01HdFBZVXRFT1hWUVVHMTViWGcyVFVGbVNHeG1jRXBuTTBnNVZGaFJSbkZVV0hsRVVYa3RjVTkzWTBSaWRWTlpUVEV6TlhsZmRWZENRMHd0YjNsQ05HOVdZbVpEWkhvU0Z6UjFMVGRoYzIxU1NsQkxlalZPYjFCeFprUnVPRUZqR2lKQlJITnlPV1pVWlU4NU1WY3pRMVZ0ZVd0SFdFVkVVWEpyYlU1VVVYVldVazEzIiwiZmN2IjoiMyIsImZjX2lkIjoiNkJUcU9WVG52YXhXQllHdUFBQUFBQT09In0="
+    },
+    {
+      "title": "Lead Data Analyst, Growth & Experimentation",
+      "company_name": "LawnStarter",
+      "location": "Bogotá",
+      "via": "Indeed",
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Data+Analyst&htidocid=BiTACXEss8kHYiotAAAAAA%3D%3D&hl=es-CO&shem=epsd1,esd2e,rimspwouoe&shndl=37&shmd=H4sIAAAAAAAA_xXMMQ6CQBBA0dhyAAurqSyMYY2JDVYaDYmh8wBkgMmCWXbWnTHgcbiGLRczNL97P5lWyaMgbOCGinDx6L6ie8gjD9rCFu5joNj15BW1Y59BNf_k_aEGoSGgPjhiIA85s3W0ObeqQTJjRFxqZUF1WnNv2FPFo3lxJUtKaTFScKhUHk-HMQ3e7tYFDv6pGJXi8ryyZZ2nP1O6d4qkAAAA&shmds=v1_ARwrE21OQkRSv2O9Im-oJ80G6rjJfeJl8bEJvjBLpQ1n8tOxEg&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Data+Analyst&htidocid=BiTACXEss8kHYiotAAAAAA%3D%3D",
+      "thumbnail": "https://serpapi.com/searches/6abbefde703f175a62fbcb7f/images/iTFE1ZV3823yqtKMkgroWZUgjfsU0N9yWXaht57Eaos.jpeg",
+      "extensions": [
+        "hace 5 horas",
+        "Tiempo completo"
+      ],
+      "source_link": "https://co.indeed.com/viewjob?jk=d0e48d1d0c92b760",
+      "job_title": "Lead Data Analyst, Growth & Experimentation",
+      "description": "About LawnStarter\n\n\n LawnStarter is the nation's leading on-demand marketplace for lawn care and outdoor services, with over $150M in annual bookings. We're expanding beyond lawn care into the one-stop shop for all home services. Getting there depends on how fast we can test, learn, and scale what works.\n\n\n  About the Data Team\n\n\n We're a high-leverage team of Product Data Analysts embedded across the business, owning the semantic layer and the metrics everyone trusts. The experimentation program runs on real rigor, not vibes: pre-registered analysis plans gate every test launch, anytime-valid statistics keep mid-run dashboards honest under continuous viewing, automated daily SRM and attribution health sweeps catch broken tests early, and seasonal power forecasting accounts for a business that swings hard by time of year. The test lifecycle, design through readout, is already AI-driven. Our analysts are stretched across product, so Growth support has stayed part-time and reactive, until now.\n\n\n \n\n\n  The Role\n\n\n You're the first data analyst dedicated entirely to Growth and Experimentation. Your primary charter is the experimentation program: test design, statistical rigor, and readouts across web funnels, SMS/drip, sales-driven tests, and SEO tests built on our own page-clustering tooling. It's a wider surface than most companies run. You also own the acquisition-to-conversion funnel those tests move, across paid, organic, and partner channels. What to test and which direction to bet on is the CRO's and Growth PMs' call; you shape it, they decide it.\n\n\n You're not starting from scratch. Dashboards, tooling, and rigor scaffolding are already shipped and running. Expect the early months to be hands-on and manual: scoping tests, crunching readouts, while you build toward a self-serve layer. If a test readout and a funnel refresh ever compete for your week, the test wins.\n\n\n  What makes this role different:\n\n\n \n  The CEO personally engages with test design here: real organizational weight, no fight for buy-in.\n  You partner directly with the Director of CRO, performance marketing, and Growth PMs, who come to you when a test needs a call.\n \n \n Requirements\n \n\n    What You'll Own\n\n\n \n   Experimentation rigor: test design, power and sample-size calls, significance and readout standards. Core of the role: you catch underpowered tests and false positives before they become bad decisions, and you get Growth's tests onto the anytime-valid monitoring the program already runs, so early calls come from a crossed boundary instead of a hopeful trend read.\n   The self-serve experimentation layer: automated Growth metrics in Lightdash, Python-backed stat-sig tooling, and the AI skills (Claude routines) already handling pre-test power calcs and live-test health checks. You extend these and keep the layer correct as product and tracking evolve.\n   The Growth funnel model: a trusted, instrumented view of visitor lead customer across every brand and channel, with the CAC, LTV, and conversion-rate cuts Growth needs to prioritize investment.\n   The Growth analytics function model: by end of Year 1, the standards and playbook that scale this function beyond one person, plus a buy-vs-build recommendation for the experimentation stack (an off-the-shelf stats engine, or extending our own skills and Python). You bring the recommendation; the final call isn't yours alone.\n \n \n\n\n  Problems to Solve\n\n\n  Tests that can't answer the question they were run for Growth wants more experiments, but volume without rigor produces confident, wrong conclusions. Raising the bar without becoming the bottleneck is the job.\n\n\n  Getting off the manual treadmill Real tooling already exists: test-design helpers, dashboards, AI skills. Most tests are still hands-on and bespoke. How do you extend that automation so routine cases genuinely self-serve?\n\n\n  Making the funnel decision-grade The semantic layer defines the funnel, but instrumentation is uneven across brands and channels, and no one owns the single trusted view. You build it, and you keep it trusted.\n\n\n  Turning analysis into decisions The hard part isn't the SQL. It's getting a PM or marketer to change course. Can you deliver insight sharp enough that the room acts, and push back when the data favors the popular but wrong idea?\n\n\n \n\n\n  What Success Looks Like (Year 1)\n\n\n \n   Rigor is the default. Power calculations are standard practice, early stops on Growth tests come from the anytime-valid boundary rather than a trend read, and the re-run rate (redone for tracking or attribution problems) is down.\n   Routine tests self-serve. Metrics and stat-sig are automated in Lightdash, so the team reads standard results without filing a ticket, and your time goes to the tests that need an analyst.\n   A funnel Growth trusts. The acquisitionconversion funnel is instrumented across every brand and channel; Growth prioritizes off your model, not side spreadsheets.\n   Measurable conversion wins. Your analysis directly drove specific, quantified lifts in the funnel, and you can name them.\n \n \n\n\n  Who You Are\n\n\n  AI-native. You use AI daily for SQL, dbt, and pressure-testing your analysis, extending the skills already running our experimentation process rather than merely using them. This is unlikely to be a good fit if you're skeptical of AI or treat your workflow as fixed.\n\n\n  A partner, not a report-writer. You don't wait for a ticket. You sit close to Growth and bring the question before anyone asks it. Skip this one if you want a clear queue with no expectation to push back.\n\n\n  Statistically sharp. Wrong fit if \"we hit significance\" ends your analysis instead of starting it. Right fit if you have a point of view on test design (power, significance, novelty and interaction effects, when not to test) and can explain a broken experiment in plain terms.\n\n\n  Fluent in experiment instrumentation. You know how Segment events and Flagsmith randomization interact, and catch a tracking problem before a test ships, keeping our re-run rate down. This isn't for you if instrumentation is someone else's job.\n\n\n  Fluent in the funnel. You think in CAC, LTV, and channel economics, and know acquisition data's quirks: attribution messiness, seasonality, channel mix. Skip this one if your background is pure product-feature analytics.\n\n\n  Technically self-sufficient. Wrong fit if you need clean data handed to you. Expert SQL, enough Python to automate the stat-sig math, and comfort in dbt and Lightdash, building your own models without waiting on data engineering.\n\n\n  Influences without authority. PMs and marketers act on what you find because your insight is clear and honest about uncertainty. This isn't for you if you consider the job done once the analysis ships, regardless of outcome.\n\n\n \n\n\n  This Role Is NOT\n\n\n \n   A ticket queue. Not the role if you want well-defined asks: no one hands you a backlog of number-pulls, you decide what's worth measuring.\n   The person who decides what to test. You shape that call and own its rigor, but the roadmap and final direction belong to the CRO and Growth PMs.\n   A product-feature analyst seat. Existing analysts already own product, pricing, and service delivery; this one lives in Growth: acquisition, conversion, experimentation.\n   A pure platform or dashboard-builder. You'll automate metrics, stat-sig, and AI skills into a self-serve layer, but that's the means. The job is designing experiments and keeping that automation correct as product and tracking evolve.\n   A people-management role. This is an individual-contributor seat.\n \n \n Benefits\n \n\n\n \n  \n\n     Base salary: $75,000–$100,000 USD annually.\n   The scope is the draw: First analyst dedicated entirely to Growth and Experimentation, with your fingerprints on how this company decides what works.\n   AI tooling provided: The Claude routines already running pieces of our experimentation process are yours to extend, not a side project you have to justify.\n   Fully remote: This is deep-focus analytical work with US-facing partners. We hire the best analyst regardless of city and trust you to manage your environment and overlap hours.\n   Flexible PTO: Measured on outcomes, not hours logged.",
+      "apply_options": [
+        {
+          "title": "Indeed",
+          "link": "https://co.indeed.com/viewjob?jk=d0e48d1d0c92b760&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJMZWFkIERhdGEgQW5hbHlzdCwgR3Jvd3RoIFx1MDAyNiBFeHBlcmltZW50YXRpb24iLCJjb21wYW55X25hbWUiOiJMYXduU3RhcnRlciIsImh0aWRvY2lkIjoiQmlUQUNYRXNzOGtIWWlvdEFBQUFBQT09IiwidXVsZSI6IncrQ0FJUUlDSUlRMjlzYjIxaWFXRSIsImdsIjoiY28iLCJobCI6ImVzIiwiZmMiOiJFc3dCQ293QlFVcHBWRFIwU2xsc1RYQXplWHBhZVdoNFVtTkJSRmxWT1dwNlVFZHpOVkJRYzE5dWVtMXdNRkJhVlhkVlpGVmlMWEV0UzBwRmJrcExWbWd5VjB3MFUwczRjME5mVFdvd2FtdGlWbXc0WnpOSFkybDFPV05mV0MxTVJHeDNaRUZPWTE5R1NrNVJVV2M1ZG5wUE4wcGhRVE10TVVWcFpGWXplamhpVTBNMFkzcFhTR2RSUjBGcGVsOTFVVE1TRnpSMUxUZGhjMjFTU2xCTGVqVk9iMUJ4WmtSdU9FRmpHaUpCUkhOeU9XWlRTV2xCTVVKd2RXNWZOMHhPUkVab1VrZDJVbFl4ZFdwelpGQm4iLCJmY3YiOiIzIiwiZmNfaWQiOiJCaVRBQ1hFc3M4a0hZaW90QUFBQUFBPT0ifQ=="
+    },
+    {
+      "title": "Ingeniero/a de Datos Open Source",
+      "company_name": "NTT DATA Europe & Latam",
+      "location": "Medellín, Antioquia",
+      "via": "BeBee",
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Data+Analyst&htidocid=2k88XozCbpRMRL-3AAAAAA%3D%3D&hl=es-CO&shem=epsd1,esd2e,rimspwouoe&shndl=37&shmd=H4sIAAAAAAAA_x3MuwrCMBSAYVz7CE5nchBpRHCpgxQqIngZ7F7S9pBG0pw0OYG-lLi79sW8LP_ywZ-8Zsn-ZBVajZ6EhBahkEwBbg4t3Cn6BjOop3cYIrZ_x94ZJPjykUgZnO86ZhcyIUIwqQosWTdpQ70gizWN4kF1-KUKnfTojGSsNtv1mDqrluJallDkZQ6H6MkhLOAsWfa__wVbNGZ62hXkljUNUcsPUBHNULIAAAA&shmds=v1_ARwrE22tbeh-gduP3MAkEZWEENyT2Ph4CkB-ouAtonzw63GHqQ&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Data+Analyst&htidocid=2k88XozCbpRMRL-3AAAAAA%3D%3D",
+      "thumbnail": "https://serpapi.com/images/i/_9j_4AAQSkZJRgABAQAAAQABAAD_2wCEAAkGBwgHBgkIBwgKCgkLDRYPDQwMDRsUFRAWIB0iIiAdHx8kKDQsJCYxJx8fLT0tMTU3Ojo6Iys_RD84QzQ5OjcBCgoKDQwNGg8PGjclHyU3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3N__AABEIADgAOAMBIgACEQEDEQH_xAAYAAEBAQEBAAAAAAAAAAAAAAAABgUHBP_EACcQAAEDAgYCAQUAAAAAAAAAAAABAgMEEQUSExQhMSIyBkFCYYHR_8QAFwEBAQEBAAAAAAAAAAAAAAAAAAEDAv_EABsRAQEBAQADAQAAAAAAAAAAAAABEQISMWET_9oADAMBAAIRAxEAPwDuIAAAAAAAAAAAzPkTZpMLdHTuma98sTVdCqo5GrI1HKip1xcwJ48TqKfFNxvm1FLTsbE6J72pJI3P5NRvd0yqqfw0548puub1iyBP1uEo2sw6OKXENF73tmVKuVfFGOVLrm45tz-jw4hr76vyLie73Me109XSy2Zfrwt7XuJxL6qXrFcCLpm1dRisDHtroWSzSNnjR1SiNbZ33KuXu3rb8B0FTBh1Or24g58s8ySSOlqXKxGucjPFi35S3PX1L-X1PP4tAZXxlahcHi3SyrIj5EvKjkdlzrl9uerd8gzsy47l2a1QARQAAAAAAAAAAAAAAAAAAf_Z.jpeg",
+      "extensions": [
+        "hace 17 horas",
+        "Tiempo completo"
+      ],
+      "source_link": "https://bebee.com/co/jobs/ingeniero-de-datos-open-source-ntt-data-europe-latam-medellin-antioquia--t7xk-857625020",
+      "job_title": "Ingeniero/a de Datos Open Source",
+      "description": "“🏳️ 🌈 Ntt Data mantiene un política de contratación inclusiva, por lo que invita a cualquier persona a participar en el proceso de selección en referencia ”\n\n\n🌟 Oportunidad laboral |\nIngeniero/a de Datos Open Source En NTT DATA seguimos fortaleciendo nuestro equipo de tecnología para acompañar proyectos de transformación digital y soluciones de alto impacto.\n\n\nEsta oportunidad está orientada a profesionales con experiencia en ingeniería de datos y plataformas open-source, con enfoque en la implementación, operación y validación de procesos de integración, procesamiento y migración de datos entre ambientes.\n\n\nRequisitos\nExperiencia de 3 años o más implementando y operando Apache Airflow en ambientes on-premise o self-managed.Conocimiento en diseño y operación de DAGs, operators y sensors en Apache Airflow.Experiencia en arquitecturas de streaming con Apache Kafka o tecnologías similares.Experiencia realizando pruebas de validación de datos y reconciliación entre ambientes de origen AWS y destinos open-source.Conocimiento en motores de consulta distribuida como Trino o Hive.Experiencia con almacenamiento de objetos y datos distribuidos, incluyendo CEPH o HDFS.Conocimiento en catálogos de metadatos open-source, especialmente Hive Metastore.Deseable: experiencia en migraciones desde Glue Data Catalog.\n¿Por qué nosotros?\n🎓 Cursos y certificaciones\n\n\n📈 Plan carrera y crecimiento profesional\n\n\n🔐 Seguro de vida\n\n\n✨ Medicina prepagada\n\n\n💻 Auxilio de conectividad\n\n\n🤝 Convenios corporativos\n\n\n🗽 Programa de inglés\n\n\n⏰ Flex time\n\n\n🌈 Somos una compañía diversa e inclusiva\n\n\n¡Ven y únete a NTT DATA, el mejor lugar para los mejores!\n\n\n\n• Visita nuestra página web: www.nttdata.com",
+      "apply_options": [
+        {
+          "title": "BeBee",
+          "link": "https://bebee.com/co/jobs/ingeniero-de-datos-open-source-ntt-data-europe-latam-medellin-antioquia--t7xk-857625020?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "LinkedIn",
+          "link": "https://co.linkedin.com/jobs/view/ingeniero-a-de-datos-open-source-at-ntt-data-europe-latam-4471568695?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJJbmdlbmllcm8vYSBkZSBEYXRvcyBPcGVuIFNvdXJjZSIsImNvbXBhbnlfbmFtZSI6Ik5UVCBEQVRBIEV1cm9wZSBcdTAwMjYgTGF0YW0iLCJodGlkb2NpZCI6IjJrODhYb3pDYnBSTVJMLTNBQUFBQUE9PSIsInV1bGUiOiJ3K0NBSVFJQ0lJUTI5c2IyMWlhV0UiLCJnbCI6ImNvIiwiaGwiOiJlcyIsImZjIjoiRXN3QkNvd0JRVXBwVkRSMFRFeGxTbk5pWlRZemMyY3lkSFJhV2tKWGJtRkRNVXBwUzE5S2NUZExZVGQ2YlV0a1NUWkxaMDlOVEhOamJWRjFMVEJrUW1OU1VXdDNORGd5YVhoWGJFRTNXWFJ4TjJGblQzQlBNVzFqUlhoMGFHOWZaME50ZUUxVlUwMXlWbUZzUzJsWkxUVlJVV1pKTWtkWFN6aHhOVGc0Y1RsalNFVnFSbEE0V1Y5a01XNVNPV1JZTUdvU0Z6UjFMVGRoYzIxU1NsQkxlalZPYjFCeFprUnVPRUZqR2lKQlJITnlPV1pTY1hoUmJsWmtjVEE1WjJobE5XaGxUVzUzTTFSNE1EUkVkWEJuIiwiZmN2IjoiMyIsImZjX2lkIjoiMms4OFhvekNicFJNUkwtM0FBQUFBQT09In0="
+    },
+    {
+      "title": "Data Integration Solution Architect (6-month Contract)",
+      "company_name": "Applaudo",
+      "location": "Bogotá",
+      "via": "BeBee",
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Data+Analyst&htidocid=06rqP1d9pzaLySHyAAAAAA%3D%3D&hl=es-CO&shem=epsd1,esd2e,rimspwouoe&shndl=37&shmd=H4sIAAAAAAAA_x2MsQrCMBQAce3q5vRGFWxE0KFOVUGcxbmk6SOpJHkxeYX-jqO_4Nofs3Y5jhsu-8yyx0WyhJtn1FFySx7uZLtJyqhMy6gYloeNI88GziOjVLwqoB6-6dVhI6FBQBcsEqCHK5G2uDga5pAKIVKyuU48rlWuyAnyWFMvnlSnP6pkZMRgJWO122_7PHi9npdhLF0zDU-kiYf3D5nQCdKsAAAA&shmds=v1_ARwrE23Zyel-p3I0PvRDl4dN07VVv10RaGlJH49WsTXCU_nJfw&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Data+Analyst&htidocid=06rqP1d9pzaLySHyAAAAAA%3D%3D",
+      "extensions": [
+        "hace 17 horas",
+        "Contratista"
+      ],
+      "source_link": "https://bebee.com/co/jobs/data-integration-solution-architect-6-month-contract-applaudo-bogota--jobted-b92032e7e7b6c6ecb65b7fb48773aad7",
+      "job_title": "Data Integration Solution Architect (6-month Contract)",
+      "description": "Applaudo is seeking a Solution Architect to bridge finance and engineering, translating a complex subscription billing model into data requirements for the integration team. You will guide stakeholders through the transformation from a legacy accounting system to Zuora, interpreting Zuora's data model and billing logic to unblock the technical team. This 6-month contractor role emphasizes stakeholder communication and continuity during a handover, with no platform administration authority.",
+      "apply_options": [
+        {
+          "title": "BeBee",
+          "link": "https://bebee.com/co/jobs/data-integration-solution-architect-6-month-contract-applaudo-bogota--jobted-b92032e7e7b6c6ecb65b7fb48773aad7?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "JobLeads",
+          "link": "https://www.jobleads.com/co/job/data-integration-solution-architect-6-month-contract--bogota--e063a6e4a34e0d30941e84402f16d9aec?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJEYXRhIEludGVncmF0aW9uIFNvbHV0aW9uIEFyY2hpdGVjdCAoNi1tb250aCBDb250cmFjdCkiLCJjb21wYW55X25hbWUiOiJBcHBsYXVkbyIsImh0aWRvY2lkIjoiMDZycVAxZDlwemFMeVNIeUFBQUFBQT09IiwidXVsZSI6IncrQ0FJUUlDSUlRMjlzYjIxaWFXRSIsImdsIjoiY28iLCJobCI6ImVzIiwiZmMiOiJFc3dCQ293QlFVcHBWRFIwU3pFdFlrTjBXV3BpUmxaVVJHMUtNa295VVZsUFltMUlXVUpaVVdGbFFVZ3phRlF3ZUVwSlJtOWlTV0Z3WHpOdmNtOW9jMFY0UkhWNVNVUjZZVTVGV0RrNWVVUnFibkZMVEhVMmQzaHdiR2d6ZEVaR00yZEVhVlV4VDBveVlXZEtPVGRhVkhoUGNrdEdSM0UyUW5Wbk5VOW9XRWM1UkU1bFluVkNkbWR4WjI5RFJIRkVjME1TRnpSMUxUZGhjMjFTU2xCTGVqVk9iMUJ4WmtSdU9FRmpHaUpCUkhOeU9XWlNNbmRRWlU0NVptUm1kbVZzYTFsd1ZFZHJjSEowWlc0emFEaG4iLCJmY3YiOiIzIiwiZmNfaWQiOiIwNnJxUDFkOXB6YUx5U0h5QUFBQUFBPT0ifQ=="
+    },
+    {
+      "title": "Data Management",
+      "company_name": "WPP Media",
+      "location": "Medellín, Antioquia",
+      "via": "Trabajo.org",
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Data+Analyst&htidocid=7VmMxKDzDKMfs8gHAAAAAA%3D%3D&hl=es-CO&shem=epsd1,esd2e,rimspwouoe&shndl=37&shmd=H4sIAAAAAAAA_xXMMQrCQBBAUWxzBKuxFdkVwSZWgmAVSGcZJsmwWdnd2TgTyDG8iBewzcU0zedVv3hvCnNDRagwoaNISUtol6-ME_UIPQHFHIiBEtyZXaDtZVDNUlorEowTRfWd6ThaTtTybJ_cyppGBnxRDqjUnM7H2eTk9rtHXUNFvcf1-AeFsHzSAa5JPY-Txx8hfjEmkwAAAA&shmds=v1_ARwrE20g-GABw3tuyxZ4ZHybWiXbXiEAuxIkIaCKDS0LEdnQGA&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Data+Analyst&htidocid=7VmMxKDzDKMfs8gHAAAAAA%3D%3D",
+      "extensions": [
+        "hace 19 horas",
+        "Tiempo completo"
+      ],
+      "source_link": "https://co.trabajo.org/oferta-2255-17accb7309ba3228ea7394f88f56e5b2",
+      "job_title": "Data Management",
+      "description": "WPP Media is seeking a Manager Data Engineer to drive architectural direction for large-scale data pipelines, leveraging Azure Data Factory and modern data technologies. You will mentor engineers, collaborate with US onshore leadership, and govern critical data platforms to deliver enterprise-grade solutions.\n\nThe role emphasizes automation, operational excellence, and adherence to governance standards while enabling analytics and media teams to extract maximum value from data assets.",
+      "apply_options": [
+        {
+          "title": "Trabajo.org",
+          "link": "https://co.trabajo.org/oferta-2255-17accb7309ba3228ea7394f88f56e5b2?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJEYXRhIE1hbmFnZW1lbnQiLCJjb21wYW55X25hbWUiOiJXUFAgTWVkaWEiLCJodGlkb2NpZCI6IjdWbU14S0R6REtNZnM4Z0hBQUFBQUE9PSIsInV1bGUiOiJ3K0NBSVFJQ0lJUTI5c2IyMWlhV0UiLCJnbCI6ImNvIiwiaGwiOiJlcyIsImZjIjoiRXN3QkNvd0JRVXBwVkRSMFNrcEdhek5wVTA1MlkxbFVla0paWlZjMk5qRTBRMFJGUzB4Q1JtOXhXa0l5VDBOSGFGUnpRMDlqZUhORlJURnJWMnN6VjNGMFJXWm5RV05yTWtwelgyRkVMWGRuTVc5U2J6SjNVVVp1VWxBd2MzWmlValZtU1RCQlVuTm1Va0Y2VVdsYVVGSlFVMlk1VEdKdlFtaE5kRUUxTW5Sbk1VWkZVbFprTmkwM1kyRk1TbmxRT0hvU0Z6UjFMVGRoYzIxU1NsQkxlalZPYjFCeFprUnVPRUZqR2lKQlJITnlPV1pUVDJndFdXbDNTM0JaUjAxMFUwcHZiMHhEZEcxak5XNHllV1ZCIiwiZmN2IjoiMyIsImZjX2lkIjoiN1ZtTXhLRHpES01mczhnSEFBQUFBQT09In0="
+    },
+    {
+      "title": "Senior Data, Platform & Solutions Engineer",
+      "company_name": "confidential",
+      "location": "Colombia, Huila",
+      "via": "Jooble",
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Data+Analyst&htidocid=0DWB3GhJnogcjtcNAAAAAA%3D%3D&hl=es-CO&shem=epsd1,esd2e,rimspwouoe&shndl=37&shmd=H4sIAAAAAAAA_xWOsQ3CMBAARZsRaPiKAqEYIdGEEhDQIWWAyE4ex8j-N35HykqsQMtiJM2Vd1d8FsW9RnKc4Kyz3sLD6_zkFGANNfshOyaBC1lHiKkC8_vKe8BOQ4eAIXpkQIIrs_W4PPY5R6mUEvGllayza8uWg2JCw6N6sZEZjfQ6YZxS2OwPu7GMZDerlunpOqTstJ-lJ_YcjJumboPz-g8dZJrnrAAAAA&shmds=v1_ARwrE21H5AMJXknZNS3YisZkDHbMGFPEgiN17yKD5vuOPKctDQ&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Data+Analyst&htidocid=0DWB3GhJnogcjtcNAAAAAA%3D%3D",
+      "extensions": [
+        "hace 23 horas",
+        "Tiempo completo"
+      ],
+      "source_link": "https://co.jooble.org/jdp/2416156848199415815",
+      "job_title": "Senior Data, Platform & Solutions Engineer",
+      "description": "We are looking for a highly experienced, hands-on Senior Data Engineer who can combine deep data engineering expertise with data architecture, cloud platform ownership, and direct client engagement.\nThis is not a traditional back-office data engineering role where you own one pipeline or a narrow piece of a larger platform. You will work directly with clients to understand their needs, recommend the right technical approach, design the architecture, build the solution, and communicate the results.\nYou will typically own multiple client projects and operate as both the technical expert and a trusted advisor. The right person is comfortable running a client meeting, discussing architectural trade-offs with technical and business stakeholders, turning those decisions into working solutions, and owning delivery from beginning to end.\nWe are especially interested in engineers who have worked in consulting, startups, or other environments where they have had broad ownership rather than operating within one narrow function of a large data organization. \n \n  Responsibilities   \n\n Own the technical delivery of data projects from initial client conversations through architecture, implementation, and ongoing delivery  Lead client discussions to understand business and technical requirements, ask the right questions, and translate ambiguous problems into clear technical solutions  Design modern data architectures spanning ingestion, transformation, compute, storage, analytics, and BI layers  Make informed architecture recommendations based on technical trade-offs, cost, scalability, maintainability, and the client's specific requirements  Build and maintain production data pipelines, transformations, models, and platform components  Work hands-on with modern data platforms such as Snowflake, Databricks, BigQuery, and/or Redshift  Build and maintain transformation workflows using SQL and modern data tooling such as dbt  Work directly within AWS, GCP, and/or Azure environments, including platform deployment, infrastructure configuration, access and permissioning, and related cloud resources  Take end-to-end ownership rather than relying on separate infrastructure, architecture, or project-management teams to drive delivery  Manage multiple client projects simultaneously while maintaining clear priorities, timelines, documentation, and follow-up  Produce polished client-facing documentation, presentations, meeting notes, and project updates  Collaborate with software and AI engineers on a proprietary platform deployed into customer cloud environments  Contribute code and improvements to platform capabilities when needed  Use AI tools extensively to accelerate engineering, research, analysis, and development while maintaining a strong understanding of the underlying technical decisions    Requirements  5+ years of professional, hands-on data engineering experience, ideally with significant senior-level ownership  Advanced SQL skills  Strong hands-on experience with at least one modern cloud data platform such as Snowflake, Databricks, BigQuery, or Redshift; experience across multiple platforms is highly valued  Strong understanding of data architecture and data modeling principles, including common design patterns, anti-patterns, and architectural trade-offs  Experience designing data environments across ingestion, compute, storage, transformation, and analytics/BI layers  Hands-on cloud experience with AWS, GCP, and/or Azure beyond simply consuming cloud-hosted services  Experience deploying or owning data platforms and working with infrastructure configuration, access controls, permissions, compute resources, and cloud architecture  Experience making technical architecture decisions and clearly explaining the reasoning and trade-offs behind those decisions  Excellent spoken and written English  Strong client-facing or stakeholder-facing communication skills, with the confidence to lead technical discussions with senior stakeholders and executives  Ability to communicate complex technical topics concisely and focus conversations on what matters  Curiosity about AI and a strong understanding of how AI is changing modern data infrastructure, analytics, and data consumption   Preferred    Significant hands-on experience with dbt  Experience working as a Data Engineering Consultant, Data Consultant, Data Architect, Solutions Architect, or similar client-facing technical role  Experience working in startups, consultancies, or other lean environments requiring broad technical ownership  Experience owning or managing a complete data or analytics platform  Experience across two or more of Snowflake, Databricks, BigQuery, and Redshift  Strong understanding of cloud infrastructure, platform deployment, access management, and infrastructure cost considerations  Previous software engineering experience before moving into data engineering  Familiarity with emerging AI/data infrastructure concepts, including MCP and AI-oriented data workflows    Benefits    Salary: $100K USD annually  PTO: 15 days  Holidays:  Local or US holidays",
+      "apply_options": [
+        {
+          "title": "Jooble",
+          "link": "https://co.jooble.org/jdp/2416156848199415815?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJTZW5pb3IgRGF0YSwgUGxhdGZvcm0gXHUwMDI2IFNvbHV0aW9ucyBFbmdpbmVlciIsImNvbXBhbnlfbmFtZSI6ImNvbmZpZGVudGlhbCIsImh0aWRvY2lkIjoiMERXQjNHaEpub2djanRjTkFBQUFBQT09IiwidXVsZSI6IncrQ0FJUUlDSUlRMjlzYjIxaWFXRSIsImdsIjoiY28iLCJobCI6ImVzIiwiZmMiOiJFc3dCQ293QlFVcHBWRFIwUzJkdWVIaG1SRmhEY1RRMU1FeFliRFoyWDJGMmMydGlXWHA0VW1Nd01qazFNR3gzTld4amR5MDFkMlJFWkZKbmNuWlRNamQzYjBreU9VdG9ka0ZRTmpKUlJuVnlUV05MVG05T09DMXVPV2hUWVZoclVubGFPRjgzWldSUFEwTnNXV3BWV2xwdUxYQlNVMjl4YmpGS1pFVm9helJ4VVV0aGNGUjFPRW8wV1daSlMyWXpSbGtTRnpSMUxUZGhjMjFTU2xCTGVqVk9iMUJ4WmtSdU9FRmpHaUpCUkhOeU9XWlJkVEpGY1cxckxVdDRhekk0WjFOTU1WTjZZV1J6WTFCeVNFRkIiLCJmY3YiOiIzIiwiZmNfaWQiOiIwRFdCM0doSm5vZ2NqdGNOQUFBQUFBPT0ifQ=="
+    },
+    {
+      "title": "Remote Senior Go/React Engineer – Build Data Platforms",
+      "company_name": "FXC Intelligence Ltd.",
+      "location": "Bogotá",
+      "via": "BeBee",
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Data+Analyst&htidocid=MzGY1rK9UIir7_OWAAAAAA%3D%3D&hl=es-CO&shem=epsd1,esd2e,rimspwouoe&shndl=37&shmd=H4sIAAAAAAAA_xXMPQ6CQBAG0Nh6BKupLVhjYoMd_sXEwmihnVngc12z7CA7JJTewRN4C2PLTTyJ0LzyDT-D4emAggV0hLdc0YbVAToTWnljPVDR7_mipLYup6UWTXun5cpVEWJK22941Mg15SAUpQMTfFewcRjNbyJliJUKwUUmiBabRRkXij1SbtSd09BzCTddoexaXKazSROV3oxpfV7Q1gucswY-A-0kj_o9YcPSvv-SF6G_uwAAAA&shmds=v1_ARwrE237doaJ0nXsFRnM6XBvOHDWytyJTbbFI1-8vYjv_siFpg&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Data+Analyst&htidocid=MzGY1rK9UIir7_OWAAAAAA%3D%3D",
+      "extensions": [
+        "hace 17 horas",
+        "Tiempo completo"
+      ],
+      "source_link": "https://bebee.com/co/jobs/remote-senior-go-react-engineer-build-data-platforms-fxc-intelligence-ltd-bogota--jobted-1fc630e1da9c4a97d78cbdcc6d90e0d9",
+      "job_title": "Remote Senior Go/React Engineer – Build Data Platforms",
+      "description": "FXC Intelligence Ltd. is seeking a Senior Software Engineer to join a remote team based in Bogotá. You will build Golang microservices and React/TypeScript frontends, deploying in Docker, with ownership from idea to production. You will contribute to performance, observability, and architectural decisions while collaborating with a ~30-person tech group handling cross-border data and analytics.",
+      "apply_options": [
+        {
+          "title": "BeBee",
+          "link": "https://bebee.com/co/jobs/remote-senior-go-react-engineer-build-data-platforms-fxc-intelligence-ltd-bogota--jobted-1fc630e1da9c4a97d78cbdcc6d90e0d9?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "JobLeads",
+          "link": "https://www.jobleads.com/co/job/remote-senior-go-react-engineer-build-data-platforms--bogota-ciudad--e6e571cdcebeb1cbdc643157465dfe60c?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Kit Empleo",
+          "link": "https://www.kitempleo.com.co/empleo/91035023/senior-data-engineer-ai-driven-data-platforms-bogota?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJSZW1vdGUgU2VuaW9yIEdvL1JlYWN0IEVuZ2luZWVyIOKAkyBCdWlsZCBEYXRhIFBsYXRmb3JtcyIsImNvbXBhbnlfbmFtZSI6IkZYQyBJbnRlbGxpZ2VuY2UgTHRkLiIsImh0aWRvY2lkIjoiTXpHWTFySzlVSWlyN19PV0FBQUFBQT09IiwidXVsZSI6IncrQ0FJUUlDSUlRMjlzYjIxaWFXRSIsImdsIjoiY28iLCJobCI6ImVzIiwiZmMiOiJFc3dCQ293QlFVcHBWRFIwVEhaeUxWVTFTVXRPVUUweWVHUlNNa2xEVUhNMGRXVkVSV1ZUTlRFeFRERlBhVzFZYzJGWWJEUnplRGRKZFY5Zk5YVnhjWE5YUkdOWWEwbFVUMDFUWDA0eGRtSndZV2RCWmpKc1ozWlZjWEpwUTBjemNHeGFkbVZXWTJoNFdtSmFaRU10UjB0ZlNEZFBkMHhTVEcxNU1tVkxNV2cyYmxkelVIRjRRMjV5VW5wU1JqbFRkMndTRnpSMUxUZGhjMjFTU2xCTGVqVk9iMUJ4WmtSdU9FRmpHaUpCUkhOeU9XWlJNSEpzZFhOV1RWa3hkbWczY2t0a1N6Rk5iWE5ITTFVMVJFRlIiLCJmY3YiOiIzIiwiZmNfaWQiOiJNekdZMXJLOVVJaXI3X09XQUFBQUFBPT0ifQ=="
+    },
+    {
+      "title": "Senior Databricks Engineer Id86295",
+      "company_name": "INGEPSY",
+      "location": "Cauca",
+      "via": "Trabajo.org",
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Data+Analyst&htidocid=PjVm114W48bwfuRDAAAAAA%3D%3D&hl=es-CO&shem=epsd1,esd2e,rimspwouoe&shndl=37&shmd=H4sIAAAAAAAA_xXMsQ6CMBAA0LgyOTvd7EANCUZxMkoIizFhciJXuJRqaWuvJHyHn-PqjxmWN77ks0rODVntAlwxogy6ezGUVmlLFKDuD_vsmBcgf19-T9Qj9AQ0ekMOyELlnDK0OQ0xei6EYDap4ohRd2nnRuEsSTeLp5O80PKAgbzBSG2W7-bUW7Vd17eqvDeP5bvg1OEfeRWi0JUAAAA&shmds=v1_ARwrE23qFqfDfpaujL3CkBmeWDeU7ogrXVytxXl_v-M6iim7pg&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Data+Analyst&htidocid=PjVm114W48bwfuRDAAAAAA%3D%3D",
+      "extensions": [
+        "hace 19 horas",
+        "Tiempo completo"
+      ],
+      "source_link": "https://co.trabajo.org/oferta-2255-5b7efaec5440393f4479f84f868b9d53",
+      "job_title": "Senior Databricks Engineer Id86295",
+      "description": "AgileEngine is an Inc. 5000 company that creates award-winning software for Fortune 500 brands and trailblazing startups across 17+ industries. We rank among the leaders in areas like application development and AI/ML, and our people-first culture has earned us multiple Best Place to Work awards.\n\nWHY JOIN US\n\nIf you're looking for a place to grow, make an impact, and work with people who care, we'd love to meet you\n\nABOUT THE ROLE\n\nWe are looking for a Senior Data Engineer to build batch and streaming pipelines on Databricks using PySpark and Delta Lake. This person migrates legacy data warehouse and ETL workloads onto a governed Lakehouse, modeling a medallion architecture that powers analytics and AI use cases. Strong SQL, Python, and experience with Unity Catalog governance round out the role.\n\nWHAT YOU WILL DO\n\nDesign, build, and operate batch and streaming data pipelines on Databricks using PySpark, Delta Lake, and Databricks Workflows.Model and maintain a medallion (bronze/silver/gold) architecture serving analytics, reporting, and machine learning consumers.Migrate legacy ETL and data warehouse workloads onto the Lakehouse with validated data parity and minimal business disruption.Use Claude or GitHub Copilot as a development accelerator, generating code scaffolding, writing and reviewing tests, creating documentation, and prototyping solutions.Write clean, well-tested Python and SQL; maintain high standards through code review and documentation.Optimize Spark jobs and Delta tables for performance and cost, including partitioning, clustering, caching, and cluster sizing.Implement data quality, lineage, and governance controls using Unity Catalog and automated validation checks.Debug, troubleshoot, and resolve pipeline failures, data defects, and production incidents.Collaborate with DevOps, platform, and analytics engineers on observability, security, and compliance best practices.MUST HAVES\n\n3+ years of professional experience in data engineering, featuring direct expertise with Apache Spark and cloud-based data architectures.Strong hands-on experience building data pipelines with Databricks, Apache Spark (PySpark), and Delta Lake.Advanced SQL and Python, with strong data modeling skills across dimensional and Lakehouse patterns.Experience with streaming ingestion using Structured Streaming, Auto Loader, Kafka, or Event Hubs.Experience with workflow orchestration (Databricks Workflows, Airflow, or Azure Data Factory).Experience with legacy platform migrations, ETL modernization, or managing data hygiene when porting old systems.Strong problem-solving, collaboration, and communication skills.Familiarity with Unity Catalog, data governance, access control, and PII handling.Experience with dbt or an equivalent transformation framework.Familiarity with secure coding standards and industry security best practices.NICE TO HAVES\n\nExperience with Infrastructure as Code (IaC) using Terraform and CI/CD using Azure DevOps.Experience working with relational databases (specifically PostgreSQL) and data persistence concepts.Familiarity with logging and monitoring tools (e.g., Dynatrace, CloudWatch, Databricks system tables).Experience working in Agile or team-based development environments preferred.PERKS AND BENEFITS\n\nProfessional growth: Accelerate your professional journey with mentorship, TechTalks, and personalized growth roadmaps.Competitive compensation: We match your ever-growing skills, talent, and contributions with competitive USD-based compensation and budgets for education, fitness, and team activities.A selection of exciting projects: Join projects with modern solutions development and top-tier clients that include Fortune 500 enterprises and leading product brands.Flextime: Tailor your schedule for an optimal work-life balance, by having the options of working from home and going to the office – whatever makes you the happiest and most productive.Requirements\n\n-+3 years of professional experience in data engineering, featuring direct expertise with Apache Spark and cloud-based data architectures.-Strong hands-on experience building data pipelines with Databricks, Apache Spark (PySpark), and Delta Lake.-Advanced SQL and Python, with strong data modeling skills across dimensional and Lakehouse patterns.-Experience with streaming ingestion using Structured Streaming, Auto Loader, Kafka, or Event Hubs.-Experience with workflow orchestration (Databricks Workflows, Airflow, or Az",
+      "apply_options": [
+        {
+          "title": "Trabajo.org",
+          "link": "https://co.trabajo.org/oferta-2255-5b7efaec5440393f4479f84f868b9d53?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJTZW5pb3IgRGF0YWJyaWNrcyBFbmdpbmVlciBJZDg2Mjk1IiwiY29tcGFueV9uYW1lIjoiSU5HRVBTWSIsImh0aWRvY2lkIjoiUGpWbTExNFc0OGJ3ZnVSREFBQUFBQT09IiwidXVsZSI6IncrQ0FJUUlDSUlRMjlzYjIxaWFXRSIsImdsIjoiY28iLCJobCI6ImVzIiwiZmMiOiJFc3dCQ293QlFVcHBWRFIwU1RZMGFsODRNRUZKY1RCVVYzWTJRMUpOTlV0NGNFdHJPRGRXYTB0WVkwVkJPVE5LVVRrMVMzVnNlbmwwZG5GaFZXdzRhV2RxYm1aclNGOW1ha0pLTldWc2FuZDZlRFZNU21SbE4xbzVVSHBtZFdSdlkzbGhRM2MzT0VsSGIwNU1SRVJHWjBGVlNWaGFlbTV1YVVwdFVXUmtNM0ZFTUdkNlpEaG5RV05UTFc5RVpXdHJSbGdTRnpSMUxUZGhjMjFTU2xCTGVqVk9iMUJ4WmtSdU9FRmpHaUpCUkhOeU9XWlJjMWw1VGtOc01UWTBja2h6VTFBd2REazVaVE5ZV0RReGJUVlIiLCJmY3YiOiIzIiwiZmNfaWQiOiJQalZtMTE0VzQ4YndmdVJEQUFBQUFBPT0ifQ=="
+    }
+  ],
+  "serpapi_pagination": {
+    "next_page_token": "eyJmYyI6IkVvd0VDc3dEUVVwcFZEUjBTVU5mUlVOQ2FUaFViR3BhU0dneWJuYzNTaTFXUXpoNFRuaDNTMEY1YURSbFJ6ZElkVFE1YTJJMFZXdGpiWFV3UVVOTE9EVnBOVWRIVlZobWFrMVRWakZYV0VWeFFsbFlXVmRXZEd4M1dFOUZTWGxwU21kMVgzUTJSbUZ1WVhkV2JrWlNXVXRxUWtORFZEaFJiMEpZYTJJM1NXWkhNbmc0TldSWVdGVkRRVTQ1ZG5oWFVIUmhYMjAxVlZNM1pWZFBjbGRVTFc1Q1JsRTNTREJzY21kTlgwRjBZV1Z5ZVhGME5rOVdNRWRDTW1KWVNrTlZZVTF5UjFoVFdqSlZiekpZTVVWbGJ6UnNTbWRVY1RSMFYwa3RNelZNUVhNME4wcFdTbTlZY1Y4NVJXUlNXV0ZJYzJ0UFVFSjZSbXhYUlUwdFlVWkZjV0k1T0VKTldrUnhRM0J3WVUxMVJETmFXazFSYkRVeVNqWktNREoxYVVkUFRFZEVhSEpXTTJGRVVreHdaM2hMWDBVMk1VMW9PV3BSYjFGM01XeFdWbEpHY0VKRFMwSXdaVzlNTkZCYU5rOVpka3N5Vm04emMwSm9OMFo1UXpScGJVNHRZbmcxUTNWMFUxcDZNRTVWTld3MVZsVXdkMk53T1RSVWFrczJkMFY2UlZGeVRWbE1jalpmVjBGTFFtWkRNVEJvYUdjemVXNUZTWEIzWDIwdFRtSmhkRFprUXpsRU0wTTJkVEZFTm10MllYRnRZbWxFYlRoWU1ISm9jMEpSUkVwSWNuazNXSE53TkVzMmNGaE5NMWgwTUJJWE5IVXROMkZ6YlZKS1VFdDZOVTV2VUhGbVJHNDRRV01hSWtGRWMzSTVabFJ2WmpFeU1rbEdTR0ZEU0RCUWRVUmhkaTFYTkd4bGJXczFjbmMiLCJmY3YiOiIzIn0=",
+    "next": "https://serpapi.com/search.json?chips=date_posted%3Atoday&engine=google_jobs&gl=co&google_domain=google.com&hl=es&location=Colombia&next_page_token=eyJmYyI6IkVvd0VDc3dEUVVwcFZEUjBTVU5mUlVOQ2FUaFViR3BhU0dneWJuYzNTaTFXUXpoNFRuaDNTMEY1YURSbFJ6ZElkVFE1YTJJMFZXdGpiWFV3UVVOTE9EVnBOVWRIVlZobWFrMVRWakZYV0VWeFFsbFlXVmRXZEd4M1dFOUZTWGxwU21kMVgzUTJSbUZ1WVhkV2JrWlNXVXRxUWtORFZEaFJiMEpZYTJJM1NXWkhNbmc0TldSWVdGVkRRVTQ1ZG5oWFVIUmhYMjAxVlZNM1pWZFBjbGRVTFc1Q1JsRTNTREJzY21kTlgwRjBZV1Z5ZVhGME5rOVdNRWRDTW1KWVNrTlZZVTF5UjFoVFdqSlZiekpZTVVWbGJ6UnNTbWRVY1RSMFYwa3RNelZNUVhNME4wcFdTbTlZY1Y4NVJXUlNXV0ZJYzJ0UFVFSjZSbXhYUlUwdFlVWkZjV0k1T0VKTldrUnhRM0J3WVUxMVJETmFXazFSYkRVeVNqWktNREoxYVVkUFRFZEVhSEpXTTJGRVVreHdaM2hMWDBVMk1VMW9PV3BSYjFGM01XeFdWbEpHY0VKRFMwSXdaVzlNTkZCYU5rOVpka3N5Vm04emMwSm9OMFo1UXpScGJVNHRZbmcxUTNWMFUxcDZNRTVWTld3MVZsVXdkMk53T1RSVWFrczJkMFY2UlZGeVRWbE1jalpmVjBGTFFtWkRNVEJvYUdjemVXNUZTWEIzWDIwdFRtSmhkRFprUXpsRU0wTTJkVEZFTm10MllYRnRZbWxFYlRoWU1ISm9jMEpSUkVwSWNuazNXSE53TkVzMmNGaE5NMWgwTUJJWE5IVXROMkZ6YlZKS1VFdDZOVTV2VUhGbVJHNDRRV01hSWtGRWMzSTVabFJ2WmpFeU1rbEdTR0ZEU0RCUWRVUmhkaTFYTkd4bGJXczFjbmMiLCJmY3YiOiIzIn0%3D&q=Data+Analyst"
+  },
+  "_pipeline_metadata": {
+    "ingestion_timestamp_utc": "2026-09-29T17:05:39.492552+00:00",
+    "search_group": "bi_analytics",
+    "target_market": "Colombia",
+    "target_location": "Colombia",
+    "date_filter_applied": "today",
+    "new_records_count": 10,
+    "provider": "serpapi"
+  }
+}

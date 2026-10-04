@@ -1,0 +1,636 @@
+{
+  "search_metadata": {
+    "id": "6ab9e8460e4be0cb2584d064",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/AsjD2Q87NZqqM0mn2vvUKGKsVnKKoYxyU0Ivv4uOIAk/6ab9e8460e4be0cb2584d064.json",
+    "markdown_endpoint": "https://serpapi.com/searches/AsjD2Q87NZqqM0mn2vvUKGKsVnKKoYxyU0Ivv4uOIAk/6ab9e8460e4be0cb2584d064.md",
+    "created_at": "2026-09-28 04:08:38 UTC",
+    "processed_at": "2026-09-28 04:08:38 UTC",
+    "google_jobs_url": "https://www.google.com/search?q=Data+Analyst&uule=w+CAIQICIEUGVydQ&hl=es&gl=pe&udm=8",
+    "raw_html_file": "https://serpapi.com/searches/AsjD2Q87NZqqM0mn2vvUKGKsVnKKoYxyU0Ivv4uOIAk/6ab9e8460e4be0cb2584d064.html",
+    "total_time_taken": 0.5
+  },
+  "search_parameters": {
+    "q": "Data Analyst",
+    "engine": "google_jobs",
+    "location_requested": "Peru",
+    "location_used": "Peru",
+    "google_domain": "google.com",
+    "hl": "es",
+    "gl": "pe"
+  },
+  "filters": [
+    {
+      "name": "Tipo de trabajo",
+      "options": [
+        {
+          "name": "Tiempo completo",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4rVVNivViyVtms2aJvUHdkkISxr4yEkXatfYtEbsR-sLGthooij8tLrhm-lSi-rcL38bKkllX6BDCPzlW7TtgA_ojHjtDTp6PeRet6FFh9H4nB3WqRi_Db0IR8GkLQUIScVQyXkZOCFf43NXG0oDiZQvO9b9Y371m-L4X8RDw8FmbvGvYmcgzmr_BQBdpHfk8bTA6P_lLrjS6r4UK7O66l-a88-HGctHNlyCleDh6mdkXCsjEHb_ctl2EJU653kvnqH0IaUCwFNVWpq7TH6FQvz4wNy6Jmt0yu09wSanwiFPHEPz5QciE4xsGbDaT9WJODD2kj7pSneL6rMcsaX9HOEFH-MPY",
+            "q": "Data Analyst tiempo completo"
+          },
+          "link": "https://www.google.com/search?sca_esv=2d6c5a1e6a3d194c&gl=pe&hl=es&sxsrf=APpeQnsVTR7Q9mSBR6JjsloxgVwiOmj5GQ:1790568518309&q=Data+Analyst+tiempo+completo&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rVVNivViyVtms2aJvUHdkkISxr4yEkXatfYtEbsR-sLGthooij8tLrhm-lSi-rcL38bKkllX6BDCPzlW7TtgA_ojHjtDTp6PeRet6FFh9H4nB3WqRi_Db0IR8GkLQUIScVQyXkZOCFf43NXG0oDiZQvO9b9Y371m-L4X8RDw8FmbvGvYmcgzmr_BQBdpHfk8bTA6P_lLrjS6r4UK7O66l-a88-HGctHNlyCleDh6mdkXCsjEHb_ctl2EJU653kvnqH0IaUCwFNVWpq7TH6FQvz4wNy6Jmt0yu09wSanwiFPHEPz5QciE4xsGbDaT9WJODD2kj7pSneL6rMcsaX9HOEFH-MPY&udm=8&sa=X&ved=2ahUKEwi89urDs5CXAxU6LFkFHZNGAIUQkbEKegQIIhAC",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=pe&google_domain=google.com&hl=es&location=Peru&q=Data+Analyst+tiempo+completo&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rVVNivViyVtms2aJvUHdkkISxr4yEkXatfYtEbsR-sLGthooij8tLrhm-lSi-rcL38bKkllX6BDCPzlW7TtgA_ojHjtDTp6PeRet6FFh9H4nB3WqRi_Db0IR8GkLQUIScVQyXkZOCFf43NXG0oDiZQvO9b9Y371m-L4X8RDw8FmbvGvYmcgzmr_BQBdpHfk8bTA6P_lLrjS6r4UK7O66l-a88-HGctHNlyCleDh6mdkXCsjEHb_ctl2EJU653kvnqH0IaUCwFNVWpq7TH6FQvz4wNy6Jmt0yu09wSanwiFPHEPz5QciE4xsGbDaT9WJODD2kj7pSneL6rMcsaX9HOEFH-MPY"
+        },
+        {
+          "name": "Tiempo parcial",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4rXzHIyNPKeBBr4Y3zXpQgNaF3owk30IgHl4uUQIInVLnQJcuUPY37hRp-DX-zeRq95QUofak_vZOqG2z289EEdr0GOnUrJt0IrGv5MNT0xjLxhTWJI-zWKFdWjj4KdWvDVt2sEqoaFIfzRvYEg1KDWV-OyTBL4uEKUEoFOmwSzkPWMkOVU-MAb2VzaRHpPgHE-N8ankkcl-FOFcJ1JdLj9ikJUBZ1_d9BuCFC9sX1uTb9TDbjkQ0n3ER397-K4FujIaeXUKDNtD6QJJDPKI11_Vi11khbphh2NbwJKoyYy4VdkLfkT0DTMFUN-Pt3vyxkIPB8LLJqLo8PHStJWfy0sRendaw",
+            "q": "Data Analyst tiempo parcial"
+          },
+          "link": "https://www.google.com/search?sca_esv=2d6c5a1e6a3d194c&gl=pe&hl=es&sxsrf=APpeQnsVTR7Q9mSBR6JjsloxgVwiOmj5GQ:1790568518309&q=Data+Analyst+tiempo+parcial&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rXzHIyNPKeBBr4Y3zXpQgNaF3owk30IgHl4uUQIInVLnQJcuUPY37hRp-DX-zeRq95QUofak_vZOqG2z289EEdr0GOnUrJt0IrGv5MNT0xjLxhTWJI-zWKFdWjj4KdWvDVt2sEqoaFIfzRvYEg1KDWV-OyTBL4uEKUEoFOmwSzkPWMkOVU-MAb2VzaRHpPgHE-N8ankkcl-FOFcJ1JdLj9ikJUBZ1_d9BuCFC9sX1uTb9TDbjkQ0n3ER397-K4FujIaeXUKDNtD6QJJDPKI11_Vi11khbphh2NbwJKoyYy4VdkLfkT0DTMFUN-Pt3vyxkIPB8LLJqLo8PHStJWfy0sRendaw&udm=8&sa=X&ved=2ahUKEwi89urDs5CXAxU6LFkFHZNGAIUQkbEKegQIIhAD",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=pe&google_domain=google.com&hl=es&location=Peru&q=Data+Analyst+tiempo+parcial&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rXzHIyNPKeBBr4Y3zXpQgNaF3owk30IgHl4uUQIInVLnQJcuUPY37hRp-DX-zeRq95QUofak_vZOqG2z289EEdr0GOnUrJt0IrGv5MNT0xjLxhTWJI-zWKFdWjj4KdWvDVt2sEqoaFIfzRvYEg1KDWV-OyTBL4uEKUEoFOmwSzkPWMkOVU-MAb2VzaRHpPgHE-N8ankkcl-FOFcJ1JdLj9ikJUBZ1_d9BuCFC9sX1uTb9TDbjkQ0n3ER397-K4FujIaeXUKDNtD6QJJDPKI11_Vi11khbphh2NbwJKoyYy4VdkLfkT0DTMFUN-Pt3vyxkIPB8LLJqLo8PHStJWfy0sRendaw"
+        },
+        {
+          "name": "Con contrato",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4rQonYkCRW-NujNKCBS-AWkOXu2NtMa4eJ9d9-mULAqWjokWN9Z9tpXGV2ZiP8vTJYkLk9GDrigazaaeABmebK0ebMnmp9mWoVFlHJv1HQG6kiT1ew5FXeCxvB_UsYqOOQdoNkWK2iXliWx0crgdNgjU_uGqZeC7rCJE1jGClHaOriX6UK9mKeosjNdA8VcpcWrSbNYeZakyQc4YfchmM-rN8WMmPB1d6J3h1g4g7qC_qFpIVpKAFTyEtrKcuzIiXUvbkWwXq086scjeDN6C5oN-G3hYBT9v3IHU1E0xAF0Gr57uotcwGeUXo2-tDpfe0_3Kk7zItdeY0Txj5L3OS04F3GCcg",
+            "q": "Data Analyst con contrato"
+          },
+          "link": "https://www.google.com/search?sca_esv=2d6c5a1e6a3d194c&gl=pe&hl=es&sxsrf=APpeQnsVTR7Q9mSBR6JjsloxgVwiOmj5GQ:1790568518309&q=Data+Analyst+con+contrato&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rQonYkCRW-NujNKCBS-AWkOXu2NtMa4eJ9d9-mULAqWjokWN9Z9tpXGV2ZiP8vTJYkLk9GDrigazaaeABmebK0ebMnmp9mWoVFlHJv1HQG6kiT1ew5FXeCxvB_UsYqOOQdoNkWK2iXliWx0crgdNgjU_uGqZeC7rCJE1jGClHaOriX6UK9mKeosjNdA8VcpcWrSbNYeZakyQc4YfchmM-rN8WMmPB1d6J3h1g4g7qC_qFpIVpKAFTyEtrKcuzIiXUvbkWwXq086scjeDN6C5oN-G3hYBT9v3IHU1E0xAF0Gr57uotcwGeUXo2-tDpfe0_3Kk7zItdeY0Txj5L3OS04F3GCcg&udm=8&sa=X&ved=2ahUKEwi89urDs5CXAxU6LFkFHZNGAIUQkbEKegQIIhAE",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=pe&google_domain=google.com&hl=es&location=Peru&q=Data+Analyst+con+contrato&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rQonYkCRW-NujNKCBS-AWkOXu2NtMa4eJ9d9-mULAqWjokWN9Z9tpXGV2ZiP8vTJYkLk9GDrigazaaeABmebK0ebMnmp9mWoVFlHJv1HQG6kiT1ew5FXeCxvB_UsYqOOQdoNkWK2iXliWx0crgdNgjU_uGqZeC7rCJE1jGClHaOriX6UK9mKeosjNdA8VcpcWrSbNYeZakyQc4YfchmM-rN8WMmPB1d6J3h1g4g7qC_qFpIVpKAFTyEtrKcuzIiXUvbkWwXq086scjeDN6C5oN-G3hYBT9v3IHU1E0xAF0Gr57uotcwGeUXo2-tDpfe0_3Kk7zItdeY0Txj5L3OS04F3GCcg"
+        },
+        {
+          "name": "Prácticas",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4ryl08Hl0dNFdbQMF0ko5QVqtVgx_693e0Bo4mukB35zG3cwb9RE8whTNqNOK1fj87vyV1WIaKGE5POc4_YN_g9Alwn384paY2kPe2B-tCVMaXX0IWA5goc28dz9TvKNNQxnWwLB-7_nd0z6nszDRe2i8_yKhRcH6bvXwHtVHVvvz1ntIvwYmLgyTVc-mlRJYaIzRX7OLMn7sCU0VYqSODqIK-kyeaUd1XXBFREDzCZUpvUjojAsq0p55BPWRUuAXDIva1YIibDm0BHZy2nNsbt97v8T12MKi3uE3LGpjv1xYijYg4da5xAaCwBop23Iih12PBJbEmP1PfuFZTUNaDIMFRyIM",
+            "q": "Data Analyst prácticas"
+          },
+          "link": "https://www.google.com/search?sca_esv=2d6c5a1e6a3d194c&gl=pe&hl=es&sxsrf=APpeQnsVTR7Q9mSBR6JjsloxgVwiOmj5GQ:1790568518309&q=Data+Analyst+pr%C3%A1cticas&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4ryl08Hl0dNFdbQMF0ko5QVqtVgx_693e0Bo4mukB35zG3cwb9RE8whTNqNOK1fj87vyV1WIaKGE5POc4_YN_g9Alwn384paY2kPe2B-tCVMaXX0IWA5goc28dz9TvKNNQxnWwLB-7_nd0z6nszDRe2i8_yKhRcH6bvXwHtVHVvvz1ntIvwYmLgyTVc-mlRJYaIzRX7OLMn7sCU0VYqSODqIK-kyeaUd1XXBFREDzCZUpvUjojAsq0p55BPWRUuAXDIva1YIibDm0BHZy2nNsbt97v8T12MKi3uE3LGpjv1xYijYg4da5xAaCwBop23Iih12PBJbEmP1PfuFZTUNaDIMFRyIM&udm=8&sa=X&ved=2ahUKEwi89urDs5CXAxU6LFkFHZNGAIUQkbEKegQIIhAF",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=pe&google_domain=google.com&hl=es&location=Peru&q=Data+Analyst+pr%C3%A1cticas&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4ryl08Hl0dNFdbQMF0ko5QVqtVgx_693e0Bo4mukB35zG3cwb9RE8whTNqNOK1fj87vyV1WIaKGE5POc4_YN_g9Alwn384paY2kPe2B-tCVMaXX0IWA5goc28dz9TvKNNQxnWwLB-7_nd0z6nszDRe2i8_yKhRcH6bvXwHtVHVvvz1ntIvwYmLgyTVc-mlRJYaIzRX7OLMn7sCU0VYqSODqIK-kyeaUd1XXBFREDzCZUpvUjojAsq0p55BPWRUuAXDIva1YIibDm0BHZy2nNsbt97v8T12MKi3uE3LGpjv1xYijYg4da5xAaCwBop23Iih12PBJbEmP1PfuFZTUNaDIMFRyIM"
+        }
+      ]
+    },
+    {
+      "name": "Tipo de trabajo",
+      "options": [
+        {
+          "name": "Tiempo completo",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4rVVNivViyVtms2aJvUHdkkISxr4yEkXatfYtEbsR-sLGthooij8tLrhm-lSi-rcL38bKkllX6BDCPzlW7TtgA_ojHjtDTp6PeRet6FFh9H4nB3WqRi_Db0IR8GkLQUIScVQyXkZOCFf43NXG0oDiZQvO9b9Y371m-L4X8RDw8FmbvGvYmcgzmr_BQBdpHfk8bTA6P_lLrjS6r4UK7O66l-a88-HGctHNlyCleDh6mdkXCsjEHb_ctl2EJU653kvnqH0IaUCwFNVWpq7TH6FQvz4wNy6Jmt0yu09wSanwiFPHEPz5QciE4xsGbDaT9WJODD2kj7pSneL6rMcsaX9HOEFH-MPY",
+            "q": "Data Analyst tiempo completo"
+          },
+          "link": "https://www.google.com/search?sca_esv=2d6c5a1e6a3d194c&gl=pe&hl=es&sxsrf=APpeQnsVTR7Q9mSBR6JjsloxgVwiOmj5GQ:1790568518309&q=Data+Analyst+tiempo+completo&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rVVNivViyVtms2aJvUHdkkISxr4yEkXatfYtEbsR-sLGthooij8tLrhm-lSi-rcL38bKkllX6BDCPzlW7TtgA_ojHjtDTp6PeRet6FFh9H4nB3WqRi_Db0IR8GkLQUIScVQyXkZOCFf43NXG0oDiZQvO9b9Y371m-L4X8RDw8FmbvGvYmcgzmr_BQBdpHfk8bTA6P_lLrjS6r4UK7O66l-a88-HGctHNlyCleDh6mdkXCsjEHb_ctl2EJU653kvnqH0IaUCwFNVWpq7TH6FQvz4wNy6Jmt0yu09wSanwiFPHEPz5QciE4xsGbDaT9WJODD2kj7pSneL6rMcsaX9HOEFH-MPY&udm=8&sa=X&ved=2ahUKEwi89urDs5CXAxU6LFkFHZNGAIUQkbEKegQIIhAC",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=pe&google_domain=google.com&hl=es&location=Peru&q=Data+Analyst+tiempo+completo&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rVVNivViyVtms2aJvUHdkkISxr4yEkXatfYtEbsR-sLGthooij8tLrhm-lSi-rcL38bKkllX6BDCPzlW7TtgA_ojHjtDTp6PeRet6FFh9H4nB3WqRi_Db0IR8GkLQUIScVQyXkZOCFf43NXG0oDiZQvO9b9Y371m-L4X8RDw8FmbvGvYmcgzmr_BQBdpHfk8bTA6P_lLrjS6r4UK7O66l-a88-HGctHNlyCleDh6mdkXCsjEHb_ctl2EJU653kvnqH0IaUCwFNVWpq7TH6FQvz4wNy6Jmt0yu09wSanwiFPHEPz5QciE4xsGbDaT9WJODD2kj7pSneL6rMcsaX9HOEFH-MPY"
+        },
+        {
+          "name": "Tiempo parcial",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4rXzHIyNPKeBBr4Y3zXpQgNaF3owk30IgHl4uUQIInVLnQJcuUPY37hRp-DX-zeRq95QUofak_vZOqG2z289EEdr0GOnUrJt0IrGv5MNT0xjLxhTWJI-zWKFdWjj4KdWvDVt2sEqoaFIfzRvYEg1KDWV-OyTBL4uEKUEoFOmwSzkPWMkOVU-MAb2VzaRHpPgHE-N8ankkcl-FOFcJ1JdLj9ikJUBZ1_d9BuCFC9sX1uTb9TDbjkQ0n3ER397-K4FujIaeXUKDNtD6QJJDPKI11_Vi11khbphh2NbwJKoyYy4VdkLfkT0DTMFUN-Pt3vyxkIPB8LLJqLo8PHStJWfy0sRendaw",
+            "q": "Data Analyst tiempo parcial"
+          },
+          "link": "https://www.google.com/search?sca_esv=2d6c5a1e6a3d194c&gl=pe&hl=es&sxsrf=APpeQnsVTR7Q9mSBR6JjsloxgVwiOmj5GQ:1790568518309&q=Data+Analyst+tiempo+parcial&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rXzHIyNPKeBBr4Y3zXpQgNaF3owk30IgHl4uUQIInVLnQJcuUPY37hRp-DX-zeRq95QUofak_vZOqG2z289EEdr0GOnUrJt0IrGv5MNT0xjLxhTWJI-zWKFdWjj4KdWvDVt2sEqoaFIfzRvYEg1KDWV-OyTBL4uEKUEoFOmwSzkPWMkOVU-MAb2VzaRHpPgHE-N8ankkcl-FOFcJ1JdLj9ikJUBZ1_d9BuCFC9sX1uTb9TDbjkQ0n3ER397-K4FujIaeXUKDNtD6QJJDPKI11_Vi11khbphh2NbwJKoyYy4VdkLfkT0DTMFUN-Pt3vyxkIPB8LLJqLo8PHStJWfy0sRendaw&udm=8&sa=X&ved=2ahUKEwi89urDs5CXAxU6LFkFHZNGAIUQkbEKegQIIhAD",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=pe&google_domain=google.com&hl=es&location=Peru&q=Data+Analyst+tiempo+parcial&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rXzHIyNPKeBBr4Y3zXpQgNaF3owk30IgHl4uUQIInVLnQJcuUPY37hRp-DX-zeRq95QUofak_vZOqG2z289EEdr0GOnUrJt0IrGv5MNT0xjLxhTWJI-zWKFdWjj4KdWvDVt2sEqoaFIfzRvYEg1KDWV-OyTBL4uEKUEoFOmwSzkPWMkOVU-MAb2VzaRHpPgHE-N8ankkcl-FOFcJ1JdLj9ikJUBZ1_d9BuCFC9sX1uTb9TDbjkQ0n3ER397-K4FujIaeXUKDNtD6QJJDPKI11_Vi11khbphh2NbwJKoyYy4VdkLfkT0DTMFUN-Pt3vyxkIPB8LLJqLo8PHStJWfy0sRendaw"
+        },
+        {
+          "name": "Con contrato",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4rQonYkCRW-NujNKCBS-AWkOXu2NtMa4eJ9d9-mULAqWjokWN9Z9tpXGV2ZiP8vTJYkLk9GDrigazaaeABmebK0ebMnmp9mWoVFlHJv1HQG6kiT1ew5FXeCxvB_UsYqOOQdoNkWK2iXliWx0crgdNgjU_uGqZeC7rCJE1jGClHaOriX6UK9mKeosjNdA8VcpcWrSbNYeZakyQc4YfchmM-rN8WMmPB1d6J3h1g4g7qC_qFpIVpKAFTyEtrKcuzIiXUvbkWwXq086scjeDN6C5oN-G3hYBT9v3IHU1E0xAF0Gr57uotcwGeUXo2-tDpfe0_3Kk7zItdeY0Txj5L3OS04F3GCcg",
+            "q": "Data Analyst con contrato"
+          },
+          "link": "https://www.google.com/search?sca_esv=2d6c5a1e6a3d194c&gl=pe&hl=es&sxsrf=APpeQnsVTR7Q9mSBR6JjsloxgVwiOmj5GQ:1790568518309&q=Data+Analyst+con+contrato&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rQonYkCRW-NujNKCBS-AWkOXu2NtMa4eJ9d9-mULAqWjokWN9Z9tpXGV2ZiP8vTJYkLk9GDrigazaaeABmebK0ebMnmp9mWoVFlHJv1HQG6kiT1ew5FXeCxvB_UsYqOOQdoNkWK2iXliWx0crgdNgjU_uGqZeC7rCJE1jGClHaOriX6UK9mKeosjNdA8VcpcWrSbNYeZakyQc4YfchmM-rN8WMmPB1d6J3h1g4g7qC_qFpIVpKAFTyEtrKcuzIiXUvbkWwXq086scjeDN6C5oN-G3hYBT9v3IHU1E0xAF0Gr57uotcwGeUXo2-tDpfe0_3Kk7zItdeY0Txj5L3OS04F3GCcg&udm=8&sa=X&ved=2ahUKEwi89urDs5CXAxU6LFkFHZNGAIUQkbEKegQIIhAE",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=pe&google_domain=google.com&hl=es&location=Peru&q=Data+Analyst+con+contrato&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rQonYkCRW-NujNKCBS-AWkOXu2NtMa4eJ9d9-mULAqWjokWN9Z9tpXGV2ZiP8vTJYkLk9GDrigazaaeABmebK0ebMnmp9mWoVFlHJv1HQG6kiT1ew5FXeCxvB_UsYqOOQdoNkWK2iXliWx0crgdNgjU_uGqZeC7rCJE1jGClHaOriX6UK9mKeosjNdA8VcpcWrSbNYeZakyQc4YfchmM-rN8WMmPB1d6J3h1g4g7qC_qFpIVpKAFTyEtrKcuzIiXUvbkWwXq086scjeDN6C5oN-G3hYBT9v3IHU1E0xAF0Gr57uotcwGeUXo2-tDpfe0_3Kk7zItdeY0Txj5L3OS04F3GCcg"
+        },
+        {
+          "name": "Prácticas",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4ryl08Hl0dNFdbQMF0ko5QVqtVgx_693e0Bo4mukB35zG3cwb9RE8whTNqNOK1fj87vyV1WIaKGE5POc4_YN_g9Alwn384paY2kPe2B-tCVMaXX0IWA5goc28dz9TvKNNQxnWwLB-7_nd0z6nszDRe2i8_yKhRcH6bvXwHtVHVvvz1ntIvwYmLgyTVc-mlRJYaIzRX7OLMn7sCU0VYqSODqIK-kyeaUd1XXBFREDzCZUpvUjojAsq0p55BPWRUuAXDIva1YIibDm0BHZy2nNsbt97v8T12MKi3uE3LGpjv1xYijYg4da5xAaCwBop23Iih12PBJbEmP1PfuFZTUNaDIMFRyIM",
+            "q": "Data Analyst prácticas"
+          },
+          "link": "https://www.google.com/search?sca_esv=2d6c5a1e6a3d194c&gl=pe&hl=es&sxsrf=APpeQnsVTR7Q9mSBR6JjsloxgVwiOmj5GQ:1790568518309&q=Data+Analyst+pr%C3%A1cticas&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4ryl08Hl0dNFdbQMF0ko5QVqtVgx_693e0Bo4mukB35zG3cwb9RE8whTNqNOK1fj87vyV1WIaKGE5POc4_YN_g9Alwn384paY2kPe2B-tCVMaXX0IWA5goc28dz9TvKNNQxnWwLB-7_nd0z6nszDRe2i8_yKhRcH6bvXwHtVHVvvz1ntIvwYmLgyTVc-mlRJYaIzRX7OLMn7sCU0VYqSODqIK-kyeaUd1XXBFREDzCZUpvUjojAsq0p55BPWRUuAXDIva1YIibDm0BHZy2nNsbt97v8T12MKi3uE3LGpjv1xYijYg4da5xAaCwBop23Iih12PBJbEmP1PfuFZTUNaDIMFRyIM&udm=8&sa=X&ved=2ahUKEwi89urDs5CXAxU6LFkFHZNGAIUQkbEKegQIIhAF",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=pe&google_domain=google.com&hl=es&location=Peru&q=Data+Analyst+pr%C3%A1cticas&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4ryl08Hl0dNFdbQMF0ko5QVqtVgx_693e0Bo4mukB35zG3cwb9RE8whTNqNOK1fj87vyV1WIaKGE5POc4_YN_g9Alwn384paY2kPe2B-tCVMaXX0IWA5goc28dz9TvKNNQxnWwLB-7_nd0z6nszDRe2i8_yKhRcH6bvXwHtVHVvvz1ntIvwYmLgyTVc-mlRJYaIzRX7OLMn7sCU0VYqSODqIK-kyeaUd1XXBFREDzCZUpvUjojAsq0p55BPWRUuAXDIva1YIibDm0BHZy2nNsbt97v8T12MKi3uE3LGpjv1xYijYg4da5xAaCwBop23Iih12PBJbEmP1PfuFZTUNaDIMFRyIM"
+        }
+      ]
+    },
+    {
+      "name": "Fecha de publicación",
+      "options": [
+        {
+          "name": "Ayer",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4rM2xmP9BqdacKvs8R5NlSSey9fx39JtVjhJ2WqW-9ZGN1iOlbtUev-sbSTB-6pGEi_jWZ-JvGWW5_D0pcfR9JhJekvE445rb0BcnOAf2FC76V5pQ8mYydrWqMDI03AH8hPwJAxVttRarvuZiSFC5mkQRb_EcW_LsMHoDwEwNKPA-_wtdGIuiPk1_JuKGMBK4sR-eA60i3f9LQCrWILApp99QDPF6T37Jiq3UAQkPyp1mKnvv9_7HF6LvRgbGiDw2p5pqEhJHfkH8QLidzWuDMUPvTgShwG-cTZ9aedXnaUSNJ_H9xX_ua0k5zNFcyjc1rGFPNrVqVRu7rnqDHIjZMR2JpUEpt9S0qVPyIb1iBTXftWQ09",
+            "q": "Data Analyst desde ayer"
+          },
+          "link": "https://www.google.com/search?sca_esv=2d6c5a1e6a3d194c&gl=pe&hl=es&sxsrf=APpeQnsVTR7Q9mSBR6JjsloxgVwiOmj5GQ:1790568518309&q=Data+Analyst+desde+ayer&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rM2xmP9BqdacKvs8R5NlSSey9fx39JtVjhJ2WqW-9ZGN1iOlbtUev-sbSTB-6pGEi_jWZ-JvGWW5_D0pcfR9JhJekvE445rb0BcnOAf2FC76V5pQ8mYydrWqMDI03AH8hPwJAxVttRarvuZiSFC5mkQRb_EcW_LsMHoDwEwNKPA-_wtdGIuiPk1_JuKGMBK4sR-eA60i3f9LQCrWILApp99QDPF6T37Jiq3UAQkPyp1mKnvv9_7HF6LvRgbGiDw2p5pqEhJHfkH8QLidzWuDMUPvTgShwG-cTZ9aedXnaUSNJ_H9xX_ua0k5zNFcyjc1rGFPNrVqVRu7rnqDHIjZMR2JpUEpt9S0qVPyIb1iBTXftWQ09&udm=8&sa=X&ved=2ahUKEwi89urDs5CXAxU6LFkFHZNGAIUQkbEKegQIJRAC",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=pe&google_domain=google.com&hl=es&location=Peru&q=Data+Analyst+desde+ayer&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rM2xmP9BqdacKvs8R5NlSSey9fx39JtVjhJ2WqW-9ZGN1iOlbtUev-sbSTB-6pGEi_jWZ-JvGWW5_D0pcfR9JhJekvE445rb0BcnOAf2FC76V5pQ8mYydrWqMDI03AH8hPwJAxVttRarvuZiSFC5mkQRb_EcW_LsMHoDwEwNKPA-_wtdGIuiPk1_JuKGMBK4sR-eA60i3f9LQCrWILApp99QDPF6T37Jiq3UAQkPyp1mKnvv9_7HF6LvRgbGiDw2p5pqEhJHfkH8QLidzWuDMUPvTgShwG-cTZ9aedXnaUSNJ_H9xX_ua0k5zNFcyjc1rGFPNrVqVRu7rnqDHIjZMR2JpUEpt9S0qVPyIb1iBTXftWQ09"
+        },
+        {
+          "name": "Últimos 3 días",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4r-KsSjZZKsw6pqqtXgLmUrcMFPM56IwlNxVJJ0S4pHwja4_VnyBWSlfdBsJUHSHgkYFtL86LT1A0W9bPp78pUB3rczzU3X9HH6jlxo1KZkQCeMPEUOaz1PcC3E6y50Z7bnJlYpZ7EUa7rVDlhAtMWZ02SeC2-ZpuBqE8TgT_dzKlWzWC3CKh8V6ZBiNQUHb9iYqqZi9tL6Z_f7L3809DathIwKdASKf6aK8lep7SrRzf6y_hNL3HLLd43TPTIajGx0bIUQvEGMINMN3DDZXaqApBlNOvDzWPSK9p2p0U13iMy0K_tySYcoHS0XAOFlDS2l_iaN0P1OZEk_EDVaXZLZoI8WBqbB9oGLK_BK5vllS4RPHYd",
+            "q": "Data Analyst en los últimos 3 días"
+          },
+          "link": "https://www.google.com/search?sca_esv=2d6c5a1e6a3d194c&gl=pe&hl=es&sxsrf=APpeQnsVTR7Q9mSBR6JjsloxgVwiOmj5GQ:1790568518309&q=Data+Analyst+en+los+%C3%BAltimos+3+d%C3%ADas&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4r-KsSjZZKsw6pqqtXgLmUrcMFPM56IwlNxVJJ0S4pHwja4_VnyBWSlfdBsJUHSHgkYFtL86LT1A0W9bPp78pUB3rczzU3X9HH6jlxo1KZkQCeMPEUOaz1PcC3E6y50Z7bnJlYpZ7EUa7rVDlhAtMWZ02SeC2-ZpuBqE8TgT_dzKlWzWC3CKh8V6ZBiNQUHb9iYqqZi9tL6Z_f7L3809DathIwKdASKf6aK8lep7SrRzf6y_hNL3HLLd43TPTIajGx0bIUQvEGMINMN3DDZXaqApBlNOvDzWPSK9p2p0U13iMy0K_tySYcoHS0XAOFlDS2l_iaN0P1OZEk_EDVaXZLZoI8WBqbB9oGLK_BK5vllS4RPHYd&udm=8&sa=X&ved=2ahUKEwi89urDs5CXAxU6LFkFHZNGAIUQkbEKegQIJRAD",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=pe&google_domain=google.com&hl=es&location=Peru&q=Data+Analyst+en+los+%C3%BAltimos+3+d%C3%ADas&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4r-KsSjZZKsw6pqqtXgLmUrcMFPM56IwlNxVJJ0S4pHwja4_VnyBWSlfdBsJUHSHgkYFtL86LT1A0W9bPp78pUB3rczzU3X9HH6jlxo1KZkQCeMPEUOaz1PcC3E6y50Z7bnJlYpZ7EUa7rVDlhAtMWZ02SeC2-ZpuBqE8TgT_dzKlWzWC3CKh8V6ZBiNQUHb9iYqqZi9tL6Z_f7L3809DathIwKdASKf6aK8lep7SrRzf6y_hNL3HLLd43TPTIajGx0bIUQvEGMINMN3DDZXaqApBlNOvDzWPSK9p2p0U13iMy0K_tySYcoHS0XAOFlDS2l_iaN0P1OZEk_EDVaXZLZoI8WBqbB9oGLK_BK5vllS4RPHYd"
+        },
+        {
+          "name": "Última semana",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4rYfX9qx7BEx7wzihEPQG9Yia9GA8DZyXF4YoMjdqbiFj7hH_EL7DQVt9M4-o11c_CqtuZ61xRYp6ohBRwtNgvc78iB9Q3ipqkrvRUAi8rhJKGpqZWYZH7-ZosJmB1OGY-xY1GZtJpt7V5op2bG99r7MwIwHHp9X2jXSbJ_IKzYnSsCl0qAZ84eH5Bpg3_iZ53JNGlKUb3JoGApPBt07pGWzBRSUSBxTGl_hJykmtngHfzjkiV9CNrl7-QR3Dp9PG3RnT8p2bVTmot_DhcKl1oKZgGN2zghDL6mnYeDN9Cpccr_S_TC010IJkkMKgpNg0ydsfd3H9Go3DqHLREmkMndWNXkeN5IpGXUwutNnu9vPsk2C4U",
+            "q": "Data Analyst en la última semana"
+          },
+          "link": "https://www.google.com/search?sca_esv=2d6c5a1e6a3d194c&gl=pe&hl=es&sxsrf=APpeQnsVTR7Q9mSBR6JjsloxgVwiOmj5GQ:1790568518309&q=Data+Analyst+en+la+%C3%BAltima+semana&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rYfX9qx7BEx7wzihEPQG9Yia9GA8DZyXF4YoMjdqbiFj7hH_EL7DQVt9M4-o11c_CqtuZ61xRYp6ohBRwtNgvc78iB9Q3ipqkrvRUAi8rhJKGpqZWYZH7-ZosJmB1OGY-xY1GZtJpt7V5op2bG99r7MwIwHHp9X2jXSbJ_IKzYnSsCl0qAZ84eH5Bpg3_iZ53JNGlKUb3JoGApPBt07pGWzBRSUSBxTGl_hJykmtngHfzjkiV9CNrl7-QR3Dp9PG3RnT8p2bVTmot_DhcKl1oKZgGN2zghDL6mnYeDN9Cpccr_S_TC010IJkkMKgpNg0ydsfd3H9Go3DqHLREmkMndWNXkeN5IpGXUwutNnu9vPsk2C4U&udm=8&sa=X&ved=2ahUKEwi89urDs5CXAxU6LFkFHZNGAIUQkbEKegQIJRAE",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=pe&google_domain=google.com&hl=es&location=Peru&q=Data+Analyst+en+la+%C3%BAltima+semana&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rYfX9qx7BEx7wzihEPQG9Yia9GA8DZyXF4YoMjdqbiFj7hH_EL7DQVt9M4-o11c_CqtuZ61xRYp6ohBRwtNgvc78iB9Q3ipqkrvRUAi8rhJKGpqZWYZH7-ZosJmB1OGY-xY1GZtJpt7V5op2bG99r7MwIwHHp9X2jXSbJ_IKzYnSsCl0qAZ84eH5Bpg3_iZ53JNGlKUb3JoGApPBt07pGWzBRSUSBxTGl_hJykmtngHfzjkiV9CNrl7-QR3Dp9PG3RnT8p2bVTmot_DhcKl1oKZgGN2zghDL6mnYeDN9Cpccr_S_TC010IJkkMKgpNg0ydsfd3H9Go3DqHLREmkMndWNXkeN5IpGXUwutNnu9vPsk2C4U"
+        },
+        {
+          "name": "Último mes",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4rgO-Aw68bXRhyO5czSlwHlQ0KrnvRmWA9rJH11gkDaB7j3ZVaHdbDC0WQKxLc3JyEQthxYZDYaHiALgkumu4THQiiSwg-tVmlZTR5cYpJkmrAO9IkqylNlzK3xm3bcTrQP-lTwZEqNzstcZ4jEA7chNAVRBpp_A5Go7AlEDnzU5FB0gg9itRS_GartTXgESOuFmlwdWFu9o73Xs5in17D8zPVpUtW4Y_dISti1ZN85dg0-ctVsIyFp9NyD12ZXlXM1bMFRHSf3P564oFF9c33vXCiEdQwAllUX9nnenHt55GABMSXHP8kIJgmgWd-xDqKpNRUfWx1XdP3m-hD0IAofS2v64uC9yQu7wVLjgGGEmxVFb_5",
+            "q": "Data Analyst en el último mes"
+          },
+          "link": "https://www.google.com/search?sca_esv=2d6c5a1e6a3d194c&gl=pe&hl=es&sxsrf=APpeQnsVTR7Q9mSBR6JjsloxgVwiOmj5GQ:1790568518309&q=Data+Analyst+en+el+%C3%BAltimo+mes&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rgO-Aw68bXRhyO5czSlwHlQ0KrnvRmWA9rJH11gkDaB7j3ZVaHdbDC0WQKxLc3JyEQthxYZDYaHiALgkumu4THQiiSwg-tVmlZTR5cYpJkmrAO9IkqylNlzK3xm3bcTrQP-lTwZEqNzstcZ4jEA7chNAVRBpp_A5Go7AlEDnzU5FB0gg9itRS_GartTXgESOuFmlwdWFu9o73Xs5in17D8zPVpUtW4Y_dISti1ZN85dg0-ctVsIyFp9NyD12ZXlXM1bMFRHSf3P564oFF9c33vXCiEdQwAllUX9nnenHt55GABMSXHP8kIJgmgWd-xDqKpNRUfWx1XdP3m-hD0IAofS2v64uC9yQu7wVLjgGGEmxVFb_5&udm=8&sa=X&ved=2ahUKEwi89urDs5CXAxU6LFkFHZNGAIUQkbEKegQIJRAF",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=pe&google_domain=google.com&hl=es&location=Peru&q=Data+Analyst+en+el+%C3%BAltimo+mes&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rgO-Aw68bXRhyO5czSlwHlQ0KrnvRmWA9rJH11gkDaB7j3ZVaHdbDC0WQKxLc3JyEQthxYZDYaHiALgkumu4THQiiSwg-tVmlZTR5cYpJkmrAO9IkqylNlzK3xm3bcTrQP-lTwZEqNzstcZ4jEA7chNAVRBpp_A5Go7AlEDnzU5FB0gg9itRS_GartTXgESOuFmlwdWFu9o73Xs5in17D8zPVpUtW4Y_dISti1ZN85dg0-ctVsIyFp9NyD12ZXlXM1bMFRHSf3P564oFF9c33vXCiEdQwAllUX9nnenHt55GABMSXHP8kIJgmgWd-xDqKpNRUfWx1XdP3m-hD0IAofS2v64uC9yQu7wVLjgGGEmxVFb_5"
+        }
+      ]
+    },
+    {
+      "name": "Fecha de publicación",
+      "options": [
+        {
+          "name": "Ayer",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4rM2xmP9BqdacKvs8R5NlSSey9fx39JtVjhJ2WqW-9ZGN1iOlbtUev-sbSTB-6pGEi_jWZ-JvGWW5_D0pcfR9JhJekvE445rb0BcnOAf2FC76V5pQ8mYydrWqMDI03AH8hPwJAxVttRarvuZiSFC5mkQRb_EcW_LsMHoDwEwNKPA-_wtdGIuiPk1_JuKGMBK4sR-eA60i3f9LQCrWILApp99QDPF6T37Jiq3UAQkPyp1mKnvv9_7HF6LvRgbGiDw2p5pqEhJHfkH8QLidzWuDMUPvTgShwG-cTZ9aedXnaUSNJ_H9xX_ua0k5zNFcyjc1rGFPNrVqVRu7rnqDHIjZMR2JpUEpt9S0qVPyIb1iBTXftWQ09",
+            "q": "Data Analyst desde ayer"
+          },
+          "link": "https://www.google.com/search?sca_esv=2d6c5a1e6a3d194c&gl=pe&hl=es&sxsrf=APpeQnsVTR7Q9mSBR6JjsloxgVwiOmj5GQ:1790568518309&q=Data+Analyst+desde+ayer&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rM2xmP9BqdacKvs8R5NlSSey9fx39JtVjhJ2WqW-9ZGN1iOlbtUev-sbSTB-6pGEi_jWZ-JvGWW5_D0pcfR9JhJekvE445rb0BcnOAf2FC76V5pQ8mYydrWqMDI03AH8hPwJAxVttRarvuZiSFC5mkQRb_EcW_LsMHoDwEwNKPA-_wtdGIuiPk1_JuKGMBK4sR-eA60i3f9LQCrWILApp99QDPF6T37Jiq3UAQkPyp1mKnvv9_7HF6LvRgbGiDw2p5pqEhJHfkH8QLidzWuDMUPvTgShwG-cTZ9aedXnaUSNJ_H9xX_ua0k5zNFcyjc1rGFPNrVqVRu7rnqDHIjZMR2JpUEpt9S0qVPyIb1iBTXftWQ09&udm=8&sa=X&ved=2ahUKEwi89urDs5CXAxU6LFkFHZNGAIUQkbEKegQIJRAC",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=pe&google_domain=google.com&hl=es&location=Peru&q=Data+Analyst+desde+ayer&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rM2xmP9BqdacKvs8R5NlSSey9fx39JtVjhJ2WqW-9ZGN1iOlbtUev-sbSTB-6pGEi_jWZ-JvGWW5_D0pcfR9JhJekvE445rb0BcnOAf2FC76V5pQ8mYydrWqMDI03AH8hPwJAxVttRarvuZiSFC5mkQRb_EcW_LsMHoDwEwNKPA-_wtdGIuiPk1_JuKGMBK4sR-eA60i3f9LQCrWILApp99QDPF6T37Jiq3UAQkPyp1mKnvv9_7HF6LvRgbGiDw2p5pqEhJHfkH8QLidzWuDMUPvTgShwG-cTZ9aedXnaUSNJ_H9xX_ua0k5zNFcyjc1rGFPNrVqVRu7rnqDHIjZMR2JpUEpt9S0qVPyIb1iBTXftWQ09"
+        },
+        {
+          "name": "Últimos 3 días",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4r-KsSjZZKsw6pqqtXgLmUrcMFPM56IwlNxVJJ0S4pHwja4_VnyBWSlfdBsJUHSHgkYFtL86LT1A0W9bPp78pUB3rczzU3X9HH6jlxo1KZkQCeMPEUOaz1PcC3E6y50Z7bnJlYpZ7EUa7rVDlhAtMWZ02SeC2-ZpuBqE8TgT_dzKlWzWC3CKh8V6ZBiNQUHb9iYqqZi9tL6Z_f7L3809DathIwKdASKf6aK8lep7SrRzf6y_hNL3HLLd43TPTIajGx0bIUQvEGMINMN3DDZXaqApBlNOvDzWPSK9p2p0U13iMy0K_tySYcoHS0XAOFlDS2l_iaN0P1OZEk_EDVaXZLZoI8WBqbB9oGLK_BK5vllS4RPHYd",
+            "q": "Data Analyst en los últimos 3 días"
+          },
+          "link": "https://www.google.com/search?sca_esv=2d6c5a1e6a3d194c&gl=pe&hl=es&sxsrf=APpeQnsVTR7Q9mSBR6JjsloxgVwiOmj5GQ:1790568518309&q=Data+Analyst+en+los+%C3%BAltimos+3+d%C3%ADas&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4r-KsSjZZKsw6pqqtXgLmUrcMFPM56IwlNxVJJ0S4pHwja4_VnyBWSlfdBsJUHSHgkYFtL86LT1A0W9bPp78pUB3rczzU3X9HH6jlxo1KZkQCeMPEUOaz1PcC3E6y50Z7bnJlYpZ7EUa7rVDlhAtMWZ02SeC2-ZpuBqE8TgT_dzKlWzWC3CKh8V6ZBiNQUHb9iYqqZi9tL6Z_f7L3809DathIwKdASKf6aK8lep7SrRzf6y_hNL3HLLd43TPTIajGx0bIUQvEGMINMN3DDZXaqApBlNOvDzWPSK9p2p0U13iMy0K_tySYcoHS0XAOFlDS2l_iaN0P1OZEk_EDVaXZLZoI8WBqbB9oGLK_BK5vllS4RPHYd&udm=8&sa=X&ved=2ahUKEwi89urDs5CXAxU6LFkFHZNGAIUQkbEKegQIJRAD",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=pe&google_domain=google.com&hl=es&location=Peru&q=Data+Analyst+en+los+%C3%BAltimos+3+d%C3%ADas&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4r-KsSjZZKsw6pqqtXgLmUrcMFPM56IwlNxVJJ0S4pHwja4_VnyBWSlfdBsJUHSHgkYFtL86LT1A0W9bPp78pUB3rczzU3X9HH6jlxo1KZkQCeMPEUOaz1PcC3E6y50Z7bnJlYpZ7EUa7rVDlhAtMWZ02SeC2-ZpuBqE8TgT_dzKlWzWC3CKh8V6ZBiNQUHb9iYqqZi9tL6Z_f7L3809DathIwKdASKf6aK8lep7SrRzf6y_hNL3HLLd43TPTIajGx0bIUQvEGMINMN3DDZXaqApBlNOvDzWPSK9p2p0U13iMy0K_tySYcoHS0XAOFlDS2l_iaN0P1OZEk_EDVaXZLZoI8WBqbB9oGLK_BK5vllS4RPHYd"
+        },
+        {
+          "name": "Última semana",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4rYfX9qx7BEx7wzihEPQG9Yia9GA8DZyXF4YoMjdqbiFj7hH_EL7DQVt9M4-o11c_CqtuZ61xRYp6ohBRwtNgvc78iB9Q3ipqkrvRUAi8rhJKGpqZWYZH7-ZosJmB1OGY-xY1GZtJpt7V5op2bG99r7MwIwHHp9X2jXSbJ_IKzYnSsCl0qAZ84eH5Bpg3_iZ53JNGlKUb3JoGApPBt07pGWzBRSUSBxTGl_hJykmtngHfzjkiV9CNrl7-QR3Dp9PG3RnT8p2bVTmot_DhcKl1oKZgGN2zghDL6mnYeDN9Cpccr_S_TC010IJkkMKgpNg0ydsfd3H9Go3DqHLREmkMndWNXkeN5IpGXUwutNnu9vPsk2C4U",
+            "q": "Data Analyst en la última semana"
+          },
+          "link": "https://www.google.com/search?sca_esv=2d6c5a1e6a3d194c&gl=pe&hl=es&sxsrf=APpeQnsVTR7Q9mSBR6JjsloxgVwiOmj5GQ:1790568518309&q=Data+Analyst+en+la+%C3%BAltima+semana&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rYfX9qx7BEx7wzihEPQG9Yia9GA8DZyXF4YoMjdqbiFj7hH_EL7DQVt9M4-o11c_CqtuZ61xRYp6ohBRwtNgvc78iB9Q3ipqkrvRUAi8rhJKGpqZWYZH7-ZosJmB1OGY-xY1GZtJpt7V5op2bG99r7MwIwHHp9X2jXSbJ_IKzYnSsCl0qAZ84eH5Bpg3_iZ53JNGlKUb3JoGApPBt07pGWzBRSUSBxTGl_hJykmtngHfzjkiV9CNrl7-QR3Dp9PG3RnT8p2bVTmot_DhcKl1oKZgGN2zghDL6mnYeDN9Cpccr_S_TC010IJkkMKgpNg0ydsfd3H9Go3DqHLREmkMndWNXkeN5IpGXUwutNnu9vPsk2C4U&udm=8&sa=X&ved=2ahUKEwi89urDs5CXAxU6LFkFHZNGAIUQkbEKegQIJRAE",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=pe&google_domain=google.com&hl=es&location=Peru&q=Data+Analyst+en+la+%C3%BAltima+semana&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rYfX9qx7BEx7wzihEPQG9Yia9GA8DZyXF4YoMjdqbiFj7hH_EL7DQVt9M4-o11c_CqtuZ61xRYp6ohBRwtNgvc78iB9Q3ipqkrvRUAi8rhJKGpqZWYZH7-ZosJmB1OGY-xY1GZtJpt7V5op2bG99r7MwIwHHp9X2jXSbJ_IKzYnSsCl0qAZ84eH5Bpg3_iZ53JNGlKUb3JoGApPBt07pGWzBRSUSBxTGl_hJykmtngHfzjkiV9CNrl7-QR3Dp9PG3RnT8p2bVTmot_DhcKl1oKZgGN2zghDL6mnYeDN9Cpccr_S_TC010IJkkMKgpNg0ydsfd3H9Go3DqHLREmkMndWNXkeN5IpGXUwutNnu9vPsk2C4U"
+        },
+        {
+          "name": "Último mes",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4rgO-Aw68bXRhyO5czSlwHlQ0KrnvRmWA9rJH11gkDaB7j3ZVaHdbDC0WQKxLc3JyEQthxYZDYaHiALgkumu4THQiiSwg-tVmlZTR5cYpJkmrAO9IkqylNlzK3xm3bcTrQP-lTwZEqNzstcZ4jEA7chNAVRBpp_A5Go7AlEDnzU5FB0gg9itRS_GartTXgESOuFmlwdWFu9o73Xs5in17D8zPVpUtW4Y_dISti1ZN85dg0-ctVsIyFp9NyD12ZXlXM1bMFRHSf3P564oFF9c33vXCiEdQwAllUX9nnenHt55GABMSXHP8kIJgmgWd-xDqKpNRUfWx1XdP3m-hD0IAofS2v64uC9yQu7wVLjgGGEmxVFb_5",
+            "q": "Data Analyst en el último mes"
+          },
+          "link": "https://www.google.com/search?sca_esv=2d6c5a1e6a3d194c&gl=pe&hl=es&sxsrf=APpeQnsVTR7Q9mSBR6JjsloxgVwiOmj5GQ:1790568518309&q=Data+Analyst+en+el+%C3%BAltimo+mes&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rgO-Aw68bXRhyO5czSlwHlQ0KrnvRmWA9rJH11gkDaB7j3ZVaHdbDC0WQKxLc3JyEQthxYZDYaHiALgkumu4THQiiSwg-tVmlZTR5cYpJkmrAO9IkqylNlzK3xm3bcTrQP-lTwZEqNzstcZ4jEA7chNAVRBpp_A5Go7AlEDnzU5FB0gg9itRS_GartTXgESOuFmlwdWFu9o73Xs5in17D8zPVpUtW4Y_dISti1ZN85dg0-ctVsIyFp9NyD12ZXlXM1bMFRHSf3P564oFF9c33vXCiEdQwAllUX9nnenHt55GABMSXHP8kIJgmgWd-xDqKpNRUfWx1XdP3m-hD0IAofS2v64uC9yQu7wVLjgGGEmxVFb_5&udm=8&sa=X&ved=2ahUKEwi89urDs5CXAxU6LFkFHZNGAIUQkbEKegQIJRAF",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=pe&google_domain=google.com&hl=es&location=Peru&q=Data+Analyst+en+el+%C3%BAltimo+mes&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rgO-Aw68bXRhyO5czSlwHlQ0KrnvRmWA9rJH11gkDaB7j3ZVaHdbDC0WQKxLc3JyEQthxYZDYaHiALgkumu4THQiiSwg-tVmlZTR5cYpJkmrAO9IkqylNlzK3xm3bcTrQP-lTwZEqNzstcZ4jEA7chNAVRBpp_A5Go7AlEDnzU5FB0gg9itRS_GartTXgESOuFmlwdWFu9o73Xs5in17D8zPVpUtW4Y_dISti1ZN85dg0-ctVsIyFp9NyD12ZXlXM1bMFRHSf3P564oFF9c33vXCiEdQwAllUX9nnenHt55GABMSXHP8kIJgmgWd-xDqKpNRUfWx1XdP3m-hD0IAofS2v64uC9yQu7wVLjgGGEmxVFb_5"
+        }
+      ]
+    },
+    {
+      "name": "Tipo de trabajo",
+      "options": [
+        {
+          "name": "Tiempo completo",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4rVVNivViyVtms2aJvUHdkkISxr4yEkXatfYtEbsR-sLGthooij8tLrhm-lSi-rcL38bKkllX6BDCPzlW7TtgA_ojHjtDTp6PeRet6FFh9H4nB3WqRi_Db0IR8GkLQUIScVQyXkZOCFf43NXG0oDiZQvO9b9Y371m-L4X8RDw8FmbvGvYmcgzmr_BQBdpHfk8bTA6P_lLrjS6r4UK7O66l-a88-HGctHNlyCleDh6mdkXCsjEHb_ctl2EJU653kvnqH0IaUCwFNVWpq7TH6FQvz4wNy6Jmt0yu09wSanwiFPHEPz5QciE4xsGbDaT9WJODD2kj7pSneL6rMcsaX9HOEFH-MPY",
+            "q": "Data Analyst tiempo completo"
+          },
+          "link": "https://www.google.com/search?sca_esv=2d6c5a1e6a3d194c&gl=pe&hl=es&sxsrf=APpeQnsVTR7Q9mSBR6JjsloxgVwiOmj5GQ:1790568518309&q=Data+Analyst+tiempo+completo&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rVVNivViyVtms2aJvUHdkkISxr4yEkXatfYtEbsR-sLGthooij8tLrhm-lSi-rcL38bKkllX6BDCPzlW7TtgA_ojHjtDTp6PeRet6FFh9H4nB3WqRi_Db0IR8GkLQUIScVQyXkZOCFf43NXG0oDiZQvO9b9Y371m-L4X8RDw8FmbvGvYmcgzmr_BQBdpHfk8bTA6P_lLrjS6r4UK7O66l-a88-HGctHNlyCleDh6mdkXCsjEHb_ctl2EJU653kvnqH0IaUCwFNVWpq7TH6FQvz4wNy6Jmt0yu09wSanwiFPHEPz5QciE4xsGbDaT9WJODD2kj7pSneL6rMcsaX9HOEFH-MPY&udm=8&sa=X&ved=2ahUKEwi89urDs5CXAxU6LFkFHZNGAIUQkbEKegQIJBAC",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=pe&google_domain=google.com&hl=es&location=Peru&q=Data+Analyst+tiempo+completo&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rVVNivViyVtms2aJvUHdkkISxr4yEkXatfYtEbsR-sLGthooij8tLrhm-lSi-rcL38bKkllX6BDCPzlW7TtgA_ojHjtDTp6PeRet6FFh9H4nB3WqRi_Db0IR8GkLQUIScVQyXkZOCFf43NXG0oDiZQvO9b9Y371m-L4X8RDw8FmbvGvYmcgzmr_BQBdpHfk8bTA6P_lLrjS6r4UK7O66l-a88-HGctHNlyCleDh6mdkXCsjEHb_ctl2EJU653kvnqH0IaUCwFNVWpq7TH6FQvz4wNy6Jmt0yu09wSanwiFPHEPz5QciE4xsGbDaT9WJODD2kj7pSneL6rMcsaX9HOEFH-MPY"
+        },
+        {
+          "name": "Tiempo parcial",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4rXzHIyNPKeBBr4Y3zXpQgNaF3owk30IgHl4uUQIInVLnQJcuUPY37hRp-DX-zeRq95QUofak_vZOqG2z289EEdr0GOnUrJt0IrGv5MNT0xjLxhTWJI-zWKFdWjj4KdWvDVt2sEqoaFIfzRvYEg1KDWV-OyTBL4uEKUEoFOmwSzkPWMkOVU-MAb2VzaRHpPgHE-N8ankkcl-FOFcJ1JdLj9ikJUBZ1_d9BuCFC9sX1uTb9TDbjkQ0n3ER397-K4FujIaeXUKDNtD6QJJDPKI11_Vi11khbphh2NbwJKoyYy4VdkLfkT0DTMFUN-Pt3vyxkIPB8LLJqLo8PHStJWfy0sRendaw",
+            "q": "Data Analyst tiempo parcial"
+          },
+          "link": "https://www.google.com/search?sca_esv=2d6c5a1e6a3d194c&gl=pe&hl=es&sxsrf=APpeQnsVTR7Q9mSBR6JjsloxgVwiOmj5GQ:1790568518309&q=Data+Analyst+tiempo+parcial&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rXzHIyNPKeBBr4Y3zXpQgNaF3owk30IgHl4uUQIInVLnQJcuUPY37hRp-DX-zeRq95QUofak_vZOqG2z289EEdr0GOnUrJt0IrGv5MNT0xjLxhTWJI-zWKFdWjj4KdWvDVt2sEqoaFIfzRvYEg1KDWV-OyTBL4uEKUEoFOmwSzkPWMkOVU-MAb2VzaRHpPgHE-N8ankkcl-FOFcJ1JdLj9ikJUBZ1_d9BuCFC9sX1uTb9TDbjkQ0n3ER397-K4FujIaeXUKDNtD6QJJDPKI11_Vi11khbphh2NbwJKoyYy4VdkLfkT0DTMFUN-Pt3vyxkIPB8LLJqLo8PHStJWfy0sRendaw&udm=8&sa=X&ved=2ahUKEwi89urDs5CXAxU6LFkFHZNGAIUQkbEKegQIJBAD",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=pe&google_domain=google.com&hl=es&location=Peru&q=Data+Analyst+tiempo+parcial&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rXzHIyNPKeBBr4Y3zXpQgNaF3owk30IgHl4uUQIInVLnQJcuUPY37hRp-DX-zeRq95QUofak_vZOqG2z289EEdr0GOnUrJt0IrGv5MNT0xjLxhTWJI-zWKFdWjj4KdWvDVt2sEqoaFIfzRvYEg1KDWV-OyTBL4uEKUEoFOmwSzkPWMkOVU-MAb2VzaRHpPgHE-N8ankkcl-FOFcJ1JdLj9ikJUBZ1_d9BuCFC9sX1uTb9TDbjkQ0n3ER397-K4FujIaeXUKDNtD6QJJDPKI11_Vi11khbphh2NbwJKoyYy4VdkLfkT0DTMFUN-Pt3vyxkIPB8LLJqLo8PHStJWfy0sRendaw"
+        },
+        {
+          "name": "Con contrato",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4rQonYkCRW-NujNKCBS-AWkOXu2NtMa4eJ9d9-mULAqWjokWN9Z9tpXGV2ZiP8vTJYkLk9GDrigazaaeABmebK0ebMnmp9mWoVFlHJv1HQG6kiT1ew5FXeCxvB_UsYqOOQdoNkWK2iXliWx0crgdNgjU_uGqZeC7rCJE1jGClHaOriX6UK9mKeosjNdA8VcpcWrSbNYeZakyQc4YfchmM-rN8WMmPB1d6J3h1g4g7qC_qFpIVpKAFTyEtrKcuzIiXUvbkWwXq086scjeDN6C5oN-G3hYBT9v3IHU1E0xAF0Gr57uotcwGeUXo2-tDpfe0_3Kk7zItdeY0Txj5L3OS04F3GCcg",
+            "q": "Data Analyst con contrato"
+          },
+          "link": "https://www.google.com/search?sca_esv=2d6c5a1e6a3d194c&gl=pe&hl=es&sxsrf=APpeQnsVTR7Q9mSBR6JjsloxgVwiOmj5GQ:1790568518309&q=Data+Analyst+con+contrato&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rQonYkCRW-NujNKCBS-AWkOXu2NtMa4eJ9d9-mULAqWjokWN9Z9tpXGV2ZiP8vTJYkLk9GDrigazaaeABmebK0ebMnmp9mWoVFlHJv1HQG6kiT1ew5FXeCxvB_UsYqOOQdoNkWK2iXliWx0crgdNgjU_uGqZeC7rCJE1jGClHaOriX6UK9mKeosjNdA8VcpcWrSbNYeZakyQc4YfchmM-rN8WMmPB1d6J3h1g4g7qC_qFpIVpKAFTyEtrKcuzIiXUvbkWwXq086scjeDN6C5oN-G3hYBT9v3IHU1E0xAF0Gr57uotcwGeUXo2-tDpfe0_3Kk7zItdeY0Txj5L3OS04F3GCcg&udm=8&sa=X&ved=2ahUKEwi89urDs5CXAxU6LFkFHZNGAIUQkbEKegQIJBAE",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=pe&google_domain=google.com&hl=es&location=Peru&q=Data+Analyst+con+contrato&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rQonYkCRW-NujNKCBS-AWkOXu2NtMa4eJ9d9-mULAqWjokWN9Z9tpXGV2ZiP8vTJYkLk9GDrigazaaeABmebK0ebMnmp9mWoVFlHJv1HQG6kiT1ew5FXeCxvB_UsYqOOQdoNkWK2iXliWx0crgdNgjU_uGqZeC7rCJE1jGClHaOriX6UK9mKeosjNdA8VcpcWrSbNYeZakyQc4YfchmM-rN8WMmPB1d6J3h1g4g7qC_qFpIVpKAFTyEtrKcuzIiXUvbkWwXq086scjeDN6C5oN-G3hYBT9v3IHU1E0xAF0Gr57uotcwGeUXo2-tDpfe0_3Kk7zItdeY0Txj5L3OS04F3GCcg"
+        },
+        {
+          "name": "Prácticas",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4ryl08Hl0dNFdbQMF0ko5QVqtVgx_693e0Bo4mukB35zG3cwb9RE8whTNqNOK1fj87vyV1WIaKGE5POc4_YN_g9Alwn384paY2kPe2B-tCVMaXX0IWA5goc28dz9TvKNNQxnWwLB-7_nd0z6nszDRe2i8_yKhRcH6bvXwHtVHVvvz1ntIvwYmLgyTVc-mlRJYaIzRX7OLMn7sCU0VYqSODqIK-kyeaUd1XXBFREDzCZUpvUjojAsq0p55BPWRUuAXDIva1YIibDm0BHZy2nNsbt97v8T12MKi3uE3LGpjv1xYijYg4da5xAaCwBop23Iih12PBJbEmP1PfuFZTUNaDIMFRyIM",
+            "q": "Data Analyst prácticas"
+          },
+          "link": "https://www.google.com/search?sca_esv=2d6c5a1e6a3d194c&gl=pe&hl=es&sxsrf=APpeQnsVTR7Q9mSBR6JjsloxgVwiOmj5GQ:1790568518309&q=Data+Analyst+pr%C3%A1cticas&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4ryl08Hl0dNFdbQMF0ko5QVqtVgx_693e0Bo4mukB35zG3cwb9RE8whTNqNOK1fj87vyV1WIaKGE5POc4_YN_g9Alwn384paY2kPe2B-tCVMaXX0IWA5goc28dz9TvKNNQxnWwLB-7_nd0z6nszDRe2i8_yKhRcH6bvXwHtVHVvvz1ntIvwYmLgyTVc-mlRJYaIzRX7OLMn7sCU0VYqSODqIK-kyeaUd1XXBFREDzCZUpvUjojAsq0p55BPWRUuAXDIva1YIibDm0BHZy2nNsbt97v8T12MKi3uE3LGpjv1xYijYg4da5xAaCwBop23Iih12PBJbEmP1PfuFZTUNaDIMFRyIM&udm=8&sa=X&ved=2ahUKEwi89urDs5CXAxU6LFkFHZNGAIUQkbEKegQIJBAF",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=pe&google_domain=google.com&hl=es&location=Peru&q=Data+Analyst+pr%C3%A1cticas&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4ryl08Hl0dNFdbQMF0ko5QVqtVgx_693e0Bo4mukB35zG3cwb9RE8whTNqNOK1fj87vyV1WIaKGE5POc4_YN_g9Alwn384paY2kPe2B-tCVMaXX0IWA5goc28dz9TvKNNQxnWwLB-7_nd0z6nszDRe2i8_yKhRcH6bvXwHtVHVvvz1ntIvwYmLgyTVc-mlRJYaIzRX7OLMn7sCU0VYqSODqIK-kyeaUd1XXBFREDzCZUpvUjojAsq0p55BPWRUuAXDIva1YIibDm0BHZy2nNsbt97v8T12MKi3uE3LGpjv1xYijYg4da5xAaCwBop23Iih12PBJbEmP1PfuFZTUNaDIMFRyIM"
+        }
+      ]
+    },
+    {
+      "name": "Tipo de trabajo",
+      "options": [
+        {
+          "name": "Tiempo completo",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4rVVNivViyVtms2aJvUHdkkISxr4yEkXatfYtEbsR-sLGthooij8tLrhm-lSi-rcL38bKkllX6BDCPzlW7TtgA_ojHjtDTp6PeRet6FFh9H4nB3WqRi_Db0IR8GkLQUIScVQyXkZOCFf43NXG0oDiZQvO9b9Y371m-L4X8RDw8FmbvGvYmcgzmr_BQBdpHfk8bTA6P_lLrjS6r4UK7O66l-a88-HGctHNlyCleDh6mdkXCsjEHb_ctl2EJU653kvnqH0IaUCwFNVWpq7TH6FQvz4wNy6Jmt0yu09wSanwiFPHEPz5QciE4xsGbDaT9WJODD2kj7pSneL6rMcsaX9HOEFH-MPY",
+            "q": "Data Analyst tiempo completo"
+          },
+          "link": "https://www.google.com/search?sca_esv=2d6c5a1e6a3d194c&gl=pe&hl=es&sxsrf=APpeQnsVTR7Q9mSBR6JjsloxgVwiOmj5GQ:1790568518309&q=Data+Analyst+tiempo+completo&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rVVNivViyVtms2aJvUHdkkISxr4yEkXatfYtEbsR-sLGthooij8tLrhm-lSi-rcL38bKkllX6BDCPzlW7TtgA_ojHjtDTp6PeRet6FFh9H4nB3WqRi_Db0IR8GkLQUIScVQyXkZOCFf43NXG0oDiZQvO9b9Y371m-L4X8RDw8FmbvGvYmcgzmr_BQBdpHfk8bTA6P_lLrjS6r4UK7O66l-a88-HGctHNlyCleDh6mdkXCsjEHb_ctl2EJU653kvnqH0IaUCwFNVWpq7TH6FQvz4wNy6Jmt0yu09wSanwiFPHEPz5QciE4xsGbDaT9WJODD2kj7pSneL6rMcsaX9HOEFH-MPY&udm=8&sa=X&ved=2ahUKEwi89urDs5CXAxU6LFkFHZNGAIUQkbEKegQIJBAC",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=pe&google_domain=google.com&hl=es&location=Peru&q=Data+Analyst+tiempo+completo&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rVVNivViyVtms2aJvUHdkkISxr4yEkXatfYtEbsR-sLGthooij8tLrhm-lSi-rcL38bKkllX6BDCPzlW7TtgA_ojHjtDTp6PeRet6FFh9H4nB3WqRi_Db0IR8GkLQUIScVQyXkZOCFf43NXG0oDiZQvO9b9Y371m-L4X8RDw8FmbvGvYmcgzmr_BQBdpHfk8bTA6P_lLrjS6r4UK7O66l-a88-HGctHNlyCleDh6mdkXCsjEHb_ctl2EJU653kvnqH0IaUCwFNVWpq7TH6FQvz4wNy6Jmt0yu09wSanwiFPHEPz5QciE4xsGbDaT9WJODD2kj7pSneL6rMcsaX9HOEFH-MPY"
+        },
+        {
+          "name": "Tiempo parcial",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4rXzHIyNPKeBBr4Y3zXpQgNaF3owk30IgHl4uUQIInVLnQJcuUPY37hRp-DX-zeRq95QUofak_vZOqG2z289EEdr0GOnUrJt0IrGv5MNT0xjLxhTWJI-zWKFdWjj4KdWvDVt2sEqoaFIfzRvYEg1KDWV-OyTBL4uEKUEoFOmwSzkPWMkOVU-MAb2VzaRHpPgHE-N8ankkcl-FOFcJ1JdLj9ikJUBZ1_d9BuCFC9sX1uTb9TDbjkQ0n3ER397-K4FujIaeXUKDNtD6QJJDPKI11_Vi11khbphh2NbwJKoyYy4VdkLfkT0DTMFUN-Pt3vyxkIPB8LLJqLo8PHStJWfy0sRendaw",
+            "q": "Data Analyst tiempo parcial"
+          },
+          "link": "https://www.google.com/search?sca_esv=2d6c5a1e6a3d194c&gl=pe&hl=es&sxsrf=APpeQnsVTR7Q9mSBR6JjsloxgVwiOmj5GQ:1790568518309&q=Data+Analyst+tiempo+parcial&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rXzHIyNPKeBBr4Y3zXpQgNaF3owk30IgHl4uUQIInVLnQJcuUPY37hRp-DX-zeRq95QUofak_vZOqG2z289EEdr0GOnUrJt0IrGv5MNT0xjLxhTWJI-zWKFdWjj4KdWvDVt2sEqoaFIfzRvYEg1KDWV-OyTBL4uEKUEoFOmwSzkPWMkOVU-MAb2VzaRHpPgHE-N8ankkcl-FOFcJ1JdLj9ikJUBZ1_d9BuCFC9sX1uTb9TDbjkQ0n3ER397-K4FujIaeXUKDNtD6QJJDPKI11_Vi11khbphh2NbwJKoyYy4VdkLfkT0DTMFUN-Pt3vyxkIPB8LLJqLo8PHStJWfy0sRendaw&udm=8&sa=X&ved=2ahUKEwi89urDs5CXAxU6LFkFHZNGAIUQkbEKegQIJBAD",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=pe&google_domain=google.com&hl=es&location=Peru&q=Data+Analyst+tiempo+parcial&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rXzHIyNPKeBBr4Y3zXpQgNaF3owk30IgHl4uUQIInVLnQJcuUPY37hRp-DX-zeRq95QUofak_vZOqG2z289EEdr0GOnUrJt0IrGv5MNT0xjLxhTWJI-zWKFdWjj4KdWvDVt2sEqoaFIfzRvYEg1KDWV-OyTBL4uEKUEoFOmwSzkPWMkOVU-MAb2VzaRHpPgHE-N8ankkcl-FOFcJ1JdLj9ikJUBZ1_d9BuCFC9sX1uTb9TDbjkQ0n3ER397-K4FujIaeXUKDNtD6QJJDPKI11_Vi11khbphh2NbwJKoyYy4VdkLfkT0DTMFUN-Pt3vyxkIPB8LLJqLo8PHStJWfy0sRendaw"
+        },
+        {
+          "name": "Con contrato",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4rQonYkCRW-NujNKCBS-AWkOXu2NtMa4eJ9d9-mULAqWjokWN9Z9tpXGV2ZiP8vTJYkLk9GDrigazaaeABmebK0ebMnmp9mWoVFlHJv1HQG6kiT1ew5FXeCxvB_UsYqOOQdoNkWK2iXliWx0crgdNgjU_uGqZeC7rCJE1jGClHaOriX6UK9mKeosjNdA8VcpcWrSbNYeZakyQc4YfchmM-rN8WMmPB1d6J3h1g4g7qC_qFpIVpKAFTyEtrKcuzIiXUvbkWwXq086scjeDN6C5oN-G3hYBT9v3IHU1E0xAF0Gr57uotcwGeUXo2-tDpfe0_3Kk7zItdeY0Txj5L3OS04F3GCcg",
+            "q": "Data Analyst con contrato"
+          },
+          "link": "https://www.google.com/search?sca_esv=2d6c5a1e6a3d194c&gl=pe&hl=es&sxsrf=APpeQnsVTR7Q9mSBR6JjsloxgVwiOmj5GQ:1790568518309&q=Data+Analyst+con+contrato&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rQonYkCRW-NujNKCBS-AWkOXu2NtMa4eJ9d9-mULAqWjokWN9Z9tpXGV2ZiP8vTJYkLk9GDrigazaaeABmebK0ebMnmp9mWoVFlHJv1HQG6kiT1ew5FXeCxvB_UsYqOOQdoNkWK2iXliWx0crgdNgjU_uGqZeC7rCJE1jGClHaOriX6UK9mKeosjNdA8VcpcWrSbNYeZakyQc4YfchmM-rN8WMmPB1d6J3h1g4g7qC_qFpIVpKAFTyEtrKcuzIiXUvbkWwXq086scjeDN6C5oN-G3hYBT9v3IHU1E0xAF0Gr57uotcwGeUXo2-tDpfe0_3Kk7zItdeY0Txj5L3OS04F3GCcg&udm=8&sa=X&ved=2ahUKEwi89urDs5CXAxU6LFkFHZNGAIUQkbEKegQIJBAE",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=pe&google_domain=google.com&hl=es&location=Peru&q=Data+Analyst+con+contrato&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rQonYkCRW-NujNKCBS-AWkOXu2NtMa4eJ9d9-mULAqWjokWN9Z9tpXGV2ZiP8vTJYkLk9GDrigazaaeABmebK0ebMnmp9mWoVFlHJv1HQG6kiT1ew5FXeCxvB_UsYqOOQdoNkWK2iXliWx0crgdNgjU_uGqZeC7rCJE1jGClHaOriX6UK9mKeosjNdA8VcpcWrSbNYeZakyQc4YfchmM-rN8WMmPB1d6J3h1g4g7qC_qFpIVpKAFTyEtrKcuzIiXUvbkWwXq086scjeDN6C5oN-G3hYBT9v3IHU1E0xAF0Gr57uotcwGeUXo2-tDpfe0_3Kk7zItdeY0Txj5L3OS04F3GCcg"
+        },
+        {
+          "name": "Prácticas",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4ryl08Hl0dNFdbQMF0ko5QVqtVgx_693e0Bo4mukB35zG3cwb9RE8whTNqNOK1fj87vyV1WIaKGE5POc4_YN_g9Alwn384paY2kPe2B-tCVMaXX0IWA5goc28dz9TvKNNQxnWwLB-7_nd0z6nszDRe2i8_yKhRcH6bvXwHtVHVvvz1ntIvwYmLgyTVc-mlRJYaIzRX7OLMn7sCU0VYqSODqIK-kyeaUd1XXBFREDzCZUpvUjojAsq0p55BPWRUuAXDIva1YIibDm0BHZy2nNsbt97v8T12MKi3uE3LGpjv1xYijYg4da5xAaCwBop23Iih12PBJbEmP1PfuFZTUNaDIMFRyIM",
+            "q": "Data Analyst prácticas"
+          },
+          "link": "https://www.google.com/search?sca_esv=2d6c5a1e6a3d194c&gl=pe&hl=es&sxsrf=APpeQnsVTR7Q9mSBR6JjsloxgVwiOmj5GQ:1790568518309&q=Data+Analyst+pr%C3%A1cticas&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4ryl08Hl0dNFdbQMF0ko5QVqtVgx_693e0Bo4mukB35zG3cwb9RE8whTNqNOK1fj87vyV1WIaKGE5POc4_YN_g9Alwn384paY2kPe2B-tCVMaXX0IWA5goc28dz9TvKNNQxnWwLB-7_nd0z6nszDRe2i8_yKhRcH6bvXwHtVHVvvz1ntIvwYmLgyTVc-mlRJYaIzRX7OLMn7sCU0VYqSODqIK-kyeaUd1XXBFREDzCZUpvUjojAsq0p55BPWRUuAXDIva1YIibDm0BHZy2nNsbt97v8T12MKi3uE3LGpjv1xYijYg4da5xAaCwBop23Iih12PBJbEmP1PfuFZTUNaDIMFRyIM&udm=8&sa=X&ved=2ahUKEwi89urDs5CXAxU6LFkFHZNGAIUQkbEKegQIJBAF",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=pe&google_domain=google.com&hl=es&location=Peru&q=Data+Analyst+pr%C3%A1cticas&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4ryl08Hl0dNFdbQMF0ko5QVqtVgx_693e0Bo4mukB35zG3cwb9RE8whTNqNOK1fj87vyV1WIaKGE5POc4_YN_g9Alwn384paY2kPe2B-tCVMaXX0IWA5goc28dz9TvKNNQxnWwLB-7_nd0z6nszDRe2i8_yKhRcH6bvXwHtVHVvvz1ntIvwYmLgyTVc-mlRJYaIzRX7OLMn7sCU0VYqSODqIK-kyeaUd1XXBFREDzCZUpvUjojAsq0p55BPWRUuAXDIva1YIibDm0BHZy2nNsbt97v8T12MKi3uE3LGpjv1xYijYg4da5xAaCwBop23Iih12PBJbEmP1PfuFZTUNaDIMFRyIM"
+        }
+      ]
+    },
+    {
+      "name": "Fecha de publicación",
+      "options": [
+        {
+          "name": "Ayer",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4rM2xmP9BqdacKvs8R5NlSSey9fx39JtVjhJ2WqW-9ZGN1iOlbtUev-sbSTB-6pGEi_jWZ-JvGWW5_D0pcfR9JhJekvE445rb0BcnOAf2FC76V5pQ8mYydrWqMDI03AH8hPwJAxVttRarvuZiSFC5mkQRb_EcW_LsMHoDwEwNKPA-_wtdGIuiPk1_JuKGMBK4sR-eA60i3f9LQCrWILApp99QDPF6T37Jiq3UAQkPyp1mKnvv9_7HF6LvRgbGiDw2p5pqEhJHfkH8QLidzWuDMUPvTgShwG-cTZ9aedXnaUSNJ_H9xX_ua0k5zNFcyjc1rGFPNrVqVRu7rnqDHIjZMR2JpUEpt9S0qVPyIb1iBTXftWQ09",
+            "q": "Data Analyst desde ayer"
+          },
+          "link": "https://www.google.com/search?sca_esv=2d6c5a1e6a3d194c&gl=pe&hl=es&sxsrf=APpeQnsVTR7Q9mSBR6JjsloxgVwiOmj5GQ:1790568518309&q=Data+Analyst+desde+ayer&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rM2xmP9BqdacKvs8R5NlSSey9fx39JtVjhJ2WqW-9ZGN1iOlbtUev-sbSTB-6pGEi_jWZ-JvGWW5_D0pcfR9JhJekvE445rb0BcnOAf2FC76V5pQ8mYydrWqMDI03AH8hPwJAxVttRarvuZiSFC5mkQRb_EcW_LsMHoDwEwNKPA-_wtdGIuiPk1_JuKGMBK4sR-eA60i3f9LQCrWILApp99QDPF6T37Jiq3UAQkPyp1mKnvv9_7HF6LvRgbGiDw2p5pqEhJHfkH8QLidzWuDMUPvTgShwG-cTZ9aedXnaUSNJ_H9xX_ua0k5zNFcyjc1rGFPNrVqVRu7rnqDHIjZMR2JpUEpt9S0qVPyIb1iBTXftWQ09&udm=8&sa=X&ved=2ahUKEwi89urDs5CXAxU6LFkFHZNGAIUQkbEKegQIJhAC",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=pe&google_domain=google.com&hl=es&location=Peru&q=Data+Analyst+desde+ayer&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rM2xmP9BqdacKvs8R5NlSSey9fx39JtVjhJ2WqW-9ZGN1iOlbtUev-sbSTB-6pGEi_jWZ-JvGWW5_D0pcfR9JhJekvE445rb0BcnOAf2FC76V5pQ8mYydrWqMDI03AH8hPwJAxVttRarvuZiSFC5mkQRb_EcW_LsMHoDwEwNKPA-_wtdGIuiPk1_JuKGMBK4sR-eA60i3f9LQCrWILApp99QDPF6T37Jiq3UAQkPyp1mKnvv9_7HF6LvRgbGiDw2p5pqEhJHfkH8QLidzWuDMUPvTgShwG-cTZ9aedXnaUSNJ_H9xX_ua0k5zNFcyjc1rGFPNrVqVRu7rnqDHIjZMR2JpUEpt9S0qVPyIb1iBTXftWQ09"
+        },
+        {
+          "name": "Últimos 3 días",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4r-KsSjZZKsw6pqqtXgLmUrcMFPM56IwlNxVJJ0S4pHwja4_VnyBWSlfdBsJUHSHgkYFtL86LT1A0W9bPp78pUB3rczzU3X9HH6jlxo1KZkQCeMPEUOaz1PcC3E6y50Z7bnJlYpZ7EUa7rVDlhAtMWZ02SeC2-ZpuBqE8TgT_dzKlWzWC3CKh8V6ZBiNQUHb9iYqqZi9tL6Z_f7L3809DathIwKdASKf6aK8lep7SrRzf6y_hNL3HLLd43TPTIajGx0bIUQvEGMINMN3DDZXaqApBlNOvDzWPSK9p2p0U13iMy0K_tySYcoHS0XAOFlDS2l_iaN0P1OZEk_EDVaXZLZoI8WBqbB9oGLK_BK5vllS4RPHYd",
+            "q": "Data Analyst en los últimos 3 días"
+          },
+          "link": "https://www.google.com/search?sca_esv=2d6c5a1e6a3d194c&gl=pe&hl=es&sxsrf=APpeQnsVTR7Q9mSBR6JjsloxgVwiOmj5GQ:1790568518309&q=Data+Analyst+en+los+%C3%BAltimos+3+d%C3%ADas&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4r-KsSjZZKsw6pqqtXgLmUrcMFPM56IwlNxVJJ0S4pHwja4_VnyBWSlfdBsJUHSHgkYFtL86LT1A0W9bPp78pUB3rczzU3X9HH6jlxo1KZkQCeMPEUOaz1PcC3E6y50Z7bnJlYpZ7EUa7rVDlhAtMWZ02SeC2-ZpuBqE8TgT_dzKlWzWC3CKh8V6ZBiNQUHb9iYqqZi9tL6Z_f7L3809DathIwKdASKf6aK8lep7SrRzf6y_hNL3HLLd43TPTIajGx0bIUQvEGMINMN3DDZXaqApBlNOvDzWPSK9p2p0U13iMy0K_tySYcoHS0XAOFlDS2l_iaN0P1OZEk_EDVaXZLZoI8WBqbB9oGLK_BK5vllS4RPHYd&udm=8&sa=X&ved=2ahUKEwi89urDs5CXAxU6LFkFHZNGAIUQkbEKegQIJhAD",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=pe&google_domain=google.com&hl=es&location=Peru&q=Data+Analyst+en+los+%C3%BAltimos+3+d%C3%ADas&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4r-KsSjZZKsw6pqqtXgLmUrcMFPM56IwlNxVJJ0S4pHwja4_VnyBWSlfdBsJUHSHgkYFtL86LT1A0W9bPp78pUB3rczzU3X9HH6jlxo1KZkQCeMPEUOaz1PcC3E6y50Z7bnJlYpZ7EUa7rVDlhAtMWZ02SeC2-ZpuBqE8TgT_dzKlWzWC3CKh8V6ZBiNQUHb9iYqqZi9tL6Z_f7L3809DathIwKdASKf6aK8lep7SrRzf6y_hNL3HLLd43TPTIajGx0bIUQvEGMINMN3DDZXaqApBlNOvDzWPSK9p2p0U13iMy0K_tySYcoHS0XAOFlDS2l_iaN0P1OZEk_EDVaXZLZoI8WBqbB9oGLK_BK5vllS4RPHYd"
+        },
+        {
+          "name": "Última semana",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4rYfX9qx7BEx7wzihEPQG9Yia9GA8DZyXF4YoMjdqbiFj7hH_EL7DQVt9M4-o11c_CqtuZ61xRYp6ohBRwtNgvc78iB9Q3ipqkrvRUAi8rhJKGpqZWYZH7-ZosJmB1OGY-xY1GZtJpt7V5op2bG99r7MwIwHHp9X2jXSbJ_IKzYnSsCl0qAZ84eH5Bpg3_iZ53JNGlKUb3JoGApPBt07pGWzBRSUSBxTGl_hJykmtngHfzjkiV9CNrl7-QR3Dp9PG3RnT8p2bVTmot_DhcKl1oKZgGN2zghDL6mnYeDN9Cpccr_S_TC010IJkkMKgpNg0ydsfd3H9Go3DqHLREmkMndWNXkeN5IpGXUwutNnu9vPsk2C4U",
+            "q": "Data Analyst en la última semana"
+          },
+          "link": "https://www.google.com/search?sca_esv=2d6c5a1e6a3d194c&gl=pe&hl=es&sxsrf=APpeQnsVTR7Q9mSBR6JjsloxgVwiOmj5GQ:1790568518309&q=Data+Analyst+en+la+%C3%BAltima+semana&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rYfX9qx7BEx7wzihEPQG9Yia9GA8DZyXF4YoMjdqbiFj7hH_EL7DQVt9M4-o11c_CqtuZ61xRYp6ohBRwtNgvc78iB9Q3ipqkrvRUAi8rhJKGpqZWYZH7-ZosJmB1OGY-xY1GZtJpt7V5op2bG99r7MwIwHHp9X2jXSbJ_IKzYnSsCl0qAZ84eH5Bpg3_iZ53JNGlKUb3JoGApPBt07pGWzBRSUSBxTGl_hJykmtngHfzjkiV9CNrl7-QR3Dp9PG3RnT8p2bVTmot_DhcKl1oKZgGN2zghDL6mnYeDN9Cpccr_S_TC010IJkkMKgpNg0ydsfd3H9Go3DqHLREmkMndWNXkeN5IpGXUwutNnu9vPsk2C4U&udm=8&sa=X&ved=2ahUKEwi89urDs5CXAxU6LFkFHZNGAIUQkbEKegQIJhAE",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=pe&google_domain=google.com&hl=es&location=Peru&q=Data+Analyst+en+la+%C3%BAltima+semana&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rYfX9qx7BEx7wzihEPQG9Yia9GA8DZyXF4YoMjdqbiFj7hH_EL7DQVt9M4-o11c_CqtuZ61xRYp6ohBRwtNgvc78iB9Q3ipqkrvRUAi8rhJKGpqZWYZH7-ZosJmB1OGY-xY1GZtJpt7V5op2bG99r7MwIwHHp9X2jXSbJ_IKzYnSsCl0qAZ84eH5Bpg3_iZ53JNGlKUb3JoGApPBt07pGWzBRSUSBxTGl_hJykmtngHfzjkiV9CNrl7-QR3Dp9PG3RnT8p2bVTmot_DhcKl1oKZgGN2zghDL6mnYeDN9Cpccr_S_TC010IJkkMKgpNg0ydsfd3H9Go3DqHLREmkMndWNXkeN5IpGXUwutNnu9vPsk2C4U"
+        },
+        {
+          "name": "Último mes",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4rgO-Aw68bXRhyO5czSlwHlQ0KrnvRmWA9rJH11gkDaB7j3ZVaHdbDC0WQKxLc3JyEQthxYZDYaHiALgkumu4THQiiSwg-tVmlZTR5cYpJkmrAO9IkqylNlzK3xm3bcTrQP-lTwZEqNzstcZ4jEA7chNAVRBpp_A5Go7AlEDnzU5FB0gg9itRS_GartTXgESOuFmlwdWFu9o73Xs5in17D8zPVpUtW4Y_dISti1ZN85dg0-ctVsIyFp9NyD12ZXlXM1bMFRHSf3P564oFF9c33vXCiEdQwAllUX9nnenHt55GABMSXHP8kIJgmgWd-xDqKpNRUfWx1XdP3m-hD0IAofS2v64uC9yQu7wVLjgGGEmxVFb_5",
+            "q": "Data Analyst en el último mes"
+          },
+          "link": "https://www.google.com/search?sca_esv=2d6c5a1e6a3d194c&gl=pe&hl=es&sxsrf=APpeQnsVTR7Q9mSBR6JjsloxgVwiOmj5GQ:1790568518309&q=Data+Analyst+en+el+%C3%BAltimo+mes&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rgO-Aw68bXRhyO5czSlwHlQ0KrnvRmWA9rJH11gkDaB7j3ZVaHdbDC0WQKxLc3JyEQthxYZDYaHiALgkumu4THQiiSwg-tVmlZTR5cYpJkmrAO9IkqylNlzK3xm3bcTrQP-lTwZEqNzstcZ4jEA7chNAVRBpp_A5Go7AlEDnzU5FB0gg9itRS_GartTXgESOuFmlwdWFu9o73Xs5in17D8zPVpUtW4Y_dISti1ZN85dg0-ctVsIyFp9NyD12ZXlXM1bMFRHSf3P564oFF9c33vXCiEdQwAllUX9nnenHt55GABMSXHP8kIJgmgWd-xDqKpNRUfWx1XdP3m-hD0IAofS2v64uC9yQu7wVLjgGGEmxVFb_5&udm=8&sa=X&ved=2ahUKEwi89urDs5CXAxU6LFkFHZNGAIUQkbEKegQIJhAF",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=pe&google_domain=google.com&hl=es&location=Peru&q=Data+Analyst+en+el+%C3%BAltimo+mes&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rgO-Aw68bXRhyO5czSlwHlQ0KrnvRmWA9rJH11gkDaB7j3ZVaHdbDC0WQKxLc3JyEQthxYZDYaHiALgkumu4THQiiSwg-tVmlZTR5cYpJkmrAO9IkqylNlzK3xm3bcTrQP-lTwZEqNzstcZ4jEA7chNAVRBpp_A5Go7AlEDnzU5FB0gg9itRS_GartTXgESOuFmlwdWFu9o73Xs5in17D8zPVpUtW4Y_dISti1ZN85dg0-ctVsIyFp9NyD12ZXlXM1bMFRHSf3P564oFF9c33vXCiEdQwAllUX9nnenHt55GABMSXHP8kIJgmgWd-xDqKpNRUfWx1XdP3m-hD0IAofS2v64uC9yQu7wVLjgGGEmxVFb_5"
+        }
+      ]
+    },
+    {
+      "name": "Fecha de publicación",
+      "options": [
+        {
+          "name": "Ayer",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4rM2xmP9BqdacKvs8R5NlSSey9fx39JtVjhJ2WqW-9ZGN1iOlbtUev-sbSTB-6pGEi_jWZ-JvGWW5_D0pcfR9JhJekvE445rb0BcnOAf2FC76V5pQ8mYydrWqMDI03AH8hPwJAxVttRarvuZiSFC5mkQRb_EcW_LsMHoDwEwNKPA-_wtdGIuiPk1_JuKGMBK4sR-eA60i3f9LQCrWILApp99QDPF6T37Jiq3UAQkPyp1mKnvv9_7HF6LvRgbGiDw2p5pqEhJHfkH8QLidzWuDMUPvTgShwG-cTZ9aedXnaUSNJ_H9xX_ua0k5zNFcyjc1rGFPNrVqVRu7rnqDHIjZMR2JpUEpt9S0qVPyIb1iBTXftWQ09",
+            "q": "Data Analyst desde ayer"
+          },
+          "link": "https://www.google.com/search?sca_esv=2d6c5a1e6a3d194c&gl=pe&hl=es&sxsrf=APpeQnsVTR7Q9mSBR6JjsloxgVwiOmj5GQ:1790568518309&q=Data+Analyst+desde+ayer&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rM2xmP9BqdacKvs8R5NlSSey9fx39JtVjhJ2WqW-9ZGN1iOlbtUev-sbSTB-6pGEi_jWZ-JvGWW5_D0pcfR9JhJekvE445rb0BcnOAf2FC76V5pQ8mYydrWqMDI03AH8hPwJAxVttRarvuZiSFC5mkQRb_EcW_LsMHoDwEwNKPA-_wtdGIuiPk1_JuKGMBK4sR-eA60i3f9LQCrWILApp99QDPF6T37Jiq3UAQkPyp1mKnvv9_7HF6LvRgbGiDw2p5pqEhJHfkH8QLidzWuDMUPvTgShwG-cTZ9aedXnaUSNJ_H9xX_ua0k5zNFcyjc1rGFPNrVqVRu7rnqDHIjZMR2JpUEpt9S0qVPyIb1iBTXftWQ09&udm=8&sa=X&ved=2ahUKEwi89urDs5CXAxU6LFkFHZNGAIUQkbEKegQIJhAC",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=pe&google_domain=google.com&hl=es&location=Peru&q=Data+Analyst+desde+ayer&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rM2xmP9BqdacKvs8R5NlSSey9fx39JtVjhJ2WqW-9ZGN1iOlbtUev-sbSTB-6pGEi_jWZ-JvGWW5_D0pcfR9JhJekvE445rb0BcnOAf2FC76V5pQ8mYydrWqMDI03AH8hPwJAxVttRarvuZiSFC5mkQRb_EcW_LsMHoDwEwNKPA-_wtdGIuiPk1_JuKGMBK4sR-eA60i3f9LQCrWILApp99QDPF6T37Jiq3UAQkPyp1mKnvv9_7HF6LvRgbGiDw2p5pqEhJHfkH8QLidzWuDMUPvTgShwG-cTZ9aedXnaUSNJ_H9xX_ua0k5zNFcyjc1rGFPNrVqVRu7rnqDHIjZMR2JpUEpt9S0qVPyIb1iBTXftWQ09"
+        },
+        {
+          "name": "Últimos 3 días",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4r-KsSjZZKsw6pqqtXgLmUrcMFPM56IwlNxVJJ0S4pHwja4_VnyBWSlfdBsJUHSHgkYFtL86LT1A0W9bPp78pUB3rczzU3X9HH6jlxo1KZkQCeMPEUOaz1PcC3E6y50Z7bnJlYpZ7EUa7rVDlhAtMWZ02SeC2-ZpuBqE8TgT_dzKlWzWC3CKh8V6ZBiNQUHb9iYqqZi9tL6Z_f7L3809DathIwKdASKf6aK8lep7SrRzf6y_hNL3HLLd43TPTIajGx0bIUQvEGMINMN3DDZXaqApBlNOvDzWPSK9p2p0U13iMy0K_tySYcoHS0XAOFlDS2l_iaN0P1OZEk_EDVaXZLZoI8WBqbB9oGLK_BK5vllS4RPHYd",
+            "q": "Data Analyst en los últimos 3 días"
+          },
+          "link": "https://www.google.com/search?sca_esv=2d6c5a1e6a3d194c&gl=pe&hl=es&sxsrf=APpeQnsVTR7Q9mSBR6JjsloxgVwiOmj5GQ:1790568518309&q=Data+Analyst+en+los+%C3%BAltimos+3+d%C3%ADas&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4r-KsSjZZKsw6pqqtXgLmUrcMFPM56IwlNxVJJ0S4pHwja4_VnyBWSlfdBsJUHSHgkYFtL86LT1A0W9bPp78pUB3rczzU3X9HH6jlxo1KZkQCeMPEUOaz1PcC3E6y50Z7bnJlYpZ7EUa7rVDlhAtMWZ02SeC2-ZpuBqE8TgT_dzKlWzWC3CKh8V6ZBiNQUHb9iYqqZi9tL6Z_f7L3809DathIwKdASKf6aK8lep7SrRzf6y_hNL3HLLd43TPTIajGx0bIUQvEGMINMN3DDZXaqApBlNOvDzWPSK9p2p0U13iMy0K_tySYcoHS0XAOFlDS2l_iaN0P1OZEk_EDVaXZLZoI8WBqbB9oGLK_BK5vllS4RPHYd&udm=8&sa=X&ved=2ahUKEwi89urDs5CXAxU6LFkFHZNGAIUQkbEKegQIJhAD",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=pe&google_domain=google.com&hl=es&location=Peru&q=Data+Analyst+en+los+%C3%BAltimos+3+d%C3%ADas&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4r-KsSjZZKsw6pqqtXgLmUrcMFPM56IwlNxVJJ0S4pHwja4_VnyBWSlfdBsJUHSHgkYFtL86LT1A0W9bPp78pUB3rczzU3X9HH6jlxo1KZkQCeMPEUOaz1PcC3E6y50Z7bnJlYpZ7EUa7rVDlhAtMWZ02SeC2-ZpuBqE8TgT_dzKlWzWC3CKh8V6ZBiNQUHb9iYqqZi9tL6Z_f7L3809DathIwKdASKf6aK8lep7SrRzf6y_hNL3HLLd43TPTIajGx0bIUQvEGMINMN3DDZXaqApBlNOvDzWPSK9p2p0U13iMy0K_tySYcoHS0XAOFlDS2l_iaN0P1OZEk_EDVaXZLZoI8WBqbB9oGLK_BK5vllS4RPHYd"
+        },
+        {
+          "name": "Última semana",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4rYfX9qx7BEx7wzihEPQG9Yia9GA8DZyXF4YoMjdqbiFj7hH_EL7DQVt9M4-o11c_CqtuZ61xRYp6ohBRwtNgvc78iB9Q3ipqkrvRUAi8rhJKGpqZWYZH7-ZosJmB1OGY-xY1GZtJpt7V5op2bG99r7MwIwHHp9X2jXSbJ_IKzYnSsCl0qAZ84eH5Bpg3_iZ53JNGlKUb3JoGApPBt07pGWzBRSUSBxTGl_hJykmtngHfzjkiV9CNrl7-QR3Dp9PG3RnT8p2bVTmot_DhcKl1oKZgGN2zghDL6mnYeDN9Cpccr_S_TC010IJkkMKgpNg0ydsfd3H9Go3DqHLREmkMndWNXkeN5IpGXUwutNnu9vPsk2C4U",
+            "q": "Data Analyst en la última semana"
+          },
+          "link": "https://www.google.com/search?sca_esv=2d6c5a1e6a3d194c&gl=pe&hl=es&sxsrf=APpeQnsVTR7Q9mSBR6JjsloxgVwiOmj5GQ:1790568518309&q=Data+Analyst+en+la+%C3%BAltima+semana&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rYfX9qx7BEx7wzihEPQG9Yia9GA8DZyXF4YoMjdqbiFj7hH_EL7DQVt9M4-o11c_CqtuZ61xRYp6ohBRwtNgvc78iB9Q3ipqkrvRUAi8rhJKGpqZWYZH7-ZosJmB1OGY-xY1GZtJpt7V5op2bG99r7MwIwHHp9X2jXSbJ_IKzYnSsCl0qAZ84eH5Bpg3_iZ53JNGlKUb3JoGApPBt07pGWzBRSUSBxTGl_hJykmtngHfzjkiV9CNrl7-QR3Dp9PG3RnT8p2bVTmot_DhcKl1oKZgGN2zghDL6mnYeDN9Cpccr_S_TC010IJkkMKgpNg0ydsfd3H9Go3DqHLREmkMndWNXkeN5IpGXUwutNnu9vPsk2C4U&udm=8&sa=X&ved=2ahUKEwi89urDs5CXAxU6LFkFHZNGAIUQkbEKegQIJhAE",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=pe&google_domain=google.com&hl=es&location=Peru&q=Data+Analyst+en+la+%C3%BAltima+semana&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rYfX9qx7BEx7wzihEPQG9Yia9GA8DZyXF4YoMjdqbiFj7hH_EL7DQVt9M4-o11c_CqtuZ61xRYp6ohBRwtNgvc78iB9Q3ipqkrvRUAi8rhJKGpqZWYZH7-ZosJmB1OGY-xY1GZtJpt7V5op2bG99r7MwIwHHp9X2jXSbJ_IKzYnSsCl0qAZ84eH5Bpg3_iZ53JNGlKUb3JoGApPBt07pGWzBRSUSBxTGl_hJykmtngHfzjkiV9CNrl7-QR3Dp9PG3RnT8p2bVTmot_DhcKl1oKZgGN2zghDL6mnYeDN9Cpccr_S_TC010IJkkMKgpNg0ydsfd3H9Go3DqHLREmkMndWNXkeN5IpGXUwutNnu9vPsk2C4U"
+        },
+        {
+          "name": "Último mes",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4rgO-Aw68bXRhyO5czSlwHlQ0KrnvRmWA9rJH11gkDaB7j3ZVaHdbDC0WQKxLc3JyEQthxYZDYaHiALgkumu4THQiiSwg-tVmlZTR5cYpJkmrAO9IkqylNlzK3xm3bcTrQP-lTwZEqNzstcZ4jEA7chNAVRBpp_A5Go7AlEDnzU5FB0gg9itRS_GartTXgESOuFmlwdWFu9o73Xs5in17D8zPVpUtW4Y_dISti1ZN85dg0-ctVsIyFp9NyD12ZXlXM1bMFRHSf3P564oFF9c33vXCiEdQwAllUX9nnenHt55GABMSXHP8kIJgmgWd-xDqKpNRUfWx1XdP3m-hD0IAofS2v64uC9yQu7wVLjgGGEmxVFb_5",
+            "q": "Data Analyst en el último mes"
+          },
+          "link": "https://www.google.com/search?sca_esv=2d6c5a1e6a3d194c&gl=pe&hl=es&sxsrf=APpeQnsVTR7Q9mSBR6JjsloxgVwiOmj5GQ:1790568518309&q=Data+Analyst+en+el+%C3%BAltimo+mes&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rgO-Aw68bXRhyO5czSlwHlQ0KrnvRmWA9rJH11gkDaB7j3ZVaHdbDC0WQKxLc3JyEQthxYZDYaHiALgkumu4THQiiSwg-tVmlZTR5cYpJkmrAO9IkqylNlzK3xm3bcTrQP-lTwZEqNzstcZ4jEA7chNAVRBpp_A5Go7AlEDnzU5FB0gg9itRS_GartTXgESOuFmlwdWFu9o73Xs5in17D8zPVpUtW4Y_dISti1ZN85dg0-ctVsIyFp9NyD12ZXlXM1bMFRHSf3P564oFF9c33vXCiEdQwAllUX9nnenHt55GABMSXHP8kIJgmgWd-xDqKpNRUfWx1XdP3m-hD0IAofS2v64uC9yQu7wVLjgGGEmxVFb_5&udm=8&sa=X&ved=2ahUKEwi89urDs5CXAxU6LFkFHZNGAIUQkbEKegQIJhAF",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=pe&google_domain=google.com&hl=es&location=Peru&q=Data+Analyst+en+el+%C3%BAltimo+mes&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rgO-Aw68bXRhyO5czSlwHlQ0KrnvRmWA9rJH11gkDaB7j3ZVaHdbDC0WQKxLc3JyEQthxYZDYaHiALgkumu4THQiiSwg-tVmlZTR5cYpJkmrAO9IkqylNlzK3xm3bcTrQP-lTwZEqNzstcZ4jEA7chNAVRBpp_A5Go7AlEDnzU5FB0gg9itRS_GartTXgESOuFmlwdWFu9o73Xs5in17D8zPVpUtW4Y_dISti1ZN85dg0-ctVsIyFp9NyD12ZXlXM1bMFRHSf3P564oFF9c33vXCiEdQwAllUX9nnenHt55GABMSXHP8kIJgmgWd-xDqKpNRUfWx1XdP3m-hD0IAofS2v64uC9yQu7wVLjgGGEmxVFb_5"
+        }
+      ]
+    }
+  ],
+  "jobs_results": [
+    {
+      "title": "Financial Planning & Analysis Data Analyst - Remote Work",
+      "company_name": "BairesDev",
+      "location": "Perú",
+      "via": "BeBee",
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Data+Analyst&htidocid=j2_MIbMzyqiwKZCpAAAAAA%3D%3D&hl=es-PE&shem=epsd1,esd2e,rimspwouoe&shndl=37&shmd=H4sIAAAAAAAA_y3MMQ6CQBBA0dhSWlpNZWEia0xssNIQbYkNJRlgAqvLDO6sBq_kEWi5mCGx-clrfvRdRPnFMnJl0UHmkNlyA2s4MbqPWoUUA_4VYAs36iQQ5OIfCZTTqM8X1Qg1AXW9IwFiuIo0jlbHNoReE2NUXdxowGCruJLOCFMpg7lLqXMKbdFT7zBQsT_shrjnZrM8o_WkKb3nY0Z-Gn9E5Qu_rQAAAA&shmds=v1_ARwrE22Amw1C2r6ue1eZ52kogBcabHWEX4mcZ87n9hvCzuJeuA&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Data+Analyst&htidocid=j2_MIbMzyqiwKZCpAAAAAA%3D%3D",
+      "thumbnail": "https://serpapi.com/searches/6ab9e8460e4be0cb2584d064/images/wJAx9LOeH7jDT71_gWXXJAC8Wq4_Q6boXwvNjcmVuic.jpeg",
+      "extensions": [
+        "hace 3 días",
+        "Tiempo completo"
+      ],
+      "source_link": "https://bebee.com/pe/jobs/financial-planning-analysis-data-analyst-remote-work-bairesdev--fj-2381693886",
+      "job_title": "Financial Planning & Analysis Data Analyst - Remote Work",
+      "description": "At BairesDev®, we've been leading the way in technology projects for over 15 years. We deliver cutting-edge solutions to giants like Google and the most innovative startups in Silicon Valley.\n\n\nOur diverse 4,000+ team, composed of the world's Top 1% of tech talent, works remotely on roles that drive significant impact worldwide.\n\n\nWhen you apply for this position, you're taking the first step in a process that goes beyond the ordinary. We aim to align your passions and skills with our vacancies, setting you on a path to exceptional career development and success.\n\n\nFinancial Planning & Analysis Data Analyst at BairesDev\n\n\nAs a Financial Planning & Analysis Data Analyst, you will support strategic financial operations by transforming corporate data into actionable insights. You will serve as a key partner to the finance team, developing reporting frameworks and data models that streamline budgeting, forecasting, and variance analysis to drive informed business decisions.\n\n\nWhat You'll Do\nDesign, implement, and maintain comprehensive financial dashboards and routine reports to monitor key performance indicators.Perform detailed data analysis to identify operational trends, anomalies, and variance between budgeted and actual figures.Develop and optimize database queries and workflows to aggregate complex financial data from multiple corporate systems.Collaborate with finance and leadership teams to provide data-driven insights that support strategic forecasting and business planning.Ensure the integrity, accuracy, and consistency of datasets used across corporate financial reporting initiatives.\nWhat we are looking for\n5+ years of experience as an FP&A Analyst or Data Analyst.Proven expertise in data analysis utilizing Microsoft Excel and SQL.Strong understanding of financial planning and analysis processes.Advanced proficiency in English.\nHow we do make your work (and your life) easier:\n100% remote work (from anywhere).Excellent compensation in USD or your local currency if preferredHardware and software setup for you to work from home.Flexible hours: create your own schedule.Paid parental leaves, vacations, and holidays.Innovative and multicultural work environment: collaborate and learn from the global Top 1% of talent.Supportive environment with mentorship, promotions, skill development, and diverse growth opportunities.\nApply now and become part of a global team where your unique talents can truly thrive!",
+      "apply_options": [
+        {
+          "title": "BeBee",
+          "link": "https://bebee.com/pe/jobs/financial-planning-analysis-data-analyst-remote-work-bairesdev--fj-2381693886?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJGaW5hbmNpYWwgUGxhbm5pbmcgXHUwMDI2IEFuYWx5c2lzIERhdGEgQW5hbHlzdCAtIFJlbW90ZSBXb3JrIiwiY29tcGFueV9uYW1lIjoiQmFpcmVzRGV2IiwiaHRpZG9jaWQiOiJqMl9NSWJNenlxaXdLWkNwQUFBQUFBPT0iLCJ1dWxlIjoidytDQUlRSUNJRVVHVnlkUSIsImdsIjoicGUiLCJobCI6ImVzIiwiZmMiOiJFc3dCQ293QlFVcHBWRFIwU1VwbVZIaEdRMUJzZW5oMlUzbzNjMnRuTjFFeVZuZE1ZMUp0U0Rac2FtZ3RhMU5uVmxKak15MTNXbXR2TFhVeVpWQTJWV3BpY0VoSVRHUkpUMHByVG1VM2NVcFpSM0JFU1c1TE9WRnNWR3czVkdKbGIyVmFWRlJXTTBoR1ZWTkxObGhxVlY5b2FTMXRSUzFMWjJ3eFNrVlhaRVZWTVZSSU1VWkxXVlJYWXkxRU1HTmxkRkFTRjFKMWFUVmhjbmszUlhKeVdUVk9iMUJyTkRKQ2NVRm5HaUpCUkhOeU9XWlROVFl4ZVRWc01FTkVTME5zY1RodWNuaGZabWRSYlZnelJ5MVIiLCJmY3YiOiIzIiwiZmNfaWQiOiJqMl9NSWJNenlxaXdLWkNwQUFBQUFBPT0ifQ=="
+    },
+    {
+      "title": "Analista datos Junior",
+      "company_name": "Inetum",
+      "location": "Perú",
+      "via": "LinkedIn",
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Data+Analyst&htidocid=MfHH_m6gERyHzIeVAAAAAA%3D%3D&hl=es-PE&shem=epsd1,esd2e,rimspwouoe&shndl=37&shmd=H4sIAAAAAAAA_xWMMQ7CMAwAxdqFnckzQ4IQLGViQjDxgypprTQoiUPsSH0Ar-raj9EuN5x01_x2zeWeTPAsBgYjxPCqyVNpwS4zfysOq0fAmAMSYIIHkQt4uI0imVutmYNyay2-Vz1FTQktTfpDljd0PJqCORjB7nw9TSond9w_E0qN2-6NZZn_fhnMxIcAAAA&shmds=v1_ARwrE20fsyOWtDJUZ8t_NFFFqfXwpVqmmTbFajvyGsEZPTh9Pw&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Data+Analyst&htidocid=MfHH_m6gERyHzIeVAAAAAA%3D%3D",
+      "thumbnail": "https://serpapi.com/searches/6ab9e8460e4be0cb2584d064/images/_xhTm9D0fcAbf5oVJOnFpBNtnZxpIn0aI_JQNN2CqVs.jpeg",
+      "extensions": [
+        "hace 12 días",
+        "Tiempo completo"
+      ],
+      "source_link": "https://pe.linkedin.com/jobs/view/analista-datos-junior-at-inetum-4465580603",
+      "job_title": "Analista datos Junior",
+      "description": "Descripción de la empresa\n\nSomos Inetum, una compañía de servicios ágiles que proporciona soluciones digitales y un grupo global de tecnólogos que acompaña a sus clientes en el proceso de digitalización aprovechando al máximo el digital flow.\n\nOfrecemos a nuestros clientes una combinación única de proximidad, organización sectorial y soluciones de calidad. Presente en más de 26 países, el Grupo tiene cerca de 27.000 colaboradores y apunta a continuar creciendo.\n\n¡En Inetum acompañamos a nuestros clientes y colaboradores en su camino al éxito!\n\nSi te gusta reinventarte y resolver problemas con nuevas estrategias, trabajar en proyectos de IT y de negocios: ¡Postula ahora!\n\nDescripción del empleo\n\nResponsable de analizar información y generar reportes y dashboards para facilitar la toma de decisiones.\n\nRequisitos\n\n6 meses a 1 año de experiencia en análisis de datos.Manejo de Power BI (dashboards y visualización de datos).Excel a nivel intermedio.Deseable conocimiento de SQL.Capacidad de análisis, comunicación y trabajo en equipo.\n\nInformación adicional\n\n¿Qué vamos a ofrecerte como parte del equipo?\n\nRemuneración en planilla con todas las condiciones de ley.Tarjeta de AlimentosBeneficios corporativos a través de nuestra plataforma de descuentos.Capacitaciones constantes acorde a tu línea de carrera y otras de interés general (plataformas de e-learning).La oportunidad de participar en retos altamente innovadores.Línea de carrera.\n\nConoce más de nosotros en www.inetum.com/es o visita nuestras redes sociales como Inetum Perú para conocer más de nuestra cultura corporativa y metodologías de trabajo. ¡Te esperamos!\n\nEn Inetum promovemos la diversidad de género, origen étnico, nacionalidad, la inclusión de personas con discapacidad y/o habilidades diferentes mediante la igualdad de oportunidades en todos los procesos, y buscamos ampliar las oportunidades de desarrollo profesional.",
+      "apply_options": [
+        {
+          "title": "LinkedIn",
+          "link": "https://pe.linkedin.com/jobs/view/analista-datos-junior-at-inetum-4465580603?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "BeBee",
+          "link": "https://bebee.com/pe/jobs/analista-funcional-frontend-junior-etan-corporation-peru--techmap_pe_4457742308?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Trabajo.org",
+          "link": "https://pe.trabajo.org/oferta-4085-4ee8d98cbf2e6fc66f6e829cd00c17e4?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Jobrapido.com",
+          "link": "https://pe.jobrapido.com/jobpreview/5959322199713120256?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Jobiglo",
+          "link": "https://pe.jobiglo.com/empleo-analista-legal-junior-j-6a64c830ee39dc6d4d006971?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJBbmFsaXN0YSBkYXRvcyBKdW5pb3IiLCJjb21wYW55X25hbWUiOiJJbmV0dW0iLCJodGlkb2NpZCI6Ik1mSEhfbTZnRVJ5SHpJZVZBQUFBQUE9PSIsInV1bGUiOiJ3K0NBSVFJQ0lFVUdWeWRRIiwiZ2wiOiJwZSIsImhsIjoiZXMiLCJmYyI6IkVzd0JDb3dCUVVwcFZEUjBURVZ5UVdFNFQyeEVRekJFUVVoMllrTjRlRU5YY0hrMlJqWnJkbko0WjBkT1RuRkhkMUpMYm5seVkyVldNazFUTW5aS1VsUm5jVmxaY0VNeU5EQnZVR2RLWkhKdFJIbG9Wa1ZzVUdOV1EyZDVMV0Z4WDBaU1RXRnhOMUI2UzJoaFdUZHZSa1ZqTm5WVlZGcGlZMnQyYjJscVlVSXRUbmRYZUV3MllUTlJjVWxrVm1rNFFWa1NGMUoxYVRWaGNuazNSWEp5V1RWT2IxQnJOREpDY1VGbkdpSkJSSE55T1daUk1HZHVMVzVXU0ZCNGJYUkZWMnBQZW1selRYcHdOV1pyYVd0MyIsImZjdiI6IjMiLCJmY19pZCI6Ik1mSEhfbTZnRVJ5SHpJZVZBQUFBQUE9PSJ9"
+    },
+    {
+      "title": "Data Science Senior Analyst",
+      "company_name": "RIPLEY CHILE S A",
+      "location": "Perú",
+      "via": "Ripley.csod.com",
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Data+Analyst&htidocid=t8Mdixaifag501NjAAAAAA%3D%3D&hl=es-PE&shem=epsd1,esd2e,rimspwouoe&shndl=37&shmd=H4sIAAAAAAAA_xXMsQ6CMBAA0LjyBzrd7ECNiQtORImSMBCZnEgpl4IpvcqdCf6HX8PKjxmWN77ot4mSqxYNlenRG4QKfU8jpF67L0sCzTLz-4OthhYBh-CQAD3ciKzD3bkTCZwoxexiy6KlN7GhQZHHhib1ooZXau70iMFpwfp4Okxx8Ha_feRlkT3hcs-LDCpI17jEcZn_0luoypcAAAA&shmds=v1_ARwrE20K-YeFtRSNL_rAtOcFYzh0djvpqRPK2Cy5RSMAP6xuPg&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Data+Analyst&htidocid=t8Mdixaifag501NjAAAAAA%3D%3D",
+      "thumbnail": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAADgAAAAYCAMAAACY9M4aAAAARVBMVEX____FxcXMzMy0tLTIyMivr6_d3d37-_uYmJj19fWRkZHs7Ox4eHjj4-Onp6f4-PjW1tZsbGx-fn5GRkaKioq6urqfn5-5kYB5AAAAiUlEQVQ4je2PbRrCIAyDA93Gx4ChDu9_VIWuCl5B8id5gLcNwNTUYdXKqahmRKurLsewhXL16OHs8SXv0NSCWtg0btU3AT2wtxDM2a98g3kAF5cG0GpJj20A8zVHQIoYN0b12dErIMSfqgLupoEGUZ52Mj7jbF2Jv0qJL3QqnJ4l5av0UHXqb_UCPy4Df6sryeUAAAAASUVORK5CYII.png",
+      "extensions": [
+        "hace 14 días",
+        "Tiempo completo"
+      ],
+      "source_link": "https://ripley.csod.com/ux/ats/careersite/4/home/requisition/29826?c=ripley",
+      "job_title": "Data Science Senior Analyst",
+      "description": "Data Science Senior Analyst\n\n¡Somos Banco Ripley y estamos llenos de entusiasmo por hacer cada vez las cosas mejor!\n¡Vamos con Todo!\nBuscamos un o una Data Science Senior Analyst  tendrá como misión desarrollar segmentaciones y modelos analíticos\nutilizando las herramientas informáticas necesarias para cumplir con las\nexigencias requeridas del negocio y el regulador SBS.\n\nQue hará en esta posición:\n\nApoyar en el desarrollo del plan estratégico de la   unidad.\nCoordinar y entender con los responsables de Riesgos las   necesidades de análisis para aportar en el negocio. \nDiseñar y desarrollar los modelos que se encuentren   alineados a los requerimientos exigidos por el negocio o el supervisor.\nRealizar las coordinaciones para la correcta   implementación y automatización de los modelos.\nResponsable de la documentación, Técnica, Metodológica y   Funcional de los modelos a desarrollar.\nResponsable del repositorio de información del área:   bases de desarrollo, complementarias, de back, etc.\nEvaluar continuamente los distintos modelos   desarrollados por la unidad de modelos.\nAdministrar la sintaxis e inventario de variables   disponibles a utilizarse en los modelos.\nGestionar las distintas bases utilizadas en el   desarrollo, evaluación y monitoreo y trazabilidad de los modelos.\nProyección diaria y mensual de los principales   indicadores de riesgos del Banco.\n\n\nQue necesitamos de ti:\nBachiller\ny/o titulado en Economía, matemática, estadística o Ingeniería Estadística, Sistemas\nExperiencia de 3 a 5 años realizando funciones similares. \n\nEn Banco Ripley somos un equipo diverso e inclusivo, esta posición, como todas nuestras vacantes, está abierta a recibir postulantes sin ningún tipo de sesgo.\n\n\nSíguenos en LinkedIn como Banco Ripley Perú\n\n\nSomos una organización comprometida con la igualdad de oportunidades para hombres y mujeres, todos nuestros procesos de selección se rigen bajo una política de igualdad de derechos y oportunidades, donde nuestros postulantes son considerados sin importar su origen, lengua, raza, sexo, idioma, religión, opinión, edad, talla, procedencia educativa, social o cualquier otra.\n\n\nSe informa al postulante, que los datos entregados, serán utilizados respetando los principios de legalidad, consentimiento, finalidad, proporcionalidad, calidad, disposición de recurso, nivel de protección adecuado, conforme a las disposiciones de la ley de Protección de Datos Personales vigente en Perú.\n\n\n\n\n\n\n\nTipo de Puesto: Plazo Indeterminado\nFecha esperada de Contratación: 12/12/2026\n\n\n¡TRABAJA CON NOSOTROS!",
+      "apply_options": [
+        {
+          "title": "Ripley.csod.com",
+          "link": "https://ripley.csod.com/ux/ats/careersite/4/home/requisition/29826?c=ripley&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "BeBee",
+          "link": "https://bebee.com/pe/jobs/data-science-senior-analyst-ripley-chile-s-a--fj-2362500178?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Jobrapido.com",
+          "link": "https://pe.jobrapido.com/jobpreview/3442382956650299392?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Trabajo.org",
+          "link": "https://pe.trabajo.org/oferta-5065-ec98c99cffd8a1da29b697d0e0d88d9e?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJEYXRhIFNjaWVuY2UgU2VuaW9yIEFuYWx5c3QiLCJjb21wYW55X25hbWUiOiJSSVBMRVkgQ0hJTEUgUyBBIiwiaHRpZG9jaWQiOiJ0OE1kaXhhaWZhZzUwMU5qQUFBQUFBPT0iLCJ1dWxlIjoidytDQUlRSUNJRVVHVnlkUSIsImdsIjoicGUiLCJobCI6ImVzIiwiZmMiOiJFc3dCQ293QlFVcHBWRFIwU25Wd2R6UXdYMWMzZG01V2FuRmFXazlpZUY5T1NVUm5ORWRZY0RCWlowcDRlRFZwWTNaZlMxZzJNR1Y1TmtObFlUSklYMjFOZGpaaFNsVlBiM2h6VXkxelYyWjJiVjgwUTBGNk1XSjJRbDl4UkhkMVlVTTNWREJYUW1GeExYQldjRFk1TkVWaVIybDVjRXBoU0ZsUFJWZGlWWGxhZDNsUkxXRkljbTlVUTJvMGJsSjROVklTRjFKMWFUVmhjbmszUlhKeVdUVk9iMUJyTkRKQ2NVRm5HaUpCUkhOeU9XWlNNSGg1UzA4MFEwcGxTVm80V1c5MlRWZHlabWx0YTB0Q2J6RlIiLCJmY3YiOiIzIiwiZmNfaWQiOiJ0OE1kaXhhaWZhZzUwMU5qQUFBQUFBPT0ifQ=="
+    },
+    {
+      "title": "Data Analyst Call Center",
+      "company_name": "JD STRATEGIC PARTNER",
+      "location": "Perú",
+      "via": "BeBee",
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Data+Analyst&htidocid=ypkxv2T7WJk3gzK8AAAAAA%3D%3D&hl=es-PE&shem=epsd1,esd2e,rimspwouoe&shndl=37&shmd=H4sIAAAAAAAA_xXMwQqCQBAAULr6CUEw5w5uBBHYSVSkDiHmXUYd1mLd3ZwJ7EP6Ga_-WHh5xxf8NsE5RUGILZovCyRoDCRkhcYImmXm94c6hI6ABm_IAVnIndOGtpdexHOkFLMJNQvKsw1bNyhnqXGTermGV2rucSRvUKg-ng5T6K3e724pPKoyrrL8mkARl9U9K9e8oHGZ__VC9tOYAAAA&shmds=v1_ARwrE221ewRGbaabi6O1XjLdtjWcF6FokL9smlpt0WeuY3bbIQ&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Data+Analyst&htidocid=ypkxv2T7WJk3gzK8AAAAAA%3D%3D",
+      "extensions": [
+        "hace 17 días",
+        "Tiempo completo"
+      ],
+      "source_link": "https://bebee.com/pe/jobs/data-analyst-call-center-jd-strategic-partner-miraflores-lima--t7xk-836295453",
+      "job_title": "Data Analyst Call Center",
+      "description": "Data Analyst – Call Center\n\n\nDescripción del puesto\nNos encontramos en búsqueda de un(a) Data Analyst – Call Center, responsable de analizar información operativa, monitorear indicadores de gestión y generar reportes y dashboards que permitan identificar oportunidades de mejora y apoyar la toma de decisiones de la operación.\nBuscamos una persona con capacidad analítica, orientación a resultados y experiencia trabajando con información y métricas de Call Center o Contact Center.\n\n\nPrincipales funciones\nAnalizar y realizar seguimiento de los principales indicadores del Call Center:\nNivel de Servicio (SL).\n\n\nAHT (Tiempo Promedio de Atención).\n\n\nTasa de abandono.\n\n\nProductividad por asesor.\n\n\nAdherencia.\n\n\nOcupación.\n\n\nIdentificar tendencias, desviaciones y oportunidades de mejora en los indicadores.\n\n\nElaborar reportes de gestión diarios, semanales y mensuales.\n\n\nDiseñar y mantener dashboards de control operativo.\n\n\nConsolidar, validar y depurar información proveniente de diferentes fuentes.\n\n\nVerificar la calidad y consistencia de las bases de datos.\n\n\nAnalizar el desempeño de asesores, equipos y campañas.\n\n\nRealizar análisis comparativos y generar conclusiones sobre los resultados de la operación.\n\n\nBrindar soporte a supervisores y GTR mediante análisis de tráfico y comportamiento operativo.\n\n\nApoyar en la toma de decisiones relacionadas con dotación y distribución de turnos.\n\n\nAutomatizar y optimizar reportes y procesos de generación de información.\n\n\nProponer mejoras orientadas a incrementar la eficiencia y productividad de la operación.\n\n\nRequisitos\nEgresado(a), bachiller o titulado(a) de Ingeniería de Sistemas, Ingeniería Industrial, Estadística, Economía, Computación, Ciencia de Datos o carreras afines.\nExperiencia en análisis de datos, reporting o análisis de indicadores.\n\n\nDeseable experiencia en Call Center, Contact Center, BPO o áreas de Operaciones.\n\n\nExperiencia en elaboración y seguimiento de KPIs.\n\n\nManejo de Excel a nivel avanzado.\n\n\nConocimiento de tablas dinámicas, fórmulas y funciones avanzadas.\n\n\nConocimiento de bases de datos y SQL a nivel básico.\n\n\nManejo de Power BI, Tableau u otras herramientas de Business Intelligence.\n\n\nDeseable conocimiento de automatización de reportes y procesos.\n\n\nCompetencias\nCapacidad analítica.\nPensamiento lógico y crítico.\n\n\nOrientación a resultados.\n\n\nAtención al detalle.\n\n\nOrganización y planificación.\n\n\nComunicación efectiva.\n\n\nCapacidad para interpretar datos y presentar conclusiones.\n\n\nOrientación a la mejora continua.\n\n\nCapacidad para trabajar con información y cumplir plazos establecidos.\n\n\n¿Qué buscamos?\n\n\nUna persona que no solo genere reportes, sino que pueda interpretar los datos, identificar desviaciones y convertir la información en propuestas de mejora para la operación.\n\n\nSueldo: S/.2,000.00 - S/.2,500.00 al mes\n\n\nLugar de trabajo: Híbrido en Miraflores, Lima",
+      "apply_options": [
+        {
+          "title": "BeBee",
+          "link": "https://bebee.com/pe/jobs/data-analyst-call-center-jd-strategic-partner-miraflores-lima--t7xk-836295453?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Trabajo.org",
+          "link": "https://pe.trabajo.org/oferta-5065-297631b8ac12c23c8a8af7faed994d98?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJEYXRhIEFuYWx5c3QgQ2FsbCBDZW50ZXIiLCJjb21wYW55X25hbWUiOiJKRCBTVFJBVEVHSUMgUEFSVE5FUiIsImh0aWRvY2lkIjoieXBreHYyVDdXSmszZ3pLOEFBQUFBQT09IiwidXVsZSI6IncrQ0FJUUlDSUVVR1Z5ZFEiLCJnbCI6InBlIiwiaGwiOiJlcyIsImZjIjoiRXN3QkNvd0JRVXBwVkRSMFNXSmFObTVOYVdkMFExVkZlblZ6T1ZZNWQxRnFlRWhFVVcxMVFUUjBZalpNV1VWS2NVZDZRVGxYYUhaRWMyRkZSbnBRVEdGNU5FVmliSGhOTUU4d05ERlJWRmRFWTJWTGVrRlRaV1Y2VmtZME1VWXlUa3hGYVRWVkxYZFNVbkZLUjJ0cFFrRktTMVZQVm05aWJEWldhVEJ0YzJkM09HaFlXbFkxVjB4NFVIQmhVVFkzY0hrU0YxSjFhVFZoY25rM1JYSnlXVFZPYjFCck5ESkNjVUZuR2lKQlJITnlPV1pTVkc1c1IxaHRNR0l3YUVWTU5HSTJSSGhZUjJodGNEQlJaM0ozIiwiZmN2IjoiMyIsImZjX2lkIjoieXBreHYyVDdXSmszZ3pLOEFBQUFBQT09In0="
+    },
+    {
+      "title": "Lead Product Data Analyst",
+      "company_name": "LawnStarter",
+      "location": "Perú",
+      "via": "BeBee",
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Data+Analyst&htidocid=bivYxijcpxqQd1n-AAAAAA%3D%3D&hl=es-PE&shem=epsd1,esd2e,rimspwouoe&shndl=37&shmd=H4sIAAAAAAAA_xXMsQrCMBAAUFw7Oznd7JCIIEidBMGlQ8EPKNfkaJU0F3NXrB_hD3Xtj0mXN77itynOFaGHOrMfncINFeEaMXxFS2iXWd4jeQRPQEMKxEAR7sxdoN2lV01SWisSTCeK-nTG8WA5UsuTfXErK430mCkFVGqOp8NkUuz22wo_8aGYlfJ61pSX-Q9YjmpBkAAAAA&shmds=v1_ARwrE22i-8YOMN2Pti-Ur9gRGcOWrH6KX1HTjSrh3y6V3rH3Jg&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Data+Analyst&htidocid=bivYxijcpxqQd1n-AAAAAA%3D%3D",
+      "thumbnail": "https://serpapi.com/searches/6ab9e8460e4be0cb2584d064/images/_CplbZ5h3gtbcjkhszH6d9xBINc0R9MgL_EEuYEQWz8.jpeg",
+      "extensions": [
+        "hace 3 días",
+        "Tiempo completo"
+      ],
+      "source_link": "https://bebee.com/pe/jobs/lead-product-data-analyst-lawnstarter--fj-2383359019",
+      "job_title": "Lead Product Data Analyst",
+      "description": "About LawnStarter\nLawnStarter is the nation's leading on-demand marketplace for lawn care and outdoor services, with over $150M in annual bookings and two consecutive years of profitability. We're expanding beyond lawn care to become the one-stop shop for all home services, and we're investing in the next generation of our platform to get there.\nAbout the Team\nWe're a high-leverage team of Product Data Analysts embedded across the business, owning the semantic layer and the metrics everyone trusts. We turn \"I have a hunch\" into \"here's what actually happened,\" and we're the reason teams across the company can make calls on evidence instead of instinct. This role brings dedicated analytical firepower to the Pro (supply) side of that work.\nThe Role\nAs a Lead Product Data Analyst, you'll directly impact our results through insights and reports. You'll work closely with product managers, researchers, and other business stakeholders, helping with prioritization, assessments, and business recommendations. Alongside the rest of the Analytics team, it's your responsibility to nurture the data-driven culture within the company, making data easier to consume, whether through interactive reports, easy-to-use datasets, documentation, or training.\nYou'll work with the autonomy of a Lead: setting your own standards, working independently, and acting as a trusted thought partner rather than an order-taker. That title isn't about managing people, there's no team attached to it. It's about the bar you hold your own analysis to, and the bar you help everyone around you reach.\n\n\nThis role leans toward the Pro (supply) side of our marketplace, though the exact focus flexes with where the business needs the most insight.\n\n\nWhat You'll Own\nModeling & Analysis: A marketplace is a complex system, with many moving parts and often contradicting signals. That creates an exciting pool of opportunities to find gaps, insights, and optimizations. Analyses range from a simple A/B test to a multivariate model on retention or ETA, backed by advanced SQL and intermediate Python or R.Reporting: A complex system produces a high number of metrics worth tracking. A dashboard is only as good as our trust that it's correct and current. You'll understand the needs of the teams you work with and help create and maintain the reporting system, keeping it organized and easy to act on.Analytics Engineering: Occasionally you'll work in the inner layers of the Data Warehouse to provide clean, documented datasets that power our reports and end users. We use dbt for transformation, so SQL is a must.Problems to Solve\nMetrics nobody fully trusts. Different teams cite different numbers for the same thing, and no one's quite sure which is current. Untangling that and giving the business one number it can stand behind is core to the job.\nAnalysis that ships but doesn't move anything. A technically correct answer that doesn't change a single decision is still a failure. Getting a stakeholder to actually act on what you found is the hard part, not the SQL.\n\n\nData that's hard for anyone but an analyst to touch. If every question requires filing a ticket and waiting on you, you haven't built a data-driven culture, you've built a bottleneck.\n\n\nA system with too many moving parts and not enough signal. Supply, demand, pricing, and service quality all interact. Teasing out what's actually driving a metric versus what's noise is a real analytical problem, not a formality.\n\n\nWhat Success Looks Like (Year 1)\n\n\nThe metrics teams rely on daily are trusted, documented, and current, no one's quietly keeping a shadow spreadsheet because they don't trust the dashboard.Routine questions are self-serve: stakeholders find their own answers in existing reports instead of pinging you for a one-off pull.You can name specific decisions your analysis changed, not just analyses you delivered.The datasets and models you've built in dbt are clean and documented enough that other analysts build on them without redoing your work.Who You Are\nAI-Native: You use AI tools (Claude, ChatGPT, Copilot, and similar) daily to move faster: drafting and debugging SQL and dbt models, scripting analysis, and shaping reports, and you keep experimenting with new capabilities as they show up. This is unlikely to be a good fit if you're skeptical of AI tools or prefer to do everything by hand.\nLearning Mindset: You take pride in understanding problems deeply and asking the right questions before reaching for an answer. This is unlikely to be a good fit if you have a preconceived system of processes and methods and plan on just applying them without first learning all the ways our business is unique.\n\n\nSets the Bar: As a Lead, you work autonomously, hold your own analysis to a high standard, and raise the bar for the people around you, whether or not they report to you. Product managers and stakeholders should see you as a trusted thought partner, not an order-taker. This is unlikely to be a good fit if you want a title and a team before you're willing to raise everyone else's standards.\n\n\nTeam Player: You are ready to work alongside exceptional people, helping them achieve great results. You create an environment where people are excited to work with you daily, with intellectual honesty and trust. This is unlikely to be a good fit if you value being right over reaching the right answer together.\n\n\nBusiness Focus: You care deeply about understanding business needs and how your analysis connects with our product, customers, and financials. You can envision how metrics drill down from the highest to the lowest level, identifying what needs to be analyzed or reported on at each. This is unlikely to be a good fit if you're happiest doing analysis for its own sake, disconnected from a decision it will drive.\n\n\nBias for Action: You understand that despite your careful approach to understanding problems, you actively avoid being a perfectionist or getting tied up in knots. You have a bias for action to make progress, and you enjoy being scrappy, with constraints that enthrall you. This is unlikely to be a good fit if you, by default, like building full solutions from the get-go.\n\n\nThis Role Is NOT \n\nA ticket queue. You're not here to pull numbers on demand, you decide what's worth measuring and how to measure it.A dashboard-admin seat. Maintaining BI tooling is part of the job, not the point of it.\nThe point is the insight the dashboard delivers.\n\n\nA people-management role. This is an individual-contributor seat. \"Lead\" describes the bar you hold yourself and others to, not a team you manage.A role that waits for perfectly clean data. If you need data handed to you pre-cleaned before you can start, this isn't the right seat, you're expected to get your hands into the warehouse.Tools of the Trade\nSQL and dbt for transformation and modeling, Python or R for the occasional statistical deep dive, and Lightdash as our primary BI layer for dashboards and self-serve reporting.\n\n\nBase salary: $75,000–$100,000 USD annually.AI tooling provided: The Claude routines already running pieces of our experimentation process are yours to extend, not a side project you have to justify.Fully remote: This is deep-focus analytical work with US-facing partners. We hire the best analyst regardless of city and trust you to manage your environment and overlap hours.Flexible PTO: Measured on outcomes, not hours logged.VERY IMPORTANT REMINDER: Please upload your English resume. Applications without it will not be considered.",
+      "apply_options": [
+        {
+          "title": "BeBee",
+          "link": "https://bebee.com/pe/jobs/lead-product-data-analyst-lawnstarter--fj-2383359019?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJMZWFkIFByb2R1Y3QgRGF0YSBBbmFseXN0IiwiY29tcGFueV9uYW1lIjoiTGF3blN0YXJ0ZXIiLCJodGlkb2NpZCI6ImJpdll4aWpjcHhxUWQxbi1BQUFBQUE9PSIsInV1bGUiOiJ3K0NBSVFJQ0lFVUdWeWRRIiwiZ2wiOiJwZSIsImhsIjoiZXMiLCJmYyI6IkVzd0JDb3dCUVVwcFZEUjBTMkZ6T1c5eGJUY3dSMDFsTTIxaFRVTmxXV0ozTkZKUUxXUkRPV2N6WWtGbFQxUTBYMDgyTjNaRWNHUkllRVV0VGxKc01uRlJXRWhDY1dsVWQxcE1Za1ZZYm5OTE5TMXhabXczTkd4UGRYSk1kVUZLWWtWM05EQm1iRUowTlZKdGJIWkVOMGN3WVROU1VrdzRaSGh1V1RkV01qTm1WVW8zU0hod1dURTNSa1EwYW5KaU56UVNGMUoxYVRWaGNuazNSWEp5V1RWT2IxQnJOREpDY1VGbkdpSkJSSE55T1daU1MyeFZXVmhQV2pGSWIwZEJSMFpHVkhodFZHSTFVbHB6U1Y5biIsImZjdiI6IjMiLCJmY19pZCI6ImJpdll4aWpjcHhxUWQxbi1BQUFBQUE9PSJ9"
+    },
+    {
+      "title": "Analista de Datos Jr.",
+      "company_name": "Inetum",
+      "location": "Perú",
+      "via": "LinkedIn",
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Data+Analyst&htidocid=0SujlX5heWaCWN_nAAAAAA%3D%3D&hl=es-PE&shem=epsd1,esd2e,rimspwouoe&shndl=37&shmd=H4sIAAAAAAAA_-NqYeQyccxLzMksLklUSElVcEksyS9W8CrSs1JIOryruLA0NQUsnppbkJOar5Cap-Cen5-ekyplnVFSUlBspa9fXJyjlw7UXZKZrJecn6ufn5ealF-hn5WfVAwi4oszEotSC3ISS1LjjUwNKvQK8tK1-D3zUktKc0HGBaQWHd4FALr6R9yHAAAA&shmds=v1_ARwrE21OWSoCRjShe4GwgCKvjGfTS6-yLu3wdHkUMe0rhobYLg&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Data+Analyst&htidocid=0SujlX5heWaCWN_nAAAAAA%3D%3D",
+      "thumbnail": "https://serpapi.com/searches/6ab9e8460e4be0cb2584d064/images/EWn0__nR8fDMSpeFeIFbUtGcm3d0gXJCY_60CtRdaI4.jpeg",
+      "extensions": [
+        "hace 6 días",
+        "Tiempo completo"
+      ],
+      "source_link": "https://pe.linkedin.com/jobs/view/analista-de-datos-jr-at-inetum-4205305077",
+      "job_title": "Analista de Datos Jr.",
+      "description": "Descripción de la empresa\n\nSomos Inetum, una compañía de servicios ágiles que proporciona soluciones digitales y un grupo global de tecnólogos que acompaña a sus clientes en el proceso de digitalización aprovechando al máximo el digital flow.\n\nOfrecemos a nuestros clientes una combinación única de proximidad, organización sectorial y soluciones de calidad. Presente en más de 26 países, el Grupo tiene cerca de 27.000 colaboradores y apunta a continuar creciendo.\n\n¡En Inetum acompañamos a nuestros clientes y colaboradores en su camino al éxito!\n\nSi te gusta reinventarte y resolver problemas con nuevas estrategias, trabajar en proyectos de IT y de negocios: ¡Postula ahora!\n\nDescripción del empleo\n\nActualmente nos encontramos en búsqueda de 01 Analista de Datos para que se integre a nuestro equipo.\n\nRequisitos\n\nProfesional en Ingeniería de Sistemas, Computación, Informática o carreras afines.Experiencia con desarrollo de ETL's con SSIS.Experiencia en PLSQL y MSSQL, en el desarrollo de Vistas, Jobs, Triggers, Packages, etc.Conocimiento en optimización de procesos.Conocimiento en diseño y modelamiento de arquitectura de datos.Conocimiento en PowerBI(Opcional).\n\nInformación adicional\n\n¿Qué vamos a ofrecerte como parte del equipo?\n\nRemuneración en planilla con todas las condiciones de ley.Tarjeta de AlimentosBeneficios corporativos a través de nuestra plataforma de descuentos.Capacitaciones constantes acorde a tu línea de carrera y otras de interés general (plataformas de e-learning).La oportunidad de participar en retos altamente innovadores.Línea de carrera.\n\nConoce más de nosotros en www.inetum.com/es o visita nuestras redes sociales como Inetum Perú para conocer más de nuestra cultura corporativa y metodologías de trabajo. ¡Te esperamos!\n\nEn Inetum promovemos la diversidad de género, origen étnico, nacionalidad, la inclusión de personas con discapacidad y/o habilidades diferentes mediante la igualdad de oportunidades en todos los procesos, y buscamos ampliar las oportunidades de desarrollo profesional.",
+      "apply_options": [
+        {
+          "title": "LinkedIn",
+          "link": "https://pe.linkedin.com/jobs/view/analista-de-datos-jr-at-inetum-4205305077?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "BeBee",
+          "link": "https://bebee.com/pe/jobs/analista-de-datos-jr-inetum-lima--fj-2295979150?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Jobrapido.com",
+          "link": "https://pe.jobrapido.com/jobpreview/3914942334030053376?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Kit Empleo",
+          "link": "https://www.kitempleo.pe/empleo/68929199/analista-de-datos-jr-peru?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJBbmFsaXN0YSBkZSBEYXRvcyBKci4iLCJjb21wYW55X25hbWUiOiJJbmV0dW0iLCJodGlkb2NpZCI6IjBTdWpsWDVoZVdhQ1dOX25BQUFBQUE9PSIsInV1bGUiOiJ3K0NBSVFJQ0lFVUdWeWRRIiwiZ2wiOiJwZSIsImhsIjoiZXMiLCJmYyI6IkVzd0JDb3dCUVVwcFZEUjBTVUZrTWtGQ05GZDZkWGh4V2xaa1NuTmZkR3ByVVZORU9USlFZVFV4VVhCMFNHeHhiRkJUT0ZBMVYwZHJMVU5GYnpKamVqUXRUMmt4ZUc5ZlIyTmpaMWhCU0dOek0zaFFkaTFTWHkxeU9Va3RVVE5RUVV0UWJrVjNhVFJ3U1VsSlJrRk9NM1JOZVhBNVJrUnhTMk5qUzNoMlRVVXhUSFUxUm5veVpUSmFRbXBPVkVZeFIxVVNGMUoxYVRWaGNuazNSWEp5V1RWT2IxQnJOREpDY1VGbkdpSkJSSE55T1daVVVtVmtOVXBmTW1ZNFFteDNNSGwwY2xSVGVITXdkVVZSV0RobiIsImZjdiI6IjMiLCJmY19pZCI6IjBTdWpsWDVoZVdhQ1dOX25BQUFBQUE9PSJ9"
+    },
+    {
+      "title": "Sr Data Analyst (Tableau)",
+      "company_name": "Coderio",
+      "location": "Perú",
+      "via": "Indeed",
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Data+Analyst&htidocid=cqSJ-J0Q4g_3_LXDAAAAAA%3D%3D&hl=es-PE&shem=epsd1,esd2e,rimspwouoe&shndl=37&shmd=H4sIAAAAAAAA_x3MvQrCMBAAYFw7OTvdqA6NCILUSRRcBd3LpTn6Q5qLuSvUR_CVuvbFRJdv_LLPIjs-ElxREc4B_VsU1k-0nnDYFGDnSV4DOQRHQH30xEABbsy1p9WpUY1SGCPi81oUta3yinvDgSyPpmMrP0ppMFH0qFTuD7sxj6HeLi_sKLX_705pnr52A4XhjAAAAA&shmds=v1_ARwrE23AyUm5PK6WftJtva7pvcfkg36DAUWIRIMFKD7-2xDW0g&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Data+Analyst&htidocid=cqSJ-J0Q4g_3_LXDAAAAAA%3D%3D",
+      "extensions": [
+        "hace 12 días",
+        "Tiempo completo"
+      ],
+      "source_link": "https://pe.indeed.com/viewjob?jk=f4d7be0a3a2a8d90",
+      "job_title": "Sr Data Analyst (Tableau)",
+      "description": "Sobre nosotros\n Coderio diseña y desarrolla soluciones digitales escalables para empresas globales. Combinamos una sólida experiencia técnica con una mentalidad orientada a producto para liderar iniciativas de software complejas de principio a fin. Trabajamos con clientes internacionales, valoramos la autonomía y la comunicación clara, y construimos relaciones a largo plazo a través de la excelencia técnica.\n\n\n Más información: coderio.com\n\n\n Estamos buscando un/a Data Analyst Sr en Tableau para sumarse a un equipo de Business Intelligence y liderar la creación y evolución de soluciones de visualización de datos.\n\n\n Buscamos una persona con sólida experiencia en Tableau, capaz de transformar información compleja en dashboards claros, intuitivos y accionables, aplicando principios de data storytelling, diseño de información y experiencia de usuario. Tendrá un rol clave en la definición de buenas prácticas de visualización y en el acompañamiento técnico y funcional del equipo de BI.\n\n\n  ¿Qué vas a hacer en este rol?\n \n  \n   Diseño de Dashboards: Diseñar y desarrollar dashboards ejecutivos, analíticos y operativos en Tableau, priorizando claridad, usabilidad y storytelling.\n\n\n  \n   Data Storytelling: Aplicar principios de storytelling y visualización de datos para facilitar la interpretación de información y la toma de decisiones.\n\n\n  \n   Buenas Prácticas de Visualización: Proponer y promover estándares para la visualización de KPIs, indicadores, reportes ejecutivos y tableros analíticos.\n\n\n  \n   UX e Información: Participar en la definición de layouts, navegación, experiencia de usuario y formas de consumo de la información.\n\n\n  \n   Optimización: Analizar y optimizar dashboards existentes para mejorar su rendimiento, comprensión, usabilidad y mantenibilidad.\n\n\n  \n   Preparación de Datos: Participar en la preparación, transformación y publicación de datos para su consumo en Tableau.\n\n\n  \n   Tableau Platform: Trabajar con Tableau Server y/o Tableau Cloud para la publicación y distribución de contenido.\n\n\n  \n   Acompañamiento al Equipo: Brindar soporte técnico y funcional a otros integrantes del equipo de BI.\n\n\n  \n   Gobierno de BI: Colaborar en buenas prácticas relacionadas con gobierno de contenidos, permisos, publicación y administración de fuentes de datos.\n\n\n \n Requisitos\n \n  \n   4+ años de experiencia en Data Visualization, Business Intelligence o posiciones similares.\n\n\n  \n   Experiencia avanzada y hands-on con Tableau Desktop.\n\n\n  \n   Experiencia comprobable en diseño de dashboards utilizando Data Storytelling.\n\n\n  \n   Experiencia con Tableau Prep.\n\n\n  \n   Conocimiento y experiencia trabajando con archivos .hyper.\n\n\n  \n   Experiencia con Tableau Server y/o Tableau Cloud.\n\n\n  \n   Sólidos conocimientos de visualización de datos, diseño de indicadores y experiencia de usuario.\n\n\n  \n   Experiencia optimizando dashboards para mejorar performance, usabilidad y mantenibilidad.\n\n\n  \n   Capacidad para traducir necesidades de negocio en soluciones de visualización claras y efectivas.\n\n\n  \n   Buenas habilidades de comunicación y capacidad para brindar acompañamiento técnico y funcional.\n\n\n  \n   Perfil analítico, proactivo y orientado a la mejora continua.\n\n\n \n Será un plus\n \n  \n   Experiencia en gobierno de contenidos de BI.\n\n\n  \n   Conocimientos de gestión de permisos, publicación y administración de fuentes de datos.\n\n\n  \n   Experiencia trabajando con entornos de BI de gran escala.\n\n\n  \n   Experiencia definiendo estándares y guidelines de visualización.\n\n\n  \n   Conocimientos de otras herramientas de Business Intelligence y Data Visualization.\n\n\n \n Beneficios\n \n  \n   100% remoto\n\n\n  \n   Capacitaciones y oportunidades de desarrollo profesional\n\n\n  \n   Proyectos de largo plazo y alto impacto\n\n\n  \n   Trabajo junto a equipos y clientes internacionales\n\n\n  \n   Entorno técnico desafiante y orientado a la innovación\n\n\n  \n   Oportunidades de crecimiento dentro de Coderio\n\n\n \n ¿Por qué unirte a Coderio?\n \n  En Coderio valoramos el talento sin importar la ubicación. Somos una empresa remote-first,apasionada por la tecnología, el trabajo colaborativo y la compensación justa. Ofrecemos un entorno inclusivo, desafiante y con oportunidades reales de crecimiento. Si te motiva construir soluciones con impacto, te estamos esperando. Postula ahora.\n \n We may use artificial intelligence (AI) tools to support parts of the hiring process, such as reviewing applications, analyzing resumes, or assessing responses and identifying potential inconsistencies or verification signals in application materials based on available information. These tools assist our recruitment team but do not replace human judgment. Final hiring decisions are ultimately made by humans. If you would like more information about how your data is processed, please contact us.",
+      "apply_options": [
+        {
+          "title": "Indeed",
+          "link": "https://pe.indeed.com/viewjob?jk=f4d7be0a3a2a8d90&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJTciBEYXRhIEFuYWx5c3QgKFRhYmxlYXUpIiwiY29tcGFueV9uYW1lIjoiQ29kZXJpbyIsImh0aWRvY2lkIjoiY3FTSi1KMFE0Z18zX0xYREFBQUFBQT09IiwidXVsZSI6IncrQ0FJUUlDSUVVR1Z5ZFEiLCJnbCI6InBlIiwiaGwiOiJlcyIsImZjIjoiRXN3QkNvd0JRVXBwVkRSMFMycDJNWEpxVG10dFlWZG5jRFpsU2xOVWEzQjZibWgzUlhCdVVqQklRMGhXUW1ONE5YcGZRbUpDZEdFMVZHTklXbVJ1VEZOTk1YcFhkRzkyZWt0bU5VZEZUMGwwWkhWdVdIZEJZVEpHVHpOUE5VRk1NVjg1YW1zeE1XVkZiRkpwZVU5M05XWnhabHB3Tm1wMkxVcExaVzV1TURSdFUzWTFObloyTkVoc1pucFdSVlpRYUdnU0YxSjFhVFZoY25rM1JYSnlXVFZPYjFCck5ESkNjVUZuR2lKQlJITnlPV1pVU0RkbU1ub3pSMWRmZEVWU1UwRXlXRzV3TUZKZmVVZGpNbEJuIiwiZmN2IjoiMyIsImZjX2lkIjoiY3FTSi1KMFE0Z18zX0xYREFBQUFBQT09In0="
+    },
+    {
+      "title": "Data Analyst Intern",
+      "company_name": "GoTo Financial",
+      "location": "Perú",
+      "via": "JobLeads",
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Data+Analyst&htidocid=TzIS9C8FF5vEIGZ_AAAAAA%3D%3D&hl=es-PE&shem=epsd1,esd2e,rimspwouoe&shndl=37&shmd=H4sIAAAAAAAA_xXMsQ6CQAwA0LjyAyZOnR3uDIkLTiYG4ubgTgo0gDna81oT_AU_iZUfMyxvfNlvl-U3NIQrY_iqwZ2NEhfQrIu-P9QhdAQ0xUACxFCJ9IEOl8EsauG9anC9GtrYulYmL0yNzP4ljW7UOmCiGNCozs-n2UXuj_tKngLlyMjtiGFrH5TW5Q_zZpcUjQAAAA&shmds=v1_ARwrE23HN-v5IKekftnAprRGT1xmY7yK0q9ISR4wCipHazLoyw&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Data+Analyst&htidocid=TzIS9C8FF5vEIGZ_AAAAAA%3D%3D",
+      "extensions": [
+        "hace 2 días",
+        "De S/ 45 K a S/ 67 K por año",
+        "Tiempo completo"
+      ],
+      "source_link": "https://www.jobleads.com/pe/job/data-analyst-intern--asia--e2c67e55fd22a7e55a71c5a0a5acc0fc4",
+      "job_title": "Data Analyst Intern",
+      "description": "A s a Data Analyst Intern within the GTF Lending Operations team, you will get hands-on experience in a fast-paced consumer lending environment. You will sit at the intersection of data and daily operations, helping our business run smoothly by ensuring teams have the information they need. This is a fantastic opportunity to dive into the world of Business Intelligence, learn how data drives operational decisions, and develop your technical skills in a supportive, real-world setting.\n\nWhat You Will DoSupport Operational Requests: Manage and prioritize incoming data-related queries from the broader operations team.\n\nMaintain Data Accuracy: Perform routine data refreshes to ensure business continuity and accuracy.\n\nMonitor Dashboards: Maintain and update existing operational dashboards so the team always has a clear view of performance.\n\nExtract Insights: Execute ad-hoc data pulls to answer specific, time-sensitive business questions.\n\nDevelop Reporting: Assist in designing and building new operational reports as you grow and learn in the role.\n\nWhat You Will NeedEducational Background: Currently in your final semester of university or a recent graduate.\n\nBasic Technical Skills: Possess a foundational understanding of Microsoft Excel (e.g., comfortable with basic formulas, filtering, and data entry).\n\nPassion for Data: Demonstrate a strong, genuine eagerness to learn about data analytics and business intelligence.\n\nCommunication: Comfortable asking questions and communicating with operational stakeholders to understand their data needs.\n\nProblem Solving: Highly detail-oriented with a proactive, curious mindset.\n\nAbout the TeamThe GTF Lending Operations team is the engine that keeps our consumer lending business running safely, efficiently, and with a customer-first mindset. We are a dynamic, cross-functional group covering the entire operational lifecycle, including Know Your Customer (KYC), Quality Assurance (QA), Operation Support, CRM Operations, Anti-Fraud, and Customer Service. By joining our team, you will get a 360-degree view of how a lending business operates on the ground floor. You will partner directly with these diverse units, acting as their data liaison to ensure they have the insights necessary to protect our business and serve our customers.",
+      "apply_options": [
+        {
+          "title": "JobLeads",
+          "link": "https://www.jobleads.com/pe/job/data-analyst-intern--asia--e2c67e55fd22a7e55a71c5a0a5acc0fc4?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Trabajo.org",
+          "link": "https://pe.trabajo.org/oferta-2272-3e59394065b471594ae7f1d865bfb5e7?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJEYXRhIEFuYWx5c3QgSW50ZXJuIiwiY29tcGFueV9uYW1lIjoiR29UbyBGaW5hbmNpYWwiLCJodGlkb2NpZCI6IlR6SVM5QzhGRjV2RUlHWl9BQUFBQUE9PSIsInV1bGUiOiJ3K0NBSVFJQ0lFVUdWeWRRIiwiZ2wiOiJwZSIsImhsIjoiZXMiLCJmYyI6IkVzd0JDb3dCUVVwcFZEUjBTM0JXYWtwdVozaDVSbTB4Y3pOTE5ubHRPRXBCUkVSRlNIaHVSVEZzWW5keldrUndVa3RRU2toc1JUQm9RVXh1T1dwMFEwVndTR28yVjFvMFNHNWlia2gxUzJWS1NWTmhaRk5ZZFhnNU5FdzBVSEJ6ZURaaFEzUkhlVGhaU1dKcE9XRXdTbk55UjA4M00yVkJVbTFvZG5CVlVVMXJTR1ZXTVc1alMwbEdibXRoVTNCaFNWSVNGMUoxYVRWaGNuazNSWEp5V1RWT2IxQnJOREpDY1VGbkdpSkJSSE55T1daVGEwMUZaVFJaYkdWa05XNVNUV05KZVRaTU1IZFFSRUZqWVZaQiIsImZjdiI6IjMiLCJmY19pZCI6IlR6SVM5QzhGRjV2RUlHWl9BQUFBQUE9PSJ9"
+    },
+    {
+      "title": "Data Analyst - Contractor - Ingles avanzado (Perú)",
+      "company_name": "Ecosistemas",
+      "location": "Perú",
+      "via": "Jobrapido.com",
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Data+Analyst&htidocid=8fKcKWUUAWrP1EoFAAAAAA%3D%3D&hl=es-PE&shem=epsd1,esd2e,rimspwouoe&shndl=37&shmd=H4sIAAAAAAAA_x2NMQ6CQBBFY0ttZTWlmsgaExusjBpjZ7wAGWACmGVn3RkNeiHvQMvFBJufvOK9H30n0e2IirB3aN-isIIDOw2YK4cBLq60JIAvdB8sGOZXCn23SCDrO3k8qUAoCKjxlhjIwZl5EGa7StVLYoyIjUtR1DqPc24MO8q4NXfOZJxUKgzkLSqlm-26jb0rl9NTzlKLUoMyNv-XP0I-HaaqAAAA&shmds=v1_ARwrE22TRpAGojM1YyApOLx9ZjCME5wVKOoneqRQeQPak1hXmA&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Data+Analyst&htidocid=8fKcKWUUAWrP1EoFAAAAAA%3D%3D",
+      "extensions": [
+        "hace 12 días",
+        "Tiempo completo"
+      ],
+      "source_link": "https://pe.jobrapido.com/jobpreview/6494281438949539840",
+      "job_title": "Data Analyst - Contractor - Ingles avanzado (Perú)",
+      "description": "Somos Ecosistemas Global, una compañía de tecnología que conecta a nuestros clientes con soluciones a medida, integrales e innovadoras. Operamos en más de 15 países, incluyendo Argentina, Chile, Brasil, México, Estados Unidos y España.\n\nCon 30 años de experiencia y un equipo multidisciplinario de más de 500 profesionales, nos impulsamos por el compromiso de hacer crecer cada proyecto y cliente con el que trabajamos. ¡Queremos que seas parte de este gran equipo!\n\nBuscamos un/a Senior Data Management Analyst para formar parte de un equipo orientado a la gestión, modelado y evolución de datos corporativos.\n\nLa posición tendrá un rol clave en la definición de entidades de negocio, datos maestros (MDM), modelos de datos y estándares corporativos, asegurando que la información sea consistente, gobernada y reutilizable para habilitar capacidades avanzadas de analítica, arquitecturas Data Driven, búsqueda semántica y soluciones basadas en IA.\n\nResponsabilidades\n\nDiseñar y modelar datos corporativos en colaboración con equipos de Product Engineering y desarrollo.\n\nDefinir y gestionar entidades globales de datos, sus atributos, relaciones y catálogos de valores.\n\nDiseñar y optimizar modelos de información, evitando duplicidades y promoviendo la reutilización de entidades corporativas.\n\nDefinir reglas de negocio, validaciones, estándares de calidad y controles para datos maestros.\n\nDiseñar modelos de datos, estructuras JSON, metadatos y reglas de negocio para diferentes productos y plataformas.\n\nAnalizar y documentar requisitos legales, regulatorios y fiscales relacionados con datos en diferentes países.\n\nGenerar documentación funcional, semántica y de modelos de datos.\n\nGarantizar la calidad, integridad, seguridad y gobernanza de la información.\n\nTrabajar en la definición de datos que permitan habilitar capacidades de búsqueda semántica, analítica y soluciones basadas en IA.\n\nTraducir requerimientos de negocio y normativos en definiciones funcionales de datos.\n\nRequisitos\n\nTítulo universitario en Ingeniería Informática, Telecomunicaciones, Matemáticas, Estadística o carreras afines.\n\n5+ años de experiencia en Master Data Management (MDM) y definición de entidades corporativas.\n\nExperiencia en Data Modeling y documentación de entidades, atributos y procesos de negocio.\n\nConocimientos de bases de datos relacionales y no relacionales.\n\nExperiencia con SQL.\n\nConocimientos de JSON / JSON Schema e integración entre aplicaciones mediante APIs.\n\nConocimientos de Data Governance, Metadata Management y Data Quality.\n\nCapacidad para interpretar y traducir requerimientos de negocio y regulatorios en definiciones funcionales de datos.\n\nExperiencia con Business Rules Management y documentación técnica.\n\nNivel alto de inglés.\n\nSerá considerado un plus\n\nExperiencia trabajando con identificadores fiscales, datos regulatorios o modelos de clientes multinacionales.\n\nExperiencia en Semantic Data Modeling, Knowledge Graphs o soluciones orientadas a IA.\n\nConocimiento de arquitecturas Data Driven.\n\nExperiencia con Python.\n\nConocimientos de Information Architecture o Data Product Management.\n\n- Certificación DAMA CDMP o equivalente en Data Governance / MDM.\n\nOfrecemos excelentes beneficios, oportunidades de crecimiento y te acompañaremos en tu desarrollo profesional.\n\nCconsideramos que la diversidad enriquece nuestra cultura y perspectivas, por lo que fomentamos activamente un contexto inclusivo donde cada individuo, sin importar su origen, género, orientación, habilidades o creencias, no solo es bienvenido, sino también fundamental para nuestro éxito. Valoramos y respetamos todas las voces, y te invitamos a unirte a nuestro equipo, donde la inclusión es un pilar esencial de nuestros valores",
+      "apply_options": [
+        {
+          "title": "Jobrapido.com",
+          "link": "https://pe.jobrapido.com/jobpreview/6494281438949539840?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Kit Empleo",
+          "link": "https://www.kitempleo.pe/empleo/68285491/support-analyst-i-ingles-avanzado-peru?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJEYXRhIEFuYWx5c3QgLSBDb250cmFjdG9yIC0gSW5nbGVzIGF2YW56YWRvIChQZXLDuikiLCJjb21wYW55X25hbWUiOiJFY29zaXN0ZW1hcyIsImh0aWRvY2lkIjoiOGZLY0tXVVVBV3JQMUVvRkFBQUFBQT09IiwidXVsZSI6IncrQ0FJUUlDSUVVR1Z5ZFEiLCJnbCI6InBlIiwiaGwiOiJlcyIsImZjIjoiRXN3QkNvd0JRVXBwVkRSMFNuTk9abWhpTW1OcGVrbHhSSFpHWldFMlJWVnpjamt6U2pOWlRqRlFVbWM0YjJ0amNqZE5Ua3h4WVcxNFVsVnhPREV0ZGpOMlMzSnlTWEZMV25oRFdYQlZRa1YzYldWV2F6STRUR0owVURaNFFWY3dNREZmWWxGVlQxUTVUVEV4Y1VWcmJ6ZGplVGg1TjNRM1R6VkZlbGhxT0VsTGQzUjZUbEpPVm1GRlozRTNOVUpNWkRJU0YxSjFhVFZoY25rM1JYSnlXVFZPYjFCck5ESkNjVUZuR2lKQlJITnlPV1pUYldOYVNUVnJhRzVWY0d0VWFuTjBkV3BVUzFCS01tTklOM3BuIiwiZmN2IjoiMyIsImZjX2lkIjoiOGZLY0tXVVVBV3JQMUVvRkFBQUFBQT09In0="
+    },
+    {
+      "title": "Business Data Analytics",
+      "company_name": "CORE Consultoría & Recuperaciones",
+      "location": "Perú",
+      "via": "BeBee",
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Data+Analyst&htidocid=Gq2orbAuph3jbtPIAAAAAA%3D%3D&hl=es-PE&shem=epsd1,esd2e,rimspwouoe&shndl=37&shmd=H4sIAAAAAAAA_xWNMQ6CQBAAY8sTrLay0IQzJlpopWgsNXyALMcGMMfteXuX4Hfs_QAtHxOa6WYm-S6SwyVKa0kErhgQzhbNJ7RajlCOg7wjVQgVAXXOEANZuDPXhpanJgQnR6VETFpLwElKNXeKLZXcqxeXMqOQBj05g4GK3X7bp87W6032yG-QsZVoAvvxh7CCnHR05FG3U0Lm1ZP8OPwBf_TbeaUAAAA&shmds=v1_ARwrE222RuzIG-zjpK2DWK77q6pSfY3uO1MADwCa6QuLLwFsYQ&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Data+Analyst&htidocid=Gq2orbAuph3jbtPIAAAAAA%3D%3D",
+      "thumbnail": "https://serpapi.com/searches/6ab9e8460e4be0cb2584d064/images/2N55NWhOnEd8XrCXLUp099c9ZwFghUdHBM3T9_lrMyI.jpeg",
+      "extensions": [
+        "hace 9 días",
+        "Tiempo completo"
+      ],
+      "source_link": "https://bebee.com/pe/jobs/business-data-analytics-core-consultoria-recuperaciones-san-isidro--t7xk-846981469",
+      "job_title": "Business Data Analytics",
+      "description": "El Estudio Core, se encuentra en busca de un Business Analytics Analyst\n\n\n¿Qué buscamos?\n\n\nUna persona que no se limite a “sacar reportes”, sino que sea capaz de entender qué está pasando en el negocio, por qué está pasando y qué decisiones podrían tomarse a partir de los datos.\n\n\nPrincipales funciones\n\nAnalizar información del negocio, identificando\ntendencias, oportunidades, riesgos y desviaciones\nque permitan mejorar la toma de decisiones.\nTraducir las necesidades del negocio en\nsoluciones analíticas\n, generando insights y recomendaciones estratégicas para las diferentes áreas y niveles de liderazgo.\nDesarrollar\nmodelos y análisis predictivos\npara proyectar resultados, anticipar comportamientos y generar escenarios para la toma de decisiones.\nDiseñar y monitorear\nKPIs, dashboards e indicadores de gestión\n, asegurando su alineamiento con los objetivos estratégicos y operativos.\nIntegrar, depurar y transformar datos provenientes de diferentes fuentes, asegurando la\ncalidad, consistencia y disponibilidad de la información\n.\nAutomatizar procesos de generación y actualización de reportes, optimizando tiempos y reduciendo actividades manuales.\nIdentificar oportunidades de\neficiencia, rentabilidad y optimización\n, utilizando el análisis de datos para proponer mejoras en procesos y resultados.\n\nRequisitos\n\nBachiller o titulado en\nIngeniería de Sistemas, Ingeniería Industrial, Economía\no carreras afines.\nExperiencia de 3\naños a más\nen Business Analytics, Business Intelligence, Data Analytics o posiciones similares.\nExperiencia en\nanálisis de información y generación de insights para la toma de decisiones\n.\nManejo avanzado de\nPower BI\n.\nConocimientos de\nPython, R u otras herramientas de análisis y modelamiento de datos\n.\nExperiencia en construcción y seguimiento de\nKPIs, dashboards e indicadores de gestión\n.\nDeseable experiencia en\nmodelos predictivos, forecasting o análisis estadístico\n.\nManejo de Excel a nivel avanzado.",
+      "apply_options": [
+        {
+          "title": "BeBee",
+          "link": "https://bebee.com/pe/jobs/business-data-analytics-core-consultoria-recuperaciones-san-isidro--t7xk-846981469?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJCdXNpbmVzcyBEYXRhIEFuYWx5dGljcyIsImNvbXBhbnlfbmFtZSI6IkNPUkUgQ29uc3VsdG9yw61hIFx1MDAyNiBSZWN1cGVyYWNpb25lcyIsImh0aWRvY2lkIjoiR3Eyb3JiQXVwaDNqYnRQSUFBQUFBQT09IiwidXVsZSI6IncrQ0FJUUlDSUVVR1Z5ZFEiLCJnbCI6InBlIiwiaGwiOiJlcyIsImZjIjoiRXN3QkNvd0JRVXBwVkRSMFNWSXdNV1p3ZUY5MlZWOWxUV05RWkhSU2NtbEZORFJPTURGdGRISjRhbE4yYW1kNVJqSlNSbmxQYVZoNFpVaHZRVEU0VDJ4RFZrbzJUa3BFTUVWWVdXZFJiRmd3TWxSRFRUTnZURkJ3VG1jNFoybFpRbVJoTmw5Vk1ubHZObk5tZUhvNVpXMUhOMUpzYkhGTVgwMTFhbU4yYTNWNlgxZFpRVlZ2UnpSclNHbFVObmhyYTB3U0YxSjFhVFZoY25rM1JYSnlXVFZPYjFCck5ESkNjVUZuR2lKQlJITnlPV1pTWmxCQldHcGpaVUZqYTBoVU1tRlpXVVpyVHpSU1JVaFRlSEYzIiwiZmN2IjoiMyIsImZjX2lkIjoiR3Eyb3JiQXVwaDNqYnRQSUFBQUFBQT09In0="
+    }
+  ],
+  "serpapi_pagination": {
+    "next_page_token": "eyJmYyI6IkV2Y0NDcmNDUVVwcFZEUjBURk5PZVcxR1dHOVZRMFpDU2pndFkwVTJkbUo1VEZOdlgweG1PWFZTYW5KMGNucHlhRkZHY0V0S09YUktiVnBQWkVZdGNFeFZPVE5EWjNGbVVYQndPRmxMU1ZkV1dHdHNWamRHYTA1Nk1FTktXSE5sTlRkRlFrSTVaVUZzVWpWdk9VRk5UMFZWTWw5emFuSnFURlV3ZVZOQ01sOHdUREpCUld0SlNtTTRlbEpzVG5OdE5tRk9XazFIZG5GamRXSnJXRGR4ZUdOWFVtSjJUMk5UT1RKWFVGbzFWVzFRZGsxU2QyVlRTbkJLYmpWUE5sTjRiVXhwYVZoQ1EyVnpkMDlTTUhCclN6aFpjbHBoVjJnM01FNUJWbEpKWlRscVpYbExVMloyWlZFMGRsOUJaemhHVEcxM1YzVm9lbEJZTW1aM2VsRmFRWGg1TUVkSldGaGhOM1ZUZDJneVRqQlVNSFJpWms1R2NWbGZhSGxOYmswMWRHSTJXamhUU1RoRFRqVTRUbXAyT0hWTmRWRlJlVzVzTXpWdmExVVNGMUoxYVRWaGNuazNSWEp5V1RWT2IxQnJOREpDY1VGbkdpSkJSSE55T1daUk5EZGtTa00xZVVzNU1XWlJka05mVEVwU2JXOVJhR28wTVdsQiIsImZjdiI6IjMifQ==",
+    "next": "https://serpapi.com/search.json?engine=google_jobs&gl=pe&google_domain=google.com&hl=es&location=Peru&next_page_token=eyJmYyI6IkV2Y0NDcmNDUVVwcFZEUjBURk5PZVcxR1dHOVZRMFpDU2pndFkwVTJkbUo1VEZOdlgweG1PWFZTYW5KMGNucHlhRkZHY0V0S09YUktiVnBQWkVZdGNFeFZPVE5EWjNGbVVYQndPRmxMU1ZkV1dHdHNWamRHYTA1Nk1FTktXSE5sTlRkRlFrSTVaVUZzVWpWdk9VRk5UMFZWTWw5emFuSnFURlV3ZVZOQ01sOHdUREpCUld0SlNtTTRlbEpzVG5OdE5tRk9XazFIZG5GamRXSnJXRGR4ZUdOWFVtSjJUMk5UT1RKWFVGbzFWVzFRZGsxU2QyVlRTbkJLYmpWUE5sTjRiVXhwYVZoQ1EyVnpkMDlTTUhCclN6aFpjbHBoVjJnM01FNUJWbEpKWlRscVpYbExVMloyWlZFMGRsOUJaemhHVEcxM1YzVm9lbEJZTW1aM2VsRmFRWGg1TUVkSldGaGhOM1ZUZDJneVRqQlVNSFJpWms1R2NWbGZhSGxOYmswMWRHSTJXamhUU1RoRFRqVTRUbXAyT0hWTmRWRlJlVzVzTXpWdmExVVNGMUoxYVRWaGNuazNSWEp5V1RWT2IxQnJOREpDY1VGbkdpSkJSSE55T1daUk5EZGtTa00xZVVzNU1XWlJka05mVEVwU2JXOVJhR28wTVdsQiIsImZjdiI6IjMifQ%3D%3D&q=Data+Analyst"
+  },
+  "_pipeline_metadata": {
+    "ingestion_timestamp_utc": "2026-09-28T04:08:39.560235+00:00",
+    "search_group": "bi_analytics",
+    "target_market": "Peru",
+    "target_location": "Peru",
+    "date_filter_applied": "month",
+    "new_records_count": 10,
+    "provider": "serpapi"
+  }
+}

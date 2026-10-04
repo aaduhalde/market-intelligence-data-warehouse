@@ -1,0 +1,509 @@
+{
+  "search_metadata": {
+    "id": "6ab9e87d1a29fe6d36582c57",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/0kJxudBQ9e23EyMVbmB_ka-8GMypQRuDX_yCsy703nU/6ab9e87d1a29fe6d36582c57.json",
+    "markdown_endpoint": "https://serpapi.com/searches/0kJxudBQ9e23EyMVbmB_ka-8GMypQRuDX_yCsy703nU/6ab9e87d1a29fe6d36582c57.md",
+    "created_at": "2026-09-28 04:09:33 UTC",
+    "processed_at": "2026-09-28 04:09:33 UTC",
+    "google_jobs_url": "https://www.google.com/search?q=Data+Analyst+remoto&uule=w+CAIQICIEUGVydQ&hl=es&gl=pe&udm=8",
+    "raw_html_file": "https://serpapi.com/searches/0kJxudBQ9e23EyMVbmB_ka-8GMypQRuDX_yCsy703nU/6ab9e87d1a29fe6d36582c57.html",
+    "total_time_taken": 7.43
+  },
+  "search_parameters": {
+    "q": "Data Analyst remoto",
+    "engine": "google_jobs",
+    "location_requested": "Peru",
+    "location_used": "Peru",
+    "google_domain": "google.com",
+    "hl": "es",
+    "gl": "pe"
+  },
+  "filters": [
+    {
+      "name": "Tipo de trabajo",
+      "options": [
+        {
+          "name": "Tiempo completo",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4r-KsSjZZKsw6pqqtXgLmUrSu4IwwO35bhVjROu_4dPQ4-5m1LF6b6yhvX4205ilFKA2NPrKlBtjmU62fpXIFE15ilSGb-SLPmYz8YYowNi6qkshdpPtZstjkaBYxqn2mjINIOqVQ2vVdx29rPPmIwON0UsTROU90D3VYZzzXaGPkk75boRNZ-odiGhy1xcWaQ02LFU5JMYGxIklwZ1n_vMUlsvZMqLWtQ8W22h0l9mr4ZQOeDb3o0yDM2iJ05kvaO_4Izg8n7V7kbzolkoZQcWs8eUN3KUJvAZxob51PHfcnfRb3zqGLLs3eNht45xC71mtUJAETcpOIRmRBv9Nbjcq9c15k",
+            "q": "Data Analyst remoto tiempo completo"
+          },
+          "link": "https://www.google.com/search?sca_esv=2d6c5a1e6a3d194c&gl=pe&hl=es&sxsrf=APpeQnuvNCZx_5H8M0c4ZTsaAWlBp2h7KA:1790568580426&q=Data+Analyst+remoto+tiempo+completo&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4r-KsSjZZKsw6pqqtXgLmUrSu4IwwO35bhVjROu_4dPQ4-5m1LF6b6yhvX4205ilFKA2NPrKlBtjmU62fpXIFE15ilSGb-SLPmYz8YYowNi6qkshdpPtZstjkaBYxqn2mjINIOqVQ2vVdx29rPPmIwON0UsTROU90D3VYZzzXaGPkk75boRNZ-odiGhy1xcWaQ02LFU5JMYGxIklwZ1n_vMUlsvZMqLWtQ8W22h0l9mr4ZQOeDb3o0yDM2iJ05kvaO_4Izg8n7V7kbzolkoZQcWs8eUN3KUJvAZxob51PHfcnfRb3zqGLLs3eNht45xC71mtUJAETcpOIRmRBv9Nbjcq9c15k&udm=8&sa=X&ved=2ahUKEwiAm7rhs5CXAxVEuUwKHdx7NWYQkbEKegQIGxAC",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=pe&google_domain=google.com&hl=es&location=Peru&q=Data+Analyst+remoto+tiempo+completo&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4r-KsSjZZKsw6pqqtXgLmUrSu4IwwO35bhVjROu_4dPQ4-5m1LF6b6yhvX4205ilFKA2NPrKlBtjmU62fpXIFE15ilSGb-SLPmYz8YYowNi6qkshdpPtZstjkaBYxqn2mjINIOqVQ2vVdx29rPPmIwON0UsTROU90D3VYZzzXaGPkk75boRNZ-odiGhy1xcWaQ02LFU5JMYGxIklwZ1n_vMUlsvZMqLWtQ8W22h0l9mr4ZQOeDb3o0yDM2iJ05kvaO_4Izg8n7V7kbzolkoZQcWs8eUN3KUJvAZxob51PHfcnfRb3zqGLLs3eNht45xC71mtUJAETcpOIRmRBv9Nbjcq9c15k"
+        },
+        {
+          "name": "Tiempo parcial",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4r17aGM3IXK8YqQsv6R6q94CQMZmI74Kz0EP-L6mC7N0H3BzqE0fKPuTZUa9WJkccmPj_FnXDZseTzTtyOT9xnrYkAb2ulosCqaxnAoxtebwgvPI2eNqVsUhPh10QA8awUN-twat8M7V_uoZmczrLcop5See7b8zV_kPCyabUhJJv7r-GGBvSIIm94lRnJx9t1NL7l6H-VyHJHEGzIB59gKyH1HtckoXq-RLmEbvoRY8PYDPSj78K3qYIfGihoIvQgv9Lnj20EtNA_11jiwbsBL40oUBYHP80H3wE5VNUYf2_6J1Yawn3o8mI3VYz9R7XWdC8MpAyR_-NZ8ClZWUxF8RmgXi8YgosSY8AecXh_gzTYkt4J",
+            "q": "Data Analyst remoto tiempo parcial"
+          },
+          "link": "https://www.google.com/search?sca_esv=2d6c5a1e6a3d194c&gl=pe&hl=es&sxsrf=APpeQnuvNCZx_5H8M0c4ZTsaAWlBp2h7KA:1790568580426&q=Data+Analyst+remoto+tiempo+parcial&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4r17aGM3IXK8YqQsv6R6q94CQMZmI74Kz0EP-L6mC7N0H3BzqE0fKPuTZUa9WJkccmPj_FnXDZseTzTtyOT9xnrYkAb2ulosCqaxnAoxtebwgvPI2eNqVsUhPh10QA8awUN-twat8M7V_uoZmczrLcop5See7b8zV_kPCyabUhJJv7r-GGBvSIIm94lRnJx9t1NL7l6H-VyHJHEGzIB59gKyH1HtckoXq-RLmEbvoRY8PYDPSj78K3qYIfGihoIvQgv9Lnj20EtNA_11jiwbsBL40oUBYHP80H3wE5VNUYf2_6J1Yawn3o8mI3VYz9R7XWdC8MpAyR_-NZ8ClZWUxF8RmgXi8YgosSY8AecXh_gzTYkt4J&udm=8&sa=X&ved=2ahUKEwiAm7rhs5CXAxVEuUwKHdx7NWYQkbEKegQIGxAD",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=pe&google_domain=google.com&hl=es&location=Peru&q=Data+Analyst+remoto+tiempo+parcial&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4r17aGM3IXK8YqQsv6R6q94CQMZmI74Kz0EP-L6mC7N0H3BzqE0fKPuTZUa9WJkccmPj_FnXDZseTzTtyOT9xnrYkAb2ulosCqaxnAoxtebwgvPI2eNqVsUhPh10QA8awUN-twat8M7V_uoZmczrLcop5See7b8zV_kPCyabUhJJv7r-GGBvSIIm94lRnJx9t1NL7l6H-VyHJHEGzIB59gKyH1HtckoXq-RLmEbvoRY8PYDPSj78K3qYIfGihoIvQgv9Lnj20EtNA_11jiwbsBL40oUBYHP80H3wE5VNUYf2_6J1Yawn3o8mI3VYz9R7XWdC8MpAyR_-NZ8ClZWUxF8RmgXi8YgosSY8AecXh_gzTYkt4J"
+        },
+        {
+          "name": "Con contrato",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4rhCEkIt9GvvRJJ93adf3AN9b4hycjEM2OA4p9frIPN9Mq2cjrXeZ_8_krJag4cnzr9e-3nYTtFSZxiRIENcJrCllCZXjodMn8JXOI_BteQfq4gzmXTXxtzZvgRu5zhdFKRQSScchn_-KwTHrX_Rybo7nWiHlHqrKMGOMEZY8exoLw6bXedX23_kJukrif49FtopZXDybPavDHFVSE962gasO9BR6VmmQRnJjMokQr4WtfBu6FYfnqzgWR8J1K0C4ZuGbnvacIEo_srnq44tcKRS4tMKHVB4lo2zrHcRHH5NSnoirzPxF5o0wcxQn5tjQGqOZd_UcFTNly9a-CX9aClDwRZG8WMawC25ueQscCYUuCDeZw",
+            "q": "Data Analyst remoto con contrato"
+          },
+          "link": "https://www.google.com/search?sca_esv=2d6c5a1e6a3d194c&gl=pe&hl=es&sxsrf=APpeQnuvNCZx_5H8M0c4ZTsaAWlBp2h7KA:1790568580426&q=Data+Analyst+remoto+con+contrato&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rhCEkIt9GvvRJJ93adf3AN9b4hycjEM2OA4p9frIPN9Mq2cjrXeZ_8_krJag4cnzr9e-3nYTtFSZxiRIENcJrCllCZXjodMn8JXOI_BteQfq4gzmXTXxtzZvgRu5zhdFKRQSScchn_-KwTHrX_Rybo7nWiHlHqrKMGOMEZY8exoLw6bXedX23_kJukrif49FtopZXDybPavDHFVSE962gasO9BR6VmmQRnJjMokQr4WtfBu6FYfnqzgWR8J1K0C4ZuGbnvacIEo_srnq44tcKRS4tMKHVB4lo2zrHcRHH5NSnoirzPxF5o0wcxQn5tjQGqOZd_UcFTNly9a-CX9aClDwRZG8WMawC25ueQscCYUuCDeZw&udm=8&sa=X&ved=2ahUKEwiAm7rhs5CXAxVEuUwKHdx7NWYQkbEKegQIGxAE",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=pe&google_domain=google.com&hl=es&location=Peru&q=Data+Analyst+remoto+con+contrato&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rhCEkIt9GvvRJJ93adf3AN9b4hycjEM2OA4p9frIPN9Mq2cjrXeZ_8_krJag4cnzr9e-3nYTtFSZxiRIENcJrCllCZXjodMn8JXOI_BteQfq4gzmXTXxtzZvgRu5zhdFKRQSScchn_-KwTHrX_Rybo7nWiHlHqrKMGOMEZY8exoLw6bXedX23_kJukrif49FtopZXDybPavDHFVSE962gasO9BR6VmmQRnJjMokQr4WtfBu6FYfnqzgWR8J1K0C4ZuGbnvacIEo_srnq44tcKRS4tMKHVB4lo2zrHcRHH5NSnoirzPxF5o0wcxQn5tjQGqOZd_UcFTNly9a-CX9aClDwRZG8WMawC25ueQscCYUuCDeZw"
+        },
+        {
+          "name": "Prácticas",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4rYfX9qx7BEx7wzihEPQG9Yn9xLm3eJOK2_CPiY_RtprvXNc6pwazdB-A9sf9r2Xzz-I8VKnnaR4GyuckoSN2OMXfYhokpFQBvar6KrWeqLhB4YiSYWSOCS-hRotCTrw7vxRpXxijaOD0VG6RqegAzvVPGDaA269H_MHAtx2XG5jVgP5eUEL8hiJaKkvVGRrHs40YquCHVfiseYL3L6d4bcMfmq--gBw0pt4ZQfzCB0LCbHGycu3LV2W-8U6NzVLH7irClFBdEUpE_9z8Wi5EHEsxZx3Anu8IsPUCpv3NWXP9Ah7B_vCKrdceBbTTSbRYE74spzJ5N2RhXRExaOkE8wCaF1u4",
+            "q": "Data Analyst remoto prácticas"
+          },
+          "link": "https://www.google.com/search?sca_esv=2d6c5a1e6a3d194c&gl=pe&hl=es&sxsrf=APpeQnuvNCZx_5H8M0c4ZTsaAWlBp2h7KA:1790568580426&q=Data+Analyst+remoto+pr%C3%A1cticas&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rYfX9qx7BEx7wzihEPQG9Yn9xLm3eJOK2_CPiY_RtprvXNc6pwazdB-A9sf9r2Xzz-I8VKnnaR4GyuckoSN2OMXfYhokpFQBvar6KrWeqLhB4YiSYWSOCS-hRotCTrw7vxRpXxijaOD0VG6RqegAzvVPGDaA269H_MHAtx2XG5jVgP5eUEL8hiJaKkvVGRrHs40YquCHVfiseYL3L6d4bcMfmq--gBw0pt4ZQfzCB0LCbHGycu3LV2W-8U6NzVLH7irClFBdEUpE_9z8Wi5EHEsxZx3Anu8IsPUCpv3NWXP9Ah7B_vCKrdceBbTTSbRYE74spzJ5N2RhXRExaOkE8wCaF1u4&udm=8&sa=X&ved=2ahUKEwiAm7rhs5CXAxVEuUwKHdx7NWYQkbEKegQIGxAF",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=pe&google_domain=google.com&hl=es&location=Peru&q=Data+Analyst+remoto+pr%C3%A1cticas&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rYfX9qx7BEx7wzihEPQG9Yn9xLm3eJOK2_CPiY_RtprvXNc6pwazdB-A9sf9r2Xzz-I8VKnnaR4GyuckoSN2OMXfYhokpFQBvar6KrWeqLhB4YiSYWSOCS-hRotCTrw7vxRpXxijaOD0VG6RqegAzvVPGDaA269H_MHAtx2XG5jVgP5eUEL8hiJaKkvVGRrHs40YquCHVfiseYL3L6d4bcMfmq--gBw0pt4ZQfzCB0LCbHGycu3LV2W-8U6NzVLH7irClFBdEUpE_9z8Wi5EHEsxZx3Anu8IsPUCpv3NWXP9Ah7B_vCKrdceBbTTSbRYE74spzJ5N2RhXRExaOkE8wCaF1u4"
+        }
+      ]
+    },
+    {
+      "name": "Tipo de trabajo",
+      "options": [
+        {
+          "name": "Tiempo completo",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4r-KsSjZZKsw6pqqtXgLmUrSu4IwwO35bhVjROu_4dPQ4-5m1LF6b6yhvX4205ilFKA2NPrKlBtjmU62fpXIFE15ilSGb-SLPmYz8YYowNi6qkshdpPtZstjkaBYxqn2mjINIOqVQ2vVdx29rPPmIwON0UsTROU90D3VYZzzXaGPkk75boRNZ-odiGhy1xcWaQ02LFU5JMYGxIklwZ1n_vMUlsvZMqLWtQ8W22h0l9mr4ZQOeDb3o0yDM2iJ05kvaO_4Izg8n7V7kbzolkoZQcWs8eUN3KUJvAZxob51PHfcnfRb3zqGLLs3eNht45xC71mtUJAETcpOIRmRBv9Nbjcq9c15k",
+            "q": "Data Analyst remoto tiempo completo"
+          },
+          "link": "https://www.google.com/search?sca_esv=2d6c5a1e6a3d194c&gl=pe&hl=es&sxsrf=APpeQnuvNCZx_5H8M0c4ZTsaAWlBp2h7KA:1790568580426&q=Data+Analyst+remoto+tiempo+completo&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4r-KsSjZZKsw6pqqtXgLmUrSu4IwwO35bhVjROu_4dPQ4-5m1LF6b6yhvX4205ilFKA2NPrKlBtjmU62fpXIFE15ilSGb-SLPmYz8YYowNi6qkshdpPtZstjkaBYxqn2mjINIOqVQ2vVdx29rPPmIwON0UsTROU90D3VYZzzXaGPkk75boRNZ-odiGhy1xcWaQ02LFU5JMYGxIklwZ1n_vMUlsvZMqLWtQ8W22h0l9mr4ZQOeDb3o0yDM2iJ05kvaO_4Izg8n7V7kbzolkoZQcWs8eUN3KUJvAZxob51PHfcnfRb3zqGLLs3eNht45xC71mtUJAETcpOIRmRBv9Nbjcq9c15k&udm=8&sa=X&ved=2ahUKEwiAm7rhs5CXAxVEuUwKHdx7NWYQkbEKegQIGxAC",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=pe&google_domain=google.com&hl=es&location=Peru&q=Data+Analyst+remoto+tiempo+completo&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4r-KsSjZZKsw6pqqtXgLmUrSu4IwwO35bhVjROu_4dPQ4-5m1LF6b6yhvX4205ilFKA2NPrKlBtjmU62fpXIFE15ilSGb-SLPmYz8YYowNi6qkshdpPtZstjkaBYxqn2mjINIOqVQ2vVdx29rPPmIwON0UsTROU90D3VYZzzXaGPkk75boRNZ-odiGhy1xcWaQ02LFU5JMYGxIklwZ1n_vMUlsvZMqLWtQ8W22h0l9mr4ZQOeDb3o0yDM2iJ05kvaO_4Izg8n7V7kbzolkoZQcWs8eUN3KUJvAZxob51PHfcnfRb3zqGLLs3eNht45xC71mtUJAETcpOIRmRBv9Nbjcq9c15k"
+        },
+        {
+          "name": "Tiempo parcial",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4r17aGM3IXK8YqQsv6R6q94CQMZmI74Kz0EP-L6mC7N0H3BzqE0fKPuTZUa9WJkccmPj_FnXDZseTzTtyOT9xnrYkAb2ulosCqaxnAoxtebwgvPI2eNqVsUhPh10QA8awUN-twat8M7V_uoZmczrLcop5See7b8zV_kPCyabUhJJv7r-GGBvSIIm94lRnJx9t1NL7l6H-VyHJHEGzIB59gKyH1HtckoXq-RLmEbvoRY8PYDPSj78K3qYIfGihoIvQgv9Lnj20EtNA_11jiwbsBL40oUBYHP80H3wE5VNUYf2_6J1Yawn3o8mI3VYz9R7XWdC8MpAyR_-NZ8ClZWUxF8RmgXi8YgosSY8AecXh_gzTYkt4J",
+            "q": "Data Analyst remoto tiempo parcial"
+          },
+          "link": "https://www.google.com/search?sca_esv=2d6c5a1e6a3d194c&gl=pe&hl=es&sxsrf=APpeQnuvNCZx_5H8M0c4ZTsaAWlBp2h7KA:1790568580426&q=Data+Analyst+remoto+tiempo+parcial&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4r17aGM3IXK8YqQsv6R6q94CQMZmI74Kz0EP-L6mC7N0H3BzqE0fKPuTZUa9WJkccmPj_FnXDZseTzTtyOT9xnrYkAb2ulosCqaxnAoxtebwgvPI2eNqVsUhPh10QA8awUN-twat8M7V_uoZmczrLcop5See7b8zV_kPCyabUhJJv7r-GGBvSIIm94lRnJx9t1NL7l6H-VyHJHEGzIB59gKyH1HtckoXq-RLmEbvoRY8PYDPSj78K3qYIfGihoIvQgv9Lnj20EtNA_11jiwbsBL40oUBYHP80H3wE5VNUYf2_6J1Yawn3o8mI3VYz9R7XWdC8MpAyR_-NZ8ClZWUxF8RmgXi8YgosSY8AecXh_gzTYkt4J&udm=8&sa=X&ved=2ahUKEwiAm7rhs5CXAxVEuUwKHdx7NWYQkbEKegQIGxAD",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=pe&google_domain=google.com&hl=es&location=Peru&q=Data+Analyst+remoto+tiempo+parcial&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4r17aGM3IXK8YqQsv6R6q94CQMZmI74Kz0EP-L6mC7N0H3BzqE0fKPuTZUa9WJkccmPj_FnXDZseTzTtyOT9xnrYkAb2ulosCqaxnAoxtebwgvPI2eNqVsUhPh10QA8awUN-twat8M7V_uoZmczrLcop5See7b8zV_kPCyabUhJJv7r-GGBvSIIm94lRnJx9t1NL7l6H-VyHJHEGzIB59gKyH1HtckoXq-RLmEbvoRY8PYDPSj78K3qYIfGihoIvQgv9Lnj20EtNA_11jiwbsBL40oUBYHP80H3wE5VNUYf2_6J1Yawn3o8mI3VYz9R7XWdC8MpAyR_-NZ8ClZWUxF8RmgXi8YgosSY8AecXh_gzTYkt4J"
+        },
+        {
+          "name": "Con contrato",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4rhCEkIt9GvvRJJ93adf3AN9b4hycjEM2OA4p9frIPN9Mq2cjrXeZ_8_krJag4cnzr9e-3nYTtFSZxiRIENcJrCllCZXjodMn8JXOI_BteQfq4gzmXTXxtzZvgRu5zhdFKRQSScchn_-KwTHrX_Rybo7nWiHlHqrKMGOMEZY8exoLw6bXedX23_kJukrif49FtopZXDybPavDHFVSE962gasO9BR6VmmQRnJjMokQr4WtfBu6FYfnqzgWR8J1K0C4ZuGbnvacIEo_srnq44tcKRS4tMKHVB4lo2zrHcRHH5NSnoirzPxF5o0wcxQn5tjQGqOZd_UcFTNly9a-CX9aClDwRZG8WMawC25ueQscCYUuCDeZw",
+            "q": "Data Analyst remoto con contrato"
+          },
+          "link": "https://www.google.com/search?sca_esv=2d6c5a1e6a3d194c&gl=pe&hl=es&sxsrf=APpeQnuvNCZx_5H8M0c4ZTsaAWlBp2h7KA:1790568580426&q=Data+Analyst+remoto+con+contrato&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rhCEkIt9GvvRJJ93adf3AN9b4hycjEM2OA4p9frIPN9Mq2cjrXeZ_8_krJag4cnzr9e-3nYTtFSZxiRIENcJrCllCZXjodMn8JXOI_BteQfq4gzmXTXxtzZvgRu5zhdFKRQSScchn_-KwTHrX_Rybo7nWiHlHqrKMGOMEZY8exoLw6bXedX23_kJukrif49FtopZXDybPavDHFVSE962gasO9BR6VmmQRnJjMokQr4WtfBu6FYfnqzgWR8J1K0C4ZuGbnvacIEo_srnq44tcKRS4tMKHVB4lo2zrHcRHH5NSnoirzPxF5o0wcxQn5tjQGqOZd_UcFTNly9a-CX9aClDwRZG8WMawC25ueQscCYUuCDeZw&udm=8&sa=X&ved=2ahUKEwiAm7rhs5CXAxVEuUwKHdx7NWYQkbEKegQIGxAE",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=pe&google_domain=google.com&hl=es&location=Peru&q=Data+Analyst+remoto+con+contrato&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rhCEkIt9GvvRJJ93adf3AN9b4hycjEM2OA4p9frIPN9Mq2cjrXeZ_8_krJag4cnzr9e-3nYTtFSZxiRIENcJrCllCZXjodMn8JXOI_BteQfq4gzmXTXxtzZvgRu5zhdFKRQSScchn_-KwTHrX_Rybo7nWiHlHqrKMGOMEZY8exoLw6bXedX23_kJukrif49FtopZXDybPavDHFVSE962gasO9BR6VmmQRnJjMokQr4WtfBu6FYfnqzgWR8J1K0C4ZuGbnvacIEo_srnq44tcKRS4tMKHVB4lo2zrHcRHH5NSnoirzPxF5o0wcxQn5tjQGqOZd_UcFTNly9a-CX9aClDwRZG8WMawC25ueQscCYUuCDeZw"
+        },
+        {
+          "name": "Prácticas",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4rYfX9qx7BEx7wzihEPQG9Yn9xLm3eJOK2_CPiY_RtprvXNc6pwazdB-A9sf9r2Xzz-I8VKnnaR4GyuckoSN2OMXfYhokpFQBvar6KrWeqLhB4YiSYWSOCS-hRotCTrw7vxRpXxijaOD0VG6RqegAzvVPGDaA269H_MHAtx2XG5jVgP5eUEL8hiJaKkvVGRrHs40YquCHVfiseYL3L6d4bcMfmq--gBw0pt4ZQfzCB0LCbHGycu3LV2W-8U6NzVLH7irClFBdEUpE_9z8Wi5EHEsxZx3Anu8IsPUCpv3NWXP9Ah7B_vCKrdceBbTTSbRYE74spzJ5N2RhXRExaOkE8wCaF1u4",
+            "q": "Data Analyst remoto prácticas"
+          },
+          "link": "https://www.google.com/search?sca_esv=2d6c5a1e6a3d194c&gl=pe&hl=es&sxsrf=APpeQnuvNCZx_5H8M0c4ZTsaAWlBp2h7KA:1790568580426&q=Data+Analyst+remoto+pr%C3%A1cticas&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rYfX9qx7BEx7wzihEPQG9Yn9xLm3eJOK2_CPiY_RtprvXNc6pwazdB-A9sf9r2Xzz-I8VKnnaR4GyuckoSN2OMXfYhokpFQBvar6KrWeqLhB4YiSYWSOCS-hRotCTrw7vxRpXxijaOD0VG6RqegAzvVPGDaA269H_MHAtx2XG5jVgP5eUEL8hiJaKkvVGRrHs40YquCHVfiseYL3L6d4bcMfmq--gBw0pt4ZQfzCB0LCbHGycu3LV2W-8U6NzVLH7irClFBdEUpE_9z8Wi5EHEsxZx3Anu8IsPUCpv3NWXP9Ah7B_vCKrdceBbTTSbRYE74spzJ5N2RhXRExaOkE8wCaF1u4&udm=8&sa=X&ved=2ahUKEwiAm7rhs5CXAxVEuUwKHdx7NWYQkbEKegQIGxAF",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=pe&google_domain=google.com&hl=es&location=Peru&q=Data+Analyst+remoto+pr%C3%A1cticas&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rYfX9qx7BEx7wzihEPQG9Yn9xLm3eJOK2_CPiY_RtprvXNc6pwazdB-A9sf9r2Xzz-I8VKnnaR4GyuckoSN2OMXfYhokpFQBvar6KrWeqLhB4YiSYWSOCS-hRotCTrw7vxRpXxijaOD0VG6RqegAzvVPGDaA269H_MHAtx2XG5jVgP5eUEL8hiJaKkvVGRrHs40YquCHVfiseYL3L6d4bcMfmq--gBw0pt4ZQfzCB0LCbHGycu3LV2W-8U6NzVLH7irClFBdEUpE_9z8Wi5EHEsxZx3Anu8IsPUCpv3NWXP9Ah7B_vCKrdceBbTTSbRYE74spzJ5N2RhXRExaOkE8wCaF1u4"
+        }
+      ]
+    },
+    {
+      "name": "Fecha de publicación",
+      "options": [
+        {
+          "name": "Ayer",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4rprWL6OpWZoNRzUmdBA3qD-o7av0R1YxIY0-_oJkXHQaiHxFAny5j1B8-reRnuxbY6cPcEnMgySpxYCHRQxLSYs-mMuGq3IA61eInNFgcv5YGfFfNMua7LwKQtk5Ep1eNsTkcxF8iRdVoFgsTN6U1XjgkYszhV97BgMhb9ITC8E2HaI0sfkKjSstSQODrsaZV2CTn1AlW0aXFJqBf4dRiEn20sg0CTSgxT-_94V1aneHtwucRKEjbYfPeBixTXKTgM-dupxJipGcKS1_hhcEUls0K5CSo817pbEZG8mj6JsKflJh7OoLPntovI5F2sjl2u99v8WBqIuXIUVuwyPCfKyVsXRQU-Uai5jt7qCFSXLkwGkRQqizqj371huzfIFIT1NFbAg",
+            "q": "Data Analyst remoto desde ayer"
+          },
+          "link": "https://www.google.com/search?sca_esv=2d6c5a1e6a3d194c&gl=pe&hl=es&sxsrf=APpeQnuvNCZx_5H8M0c4ZTsaAWlBp2h7KA:1790568580426&q=Data+Analyst+remoto+desde+ayer&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rprWL6OpWZoNRzUmdBA3qD-o7av0R1YxIY0-_oJkXHQaiHxFAny5j1B8-reRnuxbY6cPcEnMgySpxYCHRQxLSYs-mMuGq3IA61eInNFgcv5YGfFfNMua7LwKQtk5Ep1eNsTkcxF8iRdVoFgsTN6U1XjgkYszhV97BgMhb9ITC8E2HaI0sfkKjSstSQODrsaZV2CTn1AlW0aXFJqBf4dRiEn20sg0CTSgxT-_94V1aneHtwucRKEjbYfPeBixTXKTgM-dupxJipGcKS1_hhcEUls0K5CSo817pbEZG8mj6JsKflJh7OoLPntovI5F2sjl2u99v8WBqIuXIUVuwyPCfKyVsXRQU-Uai5jt7qCFSXLkwGkRQqizqj371huzfIFIT1NFbAg&udm=8&sa=X&ved=2ahUKEwiAm7rhs5CXAxVEuUwKHdx7NWYQkbEKegQIHBAC",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=pe&google_domain=google.com&hl=es&location=Peru&q=Data+Analyst+remoto+desde+ayer&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rprWL6OpWZoNRzUmdBA3qD-o7av0R1YxIY0-_oJkXHQaiHxFAny5j1B8-reRnuxbY6cPcEnMgySpxYCHRQxLSYs-mMuGq3IA61eInNFgcv5YGfFfNMua7LwKQtk5Ep1eNsTkcxF8iRdVoFgsTN6U1XjgkYszhV97BgMhb9ITC8E2HaI0sfkKjSstSQODrsaZV2CTn1AlW0aXFJqBf4dRiEn20sg0CTSgxT-_94V1aneHtwucRKEjbYfPeBixTXKTgM-dupxJipGcKS1_hhcEUls0K5CSo817pbEZG8mj6JsKflJh7OoLPntovI5F2sjl2u99v8WBqIuXIUVuwyPCfKyVsXRQU-Uai5jt7qCFSXLkwGkRQqizqj371huzfIFIT1NFbAg"
+        },
+        {
+          "name": "Últimos 3 días",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4r3M11scUDrwafc40twrp9CVpJGGeNfUbE5uYfOodxtsSfIBm2LosSeP5AZkyVIY6DOGTn5beFnjgt0m1fLcDn4pP9FjmDHfj5PPfou6dM7E_MehSg49lXATew7tRhy_E0KGScmgJWR_zo_MvxgTTpDQY32p8N6YAevaK--BDADxMOOWx4f3bUHWN0vR88TGmoqAR_J6yBgcDwyAVJCNtmio6OsTUaxS1lHJxYzs_1soUnC13_ZbgZwBmu3eF18I4zO60BbrPSyDrYNpaEsmTvK9IqW1FjQW0He-iKucp8cIhpcRf2_aIWQI4Td4Evpd6xyR8g4rtspxAkwUgYmLiJ2GJiud-ti8TQ-3b9raZuJ1vA4hXL_96LRtkCHqaL9CmvPuHQaw",
+            "q": "Data Analyst remoto en los últimos 3 días"
+          },
+          "link": "https://www.google.com/search?sca_esv=2d6c5a1e6a3d194c&gl=pe&hl=es&sxsrf=APpeQnuvNCZx_5H8M0c4ZTsaAWlBp2h7KA:1790568580426&q=Data+Analyst+remoto+en+los+%C3%BAltimos+3+d%C3%ADas&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4r3M11scUDrwafc40twrp9CVpJGGeNfUbE5uYfOodxtsSfIBm2LosSeP5AZkyVIY6DOGTn5beFnjgt0m1fLcDn4pP9FjmDHfj5PPfou6dM7E_MehSg49lXATew7tRhy_E0KGScmgJWR_zo_MvxgTTpDQY32p8N6YAevaK--BDADxMOOWx4f3bUHWN0vR88TGmoqAR_J6yBgcDwyAVJCNtmio6OsTUaxS1lHJxYzs_1soUnC13_ZbgZwBmu3eF18I4zO60BbrPSyDrYNpaEsmTvK9IqW1FjQW0He-iKucp8cIhpcRf2_aIWQI4Td4Evpd6xyR8g4rtspxAkwUgYmLiJ2GJiud-ti8TQ-3b9raZuJ1vA4hXL_96LRtkCHqaL9CmvPuHQaw&udm=8&sa=X&ved=2ahUKEwiAm7rhs5CXAxVEuUwKHdx7NWYQkbEKegQIHBAD",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=pe&google_domain=google.com&hl=es&location=Peru&q=Data+Analyst+remoto+en+los+%C3%BAltimos+3+d%C3%ADas&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4r3M11scUDrwafc40twrp9CVpJGGeNfUbE5uYfOodxtsSfIBm2LosSeP5AZkyVIY6DOGTn5beFnjgt0m1fLcDn4pP9FjmDHfj5PPfou6dM7E_MehSg49lXATew7tRhy_E0KGScmgJWR_zo_MvxgTTpDQY32p8N6YAevaK--BDADxMOOWx4f3bUHWN0vR88TGmoqAR_J6yBgcDwyAVJCNtmio6OsTUaxS1lHJxYzs_1soUnC13_ZbgZwBmu3eF18I4zO60BbrPSyDrYNpaEsmTvK9IqW1FjQW0He-iKucp8cIhpcRf2_aIWQI4Td4Evpd6xyR8g4rtspxAkwUgYmLiJ2GJiud-ti8TQ-3b9raZuJ1vA4hXL_96LRtkCHqaL9CmvPuHQaw"
+        },
+        {
+          "name": "Última semana",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4rbEuBYaSZikTI9rl4Hr1einw4RpJWnMy7ZjkouPBqpYTVdWroIl88HeI2rnuXLbYDkkbvF6V225zU0Y2XQCay5tqVBq5n5z6XT4tdaZ9WI8vyute-Jvydk6Srs39iZWOirF8wp9-YpZLY0ZJgVW_yLwvfdenv3b88bclFWpXPsKJFaHce8ruGQUkcuO5hwPOWaZqMxP1drKkr98KYqlwG4r0SSofsDtkp7faxbBrdB6Uz8taGWNwpOQJO5Is1jF78dpN6Jng6xi3Xq9-NAGEL_3sTpqHfvtDQbYB5coa6lPlE4KOLAa_qz-17vk-n54p9qSB2i4QUHDKI1m_YhDSp37iZFEhLnk09gf44cSGiEPailEytHiZdQZl5A0l-Fjc6c-CwKA",
+            "q": "Data Analyst remoto en la última semana"
+          },
+          "link": "https://www.google.com/search?sca_esv=2d6c5a1e6a3d194c&gl=pe&hl=es&sxsrf=APpeQnuvNCZx_5H8M0c4ZTsaAWlBp2h7KA:1790568580426&q=Data+Analyst+remoto+en+la+%C3%BAltima+semana&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rbEuBYaSZikTI9rl4Hr1einw4RpJWnMy7ZjkouPBqpYTVdWroIl88HeI2rnuXLbYDkkbvF6V225zU0Y2XQCay5tqVBq5n5z6XT4tdaZ9WI8vyute-Jvydk6Srs39iZWOirF8wp9-YpZLY0ZJgVW_yLwvfdenv3b88bclFWpXPsKJFaHce8ruGQUkcuO5hwPOWaZqMxP1drKkr98KYqlwG4r0SSofsDtkp7faxbBrdB6Uz8taGWNwpOQJO5Is1jF78dpN6Jng6xi3Xq9-NAGEL_3sTpqHfvtDQbYB5coa6lPlE4KOLAa_qz-17vk-n54p9qSB2i4QUHDKI1m_YhDSp37iZFEhLnk09gf44cSGiEPailEytHiZdQZl5A0l-Fjc6c-CwKA&udm=8&sa=X&ved=2ahUKEwiAm7rhs5CXAxVEuUwKHdx7NWYQkbEKegQIHBAE",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=pe&google_domain=google.com&hl=es&location=Peru&q=Data+Analyst+remoto+en+la+%C3%BAltima+semana&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rbEuBYaSZikTI9rl4Hr1einw4RpJWnMy7ZjkouPBqpYTVdWroIl88HeI2rnuXLbYDkkbvF6V225zU0Y2XQCay5tqVBq5n5z6XT4tdaZ9WI8vyute-Jvydk6Srs39iZWOirF8wp9-YpZLY0ZJgVW_yLwvfdenv3b88bclFWpXPsKJFaHce8ruGQUkcuO5hwPOWaZqMxP1drKkr98KYqlwG4r0SSofsDtkp7faxbBrdB6Uz8taGWNwpOQJO5Is1jF78dpN6Jng6xi3Xq9-NAGEL_3sTpqHfvtDQbYB5coa6lPlE4KOLAa_qz-17vk-n54p9qSB2i4QUHDKI1m_YhDSp37iZFEhLnk09gf44cSGiEPailEytHiZdQZl5A0l-Fjc6c-CwKA"
+        },
+        {
+          "name": "Último mes",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4rFOYina6-I1R1gKL9iTZ5BQIIZJsifPx7Yx-ShxRUGibow123Gp09JvXVx-64i9cDv3Obk4ANBwPZi-YUytZnTbpzHBCwEPcxl9203w3PuxF6Gq9r60ZqEzezSImh5eBa31B-3MEstJcOw8itC3smF9rj58P-aZhupIYkunlm_0OPbngwwXFcU3mq2JKkINmMAN_jKUF_OhNt2LPrbErJa62H3CaH42eTBPc0WEGLvOPENXZTKU_PswgEoGwPzIaIOsW_gviqkG8M3QY4bu5c8boRBtAyIdAfyauTMOPDmAknwc_ft0L4E310QCCThugk75wR28OrkaXOiC9K9wHiJVRPLvn15_0SZAZEiNMDivyQ-XDA9lfQnTDlc2MvAMBtO2wKnw",
+            "q": "Data Analyst remoto en el último mes"
+          },
+          "link": "https://www.google.com/search?sca_esv=2d6c5a1e6a3d194c&gl=pe&hl=es&sxsrf=APpeQnuvNCZx_5H8M0c4ZTsaAWlBp2h7KA:1790568580426&q=Data+Analyst+remoto+en+el+%C3%BAltimo+mes&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rFOYina6-I1R1gKL9iTZ5BQIIZJsifPx7Yx-ShxRUGibow123Gp09JvXVx-64i9cDv3Obk4ANBwPZi-YUytZnTbpzHBCwEPcxl9203w3PuxF6Gq9r60ZqEzezSImh5eBa31B-3MEstJcOw8itC3smF9rj58P-aZhupIYkunlm_0OPbngwwXFcU3mq2JKkINmMAN_jKUF_OhNt2LPrbErJa62H3CaH42eTBPc0WEGLvOPENXZTKU_PswgEoGwPzIaIOsW_gviqkG8M3QY4bu5c8boRBtAyIdAfyauTMOPDmAknwc_ft0L4E310QCCThugk75wR28OrkaXOiC9K9wHiJVRPLvn15_0SZAZEiNMDivyQ-XDA9lfQnTDlc2MvAMBtO2wKnw&udm=8&sa=X&ved=2ahUKEwiAm7rhs5CXAxVEuUwKHdx7NWYQkbEKegQIHBAF",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=pe&google_domain=google.com&hl=es&location=Peru&q=Data+Analyst+remoto+en+el+%C3%BAltimo+mes&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rFOYina6-I1R1gKL9iTZ5BQIIZJsifPx7Yx-ShxRUGibow123Gp09JvXVx-64i9cDv3Obk4ANBwPZi-YUytZnTbpzHBCwEPcxl9203w3PuxF6Gq9r60ZqEzezSImh5eBa31B-3MEstJcOw8itC3smF9rj58P-aZhupIYkunlm_0OPbngwwXFcU3mq2JKkINmMAN_jKUF_OhNt2LPrbErJa62H3CaH42eTBPc0WEGLvOPENXZTKU_PswgEoGwPzIaIOsW_gviqkG8M3QY4bu5c8boRBtAyIdAfyauTMOPDmAknwc_ft0L4E310QCCThugk75wR28OrkaXOiC9K9wHiJVRPLvn15_0SZAZEiNMDivyQ-XDA9lfQnTDlc2MvAMBtO2wKnw"
+        }
+      ]
+    },
+    {
+      "name": "Fecha de publicación",
+      "options": [
+        {
+          "name": "Ayer",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4rprWL6OpWZoNRzUmdBA3qD-o7av0R1YxIY0-_oJkXHQaiHxFAny5j1B8-reRnuxbY6cPcEnMgySpxYCHRQxLSYs-mMuGq3IA61eInNFgcv5YGfFfNMua7LwKQtk5Ep1eNsTkcxF8iRdVoFgsTN6U1XjgkYszhV97BgMhb9ITC8E2HaI0sfkKjSstSQODrsaZV2CTn1AlW0aXFJqBf4dRiEn20sg0CTSgxT-_94V1aneHtwucRKEjbYfPeBixTXKTgM-dupxJipGcKS1_hhcEUls0K5CSo817pbEZG8mj6JsKflJh7OoLPntovI5F2sjl2u99v8WBqIuXIUVuwyPCfKyVsXRQU-Uai5jt7qCFSXLkwGkRQqizqj371huzfIFIT1NFbAg",
+            "q": "Data Analyst remoto desde ayer"
+          },
+          "link": "https://www.google.com/search?sca_esv=2d6c5a1e6a3d194c&gl=pe&hl=es&sxsrf=APpeQnuvNCZx_5H8M0c4ZTsaAWlBp2h7KA:1790568580426&q=Data+Analyst+remoto+desde+ayer&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rprWL6OpWZoNRzUmdBA3qD-o7av0R1YxIY0-_oJkXHQaiHxFAny5j1B8-reRnuxbY6cPcEnMgySpxYCHRQxLSYs-mMuGq3IA61eInNFgcv5YGfFfNMua7LwKQtk5Ep1eNsTkcxF8iRdVoFgsTN6U1XjgkYszhV97BgMhb9ITC8E2HaI0sfkKjSstSQODrsaZV2CTn1AlW0aXFJqBf4dRiEn20sg0CTSgxT-_94V1aneHtwucRKEjbYfPeBixTXKTgM-dupxJipGcKS1_hhcEUls0K5CSo817pbEZG8mj6JsKflJh7OoLPntovI5F2sjl2u99v8WBqIuXIUVuwyPCfKyVsXRQU-Uai5jt7qCFSXLkwGkRQqizqj371huzfIFIT1NFbAg&udm=8&sa=X&ved=2ahUKEwiAm7rhs5CXAxVEuUwKHdx7NWYQkbEKegQIHBAC",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=pe&google_domain=google.com&hl=es&location=Peru&q=Data+Analyst+remoto+desde+ayer&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rprWL6OpWZoNRzUmdBA3qD-o7av0R1YxIY0-_oJkXHQaiHxFAny5j1B8-reRnuxbY6cPcEnMgySpxYCHRQxLSYs-mMuGq3IA61eInNFgcv5YGfFfNMua7LwKQtk5Ep1eNsTkcxF8iRdVoFgsTN6U1XjgkYszhV97BgMhb9ITC8E2HaI0sfkKjSstSQODrsaZV2CTn1AlW0aXFJqBf4dRiEn20sg0CTSgxT-_94V1aneHtwucRKEjbYfPeBixTXKTgM-dupxJipGcKS1_hhcEUls0K5CSo817pbEZG8mj6JsKflJh7OoLPntovI5F2sjl2u99v8WBqIuXIUVuwyPCfKyVsXRQU-Uai5jt7qCFSXLkwGkRQqizqj371huzfIFIT1NFbAg"
+        },
+        {
+          "name": "Últimos 3 días",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4r3M11scUDrwafc40twrp9CVpJGGeNfUbE5uYfOodxtsSfIBm2LosSeP5AZkyVIY6DOGTn5beFnjgt0m1fLcDn4pP9FjmDHfj5PPfou6dM7E_MehSg49lXATew7tRhy_E0KGScmgJWR_zo_MvxgTTpDQY32p8N6YAevaK--BDADxMOOWx4f3bUHWN0vR88TGmoqAR_J6yBgcDwyAVJCNtmio6OsTUaxS1lHJxYzs_1soUnC13_ZbgZwBmu3eF18I4zO60BbrPSyDrYNpaEsmTvK9IqW1FjQW0He-iKucp8cIhpcRf2_aIWQI4Td4Evpd6xyR8g4rtspxAkwUgYmLiJ2GJiud-ti8TQ-3b9raZuJ1vA4hXL_96LRtkCHqaL9CmvPuHQaw",
+            "q": "Data Analyst remoto en los últimos 3 días"
+          },
+          "link": "https://www.google.com/search?sca_esv=2d6c5a1e6a3d194c&gl=pe&hl=es&sxsrf=APpeQnuvNCZx_5H8M0c4ZTsaAWlBp2h7KA:1790568580426&q=Data+Analyst+remoto+en+los+%C3%BAltimos+3+d%C3%ADas&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4r3M11scUDrwafc40twrp9CVpJGGeNfUbE5uYfOodxtsSfIBm2LosSeP5AZkyVIY6DOGTn5beFnjgt0m1fLcDn4pP9FjmDHfj5PPfou6dM7E_MehSg49lXATew7tRhy_E0KGScmgJWR_zo_MvxgTTpDQY32p8N6YAevaK--BDADxMOOWx4f3bUHWN0vR88TGmoqAR_J6yBgcDwyAVJCNtmio6OsTUaxS1lHJxYzs_1soUnC13_ZbgZwBmu3eF18I4zO60BbrPSyDrYNpaEsmTvK9IqW1FjQW0He-iKucp8cIhpcRf2_aIWQI4Td4Evpd6xyR8g4rtspxAkwUgYmLiJ2GJiud-ti8TQ-3b9raZuJ1vA4hXL_96LRtkCHqaL9CmvPuHQaw&udm=8&sa=X&ved=2ahUKEwiAm7rhs5CXAxVEuUwKHdx7NWYQkbEKegQIHBAD",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=pe&google_domain=google.com&hl=es&location=Peru&q=Data+Analyst+remoto+en+los+%C3%BAltimos+3+d%C3%ADas&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4r3M11scUDrwafc40twrp9CVpJGGeNfUbE5uYfOodxtsSfIBm2LosSeP5AZkyVIY6DOGTn5beFnjgt0m1fLcDn4pP9FjmDHfj5PPfou6dM7E_MehSg49lXATew7tRhy_E0KGScmgJWR_zo_MvxgTTpDQY32p8N6YAevaK--BDADxMOOWx4f3bUHWN0vR88TGmoqAR_J6yBgcDwyAVJCNtmio6OsTUaxS1lHJxYzs_1soUnC13_ZbgZwBmu3eF18I4zO60BbrPSyDrYNpaEsmTvK9IqW1FjQW0He-iKucp8cIhpcRf2_aIWQI4Td4Evpd6xyR8g4rtspxAkwUgYmLiJ2GJiud-ti8TQ-3b9raZuJ1vA4hXL_96LRtkCHqaL9CmvPuHQaw"
+        },
+        {
+          "name": "Última semana",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4rbEuBYaSZikTI9rl4Hr1einw4RpJWnMy7ZjkouPBqpYTVdWroIl88HeI2rnuXLbYDkkbvF6V225zU0Y2XQCay5tqVBq5n5z6XT4tdaZ9WI8vyute-Jvydk6Srs39iZWOirF8wp9-YpZLY0ZJgVW_yLwvfdenv3b88bclFWpXPsKJFaHce8ruGQUkcuO5hwPOWaZqMxP1drKkr98KYqlwG4r0SSofsDtkp7faxbBrdB6Uz8taGWNwpOQJO5Is1jF78dpN6Jng6xi3Xq9-NAGEL_3sTpqHfvtDQbYB5coa6lPlE4KOLAa_qz-17vk-n54p9qSB2i4QUHDKI1m_YhDSp37iZFEhLnk09gf44cSGiEPailEytHiZdQZl5A0l-Fjc6c-CwKA",
+            "q": "Data Analyst remoto en la última semana"
+          },
+          "link": "https://www.google.com/search?sca_esv=2d6c5a1e6a3d194c&gl=pe&hl=es&sxsrf=APpeQnuvNCZx_5H8M0c4ZTsaAWlBp2h7KA:1790568580426&q=Data+Analyst+remoto+en+la+%C3%BAltima+semana&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rbEuBYaSZikTI9rl4Hr1einw4RpJWnMy7ZjkouPBqpYTVdWroIl88HeI2rnuXLbYDkkbvF6V225zU0Y2XQCay5tqVBq5n5z6XT4tdaZ9WI8vyute-Jvydk6Srs39iZWOirF8wp9-YpZLY0ZJgVW_yLwvfdenv3b88bclFWpXPsKJFaHce8ruGQUkcuO5hwPOWaZqMxP1drKkr98KYqlwG4r0SSofsDtkp7faxbBrdB6Uz8taGWNwpOQJO5Is1jF78dpN6Jng6xi3Xq9-NAGEL_3sTpqHfvtDQbYB5coa6lPlE4KOLAa_qz-17vk-n54p9qSB2i4QUHDKI1m_YhDSp37iZFEhLnk09gf44cSGiEPailEytHiZdQZl5A0l-Fjc6c-CwKA&udm=8&sa=X&ved=2ahUKEwiAm7rhs5CXAxVEuUwKHdx7NWYQkbEKegQIHBAE",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=pe&google_domain=google.com&hl=es&location=Peru&q=Data+Analyst+remoto+en+la+%C3%BAltima+semana&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rbEuBYaSZikTI9rl4Hr1einw4RpJWnMy7ZjkouPBqpYTVdWroIl88HeI2rnuXLbYDkkbvF6V225zU0Y2XQCay5tqVBq5n5z6XT4tdaZ9WI8vyute-Jvydk6Srs39iZWOirF8wp9-YpZLY0ZJgVW_yLwvfdenv3b88bclFWpXPsKJFaHce8ruGQUkcuO5hwPOWaZqMxP1drKkr98KYqlwG4r0SSofsDtkp7faxbBrdB6Uz8taGWNwpOQJO5Is1jF78dpN6Jng6xi3Xq9-NAGEL_3sTpqHfvtDQbYB5coa6lPlE4KOLAa_qz-17vk-n54p9qSB2i4QUHDKI1m_YhDSp37iZFEhLnk09gf44cSGiEPailEytHiZdQZl5A0l-Fjc6c-CwKA"
+        },
+        {
+          "name": "Último mes",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4rFOYina6-I1R1gKL9iTZ5BQIIZJsifPx7Yx-ShxRUGibow123Gp09JvXVx-64i9cDv3Obk4ANBwPZi-YUytZnTbpzHBCwEPcxl9203w3PuxF6Gq9r60ZqEzezSImh5eBa31B-3MEstJcOw8itC3smF9rj58P-aZhupIYkunlm_0OPbngwwXFcU3mq2JKkINmMAN_jKUF_OhNt2LPrbErJa62H3CaH42eTBPc0WEGLvOPENXZTKU_PswgEoGwPzIaIOsW_gviqkG8M3QY4bu5c8boRBtAyIdAfyauTMOPDmAknwc_ft0L4E310QCCThugk75wR28OrkaXOiC9K9wHiJVRPLvn15_0SZAZEiNMDivyQ-XDA9lfQnTDlc2MvAMBtO2wKnw",
+            "q": "Data Analyst remoto en el último mes"
+          },
+          "link": "https://www.google.com/search?sca_esv=2d6c5a1e6a3d194c&gl=pe&hl=es&sxsrf=APpeQnuvNCZx_5H8M0c4ZTsaAWlBp2h7KA:1790568580426&q=Data+Analyst+remoto+en+el+%C3%BAltimo+mes&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rFOYina6-I1R1gKL9iTZ5BQIIZJsifPx7Yx-ShxRUGibow123Gp09JvXVx-64i9cDv3Obk4ANBwPZi-YUytZnTbpzHBCwEPcxl9203w3PuxF6Gq9r60ZqEzezSImh5eBa31B-3MEstJcOw8itC3smF9rj58P-aZhupIYkunlm_0OPbngwwXFcU3mq2JKkINmMAN_jKUF_OhNt2LPrbErJa62H3CaH42eTBPc0WEGLvOPENXZTKU_PswgEoGwPzIaIOsW_gviqkG8M3QY4bu5c8boRBtAyIdAfyauTMOPDmAknwc_ft0L4E310QCCThugk75wR28OrkaXOiC9K9wHiJVRPLvn15_0SZAZEiNMDivyQ-XDA9lfQnTDlc2MvAMBtO2wKnw&udm=8&sa=X&ved=2ahUKEwiAm7rhs5CXAxVEuUwKHdx7NWYQkbEKegQIHBAF",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=pe&google_domain=google.com&hl=es&location=Peru&q=Data+Analyst+remoto+en+el+%C3%BAltimo+mes&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rFOYina6-I1R1gKL9iTZ5BQIIZJsifPx7Yx-ShxRUGibow123Gp09JvXVx-64i9cDv3Obk4ANBwPZi-YUytZnTbpzHBCwEPcxl9203w3PuxF6Gq9r60ZqEzezSImh5eBa31B-3MEstJcOw8itC3smF9rj58P-aZhupIYkunlm_0OPbngwwXFcU3mq2JKkINmMAN_jKUF_OhNt2LPrbErJa62H3CaH42eTBPc0WEGLvOPENXZTKU_PswgEoGwPzIaIOsW_gviqkG8M3QY4bu5c8boRBtAyIdAfyauTMOPDmAknwc_ft0L4E310QCCThugk75wR28OrkaXOiC9K9wHiJVRPLvn15_0SZAZEiNMDivyQ-XDA9lfQnTDlc2MvAMBtO2wKnw"
+        }
+      ]
+    },
+    {
+      "name": "Tipo de trabajo",
+      "options": [
+        {
+          "name": "Tiempo completo",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4r-KsSjZZKsw6pqqtXgLmUrSu4IwwO35bhVjROu_4dPQ4-5m1LF6b6yhvX4205ilFKA2NPrKlBtjmU62fpXIFE15ilSGb-SLPmYz8YYowNi6qkshdpPtZstjkaBYxqn2mjINIOqVQ2vVdx29rPPmIwON0UsTROU90D3VYZzzXaGPkk75boRNZ-odiGhy1xcWaQ02LFU5JMYGxIklwZ1n_vMUlsvZMqLWtQ8W22h0l9mr4ZQOeDb3o0yDM2iJ05kvaO_4Izg8n7V7kbzolkoZQcWs8eUN3KUJvAZxob51PHfcnfRb3zqGLLs3eNht45xC71mtUJAETcpOIRmRBv9Nbjcq9c15k",
+            "q": "Data Analyst remoto tiempo completo"
+          },
+          "link": "https://www.google.com/search?sca_esv=2d6c5a1e6a3d194c&gl=pe&hl=es&sxsrf=APpeQnuvNCZx_5H8M0c4ZTsaAWlBp2h7KA:1790568580426&q=Data+Analyst+remoto+tiempo+completo&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4r-KsSjZZKsw6pqqtXgLmUrSu4IwwO35bhVjROu_4dPQ4-5m1LF6b6yhvX4205ilFKA2NPrKlBtjmU62fpXIFE15ilSGb-SLPmYz8YYowNi6qkshdpPtZstjkaBYxqn2mjINIOqVQ2vVdx29rPPmIwON0UsTROU90D3VYZzzXaGPkk75boRNZ-odiGhy1xcWaQ02LFU5JMYGxIklwZ1n_vMUlsvZMqLWtQ8W22h0l9mr4ZQOeDb3o0yDM2iJ05kvaO_4Izg8n7V7kbzolkoZQcWs8eUN3KUJvAZxob51PHfcnfRb3zqGLLs3eNht45xC71mtUJAETcpOIRmRBv9Nbjcq9c15k&udm=8&sa=X&ved=2ahUKEwiAm7rhs5CXAxVEuUwKHdx7NWYQkbEKegQIHRAC",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=pe&google_domain=google.com&hl=es&location=Peru&q=Data+Analyst+remoto+tiempo+completo&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4r-KsSjZZKsw6pqqtXgLmUrSu4IwwO35bhVjROu_4dPQ4-5m1LF6b6yhvX4205ilFKA2NPrKlBtjmU62fpXIFE15ilSGb-SLPmYz8YYowNi6qkshdpPtZstjkaBYxqn2mjINIOqVQ2vVdx29rPPmIwON0UsTROU90D3VYZzzXaGPkk75boRNZ-odiGhy1xcWaQ02LFU5JMYGxIklwZ1n_vMUlsvZMqLWtQ8W22h0l9mr4ZQOeDb3o0yDM2iJ05kvaO_4Izg8n7V7kbzolkoZQcWs8eUN3KUJvAZxob51PHfcnfRb3zqGLLs3eNht45xC71mtUJAETcpOIRmRBv9Nbjcq9c15k"
+        },
+        {
+          "name": "Tiempo parcial",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4r17aGM3IXK8YqQsv6R6q94CQMZmI74Kz0EP-L6mC7N0H3BzqE0fKPuTZUa9WJkccmPj_FnXDZseTzTtyOT9xnrYkAb2ulosCqaxnAoxtebwgvPI2eNqVsUhPh10QA8awUN-twat8M7V_uoZmczrLcop5See7b8zV_kPCyabUhJJv7r-GGBvSIIm94lRnJx9t1NL7l6H-VyHJHEGzIB59gKyH1HtckoXq-RLmEbvoRY8PYDPSj78K3qYIfGihoIvQgv9Lnj20EtNA_11jiwbsBL40oUBYHP80H3wE5VNUYf2_6J1Yawn3o8mI3VYz9R7XWdC8MpAyR_-NZ8ClZWUxF8RmgXi8YgosSY8AecXh_gzTYkt4J",
+            "q": "Data Analyst remoto tiempo parcial"
+          },
+          "link": "https://www.google.com/search?sca_esv=2d6c5a1e6a3d194c&gl=pe&hl=es&sxsrf=APpeQnuvNCZx_5H8M0c4ZTsaAWlBp2h7KA:1790568580426&q=Data+Analyst+remoto+tiempo+parcial&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4r17aGM3IXK8YqQsv6R6q94CQMZmI74Kz0EP-L6mC7N0H3BzqE0fKPuTZUa9WJkccmPj_FnXDZseTzTtyOT9xnrYkAb2ulosCqaxnAoxtebwgvPI2eNqVsUhPh10QA8awUN-twat8M7V_uoZmczrLcop5See7b8zV_kPCyabUhJJv7r-GGBvSIIm94lRnJx9t1NL7l6H-VyHJHEGzIB59gKyH1HtckoXq-RLmEbvoRY8PYDPSj78K3qYIfGihoIvQgv9Lnj20EtNA_11jiwbsBL40oUBYHP80H3wE5VNUYf2_6J1Yawn3o8mI3VYz9R7XWdC8MpAyR_-NZ8ClZWUxF8RmgXi8YgosSY8AecXh_gzTYkt4J&udm=8&sa=X&ved=2ahUKEwiAm7rhs5CXAxVEuUwKHdx7NWYQkbEKegQIHRAD",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=pe&google_domain=google.com&hl=es&location=Peru&q=Data+Analyst+remoto+tiempo+parcial&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4r17aGM3IXK8YqQsv6R6q94CQMZmI74Kz0EP-L6mC7N0H3BzqE0fKPuTZUa9WJkccmPj_FnXDZseTzTtyOT9xnrYkAb2ulosCqaxnAoxtebwgvPI2eNqVsUhPh10QA8awUN-twat8M7V_uoZmczrLcop5See7b8zV_kPCyabUhJJv7r-GGBvSIIm94lRnJx9t1NL7l6H-VyHJHEGzIB59gKyH1HtckoXq-RLmEbvoRY8PYDPSj78K3qYIfGihoIvQgv9Lnj20EtNA_11jiwbsBL40oUBYHP80H3wE5VNUYf2_6J1Yawn3o8mI3VYz9R7XWdC8MpAyR_-NZ8ClZWUxF8RmgXi8YgosSY8AecXh_gzTYkt4J"
+        },
+        {
+          "name": "Con contrato",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4rhCEkIt9GvvRJJ93adf3AN9b4hycjEM2OA4p9frIPN9Mq2cjrXeZ_8_krJag4cnzr9e-3nYTtFSZxiRIENcJrCllCZXjodMn8JXOI_BteQfq4gzmXTXxtzZvgRu5zhdFKRQSScchn_-KwTHrX_Rybo7nWiHlHqrKMGOMEZY8exoLw6bXedX23_kJukrif49FtopZXDybPavDHFVSE962gasO9BR6VmmQRnJjMokQr4WtfBu6FYfnqzgWR8J1K0C4ZuGbnvacIEo_srnq44tcKRS4tMKHVB4lo2zrHcRHH5NSnoirzPxF5o0wcxQn5tjQGqOZd_UcFTNly9a-CX9aClDwRZG8WMawC25ueQscCYUuCDeZw",
+            "q": "Data Analyst remoto con contrato"
+          },
+          "link": "https://www.google.com/search?sca_esv=2d6c5a1e6a3d194c&gl=pe&hl=es&sxsrf=APpeQnuvNCZx_5H8M0c4ZTsaAWlBp2h7KA:1790568580426&q=Data+Analyst+remoto+con+contrato&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rhCEkIt9GvvRJJ93adf3AN9b4hycjEM2OA4p9frIPN9Mq2cjrXeZ_8_krJag4cnzr9e-3nYTtFSZxiRIENcJrCllCZXjodMn8JXOI_BteQfq4gzmXTXxtzZvgRu5zhdFKRQSScchn_-KwTHrX_Rybo7nWiHlHqrKMGOMEZY8exoLw6bXedX23_kJukrif49FtopZXDybPavDHFVSE962gasO9BR6VmmQRnJjMokQr4WtfBu6FYfnqzgWR8J1K0C4ZuGbnvacIEo_srnq44tcKRS4tMKHVB4lo2zrHcRHH5NSnoirzPxF5o0wcxQn5tjQGqOZd_UcFTNly9a-CX9aClDwRZG8WMawC25ueQscCYUuCDeZw&udm=8&sa=X&ved=2ahUKEwiAm7rhs5CXAxVEuUwKHdx7NWYQkbEKegQIHRAE",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=pe&google_domain=google.com&hl=es&location=Peru&q=Data+Analyst+remoto+con+contrato&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rhCEkIt9GvvRJJ93adf3AN9b4hycjEM2OA4p9frIPN9Mq2cjrXeZ_8_krJag4cnzr9e-3nYTtFSZxiRIENcJrCllCZXjodMn8JXOI_BteQfq4gzmXTXxtzZvgRu5zhdFKRQSScchn_-KwTHrX_Rybo7nWiHlHqrKMGOMEZY8exoLw6bXedX23_kJukrif49FtopZXDybPavDHFVSE962gasO9BR6VmmQRnJjMokQr4WtfBu6FYfnqzgWR8J1K0C4ZuGbnvacIEo_srnq44tcKRS4tMKHVB4lo2zrHcRHH5NSnoirzPxF5o0wcxQn5tjQGqOZd_UcFTNly9a-CX9aClDwRZG8WMawC25ueQscCYUuCDeZw"
+        },
+        {
+          "name": "Prácticas",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4rYfX9qx7BEx7wzihEPQG9Yn9xLm3eJOK2_CPiY_RtprvXNc6pwazdB-A9sf9r2Xzz-I8VKnnaR4GyuckoSN2OMXfYhokpFQBvar6KrWeqLhB4YiSYWSOCS-hRotCTrw7vxRpXxijaOD0VG6RqegAzvVPGDaA269H_MHAtx2XG5jVgP5eUEL8hiJaKkvVGRrHs40YquCHVfiseYL3L6d4bcMfmq--gBw0pt4ZQfzCB0LCbHGycu3LV2W-8U6NzVLH7irClFBdEUpE_9z8Wi5EHEsxZx3Anu8IsPUCpv3NWXP9Ah7B_vCKrdceBbTTSbRYE74spzJ5N2RhXRExaOkE8wCaF1u4",
+            "q": "Data Analyst remoto prácticas"
+          },
+          "link": "https://www.google.com/search?sca_esv=2d6c5a1e6a3d194c&gl=pe&hl=es&sxsrf=APpeQnuvNCZx_5H8M0c4ZTsaAWlBp2h7KA:1790568580426&q=Data+Analyst+remoto+pr%C3%A1cticas&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rYfX9qx7BEx7wzihEPQG9Yn9xLm3eJOK2_CPiY_RtprvXNc6pwazdB-A9sf9r2Xzz-I8VKnnaR4GyuckoSN2OMXfYhokpFQBvar6KrWeqLhB4YiSYWSOCS-hRotCTrw7vxRpXxijaOD0VG6RqegAzvVPGDaA269H_MHAtx2XG5jVgP5eUEL8hiJaKkvVGRrHs40YquCHVfiseYL3L6d4bcMfmq--gBw0pt4ZQfzCB0LCbHGycu3LV2W-8U6NzVLH7irClFBdEUpE_9z8Wi5EHEsxZx3Anu8IsPUCpv3NWXP9Ah7B_vCKrdceBbTTSbRYE74spzJ5N2RhXRExaOkE8wCaF1u4&udm=8&sa=X&ved=2ahUKEwiAm7rhs5CXAxVEuUwKHdx7NWYQkbEKegQIHRAF",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=pe&google_domain=google.com&hl=es&location=Peru&q=Data+Analyst+remoto+pr%C3%A1cticas&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rYfX9qx7BEx7wzihEPQG9Yn9xLm3eJOK2_CPiY_RtprvXNc6pwazdB-A9sf9r2Xzz-I8VKnnaR4GyuckoSN2OMXfYhokpFQBvar6KrWeqLhB4YiSYWSOCS-hRotCTrw7vxRpXxijaOD0VG6RqegAzvVPGDaA269H_MHAtx2XG5jVgP5eUEL8hiJaKkvVGRrHs40YquCHVfiseYL3L6d4bcMfmq--gBw0pt4ZQfzCB0LCbHGycu3LV2W-8U6NzVLH7irClFBdEUpE_9z8Wi5EHEsxZx3Anu8IsPUCpv3NWXP9Ah7B_vCKrdceBbTTSbRYE74spzJ5N2RhXRExaOkE8wCaF1u4"
+        }
+      ]
+    },
+    {
+      "name": "Tipo de trabajo",
+      "options": [
+        {
+          "name": "Tiempo completo",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4r-KsSjZZKsw6pqqtXgLmUrSu4IwwO35bhVjROu_4dPQ4-5m1LF6b6yhvX4205ilFKA2NPrKlBtjmU62fpXIFE15ilSGb-SLPmYz8YYowNi6qkshdpPtZstjkaBYxqn2mjINIOqVQ2vVdx29rPPmIwON0UsTROU90D3VYZzzXaGPkk75boRNZ-odiGhy1xcWaQ02LFU5JMYGxIklwZ1n_vMUlsvZMqLWtQ8W22h0l9mr4ZQOeDb3o0yDM2iJ05kvaO_4Izg8n7V7kbzolkoZQcWs8eUN3KUJvAZxob51PHfcnfRb3zqGLLs3eNht45xC71mtUJAETcpOIRmRBv9Nbjcq9c15k",
+            "q": "Data Analyst remoto tiempo completo"
+          },
+          "link": "https://www.google.com/search?sca_esv=2d6c5a1e6a3d194c&gl=pe&hl=es&sxsrf=APpeQnuvNCZx_5H8M0c4ZTsaAWlBp2h7KA:1790568580426&q=Data+Analyst+remoto+tiempo+completo&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4r-KsSjZZKsw6pqqtXgLmUrSu4IwwO35bhVjROu_4dPQ4-5m1LF6b6yhvX4205ilFKA2NPrKlBtjmU62fpXIFE15ilSGb-SLPmYz8YYowNi6qkshdpPtZstjkaBYxqn2mjINIOqVQ2vVdx29rPPmIwON0UsTROU90D3VYZzzXaGPkk75boRNZ-odiGhy1xcWaQ02LFU5JMYGxIklwZ1n_vMUlsvZMqLWtQ8W22h0l9mr4ZQOeDb3o0yDM2iJ05kvaO_4Izg8n7V7kbzolkoZQcWs8eUN3KUJvAZxob51PHfcnfRb3zqGLLs3eNht45xC71mtUJAETcpOIRmRBv9Nbjcq9c15k&udm=8&sa=X&ved=2ahUKEwiAm7rhs5CXAxVEuUwKHdx7NWYQkbEKegQIHRAC",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=pe&google_domain=google.com&hl=es&location=Peru&q=Data+Analyst+remoto+tiempo+completo&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4r-KsSjZZKsw6pqqtXgLmUrSu4IwwO35bhVjROu_4dPQ4-5m1LF6b6yhvX4205ilFKA2NPrKlBtjmU62fpXIFE15ilSGb-SLPmYz8YYowNi6qkshdpPtZstjkaBYxqn2mjINIOqVQ2vVdx29rPPmIwON0UsTROU90D3VYZzzXaGPkk75boRNZ-odiGhy1xcWaQ02LFU5JMYGxIklwZ1n_vMUlsvZMqLWtQ8W22h0l9mr4ZQOeDb3o0yDM2iJ05kvaO_4Izg8n7V7kbzolkoZQcWs8eUN3KUJvAZxob51PHfcnfRb3zqGLLs3eNht45xC71mtUJAETcpOIRmRBv9Nbjcq9c15k"
+        },
+        {
+          "name": "Tiempo parcial",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4r17aGM3IXK8YqQsv6R6q94CQMZmI74Kz0EP-L6mC7N0H3BzqE0fKPuTZUa9WJkccmPj_FnXDZseTzTtyOT9xnrYkAb2ulosCqaxnAoxtebwgvPI2eNqVsUhPh10QA8awUN-twat8M7V_uoZmczrLcop5See7b8zV_kPCyabUhJJv7r-GGBvSIIm94lRnJx9t1NL7l6H-VyHJHEGzIB59gKyH1HtckoXq-RLmEbvoRY8PYDPSj78K3qYIfGihoIvQgv9Lnj20EtNA_11jiwbsBL40oUBYHP80H3wE5VNUYf2_6J1Yawn3o8mI3VYz9R7XWdC8MpAyR_-NZ8ClZWUxF8RmgXi8YgosSY8AecXh_gzTYkt4J",
+            "q": "Data Analyst remoto tiempo parcial"
+          },
+          "link": "https://www.google.com/search?sca_esv=2d6c5a1e6a3d194c&gl=pe&hl=es&sxsrf=APpeQnuvNCZx_5H8M0c4ZTsaAWlBp2h7KA:1790568580426&q=Data+Analyst+remoto+tiempo+parcial&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4r17aGM3IXK8YqQsv6R6q94CQMZmI74Kz0EP-L6mC7N0H3BzqE0fKPuTZUa9WJkccmPj_FnXDZseTzTtyOT9xnrYkAb2ulosCqaxnAoxtebwgvPI2eNqVsUhPh10QA8awUN-twat8M7V_uoZmczrLcop5See7b8zV_kPCyabUhJJv7r-GGBvSIIm94lRnJx9t1NL7l6H-VyHJHEGzIB59gKyH1HtckoXq-RLmEbvoRY8PYDPSj78K3qYIfGihoIvQgv9Lnj20EtNA_11jiwbsBL40oUBYHP80H3wE5VNUYf2_6J1Yawn3o8mI3VYz9R7XWdC8MpAyR_-NZ8ClZWUxF8RmgXi8YgosSY8AecXh_gzTYkt4J&udm=8&sa=X&ved=2ahUKEwiAm7rhs5CXAxVEuUwKHdx7NWYQkbEKegQIHRAD",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=pe&google_domain=google.com&hl=es&location=Peru&q=Data+Analyst+remoto+tiempo+parcial&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4r17aGM3IXK8YqQsv6R6q94CQMZmI74Kz0EP-L6mC7N0H3BzqE0fKPuTZUa9WJkccmPj_FnXDZseTzTtyOT9xnrYkAb2ulosCqaxnAoxtebwgvPI2eNqVsUhPh10QA8awUN-twat8M7V_uoZmczrLcop5See7b8zV_kPCyabUhJJv7r-GGBvSIIm94lRnJx9t1NL7l6H-VyHJHEGzIB59gKyH1HtckoXq-RLmEbvoRY8PYDPSj78K3qYIfGihoIvQgv9Lnj20EtNA_11jiwbsBL40oUBYHP80H3wE5VNUYf2_6J1Yawn3o8mI3VYz9R7XWdC8MpAyR_-NZ8ClZWUxF8RmgXi8YgosSY8AecXh_gzTYkt4J"
+        },
+        {
+          "name": "Con contrato",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4rhCEkIt9GvvRJJ93adf3AN9b4hycjEM2OA4p9frIPN9Mq2cjrXeZ_8_krJag4cnzr9e-3nYTtFSZxiRIENcJrCllCZXjodMn8JXOI_BteQfq4gzmXTXxtzZvgRu5zhdFKRQSScchn_-KwTHrX_Rybo7nWiHlHqrKMGOMEZY8exoLw6bXedX23_kJukrif49FtopZXDybPavDHFVSE962gasO9BR6VmmQRnJjMokQr4WtfBu6FYfnqzgWR8J1K0C4ZuGbnvacIEo_srnq44tcKRS4tMKHVB4lo2zrHcRHH5NSnoirzPxF5o0wcxQn5tjQGqOZd_UcFTNly9a-CX9aClDwRZG8WMawC25ueQscCYUuCDeZw",
+            "q": "Data Analyst remoto con contrato"
+          },
+          "link": "https://www.google.com/search?sca_esv=2d6c5a1e6a3d194c&gl=pe&hl=es&sxsrf=APpeQnuvNCZx_5H8M0c4ZTsaAWlBp2h7KA:1790568580426&q=Data+Analyst+remoto+con+contrato&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rhCEkIt9GvvRJJ93adf3AN9b4hycjEM2OA4p9frIPN9Mq2cjrXeZ_8_krJag4cnzr9e-3nYTtFSZxiRIENcJrCllCZXjodMn8JXOI_BteQfq4gzmXTXxtzZvgRu5zhdFKRQSScchn_-KwTHrX_Rybo7nWiHlHqrKMGOMEZY8exoLw6bXedX23_kJukrif49FtopZXDybPavDHFVSE962gasO9BR6VmmQRnJjMokQr4WtfBu6FYfnqzgWR8J1K0C4ZuGbnvacIEo_srnq44tcKRS4tMKHVB4lo2zrHcRHH5NSnoirzPxF5o0wcxQn5tjQGqOZd_UcFTNly9a-CX9aClDwRZG8WMawC25ueQscCYUuCDeZw&udm=8&sa=X&ved=2ahUKEwiAm7rhs5CXAxVEuUwKHdx7NWYQkbEKegQIHRAE",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=pe&google_domain=google.com&hl=es&location=Peru&q=Data+Analyst+remoto+con+contrato&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rhCEkIt9GvvRJJ93adf3AN9b4hycjEM2OA4p9frIPN9Mq2cjrXeZ_8_krJag4cnzr9e-3nYTtFSZxiRIENcJrCllCZXjodMn8JXOI_BteQfq4gzmXTXxtzZvgRu5zhdFKRQSScchn_-KwTHrX_Rybo7nWiHlHqrKMGOMEZY8exoLw6bXedX23_kJukrif49FtopZXDybPavDHFVSE962gasO9BR6VmmQRnJjMokQr4WtfBu6FYfnqzgWR8J1K0C4ZuGbnvacIEo_srnq44tcKRS4tMKHVB4lo2zrHcRHH5NSnoirzPxF5o0wcxQn5tjQGqOZd_UcFTNly9a-CX9aClDwRZG8WMawC25ueQscCYUuCDeZw"
+        },
+        {
+          "name": "Prácticas",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4rYfX9qx7BEx7wzihEPQG9Yn9xLm3eJOK2_CPiY_RtprvXNc6pwazdB-A9sf9r2Xzz-I8VKnnaR4GyuckoSN2OMXfYhokpFQBvar6KrWeqLhB4YiSYWSOCS-hRotCTrw7vxRpXxijaOD0VG6RqegAzvVPGDaA269H_MHAtx2XG5jVgP5eUEL8hiJaKkvVGRrHs40YquCHVfiseYL3L6d4bcMfmq--gBw0pt4ZQfzCB0LCbHGycu3LV2W-8U6NzVLH7irClFBdEUpE_9z8Wi5EHEsxZx3Anu8IsPUCpv3NWXP9Ah7B_vCKrdceBbTTSbRYE74spzJ5N2RhXRExaOkE8wCaF1u4",
+            "q": "Data Analyst remoto prácticas"
+          },
+          "link": "https://www.google.com/search?sca_esv=2d6c5a1e6a3d194c&gl=pe&hl=es&sxsrf=APpeQnuvNCZx_5H8M0c4ZTsaAWlBp2h7KA:1790568580426&q=Data+Analyst+remoto+pr%C3%A1cticas&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rYfX9qx7BEx7wzihEPQG9Yn9xLm3eJOK2_CPiY_RtprvXNc6pwazdB-A9sf9r2Xzz-I8VKnnaR4GyuckoSN2OMXfYhokpFQBvar6KrWeqLhB4YiSYWSOCS-hRotCTrw7vxRpXxijaOD0VG6RqegAzvVPGDaA269H_MHAtx2XG5jVgP5eUEL8hiJaKkvVGRrHs40YquCHVfiseYL3L6d4bcMfmq--gBw0pt4ZQfzCB0LCbHGycu3LV2W-8U6NzVLH7irClFBdEUpE_9z8Wi5EHEsxZx3Anu8IsPUCpv3NWXP9Ah7B_vCKrdceBbTTSbRYE74spzJ5N2RhXRExaOkE8wCaF1u4&udm=8&sa=X&ved=2ahUKEwiAm7rhs5CXAxVEuUwKHdx7NWYQkbEKegQIHRAF",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=pe&google_domain=google.com&hl=es&location=Peru&q=Data+Analyst+remoto+pr%C3%A1cticas&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rYfX9qx7BEx7wzihEPQG9Yn9xLm3eJOK2_CPiY_RtprvXNc6pwazdB-A9sf9r2Xzz-I8VKnnaR4GyuckoSN2OMXfYhokpFQBvar6KrWeqLhB4YiSYWSOCS-hRotCTrw7vxRpXxijaOD0VG6RqegAzvVPGDaA269H_MHAtx2XG5jVgP5eUEL8hiJaKkvVGRrHs40YquCHVfiseYL3L6d4bcMfmq--gBw0pt4ZQfzCB0LCbHGycu3LV2W-8U6NzVLH7irClFBdEUpE_9z8Wi5EHEsxZx3Anu8IsPUCpv3NWXP9Ah7B_vCKrdceBbTTSbRYE74spzJ5N2RhXRExaOkE8wCaF1u4"
+        }
+      ]
+    },
+    {
+      "name": "Fecha de publicación",
+      "options": [
+        {
+          "name": "Ayer",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4rprWL6OpWZoNRzUmdBA3qD-o7av0R1YxIY0-_oJkXHQaiHxFAny5j1B8-reRnuxbY6cPcEnMgySpxYCHRQxLSYs-mMuGq3IA61eInNFgcv5YGfFfNMua7LwKQtk5Ep1eNsTkcxF8iRdVoFgsTN6U1XjgkYszhV97BgMhb9ITC8E2HaI0sfkKjSstSQODrsaZV2CTn1AlW0aXFJqBf4dRiEn20sg0CTSgxT-_94V1aneHtwucRKEjbYfPeBixTXKTgM-dupxJipGcKS1_hhcEUls0K5CSo817pbEZG8mj6JsKflJh7OoLPntovI5F2sjl2u99v8WBqIuXIUVuwyPCfKyVsXRQU-Uai5jt7qCFSXLkwGkRQqizqj371huzfIFIT1NFbAg",
+            "q": "Data Analyst remoto desde ayer"
+          },
+          "link": "https://www.google.com/search?sca_esv=2d6c5a1e6a3d194c&gl=pe&hl=es&sxsrf=APpeQnuvNCZx_5H8M0c4ZTsaAWlBp2h7KA:1790568580426&q=Data+Analyst+remoto+desde+ayer&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rprWL6OpWZoNRzUmdBA3qD-o7av0R1YxIY0-_oJkXHQaiHxFAny5j1B8-reRnuxbY6cPcEnMgySpxYCHRQxLSYs-mMuGq3IA61eInNFgcv5YGfFfNMua7LwKQtk5Ep1eNsTkcxF8iRdVoFgsTN6U1XjgkYszhV97BgMhb9ITC8E2HaI0sfkKjSstSQODrsaZV2CTn1AlW0aXFJqBf4dRiEn20sg0CTSgxT-_94V1aneHtwucRKEjbYfPeBixTXKTgM-dupxJipGcKS1_hhcEUls0K5CSo817pbEZG8mj6JsKflJh7OoLPntovI5F2sjl2u99v8WBqIuXIUVuwyPCfKyVsXRQU-Uai5jt7qCFSXLkwGkRQqizqj371huzfIFIT1NFbAg&udm=8&sa=X&ved=2ahUKEwiAm7rhs5CXAxVEuUwKHdx7NWYQkbEKegQIHhAC",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=pe&google_domain=google.com&hl=es&location=Peru&q=Data+Analyst+remoto+desde+ayer&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rprWL6OpWZoNRzUmdBA3qD-o7av0R1YxIY0-_oJkXHQaiHxFAny5j1B8-reRnuxbY6cPcEnMgySpxYCHRQxLSYs-mMuGq3IA61eInNFgcv5YGfFfNMua7LwKQtk5Ep1eNsTkcxF8iRdVoFgsTN6U1XjgkYszhV97BgMhb9ITC8E2HaI0sfkKjSstSQODrsaZV2CTn1AlW0aXFJqBf4dRiEn20sg0CTSgxT-_94V1aneHtwucRKEjbYfPeBixTXKTgM-dupxJipGcKS1_hhcEUls0K5CSo817pbEZG8mj6JsKflJh7OoLPntovI5F2sjl2u99v8WBqIuXIUVuwyPCfKyVsXRQU-Uai5jt7qCFSXLkwGkRQqizqj371huzfIFIT1NFbAg"
+        },
+        {
+          "name": "Últimos 3 días",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4r3M11scUDrwafc40twrp9CVpJGGeNfUbE5uYfOodxtsSfIBm2LosSeP5AZkyVIY6DOGTn5beFnjgt0m1fLcDn4pP9FjmDHfj5PPfou6dM7E_MehSg49lXATew7tRhy_E0KGScmgJWR_zo_MvxgTTpDQY32p8N6YAevaK--BDADxMOOWx4f3bUHWN0vR88TGmoqAR_J6yBgcDwyAVJCNtmio6OsTUaxS1lHJxYzs_1soUnC13_ZbgZwBmu3eF18I4zO60BbrPSyDrYNpaEsmTvK9IqW1FjQW0He-iKucp8cIhpcRf2_aIWQI4Td4Evpd6xyR8g4rtspxAkwUgYmLiJ2GJiud-ti8TQ-3b9raZuJ1vA4hXL_96LRtkCHqaL9CmvPuHQaw",
+            "q": "Data Analyst remoto en los últimos 3 días"
+          },
+          "link": "https://www.google.com/search?sca_esv=2d6c5a1e6a3d194c&gl=pe&hl=es&sxsrf=APpeQnuvNCZx_5H8M0c4ZTsaAWlBp2h7KA:1790568580426&q=Data+Analyst+remoto+en+los+%C3%BAltimos+3+d%C3%ADas&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4r3M11scUDrwafc40twrp9CVpJGGeNfUbE5uYfOodxtsSfIBm2LosSeP5AZkyVIY6DOGTn5beFnjgt0m1fLcDn4pP9FjmDHfj5PPfou6dM7E_MehSg49lXATew7tRhy_E0KGScmgJWR_zo_MvxgTTpDQY32p8N6YAevaK--BDADxMOOWx4f3bUHWN0vR88TGmoqAR_J6yBgcDwyAVJCNtmio6OsTUaxS1lHJxYzs_1soUnC13_ZbgZwBmu3eF18I4zO60BbrPSyDrYNpaEsmTvK9IqW1FjQW0He-iKucp8cIhpcRf2_aIWQI4Td4Evpd6xyR8g4rtspxAkwUgYmLiJ2GJiud-ti8TQ-3b9raZuJ1vA4hXL_96LRtkCHqaL9CmvPuHQaw&udm=8&sa=X&ved=2ahUKEwiAm7rhs5CXAxVEuUwKHdx7NWYQkbEKegQIHhAD",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=pe&google_domain=google.com&hl=es&location=Peru&q=Data+Analyst+remoto+en+los+%C3%BAltimos+3+d%C3%ADas&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4r3M11scUDrwafc40twrp9CVpJGGeNfUbE5uYfOodxtsSfIBm2LosSeP5AZkyVIY6DOGTn5beFnjgt0m1fLcDn4pP9FjmDHfj5PPfou6dM7E_MehSg49lXATew7tRhy_E0KGScmgJWR_zo_MvxgTTpDQY32p8N6YAevaK--BDADxMOOWx4f3bUHWN0vR88TGmoqAR_J6yBgcDwyAVJCNtmio6OsTUaxS1lHJxYzs_1soUnC13_ZbgZwBmu3eF18I4zO60BbrPSyDrYNpaEsmTvK9IqW1FjQW0He-iKucp8cIhpcRf2_aIWQI4Td4Evpd6xyR8g4rtspxAkwUgYmLiJ2GJiud-ti8TQ-3b9raZuJ1vA4hXL_96LRtkCHqaL9CmvPuHQaw"
+        },
+        {
+          "name": "Última semana",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4rbEuBYaSZikTI9rl4Hr1einw4RpJWnMy7ZjkouPBqpYTVdWroIl88HeI2rnuXLbYDkkbvF6V225zU0Y2XQCay5tqVBq5n5z6XT4tdaZ9WI8vyute-Jvydk6Srs39iZWOirF8wp9-YpZLY0ZJgVW_yLwvfdenv3b88bclFWpXPsKJFaHce8ruGQUkcuO5hwPOWaZqMxP1drKkr98KYqlwG4r0SSofsDtkp7faxbBrdB6Uz8taGWNwpOQJO5Is1jF78dpN6Jng6xi3Xq9-NAGEL_3sTpqHfvtDQbYB5coa6lPlE4KOLAa_qz-17vk-n54p9qSB2i4QUHDKI1m_YhDSp37iZFEhLnk09gf44cSGiEPailEytHiZdQZl5A0l-Fjc6c-CwKA",
+            "q": "Data Analyst remoto en la última semana"
+          },
+          "link": "https://www.google.com/search?sca_esv=2d6c5a1e6a3d194c&gl=pe&hl=es&sxsrf=APpeQnuvNCZx_5H8M0c4ZTsaAWlBp2h7KA:1790568580426&q=Data+Analyst+remoto+en+la+%C3%BAltima+semana&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rbEuBYaSZikTI9rl4Hr1einw4RpJWnMy7ZjkouPBqpYTVdWroIl88HeI2rnuXLbYDkkbvF6V225zU0Y2XQCay5tqVBq5n5z6XT4tdaZ9WI8vyute-Jvydk6Srs39iZWOirF8wp9-YpZLY0ZJgVW_yLwvfdenv3b88bclFWpXPsKJFaHce8ruGQUkcuO5hwPOWaZqMxP1drKkr98KYqlwG4r0SSofsDtkp7faxbBrdB6Uz8taGWNwpOQJO5Is1jF78dpN6Jng6xi3Xq9-NAGEL_3sTpqHfvtDQbYB5coa6lPlE4KOLAa_qz-17vk-n54p9qSB2i4QUHDKI1m_YhDSp37iZFEhLnk09gf44cSGiEPailEytHiZdQZl5A0l-Fjc6c-CwKA&udm=8&sa=X&ved=2ahUKEwiAm7rhs5CXAxVEuUwKHdx7NWYQkbEKegQIHhAE",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=pe&google_domain=google.com&hl=es&location=Peru&q=Data+Analyst+remoto+en+la+%C3%BAltima+semana&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rbEuBYaSZikTI9rl4Hr1einw4RpJWnMy7ZjkouPBqpYTVdWroIl88HeI2rnuXLbYDkkbvF6V225zU0Y2XQCay5tqVBq5n5z6XT4tdaZ9WI8vyute-Jvydk6Srs39iZWOirF8wp9-YpZLY0ZJgVW_yLwvfdenv3b88bclFWpXPsKJFaHce8ruGQUkcuO5hwPOWaZqMxP1drKkr98KYqlwG4r0SSofsDtkp7faxbBrdB6Uz8taGWNwpOQJO5Is1jF78dpN6Jng6xi3Xq9-NAGEL_3sTpqHfvtDQbYB5coa6lPlE4KOLAa_qz-17vk-n54p9qSB2i4QUHDKI1m_YhDSp37iZFEhLnk09gf44cSGiEPailEytHiZdQZl5A0l-Fjc6c-CwKA"
+        },
+        {
+          "name": "Último mes",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4rFOYina6-I1R1gKL9iTZ5BQIIZJsifPx7Yx-ShxRUGibow123Gp09JvXVx-64i9cDv3Obk4ANBwPZi-YUytZnTbpzHBCwEPcxl9203w3PuxF6Gq9r60ZqEzezSImh5eBa31B-3MEstJcOw8itC3smF9rj58P-aZhupIYkunlm_0OPbngwwXFcU3mq2JKkINmMAN_jKUF_OhNt2LPrbErJa62H3CaH42eTBPc0WEGLvOPENXZTKU_PswgEoGwPzIaIOsW_gviqkG8M3QY4bu5c8boRBtAyIdAfyauTMOPDmAknwc_ft0L4E310QCCThugk75wR28OrkaXOiC9K9wHiJVRPLvn15_0SZAZEiNMDivyQ-XDA9lfQnTDlc2MvAMBtO2wKnw",
+            "q": "Data Analyst remoto en el último mes"
+          },
+          "link": "https://www.google.com/search?sca_esv=2d6c5a1e6a3d194c&gl=pe&hl=es&sxsrf=APpeQnuvNCZx_5H8M0c4ZTsaAWlBp2h7KA:1790568580426&q=Data+Analyst+remoto+en+el+%C3%BAltimo+mes&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rFOYina6-I1R1gKL9iTZ5BQIIZJsifPx7Yx-ShxRUGibow123Gp09JvXVx-64i9cDv3Obk4ANBwPZi-YUytZnTbpzHBCwEPcxl9203w3PuxF6Gq9r60ZqEzezSImh5eBa31B-3MEstJcOw8itC3smF9rj58P-aZhupIYkunlm_0OPbngwwXFcU3mq2JKkINmMAN_jKUF_OhNt2LPrbErJa62H3CaH42eTBPc0WEGLvOPENXZTKU_PswgEoGwPzIaIOsW_gviqkG8M3QY4bu5c8boRBtAyIdAfyauTMOPDmAknwc_ft0L4E310QCCThugk75wR28OrkaXOiC9K9wHiJVRPLvn15_0SZAZEiNMDivyQ-XDA9lfQnTDlc2MvAMBtO2wKnw&udm=8&sa=X&ved=2ahUKEwiAm7rhs5CXAxVEuUwKHdx7NWYQkbEKegQIHhAF",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=pe&google_domain=google.com&hl=es&location=Peru&q=Data+Analyst+remoto+en+el+%C3%BAltimo+mes&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rFOYina6-I1R1gKL9iTZ5BQIIZJsifPx7Yx-ShxRUGibow123Gp09JvXVx-64i9cDv3Obk4ANBwPZi-YUytZnTbpzHBCwEPcxl9203w3PuxF6Gq9r60ZqEzezSImh5eBa31B-3MEstJcOw8itC3smF9rj58P-aZhupIYkunlm_0OPbngwwXFcU3mq2JKkINmMAN_jKUF_OhNt2LPrbErJa62H3CaH42eTBPc0WEGLvOPENXZTKU_PswgEoGwPzIaIOsW_gviqkG8M3QY4bu5c8boRBtAyIdAfyauTMOPDmAknwc_ft0L4E310QCCThugk75wR28OrkaXOiC9K9wHiJVRPLvn15_0SZAZEiNMDivyQ-XDA9lfQnTDlc2MvAMBtO2wKnw"
+        }
+      ]
+    },
+    {
+      "name": "Fecha de publicación",
+      "options": [
+        {
+          "name": "Ayer",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4rprWL6OpWZoNRzUmdBA3qD-o7av0R1YxIY0-_oJkXHQaiHxFAny5j1B8-reRnuxbY6cPcEnMgySpxYCHRQxLSYs-mMuGq3IA61eInNFgcv5YGfFfNMua7LwKQtk5Ep1eNsTkcxF8iRdVoFgsTN6U1XjgkYszhV97BgMhb9ITC8E2HaI0sfkKjSstSQODrsaZV2CTn1AlW0aXFJqBf4dRiEn20sg0CTSgxT-_94V1aneHtwucRKEjbYfPeBixTXKTgM-dupxJipGcKS1_hhcEUls0K5CSo817pbEZG8mj6JsKflJh7OoLPntovI5F2sjl2u99v8WBqIuXIUVuwyPCfKyVsXRQU-Uai5jt7qCFSXLkwGkRQqizqj371huzfIFIT1NFbAg",
+            "q": "Data Analyst remoto desde ayer"
+          },
+          "link": "https://www.google.com/search?sca_esv=2d6c5a1e6a3d194c&gl=pe&hl=es&sxsrf=APpeQnuvNCZx_5H8M0c4ZTsaAWlBp2h7KA:1790568580426&q=Data+Analyst+remoto+desde+ayer&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rprWL6OpWZoNRzUmdBA3qD-o7av0R1YxIY0-_oJkXHQaiHxFAny5j1B8-reRnuxbY6cPcEnMgySpxYCHRQxLSYs-mMuGq3IA61eInNFgcv5YGfFfNMua7LwKQtk5Ep1eNsTkcxF8iRdVoFgsTN6U1XjgkYszhV97BgMhb9ITC8E2HaI0sfkKjSstSQODrsaZV2CTn1AlW0aXFJqBf4dRiEn20sg0CTSgxT-_94V1aneHtwucRKEjbYfPeBixTXKTgM-dupxJipGcKS1_hhcEUls0K5CSo817pbEZG8mj6JsKflJh7OoLPntovI5F2sjl2u99v8WBqIuXIUVuwyPCfKyVsXRQU-Uai5jt7qCFSXLkwGkRQqizqj371huzfIFIT1NFbAg&udm=8&sa=X&ved=2ahUKEwiAm7rhs5CXAxVEuUwKHdx7NWYQkbEKegQIHhAC",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=pe&google_domain=google.com&hl=es&location=Peru&q=Data+Analyst+remoto+desde+ayer&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rprWL6OpWZoNRzUmdBA3qD-o7av0R1YxIY0-_oJkXHQaiHxFAny5j1B8-reRnuxbY6cPcEnMgySpxYCHRQxLSYs-mMuGq3IA61eInNFgcv5YGfFfNMua7LwKQtk5Ep1eNsTkcxF8iRdVoFgsTN6U1XjgkYszhV97BgMhb9ITC8E2HaI0sfkKjSstSQODrsaZV2CTn1AlW0aXFJqBf4dRiEn20sg0CTSgxT-_94V1aneHtwucRKEjbYfPeBixTXKTgM-dupxJipGcKS1_hhcEUls0K5CSo817pbEZG8mj6JsKflJh7OoLPntovI5F2sjl2u99v8WBqIuXIUVuwyPCfKyVsXRQU-Uai5jt7qCFSXLkwGkRQqizqj371huzfIFIT1NFbAg"
+        },
+        {
+          "name": "Últimos 3 días",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4r3M11scUDrwafc40twrp9CVpJGGeNfUbE5uYfOodxtsSfIBm2LosSeP5AZkyVIY6DOGTn5beFnjgt0m1fLcDn4pP9FjmDHfj5PPfou6dM7E_MehSg49lXATew7tRhy_E0KGScmgJWR_zo_MvxgTTpDQY32p8N6YAevaK--BDADxMOOWx4f3bUHWN0vR88TGmoqAR_J6yBgcDwyAVJCNtmio6OsTUaxS1lHJxYzs_1soUnC13_ZbgZwBmu3eF18I4zO60BbrPSyDrYNpaEsmTvK9IqW1FjQW0He-iKucp8cIhpcRf2_aIWQI4Td4Evpd6xyR8g4rtspxAkwUgYmLiJ2GJiud-ti8TQ-3b9raZuJ1vA4hXL_96LRtkCHqaL9CmvPuHQaw",
+            "q": "Data Analyst remoto en los últimos 3 días"
+          },
+          "link": "https://www.google.com/search?sca_esv=2d6c5a1e6a3d194c&gl=pe&hl=es&sxsrf=APpeQnuvNCZx_5H8M0c4ZTsaAWlBp2h7KA:1790568580426&q=Data+Analyst+remoto+en+los+%C3%BAltimos+3+d%C3%ADas&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4r3M11scUDrwafc40twrp9CVpJGGeNfUbE5uYfOodxtsSfIBm2LosSeP5AZkyVIY6DOGTn5beFnjgt0m1fLcDn4pP9FjmDHfj5PPfou6dM7E_MehSg49lXATew7tRhy_E0KGScmgJWR_zo_MvxgTTpDQY32p8N6YAevaK--BDADxMOOWx4f3bUHWN0vR88TGmoqAR_J6yBgcDwyAVJCNtmio6OsTUaxS1lHJxYzs_1soUnC13_ZbgZwBmu3eF18I4zO60BbrPSyDrYNpaEsmTvK9IqW1FjQW0He-iKucp8cIhpcRf2_aIWQI4Td4Evpd6xyR8g4rtspxAkwUgYmLiJ2GJiud-ti8TQ-3b9raZuJ1vA4hXL_96LRtkCHqaL9CmvPuHQaw&udm=8&sa=X&ved=2ahUKEwiAm7rhs5CXAxVEuUwKHdx7NWYQkbEKegQIHhAD",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=pe&google_domain=google.com&hl=es&location=Peru&q=Data+Analyst+remoto+en+los+%C3%BAltimos+3+d%C3%ADas&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4r3M11scUDrwafc40twrp9CVpJGGeNfUbE5uYfOodxtsSfIBm2LosSeP5AZkyVIY6DOGTn5beFnjgt0m1fLcDn4pP9FjmDHfj5PPfou6dM7E_MehSg49lXATew7tRhy_E0KGScmgJWR_zo_MvxgTTpDQY32p8N6YAevaK--BDADxMOOWx4f3bUHWN0vR88TGmoqAR_J6yBgcDwyAVJCNtmio6OsTUaxS1lHJxYzs_1soUnC13_ZbgZwBmu3eF18I4zO60BbrPSyDrYNpaEsmTvK9IqW1FjQW0He-iKucp8cIhpcRf2_aIWQI4Td4Evpd6xyR8g4rtspxAkwUgYmLiJ2GJiud-ti8TQ-3b9raZuJ1vA4hXL_96LRtkCHqaL9CmvPuHQaw"
+        },
+        {
+          "name": "Última semana",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4rbEuBYaSZikTI9rl4Hr1einw4RpJWnMy7ZjkouPBqpYTVdWroIl88HeI2rnuXLbYDkkbvF6V225zU0Y2XQCay5tqVBq5n5z6XT4tdaZ9WI8vyute-Jvydk6Srs39iZWOirF8wp9-YpZLY0ZJgVW_yLwvfdenv3b88bclFWpXPsKJFaHce8ruGQUkcuO5hwPOWaZqMxP1drKkr98KYqlwG4r0SSofsDtkp7faxbBrdB6Uz8taGWNwpOQJO5Is1jF78dpN6Jng6xi3Xq9-NAGEL_3sTpqHfvtDQbYB5coa6lPlE4KOLAa_qz-17vk-n54p9qSB2i4QUHDKI1m_YhDSp37iZFEhLnk09gf44cSGiEPailEytHiZdQZl5A0l-Fjc6c-CwKA",
+            "q": "Data Analyst remoto en la última semana"
+          },
+          "link": "https://www.google.com/search?sca_esv=2d6c5a1e6a3d194c&gl=pe&hl=es&sxsrf=APpeQnuvNCZx_5H8M0c4ZTsaAWlBp2h7KA:1790568580426&q=Data+Analyst+remoto+en+la+%C3%BAltima+semana&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rbEuBYaSZikTI9rl4Hr1einw4RpJWnMy7ZjkouPBqpYTVdWroIl88HeI2rnuXLbYDkkbvF6V225zU0Y2XQCay5tqVBq5n5z6XT4tdaZ9WI8vyute-Jvydk6Srs39iZWOirF8wp9-YpZLY0ZJgVW_yLwvfdenv3b88bclFWpXPsKJFaHce8ruGQUkcuO5hwPOWaZqMxP1drKkr98KYqlwG4r0SSofsDtkp7faxbBrdB6Uz8taGWNwpOQJO5Is1jF78dpN6Jng6xi3Xq9-NAGEL_3sTpqHfvtDQbYB5coa6lPlE4KOLAa_qz-17vk-n54p9qSB2i4QUHDKI1m_YhDSp37iZFEhLnk09gf44cSGiEPailEytHiZdQZl5A0l-Fjc6c-CwKA&udm=8&sa=X&ved=2ahUKEwiAm7rhs5CXAxVEuUwKHdx7NWYQkbEKegQIHhAE",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=pe&google_domain=google.com&hl=es&location=Peru&q=Data+Analyst+remoto+en+la+%C3%BAltima+semana&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rbEuBYaSZikTI9rl4Hr1einw4RpJWnMy7ZjkouPBqpYTVdWroIl88HeI2rnuXLbYDkkbvF6V225zU0Y2XQCay5tqVBq5n5z6XT4tdaZ9WI8vyute-Jvydk6Srs39iZWOirF8wp9-YpZLY0ZJgVW_yLwvfdenv3b88bclFWpXPsKJFaHce8ruGQUkcuO5hwPOWaZqMxP1drKkr98KYqlwG4r0SSofsDtkp7faxbBrdB6Uz8taGWNwpOQJO5Is1jF78dpN6Jng6xi3Xq9-NAGEL_3sTpqHfvtDQbYB5coa6lPlE4KOLAa_qz-17vk-n54p9qSB2i4QUHDKI1m_YhDSp37iZFEhLnk09gf44cSGiEPailEytHiZdQZl5A0l-Fjc6c-CwKA"
+        },
+        {
+          "name": "Último mes",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4rFOYina6-I1R1gKL9iTZ5BQIIZJsifPx7Yx-ShxRUGibow123Gp09JvXVx-64i9cDv3Obk4ANBwPZi-YUytZnTbpzHBCwEPcxl9203w3PuxF6Gq9r60ZqEzezSImh5eBa31B-3MEstJcOw8itC3smF9rj58P-aZhupIYkunlm_0OPbngwwXFcU3mq2JKkINmMAN_jKUF_OhNt2LPrbErJa62H3CaH42eTBPc0WEGLvOPENXZTKU_PswgEoGwPzIaIOsW_gviqkG8M3QY4bu5c8boRBtAyIdAfyauTMOPDmAknwc_ft0L4E310QCCThugk75wR28OrkaXOiC9K9wHiJVRPLvn15_0SZAZEiNMDivyQ-XDA9lfQnTDlc2MvAMBtO2wKnw",
+            "q": "Data Analyst remoto en el último mes"
+          },
+          "link": "https://www.google.com/search?sca_esv=2d6c5a1e6a3d194c&gl=pe&hl=es&sxsrf=APpeQnuvNCZx_5H8M0c4ZTsaAWlBp2h7KA:1790568580426&q=Data+Analyst+remoto+en+el+%C3%BAltimo+mes&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rFOYina6-I1R1gKL9iTZ5BQIIZJsifPx7Yx-ShxRUGibow123Gp09JvXVx-64i9cDv3Obk4ANBwPZi-YUytZnTbpzHBCwEPcxl9203w3PuxF6Gq9r60ZqEzezSImh5eBa31B-3MEstJcOw8itC3smF9rj58P-aZhupIYkunlm_0OPbngwwXFcU3mq2JKkINmMAN_jKUF_OhNt2LPrbErJa62H3CaH42eTBPc0WEGLvOPENXZTKU_PswgEoGwPzIaIOsW_gviqkG8M3QY4bu5c8boRBtAyIdAfyauTMOPDmAknwc_ft0L4E310QCCThugk75wR28OrkaXOiC9K9wHiJVRPLvn15_0SZAZEiNMDivyQ-XDA9lfQnTDlc2MvAMBtO2wKnw&udm=8&sa=X&ved=2ahUKEwiAm7rhs5CXAxVEuUwKHdx7NWYQkbEKegQIHhAF",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=pe&google_domain=google.com&hl=es&location=Peru&q=Data+Analyst+remoto+en+el+%C3%BAltimo+mes&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rFOYina6-I1R1gKL9iTZ5BQIIZJsifPx7Yx-ShxRUGibow123Gp09JvXVx-64i9cDv3Obk4ANBwPZi-YUytZnTbpzHBCwEPcxl9203w3PuxF6Gq9r60ZqEzezSImh5eBa31B-3MEstJcOw8itC3smF9rj58P-aZhupIYkunlm_0OPbngwwXFcU3mq2JKkINmMAN_jKUF_OhNt2LPrbErJa62H3CaH42eTBPc0WEGLvOPENXZTKU_PswgEoGwPzIaIOsW_gviqkG8M3QY4bu5c8boRBtAyIdAfyauTMOPDmAknwc_ft0L4E310QCCThugk75wR28OrkaXOiC9K9wHiJVRPLvn15_0SZAZEiNMDivyQ-XDA9lfQnTDlc2MvAMBtO2wKnw"
+        }
+      ]
+    }
+  ],
+  "jobs_results": [
+    {
+      "title": "Financial Planning & Analysis Data Analyst - Remote Work",
+      "company_name": "BairesDev",
+      "location": "Perú",
+      "via": "BeBee",
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Data+Analyst+remoto&htidocid=j2_MIbMzyqiwKZCpAAAAAA%3D%3D&hl=es-PE&shem=epsd1,esd2e,rimspwouoe&shndl=37&shmd=H4sIAAAAAAAA_y3MMQ6CQBBA0dhSWlpNZWEia0xssNIQbYkNJRlgAqvLDO6sBq_kEWi5mCGx-clrfvRdRPnFMnJl0UHmkNlyA2s4MbqPWoUUA_4VYAs36iQQ5OIfCZTTqM8X1Qg1AXW9IwFiuIo0jlbHNoReE2NUXdxowGCruJLOCFMpg7lLqXMKbdFT7zBQsT_shrjnZrM8o_WkKb3nY0Z-Gn9E5Qu_rQAAAA&shmds=v1_ARwrE20rbSPU3YlWxEzBt84KMrTZNKBhVKgZ8bdbRimwVT1t7A&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Data+Analyst+remoto&htidocid=j2_MIbMzyqiwKZCpAAAAAA%3D%3D",
+      "thumbnail": "https://serpapi.com/searches/6ab9e87d1a29fe6d36582c57/images/_YIZCe7DxcJ_NPUZV-HO36VhZx-nFnKz5XG8EDK0Iv4.jpeg",
+      "extensions": [
+        "hace 3 días",
+        "Tiempo completo"
+      ],
+      "source_link": "https://bebee.com/pe/jobs/financial-planning-analysis-data-analyst-remote-work-bairesdev--fj-2381693886",
+      "job_title": "Financial Planning & Analysis Data Analyst - Remote Work",
+      "description": "At BairesDev®, we've been leading the way in technology projects for over 15 years. We deliver cutting-edge solutions to giants like Google and the most innovative startups in Silicon Valley.\n\n\nOur diverse 4,000+ team, composed of the world's Top 1% of tech talent, works remotely on roles that drive significant impact worldwide.\n\n\nWhen you apply for this position, you're taking the first step in a process that goes beyond the ordinary. We aim to align your passions and skills with our vacancies, setting you on a path to exceptional career development and success.\n\n\nFinancial Planning & Analysis Data Analyst at BairesDev\n\n\nAs a Financial Planning & Analysis Data Analyst, you will support strategic financial operations by transforming corporate data into actionable insights. You will serve as a key partner to the finance team, developing reporting frameworks and data models that streamline budgeting, forecasting, and variance analysis to drive informed business decisions.\n\n\nWhat You'll Do\nDesign, implement, and maintain comprehensive financial dashboards and routine reports to monitor key performance indicators.Perform detailed data analysis to identify operational trends, anomalies, and variance between budgeted and actual figures.Develop and optimize database queries and workflows to aggregate complex financial data from multiple corporate systems.Collaborate with finance and leadership teams to provide data-driven insights that support strategic forecasting and business planning.Ensure the integrity, accuracy, and consistency of datasets used across corporate financial reporting initiatives.\nWhat we are looking for\n5+ years of experience as an FP&A Analyst or Data Analyst.Proven expertise in data analysis utilizing Microsoft Excel and SQL.Strong understanding of financial planning and analysis processes.Advanced proficiency in English.\nHow we do make your work (and your life) easier:\n100% remote work (from anywhere).Excellent compensation in USD or your local currency if preferredHardware and software setup for you to work from home.Flexible hours: create your own schedule.Paid parental leaves, vacations, and holidays.Innovative and multicultural work environment: collaborate and learn from the global Top 1% of talent.Supportive environment with mentorship, promotions, skill development, and diverse growth opportunities.\nApply now and become part of a global team where your unique talents can truly thrive!",
+      "apply_options": [
+        {
+          "title": "BeBee",
+          "link": "https://bebee.com/pe/jobs/financial-planning-analysis-data-analyst-remote-work-bairesdev--fj-2381693886?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJGaW5hbmNpYWwgUGxhbm5pbmcgXHUwMDI2IEFuYWx5c2lzIERhdGEgQW5hbHlzdCAtIFJlbW90ZSBXb3JrIiwiY29tcGFueV9uYW1lIjoiQmFpcmVzRGV2IiwiaHRpZG9jaWQiOiJqMl9NSWJNenlxaXdLWkNwQUFBQUFBPT0iLCJ1dWxlIjoidytDQUlRSUNJRVVHVnlkUSIsImdsIjoicGUiLCJobCI6ImVzIiwiZmMiOiJFc3NCQ293QlFVcHBWRFIwUzJ0MWRrOU1NamRpZDBKWGEzcFJhRlZNYUdnMFh6WTJVekY1TWtaNE0yaE5kMjF4TFdjNVNYQkJSMHh3WmpKRmFHRmlSbmxGWldWdVoyZEtkWEJWT1ZKSVowSkpVMmR1UW1wbWFHUm5MV05sY3pOamVXOXRkakUxWkVsQ1dscDVVVVZpVmtKVmVYVjVVV0YwT1doSmNraERhVXBITTJkelUwNXRiekZWWlhRMmJtWXROek1TRm1oUGFUVmhiMFJLUjJOVWVYTm5UR001T1ZkNFFtY2FJa0ZFYzNJNVpsUlNZMEk0V21GVU5GZHBaM2RqWW04emRUWm1iMnR0V2s4eVVIYyIsImZjdiI6IjMiLCJmY19pZCI6ImoyX01JYk16eXFpd0taQ3BBQUFBQUE9PSJ9"
+    },
+    {
+      "title": "SaaS Product Analyst — Data-Driven, Remote (Huánuco)",
+      "company_name": "Bluelight Consulting",
+      "location": "Huánuco",
+      "via": "Jobrapido.com",
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Data+Analyst+remoto&htidocid=zW5xvcqX3ZZgR4jrAAAAAA%3D%3D&hl=es-PE&shem=epsd1,esd2e,rimspwouoe&shndl=37&shmd=H4sIAAAAAAAA_zXNMQrCQBBAUWxzBKspVTQRwUYrNaClKNjKJBk2kc1OzMxK7DyEF_AUgm1u4kkkhc0v3w_eveB0RDzCvubMpworh_YuCt_HE2JUnMR1cSM3hgOVrASDnW9fzqc8XEDSfuTqKUPICKisLDGQgy2zsdRf5qqVLKJIxIZGFLVIw5TLiB0l3EQXTqTLWXKsqbKodJ7Np01YOTOCtfVkC5MrbNiJt1o40-H__Q_OXSweugAAAA&shmds=v1_ARwrE23iHtI8NUwWZYMB_WrnQA4Lg1-5dlkO0bFPkeSlUBhRnQ&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Data+Analyst+remoto&htidocid=zW5xvcqX3ZZgR4jrAAAAAA%3D%3D",
+      "extensions": [
+        "hace 7 días",
+        "Tiempo completo"
+      ],
+      "source_link": "https://pe.jobrapido.com/jobpreview/9083496357309710336",
+      "job_title": "SaaS Product Analyst — Data-Driven, Remote (Huánuco)",
+      "description": "Bluelight Consulting LLC in Peru is seeking a skilled Product Analyst to join our dynamic team. This role involves building features for our SaaS product and collaborating with stakeholders to achieve business goals. You will analyze product data, create product requirements, and work closely with developers to ensure high-quality delivery.  \n\nAdecuado candidates have 3+ years of relevant experience and strong skills in Jira, Figma, and Power BI. Join us to make a significant impact on our product development and contribute to the success of our clients.",
+      "apply_options": [
+        {
+          "title": "Jobrapido.com",
+          "link": "https://pe.jobrapido.com/jobpreview/9083496357309710336?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJTYWFTIFByb2R1Y3QgQW5hbHlzdCDigJQgRGF0YS1Ecml2ZW4sIFJlbW90ZSAoSHXDoW51Y28pIiwiY29tcGFueV9uYW1lIjoiQmx1ZWxpZ2h0IENvbnN1bHRpbmciLCJodGlkb2NpZCI6InpXNXh2Y3FYM1paZ1I0anJBQUFBQUE9PSIsInV1bGUiOiJ3K0NBSVFJQ0lFVUdWeWRRIiwiZ2wiOiJwZSIsImhsIjoiZXMiLCJmYyI6IkVzc0JDb3dCUVVwcFZEUjBTMmxXUWxjeFEwMDBVVTlQVm1WbmMwZFFYMVJSV2pReVExOWtPWFpZZVZaM2FtaFZXbFIxZVVNeFF5MWlOVUpsTUZoWVNHWjVUSE5rVkhCNGFGWTJSbGhpTW1SUlIzTTFRbFpDVUVZdE0ybDFVVmRMTlRkd2NqSnBYMUpIYldSU1RqVlpZVmxDUzFSVmNGSTBlWFJxYzFKZmFUTXlURzVMU1VGclgwWjFkRzFqTUY5WlVXb1NGbWhQYVRWaGIwUktSMk5VZVhOblRHTTVPVmQ0UW1jYUlrRkVjM0k1WmxOWGRsUlJURGxZY2tWWmJIWlFMV0l6TlVoSFJscElZa1ZxZEVFIiwiZmN2IjoiMyIsImZjX2lkIjoielc1eHZjcVgzWlpnUjRqckFBQUFBQT09In0="
+    },
+    {
+      "title": "Consultor Microsoft Data Analyst",
+      "company_name": "We Are TIMS",
+      "location": "Perú",
+      "via": "Jobgether",
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Data+Analyst+remoto&htidocid=WKvk4ODWjIQTtacNAAAAAA%3D%3D&hl=es-PE&shem=epsd1,esd2e,rimspwouoe&shndl=37&shmd=H4sIAAAAAAAA_xXMMQuCUBAAYFqdm5pubvBF0GJDiEE0CEFBo5x6qfF893p3gv2Pfo2rfyxcvvGLfqvolLGTwSoHyLsqsPBL4YyKkDq0X9EEynmSz0A1Qk1AvbfEQA4uzI2lzbFV9ZIYI2LjRhS1q-KKe8OOSh7Nm0tZKKTFQN6iUrE_7MbYu2a7fhKkgeBxze_LeaMwT39gJkmVlwAAAA&shmds=v1_ARwrE20-6m5afL50ssTXpkJsyOepoKd2Kf3mUi1v18nAPwI3cA&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Data+Analyst+remoto&htidocid=WKvk4ODWjIQTtacNAAAAAA%3D%3D",
+      "thumbnail": "https://serpapi.com/searches/6ab9e87d1a29fe6d36582c57/images/IzYCu81oTI7KlfNUnILxm5JUb7GHIwCCKAxcU5w-0Fs.jpeg",
+      "extensions": [
+        "Contratista"
+      ],
+      "source_link": "https://jobgether.com/offer/6a88d1951de6f4542a4dca28-consultor-microsoft-data-analyst",
+      "job_title": "Consultor Microsoft Data Analyst",
+      "description": "This a Full Remote job, the offer is available from: Peru\n\n \n\n¡Oportunidad Laboral!  Consultor Analista de Datos Microsoft (100% Remoto - Toda LATAM)\n\n\nEstamos buscando un  Consultor Microsoft Data Analyst  con experiencia sólida para unirse a nuestro equipo. Si te apasiona transformar datos en valor y dominas el ecosistema de Microsoft Fabric y Power BI, ¡esta es tu oportunidad!\n\n\n Lo que buscamos:\n\n\nExperiencia: Mínimo 3 años de experiencia práctica en las tecnologías indicadas.\n\n\nImprescindible:\n\n\nNivel avanzado en Microsoft Power BI (Power Query, DAX, Dataflows Gen1/Gen2, Deployment Pipelines). \n\n\nExperiencia en diseño y desarrollo de soluciones basadas en el ecosistema de Microsoft Fabric .\n\n\nCapacidad para colaborar con equipos internos y externos.\n\n\nProporcionar soporte técnico y diagnóstico de problemas.\n\n\nNivel Alto de Inglés (oral y escrito) \n\n\nDeseable (Se valorará):\n\n\nConocimientos de otras herramientas de Microsoft Power Platform .\n\n\nManejo de herramientas externas a Power BI (DAX Studio, Tabular Editor, etc.).\n\n\n Condiciones de la Oferta:\n\n\nModalidad: 100% Remoto  (Desde cualquier lugar de LATAM).\n\n\nHorario: Lunes a Viernes, de 9:00h a 18:00h (Horario de España/CET). \n\n\nPago: Honorarios profesionales, pagos en $ (Dólares) mensuales a través de Ontop.\n\n\n¡Únete a un equipo innovador y sigue creciendo profesionalmente!\n\n\n Interesados: Enviar CV actualizado a indira.martinez@wearetims.com\n\n\n#MicrosoftDataAnalyst #PowerBI #MicrosoftFabric #DataAnalyst #TrabajoRemoto #LATAM #TrabajosRemotos #DAX #PowerQuery #Ontop\n\nThis offer from \"We Are TIMS\" has been enriched by Jobgether.com and got a 0% flex score.",
+      "apply_options": [
+        {
+          "title": "Jobgether",
+          "link": "https://jobgether.com/offer/6a88d1951de6f4542a4dca28-consultor-microsoft-data-analyst?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "BeBee",
+          "link": "https://bebee.com/pe/jobs/research-analyst-chinese-markets-data-tools-credit-agricole-sa-asia--jobted-27c642b4cf5a2d472fb15d458e792dff?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Sercanto",
+          "link": "https://www.sercanto.com.pe/detail/a/research-analyst-support-m-f_asia_34735680?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Jobrapido.com",
+          "link": "https://pe.jobrapido.com/jobpreview/3571694217090564096?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJDb25zdWx0b3IgTWljcm9zb2Z0IERhdGEgQW5hbHlzdCIsImNvbXBhbnlfbmFtZSI6IldlIEFyZSBUSU1TIiwiaHRpZG9jaWQiOiJXS3ZrNE9EV2pJUVR0YWNOQUFBQUFBPT0iLCJ1dWxlIjoidytDQUlRSUNJRVVHVnlkUSIsImdsIjoicGUiLCJobCI6ImVzIiwiZmMiOiJFc3NCQ293QlFVcHBWRFIwU1U5dGNUWkRSV0pWYlZneVluVkZaRjlNVkVVMU1WOXRkVjl0YmxOQ05XTkpYMU51V1Zwck9YSTFZV3Q0WDJ0ek1XSjVVbXRsU0RSclZYRm9PRlZUTTJScVRWbFRaemR5TTB4WWR6WjFSVEUyUzNkeUxYWXlTa1pRTVhSNVlXZFhSRlpHZVdRelpYaEhPVkpFU21kTFYxTXdka1ZMYWxSbU1uZGZWMFpmVERRMGJFbFRlbVFTRm1oUGFUVmhiMFJLUjJOVWVYTm5UR001T1ZkNFFtY2FJa0ZFYzNJNVpsSlFTRmhWUVVWR2QyeEpRbXg2Vm1SU1VsWm1jR1p1Tm14NWJsRSIsImZjdiI6IjMiLCJmY19pZCI6IldLdms0T0RXaklRVHRhY05BQUFBQUE9PSJ9"
+    },
+    {
+      "title": "AI Data Quality Analyst",
+      "company_name": "Alignerr",
+      "location": "Perú",
+      "via": "BeBee",
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Data+Analyst+remoto&htidocid=pvlU6UhPSPPAAX50AAAAAA%3D%3D&hl=es-PE&shem=epsd1,esd2e,rimspwouoe&shndl=37&shmd=H4sIAAAAAAAA_xXMsQ6CQAwA0LiyuTp1duCMiQ44kZgYN_0CUqA5MOV6XksCf-A3sfJjhuWNL_vtsmv5hDsawntE7m2GMiDPagXU66LfkVqEloCGyCRAAR4inulw68yiFs6pcu7V0Pomb2RwEqiWyX2k1o1KO0wUGY2q8-U05TH4477k3gdKaQtflNblD5__JWmLAAAA&shmds=v1_ARwrE21pYHnm1n_ue-DBSriv_LzOoatpXE38jH7BUpAjHMEhKw&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Data+Analyst+remoto&htidocid=pvlU6UhPSPPAAX50AAAAAA%3D%3D",
+      "extensions": [
+        "Contratista"
+      ],
+      "source_link": "https://bebee.com/pe/jobs/ai-data-quality-analyst-alignerr-peru--techmap_pe_4456108604",
+      "job_title": "AI Data Quality Analyst",
+      "description": "About The Role\nAI systems are only as good as the feedback they receive — and that's where you come in. We're looking for sharp, detail-oriented people to review and evaluate AI-generated outputs across text, image, and structured data formats. Your assessments directly influence how AI models learn, improve, and ultimately serve millions of users worldwide.\n\n\nThis is a fully remote, flexible contract role. You choose your hours, work at your own pace, and contribute to some of the most exciting AI research happening today.\n\n\n\nOrganization: Alignerr\nType: Hourly Contract\nLocation: Remote\n\n\nCommitment: 10–40 hours/week\n\n\n\nWhat You'll Do\n\n\n\n\n\n\nReview AI-generated responses across a variety of content types and topics for factual accuracy, relevance, and quality\n\n\nRate outputs using structured rubrics and clear evaluation guidelines\n\n\nIdentify errors, inconsistencies, and opportunities for improvement\n\n\nProvide clear, well-documented feedback that guides model training and refinement\n\n\nWork asynchronously on your own schedule across diverse subject areas\n\n\n\nWho You Are\n\n\n\n\n\n\nStrong attention to detail with a natural eye for quality and consistency\n\n\nComfortable reading, evaluating, and critiquing written content across a range of topics\n\n\nSelf-motivated and able to work independently without close supervision\n\n\nClear and concise written communication skills in English\n\n\nReliable with the ability to meet deadlines on task-based assignments\n\n\nNo prior AI or technical experience required — if you think critically and write well, you're a great fit\n\n\n\nNice to Have\n\n\n\n\n\n\nBackground in research, editing, writing, or content evaluation\n\n\nExperience following detailed guidelines or rubrics in a professional setting\n\n\nFamiliarity with data quality concepts or structured feedback workflows\n\n\n\nWhy Join Us\n\n\n\n\n\n\nFully remote — work from anywhere, on your own schedule\n\n\nFlexible hours — take on 10 or 40 hours a week, depending on your availability\n\n\nMeaningful impact — your feedback directly improves AI systems used by people around the world\n\n\nCutting-edge work — collaborate on projects with top AI research labs at the forefront of the industry\n\n\nFreelance freedom — autonomy, variety, and the ability to work across multiple projects\n\n\nOngoing opportunity — strong performers are considered for contract extensions and additional projects",
+      "apply_options": [
+        {
+          "title": "BeBee",
+          "link": "https://bebee.com/pe/jobs/ai-data-quality-analyst-alignerr-peru--techmap_pe_4456108604?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJBSSBEYXRhIFF1YWxpdHkgQW5hbHlzdCIsImNvbXBhbnlfbmFtZSI6IkFsaWduZXJyIiwiaHRpZG9jaWQiOiJwdmxVNlVoUFNQUEFBWDUwQUFBQUFBPT0iLCJ1dWxlIjoidytDQUlRSUNJRVVHVnlkUSIsImdsIjoicGUiLCJobCI6ImVzIiwiZmMiOiJFc3NCQ293QlFVcHBWRFIwU1VKUVl6bHdjRmczWW1KUVQxZERUV0UyWmw5YVNuUTNaMGszVVZWRmMxTkNZelF3WldKZlpFVTFUVTlrV1Y5eFJuTXRhR3RTUzE5NGFFeGlTMVJPU3kxc1NtRnJjMDlFWkdRMFEzRXhNa3huWTNNelpUY3lVMHRvYlY5cWNFc3lWMHgzYjNObWJtcGlNelF4YVhOWGVIRjZNVVJ6TjBsZmJsOVJTa05hYm04MVduSm1UVFFTRm1oUGFUVmhiMFJLUjJOVWVYTm5UR001T1ZkNFFtY2FJa0ZFYzNJNVpsTm9NMUJHV0VOSllsZEtOV3BLYTA1SGVHaFJkRkoxVTNwWmIxRSIsImZjdiI6IjMiLCJmY19pZCI6InB2bFU2VWhQU1BQQUFYNTBBQUFBQUE9PSJ9"
+    },
+    {
+      "title": "Marketing Operations Tech Analyst - Latin America - Remote",
+      "company_name": "Azumo",
+      "location": "Perú",
+      "via": "BeBee",
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Data+Analyst+remoto&htidocid=GPkAT9flEX8Fs2w_AAAAAA%3D%3D&hl=es-PE&shem=epsd1,esd2e,rimspwouoe&shndl=37&shmd=H4sIAAAAAAAA_x2MMQrCQBAAsU3hA6y2FsyJYBOrVDaKIjZW4XJZkujd7Xm7geiLfEPafMxoMzBTTPKZJbejjg-U1tdwChi1tOQZrmgayL22LxZYwWHKHnKHsTV68gs6EsygHAd-dlhpqBDQBYsE6GFPVFtc7BqRwJlSzDatWaaJSQ05RR5L6tWdSv6h4EZHDFYLFpvtuk-Dr5fz_N25_-2McRy-9awKsasAAAA&shmds=v1_ARwrE20DJAo7GlO7Qrmlav2HxChVJeVETdV3sxRhHvkUVKjPaQ&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Data+Analyst+remoto&htidocid=GPkAT9flEX8Fs2w_AAAAAA%3D%3D",
+      "extensions": [
+        "hace 27 días",
+        "Tiempo completo"
+      ],
+      "source_link": "https://bebee.com/pe/jobs/marketing-operations-tech-analyst-latin-america-remote-azumo-peru--techmap_pe_4459555036",
+      "job_title": "Marketing Operations Tech Analyst - Latin America - Remote",
+      "description": "Azumo is looking for a\n\n\nMarketing Operations Tech Analyst to support the execution, optimization, and maintenance of our marketing technology ecosystem - with a strong focus on technical Webflow implementation, content updates, metadata fixes, and structured SEO enhancements.\n\n\nThe position is\nFULLY REMOTE, based in Latin America.\n\n\nAs a Marketing Operations Analyst, you will be a key player within our Marketing team, collaborating cross-functionally with both business and technical teams to ensure seamless execution across campaigns, tools, and workflows.\n\n\nThis role requires someone hands-on and technically inclined,\n\n\ncapable of managing tools, solving problems, improving processes, and ensuring high-quality execution across our digital properties.\n\n\nYou will work closely with Marketing and Sales to maintain operational accuracy, improve marketing workflows, and support initiatives involving data, CRM automation, tool integrations, and AI-driven processes.\n\n\nResponsibilities\nUpdate and maintain the Azumo website (Webflow), ensuring content accuracy, proper functionality, and alignment with marketing initiatives.\n\n\nFix and optimize metadata, SEO tags, alt tags, and structured data (schema).\n\n\nManage and optimize MarTech tools such as HubSpot, Webflow, Google Analytics, Google Tag Manager, Google Ads, and LinkedIn.\n\n\nExecute and support marketing campaigns by setting up tracking, automation, and reporting.\n\n\nAssist with CRM workflows, data cleanup, segmentation, and pipeline configuration inside HubSpot.\n\n\nSupport integrations between marketing, sales, and analytics tools.\n\n\nMaintain clean documentation for processes, workflows, integrations, and platform configurations.\n\n\nAssist in other marketing initiatives involving data analysis, dashboard support, or tool implementation.\n\n\nThe ideal candidate will have the following experience and qualifications:\n\n\nBachelor's degree in Software Engineering, Marketing, or a related field.\n\n\n3+ years of experience in Marketing Operations with a strong technical background.\n\n\nHands-on experience in Webflow (CMS, components, SEO fields, metadata, schema, basic HTML/CSS adjustments).\n\n\nExperience with HubSpot, Google Analytics, Google Tag Manager, Google Ads, and LinkedIn.\n\n\nHigh attention to detail and commitment to data accuracy.\n\n\nExcellent written and spoken English.\n\n\nBased in Latin America.\n\n\nCompany Benefits Include\nPaid Time Off\nTraining\nUdemy Free Premium access\nMentored Career Development\nU.S. Holidays\n\n\nUSD Remuneration\nProfit Sharing\nMaternity Coverage\nAt Azumo we strive for excellence and strongly believe in professional and personal growth. We want each individual to be successful and pledge to help you achieve your goals while at Azumo and beyond. Challenging ourselves and learning new technologies is at the core of what we do.\n\n\nBased in San Francisco, California, Azumo is an innovative software development firm helping organizations build intelligent apps using the latest technologies in AI, data and cloud. We are passionate about solving key problems for customers around the globe.\n\n\nIf you are qualified for the opportunity and looking for a challenge, please apply online at or connect with us at",
+      "apply_options": [
+        {
+          "title": "BeBee",
+          "link": "https://bebee.com/pe/jobs/marketing-operations-tech-analyst-latin-america-remote-azumo-peru--techmap_pe_4459555036?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Kit Empleo",
+          "link": "https://www.kitempleo.pe/empleo/68230159/marketing-operations-tech-analyst-latin-america-remote-peru?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJNYXJrZXRpbmcgT3BlcmF0aW9ucyBUZWNoIEFuYWx5c3QgLSBMYXRpbiBBbWVyaWNhIC0gUmVtb3RlIiwiY29tcGFueV9uYW1lIjoiQXp1bW8iLCJodGlkb2NpZCI6IkdQa0FUOWZsRVg4RnMyd19BQUFBQUE9PSIsInV1bGUiOiJ3K0NBSVFJQ0lFVUdWeWRRIiwiZ2wiOiJwZSIsImhsIjoiZXMiLCJmYyI6IkVzc0JDb3dCUVVwcFZEUjBUR3R1Tld0RWRXZEpObU5NVDJaMWFtVnZjMlJhTUVNdFdVWkhRbWRIUVRsalNUUnpRak5pYm5Bek9WOW9la2hWYm5CQlVWcEVZbGQ2V1VkV1kzSnRZak5yZEVVd1ZqVlNaelZKTTFrdE9GWkRibEoxVDI5RWJsOTRkRk5XV21WelEwWkNlRVZoTVd0aFNXUldNbTU2V0VwS2FrRTBkMDlVYlZobmNIaFFWbUU0YkhWMGRua1NGbWhQYVRWaGIwUktSMk5VZVhOblRHTTVPVmQ0UW1jYUlrRkVjM0k1WmxSdU9YVkJTbEpqTlhkYU1scEdWMlYxYzFoVldVTkRkMmRzVjFFIiwiZmN2IjoiMyIsImZjX2lkIjoiR1BrQVQ5ZmxFWDhGczJ3X0FBQUFBQT09In0="
+    },
+    {
+      "title": "Senior Business Analyst Mining (100% remote) (Perú)",
+      "company_name": "Tether Operations",
+      "location": "Perú",
+      "via": "Jobrapido.com",
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Data+Analyst+remoto&htidocid=sbloKJ3c03FnlnAAAAAAAA%3D%3D&hl=es-PE&shem=epsd1,esd2e,rimspwouoe&shndl=37&shmd=H4sIAAAAAAAA_x2NsQ6CQBAFY8snWG1jghaAJjZaaWNlNMHeHPACZ47d8_ZI9Kf8AFt_TLGZbmaS1yQpS7CVQPtBLUOVdmzcUyMdLVtuKV0WxYwCeomYU3pG-LznG6o-b70PaAw1IPTeQQhMB5HWYbrtYvS6yXNVl7UaTbR1VkufC6OSR36TSkdctTMB3pmI62pdPDLP7WJ6QewQ6OQRfqKwjuX_-AuhaTtfsQAAAA&shmds=v1_ARwrE222TNDy_SlW8AQHk8ia-H0362KkTDxazhdxDgQqU8eGHg&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Data+Analyst+remoto&htidocid=sbloKJ3c03FnlnAAAAAAAA%3D%3D",
+      "extensions": [
+        "hace 10 días",
+        "Tiempo completo"
+      ],
+      "source_link": "https://pe.jobrapido.com/jobpreview/9087926839413833728",
+      "job_title": "Senior Business Analyst Mining (100% remote) (Perú)",
+      "description": "Join Tether and Shape the Future of Digital Finance\n\nAt Tether, we’re not just building products, we’re pioneering a global financial revolution. Our cutting-edge solutions empower businesses—from exchanges and wallets to payment processors and ATMs—to seamlessly integrate reserve-backed tokens across blockchains. By harnessing the power of blockchain technology, Tether enables you to store, send, and receive digital tokens instantly, securely, and globally, all at a fraction of the cost. Transparency is the bedrock of everything we do, ensuring trust in every transaction.\n\nInnovate with Tether\n\nTether Finance: Our innovative product suite features the world’s most trusted stablecoin, USDT, relied upon by hundreds of millions worldwide, alongside pioneering digital asset tokenization services.\n\nBut that’s just the beginning:\n\nTether Power: Driving sustainable growth, our energy solutions optimize excess power for Bitcoin mining using eco-friendly practices in state-of-the-art, geo-diverse facilities.\n\nTether Data: Fueling breakthroughs in AI and peer-to-peer technology, we reduce infrastructure costs and enhance global communications with cutting-edge solutions like KEET, our flagship app that redefines secure and private data sharing.\n\nTether Education: Democratizing access to top-tier digital learning, we empower individuals to thrive in the digital and gig economies, driving general growth and opportunity.\n\nTether Evolution: At the intersection of technology and human potential, we are pushing the boundaries of what is possible, crafting a future where innovation and human capabilities merge in powerful, unprecedented ways.\n\nWhy Join Us?\n\nOur team is a global talent powerhouse, working remotely from every corner of the world. If you’re passionate about making a mark in the fintech space, this is your opportunity to collaborate with some of the brightest minds, pushing boundaries and setting new standards. We’ve grown fast, stayed lean, and secured our place as a leader in the industry.\n\nIf you have excellent English communication skills and are ready to contribute to the most innovative platform on the planet, Tether is the place for you.\n\nAre you ready to be part of the future?\n\nAbout the job\n\nSenior Business Analysts specializing in the mining sector to support M&A; advisory and investment banking activities focused on mining-related opportunities. The role bridges technical geological expertise with commercial and financial analysis, evaluating mining assets, transactions, and investment opportunities across the resources value chain.\n\nResponsibilities\n\n- Conduct due diligence on mining assets and companies, integrating geological, technical, and commercial assessments.\n- Build and maintain financial models (DCF, NAV, comparable transactions and companies) for mining projects and corporate transactions.\n- Analyze mineral resource and reserve statements (JORC, NI 43-101, or equivalent) and assess their commercial implications.\n- Evaluate mining project economics, including capex/opex profiles, production schedules, commodity price assumptions, and risk factors.\n- Prepare investment memoranda, pitch books, valuation summaries, and board-level presentations.\n- Monitor commodity markets, mining sector trends, M&A; activity, and the competitive landscape.\n- Support deal execution, including coordination with technical consultants, legal teams, and counterparties.\n- Assess geopolitical, permitting, environmental, and ESG risks affecting mining investments.\n- Structure and evaluate alternative and structured financing schemes for mining operations, including metal prepays, royalties, streaming agreements, offtake and marketing arrangements, and debt/equity hybrids, and assess their impact on project economics and counterparty risk.\n\nRequirements\n\n- Bachelor's or Master's degree in Geology, Geological Engineering, Mining Engineering, or Earth Sciences.\n- 5+ years of relevant experience in mining, investment banking, corporate finance, equity research, or technical/financial advisory within the resources sector.\n- Exposure to M&A; transactions, project finance, or asset valuation in mining is highly desirable.\n- Formal business education or training is a plus (MBA, finance/business degree, CFA progress, or equivalent practical commercial experience).\n- Demonstrated understanding of mineral resource classification codes (JORC, NI 43-101, SAMREC, or similar).\n- Working knowledge of structured financing instruments used in the mining sector, including prepays, royalties, streams, and offtake agreements.\n- Strong financial modelling and valuation skills.\n- Ability to translate technical geological data into commercial and financial insight.\n\n- Advanced proficiency in Excel; familiarity with mining technical software (e.g., resource and mine-planning tools) is an advantage.\n- Strong analytical, quantitative, and problem-solving abilities.\n- Excellent written and verbal communication, including report and presentation preparation.\n- Ability to manage multiple workstreams under deadline pressure.\n- Attention to detail and sound commercial judgement.\n\nPreferred / Advantageous\n\n- Experience across multiple commodities (e.g., base metals, precious metals, bulk commodities, battery metals).\n- Knowledge of ESG frameworks relevant to mining.\n- Additional languages and willingness to travel to project sites.\n\nImportant information for candidates  \nRecruitment scams have become increasingly common. To protect yourself, please keep the following in mind when applying for roles:\n\n- Apply only through our official channels. We do not use third-party platforms or agencies for recruitment unless clearly stated. All open roles are listed on our official careers page: https://tether.recruitee.com/\n- Verify the recruiter’s identity. All our recruiters have verified LinkedIn profiles. If you’re unsure, you can confirm their identity by checking their profile or contacting us through our website.\n- Be cautious of unusual communication methods. We do not conduct interviews over WhatsApp, Telegram, or SMS. All communication is done through official company emails and platforms.\n- Double-check email addresses. All communication from us will come from emails ending in @tether.to or @tether.io\n- We will never request payment or financial details. If someone asks for personal financial information or payment at any point during the hiring process, it is a scam. Please report it immediately.\n\nWhen in doubt, feel free to reach out through our official website.",
+      "apply_options": [
+        {
+          "title": "Jobrapido.com",
+          "link": "https://pe.jobrapido.com/jobpreview/9087926839413833728?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJTZW5pb3IgQnVzaW5lc3MgQW5hbHlzdCBNaW5pbmcgKDEwMCUgcmVtb3RlKSAoUGVyw7opIiwiY29tcGFueV9uYW1lIjoiVGV0aGVyIE9wZXJhdGlvbnMiLCJodGlkb2NpZCI6InNibG9LSjNjMDNGbmxuQUFBQUFBQUE9PSIsInV1bGUiOiJ3K0NBSVFJQ0lFVUdWeWRRIiwiZ2wiOiJwZSIsImhsIjoiZXMiLCJmYyI6IkVzc0JDb3dCUVVwcFZEUjBTMDlwY0hScE1VVTJkSGR5WkdkRmFVZE9jRGwyTkhoc0xUaDJjbkZtU2xWUWNEaHZNREpEV0ZZdE1qRXRPRVptTjJwUlgwdG5jVWhmTVZKT2VHaEVjMVJIUVRWM2RVNWlSRWhyUmt0WVpHVnlWVGxrV0RWcVNUWXRlbFJoTFZsV2JsbHlVbFZWUmtORFNXSXdWR0Z4UlRKS1IzQlZOWHBqZVY5cFowOXRZbGxvTTFWNmJ6TVNGbWhQYVRWaGIwUktSMk5VZVhOblRHTTVPVmQ0UW1jYUlrRkVjM0k1WmxNdGVVUjBTVE5tYzFWeE1rZFBiVzlyWTNGbll6bGtUVzlxZG5jIiwiZmN2IjoiMyIsImZjX2lkIjoic2Jsb0tKM2MwM0ZubG5BQUFBQUFBQT09In0="
+    }
+  ],
+  "serpapi_pagination": {
+    "next_page_token": "eyJmYyI6IkVzc0JDb3dCUVVwcFZEUjBTMnQxZGs5TU1qZGlkMEpYYTNwUmFGVk1hR2cwWHpZMlV6RjVNa1o0TTJoTmQyMXhMV2M1U1hCQlIweHdaakpGYUdGaVJubEZaV1Z1WjJkS2RYQlZPVkpJWjBKSlUyZHVRbXBtYUdSbkxXTmxjek5qZVc5dGRqRTFaRWxDV2xwNVVVVmlWa0pWZVhWNVVXRjBPV2hKY2toRGFVcEhNMmR6VTA1dGJ6RlZaWFEyYm1ZdE56TVNGbWhQYVRWaGIwUktSMk5VZVhOblRHTTVPVmQ0UW1jYUlrRkVjM0k1WmxSU1kwSTRXbUZVTkZkcFozZGpZbTh6ZFRabWIydHRXazh5VUhjIiwiZmN2IjoiMyJ9",
+    "next": "https://serpapi.com/search.json?engine=google_jobs&gl=pe&google_domain=google.com&hl=es&location=Peru&next_page_token=eyJmYyI6IkVzc0JDb3dCUVVwcFZEUjBTMnQxZGs5TU1qZGlkMEpYYTNwUmFGVk1hR2cwWHpZMlV6RjVNa1o0TTJoTmQyMXhMV2M1U1hCQlIweHdaakpGYUdGaVJubEZaV1Z1WjJkS2RYQlZPVkpJWjBKSlUyZHVRbXBtYUdSbkxXTmxjek5qZVc5dGRqRTFaRWxDV2xwNVVVVmlWa0pWZVhWNVVXRjBPV2hKY2toRGFVcEhNMmR6VTA1dGJ6RlZaWFEyYm1ZdE56TVNGbWhQYVRWaGIwUktSMk5VZVhOblRHTTVPVmQ0UW1jYUlrRkVjM0k1WmxSU1kwSTRXbUZVTkZkcFozZGpZbTh6ZFRabWIydHRXazh5VUhjIiwiZmN2IjoiMyJ9&q=Data+Analyst+remoto"
+  },
+  "_pipeline_metadata": {
+    "ingestion_timestamp_utc": "2026-09-28T04:09:40.917703+00:00",
+    "search_group": "bi_analytics",
+    "target_market": "Peru_Remote",
+    "target_location": "Peru",
+    "date_filter_applied": "month",
+    "new_records_count": 6,
+    "provider": "serpapi"
+  }
+}

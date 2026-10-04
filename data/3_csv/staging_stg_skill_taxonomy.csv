@@ -1,0 +1,37 @@
+﻿nombre_skill,categoria_skill
+SQL,data_core
+T-SQL,data_core
+PL/SQL,data_core
+Python,data_core
+Pandas,data_core
+NumPy,data_core
+Power BI,bi
+DAX,bi
+Power Query,bi
+Data Visualization,bi
+Looker,bi
+Tableau,bi
+ETL,engineering
+ELT,engineering
+Data Warehouse,engineering
+Data Modeling,engineering
+Dimensional Modeling,engineering
+Data Pipelines,engineering
+Data Integration,engineering
+SQL Server,databases
+Oracle,databases
+PostgreSQL,databases
+Azure SQL,databases
+MySQL,databases
+APIs,automation
+Web Scraping,automation
+Automation,automation
+Python Automation,automation
+Workflow Automation,automation
+AWS,cloud
+Azure,cloud
+Google Cloud,cloud
+AWS Lambda,cloud
+Excel,productivity
+Advanced Excel,productivity
+Google Sheets,productivity

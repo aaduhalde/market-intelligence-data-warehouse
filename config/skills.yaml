@@ -1,0 +1,51 @@
+# config/skills.yaml
+skill_taxonomy:
+  data_core:
+    - "SQL"
+    - "T-SQL"
+    - "PL/SQL"
+    - "Python"
+    - "Pandas"
+    - "NumPy"
+
+  bi:
+    - "Power BI"
+    - "DAX"
+    - "Power Query"
+    - "Data Visualization"
+    - "Looker"
+    - "Tableau"
+
+  engineering:
+    - "ETL"
+    - "ELT"
+    - "Data Warehouse"
+    - "Data Modeling"
+    - "Dimensional Modeling"
+    - "Data Pipelines"
+    - "Data Integration"
+
+  databases:
+    - "SQL Server"
+    - "Oracle"
+    - "PostgreSQL"
+    - "Azure SQL"
+    - "MySQL"
+
+  automation:
+    - "APIs"
+    - "Web Scraping"
+    - "Automation"
+    - "Python Automation"
+    - "Workflow Automation"
+
+  cloud:
+    - "AWS"
+    - "Azure"
+    - "Google Cloud"
+    - "AWS Lambda"
+
+  productivity:
+    - "Excel"
+    - "Advanced Excel"
+    - "Google Sheets"

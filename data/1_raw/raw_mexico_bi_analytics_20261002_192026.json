@@ -1,0 +1,527 @@
+{
+  "search_metadata": {
+    "id": "6ac00427a208021df24b88e8",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/-Z7Z0lv_SzPU5LBbSkyzImhKm30r7RTKS773y8T9f-c/6ac00427a208021df24b88e8.json",
+    "markdown_endpoint": "https://serpapi.com/searches/-Z7Z0lv_SzPU5LBbSkyzImhKm30r7RTKS773y8T9f-c/6ac00427a208021df24b88e8.md",
+    "created_at": "2026-10-02 19:21:11 UTC",
+    "processed_at": "2026-10-02 19:21:11 UTC",
+    "google_jobs_url": "https://www.google.com/search?q=Data+Analyst&uule=w+CAIQICIGTWV4aWNv&hl=es&gl=mx&chips=date_posted:3days&udm=8",
+    "raw_html_file": "https://serpapi.com/searches/-Z7Z0lv_SzPU5LBbSkyzImhKm30r7RTKS773y8T9f-c/6ac00427a208021df24b88e8.html",
+    "total_time_taken": 16.55
+  },
+  "search_parameters": {
+    "q": "Data Analyst",
+    "engine": "google_jobs",
+    "location_requested": "Mexico",
+    "location_used": "Mexico",
+    "google_domain": "google.com",
+    "hl": "es",
+    "gl": "mx",
+    "chips": "date_posted:3days"
+  },
+  "filters": [
+    {
+      "name": "Tipo de trabajo",
+      "options": [
+        {
+          "name": "Tiempo completo",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4rjdygdj3dMWkENbzHOm63F8EX1DVcI6P4YgHOGSUHh1o0-NTXZe2cTr8nv5rROG0e8otGJwA9ug3_DYQlq7zBByeSNXFux2rpox_G1Y7AvFEtXxyxF43Dh8kp9Fqi48cj2Q99yNnYqlrwM67VN3pbQJj5Pf3LbJOiYo4WtIvY9mqkmzK19W2JLYZ7s3dfTKPtamo-Icx5CRgWTl8xHaAgcAEKVRX8QuddUbOA8nQA9HyWL8ZUvhNlhvN6Q9JmShZCHOs_pIOk2-Q1suzjBa1Bx-9Ljh7dwK4VK6PA5VsMtcA5TziCv2qddcOnbXg4hyTrIkk8v4oWRkEOXQJSPEUZk3V1D0qkyRyjOTQTChopJ6zpVxLg",
+            "q": "data tiempo completo"
+          },
+          "link": "https://www.google.com/search?sca_esv=4d65981f01013b52&hl=es&gl=mx&sxsrf=APpeQntB6kN8Hx99wXZrIe7xvoxBR27IGQ:1790968883818&q=data+tiempo+completo&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rjdygdj3dMWkENbzHOm63F8EX1DVcI6P4YgHOGSUHh1o0-NTXZe2cTr8nv5rROG0e8otGJwA9ug3_DYQlq7zBByeSNXFux2rpox_G1Y7AvFEtXxyxF43Dh8kp9Fqi48cj2Q99yNnYqlrwM67VN3pbQJj5Pf3LbJOiYo4WtIvY9mqkmzK19W2JLYZ7s3dfTKPtamo-Icx5CRgWTl8xHaAgcAEKVRX8QuddUbOA8nQA9HyWL8ZUvhNlhvN6Q9JmShZCHOs_pIOk2-Q1suzjBa1Bx-9Ljh7dwK4VK6PA5VsMtcA5TziCv2qddcOnbXg4hyTrIkk8v4oWRkEOXQJSPEUZk3V1D0qkyRyjOTQTChopJ6zpVxLg&chips=date_posted:3days&udm=8&sa=X&ved=2ahUKEwiFtf6Ah5yXAxWzpIkEHZFiB8UQkbEKegQIGhAC",
+          "serpapi_link": "https://serpapi.com/search.json?chips=date_posted%3A3days&engine=google_jobs&gl=mx&google_domain=google.com&hl=es&location=Mexico&q=data+tiempo+completo&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rjdygdj3dMWkENbzHOm63F8EX1DVcI6P4YgHOGSUHh1o0-NTXZe2cTr8nv5rROG0e8otGJwA9ug3_DYQlq7zBByeSNXFux2rpox_G1Y7AvFEtXxyxF43Dh8kp9Fqi48cj2Q99yNnYqlrwM67VN3pbQJj5Pf3LbJOiYo4WtIvY9mqkmzK19W2JLYZ7s3dfTKPtamo-Icx5CRgWTl8xHaAgcAEKVRX8QuddUbOA8nQA9HyWL8ZUvhNlhvN6Q9JmShZCHOs_pIOk2-Q1suzjBa1Bx-9Ljh7dwK4VK6PA5VsMtcA5TziCv2qddcOnbXg4hyTrIkk8v4oWRkEOXQJSPEUZk3V1D0qkyRyjOTQTChopJ6zpVxLg"
+        },
+        {
+          "name": "Tiempo parcial",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4roShN0sMy5ev2uGhHNkJW5RCgd0tfprgnWAVOyOQK2XPo1aYyWiGDegYVb8MZz2w2tUoPriu2LVeIwOMpIkjG0TkWMuFrn2VgIdF9B5XkdZbxWQZmC7x0DqaxOK3E1t7fGGQDAteoVQBvw7b0KLajWKgr77ckX0g2xhquLFMPxxCztM6pJw1V5N5BkkJhRnmAwQM1QvTJPGQcTWm2SGOPJRYnLeQ0UvzueRe-C1LUAofA9H-BHmVaIyFQoBvqzq_nzj-Fx8xJdHcl719X1WNp4bCvqxb8MbYV6StbNGioewBqiPzFp22Bty3RAQKO4j10RhUuhddtVGCWJsDgptF1MONljvYqExf3XXJXYVCxy1V3V8lX",
+            "q": "data tiempo parcial"
+          },
+          "link": "https://www.google.com/search?sca_esv=4d65981f01013b52&hl=es&gl=mx&sxsrf=APpeQntB6kN8Hx99wXZrIe7xvoxBR27IGQ:1790968883818&q=data+tiempo+parcial&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4roShN0sMy5ev2uGhHNkJW5RCgd0tfprgnWAVOyOQK2XPo1aYyWiGDegYVb8MZz2w2tUoPriu2LVeIwOMpIkjG0TkWMuFrn2VgIdF9B5XkdZbxWQZmC7x0DqaxOK3E1t7fGGQDAteoVQBvw7b0KLajWKgr77ckX0g2xhquLFMPxxCztM6pJw1V5N5BkkJhRnmAwQM1QvTJPGQcTWm2SGOPJRYnLeQ0UvzueRe-C1LUAofA9H-BHmVaIyFQoBvqzq_nzj-Fx8xJdHcl719X1WNp4bCvqxb8MbYV6StbNGioewBqiPzFp22Bty3RAQKO4j10RhUuhddtVGCWJsDgptF1MONljvYqExf3XXJXYVCxy1V3V8lX&chips=date_posted:3days&udm=8&sa=X&ved=2ahUKEwiFtf6Ah5yXAxWzpIkEHZFiB8UQkbEKegQIGhAD",
+          "serpapi_link": "https://serpapi.com/search.json?chips=date_posted%3A3days&engine=google_jobs&gl=mx&google_domain=google.com&hl=es&location=Mexico&q=data+tiempo+parcial&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4roShN0sMy5ev2uGhHNkJW5RCgd0tfprgnWAVOyOQK2XPo1aYyWiGDegYVb8MZz2w2tUoPriu2LVeIwOMpIkjG0TkWMuFrn2VgIdF9B5XkdZbxWQZmC7x0DqaxOK3E1t7fGGQDAteoVQBvw7b0KLajWKgr77ckX0g2xhquLFMPxxCztM6pJw1V5N5BkkJhRnmAwQM1QvTJPGQcTWm2SGOPJRYnLeQ0UvzueRe-C1LUAofA9H-BHmVaIyFQoBvqzq_nzj-Fx8xJdHcl719X1WNp4bCvqxb8MbYV6StbNGioewBqiPzFp22Bty3RAQKO4j10RhUuhddtVGCWJsDgptF1MONljvYqExf3XXJXYVCxy1V3V8lX"
+        },
+        {
+          "name": "Con contrato",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4rcyAXw0LNf4_5_PJXENkvOnC4Q0N9yVeDMIrYrPpQ-wl1RE5Aux_HmlkGKgkmty5RSa1jgF6lExqLxkJh4MkVAwxBnzapqo-awf74ZKkpAXGAg6FsgAGYc8isg_Zk8Cbxeyq5LAv4NrchNO8OfrtJBs4aQ0Xh2kwG2ciGmtdPfZT0Y17xlC61XLtUALJExekOxKiUy8NvslTHcM7CEVI6PDYZMKS2UjSY58btysSFi1nUODAR_FHilX_56ZoQarRfdSQuPgpG6WKnU8bfusxUQRgN7savSlnsYF9mS0SyNDZlI2qaSa-7HPS3mW6c1BdeX1aNhtQHKkyOjIXwX1nYyGkrui0FqvBbsGWi_FAOFZPpgfR7G5PjhWAHnocGgmKiyceCXg",
+            "q": "data con contrato"
+          },
+          "link": "https://www.google.com/search?sca_esv=4d65981f01013b52&hl=es&gl=mx&sxsrf=APpeQntB6kN8Hx99wXZrIe7xvoxBR27IGQ:1790968883818&q=data+con+contrato&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rcyAXw0LNf4_5_PJXENkvOnC4Q0N9yVeDMIrYrPpQ-wl1RE5Aux_HmlkGKgkmty5RSa1jgF6lExqLxkJh4MkVAwxBnzapqo-awf74ZKkpAXGAg6FsgAGYc8isg_Zk8Cbxeyq5LAv4NrchNO8OfrtJBs4aQ0Xh2kwG2ciGmtdPfZT0Y17xlC61XLtUALJExekOxKiUy8NvslTHcM7CEVI6PDYZMKS2UjSY58btysSFi1nUODAR_FHilX_56ZoQarRfdSQuPgpG6WKnU8bfusxUQRgN7savSlnsYF9mS0SyNDZlI2qaSa-7HPS3mW6c1BdeX1aNhtQHKkyOjIXwX1nYyGkrui0FqvBbsGWi_FAOFZPpgfR7G5PjhWAHnocGgmKiyceCXg&chips=date_posted:3days&udm=8&sa=X&ved=2ahUKEwiFtf6Ah5yXAxWzpIkEHZFiB8UQkbEKegQIGhAE",
+          "serpapi_link": "https://serpapi.com/search.json?chips=date_posted%3A3days&engine=google_jobs&gl=mx&google_domain=google.com&hl=es&location=Mexico&q=data+con+contrato&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rcyAXw0LNf4_5_PJXENkvOnC4Q0N9yVeDMIrYrPpQ-wl1RE5Aux_HmlkGKgkmty5RSa1jgF6lExqLxkJh4MkVAwxBnzapqo-awf74ZKkpAXGAg6FsgAGYc8isg_Zk8Cbxeyq5LAv4NrchNO8OfrtJBs4aQ0Xh2kwG2ciGmtdPfZT0Y17xlC61XLtUALJExekOxKiUy8NvslTHcM7CEVI6PDYZMKS2UjSY58btysSFi1nUODAR_FHilX_56ZoQarRfdSQuPgpG6WKnU8bfusxUQRgN7savSlnsYF9mS0SyNDZlI2qaSa-7HPS3mW6c1BdeX1aNhtQHKkyOjIXwX1nYyGkrui0FqvBbsGWi_FAOFZPpgfR7G5PjhWAHnocGgmKiyceCXg"
+        },
+        {
+          "name": "Prácticas",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4rQWouZWAncMJhilUr0mvKMZx1vJUP9CFw97uB5teJZfYDGk9E1cVvvLLIPSKbKIjhN_0QCyZetT3wJpb_IG-lG4nKLXNmy3X5NKvwndVFKsgokbxwS7az8ezNR3qz9zMfztUS_wwxQPB91Qw4j8rHMSBlj9vcDdYvRY9kjp-nQly7ynRLY9h7EUHww3tiEsA09W8RYdNPXJRuYTLdYjAx-dCvPfl65GBJG0IB3hEHRt-p_6eTRKCxVAm_o_6zrbB9aa41sESJKsxu5eSvlWGRW-gTkSKOSm7Z2AMPY1HbNje7keMTP0PH0wvvZXU3kSjHC9PSWrMz5nWPZFs80Nq2-p4u8RGeZ0DgoRisODxz5d3I2Mcs",
+            "q": "data prácticas"
+          },
+          "link": "https://www.google.com/search?sca_esv=4d65981f01013b52&hl=es&gl=mx&sxsrf=APpeQntB6kN8Hx99wXZrIe7xvoxBR27IGQ:1790968883818&q=data+pr%C3%A1cticas&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rQWouZWAncMJhilUr0mvKMZx1vJUP9CFw97uB5teJZfYDGk9E1cVvvLLIPSKbKIjhN_0QCyZetT3wJpb_IG-lG4nKLXNmy3X5NKvwndVFKsgokbxwS7az8ezNR3qz9zMfztUS_wwxQPB91Qw4j8rHMSBlj9vcDdYvRY9kjp-nQly7ynRLY9h7EUHww3tiEsA09W8RYdNPXJRuYTLdYjAx-dCvPfl65GBJG0IB3hEHRt-p_6eTRKCxVAm_o_6zrbB9aa41sESJKsxu5eSvlWGRW-gTkSKOSm7Z2AMPY1HbNje7keMTP0PH0wvvZXU3kSjHC9PSWrMz5nWPZFs80Nq2-p4u8RGeZ0DgoRisODxz5d3I2Mcs&chips=date_posted:3days&udm=8&sa=X&ved=2ahUKEwiFtf6Ah5yXAxWzpIkEHZFiB8UQkbEKegQIGhAF",
+          "serpapi_link": "https://serpapi.com/search.json?chips=date_posted%3A3days&engine=google_jobs&gl=mx&google_domain=google.com&hl=es&location=Mexico&q=data+pr%C3%A1cticas&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rQWouZWAncMJhilUr0mvKMZx1vJUP9CFw97uB5teJZfYDGk9E1cVvvLLIPSKbKIjhN_0QCyZetT3wJpb_IG-lG4nKLXNmy3X5NKvwndVFKsgokbxwS7az8ezNR3qz9zMfztUS_wwxQPB91Qw4j8rHMSBlj9vcDdYvRY9kjp-nQly7ynRLY9h7EUHww3tiEsA09W8RYdNPXJRuYTLdYjAx-dCvPfl65GBJG0IB3hEHRt-p_6eTRKCxVAm_o_6zrbB9aa41sESJKsxu5eSvlWGRW-gTkSKOSm7Z2AMPY1HbNje7keMTP0PH0wvvZXU3kSjHC9PSWrMz5nWPZFs80Nq2-p4u8RGeZ0DgoRisODxz5d3I2Mcs"
+        }
+      ]
+    },
+    {
+      "name": "Tipo de trabajo",
+      "options": [
+        {
+          "name": "Tiempo completo",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4rjdygdj3dMWkENbzHOm63F8EX1DVcI6P4YgHOGSUHh1o0-NTXZe2cTr8nv5rROG0e8otGJwA9ug3_DYQlq7zBByeSNXFux2rpox_G1Y7AvFEtXxyxF43Dh8kp9Fqi48cj2Q99yNnYqlrwM67VN3pbQJj5Pf3LbJOiYo4WtIvY9mqkmzK19W2JLYZ7s3dfTKPtamo-Icx5CRgWTl8xHaAgcAEKVRX8QuddUbOA8nQA9HyWL8ZUvhNlhvN6Q9JmShZCHOs_pIOk2-Q1suzjBa1Bx-9Ljh7dwK4VK6PA5VsMtcA5TziCv2qddcOnbXg4hyTrIkk8v4oWRkEOXQJSPEUZk3V1D0qkyRyjOTQTChopJ6zpVxLg",
+            "q": "data tiempo completo"
+          },
+          "link": "https://www.google.com/search?sca_esv=4d65981f01013b52&hl=es&gl=mx&sxsrf=APpeQntB6kN8Hx99wXZrIe7xvoxBR27IGQ:1790968883818&q=data+tiempo+completo&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rjdygdj3dMWkENbzHOm63F8EX1DVcI6P4YgHOGSUHh1o0-NTXZe2cTr8nv5rROG0e8otGJwA9ug3_DYQlq7zBByeSNXFux2rpox_G1Y7AvFEtXxyxF43Dh8kp9Fqi48cj2Q99yNnYqlrwM67VN3pbQJj5Pf3LbJOiYo4WtIvY9mqkmzK19W2JLYZ7s3dfTKPtamo-Icx5CRgWTl8xHaAgcAEKVRX8QuddUbOA8nQA9HyWL8ZUvhNlhvN6Q9JmShZCHOs_pIOk2-Q1suzjBa1Bx-9Ljh7dwK4VK6PA5VsMtcA5TziCv2qddcOnbXg4hyTrIkk8v4oWRkEOXQJSPEUZk3V1D0qkyRyjOTQTChopJ6zpVxLg&chips=date_posted:3days&udm=8&sa=X&ved=2ahUKEwiFtf6Ah5yXAxWzpIkEHZFiB8UQkbEKegQIGhAC",
+          "serpapi_link": "https://serpapi.com/search.json?chips=date_posted%3A3days&engine=google_jobs&gl=mx&google_domain=google.com&hl=es&location=Mexico&q=data+tiempo+completo&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rjdygdj3dMWkENbzHOm63F8EX1DVcI6P4YgHOGSUHh1o0-NTXZe2cTr8nv5rROG0e8otGJwA9ug3_DYQlq7zBByeSNXFux2rpox_G1Y7AvFEtXxyxF43Dh8kp9Fqi48cj2Q99yNnYqlrwM67VN3pbQJj5Pf3LbJOiYo4WtIvY9mqkmzK19W2JLYZ7s3dfTKPtamo-Icx5CRgWTl8xHaAgcAEKVRX8QuddUbOA8nQA9HyWL8ZUvhNlhvN6Q9JmShZCHOs_pIOk2-Q1suzjBa1Bx-9Ljh7dwK4VK6PA5VsMtcA5TziCv2qddcOnbXg4hyTrIkk8v4oWRkEOXQJSPEUZk3V1D0qkyRyjOTQTChopJ6zpVxLg"
+        },
+        {
+          "name": "Tiempo parcial",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4roShN0sMy5ev2uGhHNkJW5RCgd0tfprgnWAVOyOQK2XPo1aYyWiGDegYVb8MZz2w2tUoPriu2LVeIwOMpIkjG0TkWMuFrn2VgIdF9B5XkdZbxWQZmC7x0DqaxOK3E1t7fGGQDAteoVQBvw7b0KLajWKgr77ckX0g2xhquLFMPxxCztM6pJw1V5N5BkkJhRnmAwQM1QvTJPGQcTWm2SGOPJRYnLeQ0UvzueRe-C1LUAofA9H-BHmVaIyFQoBvqzq_nzj-Fx8xJdHcl719X1WNp4bCvqxb8MbYV6StbNGioewBqiPzFp22Bty3RAQKO4j10RhUuhddtVGCWJsDgptF1MONljvYqExf3XXJXYVCxy1V3V8lX",
+            "q": "data tiempo parcial"
+          },
+          "link": "https://www.google.com/search?sca_esv=4d65981f01013b52&hl=es&gl=mx&sxsrf=APpeQntB6kN8Hx99wXZrIe7xvoxBR27IGQ:1790968883818&q=data+tiempo+parcial&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4roShN0sMy5ev2uGhHNkJW5RCgd0tfprgnWAVOyOQK2XPo1aYyWiGDegYVb8MZz2w2tUoPriu2LVeIwOMpIkjG0TkWMuFrn2VgIdF9B5XkdZbxWQZmC7x0DqaxOK3E1t7fGGQDAteoVQBvw7b0KLajWKgr77ckX0g2xhquLFMPxxCztM6pJw1V5N5BkkJhRnmAwQM1QvTJPGQcTWm2SGOPJRYnLeQ0UvzueRe-C1LUAofA9H-BHmVaIyFQoBvqzq_nzj-Fx8xJdHcl719X1WNp4bCvqxb8MbYV6StbNGioewBqiPzFp22Bty3RAQKO4j10RhUuhddtVGCWJsDgptF1MONljvYqExf3XXJXYVCxy1V3V8lX&chips=date_posted:3days&udm=8&sa=X&ved=2ahUKEwiFtf6Ah5yXAxWzpIkEHZFiB8UQkbEKegQIGhAD",
+          "serpapi_link": "https://serpapi.com/search.json?chips=date_posted%3A3days&engine=google_jobs&gl=mx&google_domain=google.com&hl=es&location=Mexico&q=data+tiempo+parcial&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4roShN0sMy5ev2uGhHNkJW5RCgd0tfprgnWAVOyOQK2XPo1aYyWiGDegYVb8MZz2w2tUoPriu2LVeIwOMpIkjG0TkWMuFrn2VgIdF9B5XkdZbxWQZmC7x0DqaxOK3E1t7fGGQDAteoVQBvw7b0KLajWKgr77ckX0g2xhquLFMPxxCztM6pJw1V5N5BkkJhRnmAwQM1QvTJPGQcTWm2SGOPJRYnLeQ0UvzueRe-C1LUAofA9H-BHmVaIyFQoBvqzq_nzj-Fx8xJdHcl719X1WNp4bCvqxb8MbYV6StbNGioewBqiPzFp22Bty3RAQKO4j10RhUuhddtVGCWJsDgptF1MONljvYqExf3XXJXYVCxy1V3V8lX"
+        },
+        {
+          "name": "Con contrato",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4rcyAXw0LNf4_5_PJXENkvOnC4Q0N9yVeDMIrYrPpQ-wl1RE5Aux_HmlkGKgkmty5RSa1jgF6lExqLxkJh4MkVAwxBnzapqo-awf74ZKkpAXGAg6FsgAGYc8isg_Zk8Cbxeyq5LAv4NrchNO8OfrtJBs4aQ0Xh2kwG2ciGmtdPfZT0Y17xlC61XLtUALJExekOxKiUy8NvslTHcM7CEVI6PDYZMKS2UjSY58btysSFi1nUODAR_FHilX_56ZoQarRfdSQuPgpG6WKnU8bfusxUQRgN7savSlnsYF9mS0SyNDZlI2qaSa-7HPS3mW6c1BdeX1aNhtQHKkyOjIXwX1nYyGkrui0FqvBbsGWi_FAOFZPpgfR7G5PjhWAHnocGgmKiyceCXg",
+            "q": "data con contrato"
+          },
+          "link": "https://www.google.com/search?sca_esv=4d65981f01013b52&hl=es&gl=mx&sxsrf=APpeQntB6kN8Hx99wXZrIe7xvoxBR27IGQ:1790968883818&q=data+con+contrato&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rcyAXw0LNf4_5_PJXENkvOnC4Q0N9yVeDMIrYrPpQ-wl1RE5Aux_HmlkGKgkmty5RSa1jgF6lExqLxkJh4MkVAwxBnzapqo-awf74ZKkpAXGAg6FsgAGYc8isg_Zk8Cbxeyq5LAv4NrchNO8OfrtJBs4aQ0Xh2kwG2ciGmtdPfZT0Y17xlC61XLtUALJExekOxKiUy8NvslTHcM7CEVI6PDYZMKS2UjSY58btysSFi1nUODAR_FHilX_56ZoQarRfdSQuPgpG6WKnU8bfusxUQRgN7savSlnsYF9mS0SyNDZlI2qaSa-7HPS3mW6c1BdeX1aNhtQHKkyOjIXwX1nYyGkrui0FqvBbsGWi_FAOFZPpgfR7G5PjhWAHnocGgmKiyceCXg&chips=date_posted:3days&udm=8&sa=X&ved=2ahUKEwiFtf6Ah5yXAxWzpIkEHZFiB8UQkbEKegQIGhAE",
+          "serpapi_link": "https://serpapi.com/search.json?chips=date_posted%3A3days&engine=google_jobs&gl=mx&google_domain=google.com&hl=es&location=Mexico&q=data+con+contrato&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rcyAXw0LNf4_5_PJXENkvOnC4Q0N9yVeDMIrYrPpQ-wl1RE5Aux_HmlkGKgkmty5RSa1jgF6lExqLxkJh4MkVAwxBnzapqo-awf74ZKkpAXGAg6FsgAGYc8isg_Zk8Cbxeyq5LAv4NrchNO8OfrtJBs4aQ0Xh2kwG2ciGmtdPfZT0Y17xlC61XLtUALJExekOxKiUy8NvslTHcM7CEVI6PDYZMKS2UjSY58btysSFi1nUODAR_FHilX_56ZoQarRfdSQuPgpG6WKnU8bfusxUQRgN7savSlnsYF9mS0SyNDZlI2qaSa-7HPS3mW6c1BdeX1aNhtQHKkyOjIXwX1nYyGkrui0FqvBbsGWi_FAOFZPpgfR7G5PjhWAHnocGgmKiyceCXg"
+        },
+        {
+          "name": "Prácticas",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4rQWouZWAncMJhilUr0mvKMZx1vJUP9CFw97uB5teJZfYDGk9E1cVvvLLIPSKbKIjhN_0QCyZetT3wJpb_IG-lG4nKLXNmy3X5NKvwndVFKsgokbxwS7az8ezNR3qz9zMfztUS_wwxQPB91Qw4j8rHMSBlj9vcDdYvRY9kjp-nQly7ynRLY9h7EUHww3tiEsA09W8RYdNPXJRuYTLdYjAx-dCvPfl65GBJG0IB3hEHRt-p_6eTRKCxVAm_o_6zrbB9aa41sESJKsxu5eSvlWGRW-gTkSKOSm7Z2AMPY1HbNje7keMTP0PH0wvvZXU3kSjHC9PSWrMz5nWPZFs80Nq2-p4u8RGeZ0DgoRisODxz5d3I2Mcs",
+            "q": "data prácticas"
+          },
+          "link": "https://www.google.com/search?sca_esv=4d65981f01013b52&hl=es&gl=mx&sxsrf=APpeQntB6kN8Hx99wXZrIe7xvoxBR27IGQ:1790968883818&q=data+pr%C3%A1cticas&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rQWouZWAncMJhilUr0mvKMZx1vJUP9CFw97uB5teJZfYDGk9E1cVvvLLIPSKbKIjhN_0QCyZetT3wJpb_IG-lG4nKLXNmy3X5NKvwndVFKsgokbxwS7az8ezNR3qz9zMfztUS_wwxQPB91Qw4j8rHMSBlj9vcDdYvRY9kjp-nQly7ynRLY9h7EUHww3tiEsA09W8RYdNPXJRuYTLdYjAx-dCvPfl65GBJG0IB3hEHRt-p_6eTRKCxVAm_o_6zrbB9aa41sESJKsxu5eSvlWGRW-gTkSKOSm7Z2AMPY1HbNje7keMTP0PH0wvvZXU3kSjHC9PSWrMz5nWPZFs80Nq2-p4u8RGeZ0DgoRisODxz5d3I2Mcs&chips=date_posted:3days&udm=8&sa=X&ved=2ahUKEwiFtf6Ah5yXAxWzpIkEHZFiB8UQkbEKegQIGhAF",
+          "serpapi_link": "https://serpapi.com/search.json?chips=date_posted%3A3days&engine=google_jobs&gl=mx&google_domain=google.com&hl=es&location=Mexico&q=data+pr%C3%A1cticas&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rQWouZWAncMJhilUr0mvKMZx1vJUP9CFw97uB5teJZfYDGk9E1cVvvLLIPSKbKIjhN_0QCyZetT3wJpb_IG-lG4nKLXNmy3X5NKvwndVFKsgokbxwS7az8ezNR3qz9zMfztUS_wwxQPB91Qw4j8rHMSBlj9vcDdYvRY9kjp-nQly7ynRLY9h7EUHww3tiEsA09W8RYdNPXJRuYTLdYjAx-dCvPfl65GBJG0IB3hEHRt-p_6eTRKCxVAm_o_6zrbB9aa41sESJKsxu5eSvlWGRW-gTkSKOSm7Z2AMPY1HbNje7keMTP0PH0wvvZXU3kSjHC9PSWrMz5nWPZFs80Nq2-p4u8RGeZ0DgoRisODxz5d3I2Mcs"
+        }
+      ]
+    },
+    {
+      "name": "Fecha de publicación",
+      "options": [
+        {
+          "name": "Ayer",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4rVVNivViyVtms2aJvUHdkkE4a8KWRLPsTTxhYwY24-bnxYHnZGWvtIeTvwBFxR3ODKU3cVf9zm2d9O3uLwIfpF-kOhYup1_6IXwDrqkY_XccPqbRQf8JjgIBwQUxGgJLIfO8m2I9ziDKfrWn5pBzXMXGSx8AxctPH2DzuDG_HPgAprNnPiw0t-2ZtUZ-l0RbAaQ8fu7_R4b6VOFs6Cbki7PmmJbCDukew40nSChj4tGe6Xg8Z-hEpZkenO5zTxW_hSpehs6C5bNO9iZTP43B1tQgZJ3ssLQcz3faBiIlYO4hyXDy76JNKTW7gyJSD_0tENvkicAElY9FUL3WFkwH8HeeMfUM6TXRt8nXhf_3prV5QZ6qhJ4ikbv4ECiw-5_rbJ9lSxc6CPLSoL7g-C5aR4RkM27I",
+            "q": "data desde ayer"
+          },
+          "link": "https://www.google.com/search?sca_esv=4d65981f01013b52&hl=es&gl=mx&sxsrf=APpeQntB6kN8Hx99wXZrIe7xvoxBR27IGQ:1790968883818&q=data+desde+ayer&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rVVNivViyVtms2aJvUHdkkE4a8KWRLPsTTxhYwY24-bnxYHnZGWvtIeTvwBFxR3ODKU3cVf9zm2d9O3uLwIfpF-kOhYup1_6IXwDrqkY_XccPqbRQf8JjgIBwQUxGgJLIfO8m2I9ziDKfrWn5pBzXMXGSx8AxctPH2DzuDG_HPgAprNnPiw0t-2ZtUZ-l0RbAaQ8fu7_R4b6VOFs6Cbki7PmmJbCDukew40nSChj4tGe6Xg8Z-hEpZkenO5zTxW_hSpehs6C5bNO9iZTP43B1tQgZJ3ssLQcz3faBiIlYO4hyXDy76JNKTW7gyJSD_0tENvkicAElY9FUL3WFkwH8HeeMfUM6TXRt8nXhf_3prV5QZ6qhJ4ikbv4ECiw-5_rbJ9lSxc6CPLSoL7g-C5aR4RkM27I&chips=date_posted:3days&udm=8&sa=X&ved=2ahUKEwiFtf6Ah5yXAxWzpIkEHZFiB8UQkbEKegQIGRAC",
+          "serpapi_link": "https://serpapi.com/search.json?chips=date_posted%3A3days&engine=google_jobs&gl=mx&google_domain=google.com&hl=es&location=Mexico&q=data+desde+ayer&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rVVNivViyVtms2aJvUHdkkE4a8KWRLPsTTxhYwY24-bnxYHnZGWvtIeTvwBFxR3ODKU3cVf9zm2d9O3uLwIfpF-kOhYup1_6IXwDrqkY_XccPqbRQf8JjgIBwQUxGgJLIfO8m2I9ziDKfrWn5pBzXMXGSx8AxctPH2DzuDG_HPgAprNnPiw0t-2ZtUZ-l0RbAaQ8fu7_R4b6VOFs6Cbki7PmmJbCDukew40nSChj4tGe6Xg8Z-hEpZkenO5zTxW_hSpehs6C5bNO9iZTP43B1tQgZJ3ssLQcz3faBiIlYO4hyXDy76JNKTW7gyJSD_0tENvkicAElY9FUL3WFkwH8HeeMfUM6TXRt8nXhf_3prV5QZ6qhJ4ikbv4ECiw-5_rbJ9lSxc6CPLSoL7g-C5aR4RkM27I"
+        },
+        {
+          "name": "Últimos 3 días",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4rFzaqi6X-nLhHx30s6Z1rK_dgzWPQX_ilnTMyaFGrP58rULEpvJMG150qlUkNVSimv7uDSBtY6lAbgvQz-nSzv6swR3dNrZ4CA5hfE1TD5Dfm7vHBmaV_MMTYtGKaIE839RTIZtFrnzNEZ7ERz2Sc00p2BsXGG8s4ApbkuEJve_fcm9FVR9TnskSxQQjvVAPvPyrNL_Y5UlOZBm5FQgGbOVGIFYA3uU-4uSZwblwYoOx-fsSBGVzlF3ZIzpNlcXThdn5CWn_puvrdLCgiJXRyCWvQJXfZI-12-LO-EBldB7n9pfJopDf6_YxEa_0wd5R_BMKail6zAKNYehABAFwiNZ3E4SzcfrMdUnYAYZ16rfo6PZSG91CGOHcTXBT7EkcPHi5SUMB-6R5h-A4OqtE4yAGjcMY",
+            "q": "data en los últimos 3 días"
+          },
+          "link": "https://www.google.com/search?sca_esv=4d65981f01013b52&hl=es&gl=mx&sxsrf=APpeQntB6kN8Hx99wXZrIe7xvoxBR27IGQ:1790968883818&q=data+en+los+%C3%BAltimos+3+d%C3%ADas&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rFzaqi6X-nLhHx30s6Z1rK_dgzWPQX_ilnTMyaFGrP58rULEpvJMG150qlUkNVSimv7uDSBtY6lAbgvQz-nSzv6swR3dNrZ4CA5hfE1TD5Dfm7vHBmaV_MMTYtGKaIE839RTIZtFrnzNEZ7ERz2Sc00p2BsXGG8s4ApbkuEJve_fcm9FVR9TnskSxQQjvVAPvPyrNL_Y5UlOZBm5FQgGbOVGIFYA3uU-4uSZwblwYoOx-fsSBGVzlF3ZIzpNlcXThdn5CWn_puvrdLCgiJXRyCWvQJXfZI-12-LO-EBldB7n9pfJopDf6_YxEa_0wd5R_BMKail6zAKNYehABAFwiNZ3E4SzcfrMdUnYAYZ16rfo6PZSG91CGOHcTXBT7EkcPHi5SUMB-6R5h-A4OqtE4yAGjcMY&chips=date_posted:3days&udm=8&sa=X&ved=2ahUKEwiFtf6Ah5yXAxWzpIkEHZFiB8UQkbEKegQIGRAD",
+          "serpapi_link": "https://serpapi.com/search.json?chips=date_posted%3A3days&engine=google_jobs&gl=mx&google_domain=google.com&hl=es&location=Mexico&q=data+en+los+%C3%BAltimos+3+d%C3%ADas&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rFzaqi6X-nLhHx30s6Z1rK_dgzWPQX_ilnTMyaFGrP58rULEpvJMG150qlUkNVSimv7uDSBtY6lAbgvQz-nSzv6swR3dNrZ4CA5hfE1TD5Dfm7vHBmaV_MMTYtGKaIE839RTIZtFrnzNEZ7ERz2Sc00p2BsXGG8s4ApbkuEJve_fcm9FVR9TnskSxQQjvVAPvPyrNL_Y5UlOZBm5FQgGbOVGIFYA3uU-4uSZwblwYoOx-fsSBGVzlF3ZIzpNlcXThdn5CWn_puvrdLCgiJXRyCWvQJXfZI-12-LO-EBldB7n9pfJopDf6_YxEa_0wd5R_BMKail6zAKNYehABAFwiNZ3E4SzcfrMdUnYAYZ16rfo6PZSG91CGOHcTXBT7EkcPHi5SUMB-6R5h-A4OqtE4yAGjcMY"
+        },
+        {
+          "name": "Última semana",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4r2YIQD5S0wiJLM8D3QoSGRaVxbpqbb7rumhagNEKfs4DZtLO-uOWL9fq29u3hzByj5dlWRfAd72b3a4AG0Bsahft_BSavglMGeI8GETUv2ZIaih2Y8nqZmdFFSn8k3WrR6jPjEuNkyHoOw-OtCmHBs1FICOjLlUJyWpkT45-SbVN3REvNOjC46qnl-wvDSActksNrUmja_Tv_pjyvGbrdwqSgxgeGvgswAdsGFG21RScj81tscYD9Bn8joO-zuYs87g_mjH07cEgijJjuC3ioF5jW45Nl-moRh5H6qFkj1IX-sW-XKKjdXIBiBTbQ7JWWIokdjdUukpjTpcR73rrMH9TIVlVb_lzN2CwnfFw8YGH3YNnsH1pcoe4n7_sabwf8oBJnjEG-hdIqPRPPt7MUUWOISxY",
+            "q": "data en la última semana"
+          },
+          "link": "https://www.google.com/search?sca_esv=4d65981f01013b52&hl=es&gl=mx&sxsrf=APpeQntB6kN8Hx99wXZrIe7xvoxBR27IGQ:1790968883818&q=data+en+la+%C3%BAltima+semana&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4r2YIQD5S0wiJLM8D3QoSGRaVxbpqbb7rumhagNEKfs4DZtLO-uOWL9fq29u3hzByj5dlWRfAd72b3a4AG0Bsahft_BSavglMGeI8GETUv2ZIaih2Y8nqZmdFFSn8k3WrR6jPjEuNkyHoOw-OtCmHBs1FICOjLlUJyWpkT45-SbVN3REvNOjC46qnl-wvDSActksNrUmja_Tv_pjyvGbrdwqSgxgeGvgswAdsGFG21RScj81tscYD9Bn8joO-zuYs87g_mjH07cEgijJjuC3ioF5jW45Nl-moRh5H6qFkj1IX-sW-XKKjdXIBiBTbQ7JWWIokdjdUukpjTpcR73rrMH9TIVlVb_lzN2CwnfFw8YGH3YNnsH1pcoe4n7_sabwf8oBJnjEG-hdIqPRPPt7MUUWOISxY&chips=date_posted:3days&udm=8&sa=X&ved=2ahUKEwiFtf6Ah5yXAxWzpIkEHZFiB8UQkbEKegQIGRAE",
+          "serpapi_link": "https://serpapi.com/search.json?chips=date_posted%3A3days&engine=google_jobs&gl=mx&google_domain=google.com&hl=es&location=Mexico&q=data+en+la+%C3%BAltima+semana&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4r2YIQD5S0wiJLM8D3QoSGRaVxbpqbb7rumhagNEKfs4DZtLO-uOWL9fq29u3hzByj5dlWRfAd72b3a4AG0Bsahft_BSavglMGeI8GETUv2ZIaih2Y8nqZmdFFSn8k3WrR6jPjEuNkyHoOw-OtCmHBs1FICOjLlUJyWpkT45-SbVN3REvNOjC46qnl-wvDSActksNrUmja_Tv_pjyvGbrdwqSgxgeGvgswAdsGFG21RScj81tscYD9Bn8joO-zuYs87g_mjH07cEgijJjuC3ioF5jW45Nl-moRh5H6qFkj1IX-sW-XKKjdXIBiBTbQ7JWWIokdjdUukpjTpcR73rrMH9TIVlVb_lzN2CwnfFw8YGH3YNnsH1pcoe4n7_sabwf8oBJnjEG-hdIqPRPPt7MUUWOISxY"
+        },
+        {
+          "name": "Último mes",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4rOXaF_MuSFyN549V3IFM46GeVHzgrxOZlCHeEQecAJHoIvwTtMu0cEpJ70S9GqQR36bsV7eyQHYs17MHqSJSKOZIJBrhcgandieNXiGxgE7Q3uJvBzKIrVo6hSEVcKQUzlDAKEjXaQce5alW3ueq_8nJrtg44IwA_0x3D8rCDmUBXBec2nJScrmQqzLYtKeJ_0KvBfm8cX3cLxy73_L9CYEEetTL-nUF--cI7H2qXrqfAji7x-cl1QARpsiH4dsoI90O0E7EUf3vEDCsAuGQEOVBbdLCnB1_WA23PQdIsnp_Fn8JD_z0KzADlPXAe2KJMsSTN0TRSU6XW1OJfBfWuYoXuMSglXjCi8_cyDAxyPeCec6zU0pP5YRq0t-VSxFY2WyDq3-kztHPwu9RVIVu4E_JkjhI",
+            "q": "data en el último mes"
+          },
+          "link": "https://www.google.com/search?sca_esv=4d65981f01013b52&hl=es&gl=mx&sxsrf=APpeQntB6kN8Hx99wXZrIe7xvoxBR27IGQ:1790968883818&q=data+en+el+%C3%BAltimo+mes&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rOXaF_MuSFyN549V3IFM46GeVHzgrxOZlCHeEQecAJHoIvwTtMu0cEpJ70S9GqQR36bsV7eyQHYs17MHqSJSKOZIJBrhcgandieNXiGxgE7Q3uJvBzKIrVo6hSEVcKQUzlDAKEjXaQce5alW3ueq_8nJrtg44IwA_0x3D8rCDmUBXBec2nJScrmQqzLYtKeJ_0KvBfm8cX3cLxy73_L9CYEEetTL-nUF--cI7H2qXrqfAji7x-cl1QARpsiH4dsoI90O0E7EUf3vEDCsAuGQEOVBbdLCnB1_WA23PQdIsnp_Fn8JD_z0KzADlPXAe2KJMsSTN0TRSU6XW1OJfBfWuYoXuMSglXjCi8_cyDAxyPeCec6zU0pP5YRq0t-VSxFY2WyDq3-kztHPwu9RVIVu4E_JkjhI&chips=date_posted:3days&udm=8&sa=X&ved=2ahUKEwiFtf6Ah5yXAxWzpIkEHZFiB8UQkbEKegQIGRAF",
+          "serpapi_link": "https://serpapi.com/search.json?chips=date_posted%3A3days&engine=google_jobs&gl=mx&google_domain=google.com&hl=es&location=Mexico&q=data+en+el+%C3%BAltimo+mes&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rOXaF_MuSFyN549V3IFM46GeVHzgrxOZlCHeEQecAJHoIvwTtMu0cEpJ70S9GqQR36bsV7eyQHYs17MHqSJSKOZIJBrhcgandieNXiGxgE7Q3uJvBzKIrVo6hSEVcKQUzlDAKEjXaQce5alW3ueq_8nJrtg44IwA_0x3D8rCDmUBXBec2nJScrmQqzLYtKeJ_0KvBfm8cX3cLxy73_L9CYEEetTL-nUF--cI7H2qXrqfAji7x-cl1QARpsiH4dsoI90O0E7EUf3vEDCsAuGQEOVBbdLCnB1_WA23PQdIsnp_Fn8JD_z0KzADlPXAe2KJMsSTN0TRSU6XW1OJfBfWuYoXuMSglXjCi8_cyDAxyPeCec6zU0pP5YRq0t-VSxFY2WyDq3-kztHPwu9RVIVu4E_JkjhI"
+        }
+      ]
+    },
+    {
+      "name": "Fecha de publicación",
+      "options": [
+        {
+          "name": "Ayer",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4rVVNivViyVtms2aJvUHdkkE4a8KWRLPsTTxhYwY24-bnxYHnZGWvtIeTvwBFxR3ODKU3cVf9zm2d9O3uLwIfpF-kOhYup1_6IXwDrqkY_XccPqbRQf8JjgIBwQUxGgJLIfO8m2I9ziDKfrWn5pBzXMXGSx8AxctPH2DzuDG_HPgAprNnPiw0t-2ZtUZ-l0RbAaQ8fu7_R4b6VOFs6Cbki7PmmJbCDukew40nSChj4tGe6Xg8Z-hEpZkenO5zTxW_hSpehs6C5bNO9iZTP43B1tQgZJ3ssLQcz3faBiIlYO4hyXDy76JNKTW7gyJSD_0tENvkicAElY9FUL3WFkwH8HeeMfUM6TXRt8nXhf_3prV5QZ6qhJ4ikbv4ECiw-5_rbJ9lSxc6CPLSoL7g-C5aR4RkM27I",
+            "q": "data desde ayer"
+          },
+          "link": "https://www.google.com/search?sca_esv=4d65981f01013b52&hl=es&gl=mx&sxsrf=APpeQntB6kN8Hx99wXZrIe7xvoxBR27IGQ:1790968883818&q=data+desde+ayer&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rVVNivViyVtms2aJvUHdkkE4a8KWRLPsTTxhYwY24-bnxYHnZGWvtIeTvwBFxR3ODKU3cVf9zm2d9O3uLwIfpF-kOhYup1_6IXwDrqkY_XccPqbRQf8JjgIBwQUxGgJLIfO8m2I9ziDKfrWn5pBzXMXGSx8AxctPH2DzuDG_HPgAprNnPiw0t-2ZtUZ-l0RbAaQ8fu7_R4b6VOFs6Cbki7PmmJbCDukew40nSChj4tGe6Xg8Z-hEpZkenO5zTxW_hSpehs6C5bNO9iZTP43B1tQgZJ3ssLQcz3faBiIlYO4hyXDy76JNKTW7gyJSD_0tENvkicAElY9FUL3WFkwH8HeeMfUM6TXRt8nXhf_3prV5QZ6qhJ4ikbv4ECiw-5_rbJ9lSxc6CPLSoL7g-C5aR4RkM27I&chips=date_posted:3days&udm=8&sa=X&ved=2ahUKEwiFtf6Ah5yXAxWzpIkEHZFiB8UQkbEKegQIGRAC",
+          "serpapi_link": "https://serpapi.com/search.json?chips=date_posted%3A3days&engine=google_jobs&gl=mx&google_domain=google.com&hl=es&location=Mexico&q=data+desde+ayer&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rVVNivViyVtms2aJvUHdkkE4a8KWRLPsTTxhYwY24-bnxYHnZGWvtIeTvwBFxR3ODKU3cVf9zm2d9O3uLwIfpF-kOhYup1_6IXwDrqkY_XccPqbRQf8JjgIBwQUxGgJLIfO8m2I9ziDKfrWn5pBzXMXGSx8AxctPH2DzuDG_HPgAprNnPiw0t-2ZtUZ-l0RbAaQ8fu7_R4b6VOFs6Cbki7PmmJbCDukew40nSChj4tGe6Xg8Z-hEpZkenO5zTxW_hSpehs6C5bNO9iZTP43B1tQgZJ3ssLQcz3faBiIlYO4hyXDy76JNKTW7gyJSD_0tENvkicAElY9FUL3WFkwH8HeeMfUM6TXRt8nXhf_3prV5QZ6qhJ4ikbv4ECiw-5_rbJ9lSxc6CPLSoL7g-C5aR4RkM27I"
+        },
+        {
+          "name": "Últimos 3 días",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4rFzaqi6X-nLhHx30s6Z1rK_dgzWPQX_ilnTMyaFGrP58rULEpvJMG150qlUkNVSimv7uDSBtY6lAbgvQz-nSzv6swR3dNrZ4CA5hfE1TD5Dfm7vHBmaV_MMTYtGKaIE839RTIZtFrnzNEZ7ERz2Sc00p2BsXGG8s4ApbkuEJve_fcm9FVR9TnskSxQQjvVAPvPyrNL_Y5UlOZBm5FQgGbOVGIFYA3uU-4uSZwblwYoOx-fsSBGVzlF3ZIzpNlcXThdn5CWn_puvrdLCgiJXRyCWvQJXfZI-12-LO-EBldB7n9pfJopDf6_YxEa_0wd5R_BMKail6zAKNYehABAFwiNZ3E4SzcfrMdUnYAYZ16rfo6PZSG91CGOHcTXBT7EkcPHi5SUMB-6R5h-A4OqtE4yAGjcMY",
+            "q": "data en los últimos 3 días"
+          },
+          "link": "https://www.google.com/search?sca_esv=4d65981f01013b52&hl=es&gl=mx&sxsrf=APpeQntB6kN8Hx99wXZrIe7xvoxBR27IGQ:1790968883818&q=data+en+los+%C3%BAltimos+3+d%C3%ADas&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rFzaqi6X-nLhHx30s6Z1rK_dgzWPQX_ilnTMyaFGrP58rULEpvJMG150qlUkNVSimv7uDSBtY6lAbgvQz-nSzv6swR3dNrZ4CA5hfE1TD5Dfm7vHBmaV_MMTYtGKaIE839RTIZtFrnzNEZ7ERz2Sc00p2BsXGG8s4ApbkuEJve_fcm9FVR9TnskSxQQjvVAPvPyrNL_Y5UlOZBm5FQgGbOVGIFYA3uU-4uSZwblwYoOx-fsSBGVzlF3ZIzpNlcXThdn5CWn_puvrdLCgiJXRyCWvQJXfZI-12-LO-EBldB7n9pfJopDf6_YxEa_0wd5R_BMKail6zAKNYehABAFwiNZ3E4SzcfrMdUnYAYZ16rfo6PZSG91CGOHcTXBT7EkcPHi5SUMB-6R5h-A4OqtE4yAGjcMY&chips=date_posted:3days&udm=8&sa=X&ved=2ahUKEwiFtf6Ah5yXAxWzpIkEHZFiB8UQkbEKegQIGRAD",
+          "serpapi_link": "https://serpapi.com/search.json?chips=date_posted%3A3days&engine=google_jobs&gl=mx&google_domain=google.com&hl=es&location=Mexico&q=data+en+los+%C3%BAltimos+3+d%C3%ADas&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rFzaqi6X-nLhHx30s6Z1rK_dgzWPQX_ilnTMyaFGrP58rULEpvJMG150qlUkNVSimv7uDSBtY6lAbgvQz-nSzv6swR3dNrZ4CA5hfE1TD5Dfm7vHBmaV_MMTYtGKaIE839RTIZtFrnzNEZ7ERz2Sc00p2BsXGG8s4ApbkuEJve_fcm9FVR9TnskSxQQjvVAPvPyrNL_Y5UlOZBm5FQgGbOVGIFYA3uU-4uSZwblwYoOx-fsSBGVzlF3ZIzpNlcXThdn5CWn_puvrdLCgiJXRyCWvQJXfZI-12-LO-EBldB7n9pfJopDf6_YxEa_0wd5R_BMKail6zAKNYehABAFwiNZ3E4SzcfrMdUnYAYZ16rfo6PZSG91CGOHcTXBT7EkcPHi5SUMB-6R5h-A4OqtE4yAGjcMY"
+        },
+        {
+          "name": "Última semana",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4r2YIQD5S0wiJLM8D3QoSGRaVxbpqbb7rumhagNEKfs4DZtLO-uOWL9fq29u3hzByj5dlWRfAd72b3a4AG0Bsahft_BSavglMGeI8GETUv2ZIaih2Y8nqZmdFFSn8k3WrR6jPjEuNkyHoOw-OtCmHBs1FICOjLlUJyWpkT45-SbVN3REvNOjC46qnl-wvDSActksNrUmja_Tv_pjyvGbrdwqSgxgeGvgswAdsGFG21RScj81tscYD9Bn8joO-zuYs87g_mjH07cEgijJjuC3ioF5jW45Nl-moRh5H6qFkj1IX-sW-XKKjdXIBiBTbQ7JWWIokdjdUukpjTpcR73rrMH9TIVlVb_lzN2CwnfFw8YGH3YNnsH1pcoe4n7_sabwf8oBJnjEG-hdIqPRPPt7MUUWOISxY",
+            "q": "data en la última semana"
+          },
+          "link": "https://www.google.com/search?sca_esv=4d65981f01013b52&hl=es&gl=mx&sxsrf=APpeQntB6kN8Hx99wXZrIe7xvoxBR27IGQ:1790968883818&q=data+en+la+%C3%BAltima+semana&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4r2YIQD5S0wiJLM8D3QoSGRaVxbpqbb7rumhagNEKfs4DZtLO-uOWL9fq29u3hzByj5dlWRfAd72b3a4AG0Bsahft_BSavglMGeI8GETUv2ZIaih2Y8nqZmdFFSn8k3WrR6jPjEuNkyHoOw-OtCmHBs1FICOjLlUJyWpkT45-SbVN3REvNOjC46qnl-wvDSActksNrUmja_Tv_pjyvGbrdwqSgxgeGvgswAdsGFG21RScj81tscYD9Bn8joO-zuYs87g_mjH07cEgijJjuC3ioF5jW45Nl-moRh5H6qFkj1IX-sW-XKKjdXIBiBTbQ7JWWIokdjdUukpjTpcR73rrMH9TIVlVb_lzN2CwnfFw8YGH3YNnsH1pcoe4n7_sabwf8oBJnjEG-hdIqPRPPt7MUUWOISxY&chips=date_posted:3days&udm=8&sa=X&ved=2ahUKEwiFtf6Ah5yXAxWzpIkEHZFiB8UQkbEKegQIGRAE",
+          "serpapi_link": "https://serpapi.com/search.json?chips=date_posted%3A3days&engine=google_jobs&gl=mx&google_domain=google.com&hl=es&location=Mexico&q=data+en+la+%C3%BAltima+semana&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4r2YIQD5S0wiJLM8D3QoSGRaVxbpqbb7rumhagNEKfs4DZtLO-uOWL9fq29u3hzByj5dlWRfAd72b3a4AG0Bsahft_BSavglMGeI8GETUv2ZIaih2Y8nqZmdFFSn8k3WrR6jPjEuNkyHoOw-OtCmHBs1FICOjLlUJyWpkT45-SbVN3REvNOjC46qnl-wvDSActksNrUmja_Tv_pjyvGbrdwqSgxgeGvgswAdsGFG21RScj81tscYD9Bn8joO-zuYs87g_mjH07cEgijJjuC3ioF5jW45Nl-moRh5H6qFkj1IX-sW-XKKjdXIBiBTbQ7JWWIokdjdUukpjTpcR73rrMH9TIVlVb_lzN2CwnfFw8YGH3YNnsH1pcoe4n7_sabwf8oBJnjEG-hdIqPRPPt7MUUWOISxY"
+        },
+        {
+          "name": "Último mes",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4rOXaF_MuSFyN549V3IFM46GeVHzgrxOZlCHeEQecAJHoIvwTtMu0cEpJ70S9GqQR36bsV7eyQHYs17MHqSJSKOZIJBrhcgandieNXiGxgE7Q3uJvBzKIrVo6hSEVcKQUzlDAKEjXaQce5alW3ueq_8nJrtg44IwA_0x3D8rCDmUBXBec2nJScrmQqzLYtKeJ_0KvBfm8cX3cLxy73_L9CYEEetTL-nUF--cI7H2qXrqfAji7x-cl1QARpsiH4dsoI90O0E7EUf3vEDCsAuGQEOVBbdLCnB1_WA23PQdIsnp_Fn8JD_z0KzADlPXAe2KJMsSTN0TRSU6XW1OJfBfWuYoXuMSglXjCi8_cyDAxyPeCec6zU0pP5YRq0t-VSxFY2WyDq3-kztHPwu9RVIVu4E_JkjhI",
+            "q": "data en el último mes"
+          },
+          "link": "https://www.google.com/search?sca_esv=4d65981f01013b52&hl=es&gl=mx&sxsrf=APpeQntB6kN8Hx99wXZrIe7xvoxBR27IGQ:1790968883818&q=data+en+el+%C3%BAltimo+mes&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rOXaF_MuSFyN549V3IFM46GeVHzgrxOZlCHeEQecAJHoIvwTtMu0cEpJ70S9GqQR36bsV7eyQHYs17MHqSJSKOZIJBrhcgandieNXiGxgE7Q3uJvBzKIrVo6hSEVcKQUzlDAKEjXaQce5alW3ueq_8nJrtg44IwA_0x3D8rCDmUBXBec2nJScrmQqzLYtKeJ_0KvBfm8cX3cLxy73_L9CYEEetTL-nUF--cI7H2qXrqfAji7x-cl1QARpsiH4dsoI90O0E7EUf3vEDCsAuGQEOVBbdLCnB1_WA23PQdIsnp_Fn8JD_z0KzADlPXAe2KJMsSTN0TRSU6XW1OJfBfWuYoXuMSglXjCi8_cyDAxyPeCec6zU0pP5YRq0t-VSxFY2WyDq3-kztHPwu9RVIVu4E_JkjhI&chips=date_posted:3days&udm=8&sa=X&ved=2ahUKEwiFtf6Ah5yXAxWzpIkEHZFiB8UQkbEKegQIGRAF",
+          "serpapi_link": "https://serpapi.com/search.json?chips=date_posted%3A3days&engine=google_jobs&gl=mx&google_domain=google.com&hl=es&location=Mexico&q=data+en+el+%C3%BAltimo+mes&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rOXaF_MuSFyN549V3IFM46GeVHzgrxOZlCHeEQecAJHoIvwTtMu0cEpJ70S9GqQR36bsV7eyQHYs17MHqSJSKOZIJBrhcgandieNXiGxgE7Q3uJvBzKIrVo6hSEVcKQUzlDAKEjXaQce5alW3ueq_8nJrtg44IwA_0x3D8rCDmUBXBec2nJScrmQqzLYtKeJ_0KvBfm8cX3cLxy73_L9CYEEetTL-nUF--cI7H2qXrqfAji7x-cl1QARpsiH4dsoI90O0E7EUf3vEDCsAuGQEOVBbdLCnB1_WA23PQdIsnp_Fn8JD_z0KzADlPXAe2KJMsSTN0TRSU6XW1OJfBfWuYoXuMSglXjCi8_cyDAxyPeCec6zU0pP5YRq0t-VSxFY2WyDq3-kztHPwu9RVIVu4E_JkjhI"
+        }
+      ]
+    }
+  ],
+  "jobs_results": [
+    {
+      "title": "Senior Data Engineer – Python & Apache Flink - Remote Work | REF#305376",
+      "company_name": "BairesDev",
+      "location": "El Gallito, N.L.",
+      "via": "LinkedIn",
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Data+Analyst&htidocid=tAmzR3WNoTohgPsjAAAAAA%3D%3D&hl=es-MX&shem=epsd1,esd2e,rimspwouoe&shndl=37&shmd=H4sIAAAAAAAA_xXMMWoCQRQGYGw9ghD4QbAIyawoJmCqBFebIKJFSnm7PnYmzs6bzLwEBYvcIbexFXKQnCTYfOXX_e107YaDk4QZKaEMjQvMCX_fP1gd1UrAAM-RasuYexf2uMeaW1HGm6Q9TliX8_54OBk_PkxRXc7545N3hB2D2-hZwAELkcZz78mqxjwtipy9abKSutrU0hYSuJJD8S5VvrLNlhJHT8rb0WR4MDE0tzcv5BLnGX9dx9JjQd47lTsszav5B2asHsTJAAAA&shmds=v1_ARwrE21qZTaG0IqquToGlM02hMeLNSqr276GwV5orKlb1cIvPw&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Data+Analyst&htidocid=tAmzR3WNoTohgPsjAAAAAA%3D%3D",
+      "thumbnail": "https://serpapi.com/searches/6ac00427a208021df24b88e8/images/zZBC2PGqaea55VCPRhQwmAQLdlAyMkNjCpq60bd-xkc.jpeg",
+      "extensions": [
+        "hace 1 día",
+        "Tiempo completo"
+      ],
+      "source_link": "https://mx.linkedin.com/jobs/view/senior-data-engineer-%E2%80%93-python-apache-flink-remote-work-ref%23305376-at-bairesdev-4474359042",
+      "job_title": "Senior Data Engineer – Python & Apache Flink - Remote Work | REF#305376",
+      "description": "At BairesDev®, we've been leading the way in technology projects for over 15 years. We deliver cutting-edge solutions to giants like Google and the most innovative startups in Silicon Valley.\n\nOur diverse 4,000+ team, composed of the world's Top 1% of tech talent, works remotely on roles that drive significant impact worldwide.\n\nWhen you apply for this position, you're taking the first step in a process that goes beyond the ordinary. We aim to align your passions and skills with our vacancies, setting you on a path to exceptional career development and success.\n\nSenior Data Engineer – Python & Apache Flink at BairesDev\n\nIn this role, you'll build robust ETL/ELT pipelines that keep core business data accurate and trustworthy. This is a hands-on position where your engineering rigor directly determines the reliability of data the business depends on. This is your opportunity to work with modern streaming and data engineering tools, bringing consistency and correctness to data products across the business.\n\nWhat You'll Do\n\n\n\n Build and maintain robust ETL/ELT data pipelines. Process data from legacy systems, ensuring high correctness for core business data products. Design and implement streaming data processing using Apache Flink. Maintain data quality and reliability across business-critical data products.\n\nWhat We Are Looking For\n\n 5+ years of experience in data engineering. Strong proficiency in Python for data engineering. Hands-on experience with Apache Flink. Background in data mesh architecture and data products. Advanced PostgreSQL skills. Familiarity with AWS. Knowledge of dbt. Exposure to Airflow. Advanced proficiency in English.\n\nNice To Have\n\n Experience with Pydantic. Familiarity with data quality frameworks. Experience with microservices.\n\nHow we do make your work (and your life) easier:\n\n 100% remote work (from anywhere). Excellent compensation in USD or your local currency if preferred Hardware and software setup for you to work from home. Flexible hours: create your own schedule. Paid parental leaves, vacations, and national holidays. Innovative and multicultural work environment: collaborate and learn from the global Top 1% of talent. Supportive environment with mentorship, promotions, skill development, and diverse growth opportunities.\n\nJoin a global team where your unique talents can truly thrive and make a significant impact!\n\nApply now!",
+      "apply_options": [
+        {
+          "title": "LinkedIn",
+          "link": "https://mx.linkedin.com/jobs/view/senior-data-engineer-%E2%80%93-python-apache-flink-remote-work-ref%23305376-at-bairesdev-4474359042?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJTZW5pb3IgRGF0YSBFbmdpbmVlciDigJMgUHl0aG9uIFx1MDAyNiBBcGFjaGUgRmxpbmsgLSBSZW1vdGUgV29yayB8IFJFRiMzMDUzNzYiLCJjb21wYW55X25hbWUiOiJCYWlyZXNEZXYiLCJodGlkb2NpZCI6InRBbXpSM1dOb1RvaGdQc2pBQUFBQUE9PSIsInV1bGUiOiJ3K0NBSVFJQ0lHVFdWNGFXTnYiLCJnbCI6Im14IiwiaGwiOiJlcyIsImZjIjoiRXN3QkNvd0JRVXBwVkRSMFNXdzJORzlDZDFGUGQxcGpMVjlMWnkxVFQzbFVRakZZWVVVNVozQkxZWEJhTUdoWldISkllbUpYVW5oSlNEYzFVa1ptVnpKNVZVbDVRMFJ5TFdSRVZ6SkJiSEF6VjBaZlJVbEtUVGhCTkVwWVJtbE1hM3BQVG1Sa2FXNUZiRUZmZDB4V1FXcHNPRGswTVZNMmNESk9UakpMVVVWSmVIcEliR0p1V0dKdGRVcFdkWGQzYkRRU0YwMTNWRUZoYzFoUVRXSlFTbkIwVVZCclkxZGtjVUYzR2lKQlJITnlPV1pVVTJkR1luTm1lWFkxTmtKT1IwdE1kbVo2WkZSdloxbHRUak5SIiwiZmN2IjoiMyIsImZjX2lkIjoidEFtelIzV05vVG9oZ1BzakFBQUFBQT09In0="
+    },
+    {
+      "title": "Practicante de Data Analytics",
+      "company_name": "DIMEX CAPITA",
+      "location": "Monterrey, N.L.",
+      "via": "OCC",
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Data+Analyst&htidocid=WTEb0WXx5IVfctuDAAAAAA%3D%3D&hl=es-MX&shem=epsd1,esd2e,rimspwouoe&shndl=37&shmd=H4sIAAAAAAAA_xWOMQrCQBBFsc0RbJxaZFcEm2gTjEjASAoLO5kkQ6JsdtadFZK7eBJbL2bS_OI__uNHn1m0LzxW4VGhDQQ1QYoBIbFohrGUGMrfV15vqnGC1DlDDGThxNwYmu_aEJzEWosY1UjAcaQq7jRbKrnXTy5liru06MkZDHTfbNe9crZZLtIsP97gkBTZNZmkOY8nvKdhBRd1Vn_KD86jnwAAAA&shmds=v1_ARwrE21vfXdjOy9Mdtf-K0119gP8P8HtBzSxSIqQlCPk_BPMhQ&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Data+Analyst&htidocid=WTEb0WXx5IVfctuDAAAAAA%3D%3D",
+      "extensions": [
+        "hace 3 días",
+        "Pasantía"
+      ],
+      "source_link": "https://www.occ.com.mx/empleo/oferta/21357299-practicante-de-data-analytics/",
+      "job_title": "Practicante de Data Analytics",
+      "description": "¡Únete a nuestro equipo!\n\n¡Muchas gracias por pensar en dmX para realizar tus prácticas profesionales!\n\nBuscamos a un Practicante de Data Analytics con perfil analítico, enfoque en la resolución de problemas y curiosidad por aprender.\n\n\n\n\nEscolaridad: Estudiantes de Físico-Matemáticas, Actuaría o afines.\n\nHorario: Disponibilidad para hacer prácticas por la mañana (9:00 am - 3:00 pm)\n\n\n\n\nConocimientos técnicos deseables:\n\n\n\nManejo o fundamentos de R y SQL.Conocimiento de Power BI (Opcional)Competencias y habilidades:\n\n\n\nPerfil analítico y orientado a la resolución de problemas.Facilidad de aprendizaje y adaptación al cambio.Proactividad y responsabilidad en el seguimiento constante de casos/requerimientos.Funciones principales:\n\n\n\nAtención y seguimiento a requerimientos: Dar respuesta y resolución a correos diarios (5 a 6 solicitudes promedio) de usuarios internos.Soporte: Diagnosticar e investigar incidencias en tableros de control (ej. información faltante, errores en fechas o evaluaciones de promotores).Validación de bases de datos: Revisar la calidad e integridad de los datos desde sus fuentes u orígenes para corregir inconsistencias.Análisis y procesamiento: Ejecutar validaciones y análisis de datos apoyándote en herramientas como R y Fabric.\n\n\nOfrecemos:\n\n\n\nConvenio Caintra $9,500Seguro Caintra",
+      "apply_options": [
+        {
+          "title": "OCC",
+          "link": "https://www.occ.com.mx/empleo/oferta/21357299-practicante-de-data-analytics/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Indeed",
+          "link": "https://mx.indeed.com/viewjob?jk=31a3b37e1cc1e79a&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJQcmFjdGljYW50ZSBkZSBEYXRhIEFuYWx5dGljcyIsImNvbXBhbnlfbmFtZSI6IkRJTUVYIENBUElUQSIsImh0aWRvY2lkIjoiV1RFYjBXWHg1SVZmY3R1REFBQUFBQT09IiwidXVsZSI6IncrQ0FJUUlDSUdUV1Y0YVdOdiIsImdsIjoibXgiLCJobCI6ImVzIiwiZmMiOiJFc3dCQ293QlFVcHBWRFIwU2xGMFZYQlllbkoyVEZSS2VqTTNjREF5ZWxKTE4zcFNhSEo0TTBaalNWVmlNbXhxUm1KRmRrNHlkbTlRWm5sUWVqQTJUM2h0U0ZkNVJFcDNhRGt3YTJsRVFpMVRPSFpNUm05UFdFRkdXa2hVVWpSMFN6aDVZMlpLVVd0U1h6RktWbHBYZG1WUFdXY3hlV0Z2VG5kU09XVndiREJ1Vm1Kek9Fc3hNVXd5ZUZoaVlXOWxXa0VTRjAxM1ZFRmhjMWhRVFdKUVNuQjBVVkJyWTFka2NVRjNHaUpCUkhOeU9XWlVRVGMwUjFGSlRISmlhMGx6TFdGSE5rRnpUR1JNUmpGaFJUSlIiLCJmY3YiOiIzIiwiZmNfaWQiOiJXVEViMFdYeDVJVmZjdHVEQUFBQUFBPT0ifQ=="
+    },
+    {
+      "title": "Senior Data Scientist - GenAI & Experimentación",
+      "company_name": "Spot2.mx",
+      "location": "Ciudad de México, CDMX",
+      "via": "LinkedIn",
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Data+Analyst&htidocid=1MIUxo8kKxSRiDy7AAAAAA%3D%3D&hl=es-MX&shem=epsd1,esd2e,rimspwouoe&shndl=37&shmd=H4sIAAAAAAAA_xWNsQ6CMBQA48onOL3ExMFoa0hcdDJgiANxYHEjpbxADfRV-kj6S85srvyYstxww100raJHgdbQAKliBYU2aNl4hgNkaK932MItOBxM__dKm3myZ6jmr3-PWCuoEbB3HRKghYyo6XB9aZmdP0vpfScaz4qNFpp6SRYrCvJFlV9Q-lYN6DrFWManYxDONrtN4Yhj0YclmJixVvUyyedPMJr2kKT58we6IuHttgAAAA&shmds=v1_ARwrE21JcL5U-mlsrJ4BmB8kxFuXWhJzG7q1IzyBGO00mP6lhQ&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Data+Analyst&htidocid=1MIUxo8kKxSRiDy7AAAAAA%3D%3D",
+      "thumbnail": "https://serpapi.com/images/i/_9j_4AAQSkZJRgABAQAAAQABAAD_2wCEAAkGBwgHBgkIBwgKCgkLDRYPDQwMDRsUFRAWIB0iIiAdHx8kKDQsJCYxJx8fLT0tMTU3Ojo6Iys_RD84QzQ5OjcBCgoKDQwNGg8PGjclHyU3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3N__AABEIADgAOAMBIgACEQEDEQH_xAAaAAEBAQEAAwAAAAAAAAAAAAAABQYEAQMH_8QAKRAAAQQCAAUDBAMAAAAAAAAAAQACAwQFEQYSITFRImFxFGKBkRMyUv_EABkBAQADAQEAAAAAAAAAAAAAAAABAwQFAv_EACERAQACAgEDBQAAAAAAAAAAAAABAgMRYQSR8BIhQVFx_9oADAMBAAIRAxEAPwDFoiK55EREBERAREQFSx-By-SrvsY_G2bELDovjZsb8DyfYKat7wzJDYwuNguz4qWvVle5rnZF9OxS5nbLvv8AI_W1EzpLJ4_BZbJtldQx1mdsR5ZCxh9J8fPt3XorY-5amfDBVlfJGdPby6LD4O-x-V9CzuMfaxeGbheJK9WuwSyh1u2YXyB0hInP-j5-fdTOIbtfiG9dhwttjJDYa4ucTH9XqNrS4flpOvys_U57Y6eqO_xHMrMVIvbUoFLhfLXMdkL0VYiOgQJWP6OJ7nQ-0EE710PTanzY-5BWbZmqyshdrT3N0OvZbCtYp3MTmMQ7I1PrJKNdosTy8rJnRyFzmhx76B6eVItB8GEk1dhtT2WtNhzrTXFjW_1Y0b2T5Konq7xXHOoibTz5z7_iyMNd2j6ZxERdBmEREHdkMnPkK1CvMyIMow_wxFgIJbvfXZ7_ABpcXbsvCIOrG3n460LMMbHStaQxz-b0EjXMNEddb7qnf4pvX6tmvYirkWGhrngO5mgPLxr1eXEfHRQkTSRERECIiAiIgIiICIiD_9k.jpeg",
+      "extensions": [
+        "hace 19 horas",
+        "Tiempo completo"
+      ],
+      "source_link": "https://mx.linkedin.com/jobs/view/senior-data-scientist-genai-experimentaci%C3%B3n-at-spot2-mx-4472849245",
+      "job_title": "Senior Data Scientist - GenAI & Experimentación",
+      "description": "Sobre Spot2\n\nSpot2 es el primer marketplace B2B en México especializado exclusivamente en el sector de bienes raíces comerciales e industriales. Como una Proptech de alto crecimiento, utilizamos tecnología de vanguardia e inteligencia artificial para conectar a marcas, desarrolladores y propietarios en un ecosistema digital eficiente. Nuestra plataforma permite a los usuarios encontrar el espacio ideal para su negocio de manera ágil y transparente, digitalizando un proceso que tradicionalmente era lento y burocrático. En Spot2, no solo listamos propiedades; revolucionamos y profesionalizamos el mercado inmobiliario en Latinoamérica, eliminando la informalidad mediante procesos claros, trazables y basados en datos que reducen significativamente los tiempos de vacancia.\nEl RolBuscamos un perfil 100% Builder / Individual Contributor. No es un puesto de \"notebook scientist\". Aquí combinarás ciencia de datos clásica y moderna con expertise práctico en IA generativa (LLMs, RAG y evaluación de agentes) aplicados a problemas reales. Diseñarás experimentos que shippean, producirás modelos que entran a producción y colaborarás con Engineering para integrarlos en el backend y agentes de IA.\nFunciones y Responsabilidades:Análisis avanzado e Insights: Realizar EDA profundo, feature engineering y modelado estadístico sobre datos del marketplace (ClickHouse/GA4) y fuentes externas, además de construir herramientas de insights asistidas por LLM.Modelado Predictivo y Recomendación: Desarrollar y llevar a producción modelos de recomendación/ranking (two-tower, re-ranking), valoración automatizada (AVM), pricing dinámico, forecasting de rentas/ocupación (time-series) y scoring de inversión.IA Generativa y Agentes: Diseñar e iterar pipelines RAG y aplicaciones LLM para búsqueda semántica, procesamiento de documentos complejos (OCR, Visión) para la extracción estructurada de contratos legales, y evaluación de agentes internos (RAGAS, LLM-as-judge).Experimentación Rigurosa: Diseñar y analizar experimentos (A/B tests, quasi-experiments) y aplicar inferencia causal (DoubleML, DoWhy, uplift modeling) para medir el impacto real en el negocio.MLOps y Producción: Construir pipelines escalables de entrenamiento e inferencia, versionar modelos con MLflow (o equivalente) e implementar monitoreo en producción (drift y degradación).\n\n\nRequisitos del PerfilTítulo universitario en Ingeniería, Matemáticas, Estadística, Física, Economía o carreras afines con componente cuantitativo (Maestría/PhD es un plus).Mínimo 5 años de experiencia profesional como Data Scientist o ML Engineer, con al menos 3 años demostrables desplegando sistemas de ML/AI a producción.Dominio experto de Python para DS/ML y SQL avanzado (ClickHouse, BigQuery, PostgreSQL).Experiencia práctica en Sistemas de recomendación, Forecasting, Inferencia Causal (DoWhy/EconML), MLOps (MLflow/Docker) y GenAI aplicada (RAG, LLMs y frameworks de evaluación).Excelentes habilidades de storytelling con datos en español e inglés profesional.\n\n\nCultura de alto impacto con autonomía real para proponer e implementar soluciones dentro de una PropTech.",
+      "apply_options": [
+        {
+          "title": "LinkedIn",
+          "link": "https://mx.linkedin.com/jobs/view/senior-data-scientist-genai-experimentaci%C3%B3n-at-spot2-mx-4472849245?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "BeBee",
+          "link": "https://bebee.com/mx/jobs/senior-data-scientist-genai-experimentacion-spot2mx-ciudad-de-mexico--fj-2393297809?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Talent.com",
+          "link": "https://mx.talent.com/view?id=639810748937080559&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJTZW5pb3IgRGF0YSBTY2llbnRpc3QgLSBHZW5BSSBcdTAwMjYgRXhwZXJpbWVudGFjacOzbiIsImNvbXBhbnlfbmFtZSI6IlNwb3QyLm14IiwiaHRpZG9jaWQiOiIxTUlVeG84a0t4U1JpRHk3QUFBQUFBPT0iLCJ1dWxlIjoidytDQUlRSUNJR1RXVjRhV052IiwiZ2wiOiJteCIsImhsIjoiZXMiLCJmYyI6IkVzd0JDb3dCUVVwcFZEUjBUQzFoV2psQ1RsaHNhQzFIWW05WFpVRnhXRVJSWHpGR05GcHVha281VVZCeFpYTXpOR0prUWw5RU4ySTFRbkpaZFZkQ1ZXYzFaMUExTlUxSE9FazVOek5yZFZSTGNsWnlSWGhETkhObGFHRXRSWEZYZVVoNWR6SXdjRXhKTVVOSlJURmpXVVpzZERoeVZYbGZlVzg0YjBOSWRWZ3lZa2N3T0VsR2QyeERaRWRUWW1wV0xWZ1NGMDEzVkVGaGMxaFFUV0pRU25CMFVWQnJZMWRrY1VGM0dpSkJSSE55T1daVGVXODNNWEk1TVc5MVFrNDJlRkIyY1U5a1gycHNha2RXTUZabiIsImZjdiI6IjMiLCJmY19pZCI6IjFNSVV4bzhrS3hTUmlEeTdBQUFBQUE9PSJ9"
+    },
+    {
+      "title": "Practicante de Data Analytics para Proyectos de Ingeniería",
+      "company_name": "Linde",
+      "location": "Monterrey, N.L.",
+      "via": "LinkedIn",
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Data+Analyst&htidocid=TuyI0LC4uy_3f4xHAAAAAA%3D%3D&hl=es-MX&shem=epsd1,esd2e,rimspwouoe&shndl=37&shmd=H4sIAAAAAAAA_xWOsQrCQBBEsc0XiNXWIhcRbGIlCCJESW0TNpclRi675-0JyUdZ2dnmx0yaKWYej0m-i-ReBLSxtciRoCY4YUQ4MrphKhU8BoQiyEA2is7AhRvilsL4wQyq8aevN9U4L9R5RwLEcBZpHK0Ojxi9Zmmq6kyjESelsdKlwlRJnz6l0jlKfWAg7zBSudtve-O5WS_zlmcpw1WmbyHQsIGbyc0fcuIjobYAAAA&shmds=v1_ARwrE22gL6BqUsDT1bQCqgMK2dKcFh4-pME1SObm7RgRUBPTiw&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Data+Analyst&htidocid=TuyI0LC4uy_3f4xHAAAAAA%3D%3D",
+      "thumbnail": "https://serpapi.com/searches/6ac00427a208021df24b88e8/images/ihPcm02yNaqomiUp3WDi59ZfOL5FWVn1K7W0SGxUAno.jpeg",
+      "extensions": [
+        "hace 2 días",
+        "Pasantía"
+      ],
+      "source_link": "https://mx.linkedin.com/jobs/view/practicante-de-data-analytics-para-proyectos-de-ingenier%C3%ADa-at-linde-4472356371",
+      "job_title": "Practicante de Data Analytics para Proyectos de Ingeniería",
+      "description": "🌍 ¡ÚNETE A LINDE MÉXICO!\n\n140 años de historia compartida en la industria de los gases.\n\nSomos líderes globales en ingeniería y gases industriales, ofreciendo soluciones innovadoras y sustentables a millones de clientes en diversas industrias.\n\n\n\n\n🎓 ¿Qué buscamos?\n\nEstudiantes apasionados por datos, tecnología y análisis digital de las siguientes carreras:\n\nIngenierías a fines.Licenciaturas a fines.\n\n\n🛠️ Tus retos serán:\n\n✅ Mapeo y conexión de fuentes de datos.\n\n✅ Diseño de modelos de datos y dashboards en Power BI.\n\n✅ Administración y visualización de Kpi´s.\n\n✅ Seguimiento a iniciativas digitales en conjunto con diferentes áreas (IT, digitalización, e-commerce, grupos globales).\n\n✅ Proponer soluciones y proyectos digitales.\n\n\n\n\n💡 Perfil ideal:\n\nHabilidades en análisis de datos y herramientas digitales.Interés en tecnología aplicada a procesos.Trabajo colaborativo y mucha actitud de aprendizaje.Colaborativo y responsable.Inglés.\n\n\n🧠 Conocimientos deseables:\n\nPower BI, SQL, Python o R.Experiencia en dashboards y análisis de datos.\n\n\n📍 Información adicional:\n\nUbicación: Oficinas Corporativas - Torres Moradas.\n\nMedio tiempo.\n\nPresencial (flexibilidad con escuela).\n\nConvenio escuela- empresa.\n\nBeca económica.\n\n\n\n\n📩 ¡Postúlate ahora y sé parte de la transformación digital!",
+      "apply_options": [
+        {
+          "title": "LinkedIn",
+          "link": "https://mx.linkedin.com/jobs/view/practicante-de-data-analytics-para-proyectos-de-ingenier%C3%ADa-at-linde-4472356371?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "BeBee",
+          "link": "https://bebee.com/mx/jobs/practicante-de-data-analytics-para-proyectos-de-ingenieria-linde-monterrey--techmap_mx_4456014310?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Trabajo.org",
+          "link": "https://mx.trabajo.org/oferta-5055-61dcdecf2969d4ffe1ffd8ddd744ba28?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Jobijoba",
+          "link": "https://www.jobijoba.mx/oferta-empleo/94/333c2e55bf629c311c3ff06672b84197?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "The BIG Jobsite",
+          "link": "https://mx.thebigjobsite.com/details/3A58E1209AB840CD3E7DC9A42BCE8B50/practicante-de-data-analytics-para-proyectos-de-ingenier-a?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "WhatJobs",
+          "link": "https://es-mx.whatjobs.com/jobs/practicante-de-data-analytics-para/monterrey?id=251823305&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Kit Empleo",
+          "link": "https://www.kitempleo.com.mx/empleo/444327464/analista-de-costos-electrico-para-proyectos-industriales-monterrey?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJQcmFjdGljYW50ZSBkZSBEYXRhIEFuYWx5dGljcyBwYXJhIFByb3llY3RvcyBkZSBJbmdlbmllcsOtYSIsImNvbXBhbnlfbmFtZSI6IkxpbmRlIiwiaHRpZG9jaWQiOiJUdXlJMExDNHV5XzNmNHhIQUFBQUFBPT0iLCJ1dWxlIjoidytDQUlRSUNJR1RXVjRhV052IiwiZ2wiOiJteCIsImhsIjoiZXMiLCJmYyI6IkVzd0JDb3dCUVVwcFZEUjBTVXRCYVVGRFIwVjJWRXRSYUZFNGFqQktkR2hOVW5aR1UzTm9lRkZsV0dNeGJsaHNhemhqUTFGbVlYaHNNVWhCVGxSMmR6UktRbkJ3TjFkUk1VTnVhRE01ZW1WbGJtbGxRemhRWW0xcGVuUk9SbEpzWlhoSVRUVjBMWFo1UkVGRmJHMXlVV0ZUVEdWMllYSnhaMVI1VFRsdWEyMXZZbUpPY21KblEzUk1OR3g0ZVRseFN6WVNGMDEzVkVGaGMxaFFUV0pRU25CMFVWQnJZMWRrY1VGM0dpSkJSSE55T1daU2FGUjRlazgyTVVKbFowZHBSblZCUjNOaWN6TmxkRUZ0YWxGbiIsImZjdiI6IjMiLCJmY19pZCI6IlR1eUkwTEM0dXlfM2Y0eEhBQUFBQUE9PSJ9"
+    },
+    {
+      "title": "Data Science Lead",
+      "company_name": "Neoris(CEMTEC)",
+      "location": "Ciudad de México, CDMX",
+      "via": "OCC",
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Data+Analyst&htidocid=yVQjFi9EWoXhXuCNAAAAAA%3D%3D&hl=es-MX&shem=epsd1,esd2e,rimspwouoe&shndl=37&shmd=H4sIAAAAAAAA_xXNMQ6CMBSA4bhyBKc3ijGUmLjgWIiLuOjgRkr7AjWlr_JKwlm8gVdw5WKG5R-_P_lskrxUUcFdW_Qa4YrKFNAuP35PaBQYBByCQwL0cCHqHG7PfYyBCyGYXdZxVNHqTNMgyGNLs3hRy2sa7tWIwamIzfGUz1nw3T69IY2Wd7KqH5VMV1baySizrurlO1tNB5Bl_fwDV5a3RJ0AAAA&shmds=v1_ARwrE21eiEECmjG5t8jzXVSTi7OgbNWuUrlNdj3ZhRszmF0Rgw&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Data+Analyst&htidocid=yVQjFi9EWoXhXuCNAAAAAA%3D%3D",
+      "extensions": [
+        "hace 2 días",
+        "Tiempo completo"
+      ],
+      "source_link": "https://www.occ.com.mx/empleo/oferta/21355429-data-science-lead/",
+      "job_title": "Data Science Lead",
+      "description": "EPAM NEORIS es un acelerador digital que ayuda a las compañías a entrar en el futuro, con más de 25 años de experiencia como socios digitales de algunas de las mayores compañías del mundo. Somos más de 4,000 profesionales en 11 países, con una cultura multicultural de startup donde cultivamos la innovación y el aprendizaje continuo para crear soluciones de alto valor para nuestros clientes.\n\nEstamos en búsqueda de un Data Science Lead para unirse a nuestra práctica de Data Analytics.\n\nModalidad: Híbrido — CDMX\n\n\n\n\nExperiencia requerida:\n\n8+ años de experiencia en Data Science, Machine Learning, Advanced Analytics o disciplinas relacionadasAl menos 2-3 años liderando equipos técnicos, proyectos o capacidades de Data ScienceExperiencia comprobable trabajando directamente con clientesExperiencia en consultoría, servicios profesionales o ambientes orientados a proyectosParticipación en preventa, estimación y elaboración de propuestasInglés avanzado (C1) — presentaciones técnicas y ejecutivas con clientes internacionales\n\n\nRequisitos:\n\nPython y SQL avanzados; manejo de Pandas, NumPy y scikit-learnMachine Learning supervisado y no supervisado: clasificación, regresión, clustering, forecasting y optimizaciónFeature engineering, selección y evaluación de modelosMLOps: versionamiento, experiment tracking, deployment y monitoringCloud: Azure, AWS y/o GCPDatabricks y/o plataformas modernas de Data & AIGit, prácticas CI/CD y productivización de modelos mediante APIsConocimientos de arquitectura de datos y pipelines de Data Engineering\n\n\nHabilidades deseables:\n\nExperiencia en Generative AI y diseño de soluciones end-to-end de AIDesarrollo de aceleradores, frameworks y casos de uso reutilizablesGestión de equipos: mentoring, evaluaciones y planes de desarrollo profesional\n\n\nOfrecemos:\n\nEsquema 100% nominalPrestaciones de Ley superioresPaquete de beneficiosPlan de desarrollo profesionalColaboración multicultural en un entorno de innovación continua",
+      "apply_options": [
+        {
+          "title": "OCC",
+          "link": "https://www.occ.com.mx/empleo/oferta/21355429-data-science-lead/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Indeed",
+          "link": "https://mx.indeed.com/viewjob?jk=1e06aea029de5b4b&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Glassdoor",
+          "link": "https://www.glassdoor.com.mx/job-listing/data-science-lead-zurich-insurance-JV_IC5017436_KO0,17_KE18,34.htm?jl=1010171803686&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "SimplyHired",
+          "link": "https://www.simplyhired.mx/job/fmCJzIuCmXHKbVX9Q2hCarx1UDjCGRqfRuzxMdWUyGrVh5wROV0btw?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "LinkedIn",
+          "link": "https://mx.linkedin.com/jobs/view/data-science-lead-at-zurich-insurance-4428749483?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Buscojobs",
+          "link": "https://www.buscojobs.mx/data-science-lead-en-mexico-ID-158718959?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "AI Jobs Map",
+          "link": "https://aijobsmap.com/jobs/4428749483/data-science-lead-at-zurich-insurance?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Trabajo.org",
+          "link": "https://mx.trabajo.org/oferta-4075-05f48f64e20830a14e55c90a2a930938?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJEYXRhIFNjaWVuY2UgTGVhZCIsImNvbXBhbnlfbmFtZSI6Ik5lb3JpcyhDRU1URUMpIiwiaHRpZG9jaWQiOiJ5VlFqRmk5RVdvWGhYdUNOQUFBQUFBPT0iLCJ1dWxlIjoidytDQUlRSUNJR1RXVjRhV052IiwiZ2wiOiJteCIsImhsIjoiZXMiLCJmYyI6IkVzd0JDb3dCUVVwcFZEUjBTM2hxTjFSRGVIZFJVRXRsV0hSVVNFZHFaMEpZUldOclYwYzRlRWhTWTBoUVZuaE9WRmMxVVVob2FVaE9kemhaT1dSMGRuQmtjVFIxV2kxTVMyUnhOM0JuVlhwdWJHaElaVVZxYmtoU2IxVTFaekZ5Y2pFNVdYWklURjlXVEVJMlRGaElPV2N4Y1UwNVRqSTRiVWxQYm14QlYzaEJibk5RVGxaSGFtVkJiM2hGTW5vd2QzZ1NGMDEzVkVGaGMxaFFUV0pRU25CMFVWQnJZMWRrY1VGM0dpSkJSSE55T1daU1JXOVpiMjA1V1VzeVMxTjRTelJIYVVKd1JrODRTSE5uVjJKUiIsImZjdiI6IjMiLCJmY19pZCI6InlWUWpGaTlFV29YaFh1Q05BQUFBQUE9PSJ9"
+    },
+    {
+      "title": "Azure Data Engineer",
+      "company_name": "Infosys",
+      "location": "Monterrey, N.L.",
+      "via": "Indeed",
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Data+Analyst&htidocid=vqI6xsmKf69DT-OFAAAAAA%3D%3D&hl=es-MX&shem=epsd1,esd2e,rimspwouoe&shndl=37&shmd=H4sIAAAAAAAA_xXMMQrCQBAAQGzzhFRbi9xJwCZWgiKC-oVwSdZL5LJ73m4g8Q9-yNaPSZopJ_ussuLwHhPC0amDE_meEFMJ9e8rrxFbBy0CDjEgAxKcmX3AfN-pRimtFQnGizrtG9PwYJmw5sk-uZaFSjqXMAanWBW77WQi-XV-oQfLLMt3Y1JMCecN3M3V_AENKue_kAAAAA&shmds=v1_ARwrE21MGVMyfqz3FlW2joeLorLEq93Nq4b5d86AksZsK8ddLQ&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Data+Analyst&htidocid=vqI6xsmKf69DT-OFAAAAAA%3D%3D",
+      "thumbnail": "https://serpapi.com/searches/6ac00427a208021df24b88e8/images/yYxprr-fUN8G4jGATDhlc9sIBgv1X459cO2ZQr_hxfk.jpeg",
+      "extensions": [
+        "hace 19 horas",
+        "Tiempo completo"
+      ],
+      "source_link": "https://mx.indeed.com/viewjob?jk=cb90edf51f070efc",
+      "job_title": "Azure Data Engineer",
+      "description": "Azure Data Engineer (Ingeniero de Datos Azure)\n \nLocation: Mexico (Mexico City, Guadalajara, Monterrey, Queretaro) – Hybrid as per Infosys Mexico policy (CST/EST time) \n \n  \n\n  \n\n \n \n\nRole Overview\n \n\n  Infosys is seeking a Data Engineer with experience in Microsoft Fabric, and Azure Data Services to design scalable data solutions, develop and optimize data pipelines, integrate data from multiple sources, and ensure data quality, security, and compliance. Experience in SAP Datasphere will be an advantage. The role is responsible for maintaining high-performing data platforms that enable reliable analytics and business insights. \n \n  \n\n  \n\n \n \n\nKey Responsibilities\n \n\n \n  Designing Data Solutions: Creating scalable and efficient data architectures using Fabric and/or Azure tools.\n  Building and Maintaining Data Pipelines: Developing ETL processes to extract, transform, and load data from various sources into data warehouses or data lakes using tools like Azure Data Factory.\n  Data Integration: Ensuring seamless integration of data from different sources and maintaining data quality and consistency.\n  Data Storage Management: Managing and optimizing data storage solutions to ensure performance, scalability, and cost-effectiveness.\n  Ensuring Data Security and Compliance: Implementing data security measures and ensuring compliance with relevant data protection regulations.\n  Monitoring and Troubleshooting: Continuously monitoring data systems for performance issues and troubleshooting any problems that arise.\n \n \n\n \n\n \n\n\n \nBasic Qualifications\n \n\n \n  Bachelor’s degree or foreign equivalent in Computer Science or related field.\n   7+ years of IT experience, including data engineering and Azure cloud solutions.\n   Bilingual (Spanish & English) – strong verbal and written communication.\n  Proven experience implementing Azure Cloud services for data movement and transformations.\n \n \n\n \n\n \n\n\n \nMandatory Skills\n \n\n \n  4+ years of hands-on experience in design, support, development and delivery of data management, modeling, and analytics solutions. This includes hands-on experience with data integration, ETL processes, and data modeling.\n  3+ years of Azure Data Lake and SQL Data Warehouse experience.\n  3+ years of Azure Data Factory and DevOps.\n  Proficiency in SQL or Python, or other programming languages used for data processing.\n  Ability to rapidly develop outcomes via specifications and requirements to build proof of concepts.\n  Profiling various information systems, capture source/target mappings and transformations based on project requirements.\n  Ability to rapidly define requirements and build proof of concepts.\n \n \n\n \n\n \n\n\n \nPreferred Skills\n \n\n \n  3+ years of SAP Datasphere / BDC.\n  2+ years utilizing AI to expedite data engineering tasks.\n \n \n\n \n\n \n\n\n \nOther Requirements\n \n\n \n  Ability to work under tight timelines and manage complex requirements.\n  Flexible to work during CST/EST time zones and meet for hand-over activities to India team if needed.\n  Self-motivated, proactive, and a strong team player.",
+      "apply_options": [
+        {
+          "title": "Indeed",
+          "link": "https://mx.indeed.com/viewjob?jk=cb90edf51f070efc&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "SimplyHired",
+          "link": "https://www.simplyhired.mx/job/-09OFcLx7RwWfarHMZOLvtnUwFt462QZsRa3iluozlEBKgDFGUOtTQ?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Trabajo.org",
+          "link": "https://mx.trabajo.org/oferta-2266-c578c2e8b0f5e9683d1f5bf2345a3fc5?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Jobrapido.com",
+          "link": "https://mx.jobrapido.com/jobpreview/4971941413437571072?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Kit Empleo",
+          "link": "https://www.kitempleo.com.mx/empleo/435313322/azure-data-engineer-monterrey?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJBenVyZSBEYXRhIEVuZ2luZWVyIiwiY29tcGFueV9uYW1lIjoiSW5mb3N5cyIsImh0aWRvY2lkIjoidnFJNnhzbUtmNjlEVC1PRkFBQUFBQT09IiwidXVsZSI6IncrQ0FJUUlDSUdUV1Y0YVdOdiIsImdsIjoibXgiLCJobCI6ImVzIiwiZmMiOiJFc3dCQ293QlFVcHBWRFIwVEdoT1pFTkNWSFZYTkdKTE5sUnJibFp1UTNNMmMwTk1MV0pmYjNwUlRscERZbVk1UlhVMVVUazNTSGhWVVd4eVpGaGpibXcxYzI5UGQzRnBkRmd6U0hkMGRYRktVVEU1UjBkRFduQnpTSHBRU1RsTWJubHdNblo2TlVSTmQxbGlVakZDTlVSak1uTklZamxzTFdrMVQyVlNlSE0yZVRsVWVGbFVjRXB0ZERadk5EQmplRk1TRjAxM1ZFRmhjMWhRVFdKUVNuQjBVVkJyWTFka2NVRjNHaUpCUkhOeU9XWlVVRGwxTmxKUmIwMDBVMWcwWjNKWVJuUTBRMFZtYWxwRFVrcG4iLCJmY3YiOiIzIiwiZmNfaWQiOiJ2cUk2eHNtS2Y2OURULU9GQUFBQUFBPT0ifQ=="
+    },
+    {
+      "title": "AI Data Architect - Data Governance en TheRocketCode",
+      "company_name": "Meryto",
+      "location": "Ciudad de México, CDMX",
+      "via": "LinkedIn",
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Data+Analyst&htidocid=3uhlnhOcY-A3CF7CAAAAAA%3D%3D&hl=es-MX&shem=epsd1,esd2e,rimspwouoe&shndl=37&shmd=H4sIAAAAAAAA_yWNsQ6CMBRF48onONXVKDUmLjoRSIgDizq4kdK-QLX01fZh8JP8ABdXfkzR5Q733JwbvSbRMdmzTJBgiZeNJpDElv8ixzt4K6wEBpadGjigvAKlqGDLquEdbh0owdQXt84AjqscsTYw3TVELmw5D8HEdSBBWsYSW44WKuz5BaswRhka4cEZQVCuN6s-draezwrwD_rpUt0pocaLYnj2WuKCpVlx_gBxpvkwuAAAAA&shmds=v1_ARwrE22Mq0Tq104ay-jeisuHdyPju4e87Q8eynra-uctvUCxog&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Data+Analyst&htidocid=3uhlnhOcY-A3CF7CAAAAAA%3D%3D",
+      "thumbnail": "https://serpapi.com/searches/6ac00427a208021df24b88e8/images/rWlsLVJu4O7i2scmmzsIcat5qoPK5R54n--PNHT0C2o.jpeg",
+      "extensions": [
+        "hace 1 día",
+        "Tiempo completo"
+      ],
+      "source_link": "https://mx.linkedin.com/jobs/view/ai-data-architect-data-governance-en-therocketcode-at-meryto-4474348278",
+      "job_title": "AI Data Architect - Data Governance en TheRocketCode",
+      "description": "Sobre la empresaRocketcode se especializa en el desarrollo de software y soluciones personalizadas utilizando tecnología de inteligencia artificial, enfocándose en optimizar procesos en los sectores de fintech y seguros. Ofrecen servicios completos que incluyen diseño de productos, desarrollo de aplicaciones web y móviles.\n\nSobre el rolLa misión del AI Data Architect - Data Governance es diseñar y establecer un marco robusto de Gobierno de Datos que garantice la calidad y cumplimiento normativo de la información en Quálitas, conectando diversas áreas clave dentro de la organización.\n\nResponsabilidadesDiseñar e implementar el modelo de Gobierno de Datos, incluyendo políticas, estándares, roles y procesos.Definir la arquitectura de metadatos, catálogo, linaje y diccionarios de datos, así como las arquitecturas de referencia asociadas.Establecer métricas, reglas y controles de Data Quality, incluyendo su monitoreo y seguimiento.Clasificar y proteger la información sensible y regulada, asegurando el cumplimiento de políticas internas y marcos regulatorios como LFPDPPP, GDPR y CCPA, entre otros. La estructura puede variar dependiendo del mercado y la audiencia objetivo. Además, se tiene previsto que esta.RequisitosIndispensables:\n\n5+ años de experiencia en Arquitectura de Datos, Gobierno de Datos o posiciones relacionadas, con implementación comprobable de frameworks de gobierno.Dominio de DAMA-DMBOK, DCAM o marcos equivalentes, y experiencia con herramientas como Collibra, Informatica Axon/EDC, Microsoft Purview, Alation, DataHub o Atlan.Experiencia en metadatos, linaje de datos, catálogo, Data Quality y Master Data Management (MDM).Conocimiento de arquitecturas modernas (Data Lakehouse, Data Mesh, Cloud) y experiencia práctica en Google Cloud Platform (GCP).SQL sólido y comprensión de bases de datos relacionales y no relacionales.Deseables:\n\nCertificación CDMP, DGSP o equivalente.Experiencia en industrias reguladas como seguros, banca, servicios financieros o salud.Conocimiento de normativas como CNBV e ISO 27001.Experiencia presentando riesgos, indicadores y propuestas ante C-level o comités ejecutivos.Liderazgo transversal y capacidad de influencia sin autoridad directa, con experiencia en gestión del cambio y adopción organizacional.OfrecemosProyecto de gran escala con Quálitas, cliente clave de rocket code en el sector asegurador., Esquema de nómina directo con rocket code en Ciudad de México, modalidad presencial de lunes a viernes de 8:00 a 18:00., Trabajo transversal con equipos de Arquitectura, Data Engineering, Ciberseguridad y Compliance., Oportunidad de diseñar desde cero el marco de Gobierno de Datos sobre una plataforma moderna en la nube.\n\nTu siguiente pasoHaz tu entrevista con Itto, la IA de reclutamiento de Meryto: es breve, se hace 100% desde tu navegador y está disponible 24/7 — no necesitas agendar cita.",
+      "apply_options": [
+        {
+          "title": "LinkedIn",
+          "link": "https://mx.linkedin.com/jobs/view/ai-data-architect-data-governance-en-therocketcode-at-meryto-4474348278?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Jobrapido.com",
+          "link": "https://mx.jobrapido.com/jobpreview/7915388741697404928?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Kit Empleo",
+          "link": "https://www.kitempleo.com.mx/empleo/435320944/architect-data-science-mexico?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJBSSBEYXRhIEFyY2hpdGVjdCAtIERhdGEgR292ZXJuYW5jZSBlbiBUaGVSb2NrZXRDb2RlIiwiY29tcGFueV9uYW1lIjoiTWVyeXRvIiwiaHRpZG9jaWQiOiIzdWhsbmhPY1ktQTNDRjdDQUFBQUFBPT0iLCJ1dWxlIjoidytDQUlRSUNJR1RXVjRhV052IiwiZ2wiOiJteCIsImhsIjoiZXMiLCJmYyI6IkVzd0JDb3dCUVVwcFZEUjBTVGxDZFZkWFFrbzNTMHgyVDB0MGMzRmtNbmh4YjJwaGFqaGlRVTgzWVhsWVZqbGtVMGRLVlZZM1ZXc3djVFpxVVhScU5HdFJiRXhFTVhWTWVVWkZObVZGUlRCU1JuSmZOelJYUmxoYVNqZG5aa0k1T0VaNldWY3pjRXgyYW5WR05IRldlbkpJVW5KWWEyMTZibHBwV25GTk1GbGxiVTkzZERaUmRqTjRPREJXY25kUE5XMFNGMDEzVkVGaGMxaFFUV0pRU25CMFVWQnJZMWRrY1VGM0dpSkJSSE55T1daUlQySkxTVmhKV21wb1FtNVFhRTlwVGxOTVoyOWlWM0Z6TlhWMyIsImZjdiI6IjMiLCJmY19pZCI6IjN1aGxuaE9jWS1BM0NGN0NBQUFBQUE9PSJ9"
+    },
+    {
+      "title": "Data Engineer Azure Sr",
+      "company_name": "Softtek",
+      "location": "Ciudad de México, CDMX",
+      "via": "OCC",
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Data+Analyst&htidocid=uNhKF8utIqo8xE4mAAAAAA%3D%3D&hl=es-MX&shem=epsd1,esd2e,rimspwouoe&shndl=37&shmd=H4sIAAAAAAAA_xXNMQ6CMBSA4bhyBKcXR2OoMWHByYBxYmJxI4U-S7H01faREE_iFbyCKxczLP_4_clnk2SlZAlXp41DDHB5TwGhDjm0yy--JlQSFAKO3iIBOrgRaYvbc8_sYy5EjDbVkSWbLu1oFOSwpVkM1MY1TexlQG8lY3PKjnPqnd7vanow43P1CjMpqdZHtXxn09EBirK6_wHWl0dSmwAAAA&shmds=v1_ARwrE23PBYBPHCX7WWYr9hEjVBzMXfq5DJp-ce08EdyKcJnRYA&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Data+Analyst&htidocid=uNhKF8utIqo8xE4mAAAAAA%3D%3D",
+      "thumbnail": "https://serpapi.com/searches/6ac00427a208021df24b88e8/images/JjGu913BfvuXUuN1CD3q1ZOIotBPyXEj-HxWTHrZMXg.png",
+      "extensions": [
+        "hace 3 días",
+        "Tiempo completo"
+      ],
+      "source_link": "https://www.occ.com.mx/empleo/oferta/21356104-data-engineer-azure-sr/",
+      "job_title": "Data Engineer Azure Sr",
+      "description": "Softtek es una empresa global que ayuda a las organizaciones a cerrar la brecha digital. Con presencia en América del Norte, América Latina, Europa y Asia, Softtek brinda a las organizaciones Global 2000 soluciones tecnológicas que crean valor a través de la tecnología.\n\n\n\n\nNos encontramos en búsqueda de talento como:\n\n\n\n\n\n\n\nIngeniero de Datos Azure Senior\n\n\n\n\nHabilidades Requeridas:\n\nEntre 3 a 6 años de experiencia como Ingeniero de datos AzureExperiencia con Databricks y Data FactoryExperiencia sólida en diseño y modelado de bases de datos transaccionales.Conocimiento y experiencia práctica con Unity Catalog.Experiencia en Python para desarrollo de procesos de datos.Conocimientos de SQL avanzado y optimización de consultas.Experiencia construyendo pipelines de datos y procesos ETL/ELT.Experiencia trabajando con formatos de datos como JSON, XML, CSV o Parquet.Deseable:\n\nDesarrollo en Scala dentro del ecosistema Databricks.Experiencia con arquitecturas orientadas a eventos y procesamiento en tiempo real.Conocimientos de Apache Spark.Experiencia en Azure (Data Factory, Event Hub, Synapse u otros servicios de datos).Familiaridad con prácticas de CI/CD.Conocimientos de Docker, Kubernetes e Infraestructura como Código (IaC).\n\n\nResponsabilidades:\n\nDiseñar, desarrollar y optimizar pipelines de datos ETL/ELT.Implementar soluciones robustas para la ingesta, transformación y almacenamiento de datos.Diseñar y mantener bases de datos transaccionales garantizando rendimiento, integridad y escalabilidad.Trabajar con plataformas cloud y herramientas de procesamiento de datos en entornos modernos.Desarrollar soluciones sobre Databricks utilizando Python y, preferentemente, Scala.Garantizar la calidad, disponibilidad y confiabilidad de los datos.Colaborar con equipos multidisciplinarios para transformar requerimientos de negocio en soluciones de datos.\n\n\nIdiomas Requeridos\n\nInglés: Intermedio (deseable)\n\nModalidad de trabajo:\n\nHíbrida en Santa Fe \n\n.\n\n\n\n\n\nOfrecemos:\n\nPrestaciones de Ley, SGM Mayores, SGM Menores, Seguro de Vida, contra accidentes ydentales, Caja de ahorro, Tarjeta de descuentos, clases de inglés, cursos y certificaciones, Actividades deportivas y de responsabilidad social, seguro de auto al 50% aprox. entre otros beneficios",
+      "apply_options": [
+        {
+          "title": "OCC",
+          "link": "https://www.occ.com.mx/empleo/oferta/21356104-data-engineer-azure-sr/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJEYXRhIEVuZ2luZWVyIEF6dXJlIFNyIiwiY29tcGFueV9uYW1lIjoiU29mdHRlayIsImh0aWRvY2lkIjoidU5oS0Y4dXRJcW84eEU0bUFBQUFBQT09IiwidXVsZSI6IncrQ0FJUUlDSUdUV1Y0YVdOdiIsImdsIjoibXgiLCJobCI6ImVzIiwiZmMiOiJFc3dCQ293QlFVcHBWRFIwVEVGd1IyMDRZV05PVVRGVE0yZEJOSGw1ZFVoMVQyUXlRVzVWUVhaWlRteG9abTFVZURWWFFXVklNV3RpVG5scVRFcGhiMFJLY2t4aWVuWllSVUZwUVRsNGVrNVVaVkpDVFRNMmMzaEVSM0JMYmxkbVRVZDBZV05wZG1OYVoyeFNiMlpCTUVOTGMxUm9kVE5KY0RZNE9YVllVMEZyZFZGdFpHdHllRUppV0VsRGRUTkhOV2NTRjAxM1ZFRmhjMWhRVFdKUVNuQjBVVkJyWTFka2NVRjNHaUpCUkhOeU9XWlJURU5XWW1SUE9HYzNXVnBoZVZsYVJHUnhZWFJIY1d0NldGRkIiLCJmY3YiOiIzIiwiZmNfaWQiOiJ1TmhLRjh1dElxbzh4RTRtQUFBQUFBPT0ifQ=="
+    },
+    {
+      "title": "Data Consultant - Presencial (CDMX)",
+      "company_name": "ManpowerGroup",
+      "location": "Ciudad de México, CDMX",
+      "via": "Computrabajo",
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Data+Analyst&htidocid=KiU2_P8s2oMIKFdxAAAAAA%3D%3D&hl=es-MX&shem=epsd1,esd2e,rimspwouoe&shndl=37&shmd=H4sIAAAAAAAA_xWOMQ6CQBAAY8sTrLZEo5wxscFOSKhILO3IAhvAHLcnuxf5kvEHtnzM0Ew5M9F3E91yVISMnQSr6BSOcJ9IyDUDWoizvHzsUqiXn7wCtQgtAY3eEgM5KJg7S9trr-olNUbEJp0o6tAkDY-GHdU8myfXsqKSHifyFpWq8-U0J951-7hE5_lNUzFx8Ks1G0KL7Voql888NHyAdeMPpsJ-pK4AAAA&shmds=v1_ARwrE23O4FB3e4EVaWLZZ8bM6oI3AVh2E5Pn_fKm1Bo8WfoUlA&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Data+Analyst&htidocid=KiU2_P8s2oMIKFdxAAAAAA%3D%3D",
+      "thumbnail": "https://serpapi.com/searches/6ac00427a208021df24b88e8/images/u3_a60JCwe4JnVEdwfM9sy0_ogVSH6zw_9n-G9ma6zE.jpeg",
+      "extensions": [
+        "hace 3 días",
+        "$40 k por mes",
+        "Tiempo completo"
+      ],
+      "source_link": "https://mx.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-data-consultant-presencial-cdmx-en-benito-juarez-6A71877B15004AE361373E686DCF3405",
+      "job_title": "Data Consultant - Presencial (CDMX)",
+      "description": "¡Únete a nuestro equipo como Data & Analytics Analyst!\n\n-Ubicación:  CDMX\n- Horario: Lunes a viernes de 8:00 a 17:00 hrs.\n-Modalidad: Presencial\n\n¿Te apasiona trabajar con datos, optimizar procesos y asegurar la calidad de la información? Esta oportunidad es para ti.\n\nBuscamos un(a) Data & Analytics Analyst que contribuya a la consolidación, validación y automatización de información de ventas, garantizando datos confiables que apoyen la toma de decisiones del negocio.\n\n¿Qué harás?\n- Consolidar información de ventas proveniente de diferentes fuentes.\n- Validar, depurar y asegurar la calidad de los datos.\n- Automatizar procesos de carga, transformación y actualización de información.\n- Administrar y mantener bases de datos para las áreas de negocio.\n- Brindar soporte a usuarios internos en temas relacionados con datos y reportes.\n-Colaborar con equipos locales y globales en proyectos de automatización y mejora continua.\n-Identificar oportunidades para optimizar procesos mediante herramientas tecnológicas.\n\nBuscamos personas con:\n-Licenciatura o Ingeniería en Sistemas, Ciencia de Datos, Actuaría o carrera afín.\n-De 1 a 2 años de experiencia en análisis, gestión o administración de datos.\nExcel intermedio.\n-Conocimientos básicos de Python.\n-Power Automate (deseable).\n-Inglés básico para lectura de documentación técnica y comunicación con equipos globales.\n-Atención al detalle, organización, proactividad y orientación al cliente interno.\n\nTe ofrecemos:\n-Contratación directa.\n-Prestaciones de ley.\n-Equipo de cómputo.\n-Desarrollo profesional dentro de una empresa líder a nivel internacional.\n-Participación en proyectos de automatización y transformación digital.\n-Excelente ambiente de trabajo.\n\nSi cuentas con experiencia trabajando con bases de datos, disfrutas optimizar procesos y buscas desarrollarte en un entorno dinámico e internacional, ¡queremos conocerte!\n\nPostúlate y forma parte de un equipo donde la calidad de los datos impulsa las decisiones del negocio.\n\nEn ManpowerGroup promovemos la igualdad de oportunidades y la inclusión. Todas las personas son bienvenidas a participar en nuestros procesos de selección sin distinción de género, edad, discapacidad, nacionalidad, origen étnico, religión, orientación sexual, identidad de género o condición social.-Requerimientos- Educación mínima: Educación media superior - Bachillerato Tecnológico\n4 años de experiencia\nIdiomas: Inglés  \nConocimientos: Confiabilidad, Toma de decisiones, Automatización, Base de datos, Calidad, Etl, Python, Ventas\nPalabras clave: datos, data, consultor, df, ciudad, mexico",
+      "apply_options": [
+        {
+          "title": "Computrabajo",
+          "link": "https://mx.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-data-consultant-presencial-cdmx-en-benito-juarez-6A71877B15004AE361373E686DCF3405?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJEYXRhIENvbnN1bHRhbnQgLSBQcmVzZW5jaWFsIChDRE1YKSIsImNvbXBhbnlfbmFtZSI6Ik1hbnBvd2VyR3JvdXAiLCJodGlkb2NpZCI6IktpVTJfUDhzMm9NSUtGZHhBQUFBQUE9PSIsInV1bGUiOiJ3K0NBSVFJQ0lHVFdWNGFXTnYiLCJnbCI6Im14IiwiaGwiOiJlcyIsImZjIjoiRXN3QkNvd0JRVXBwVkRSMFRHUndVVTVsTmtkUVMxZGFOSEJpUVdZM1RVaDZjbFZ2ZDNGS1EzUnJjbXRHUWtkemRuaDBUV1I0WlRGVVdXRnFkbEpTT0VZM1QydHdTMlJqVldkT1gzZDJVRkJHY1dORlFVNTNXVFl5U1dWMlQyUlZRbXhxU2twaFl6SkxjRjkxVkcxWVZXZGpOblZXYTBGTVNrNU1ZVUZtT0RkUFluQjZZbXhTYTNSVFRUZEVRa2wwY1VnU0YwMTNWRUZoYzFoUVRXSlFTbkIwVVZCclkxZGtjVUYzR2lKQlJITnlPV1pUY3pKSGFuQmlOM2hTWTJFd2FsOTBjbHB0ZDAxSllWZE1ZVzEzIiwiZmN2IjoiMyIsImZjX2lkIjoiS2lVMl9QOHMyb01JS0ZkeEFBQUFBQT09In0="
+    },
+    {
+      "title": "Senior Associate, Data Analytics & Business Intelligence (BI), GOC",
+      "company_name": "WPP Media",
+      "location": "Ciudad de México, CDMX",
+      "via": "LinkedIn",
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Data+Analyst&htidocid=lrdxXNC1ZhWR1JxiAAAAAA%3D%3D&hl=es-MX&shem=epsd1,esd2e,rimspwouoe&shndl=37&shmd=H4sIAAAAAAAA_xWOMQrCQBAAsc0TrLYQUQmJCDZaaQKSIhiw0E42d0s8udxG9wLxSX7BNuC7NM2UMxN8RwGeyBl-wk6ElUFPIaToEXYO7csbJTCFfSvGkQhkzpO1piKnCGb7bB7C4ZhsoOw_8mhJI2gCqhtLDOTgwFxZGm9v3jeyiWMRG1Xi8a-NFNcxOyq5i-9cyoCr3PBJjf1PXFfrZRc1rlpMzkUBOWmDgzExrUY9VPL-3RnFISRpfvkBN66Q28kAAAA&shmds=v1_ARwrE20p85UOjbPze9IEOew8i0QUn3-GKxjYHuPoRcPsYtnRNQ&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Data+Analyst&htidocid=lrdxXNC1ZhWR1JxiAAAAAA%3D%3D",
+      "thumbnail": "https://serpapi.com/searches/6ac00427a208021df24b88e8/images/X7JMkGKylFlh5xuXFblhuO5kaVcHsv-jQnTuXW3Kp3U.jpeg",
+      "extensions": [
+        "hace 1 día",
+        "Tiempo completo"
+      ],
+      "source_link": "https://mx.linkedin.com/jobs/view/senior-associate-data-analytics-business-intelligence-bi-goc-at-wpp-media-4472953624",
+      "job_title": "Senior Associate, Data Analytics & Business Intelligence (BI), GOC",
+      "description": "About WPP Media\n\nWPP is the trusted growth partner for the world’s leading brands. With exceptional talent, trusted data and intelligence, and world-class partnerships – all united by our pioneering agentic marketing platform, WPP Open – we help clients navigate change, capture opportunity, and deliver transformational growth. \n\nWPP Media is WPP's AI-driven media operating unit, bringing together media, data, and partnerships to deliver creative personalisation at scale. Connected through WPP Open and powered by Open Intelligence, clients see exactly where, how, and why their media investment is working.\n\nFor more information, visit wppmedia.com.\n\nRole Summary And Impact\n\nAs part of the Global Operations Centre (GOC), you will work closely with teams across the United States, Europe, and Asia to deliver high-impact solutions in a collaborative, multicultural environment. We are looking for a Senior Data Engineer, Data Operations who will:\n\nDesign, build, and maintain cloud-based data solutions, supporting business intelligence, media performance reporting, and data quality compliance. Collaborate with data engineers, developers, and UX designers to develop data pipelines and workflows, managing the design, build, and maintenance phases of client reporting projects. Partner with Business Intelligence and Data Operations teams to define and document reporting and visualization requirements. Ensure data quality and provide ongoing support and maintenance for existing workspaces. Onboard new client teams to cloud data solutions, providing guidance and support throughout implementation. Define QA guidelines and automate existing quality assurance processes to improve accuracy and efficiency. Develop tools, processes, and best practices with support from the Associate Director to improve workflows and deliver value to client teams. Act as a subject matter expert in data quality, BI tools, and business rules, ensuring consistent application of best practices across projects. Coordinate status meetings and working sessions, tracking tasks and deliverables across multiple stakeholders and projects. Proactively identify, escalate, and resolve project roadblocks and delivery issues. Report to the US-based Associate Director, communicating project status, progress, and risks. Build collaborative relationships with internal teams, clearly communicating roles, responsibilities, and expectations. \n\nSkills And Experience\n\n3–4 years of relevant professional experience is preferred. At least 2–3 years of experience in data governance processes within data warehousing, ETL, and business intelligence environments. Experience with the full development lifecycle of an application or reporting solution, from design through testing and deployment. Advanced knowledge of SQL, relational databases, and data warehouses, including technologies such as MySQL, PostgreSQL, Redshift, or Snowflake. Advanced proficiency in at least one programming language, such as Python. Knowledge of cloud platforms such as Microsoft Azure, Google Cloud Platform, or AWS. Knowledge of data engineering platforms such as Databricks. Familiarity with business intelligence tools such as Tableau or Power BI. Familiarity with project and product management tools such as Jira, Confluence, Smartsheet, or Azure DevOps/VSTS. Experience with advertising campaign management, media buying, measurement, and analytics platforms, such as Sizmek, Google Campaign Manager, Flashtalking, Moat, DoubleVerify, IAS, MediaOcean, Media Tools, Nielsen, Comscore, social advertising platforms, Google Ads, Bing, Kenshoo, SA360, DV360, Google Analytics, or Adobe Analytics. Understanding of processes across digital, search, social, and offline media, with experience handling diverse datasets, including paid and owned media data. Experience in media, digital investment, analytics, or ad operations is preferred. A bachelor’s or advanced degree in Statistics, Economics, Business, Mathematics, Computer Science, or another scientific discipline is preferred. Strong attention to detail and a commitment to data accuracy. Excellent verbal and written communication skills, with the ability to collaborate across functional teams. Strong organizational and prioritization skills, including the ability to manage multiple projects, competing deliverables, and deadlines. \n\nLife At WPP Media & Benefits\n\nOur passion for shaping the next era of media is powered by our commitment to Be Extraordinary, investing in our employees to inspire transformational creativity. We also Lead Optimistically, firmly believing in and Championing Growth and Development for every individual. This commitment allows WPP Media employees to leverage the extensive global WPP Media & WPP networks to pursue their passions, build vital professional connections, and learn at the cutting edge of marketing and advertising.\n\nWe Create an Open environment built on trust and respect, where everyone feels they belong and has opportunities to progress. This inclusive culture is fostered through a variety of employee resource groups and frequent in-office events showcasing team wins, sharing thought leadership, and celebrating holidays and milestone events. Our comprehensive benefits package reflects this commitment, including competitive medical, group retirement plans, vision, and dental insurance, significant paid time off, preferential partner discounts, and employee mental health awareness days.\n\nWPP Media is an equal opportunity employer and considers applicants for all positions without discrimination or regard to characteristics. We believe the best work happens when we're together, fostering creativity, collaboration, and connection in this open and supportive environment. That's why we’ve adopted a hybrid approach, with teams in the office around four days a week. If you require accommodations or flexibility, please discuss this with the hiring team during the interview process. Please note that while our philosophy is the same across WPP, benefits may vary by office/country.\n\nThis position is available in a Remote or Hybrid Work Modality and must be performed from any location within Mexico or Colombia. Only candidates residing in either country who are legally authorized to work there may apply. Remote work from outside Mexico or Colombia, including relocation abroad under a remote work contract, is not permitted under any circumstances.\n\nPlease read our Privacy Notice for more information on how we process the information you provide.\n\nWhile we appreciate all applications received, only those candidates selected for an interview will be contacted.\n\nPlease read our Privacy Notice for more information on how we process the information you provide.",
+      "apply_options": [
+        {
+          "title": "LinkedIn",
+          "link": "https://mx.linkedin.com/jobs/view/senior-associate-data-analytics-business-intelligence-bi-goc-at-wpp-media-4472953624?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Indeed",
+          "link": "https://mx.indeed.com/viewjob?jk=59247b5ff0e7389e&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "BeBee",
+          "link": "https://bebee.com/mx/jobs/senior-associate-data-analytics-business-intelligence-bi-goc-wpp-media-ciudad-de-mexico--techmap_mx_4472953624?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Glassdoor",
+          "link": "https://www.glassdoor.com.mx/job-listing/senior-associate-data-analytics-business-intelligence-bi-goc-groupm-JV_IC5017436_KO0,60_KE61,67.htm?jl=1010282246169&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "SimplyHired",
+          "link": "https://www.simplyhired.mx/job/XxH4nJaVasGSgq9c5_wUG4lWpmnEIgHq72OVM6dQEgxnBfNesKSnaQ?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJTZW5pb3IgQXNzb2NpYXRlLCBEYXRhIEFuYWx5dGljcyBcdTAwMjYgQnVzaW5lc3MgSW50ZWxsaWdlbmNlIChCSSksIEdPQyIsImNvbXBhbnlfbmFtZSI6IldQUCBNZWRpYSIsImh0aWRvY2lkIjoibHJkeFhOQzFaaFdSMUp4aUFBQUFBQT09IiwidXVsZSI6IncrQ0FJUUlDSUdUV1Y0YVdOdiIsImdsIjoibXgiLCJobCI6ImVzIiwiZmMiOiJFc3dCQ293QlFVcHBWRFIwUzFkdWNVaGlUSGxHT1doVGNYTmFOMGhKWldaeWQybFViMWxSVEVGQmJVZFlibGxQT0ZKeU1FZEhWSHBCVTBwdFozSklZVFZJVVhKcFFYUm5NRXBoWWt0VVFVcHhUbmhaTnpoTVlsUlNSVWhsYkZSWFJGWnJOMlZ4Um1kM1RtSnlUM0pPT0ZCc1gwWmpOREpzYUdob05VZExla1pHU0RVMFRVTkRiWE5EYUZNNU1XWmpaSFFTRjAxM1ZFRmhjMWhRVFdKUVNuQjBVVkJyWTFka2NVRjNHaUpCUkhOeU9XWlVjalpHUlZaU1JURklkamh4VmxabVJFaGpUVnBoWldsVWNIaEIiLCJmY3YiOiIzIiwiZmNfaWQiOiJscmR4WE5DMVpoV1IxSnhpQUFBQUFBPT0ifQ=="
+    }
+  ],
+  "serpapi_pagination": {
+    "next_page_token": "eyJmYyI6IkVxSUVDdUlEUVVwcFZEUjBTbWxmUWpJME1tVktRbGhOUjFGaWNrZHRXRXhsYlU5V1MxUjRRMUZ3ZERabWR6WlRaamRMVUZNemJtSlpiRWR4ZEY4MFIyeEdNMVpDVmpKT01XTnVlRGh4WVhkMU4xSnJiMm80Wm1jdGRqQktTMHBRVFVsemQzTkNPRTl6YmpGek1GRkdaMU5yVVRadllVOUVRVkp2VkRKRVdVbEhlVTluU1hGUmVubE9Xbk5IT1VWR1duZFlNa3hTZGpSdVZEWjVOWEZIV1ZKcmRpMWtObUU0Y25veE5FaGhUMmRmWkVaeVgyWXhSM2xTVVRkUlNETTFSeTFpUW1aeWJFMDBhRTFoUld4Vk5VUnBZblpxYjJ0dWVqUlZXRU5JT1hOVWRVdDBiVTl2YmpKNVdERk1WMVl6UjJGM1ZGOVNhMVJtWWxKNU1HRlRVbTVXYkZWUmQzWnRWbXRRZW1aZk16QTNaVEEyYmxWM1NFSk1jV1ZuZFROSE1HaEtiM2RVU2pOTFVqQjBSMGswTm1wQ1Z5MWhYek5SWjJaV2FFeFRZMVZ0U21WQ05GcEdNWEJ1VEROWVozWjBNMDQyWVZoSkxWVkNUbEUzVUdsQk5VMXNTMFV5WVRZM1JFSkJMVUZwVDIwelZGOUROMkkzUzB4dmNWbExUMHRITm5wamVGVm1NR1ZHZG1zNE5GSklReTFxYlZsbWFWaFZWM0ExVVZONWFXRnZRVkUyVTJaQlRVNW5lWFYxU1ZKeGRXaDNVSE54Y0hJM1dITnRlV2x2VDJwSFpUaDJkMnBCVW5OSk1rSTBheTAyUjFWZlJFOTJjbWt4VW1WZlVYbHRjMnczVlc0MGNHY1NGMDEzVkVGaGMxaFFUV0pRU25CMFVWQnJZMWRrY1VGM0dpSkJSSE55T1daVVNUSlZjV0U0WWxScU4xcDRTbHBhUzNCU1dWOU1jazkxYVRKbiIsImZjdiI6IjMifQ==",
+    "next": "https://serpapi.com/search.json?chips=date_posted%3A3days&engine=google_jobs&gl=mx&google_domain=google.com&hl=es&location=Mexico&next_page_token=eyJmYyI6IkVxSUVDdUlEUVVwcFZEUjBTbWxmUWpJME1tVktRbGhOUjFGaWNrZHRXRXhsYlU5V1MxUjRRMUZ3ZERabWR6WlRaamRMVUZNemJtSlpiRWR4ZEY4MFIyeEdNMVpDVmpKT01XTnVlRGh4WVhkMU4xSnJiMm80Wm1jdGRqQktTMHBRVFVsemQzTkNPRTl6YmpGek1GRkdaMU5yVVRadllVOUVRVkp2VkRKRVdVbEhlVTluU1hGUmVubE9Xbk5IT1VWR1duZFlNa3hTZGpSdVZEWjVOWEZIV1ZKcmRpMWtObUU0Y25veE5FaGhUMmRmWkVaeVgyWXhSM2xTVVRkUlNETTFSeTFpUW1aeWJFMDBhRTFoUld4Vk5VUnBZblpxYjJ0dWVqUlZXRU5JT1hOVWRVdDBiVTl2YmpKNVdERk1WMVl6UjJGM1ZGOVNhMVJtWWxKNU1HRlRVbTVXYkZWUmQzWnRWbXRRZW1aZk16QTNaVEEyYmxWM1NFSk1jV1ZuZFROSE1HaEtiM2RVU2pOTFVqQjBSMGswTm1wQ1Z5MWhYek5SWjJaV2FFeFRZMVZ0U21WQ05GcEdNWEJ1VEROWVozWjBNMDQyWVZoSkxWVkNUbEUzVUdsQk5VMXNTMFV5WVRZM1JFSkJMVUZwVDIwelZGOUROMkkzUzB4dmNWbExUMHRITm5wamVGVm1NR1ZHZG1zNE5GSklReTFxYlZsbWFWaFZWM0ExVVZONWFXRnZRVkUyVTJaQlRVNW5lWFYxU1ZKeGRXaDNVSE54Y0hJM1dITnRlV2x2VDJwSFpUaDJkMnBCVW5OSk1rSTBheTAyUjFWZlJFOTJjbWt4VW1WZlVYbHRjMnczVlc0MGNHY1NGMDEzVkVGaGMxaFFUV0pRU25CMFVWQnJZMWRrY1VGM0dpSkJSSE55T1daVVNUSlZjV0U0WWxScU4xcDRTbHBhUzNCU1dWOU1jazkxYVRKbiIsImZjdiI6IjMifQ%3D%3D&q=Data+Analyst"
+  },
+  "_pipeline_metadata": {
+    "ingestion_timestamp_utc": "2026-10-02T19:21:28.265946+00:00",
+    "search_group": "bi_analytics",
+    "target_market": "Mexico",
+    "target_location": "Mexico",
+    "date_filter_applied": "3days",
+    "new_records_count": 10,
+    "provider": "serpapi"
+  }
+}

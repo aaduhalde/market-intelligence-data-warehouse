@@ -1,0 +1,416 @@
+{
+  "search_metadata": {
+    "id": "6abbefcca7d784d42aecf719",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/mQfJp1CIOSYBxKzB9jLp9xJJaiR8Skgeso4cvsDNOMQ/6abbefcca7d784d42aecf719.json",
+    "markdown_endpoint": "https://serpapi.com/searches/mQfJp1CIOSYBxKzB9jLp9xJJaiR8Skgeso4cvsDNOMQ/6abbefcca7d784d42aecf719.md",
+    "created_at": "2026-09-29 17:05:16 UTC",
+    "processed_at": "2026-09-29 17:05:16 UTC",
+    "google_jobs_url": "https://www.google.com/search?q=Data+Analyst&uule=w+CAIQICIJQXJnZW50aW5h&hl=es&gl=ar&chips=date_posted:today&udm=8",
+    "raw_html_file": "https://serpapi.com/searches/mQfJp1CIOSYBxKzB9jLp9xJJaiR8Skgeso4cvsDNOMQ/6abbefcca7d784d42aecf719.html",
+    "total_time_taken": 5.57
+  },
+  "search_parameters": {
+    "q": "Data Analyst",
+    "engine": "google_jobs",
+    "location_requested": "Argentina",
+    "location_used": "Argentina",
+    "google_domain": "google.com",
+    "hl": "es",
+    "gl": "ar",
+    "chips": "date_posted:today"
+  },
+  "filters": [
+    {
+      "name": "Tipo de trabajo",
+      "options": [
+        {
+          "name": "Tiempo completo",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4rjdygdj3dMWkENbzHOm63F8EX1DVcI6P4YgHOGSUHh1o0-NTXZe2cTr8nv5rROG0e8otGJwA9ug3_DYQlq7zBByeSNXFux2rpox_G1Y7AvFEnghEek8JOyMrwjUmbWXIAbW68rl3MSJa1exuKqz1v_4_DqUcfNcvyVA6VipgE2p9vR0cE_pux3nDGM4FuUaWQGxP2REqzZ-wrulCTDHJLbUrtk3FEZEXA5j9v-NaIRF2K2kWNXB_NggcV0FIY0QSoJ_3Wnge89sQDP02DV9Fv6JHn5WTOXtgvOjKmQG7kcmkkNH8NdQCEzAuDhD9PeJxT02JTRr5z09hpSBY0fhfEGxs7QoYsAdxMfUwDWdNQjTuKvGya",
+            "q": "data tiempo completo"
+          },
+          "link": "https://www.google.com/search?sca_esv=d1654259742c7a2c&gl=ar&hl=es&sxsrf=APpeQnscNjuRIGBmJf8hYfeiCG8dmuOE4g:1790701521100&q=data+tiempo+completo&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rjdygdj3dMWkENbzHOm63F8EX1DVcI6P4YgHOGSUHh1o0-NTXZe2cTr8nv5rROG0e8otGJwA9ug3_DYQlq7zBByeSNXFux2rpox_G1Y7AvFEnghEek8JOyMrwjUmbWXIAbW68rl3MSJa1exuKqz1v_4_DqUcfNcvyVA6VipgE2p9vR0cE_pux3nDGM4FuUaWQGxP2REqzZ-wrulCTDHJLbUrtk3FEZEXA5j9v-NaIRF2K2kWNXB_NggcV0FIY0QSoJ_3Wnge89sQDP02DV9Fv6JHn5WTOXtgvOjKmQG7kcmkkNH8NdQCEzAuDhD9PeJxT02JTRr5z09hpSBY0fhfEGxs7QoYsAdxMfUwDWdNQjTuKvGya&chips=date_posted:today&udm=8&sa=X&ved=2ahUKEwiJhMGAo5SXAxU94DQHHT18G58QkbEKegQIHxAC",
+          "serpapi_link": "https://serpapi.com/search.json?chips=date_posted%3Atoday&engine=google_jobs&gl=ar&google_domain=google.com&hl=es&location=Argentina&q=data+tiempo+completo&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rjdygdj3dMWkENbzHOm63F8EX1DVcI6P4YgHOGSUHh1o0-NTXZe2cTr8nv5rROG0e8otGJwA9ug3_DYQlq7zBByeSNXFux2rpox_G1Y7AvFEnghEek8JOyMrwjUmbWXIAbW68rl3MSJa1exuKqz1v_4_DqUcfNcvyVA6VipgE2p9vR0cE_pux3nDGM4FuUaWQGxP2REqzZ-wrulCTDHJLbUrtk3FEZEXA5j9v-NaIRF2K2kWNXB_NggcV0FIY0QSoJ_3Wnge89sQDP02DV9Fv6JHn5WTOXtgvOjKmQG7kcmkkNH8NdQCEzAuDhD9PeJxT02JTRr5z09hpSBY0fhfEGxs7QoYsAdxMfUwDWdNQjTuKvGya"
+        },
+        {
+          "name": "Tiempo parcial",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4roShN0sMy5ev2uGhHNkJW5RCgd0tfprgnWAVOyOQK2XPo1aYyWiGDegYVb8MZz2w2tUoPriu2LVeIwOMpIkjG0TkWMuFrn2VgIdF9B5XkdZb7aUBewWWf6BZSbKa2hMnPylpBptZycm05Ru5uHfBLbuR_Yxb0SQbVGn1K1MAB-Vahrw8e6bpO3u79HdwWOdAtqXsN5c4sygDCDwZ7J9-2WjNyAIJ4x9BZ7PFG7gs_kNI_ahv_iMcI4FrXXbfW0Tzg3SB4N3JSXKszRf4Pp-SZH-Ksfks8xW1DpNaPFnb8R_f33n8ZqNziv_IlNcGdEvpJCUunYiNIbd9y5_f4GEoauH25Z4QbrRHGX0hhBmhv4MTrsB9B",
+            "q": "data tiempo parcial"
+          },
+          "link": "https://www.google.com/search?sca_esv=d1654259742c7a2c&gl=ar&hl=es&sxsrf=APpeQnscNjuRIGBmJf8hYfeiCG8dmuOE4g:1790701521100&q=data+tiempo+parcial&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4roShN0sMy5ev2uGhHNkJW5RCgd0tfprgnWAVOyOQK2XPo1aYyWiGDegYVb8MZz2w2tUoPriu2LVeIwOMpIkjG0TkWMuFrn2VgIdF9B5XkdZb7aUBewWWf6BZSbKa2hMnPylpBptZycm05Ru5uHfBLbuR_Yxb0SQbVGn1K1MAB-Vahrw8e6bpO3u79HdwWOdAtqXsN5c4sygDCDwZ7J9-2WjNyAIJ4x9BZ7PFG7gs_kNI_ahv_iMcI4FrXXbfW0Tzg3SB4N3JSXKszRf4Pp-SZH-Ksfks8xW1DpNaPFnb8R_f33n8ZqNziv_IlNcGdEvpJCUunYiNIbd9y5_f4GEoauH25Z4QbrRHGX0hhBmhv4MTrsB9B&chips=date_posted:today&udm=8&sa=X&ved=2ahUKEwiJhMGAo5SXAxU94DQHHT18G58QkbEKegQIHxAD",
+          "serpapi_link": "https://serpapi.com/search.json?chips=date_posted%3Atoday&engine=google_jobs&gl=ar&google_domain=google.com&hl=es&location=Argentina&q=data+tiempo+parcial&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4roShN0sMy5ev2uGhHNkJW5RCgd0tfprgnWAVOyOQK2XPo1aYyWiGDegYVb8MZz2w2tUoPriu2LVeIwOMpIkjG0TkWMuFrn2VgIdF9B5XkdZb7aUBewWWf6BZSbKa2hMnPylpBptZycm05Ru5uHfBLbuR_Yxb0SQbVGn1K1MAB-Vahrw8e6bpO3u79HdwWOdAtqXsN5c4sygDCDwZ7J9-2WjNyAIJ4x9BZ7PFG7gs_kNI_ahv_iMcI4FrXXbfW0Tzg3SB4N3JSXKszRf4Pp-SZH-Ksfks8xW1DpNaPFnb8R_f33n8ZqNziv_IlNcGdEvpJCUunYiNIbd9y5_f4GEoauH25Z4QbrRHGX0hhBmhv4MTrsB9B"
+        },
+        {
+          "name": "Con contrato",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4rcyAXw0LNf4_5_PJXENkvOnC4Q0N9yVeDMIrYrPpQ-wl1RE5Aux_HmlkGKgkmty5RSa1jgF6lExqLxkJh4MkVAwxBnzapqo-awf74ZKkpAXFpLz91L0JwA3ovUuoCry2SAzl5kKyzzmGhO6bw4ZniyupO2-1o1WC4b9w1TZyBB7pbBMpLmfvhPoqL8FF8zYFhmkSDEXxvIMeqhKr3KyGIj3JDg5C1es_rbhbTxxmiKmqYZxTSeNgDmLU8kAMfw3hSW0pb21kkfUsUkCVo-b0osq_es2S8jT3heRjifoSTW5HbajKeG0VvN_Hwcl85RjHRftcR3JoUcgt4KvcTVVQT1nB3K0IXiWsGYe2XO3bc74rNpSLyKqx7rN0sm1NSqDpCb6Z3aQ",
+            "q": "data con contrato"
+          },
+          "link": "https://www.google.com/search?sca_esv=d1654259742c7a2c&gl=ar&hl=es&sxsrf=APpeQnscNjuRIGBmJf8hYfeiCG8dmuOE4g:1790701521100&q=data+con+contrato&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rcyAXw0LNf4_5_PJXENkvOnC4Q0N9yVeDMIrYrPpQ-wl1RE5Aux_HmlkGKgkmty5RSa1jgF6lExqLxkJh4MkVAwxBnzapqo-awf74ZKkpAXFpLz91L0JwA3ovUuoCry2SAzl5kKyzzmGhO6bw4ZniyupO2-1o1WC4b9w1TZyBB7pbBMpLmfvhPoqL8FF8zYFhmkSDEXxvIMeqhKr3KyGIj3JDg5C1es_rbhbTxxmiKmqYZxTSeNgDmLU8kAMfw3hSW0pb21kkfUsUkCVo-b0osq_es2S8jT3heRjifoSTW5HbajKeG0VvN_Hwcl85RjHRftcR3JoUcgt4KvcTVVQT1nB3K0IXiWsGYe2XO3bc74rNpSLyKqx7rN0sm1NSqDpCb6Z3aQ&chips=date_posted:today&udm=8&sa=X&ved=2ahUKEwiJhMGAo5SXAxU94DQHHT18G58QkbEKegQIHxAE",
+          "serpapi_link": "https://serpapi.com/search.json?chips=date_posted%3Atoday&engine=google_jobs&gl=ar&google_domain=google.com&hl=es&location=Argentina&q=data+con+contrato&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rcyAXw0LNf4_5_PJXENkvOnC4Q0N9yVeDMIrYrPpQ-wl1RE5Aux_HmlkGKgkmty5RSa1jgF6lExqLxkJh4MkVAwxBnzapqo-awf74ZKkpAXFpLz91L0JwA3ovUuoCry2SAzl5kKyzzmGhO6bw4ZniyupO2-1o1WC4b9w1TZyBB7pbBMpLmfvhPoqL8FF8zYFhmkSDEXxvIMeqhKr3KyGIj3JDg5C1es_rbhbTxxmiKmqYZxTSeNgDmLU8kAMfw3hSW0pb21kkfUsUkCVo-b0osq_es2S8jT3heRjifoSTW5HbajKeG0VvN_Hwcl85RjHRftcR3JoUcgt4KvcTVVQT1nB3K0IXiWsGYe2XO3bc74rNpSLyKqx7rN0sm1NSqDpCb6Z3aQ"
+        },
+        {
+          "name": "Prácticas",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4rQWouZWAncMJhilUr0mvKMZx1vJUP9CFw97uB5teJZfYDGk9E1cVvvLLIPSKbKIjhN_0QCyZetT3wJpb_IG-lG4nKLXNmy3X5NKvwndVFKsheF0Pv0xgj3vdOi2zQHO5pseQlSixOwOl2CZcwJot9c-qlFLxKBXFNQv4lT6oTlbjkxcr5Cz_y5dxispP_3_N4ycRgcqOkuxoXL66QFDUAzX6Spw-XOZs28Dh_ik8oe-bptFVUHUvYi2QU1h1Da2nZNc-kdbcelb5TC14Du3Y8YFMu_dxNLONQBUAC5ld_Hi5uP_QgTpk8I1JLhZ3ujCF1Jaul72stKMW9ulBDyoLanwhhPsOPt-WeQLHGtEISR1tTzff9",
+            "q": "data prácticas"
+          },
+          "link": "https://www.google.com/search?sca_esv=d1654259742c7a2c&gl=ar&hl=es&sxsrf=APpeQnscNjuRIGBmJf8hYfeiCG8dmuOE4g:1790701521100&q=data+pr%C3%A1cticas&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rQWouZWAncMJhilUr0mvKMZx1vJUP9CFw97uB5teJZfYDGk9E1cVvvLLIPSKbKIjhN_0QCyZetT3wJpb_IG-lG4nKLXNmy3X5NKvwndVFKsheF0Pv0xgj3vdOi2zQHO5pseQlSixOwOl2CZcwJot9c-qlFLxKBXFNQv4lT6oTlbjkxcr5Cz_y5dxispP_3_N4ycRgcqOkuxoXL66QFDUAzX6Spw-XOZs28Dh_ik8oe-bptFVUHUvYi2QU1h1Da2nZNc-kdbcelb5TC14Du3Y8YFMu_dxNLONQBUAC5ld_Hi5uP_QgTpk8I1JLhZ3ujCF1Jaul72stKMW9ulBDyoLanwhhPsOPt-WeQLHGtEISR1tTzff9&chips=date_posted:today&udm=8&sa=X&ved=2ahUKEwiJhMGAo5SXAxU94DQHHT18G58QkbEKegQIHxAF",
+          "serpapi_link": "https://serpapi.com/search.json?chips=date_posted%3Atoday&engine=google_jobs&gl=ar&google_domain=google.com&hl=es&location=Argentina&q=data+pr%C3%A1cticas&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rQWouZWAncMJhilUr0mvKMZx1vJUP9CFw97uB5teJZfYDGk9E1cVvvLLIPSKbKIjhN_0QCyZetT3wJpb_IG-lG4nKLXNmy3X5NKvwndVFKsheF0Pv0xgj3vdOi2zQHO5pseQlSixOwOl2CZcwJot9c-qlFLxKBXFNQv4lT6oTlbjkxcr5Cz_y5dxispP_3_N4ycRgcqOkuxoXL66QFDUAzX6Spw-XOZs28Dh_ik8oe-bptFVUHUvYi2QU1h1Da2nZNc-kdbcelb5TC14Du3Y8YFMu_dxNLONQBUAC5ld_Hi5uP_QgTpk8I1JLhZ3ujCF1Jaul72stKMW9ulBDyoLanwhhPsOPt-WeQLHGtEISR1tTzff9"
+        }
+      ]
+    },
+    {
+      "name": "Tipo de trabajo",
+      "options": [
+        {
+          "name": "Tiempo completo",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4rjdygdj3dMWkENbzHOm63F8EX1DVcI6P4YgHOGSUHh1o0-NTXZe2cTr8nv5rROG0e8otGJwA9ug3_DYQlq7zBByeSNXFux2rpox_G1Y7AvFEnghEek8JOyMrwjUmbWXIAbW68rl3MSJa1exuKqz1v_4_DqUcfNcvyVA6VipgE2p9vR0cE_pux3nDGM4FuUaWQGxP2REqzZ-wrulCTDHJLbUrtk3FEZEXA5j9v-NaIRF2K2kWNXB_NggcV0FIY0QSoJ_3Wnge89sQDP02DV9Fv6JHn5WTOXtgvOjKmQG7kcmkkNH8NdQCEzAuDhD9PeJxT02JTRr5z09hpSBY0fhfEGxs7QoYsAdxMfUwDWdNQjTuKvGya",
+            "q": "data tiempo completo"
+          },
+          "link": "https://www.google.com/search?sca_esv=d1654259742c7a2c&gl=ar&hl=es&sxsrf=APpeQnscNjuRIGBmJf8hYfeiCG8dmuOE4g:1790701521100&q=data+tiempo+completo&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rjdygdj3dMWkENbzHOm63F8EX1DVcI6P4YgHOGSUHh1o0-NTXZe2cTr8nv5rROG0e8otGJwA9ug3_DYQlq7zBByeSNXFux2rpox_G1Y7AvFEnghEek8JOyMrwjUmbWXIAbW68rl3MSJa1exuKqz1v_4_DqUcfNcvyVA6VipgE2p9vR0cE_pux3nDGM4FuUaWQGxP2REqzZ-wrulCTDHJLbUrtk3FEZEXA5j9v-NaIRF2K2kWNXB_NggcV0FIY0QSoJ_3Wnge89sQDP02DV9Fv6JHn5WTOXtgvOjKmQG7kcmkkNH8NdQCEzAuDhD9PeJxT02JTRr5z09hpSBY0fhfEGxs7QoYsAdxMfUwDWdNQjTuKvGya&chips=date_posted:today&udm=8&sa=X&ved=2ahUKEwiJhMGAo5SXAxU94DQHHT18G58QkbEKegQIHxAC",
+          "serpapi_link": "https://serpapi.com/search.json?chips=date_posted%3Atoday&engine=google_jobs&gl=ar&google_domain=google.com&hl=es&location=Argentina&q=data+tiempo+completo&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rjdygdj3dMWkENbzHOm63F8EX1DVcI6P4YgHOGSUHh1o0-NTXZe2cTr8nv5rROG0e8otGJwA9ug3_DYQlq7zBByeSNXFux2rpox_G1Y7AvFEnghEek8JOyMrwjUmbWXIAbW68rl3MSJa1exuKqz1v_4_DqUcfNcvyVA6VipgE2p9vR0cE_pux3nDGM4FuUaWQGxP2REqzZ-wrulCTDHJLbUrtk3FEZEXA5j9v-NaIRF2K2kWNXB_NggcV0FIY0QSoJ_3Wnge89sQDP02DV9Fv6JHn5WTOXtgvOjKmQG7kcmkkNH8NdQCEzAuDhD9PeJxT02JTRr5z09hpSBY0fhfEGxs7QoYsAdxMfUwDWdNQjTuKvGya"
+        },
+        {
+          "name": "Tiempo parcial",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4roShN0sMy5ev2uGhHNkJW5RCgd0tfprgnWAVOyOQK2XPo1aYyWiGDegYVb8MZz2w2tUoPriu2LVeIwOMpIkjG0TkWMuFrn2VgIdF9B5XkdZb7aUBewWWf6BZSbKa2hMnPylpBptZycm05Ru5uHfBLbuR_Yxb0SQbVGn1K1MAB-Vahrw8e6bpO3u79HdwWOdAtqXsN5c4sygDCDwZ7J9-2WjNyAIJ4x9BZ7PFG7gs_kNI_ahv_iMcI4FrXXbfW0Tzg3SB4N3JSXKszRf4Pp-SZH-Ksfks8xW1DpNaPFnb8R_f33n8ZqNziv_IlNcGdEvpJCUunYiNIbd9y5_f4GEoauH25Z4QbrRHGX0hhBmhv4MTrsB9B",
+            "q": "data tiempo parcial"
+          },
+          "link": "https://www.google.com/search?sca_esv=d1654259742c7a2c&gl=ar&hl=es&sxsrf=APpeQnscNjuRIGBmJf8hYfeiCG8dmuOE4g:1790701521100&q=data+tiempo+parcial&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4roShN0sMy5ev2uGhHNkJW5RCgd0tfprgnWAVOyOQK2XPo1aYyWiGDegYVb8MZz2w2tUoPriu2LVeIwOMpIkjG0TkWMuFrn2VgIdF9B5XkdZb7aUBewWWf6BZSbKa2hMnPylpBptZycm05Ru5uHfBLbuR_Yxb0SQbVGn1K1MAB-Vahrw8e6bpO3u79HdwWOdAtqXsN5c4sygDCDwZ7J9-2WjNyAIJ4x9BZ7PFG7gs_kNI_ahv_iMcI4FrXXbfW0Tzg3SB4N3JSXKszRf4Pp-SZH-Ksfks8xW1DpNaPFnb8R_f33n8ZqNziv_IlNcGdEvpJCUunYiNIbd9y5_f4GEoauH25Z4QbrRHGX0hhBmhv4MTrsB9B&chips=date_posted:today&udm=8&sa=X&ved=2ahUKEwiJhMGAo5SXAxU94DQHHT18G58QkbEKegQIHxAD",
+          "serpapi_link": "https://serpapi.com/search.json?chips=date_posted%3Atoday&engine=google_jobs&gl=ar&google_domain=google.com&hl=es&location=Argentina&q=data+tiempo+parcial&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4roShN0sMy5ev2uGhHNkJW5RCgd0tfprgnWAVOyOQK2XPo1aYyWiGDegYVb8MZz2w2tUoPriu2LVeIwOMpIkjG0TkWMuFrn2VgIdF9B5XkdZb7aUBewWWf6BZSbKa2hMnPylpBptZycm05Ru5uHfBLbuR_Yxb0SQbVGn1K1MAB-Vahrw8e6bpO3u79HdwWOdAtqXsN5c4sygDCDwZ7J9-2WjNyAIJ4x9BZ7PFG7gs_kNI_ahv_iMcI4FrXXbfW0Tzg3SB4N3JSXKszRf4Pp-SZH-Ksfks8xW1DpNaPFnb8R_f33n8ZqNziv_IlNcGdEvpJCUunYiNIbd9y5_f4GEoauH25Z4QbrRHGX0hhBmhv4MTrsB9B"
+        },
+        {
+          "name": "Con contrato",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4rcyAXw0LNf4_5_PJXENkvOnC4Q0N9yVeDMIrYrPpQ-wl1RE5Aux_HmlkGKgkmty5RSa1jgF6lExqLxkJh4MkVAwxBnzapqo-awf74ZKkpAXFpLz91L0JwA3ovUuoCry2SAzl5kKyzzmGhO6bw4ZniyupO2-1o1WC4b9w1TZyBB7pbBMpLmfvhPoqL8FF8zYFhmkSDEXxvIMeqhKr3KyGIj3JDg5C1es_rbhbTxxmiKmqYZxTSeNgDmLU8kAMfw3hSW0pb21kkfUsUkCVo-b0osq_es2S8jT3heRjifoSTW5HbajKeG0VvN_Hwcl85RjHRftcR3JoUcgt4KvcTVVQT1nB3K0IXiWsGYe2XO3bc74rNpSLyKqx7rN0sm1NSqDpCb6Z3aQ",
+            "q": "data con contrato"
+          },
+          "link": "https://www.google.com/search?sca_esv=d1654259742c7a2c&gl=ar&hl=es&sxsrf=APpeQnscNjuRIGBmJf8hYfeiCG8dmuOE4g:1790701521100&q=data+con+contrato&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rcyAXw0LNf4_5_PJXENkvOnC4Q0N9yVeDMIrYrPpQ-wl1RE5Aux_HmlkGKgkmty5RSa1jgF6lExqLxkJh4MkVAwxBnzapqo-awf74ZKkpAXFpLz91L0JwA3ovUuoCry2SAzl5kKyzzmGhO6bw4ZniyupO2-1o1WC4b9w1TZyBB7pbBMpLmfvhPoqL8FF8zYFhmkSDEXxvIMeqhKr3KyGIj3JDg5C1es_rbhbTxxmiKmqYZxTSeNgDmLU8kAMfw3hSW0pb21kkfUsUkCVo-b0osq_es2S8jT3heRjifoSTW5HbajKeG0VvN_Hwcl85RjHRftcR3JoUcgt4KvcTVVQT1nB3K0IXiWsGYe2XO3bc74rNpSLyKqx7rN0sm1NSqDpCb6Z3aQ&chips=date_posted:today&udm=8&sa=X&ved=2ahUKEwiJhMGAo5SXAxU94DQHHT18G58QkbEKegQIHxAE",
+          "serpapi_link": "https://serpapi.com/search.json?chips=date_posted%3Atoday&engine=google_jobs&gl=ar&google_domain=google.com&hl=es&location=Argentina&q=data+con+contrato&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rcyAXw0LNf4_5_PJXENkvOnC4Q0N9yVeDMIrYrPpQ-wl1RE5Aux_HmlkGKgkmty5RSa1jgF6lExqLxkJh4MkVAwxBnzapqo-awf74ZKkpAXFpLz91L0JwA3ovUuoCry2SAzl5kKyzzmGhO6bw4ZniyupO2-1o1WC4b9w1TZyBB7pbBMpLmfvhPoqL8FF8zYFhmkSDEXxvIMeqhKr3KyGIj3JDg5C1es_rbhbTxxmiKmqYZxTSeNgDmLU8kAMfw3hSW0pb21kkfUsUkCVo-b0osq_es2S8jT3heRjifoSTW5HbajKeG0VvN_Hwcl85RjHRftcR3JoUcgt4KvcTVVQT1nB3K0IXiWsGYe2XO3bc74rNpSLyKqx7rN0sm1NSqDpCb6Z3aQ"
+        },
+        {
+          "name": "Prácticas",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4rQWouZWAncMJhilUr0mvKMZx1vJUP9CFw97uB5teJZfYDGk9E1cVvvLLIPSKbKIjhN_0QCyZetT3wJpb_IG-lG4nKLXNmy3X5NKvwndVFKsheF0Pv0xgj3vdOi2zQHO5pseQlSixOwOl2CZcwJot9c-qlFLxKBXFNQv4lT6oTlbjkxcr5Cz_y5dxispP_3_N4ycRgcqOkuxoXL66QFDUAzX6Spw-XOZs28Dh_ik8oe-bptFVUHUvYi2QU1h1Da2nZNc-kdbcelb5TC14Du3Y8YFMu_dxNLONQBUAC5ld_Hi5uP_QgTpk8I1JLhZ3ujCF1Jaul72stKMW9ulBDyoLanwhhPsOPt-WeQLHGtEISR1tTzff9",
+            "q": "data prácticas"
+          },
+          "link": "https://www.google.com/search?sca_esv=d1654259742c7a2c&gl=ar&hl=es&sxsrf=APpeQnscNjuRIGBmJf8hYfeiCG8dmuOE4g:1790701521100&q=data+pr%C3%A1cticas&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rQWouZWAncMJhilUr0mvKMZx1vJUP9CFw97uB5teJZfYDGk9E1cVvvLLIPSKbKIjhN_0QCyZetT3wJpb_IG-lG4nKLXNmy3X5NKvwndVFKsheF0Pv0xgj3vdOi2zQHO5pseQlSixOwOl2CZcwJot9c-qlFLxKBXFNQv4lT6oTlbjkxcr5Cz_y5dxispP_3_N4ycRgcqOkuxoXL66QFDUAzX6Spw-XOZs28Dh_ik8oe-bptFVUHUvYi2QU1h1Da2nZNc-kdbcelb5TC14Du3Y8YFMu_dxNLONQBUAC5ld_Hi5uP_QgTpk8I1JLhZ3ujCF1Jaul72stKMW9ulBDyoLanwhhPsOPt-WeQLHGtEISR1tTzff9&chips=date_posted:today&udm=8&sa=X&ved=2ahUKEwiJhMGAo5SXAxU94DQHHT18G58QkbEKegQIHxAF",
+          "serpapi_link": "https://serpapi.com/search.json?chips=date_posted%3Atoday&engine=google_jobs&gl=ar&google_domain=google.com&hl=es&location=Argentina&q=data+pr%C3%A1cticas&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rQWouZWAncMJhilUr0mvKMZx1vJUP9CFw97uB5teJZfYDGk9E1cVvvLLIPSKbKIjhN_0QCyZetT3wJpb_IG-lG4nKLXNmy3X5NKvwndVFKsheF0Pv0xgj3vdOi2zQHO5pseQlSixOwOl2CZcwJot9c-qlFLxKBXFNQv4lT6oTlbjkxcr5Cz_y5dxispP_3_N4ycRgcqOkuxoXL66QFDUAzX6Spw-XOZs28Dh_ik8oe-bptFVUHUvYi2QU1h1Da2nZNc-kdbcelb5TC14Du3Y8YFMu_dxNLONQBUAC5ld_Hi5uP_QgTpk8I1JLhZ3ujCF1Jaul72stKMW9ulBDyoLanwhhPsOPt-WeQLHGtEISR1tTzff9"
+        }
+      ]
+    },
+    {
+      "name": "Fecha de publicación",
+      "options": [
+        {
+          "name": "Ayer",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4rVVNivViyVtms2aJvUHdkkE4a8KWRLPsTTxhYwY24-bnxYHnZGWvtIeTvwBFxR3ODKU3cVf9zm2d9O3uLwIfpF-kOhYup1_6IXwDrqkY_XccYisK-LvGb5H3XBXewxHueem3Kc_ScrAco0vjUIwApKmBS0v5B_eGe_BrkEdVdqHf_FbPXMPT81tOn1Bs3AZiXFH6yyQMnkahOI9jlCLML7ccJUN2kOAwDAGV5d6F24D7E1mYK4y8JsJ9bgp_lFry0UMjij8blrvXG1KCQ-ahxOmmEQfS5UWXEsEsgQKRprNvunT6sFJxtAm8i_UWIedjN_DiFmuvnvrw7myZ_bGf4LNGBpQMNS8DdYKYEMVsN-lt523A6NfWueno51uBjYSOG9OE72DHIrhEQbNT17v6A-WB0hDo",
+            "q": "data desde ayer"
+          },
+          "link": "https://www.google.com/search?sca_esv=d1654259742c7a2c&gl=ar&hl=es&sxsrf=APpeQnscNjuRIGBmJf8hYfeiCG8dmuOE4g:1790701521100&q=data+desde+ayer&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rVVNivViyVtms2aJvUHdkkE4a8KWRLPsTTxhYwY24-bnxYHnZGWvtIeTvwBFxR3ODKU3cVf9zm2d9O3uLwIfpF-kOhYup1_6IXwDrqkY_XccYisK-LvGb5H3XBXewxHueem3Kc_ScrAco0vjUIwApKmBS0v5B_eGe_BrkEdVdqHf_FbPXMPT81tOn1Bs3AZiXFH6yyQMnkahOI9jlCLML7ccJUN2kOAwDAGV5d6F24D7E1mYK4y8JsJ9bgp_lFry0UMjij8blrvXG1KCQ-ahxOmmEQfS5UWXEsEsgQKRprNvunT6sFJxtAm8i_UWIedjN_DiFmuvnvrw7myZ_bGf4LNGBpQMNS8DdYKYEMVsN-lt523A6NfWueno51uBjYSOG9OE72DHIrhEQbNT17v6A-WB0hDo&chips=date_posted:today&udm=8&sa=X&ved=2ahUKEwiJhMGAo5SXAxU94DQHHT18G58QkbEKegQIHBAC",
+          "serpapi_link": "https://serpapi.com/search.json?chips=date_posted%3Atoday&engine=google_jobs&gl=ar&google_domain=google.com&hl=es&location=Argentina&q=data+desde+ayer&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rVVNivViyVtms2aJvUHdkkE4a8KWRLPsTTxhYwY24-bnxYHnZGWvtIeTvwBFxR3ODKU3cVf9zm2d9O3uLwIfpF-kOhYup1_6IXwDrqkY_XccYisK-LvGb5H3XBXewxHueem3Kc_ScrAco0vjUIwApKmBS0v5B_eGe_BrkEdVdqHf_FbPXMPT81tOn1Bs3AZiXFH6yyQMnkahOI9jlCLML7ccJUN2kOAwDAGV5d6F24D7E1mYK4y8JsJ9bgp_lFry0UMjij8blrvXG1KCQ-ahxOmmEQfS5UWXEsEsgQKRprNvunT6sFJxtAm8i_UWIedjN_DiFmuvnvrw7myZ_bGf4LNGBpQMNS8DdYKYEMVsN-lt523A6NfWueno51uBjYSOG9OE72DHIrhEQbNT17v6A-WB0hDo"
+        },
+        {
+          "name": "Últimos 3 días",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4rFzaqi6X-nLhHx30s6Z1rK_dgzWPQX_ilnTMyaFGrP58rULEpvJMG150qlUkNVSimv7uDSBtY6lAbgvQz-nSzv6swR3dNrZ4CA5hfE1TD5Dfm7vHBmaV_MMTYtGKaIE83udImVfiCx79rwFFxQG5H021V_TJ2Jt_IT9KKEQloJ4FAOfgZSCYWRO5uOt7ALWFl_YI_1Gcsv3Xh2lbhD1JqRno9M2nzXE-qj6fZ6bP-bWwcPb0V5UMrPGzpM0UhnaDpRi2dK2sC_nhL4wbwXMkvLKwQFtzyRksyDnse46Ih9hc0TmKpTN9A0_yz1QGWTbIqwzUhZPv6-x5my20PXcgiHrGyseKElN-xeElIWIAU6BxldeefVeXlmyFQCfbIMJkIAx8wr0PLdEXTt06QykEUz-MS01Q",
+            "q": "data en los últimos 3 días"
+          },
+          "link": "https://www.google.com/search?sca_esv=d1654259742c7a2c&gl=ar&hl=es&sxsrf=APpeQnscNjuRIGBmJf8hYfeiCG8dmuOE4g:1790701521100&q=data+en+los+%C3%BAltimos+3+d%C3%ADas&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rFzaqi6X-nLhHx30s6Z1rK_dgzWPQX_ilnTMyaFGrP58rULEpvJMG150qlUkNVSimv7uDSBtY6lAbgvQz-nSzv6swR3dNrZ4CA5hfE1TD5Dfm7vHBmaV_MMTYtGKaIE83udImVfiCx79rwFFxQG5H021V_TJ2Jt_IT9KKEQloJ4FAOfgZSCYWRO5uOt7ALWFl_YI_1Gcsv3Xh2lbhD1JqRno9M2nzXE-qj6fZ6bP-bWwcPb0V5UMrPGzpM0UhnaDpRi2dK2sC_nhL4wbwXMkvLKwQFtzyRksyDnse46Ih9hc0TmKpTN9A0_yz1QGWTbIqwzUhZPv6-x5my20PXcgiHrGyseKElN-xeElIWIAU6BxldeefVeXlmyFQCfbIMJkIAx8wr0PLdEXTt06QykEUz-MS01Q&chips=date_posted:today&udm=8&sa=X&ved=2ahUKEwiJhMGAo5SXAxU94DQHHT18G58QkbEKegQIHBAD",
+          "serpapi_link": "https://serpapi.com/search.json?chips=date_posted%3Atoday&engine=google_jobs&gl=ar&google_domain=google.com&hl=es&location=Argentina&q=data+en+los+%C3%BAltimos+3+d%C3%ADas&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rFzaqi6X-nLhHx30s6Z1rK_dgzWPQX_ilnTMyaFGrP58rULEpvJMG150qlUkNVSimv7uDSBtY6lAbgvQz-nSzv6swR3dNrZ4CA5hfE1TD5Dfm7vHBmaV_MMTYtGKaIE83udImVfiCx79rwFFxQG5H021V_TJ2Jt_IT9KKEQloJ4FAOfgZSCYWRO5uOt7ALWFl_YI_1Gcsv3Xh2lbhD1JqRno9M2nzXE-qj6fZ6bP-bWwcPb0V5UMrPGzpM0UhnaDpRi2dK2sC_nhL4wbwXMkvLKwQFtzyRksyDnse46Ih9hc0TmKpTN9A0_yz1QGWTbIqwzUhZPv6-x5my20PXcgiHrGyseKElN-xeElIWIAU6BxldeefVeXlmyFQCfbIMJkIAx8wr0PLdEXTt06QykEUz-MS01Q"
+        },
+        {
+          "name": "Última semana",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4r2YIQD5S0wiJLM8D3QoSGRaVxbpqbb7rumhagNEKfs4DZtLO-uOWL9fq29u3hzByj5dlWRfAd72b3a4AG0Bsahft_BSavglMGeI8GETUv2ZLTJLt2FSHptCCEgLlI2dRVoCZRYaq9onxkSwISHEyWxVmdm9KdMqoNbTBUFcwYuknohzqOI8sKgNIneb_drNZMwRGi04S3AJvzoXLl3iAiTChkxz3lpQIJw83jVjjoTZKVYiYgBbZvpyO_c92BERP77R6wTuoYq1mSNw4dT62Cl5TnhdueUO8vaWftF9TD-klhTgHVIJ08qnr1py1eNVRkM4UH3Qd85arBdYIwPDkwcwpQb2aBXs7rBDwAuVeEo-0nkukq6ipN18Bompq5ROdKNNOJvdjauuMuPkg-Y9jgr6-kVv8",
+            "q": "data en la última semana"
+          },
+          "link": "https://www.google.com/search?sca_esv=d1654259742c7a2c&gl=ar&hl=es&sxsrf=APpeQnscNjuRIGBmJf8hYfeiCG8dmuOE4g:1790701521100&q=data+en+la+%C3%BAltima+semana&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4r2YIQD5S0wiJLM8D3QoSGRaVxbpqbb7rumhagNEKfs4DZtLO-uOWL9fq29u3hzByj5dlWRfAd72b3a4AG0Bsahft_BSavglMGeI8GETUv2ZLTJLt2FSHptCCEgLlI2dRVoCZRYaq9onxkSwISHEyWxVmdm9KdMqoNbTBUFcwYuknohzqOI8sKgNIneb_drNZMwRGi04S3AJvzoXLl3iAiTChkxz3lpQIJw83jVjjoTZKVYiYgBbZvpyO_c92BERP77R6wTuoYq1mSNw4dT62Cl5TnhdueUO8vaWftF9TD-klhTgHVIJ08qnr1py1eNVRkM4UH3Qd85arBdYIwPDkwcwpQb2aBXs7rBDwAuVeEo-0nkukq6ipN18Bompq5ROdKNNOJvdjauuMuPkg-Y9jgr6-kVv8&chips=date_posted:today&udm=8&sa=X&ved=2ahUKEwiJhMGAo5SXAxU94DQHHT18G58QkbEKegQIHBAE",
+          "serpapi_link": "https://serpapi.com/search.json?chips=date_posted%3Atoday&engine=google_jobs&gl=ar&google_domain=google.com&hl=es&location=Argentina&q=data+en+la+%C3%BAltima+semana&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4r2YIQD5S0wiJLM8D3QoSGRaVxbpqbb7rumhagNEKfs4DZtLO-uOWL9fq29u3hzByj5dlWRfAd72b3a4AG0Bsahft_BSavglMGeI8GETUv2ZLTJLt2FSHptCCEgLlI2dRVoCZRYaq9onxkSwISHEyWxVmdm9KdMqoNbTBUFcwYuknohzqOI8sKgNIneb_drNZMwRGi04S3AJvzoXLl3iAiTChkxz3lpQIJw83jVjjoTZKVYiYgBbZvpyO_c92BERP77R6wTuoYq1mSNw4dT62Cl5TnhdueUO8vaWftF9TD-klhTgHVIJ08qnr1py1eNVRkM4UH3Qd85arBdYIwPDkwcwpQb2aBXs7rBDwAuVeEo-0nkukq6ipN18Bompq5ROdKNNOJvdjauuMuPkg-Y9jgr6-kVv8"
+        },
+        {
+          "name": "Último mes",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4rOXaF_MuSFyN549V3IFM46GeVHzgrxOZlCHeEQecAJHoIvwTtMu0cEpJ70S9GqQR36bsV7eyQHYs17MHqSJSKOZIJBrhcgandieNXiGxgE7TFeJaZhcLwF-UdPp6RsZvAzTepIKplUofgk2QZGt9-LDb8sf2F97DTQWjS_t3n8ZHx7OCSkWlOIM1RreBycAEPTzfvoit_NWInLlKSFCcUKgqIeOSfHdJomdxLpRDMA_aQimrVYFxf470kngpckv0Ll4X0gCE9F-oRkrGqFyN4W2oiSvDlOr1RQJSXTysHB0Zli7DIbzyT_QqlXuIg-gvFuJEB-YZm2iQG5tMqbnyaUESDASL98l6aTFDfSVZjmJOWnxj4JN5yV1RLgTAKNrXzp_YQ0qbhDVSwqLhP66z641ZFYqM",
+            "q": "data en el último mes"
+          },
+          "link": "https://www.google.com/search?sca_esv=d1654259742c7a2c&gl=ar&hl=es&sxsrf=APpeQnscNjuRIGBmJf8hYfeiCG8dmuOE4g:1790701521100&q=data+en+el+%C3%BAltimo+mes&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rOXaF_MuSFyN549V3IFM46GeVHzgrxOZlCHeEQecAJHoIvwTtMu0cEpJ70S9GqQR36bsV7eyQHYs17MHqSJSKOZIJBrhcgandieNXiGxgE7TFeJaZhcLwF-UdPp6RsZvAzTepIKplUofgk2QZGt9-LDb8sf2F97DTQWjS_t3n8ZHx7OCSkWlOIM1RreBycAEPTzfvoit_NWInLlKSFCcUKgqIeOSfHdJomdxLpRDMA_aQimrVYFxf470kngpckv0Ll4X0gCE9F-oRkrGqFyN4W2oiSvDlOr1RQJSXTysHB0Zli7DIbzyT_QqlXuIg-gvFuJEB-YZm2iQG5tMqbnyaUESDASL98l6aTFDfSVZjmJOWnxj4JN5yV1RLgTAKNrXzp_YQ0qbhDVSwqLhP66z641ZFYqM&chips=date_posted:today&udm=8&sa=X&ved=2ahUKEwiJhMGAo5SXAxU94DQHHT18G58QkbEKegQIHBAF",
+          "serpapi_link": "https://serpapi.com/search.json?chips=date_posted%3Atoday&engine=google_jobs&gl=ar&google_domain=google.com&hl=es&location=Argentina&q=data+en+el+%C3%BAltimo+mes&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rOXaF_MuSFyN549V3IFM46GeVHzgrxOZlCHeEQecAJHoIvwTtMu0cEpJ70S9GqQR36bsV7eyQHYs17MHqSJSKOZIJBrhcgandieNXiGxgE7TFeJaZhcLwF-UdPp6RsZvAzTepIKplUofgk2QZGt9-LDb8sf2F97DTQWjS_t3n8ZHx7OCSkWlOIM1RreBycAEPTzfvoit_NWInLlKSFCcUKgqIeOSfHdJomdxLpRDMA_aQimrVYFxf470kngpckv0Ll4X0gCE9F-oRkrGqFyN4W2oiSvDlOr1RQJSXTysHB0Zli7DIbzyT_QqlXuIg-gvFuJEB-YZm2iQG5tMqbnyaUESDASL98l6aTFDfSVZjmJOWnxj4JN5yV1RLgTAKNrXzp_YQ0qbhDVSwqLhP66z641ZFYqM"
+        }
+      ]
+    },
+    {
+      "name": "Fecha de publicación",
+      "options": [
+        {
+          "name": "Ayer",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4rVVNivViyVtms2aJvUHdkkE4a8KWRLPsTTxhYwY24-bnxYHnZGWvtIeTvwBFxR3ODKU3cVf9zm2d9O3uLwIfpF-kOhYup1_6IXwDrqkY_XccYisK-LvGb5H3XBXewxHueem3Kc_ScrAco0vjUIwApKmBS0v5B_eGe_BrkEdVdqHf_FbPXMPT81tOn1Bs3AZiXFH6yyQMnkahOI9jlCLML7ccJUN2kOAwDAGV5d6F24D7E1mYK4y8JsJ9bgp_lFry0UMjij8blrvXG1KCQ-ahxOmmEQfS5UWXEsEsgQKRprNvunT6sFJxtAm8i_UWIedjN_DiFmuvnvrw7myZ_bGf4LNGBpQMNS8DdYKYEMVsN-lt523A6NfWueno51uBjYSOG9OE72DHIrhEQbNT17v6A-WB0hDo",
+            "q": "data desde ayer"
+          },
+          "link": "https://www.google.com/search?sca_esv=d1654259742c7a2c&gl=ar&hl=es&sxsrf=APpeQnscNjuRIGBmJf8hYfeiCG8dmuOE4g:1790701521100&q=data+desde+ayer&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rVVNivViyVtms2aJvUHdkkE4a8KWRLPsTTxhYwY24-bnxYHnZGWvtIeTvwBFxR3ODKU3cVf9zm2d9O3uLwIfpF-kOhYup1_6IXwDrqkY_XccYisK-LvGb5H3XBXewxHueem3Kc_ScrAco0vjUIwApKmBS0v5B_eGe_BrkEdVdqHf_FbPXMPT81tOn1Bs3AZiXFH6yyQMnkahOI9jlCLML7ccJUN2kOAwDAGV5d6F24D7E1mYK4y8JsJ9bgp_lFry0UMjij8blrvXG1KCQ-ahxOmmEQfS5UWXEsEsgQKRprNvunT6sFJxtAm8i_UWIedjN_DiFmuvnvrw7myZ_bGf4LNGBpQMNS8DdYKYEMVsN-lt523A6NfWueno51uBjYSOG9OE72DHIrhEQbNT17v6A-WB0hDo&chips=date_posted:today&udm=8&sa=X&ved=2ahUKEwiJhMGAo5SXAxU94DQHHT18G58QkbEKegQIHBAC",
+          "serpapi_link": "https://serpapi.com/search.json?chips=date_posted%3Atoday&engine=google_jobs&gl=ar&google_domain=google.com&hl=es&location=Argentina&q=data+desde+ayer&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rVVNivViyVtms2aJvUHdkkE4a8KWRLPsTTxhYwY24-bnxYHnZGWvtIeTvwBFxR3ODKU3cVf9zm2d9O3uLwIfpF-kOhYup1_6IXwDrqkY_XccYisK-LvGb5H3XBXewxHueem3Kc_ScrAco0vjUIwApKmBS0v5B_eGe_BrkEdVdqHf_FbPXMPT81tOn1Bs3AZiXFH6yyQMnkahOI9jlCLML7ccJUN2kOAwDAGV5d6F24D7E1mYK4y8JsJ9bgp_lFry0UMjij8blrvXG1KCQ-ahxOmmEQfS5UWXEsEsgQKRprNvunT6sFJxtAm8i_UWIedjN_DiFmuvnvrw7myZ_bGf4LNGBpQMNS8DdYKYEMVsN-lt523A6NfWueno51uBjYSOG9OE72DHIrhEQbNT17v6A-WB0hDo"
+        },
+        {
+          "name": "Últimos 3 días",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4rFzaqi6X-nLhHx30s6Z1rK_dgzWPQX_ilnTMyaFGrP58rULEpvJMG150qlUkNVSimv7uDSBtY6lAbgvQz-nSzv6swR3dNrZ4CA5hfE1TD5Dfm7vHBmaV_MMTYtGKaIE83udImVfiCx79rwFFxQG5H021V_TJ2Jt_IT9KKEQloJ4FAOfgZSCYWRO5uOt7ALWFl_YI_1Gcsv3Xh2lbhD1JqRno9M2nzXE-qj6fZ6bP-bWwcPb0V5UMrPGzpM0UhnaDpRi2dK2sC_nhL4wbwXMkvLKwQFtzyRksyDnse46Ih9hc0TmKpTN9A0_yz1QGWTbIqwzUhZPv6-x5my20PXcgiHrGyseKElN-xeElIWIAU6BxldeefVeXlmyFQCfbIMJkIAx8wr0PLdEXTt06QykEUz-MS01Q",
+            "q": "data en los últimos 3 días"
+          },
+          "link": "https://www.google.com/search?sca_esv=d1654259742c7a2c&gl=ar&hl=es&sxsrf=APpeQnscNjuRIGBmJf8hYfeiCG8dmuOE4g:1790701521100&q=data+en+los+%C3%BAltimos+3+d%C3%ADas&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rFzaqi6X-nLhHx30s6Z1rK_dgzWPQX_ilnTMyaFGrP58rULEpvJMG150qlUkNVSimv7uDSBtY6lAbgvQz-nSzv6swR3dNrZ4CA5hfE1TD5Dfm7vHBmaV_MMTYtGKaIE83udImVfiCx79rwFFxQG5H021V_TJ2Jt_IT9KKEQloJ4FAOfgZSCYWRO5uOt7ALWFl_YI_1Gcsv3Xh2lbhD1JqRno9M2nzXE-qj6fZ6bP-bWwcPb0V5UMrPGzpM0UhnaDpRi2dK2sC_nhL4wbwXMkvLKwQFtzyRksyDnse46Ih9hc0TmKpTN9A0_yz1QGWTbIqwzUhZPv6-x5my20PXcgiHrGyseKElN-xeElIWIAU6BxldeefVeXlmyFQCfbIMJkIAx8wr0PLdEXTt06QykEUz-MS01Q&chips=date_posted:today&udm=8&sa=X&ved=2ahUKEwiJhMGAo5SXAxU94DQHHT18G58QkbEKegQIHBAD",
+          "serpapi_link": "https://serpapi.com/search.json?chips=date_posted%3Atoday&engine=google_jobs&gl=ar&google_domain=google.com&hl=es&location=Argentina&q=data+en+los+%C3%BAltimos+3+d%C3%ADas&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rFzaqi6X-nLhHx30s6Z1rK_dgzWPQX_ilnTMyaFGrP58rULEpvJMG150qlUkNVSimv7uDSBtY6lAbgvQz-nSzv6swR3dNrZ4CA5hfE1TD5Dfm7vHBmaV_MMTYtGKaIE83udImVfiCx79rwFFxQG5H021V_TJ2Jt_IT9KKEQloJ4FAOfgZSCYWRO5uOt7ALWFl_YI_1Gcsv3Xh2lbhD1JqRno9M2nzXE-qj6fZ6bP-bWwcPb0V5UMrPGzpM0UhnaDpRi2dK2sC_nhL4wbwXMkvLKwQFtzyRksyDnse46Ih9hc0TmKpTN9A0_yz1QGWTbIqwzUhZPv6-x5my20PXcgiHrGyseKElN-xeElIWIAU6BxldeefVeXlmyFQCfbIMJkIAx8wr0PLdEXTt06QykEUz-MS01Q"
+        },
+        {
+          "name": "Última semana",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4r2YIQD5S0wiJLM8D3QoSGRaVxbpqbb7rumhagNEKfs4DZtLO-uOWL9fq29u3hzByj5dlWRfAd72b3a4AG0Bsahft_BSavglMGeI8GETUv2ZLTJLt2FSHptCCEgLlI2dRVoCZRYaq9onxkSwISHEyWxVmdm9KdMqoNbTBUFcwYuknohzqOI8sKgNIneb_drNZMwRGi04S3AJvzoXLl3iAiTChkxz3lpQIJw83jVjjoTZKVYiYgBbZvpyO_c92BERP77R6wTuoYq1mSNw4dT62Cl5TnhdueUO8vaWftF9TD-klhTgHVIJ08qnr1py1eNVRkM4UH3Qd85arBdYIwPDkwcwpQb2aBXs7rBDwAuVeEo-0nkukq6ipN18Bompq5ROdKNNOJvdjauuMuPkg-Y9jgr6-kVv8",
+            "q": "data en la última semana"
+          },
+          "link": "https://www.google.com/search?sca_esv=d1654259742c7a2c&gl=ar&hl=es&sxsrf=APpeQnscNjuRIGBmJf8hYfeiCG8dmuOE4g:1790701521100&q=data+en+la+%C3%BAltima+semana&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4r2YIQD5S0wiJLM8D3QoSGRaVxbpqbb7rumhagNEKfs4DZtLO-uOWL9fq29u3hzByj5dlWRfAd72b3a4AG0Bsahft_BSavglMGeI8GETUv2ZLTJLt2FSHptCCEgLlI2dRVoCZRYaq9onxkSwISHEyWxVmdm9KdMqoNbTBUFcwYuknohzqOI8sKgNIneb_drNZMwRGi04S3AJvzoXLl3iAiTChkxz3lpQIJw83jVjjoTZKVYiYgBbZvpyO_c92BERP77R6wTuoYq1mSNw4dT62Cl5TnhdueUO8vaWftF9TD-klhTgHVIJ08qnr1py1eNVRkM4UH3Qd85arBdYIwPDkwcwpQb2aBXs7rBDwAuVeEo-0nkukq6ipN18Bompq5ROdKNNOJvdjauuMuPkg-Y9jgr6-kVv8&chips=date_posted:today&udm=8&sa=X&ved=2ahUKEwiJhMGAo5SXAxU94DQHHT18G58QkbEKegQIHBAE",
+          "serpapi_link": "https://serpapi.com/search.json?chips=date_posted%3Atoday&engine=google_jobs&gl=ar&google_domain=google.com&hl=es&location=Argentina&q=data+en+la+%C3%BAltima+semana&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4r2YIQD5S0wiJLM8D3QoSGRaVxbpqbb7rumhagNEKfs4DZtLO-uOWL9fq29u3hzByj5dlWRfAd72b3a4AG0Bsahft_BSavglMGeI8GETUv2ZLTJLt2FSHptCCEgLlI2dRVoCZRYaq9onxkSwISHEyWxVmdm9KdMqoNbTBUFcwYuknohzqOI8sKgNIneb_drNZMwRGi04S3AJvzoXLl3iAiTChkxz3lpQIJw83jVjjoTZKVYiYgBbZvpyO_c92BERP77R6wTuoYq1mSNw4dT62Cl5TnhdueUO8vaWftF9TD-klhTgHVIJ08qnr1py1eNVRkM4UH3Qd85arBdYIwPDkwcwpQb2aBXs7rBDwAuVeEo-0nkukq6ipN18Bompq5ROdKNNOJvdjauuMuPkg-Y9jgr6-kVv8"
+        },
+        {
+          "name": "Último mes",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4rOXaF_MuSFyN549V3IFM46GeVHzgrxOZlCHeEQecAJHoIvwTtMu0cEpJ70S9GqQR36bsV7eyQHYs17MHqSJSKOZIJBrhcgandieNXiGxgE7TFeJaZhcLwF-UdPp6RsZvAzTepIKplUofgk2QZGt9-LDb8sf2F97DTQWjS_t3n8ZHx7OCSkWlOIM1RreBycAEPTzfvoit_NWInLlKSFCcUKgqIeOSfHdJomdxLpRDMA_aQimrVYFxf470kngpckv0Ll4X0gCE9F-oRkrGqFyN4W2oiSvDlOr1RQJSXTysHB0Zli7DIbzyT_QqlXuIg-gvFuJEB-YZm2iQG5tMqbnyaUESDASL98l6aTFDfSVZjmJOWnxj4JN5yV1RLgTAKNrXzp_YQ0qbhDVSwqLhP66z641ZFYqM",
+            "q": "data en el último mes"
+          },
+          "link": "https://www.google.com/search?sca_esv=d1654259742c7a2c&gl=ar&hl=es&sxsrf=APpeQnscNjuRIGBmJf8hYfeiCG8dmuOE4g:1790701521100&q=data+en+el+%C3%BAltimo+mes&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rOXaF_MuSFyN549V3IFM46GeVHzgrxOZlCHeEQecAJHoIvwTtMu0cEpJ70S9GqQR36bsV7eyQHYs17MHqSJSKOZIJBrhcgandieNXiGxgE7TFeJaZhcLwF-UdPp6RsZvAzTepIKplUofgk2QZGt9-LDb8sf2F97DTQWjS_t3n8ZHx7OCSkWlOIM1RreBycAEPTzfvoit_NWInLlKSFCcUKgqIeOSfHdJomdxLpRDMA_aQimrVYFxf470kngpckv0Ll4X0gCE9F-oRkrGqFyN4W2oiSvDlOr1RQJSXTysHB0Zli7DIbzyT_QqlXuIg-gvFuJEB-YZm2iQG5tMqbnyaUESDASL98l6aTFDfSVZjmJOWnxj4JN5yV1RLgTAKNrXzp_YQ0qbhDVSwqLhP66z641ZFYqM&chips=date_posted:today&udm=8&sa=X&ved=2ahUKEwiJhMGAo5SXAxU94DQHHT18G58QkbEKegQIHBAF",
+          "serpapi_link": "https://serpapi.com/search.json?chips=date_posted%3Atoday&engine=google_jobs&gl=ar&google_domain=google.com&hl=es&location=Argentina&q=data+en+el+%C3%BAltimo+mes&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rOXaF_MuSFyN549V3IFM46GeVHzgrxOZlCHeEQecAJHoIvwTtMu0cEpJ70S9GqQR36bsV7eyQHYs17MHqSJSKOZIJBrhcgandieNXiGxgE7TFeJaZhcLwF-UdPp6RsZvAzTepIKplUofgk2QZGt9-LDb8sf2F97DTQWjS_t3n8ZHx7OCSkWlOIM1RreBycAEPTzfvoit_NWInLlKSFCcUKgqIeOSfHdJomdxLpRDMA_aQimrVYFxf470kngpckv0Ll4X0gCE9F-oRkrGqFyN4W2oiSvDlOr1RQJSXTysHB0Zli7DIbzyT_QqlXuIg-gvFuJEB-YZm2iQG5tMqbnyaUESDASL98l6aTFDfSVZjmJOWnxj4JN5yV1RLgTAKNrXzp_YQ0qbhDVSwqLhP66z641ZFYqM"
+        }
+      ]
+    },
+    {
+      "name": "Tipo de trabajo",
+      "options": [
+        {
+          "name": "Tiempo completo",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4rjdygdj3dMWkENbzHOm63F8EX1DVcI6P4YgHOGSUHh1o0-NTXZe2cTr8nv5rROG0e8otGJwA9ug3_DYQlq7zBByeSNXFux2rpox_G1Y7AvFEnghEek8JOyMrwjUmbWXIAbW68rl3MSJa1exuKqz1v_4_DqUcfNcvyVA6VipgE2p9vR0cE_pux3nDGM4FuUaWQGxP2REqzZ-wrulCTDHJLbUrtk3FEZEXA5j9v-NaIRF2K2kWNXB_NggcV0FIY0QSoJ_3Wnge89sQDP02DV9Fv6JHn5WTOXtgvOjKmQG7kcmkkNH8NdQCEzAuDhD9PeJxT02JTRr5z09hpSBY0fhfEGxs7QoYsAdxMfUwDWdNQjTuKvGya",
+            "q": "data tiempo completo"
+          },
+          "link": "https://www.google.com/search?sca_esv=d1654259742c7a2c&gl=ar&hl=es&sxsrf=APpeQnscNjuRIGBmJf8hYfeiCG8dmuOE4g:1790701521100&q=data+tiempo+completo&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rjdygdj3dMWkENbzHOm63F8EX1DVcI6P4YgHOGSUHh1o0-NTXZe2cTr8nv5rROG0e8otGJwA9ug3_DYQlq7zBByeSNXFux2rpox_G1Y7AvFEnghEek8JOyMrwjUmbWXIAbW68rl3MSJa1exuKqz1v_4_DqUcfNcvyVA6VipgE2p9vR0cE_pux3nDGM4FuUaWQGxP2REqzZ-wrulCTDHJLbUrtk3FEZEXA5j9v-NaIRF2K2kWNXB_NggcV0FIY0QSoJ_3Wnge89sQDP02DV9Fv6JHn5WTOXtgvOjKmQG7kcmkkNH8NdQCEzAuDhD9PeJxT02JTRr5z09hpSBY0fhfEGxs7QoYsAdxMfUwDWdNQjTuKvGya&chips=date_posted:today&udm=8&sa=X&ved=2ahUKEwiJhMGAo5SXAxU94DQHHT18G58QkbEKegQIHRAC",
+          "serpapi_link": "https://serpapi.com/search.json?chips=date_posted%3Atoday&engine=google_jobs&gl=ar&google_domain=google.com&hl=es&location=Argentina&q=data+tiempo+completo&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rjdygdj3dMWkENbzHOm63F8EX1DVcI6P4YgHOGSUHh1o0-NTXZe2cTr8nv5rROG0e8otGJwA9ug3_DYQlq7zBByeSNXFux2rpox_G1Y7AvFEnghEek8JOyMrwjUmbWXIAbW68rl3MSJa1exuKqz1v_4_DqUcfNcvyVA6VipgE2p9vR0cE_pux3nDGM4FuUaWQGxP2REqzZ-wrulCTDHJLbUrtk3FEZEXA5j9v-NaIRF2K2kWNXB_NggcV0FIY0QSoJ_3Wnge89sQDP02DV9Fv6JHn5WTOXtgvOjKmQG7kcmkkNH8NdQCEzAuDhD9PeJxT02JTRr5z09hpSBY0fhfEGxs7QoYsAdxMfUwDWdNQjTuKvGya"
+        },
+        {
+          "name": "Tiempo parcial",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4roShN0sMy5ev2uGhHNkJW5RCgd0tfprgnWAVOyOQK2XPo1aYyWiGDegYVb8MZz2w2tUoPriu2LVeIwOMpIkjG0TkWMuFrn2VgIdF9B5XkdZb7aUBewWWf6BZSbKa2hMnPylpBptZycm05Ru5uHfBLbuR_Yxb0SQbVGn1K1MAB-Vahrw8e6bpO3u79HdwWOdAtqXsN5c4sygDCDwZ7J9-2WjNyAIJ4x9BZ7PFG7gs_kNI_ahv_iMcI4FrXXbfW0Tzg3SB4N3JSXKszRf4Pp-SZH-Ksfks8xW1DpNaPFnb8R_f33n8ZqNziv_IlNcGdEvpJCUunYiNIbd9y5_f4GEoauH25Z4QbrRHGX0hhBmhv4MTrsB9B",
+            "q": "data tiempo parcial"
+          },
+          "link": "https://www.google.com/search?sca_esv=d1654259742c7a2c&gl=ar&hl=es&sxsrf=APpeQnscNjuRIGBmJf8hYfeiCG8dmuOE4g:1790701521100&q=data+tiempo+parcial&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4roShN0sMy5ev2uGhHNkJW5RCgd0tfprgnWAVOyOQK2XPo1aYyWiGDegYVb8MZz2w2tUoPriu2LVeIwOMpIkjG0TkWMuFrn2VgIdF9B5XkdZb7aUBewWWf6BZSbKa2hMnPylpBptZycm05Ru5uHfBLbuR_Yxb0SQbVGn1K1MAB-Vahrw8e6bpO3u79HdwWOdAtqXsN5c4sygDCDwZ7J9-2WjNyAIJ4x9BZ7PFG7gs_kNI_ahv_iMcI4FrXXbfW0Tzg3SB4N3JSXKszRf4Pp-SZH-Ksfks8xW1DpNaPFnb8R_f33n8ZqNziv_IlNcGdEvpJCUunYiNIbd9y5_f4GEoauH25Z4QbrRHGX0hhBmhv4MTrsB9B&chips=date_posted:today&udm=8&sa=X&ved=2ahUKEwiJhMGAo5SXAxU94DQHHT18G58QkbEKegQIHRAD",
+          "serpapi_link": "https://serpapi.com/search.json?chips=date_posted%3Atoday&engine=google_jobs&gl=ar&google_domain=google.com&hl=es&location=Argentina&q=data+tiempo+parcial&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4roShN0sMy5ev2uGhHNkJW5RCgd0tfprgnWAVOyOQK2XPo1aYyWiGDegYVb8MZz2w2tUoPriu2LVeIwOMpIkjG0TkWMuFrn2VgIdF9B5XkdZb7aUBewWWf6BZSbKa2hMnPylpBptZycm05Ru5uHfBLbuR_Yxb0SQbVGn1K1MAB-Vahrw8e6bpO3u79HdwWOdAtqXsN5c4sygDCDwZ7J9-2WjNyAIJ4x9BZ7PFG7gs_kNI_ahv_iMcI4FrXXbfW0Tzg3SB4N3JSXKszRf4Pp-SZH-Ksfks8xW1DpNaPFnb8R_f33n8ZqNziv_IlNcGdEvpJCUunYiNIbd9y5_f4GEoauH25Z4QbrRHGX0hhBmhv4MTrsB9B"
+        },
+        {
+          "name": "Con contrato",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4rcyAXw0LNf4_5_PJXENkvOnC4Q0N9yVeDMIrYrPpQ-wl1RE5Aux_HmlkGKgkmty5RSa1jgF6lExqLxkJh4MkVAwxBnzapqo-awf74ZKkpAXFpLz91L0JwA3ovUuoCry2SAzl5kKyzzmGhO6bw4ZniyupO2-1o1WC4b9w1TZyBB7pbBMpLmfvhPoqL8FF8zYFhmkSDEXxvIMeqhKr3KyGIj3JDg5C1es_rbhbTxxmiKmqYZxTSeNgDmLU8kAMfw3hSW0pb21kkfUsUkCVo-b0osq_es2S8jT3heRjifoSTW5HbajKeG0VvN_Hwcl85RjHRftcR3JoUcgt4KvcTVVQT1nB3K0IXiWsGYe2XO3bc74rNpSLyKqx7rN0sm1NSqDpCb6Z3aQ",
+            "q": "data con contrato"
+          },
+          "link": "https://www.google.com/search?sca_esv=d1654259742c7a2c&gl=ar&hl=es&sxsrf=APpeQnscNjuRIGBmJf8hYfeiCG8dmuOE4g:1790701521100&q=data+con+contrato&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rcyAXw0LNf4_5_PJXENkvOnC4Q0N9yVeDMIrYrPpQ-wl1RE5Aux_HmlkGKgkmty5RSa1jgF6lExqLxkJh4MkVAwxBnzapqo-awf74ZKkpAXFpLz91L0JwA3ovUuoCry2SAzl5kKyzzmGhO6bw4ZniyupO2-1o1WC4b9w1TZyBB7pbBMpLmfvhPoqL8FF8zYFhmkSDEXxvIMeqhKr3KyGIj3JDg5C1es_rbhbTxxmiKmqYZxTSeNgDmLU8kAMfw3hSW0pb21kkfUsUkCVo-b0osq_es2S8jT3heRjifoSTW5HbajKeG0VvN_Hwcl85RjHRftcR3JoUcgt4KvcTVVQT1nB3K0IXiWsGYe2XO3bc74rNpSLyKqx7rN0sm1NSqDpCb6Z3aQ&chips=date_posted:today&udm=8&sa=X&ved=2ahUKEwiJhMGAo5SXAxU94DQHHT18G58QkbEKegQIHRAE",
+          "serpapi_link": "https://serpapi.com/search.json?chips=date_posted%3Atoday&engine=google_jobs&gl=ar&google_domain=google.com&hl=es&location=Argentina&q=data+con+contrato&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rcyAXw0LNf4_5_PJXENkvOnC4Q0N9yVeDMIrYrPpQ-wl1RE5Aux_HmlkGKgkmty5RSa1jgF6lExqLxkJh4MkVAwxBnzapqo-awf74ZKkpAXFpLz91L0JwA3ovUuoCry2SAzl5kKyzzmGhO6bw4ZniyupO2-1o1WC4b9w1TZyBB7pbBMpLmfvhPoqL8FF8zYFhmkSDEXxvIMeqhKr3KyGIj3JDg5C1es_rbhbTxxmiKmqYZxTSeNgDmLU8kAMfw3hSW0pb21kkfUsUkCVo-b0osq_es2S8jT3heRjifoSTW5HbajKeG0VvN_Hwcl85RjHRftcR3JoUcgt4KvcTVVQT1nB3K0IXiWsGYe2XO3bc74rNpSLyKqx7rN0sm1NSqDpCb6Z3aQ"
+        },
+        {
+          "name": "Prácticas",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4rQWouZWAncMJhilUr0mvKMZx1vJUP9CFw97uB5teJZfYDGk9E1cVvvLLIPSKbKIjhN_0QCyZetT3wJpb_IG-lG4nKLXNmy3X5NKvwndVFKsheF0Pv0xgj3vdOi2zQHO5pseQlSixOwOl2CZcwJot9c-qlFLxKBXFNQv4lT6oTlbjkxcr5Cz_y5dxispP_3_N4ycRgcqOkuxoXL66QFDUAzX6Spw-XOZs28Dh_ik8oe-bptFVUHUvYi2QU1h1Da2nZNc-kdbcelb5TC14Du3Y8YFMu_dxNLONQBUAC5ld_Hi5uP_QgTpk8I1JLhZ3ujCF1Jaul72stKMW9ulBDyoLanwhhPsOPt-WeQLHGtEISR1tTzff9",
+            "q": "data prácticas"
+          },
+          "link": "https://www.google.com/search?sca_esv=d1654259742c7a2c&gl=ar&hl=es&sxsrf=APpeQnscNjuRIGBmJf8hYfeiCG8dmuOE4g:1790701521100&q=data+pr%C3%A1cticas&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rQWouZWAncMJhilUr0mvKMZx1vJUP9CFw97uB5teJZfYDGk9E1cVvvLLIPSKbKIjhN_0QCyZetT3wJpb_IG-lG4nKLXNmy3X5NKvwndVFKsheF0Pv0xgj3vdOi2zQHO5pseQlSixOwOl2CZcwJot9c-qlFLxKBXFNQv4lT6oTlbjkxcr5Cz_y5dxispP_3_N4ycRgcqOkuxoXL66QFDUAzX6Spw-XOZs28Dh_ik8oe-bptFVUHUvYi2QU1h1Da2nZNc-kdbcelb5TC14Du3Y8YFMu_dxNLONQBUAC5ld_Hi5uP_QgTpk8I1JLhZ3ujCF1Jaul72stKMW9ulBDyoLanwhhPsOPt-WeQLHGtEISR1tTzff9&chips=date_posted:today&udm=8&sa=X&ved=2ahUKEwiJhMGAo5SXAxU94DQHHT18G58QkbEKegQIHRAF",
+          "serpapi_link": "https://serpapi.com/search.json?chips=date_posted%3Atoday&engine=google_jobs&gl=ar&google_domain=google.com&hl=es&location=Argentina&q=data+pr%C3%A1cticas&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rQWouZWAncMJhilUr0mvKMZx1vJUP9CFw97uB5teJZfYDGk9E1cVvvLLIPSKbKIjhN_0QCyZetT3wJpb_IG-lG4nKLXNmy3X5NKvwndVFKsheF0Pv0xgj3vdOi2zQHO5pseQlSixOwOl2CZcwJot9c-qlFLxKBXFNQv4lT6oTlbjkxcr5Cz_y5dxispP_3_N4ycRgcqOkuxoXL66QFDUAzX6Spw-XOZs28Dh_ik8oe-bptFVUHUvYi2QU1h1Da2nZNc-kdbcelb5TC14Du3Y8YFMu_dxNLONQBUAC5ld_Hi5uP_QgTpk8I1JLhZ3ujCF1Jaul72stKMW9ulBDyoLanwhhPsOPt-WeQLHGtEISR1tTzff9"
+        }
+      ]
+    },
+    {
+      "name": "Tipo de trabajo",
+      "options": [
+        {
+          "name": "Tiempo completo",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4rjdygdj3dMWkENbzHOm63F8EX1DVcI6P4YgHOGSUHh1o0-NTXZe2cTr8nv5rROG0e8otGJwA9ug3_DYQlq7zBByeSNXFux2rpox_G1Y7AvFEnghEek8JOyMrwjUmbWXIAbW68rl3MSJa1exuKqz1v_4_DqUcfNcvyVA6VipgE2p9vR0cE_pux3nDGM4FuUaWQGxP2REqzZ-wrulCTDHJLbUrtk3FEZEXA5j9v-NaIRF2K2kWNXB_NggcV0FIY0QSoJ_3Wnge89sQDP02DV9Fv6JHn5WTOXtgvOjKmQG7kcmkkNH8NdQCEzAuDhD9PeJxT02JTRr5z09hpSBY0fhfEGxs7QoYsAdxMfUwDWdNQjTuKvGya",
+            "q": "data tiempo completo"
+          },
+          "link": "https://www.google.com/search?sca_esv=d1654259742c7a2c&gl=ar&hl=es&sxsrf=APpeQnscNjuRIGBmJf8hYfeiCG8dmuOE4g:1790701521100&q=data+tiempo+completo&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rjdygdj3dMWkENbzHOm63F8EX1DVcI6P4YgHOGSUHh1o0-NTXZe2cTr8nv5rROG0e8otGJwA9ug3_DYQlq7zBByeSNXFux2rpox_G1Y7AvFEnghEek8JOyMrwjUmbWXIAbW68rl3MSJa1exuKqz1v_4_DqUcfNcvyVA6VipgE2p9vR0cE_pux3nDGM4FuUaWQGxP2REqzZ-wrulCTDHJLbUrtk3FEZEXA5j9v-NaIRF2K2kWNXB_NggcV0FIY0QSoJ_3Wnge89sQDP02DV9Fv6JHn5WTOXtgvOjKmQG7kcmkkNH8NdQCEzAuDhD9PeJxT02JTRr5z09hpSBY0fhfEGxs7QoYsAdxMfUwDWdNQjTuKvGya&chips=date_posted:today&udm=8&sa=X&ved=2ahUKEwiJhMGAo5SXAxU94DQHHT18G58QkbEKegQIHRAC",
+          "serpapi_link": "https://serpapi.com/search.json?chips=date_posted%3Atoday&engine=google_jobs&gl=ar&google_domain=google.com&hl=es&location=Argentina&q=data+tiempo+completo&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rjdygdj3dMWkENbzHOm63F8EX1DVcI6P4YgHOGSUHh1o0-NTXZe2cTr8nv5rROG0e8otGJwA9ug3_DYQlq7zBByeSNXFux2rpox_G1Y7AvFEnghEek8JOyMrwjUmbWXIAbW68rl3MSJa1exuKqz1v_4_DqUcfNcvyVA6VipgE2p9vR0cE_pux3nDGM4FuUaWQGxP2REqzZ-wrulCTDHJLbUrtk3FEZEXA5j9v-NaIRF2K2kWNXB_NggcV0FIY0QSoJ_3Wnge89sQDP02DV9Fv6JHn5WTOXtgvOjKmQG7kcmkkNH8NdQCEzAuDhD9PeJxT02JTRr5z09hpSBY0fhfEGxs7QoYsAdxMfUwDWdNQjTuKvGya"
+        },
+        {
+          "name": "Tiempo parcial",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4roShN0sMy5ev2uGhHNkJW5RCgd0tfprgnWAVOyOQK2XPo1aYyWiGDegYVb8MZz2w2tUoPriu2LVeIwOMpIkjG0TkWMuFrn2VgIdF9B5XkdZb7aUBewWWf6BZSbKa2hMnPylpBptZycm05Ru5uHfBLbuR_Yxb0SQbVGn1K1MAB-Vahrw8e6bpO3u79HdwWOdAtqXsN5c4sygDCDwZ7J9-2WjNyAIJ4x9BZ7PFG7gs_kNI_ahv_iMcI4FrXXbfW0Tzg3SB4N3JSXKszRf4Pp-SZH-Ksfks8xW1DpNaPFnb8R_f33n8ZqNziv_IlNcGdEvpJCUunYiNIbd9y5_f4GEoauH25Z4QbrRHGX0hhBmhv4MTrsB9B",
+            "q": "data tiempo parcial"
+          },
+          "link": "https://www.google.com/search?sca_esv=d1654259742c7a2c&gl=ar&hl=es&sxsrf=APpeQnscNjuRIGBmJf8hYfeiCG8dmuOE4g:1790701521100&q=data+tiempo+parcial&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4roShN0sMy5ev2uGhHNkJW5RCgd0tfprgnWAVOyOQK2XPo1aYyWiGDegYVb8MZz2w2tUoPriu2LVeIwOMpIkjG0TkWMuFrn2VgIdF9B5XkdZb7aUBewWWf6BZSbKa2hMnPylpBptZycm05Ru5uHfBLbuR_Yxb0SQbVGn1K1MAB-Vahrw8e6bpO3u79HdwWOdAtqXsN5c4sygDCDwZ7J9-2WjNyAIJ4x9BZ7PFG7gs_kNI_ahv_iMcI4FrXXbfW0Tzg3SB4N3JSXKszRf4Pp-SZH-Ksfks8xW1DpNaPFnb8R_f33n8ZqNziv_IlNcGdEvpJCUunYiNIbd9y5_f4GEoauH25Z4QbrRHGX0hhBmhv4MTrsB9B&chips=date_posted:today&udm=8&sa=X&ved=2ahUKEwiJhMGAo5SXAxU94DQHHT18G58QkbEKegQIHRAD",
+          "serpapi_link": "https://serpapi.com/search.json?chips=date_posted%3Atoday&engine=google_jobs&gl=ar&google_domain=google.com&hl=es&location=Argentina&q=data+tiempo+parcial&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4roShN0sMy5ev2uGhHNkJW5RCgd0tfprgnWAVOyOQK2XPo1aYyWiGDegYVb8MZz2w2tUoPriu2LVeIwOMpIkjG0TkWMuFrn2VgIdF9B5XkdZb7aUBewWWf6BZSbKa2hMnPylpBptZycm05Ru5uHfBLbuR_Yxb0SQbVGn1K1MAB-Vahrw8e6bpO3u79HdwWOdAtqXsN5c4sygDCDwZ7J9-2WjNyAIJ4x9BZ7PFG7gs_kNI_ahv_iMcI4FrXXbfW0Tzg3SB4N3JSXKszRf4Pp-SZH-Ksfks8xW1DpNaPFnb8R_f33n8ZqNziv_IlNcGdEvpJCUunYiNIbd9y5_f4GEoauH25Z4QbrRHGX0hhBmhv4MTrsB9B"
+        },
+        {
+          "name": "Con contrato",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4rcyAXw0LNf4_5_PJXENkvOnC4Q0N9yVeDMIrYrPpQ-wl1RE5Aux_HmlkGKgkmty5RSa1jgF6lExqLxkJh4MkVAwxBnzapqo-awf74ZKkpAXFpLz91L0JwA3ovUuoCry2SAzl5kKyzzmGhO6bw4ZniyupO2-1o1WC4b9w1TZyBB7pbBMpLmfvhPoqL8FF8zYFhmkSDEXxvIMeqhKr3KyGIj3JDg5C1es_rbhbTxxmiKmqYZxTSeNgDmLU8kAMfw3hSW0pb21kkfUsUkCVo-b0osq_es2S8jT3heRjifoSTW5HbajKeG0VvN_Hwcl85RjHRftcR3JoUcgt4KvcTVVQT1nB3K0IXiWsGYe2XO3bc74rNpSLyKqx7rN0sm1NSqDpCb6Z3aQ",
+            "q": "data con contrato"
+          },
+          "link": "https://www.google.com/search?sca_esv=d1654259742c7a2c&gl=ar&hl=es&sxsrf=APpeQnscNjuRIGBmJf8hYfeiCG8dmuOE4g:1790701521100&q=data+con+contrato&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rcyAXw0LNf4_5_PJXENkvOnC4Q0N9yVeDMIrYrPpQ-wl1RE5Aux_HmlkGKgkmty5RSa1jgF6lExqLxkJh4MkVAwxBnzapqo-awf74ZKkpAXFpLz91L0JwA3ovUuoCry2SAzl5kKyzzmGhO6bw4ZniyupO2-1o1WC4b9w1TZyBB7pbBMpLmfvhPoqL8FF8zYFhmkSDEXxvIMeqhKr3KyGIj3JDg5C1es_rbhbTxxmiKmqYZxTSeNgDmLU8kAMfw3hSW0pb21kkfUsUkCVo-b0osq_es2S8jT3heRjifoSTW5HbajKeG0VvN_Hwcl85RjHRftcR3JoUcgt4KvcTVVQT1nB3K0IXiWsGYe2XO3bc74rNpSLyKqx7rN0sm1NSqDpCb6Z3aQ&chips=date_posted:today&udm=8&sa=X&ved=2ahUKEwiJhMGAo5SXAxU94DQHHT18G58QkbEKegQIHRAE",
+          "serpapi_link": "https://serpapi.com/search.json?chips=date_posted%3Atoday&engine=google_jobs&gl=ar&google_domain=google.com&hl=es&location=Argentina&q=data+con+contrato&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rcyAXw0LNf4_5_PJXENkvOnC4Q0N9yVeDMIrYrPpQ-wl1RE5Aux_HmlkGKgkmty5RSa1jgF6lExqLxkJh4MkVAwxBnzapqo-awf74ZKkpAXFpLz91L0JwA3ovUuoCry2SAzl5kKyzzmGhO6bw4ZniyupO2-1o1WC4b9w1TZyBB7pbBMpLmfvhPoqL8FF8zYFhmkSDEXxvIMeqhKr3KyGIj3JDg5C1es_rbhbTxxmiKmqYZxTSeNgDmLU8kAMfw3hSW0pb21kkfUsUkCVo-b0osq_es2S8jT3heRjifoSTW5HbajKeG0VvN_Hwcl85RjHRftcR3JoUcgt4KvcTVVQT1nB3K0IXiWsGYe2XO3bc74rNpSLyKqx7rN0sm1NSqDpCb6Z3aQ"
+        },
+        {
+          "name": "Prácticas",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4rQWouZWAncMJhilUr0mvKMZx1vJUP9CFw97uB5teJZfYDGk9E1cVvvLLIPSKbKIjhN_0QCyZetT3wJpb_IG-lG4nKLXNmy3X5NKvwndVFKsheF0Pv0xgj3vdOi2zQHO5pseQlSixOwOl2CZcwJot9c-qlFLxKBXFNQv4lT6oTlbjkxcr5Cz_y5dxispP_3_N4ycRgcqOkuxoXL66QFDUAzX6Spw-XOZs28Dh_ik8oe-bptFVUHUvYi2QU1h1Da2nZNc-kdbcelb5TC14Du3Y8YFMu_dxNLONQBUAC5ld_Hi5uP_QgTpk8I1JLhZ3ujCF1Jaul72stKMW9ulBDyoLanwhhPsOPt-WeQLHGtEISR1tTzff9",
+            "q": "data prácticas"
+          },
+          "link": "https://www.google.com/search?sca_esv=d1654259742c7a2c&gl=ar&hl=es&sxsrf=APpeQnscNjuRIGBmJf8hYfeiCG8dmuOE4g:1790701521100&q=data+pr%C3%A1cticas&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rQWouZWAncMJhilUr0mvKMZx1vJUP9CFw97uB5teJZfYDGk9E1cVvvLLIPSKbKIjhN_0QCyZetT3wJpb_IG-lG4nKLXNmy3X5NKvwndVFKsheF0Pv0xgj3vdOi2zQHO5pseQlSixOwOl2CZcwJot9c-qlFLxKBXFNQv4lT6oTlbjkxcr5Cz_y5dxispP_3_N4ycRgcqOkuxoXL66QFDUAzX6Spw-XOZs28Dh_ik8oe-bptFVUHUvYi2QU1h1Da2nZNc-kdbcelb5TC14Du3Y8YFMu_dxNLONQBUAC5ld_Hi5uP_QgTpk8I1JLhZ3ujCF1Jaul72stKMW9ulBDyoLanwhhPsOPt-WeQLHGtEISR1tTzff9&chips=date_posted:today&udm=8&sa=X&ved=2ahUKEwiJhMGAo5SXAxU94DQHHT18G58QkbEKegQIHRAF",
+          "serpapi_link": "https://serpapi.com/search.json?chips=date_posted%3Atoday&engine=google_jobs&gl=ar&google_domain=google.com&hl=es&location=Argentina&q=data+pr%C3%A1cticas&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rQWouZWAncMJhilUr0mvKMZx1vJUP9CFw97uB5teJZfYDGk9E1cVvvLLIPSKbKIjhN_0QCyZetT3wJpb_IG-lG4nKLXNmy3X5NKvwndVFKsheF0Pv0xgj3vdOi2zQHO5pseQlSixOwOl2CZcwJot9c-qlFLxKBXFNQv4lT6oTlbjkxcr5Cz_y5dxispP_3_N4ycRgcqOkuxoXL66QFDUAzX6Spw-XOZs28Dh_ik8oe-bptFVUHUvYi2QU1h1Da2nZNc-kdbcelb5TC14Du3Y8YFMu_dxNLONQBUAC5ld_Hi5uP_QgTpk8I1JLhZ3ujCF1Jaul72stKMW9ulBDyoLanwhhPsOPt-WeQLHGtEISR1tTzff9"
+        }
+      ]
+    },
+    {
+      "name": "Fecha de publicación",
+      "options": [
+        {
+          "name": "Ayer",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4rVVNivViyVtms2aJvUHdkkE4a8KWRLPsTTxhYwY24-bnxYHnZGWvtIeTvwBFxR3ODKU3cVf9zm2d9O3uLwIfpF-kOhYup1_6IXwDrqkY_XccYisK-LvGb5H3XBXewxHueem3Kc_ScrAco0vjUIwApKmBS0v5B_eGe_BrkEdVdqHf_FbPXMPT81tOn1Bs3AZiXFH6yyQMnkahOI9jlCLML7ccJUN2kOAwDAGV5d6F24D7E1mYK4y8JsJ9bgp_lFry0UMjij8blrvXG1KCQ-ahxOmmEQfS5UWXEsEsgQKRprNvunT6sFJxtAm8i_UWIedjN_DiFmuvnvrw7myZ_bGf4LNGBpQMNS8DdYKYEMVsN-lt523A6NfWueno51uBjYSOG9OE72DHIrhEQbNT17v6A-WB0hDo",
+            "q": "data desde ayer"
+          },
+          "link": "https://www.google.com/search?sca_esv=d1654259742c7a2c&gl=ar&hl=es&sxsrf=APpeQnscNjuRIGBmJf8hYfeiCG8dmuOE4g:1790701521100&q=data+desde+ayer&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rVVNivViyVtms2aJvUHdkkE4a8KWRLPsTTxhYwY24-bnxYHnZGWvtIeTvwBFxR3ODKU3cVf9zm2d9O3uLwIfpF-kOhYup1_6IXwDrqkY_XccYisK-LvGb5H3XBXewxHueem3Kc_ScrAco0vjUIwApKmBS0v5B_eGe_BrkEdVdqHf_FbPXMPT81tOn1Bs3AZiXFH6yyQMnkahOI9jlCLML7ccJUN2kOAwDAGV5d6F24D7E1mYK4y8JsJ9bgp_lFry0UMjij8blrvXG1KCQ-ahxOmmEQfS5UWXEsEsgQKRprNvunT6sFJxtAm8i_UWIedjN_DiFmuvnvrw7myZ_bGf4LNGBpQMNS8DdYKYEMVsN-lt523A6NfWueno51uBjYSOG9OE72DHIrhEQbNT17v6A-WB0hDo&chips=date_posted:today&udm=8&sa=X&ved=2ahUKEwiJhMGAo5SXAxU94DQHHT18G58QkbEKegQIHhAC",
+          "serpapi_link": "https://serpapi.com/search.json?chips=date_posted%3Atoday&engine=google_jobs&gl=ar&google_domain=google.com&hl=es&location=Argentina&q=data+desde+ayer&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rVVNivViyVtms2aJvUHdkkE4a8KWRLPsTTxhYwY24-bnxYHnZGWvtIeTvwBFxR3ODKU3cVf9zm2d9O3uLwIfpF-kOhYup1_6IXwDrqkY_XccYisK-LvGb5H3XBXewxHueem3Kc_ScrAco0vjUIwApKmBS0v5B_eGe_BrkEdVdqHf_FbPXMPT81tOn1Bs3AZiXFH6yyQMnkahOI9jlCLML7ccJUN2kOAwDAGV5d6F24D7E1mYK4y8JsJ9bgp_lFry0UMjij8blrvXG1KCQ-ahxOmmEQfS5UWXEsEsgQKRprNvunT6sFJxtAm8i_UWIedjN_DiFmuvnvrw7myZ_bGf4LNGBpQMNS8DdYKYEMVsN-lt523A6NfWueno51uBjYSOG9OE72DHIrhEQbNT17v6A-WB0hDo"
+        },
+        {
+          "name": "Últimos 3 días",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4rFzaqi6X-nLhHx30s6Z1rK_dgzWPQX_ilnTMyaFGrP58rULEpvJMG150qlUkNVSimv7uDSBtY6lAbgvQz-nSzv6swR3dNrZ4CA5hfE1TD5Dfm7vHBmaV_MMTYtGKaIE83udImVfiCx79rwFFxQG5H021V_TJ2Jt_IT9KKEQloJ4FAOfgZSCYWRO5uOt7ALWFl_YI_1Gcsv3Xh2lbhD1JqRno9M2nzXE-qj6fZ6bP-bWwcPb0V5UMrPGzpM0UhnaDpRi2dK2sC_nhL4wbwXMkvLKwQFtzyRksyDnse46Ih9hc0TmKpTN9A0_yz1QGWTbIqwzUhZPv6-x5my20PXcgiHrGyseKElN-xeElIWIAU6BxldeefVeXlmyFQCfbIMJkIAx8wr0PLdEXTt06QykEUz-MS01Q",
+            "q": "data en los últimos 3 días"
+          },
+          "link": "https://www.google.com/search?sca_esv=d1654259742c7a2c&gl=ar&hl=es&sxsrf=APpeQnscNjuRIGBmJf8hYfeiCG8dmuOE4g:1790701521100&q=data+en+los+%C3%BAltimos+3+d%C3%ADas&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rFzaqi6X-nLhHx30s6Z1rK_dgzWPQX_ilnTMyaFGrP58rULEpvJMG150qlUkNVSimv7uDSBtY6lAbgvQz-nSzv6swR3dNrZ4CA5hfE1TD5Dfm7vHBmaV_MMTYtGKaIE83udImVfiCx79rwFFxQG5H021V_TJ2Jt_IT9KKEQloJ4FAOfgZSCYWRO5uOt7ALWFl_YI_1Gcsv3Xh2lbhD1JqRno9M2nzXE-qj6fZ6bP-bWwcPb0V5UMrPGzpM0UhnaDpRi2dK2sC_nhL4wbwXMkvLKwQFtzyRksyDnse46Ih9hc0TmKpTN9A0_yz1QGWTbIqwzUhZPv6-x5my20PXcgiHrGyseKElN-xeElIWIAU6BxldeefVeXlmyFQCfbIMJkIAx8wr0PLdEXTt06QykEUz-MS01Q&chips=date_posted:today&udm=8&sa=X&ved=2ahUKEwiJhMGAo5SXAxU94DQHHT18G58QkbEKegQIHhAD",
+          "serpapi_link": "https://serpapi.com/search.json?chips=date_posted%3Atoday&engine=google_jobs&gl=ar&google_domain=google.com&hl=es&location=Argentina&q=data+en+los+%C3%BAltimos+3+d%C3%ADas&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rFzaqi6X-nLhHx30s6Z1rK_dgzWPQX_ilnTMyaFGrP58rULEpvJMG150qlUkNVSimv7uDSBtY6lAbgvQz-nSzv6swR3dNrZ4CA5hfE1TD5Dfm7vHBmaV_MMTYtGKaIE83udImVfiCx79rwFFxQG5H021V_TJ2Jt_IT9KKEQloJ4FAOfgZSCYWRO5uOt7ALWFl_YI_1Gcsv3Xh2lbhD1JqRno9M2nzXE-qj6fZ6bP-bWwcPb0V5UMrPGzpM0UhnaDpRi2dK2sC_nhL4wbwXMkvLKwQFtzyRksyDnse46Ih9hc0TmKpTN9A0_yz1QGWTbIqwzUhZPv6-x5my20PXcgiHrGyseKElN-xeElIWIAU6BxldeefVeXlmyFQCfbIMJkIAx8wr0PLdEXTt06QykEUz-MS01Q"
+        },
+        {
+          "name": "Última semana",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4r2YIQD5S0wiJLM8D3QoSGRaVxbpqbb7rumhagNEKfs4DZtLO-uOWL9fq29u3hzByj5dlWRfAd72b3a4AG0Bsahft_BSavglMGeI8GETUv2ZLTJLt2FSHptCCEgLlI2dRVoCZRYaq9onxkSwISHEyWxVmdm9KdMqoNbTBUFcwYuknohzqOI8sKgNIneb_drNZMwRGi04S3AJvzoXLl3iAiTChkxz3lpQIJw83jVjjoTZKVYiYgBbZvpyO_c92BERP77R6wTuoYq1mSNw4dT62Cl5TnhdueUO8vaWftF9TD-klhTgHVIJ08qnr1py1eNVRkM4UH3Qd85arBdYIwPDkwcwpQb2aBXs7rBDwAuVeEo-0nkukq6ipN18Bompq5ROdKNNOJvdjauuMuPkg-Y9jgr6-kVv8",
+            "q": "data en la última semana"
+          },
+          "link": "https://www.google.com/search?sca_esv=d1654259742c7a2c&gl=ar&hl=es&sxsrf=APpeQnscNjuRIGBmJf8hYfeiCG8dmuOE4g:1790701521100&q=data+en+la+%C3%BAltima+semana&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4r2YIQD5S0wiJLM8D3QoSGRaVxbpqbb7rumhagNEKfs4DZtLO-uOWL9fq29u3hzByj5dlWRfAd72b3a4AG0Bsahft_BSavglMGeI8GETUv2ZLTJLt2FSHptCCEgLlI2dRVoCZRYaq9onxkSwISHEyWxVmdm9KdMqoNbTBUFcwYuknohzqOI8sKgNIneb_drNZMwRGi04S3AJvzoXLl3iAiTChkxz3lpQIJw83jVjjoTZKVYiYgBbZvpyO_c92BERP77R6wTuoYq1mSNw4dT62Cl5TnhdueUO8vaWftF9TD-klhTgHVIJ08qnr1py1eNVRkM4UH3Qd85arBdYIwPDkwcwpQb2aBXs7rBDwAuVeEo-0nkukq6ipN18Bompq5ROdKNNOJvdjauuMuPkg-Y9jgr6-kVv8&chips=date_posted:today&udm=8&sa=X&ved=2ahUKEwiJhMGAo5SXAxU94DQHHT18G58QkbEKegQIHhAE",
+          "serpapi_link": "https://serpapi.com/search.json?chips=date_posted%3Atoday&engine=google_jobs&gl=ar&google_domain=google.com&hl=es&location=Argentina&q=data+en+la+%C3%BAltima+semana&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4r2YIQD5S0wiJLM8D3QoSGRaVxbpqbb7rumhagNEKfs4DZtLO-uOWL9fq29u3hzByj5dlWRfAd72b3a4AG0Bsahft_BSavglMGeI8GETUv2ZLTJLt2FSHptCCEgLlI2dRVoCZRYaq9onxkSwISHEyWxVmdm9KdMqoNbTBUFcwYuknohzqOI8sKgNIneb_drNZMwRGi04S3AJvzoXLl3iAiTChkxz3lpQIJw83jVjjoTZKVYiYgBbZvpyO_c92BERP77R6wTuoYq1mSNw4dT62Cl5TnhdueUO8vaWftF9TD-klhTgHVIJ08qnr1py1eNVRkM4UH3Qd85arBdYIwPDkwcwpQb2aBXs7rBDwAuVeEo-0nkukq6ipN18Bompq5ROdKNNOJvdjauuMuPkg-Y9jgr6-kVv8"
+        },
+        {
+          "name": "Último mes",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4rOXaF_MuSFyN549V3IFM46GeVHzgrxOZlCHeEQecAJHoIvwTtMu0cEpJ70S9GqQR36bsV7eyQHYs17MHqSJSKOZIJBrhcgandieNXiGxgE7TFeJaZhcLwF-UdPp6RsZvAzTepIKplUofgk2QZGt9-LDb8sf2F97DTQWjS_t3n8ZHx7OCSkWlOIM1RreBycAEPTzfvoit_NWInLlKSFCcUKgqIeOSfHdJomdxLpRDMA_aQimrVYFxf470kngpckv0Ll4X0gCE9F-oRkrGqFyN4W2oiSvDlOr1RQJSXTysHB0Zli7DIbzyT_QqlXuIg-gvFuJEB-YZm2iQG5tMqbnyaUESDASL98l6aTFDfSVZjmJOWnxj4JN5yV1RLgTAKNrXzp_YQ0qbhDVSwqLhP66z641ZFYqM",
+            "q": "data en el último mes"
+          },
+          "link": "https://www.google.com/search?sca_esv=d1654259742c7a2c&gl=ar&hl=es&sxsrf=APpeQnscNjuRIGBmJf8hYfeiCG8dmuOE4g:1790701521100&q=data+en+el+%C3%BAltimo+mes&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rOXaF_MuSFyN549V3IFM46GeVHzgrxOZlCHeEQecAJHoIvwTtMu0cEpJ70S9GqQR36bsV7eyQHYs17MHqSJSKOZIJBrhcgandieNXiGxgE7TFeJaZhcLwF-UdPp6RsZvAzTepIKplUofgk2QZGt9-LDb8sf2F97DTQWjS_t3n8ZHx7OCSkWlOIM1RreBycAEPTzfvoit_NWInLlKSFCcUKgqIeOSfHdJomdxLpRDMA_aQimrVYFxf470kngpckv0Ll4X0gCE9F-oRkrGqFyN4W2oiSvDlOr1RQJSXTysHB0Zli7DIbzyT_QqlXuIg-gvFuJEB-YZm2iQG5tMqbnyaUESDASL98l6aTFDfSVZjmJOWnxj4JN5yV1RLgTAKNrXzp_YQ0qbhDVSwqLhP66z641ZFYqM&chips=date_posted:today&udm=8&sa=X&ved=2ahUKEwiJhMGAo5SXAxU94DQHHT18G58QkbEKegQIHhAF",
+          "serpapi_link": "https://serpapi.com/search.json?chips=date_posted%3Atoday&engine=google_jobs&gl=ar&google_domain=google.com&hl=es&location=Argentina&q=data+en+el+%C3%BAltimo+mes&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rOXaF_MuSFyN549V3IFM46GeVHzgrxOZlCHeEQecAJHoIvwTtMu0cEpJ70S9GqQR36bsV7eyQHYs17MHqSJSKOZIJBrhcgandieNXiGxgE7TFeJaZhcLwF-UdPp6RsZvAzTepIKplUofgk2QZGt9-LDb8sf2F97DTQWjS_t3n8ZHx7OCSkWlOIM1RreBycAEPTzfvoit_NWInLlKSFCcUKgqIeOSfHdJomdxLpRDMA_aQimrVYFxf470kngpckv0Ll4X0gCE9F-oRkrGqFyN4W2oiSvDlOr1RQJSXTysHB0Zli7DIbzyT_QqlXuIg-gvFuJEB-YZm2iQG5tMqbnyaUESDASL98l6aTFDfSVZjmJOWnxj4JN5yV1RLgTAKNrXzp_YQ0qbhDVSwqLhP66z641ZFYqM"
+        }
+      ]
+    },
+    {
+      "name": "Fecha de publicación",
+      "options": [
+        {
+          "name": "Ayer",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4rVVNivViyVtms2aJvUHdkkE4a8KWRLPsTTxhYwY24-bnxYHnZGWvtIeTvwBFxR3ODKU3cVf9zm2d9O3uLwIfpF-kOhYup1_6IXwDrqkY_XccYisK-LvGb5H3XBXewxHueem3Kc_ScrAco0vjUIwApKmBS0v5B_eGe_BrkEdVdqHf_FbPXMPT81tOn1Bs3AZiXFH6yyQMnkahOI9jlCLML7ccJUN2kOAwDAGV5d6F24D7E1mYK4y8JsJ9bgp_lFry0UMjij8blrvXG1KCQ-ahxOmmEQfS5UWXEsEsgQKRprNvunT6sFJxtAm8i_UWIedjN_DiFmuvnvrw7myZ_bGf4LNGBpQMNS8DdYKYEMVsN-lt523A6NfWueno51uBjYSOG9OE72DHIrhEQbNT17v6A-WB0hDo",
+            "q": "data desde ayer"
+          },
+          "link": "https://www.google.com/search?sca_esv=d1654259742c7a2c&gl=ar&hl=es&sxsrf=APpeQnscNjuRIGBmJf8hYfeiCG8dmuOE4g:1790701521100&q=data+desde+ayer&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rVVNivViyVtms2aJvUHdkkE4a8KWRLPsTTxhYwY24-bnxYHnZGWvtIeTvwBFxR3ODKU3cVf9zm2d9O3uLwIfpF-kOhYup1_6IXwDrqkY_XccYisK-LvGb5H3XBXewxHueem3Kc_ScrAco0vjUIwApKmBS0v5B_eGe_BrkEdVdqHf_FbPXMPT81tOn1Bs3AZiXFH6yyQMnkahOI9jlCLML7ccJUN2kOAwDAGV5d6F24D7E1mYK4y8JsJ9bgp_lFry0UMjij8blrvXG1KCQ-ahxOmmEQfS5UWXEsEsgQKRprNvunT6sFJxtAm8i_UWIedjN_DiFmuvnvrw7myZ_bGf4LNGBpQMNS8DdYKYEMVsN-lt523A6NfWueno51uBjYSOG9OE72DHIrhEQbNT17v6A-WB0hDo&chips=date_posted:today&udm=8&sa=X&ved=2ahUKEwiJhMGAo5SXAxU94DQHHT18G58QkbEKegQIHhAC",
+          "serpapi_link": "https://serpapi.com/search.json?chips=date_posted%3Atoday&engine=google_jobs&gl=ar&google_domain=google.com&hl=es&location=Argentina&q=data+desde+ayer&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rVVNivViyVtms2aJvUHdkkE4a8KWRLPsTTxhYwY24-bnxYHnZGWvtIeTvwBFxR3ODKU3cVf9zm2d9O3uLwIfpF-kOhYup1_6IXwDrqkY_XccYisK-LvGb5H3XBXewxHueem3Kc_ScrAco0vjUIwApKmBS0v5B_eGe_BrkEdVdqHf_FbPXMPT81tOn1Bs3AZiXFH6yyQMnkahOI9jlCLML7ccJUN2kOAwDAGV5d6F24D7E1mYK4y8JsJ9bgp_lFry0UMjij8blrvXG1KCQ-ahxOmmEQfS5UWXEsEsgQKRprNvunT6sFJxtAm8i_UWIedjN_DiFmuvnvrw7myZ_bGf4LNGBpQMNS8DdYKYEMVsN-lt523A6NfWueno51uBjYSOG9OE72DHIrhEQbNT17v6A-WB0hDo"
+        },
+        {
+          "name": "Últimos 3 días",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4rFzaqi6X-nLhHx30s6Z1rK_dgzWPQX_ilnTMyaFGrP58rULEpvJMG150qlUkNVSimv7uDSBtY6lAbgvQz-nSzv6swR3dNrZ4CA5hfE1TD5Dfm7vHBmaV_MMTYtGKaIE83udImVfiCx79rwFFxQG5H021V_TJ2Jt_IT9KKEQloJ4FAOfgZSCYWRO5uOt7ALWFl_YI_1Gcsv3Xh2lbhD1JqRno9M2nzXE-qj6fZ6bP-bWwcPb0V5UMrPGzpM0UhnaDpRi2dK2sC_nhL4wbwXMkvLKwQFtzyRksyDnse46Ih9hc0TmKpTN9A0_yz1QGWTbIqwzUhZPv6-x5my20PXcgiHrGyseKElN-xeElIWIAU6BxldeefVeXlmyFQCfbIMJkIAx8wr0PLdEXTt06QykEUz-MS01Q",
+            "q": "data en los últimos 3 días"
+          },
+          "link": "https://www.google.com/search?sca_esv=d1654259742c7a2c&gl=ar&hl=es&sxsrf=APpeQnscNjuRIGBmJf8hYfeiCG8dmuOE4g:1790701521100&q=data+en+los+%C3%BAltimos+3+d%C3%ADas&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rFzaqi6X-nLhHx30s6Z1rK_dgzWPQX_ilnTMyaFGrP58rULEpvJMG150qlUkNVSimv7uDSBtY6lAbgvQz-nSzv6swR3dNrZ4CA5hfE1TD5Dfm7vHBmaV_MMTYtGKaIE83udImVfiCx79rwFFxQG5H021V_TJ2Jt_IT9KKEQloJ4FAOfgZSCYWRO5uOt7ALWFl_YI_1Gcsv3Xh2lbhD1JqRno9M2nzXE-qj6fZ6bP-bWwcPb0V5UMrPGzpM0UhnaDpRi2dK2sC_nhL4wbwXMkvLKwQFtzyRksyDnse46Ih9hc0TmKpTN9A0_yz1QGWTbIqwzUhZPv6-x5my20PXcgiHrGyseKElN-xeElIWIAU6BxldeefVeXlmyFQCfbIMJkIAx8wr0PLdEXTt06QykEUz-MS01Q&chips=date_posted:today&udm=8&sa=X&ved=2ahUKEwiJhMGAo5SXAxU94DQHHT18G58QkbEKegQIHhAD",
+          "serpapi_link": "https://serpapi.com/search.json?chips=date_posted%3Atoday&engine=google_jobs&gl=ar&google_domain=google.com&hl=es&location=Argentina&q=data+en+los+%C3%BAltimos+3+d%C3%ADas&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rFzaqi6X-nLhHx30s6Z1rK_dgzWPQX_ilnTMyaFGrP58rULEpvJMG150qlUkNVSimv7uDSBtY6lAbgvQz-nSzv6swR3dNrZ4CA5hfE1TD5Dfm7vHBmaV_MMTYtGKaIE83udImVfiCx79rwFFxQG5H021V_TJ2Jt_IT9KKEQloJ4FAOfgZSCYWRO5uOt7ALWFl_YI_1Gcsv3Xh2lbhD1JqRno9M2nzXE-qj6fZ6bP-bWwcPb0V5UMrPGzpM0UhnaDpRi2dK2sC_nhL4wbwXMkvLKwQFtzyRksyDnse46Ih9hc0TmKpTN9A0_yz1QGWTbIqwzUhZPv6-x5my20PXcgiHrGyseKElN-xeElIWIAU6BxldeefVeXlmyFQCfbIMJkIAx8wr0PLdEXTt06QykEUz-MS01Q"
+        },
+        {
+          "name": "Última semana",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4r2YIQD5S0wiJLM8D3QoSGRaVxbpqbb7rumhagNEKfs4DZtLO-uOWL9fq29u3hzByj5dlWRfAd72b3a4AG0Bsahft_BSavglMGeI8GETUv2ZLTJLt2FSHptCCEgLlI2dRVoCZRYaq9onxkSwISHEyWxVmdm9KdMqoNbTBUFcwYuknohzqOI8sKgNIneb_drNZMwRGi04S3AJvzoXLl3iAiTChkxz3lpQIJw83jVjjoTZKVYiYgBbZvpyO_c92BERP77R6wTuoYq1mSNw4dT62Cl5TnhdueUO8vaWftF9TD-klhTgHVIJ08qnr1py1eNVRkM4UH3Qd85arBdYIwPDkwcwpQb2aBXs7rBDwAuVeEo-0nkukq6ipN18Bompq5ROdKNNOJvdjauuMuPkg-Y9jgr6-kVv8",
+            "q": "data en la última semana"
+          },
+          "link": "https://www.google.com/search?sca_esv=d1654259742c7a2c&gl=ar&hl=es&sxsrf=APpeQnscNjuRIGBmJf8hYfeiCG8dmuOE4g:1790701521100&q=data+en+la+%C3%BAltima+semana&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4r2YIQD5S0wiJLM8D3QoSGRaVxbpqbb7rumhagNEKfs4DZtLO-uOWL9fq29u3hzByj5dlWRfAd72b3a4AG0Bsahft_BSavglMGeI8GETUv2ZLTJLt2FSHptCCEgLlI2dRVoCZRYaq9onxkSwISHEyWxVmdm9KdMqoNbTBUFcwYuknohzqOI8sKgNIneb_drNZMwRGi04S3AJvzoXLl3iAiTChkxz3lpQIJw83jVjjoTZKVYiYgBbZvpyO_c92BERP77R6wTuoYq1mSNw4dT62Cl5TnhdueUO8vaWftF9TD-klhTgHVIJ08qnr1py1eNVRkM4UH3Qd85arBdYIwPDkwcwpQb2aBXs7rBDwAuVeEo-0nkukq6ipN18Bompq5ROdKNNOJvdjauuMuPkg-Y9jgr6-kVv8&chips=date_posted:today&udm=8&sa=X&ved=2ahUKEwiJhMGAo5SXAxU94DQHHT18G58QkbEKegQIHhAE",
+          "serpapi_link": "https://serpapi.com/search.json?chips=date_posted%3Atoday&engine=google_jobs&gl=ar&google_domain=google.com&hl=es&location=Argentina&q=data+en+la+%C3%BAltima+semana&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4r2YIQD5S0wiJLM8D3QoSGRaVxbpqbb7rumhagNEKfs4DZtLO-uOWL9fq29u3hzByj5dlWRfAd72b3a4AG0Bsahft_BSavglMGeI8GETUv2ZLTJLt2FSHptCCEgLlI2dRVoCZRYaq9onxkSwISHEyWxVmdm9KdMqoNbTBUFcwYuknohzqOI8sKgNIneb_drNZMwRGi04S3AJvzoXLl3iAiTChkxz3lpQIJw83jVjjoTZKVYiYgBbZvpyO_c92BERP77R6wTuoYq1mSNw4dT62Cl5TnhdueUO8vaWftF9TD-klhTgHVIJ08qnr1py1eNVRkM4UH3Qd85arBdYIwPDkwcwpQb2aBXs7rBDwAuVeEo-0nkukq6ipN18Bompq5ROdKNNOJvdjauuMuPkg-Y9jgr6-kVv8"
+        },
+        {
+          "name": "Último mes",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4rOXaF_MuSFyN549V3IFM46GeVHzgrxOZlCHeEQecAJHoIvwTtMu0cEpJ70S9GqQR36bsV7eyQHYs17MHqSJSKOZIJBrhcgandieNXiGxgE7TFeJaZhcLwF-UdPp6RsZvAzTepIKplUofgk2QZGt9-LDb8sf2F97DTQWjS_t3n8ZHx7OCSkWlOIM1RreBycAEPTzfvoit_NWInLlKSFCcUKgqIeOSfHdJomdxLpRDMA_aQimrVYFxf470kngpckv0Ll4X0gCE9F-oRkrGqFyN4W2oiSvDlOr1RQJSXTysHB0Zli7DIbzyT_QqlXuIg-gvFuJEB-YZm2iQG5tMqbnyaUESDASL98l6aTFDfSVZjmJOWnxj4JN5yV1RLgTAKNrXzp_YQ0qbhDVSwqLhP66z641ZFYqM",
+            "q": "data en el último mes"
+          },
+          "link": "https://www.google.com/search?sca_esv=d1654259742c7a2c&gl=ar&hl=es&sxsrf=APpeQnscNjuRIGBmJf8hYfeiCG8dmuOE4g:1790701521100&q=data+en+el+%C3%BAltimo+mes&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rOXaF_MuSFyN549V3IFM46GeVHzgrxOZlCHeEQecAJHoIvwTtMu0cEpJ70S9GqQR36bsV7eyQHYs17MHqSJSKOZIJBrhcgandieNXiGxgE7TFeJaZhcLwF-UdPp6RsZvAzTepIKplUofgk2QZGt9-LDb8sf2F97DTQWjS_t3n8ZHx7OCSkWlOIM1RreBycAEPTzfvoit_NWInLlKSFCcUKgqIeOSfHdJomdxLpRDMA_aQimrVYFxf470kngpckv0Ll4X0gCE9F-oRkrGqFyN4W2oiSvDlOr1RQJSXTysHB0Zli7DIbzyT_QqlXuIg-gvFuJEB-YZm2iQG5tMqbnyaUESDASL98l6aTFDfSVZjmJOWnxj4JN5yV1RLgTAKNrXzp_YQ0qbhDVSwqLhP66z641ZFYqM&chips=date_posted:today&udm=8&sa=X&ved=2ahUKEwiJhMGAo5SXAxU94DQHHT18G58QkbEKegQIHhAF",
+          "serpapi_link": "https://serpapi.com/search.json?chips=date_posted%3Atoday&engine=google_jobs&gl=ar&google_domain=google.com&hl=es&location=Argentina&q=data+en+el+%C3%BAltimo+mes&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rOXaF_MuSFyN549V3IFM46GeVHzgrxOZlCHeEQecAJHoIvwTtMu0cEpJ70S9GqQR36bsV7eyQHYs17MHqSJSKOZIJBrhcgandieNXiGxgE7TFeJaZhcLwF-UdPp6RsZvAzTepIKplUofgk2QZGt9-LDb8sf2F97DTQWjS_t3n8ZHx7OCSkWlOIM1RreBycAEPTzfvoit_NWInLlKSFCcUKgqIeOSfHdJomdxLpRDMA_aQimrVYFxf470kngpckv0Ll4X0gCE9F-oRkrGqFyN4W2oiSvDlOr1RQJSXTysHB0Zli7DIbzyT_QqlXuIg-gvFuJEB-YZm2iQG5tMqbnyaUESDASL98l6aTFDfSVZjmJOWnxj4JN5yV1RLgTAKNrXzp_YQ0qbhDVSwqLhP66z641ZFYqM"
+        }
+      ]
+    }
+  ],
+  "jobs_results": [
+    {
+      "title": "Public Policy Economist (AI Training)",
+      "company_name": "Alignerr",
+      "location": "Argentina",
+      "via": "LinkedIn",
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Data+Analyst&htidocid=vY4Nw_xeLhhH1DfZAAAAAA%3D%3D&hl=es-AR&shem=epsd1,esd2e,rimspwouoe&shndl=37&shmd=H4sIAAAAAAAA_xXMoQ7CMBAA0GDnMaiTgFgJCWaoJRCCm8AvbXfpunR3pdcl41f4FCw_BjNPvuK9Ki7NZIK30PDfF1wtE49eMmzrOzyS9uTJ7Sow3488J-w0dAg4xoAMSHBjdgE35z7nKJVSIqF0knX2trQ8KiY0PKuBjSy00uuEMeiM7fF0mMtIbr-ug3eEKS1hnRxS9qR_0di14Z0AAAA&shmds=v1_ARwrE21tFP79k-YlpAi4GLQ0oZ2xuZjPyK4PJM_PzsTZIAvWKA&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Data+Analyst&htidocid=vY4Nw_xeLhhH1DfZAAAAAA%3D%3D",
+      "thumbnail": "https://serpapi.com/searches/6abbefcca7d784d42aecf719/images/5xho1-axjPYpOcuW9DHN_wdgjsjiZAKZAs-quP8JLCc.jpeg",
+      "extensions": [
+        "hace 16 horas",
+        "De US$ 35 a US$ 70 por hora",
+        "Contratista"
+      ],
+      "source_link": "https://ar.linkedin.com/jobs/view/public-policy-economist-ai-training-at-alignerr-4473052435",
+      "job_title": "Public Policy Economist (AI Training)",
+      "description": "About The Role\n\nWe're looking for economists with public policy experience to help shape how AI understands and reasons about real-world policy challenges. Your expertise will directly influence the quality of AI-generated economic analysis — from regulatory frameworks to welfare programs — making a tangible impact on one of the most consequential technologies of our time.\n\nOrganization: Alignerr (Powered by Labelbox)Type: Hourly ContractLocation: RemoteCommitment: 10–40 hours/week\n\nWhat You'll Do\n\nReview and evaluate AI-generated public policy questions, analysis, and economic reasoningAssess content covering regulation, public welfare, fiscal policy, and applied economicsProvide structured, detailed feedback to improve clarity, analytical rigor, and real-world accuracyValidate economic scenarios, tradeoffs, and policy conclusions using your professional judgmentWork independently and asynchronously — on your own schedule\n\nWho You Are\n\n3+ years of experience in public policy, applied economics, or related academic or professional workStrong grasp of policy analysis, economic tradeoffs, and evidence-based reasoningSkilled at critically evaluating written economic arguments and recommendationsClear and thorough written communicator, comfortable providing detailed feedbackSelf-motivated and reliable when working independently\n\nNice to Have\n\nGraduate degree in Economics, Public Policy, or a related fieldProfessional background in government, think tanks, or policy research organizationsFamiliarity with AI systems or content evaluation workflows\n\nWhy Join Us\n\nWork on cutting-edge AI projects with top research labsFully remote and flexible — work when and where it suits youFreelance perks: autonomy, variety, and global collaborationContribute to meaningful work that improves how AI reasons about policy and economicsPotential for ongoing work and contract extension",
+      "apply_options": [
+        {
+          "title": "LinkedIn",
+          "link": "https://ar.linkedin.com/jobs/view/public-policy-economist-ai-training-at-alignerr-4473052435?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "BeBee",
+          "link": "https://bebee.com/ar/jobs/public-policy-economist-ai-training-alignerr--fj-2387257257?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJQdWJsaWMgUG9saWN5IEVjb25vbWlzdCAoQUkgVHJhaW5pbmcpIiwiY29tcGFueV9uYW1lIjoiQWxpZ25lcnIiLCJodGlkb2NpZCI6InZZNE53X3hlTGhoSDFEZlpBQUFBQUE9PSIsInV1bGUiOiJ3K0NBSVFJQ0lKUVhKblpXNTBhVzVoIiwiZ2wiOiJhciIsImhsIjoiZXMiLCJmYyI6IkVzd0JDb3dCUVVwcFZEUjBTVE5ZU2psS2VHRTRSbE00YkhKT1NXaFBVVVkwUld0WlpFY3ljakJDWlhSemVIQmhSSEUwVmxnMmFETXpabGRSVjJ3eFgxUkVXR280ZWtsNVRIUmhTa3BGYjNVemQwSnRPSEI2WTJOVFNHTlpRVEJOTVhnNGRIWk9XV0ZtUzFGcmRYbGhWR2gxZUVKak1ISldlRXRyUVZwaGFESktTbE41Um01UVRGbzVURlI0ZUhjMlpUSVNGekJsTFRkaGMyNVlRbUl6UVRBdGExQjJabXAwTFVGckdpSkJSSE55T1daUk1rb3pWRnB3ZVVwQ09GWk5XbFJoVWtkNlduZFFXRUZRTldkQiIsImZjdiI6IjMiLCJmY19pZCI6InZZNE53X3hlTGhoSDFEZlpBQUFBQUE9PSJ9"
+    },
+    {
+      "title": "Business Owners & Company Executives — Commercial Video Data Collection Partnership (20+ Employees) — Argentina",
+      "company_name": "24 Mag",
+      "location": "Argentina",
+      "via": "BeBee",
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Data+Analyst&htidocid=mVnxrZCH5Ug9lc33AAAAAA%3D%3D&hl=es-AR&shem=epsd1,esd2e,rimspwouoe&shndl=37&shmd=H4sIAAAAAAAA_z3NPU7DQBAFYKVNS0c1FeJHsiMLmlABiVIhqGij8Xq0XrSe2eyMg9NxBsRpaLkJDdfApkjziqen781_Z_OP2X2vgUkVnt6YssIZPEiXkA-wHsj1Fvak8PP-OdUdZRcwwktoSGCFhmMbIzkLwvCM2SaiDQnOq8UVrLsU5UCkF__AXfbEFhiXUH9_6a6nBqEhoHE2csSwEfGRTm9bs6TLslSNhVdDC65w0pXCVMtQvkqtU2y1xUwpotG2ulkMRWJ_eVJdwyP6iTse_gGFfMzO6gAAAA&shmds=v1_ARwrE22964UyDxQS2m1xIbWOMCf3ZZoZ3ut9QSpIS_ZKVj4o1g&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Data+Analyst&htidocid=mVnxrZCH5Ug9lc33AAAAAA%3D%3D",
+      "extensions": [
+        "hace 17 horas",
+        "Pasantía"
+      ],
+      "source_link": "https://bebee.com/ar/jobs/business-owners-company-executives-commercial-video-data-collection-partnership-20-employees-argenti--techmap_ar_V68V3V76",
+      "job_title": "Business Owners & Company Executives — Commercial Video Data Collection Partnership (20+ Employees) — Argentina",
+      "description": "About the job Business Owners & Company Executives — Commercial Video Data Collection Partnership (20 Employees) — Argentina We are sharing a commercial partnership opportunity for business owners and company executives with operational authority over teams performing hands-on, real-world work. Participating organisations will support the collection of first-person video data capturing authentic manual workflows for advanced AI training and evaluation initiatives.\nThis is not an individual employment opportunity. The programme is designed for established businesses with at least 20 employees that can coordinate participating staff, support high-volume video collection, and maintain appropriate privacy, consent, safety, and operational standards throughout the project.\n\n\nPartnership Scope\nWorkplace Video Data Collection\n Facilitate collection of first-person or egocentric video showing authentic work processes Capture real manual activities performed during normal business operations Coordinate contributors using eligible smartphones and wearable phone mounts Ensure recordings reflect genuine commercial environments and practical workflows Support sufficient variety and coverage across relevant workplace activities  Participant & Operational Coordination\n Coordinate groups of employees or professionals participating in data collection Communicate project instructions and recording requirements clearly Support high-volume video submissions across participating teams Help contributors understand expected workflows and quality standards Maintain organised participation throughout active collection periods  Workflow, Safety & Compliance\n Advise on appropriate workflows and operational practices within the business Ensure recording activities remain consistent with workplace safety requirements Support implementation of privacy and consent procedures Identify operational situations that should not be recorded or submitted Maintain appropriate ethical and compliance standards throughout participation  Data Quality & Project Guidelines\n Implement project guidelines across participating teams Encourage consistent recording quality and useful workflow coverage Review recurring challenges affecting video collection Provide feedback on operational issues and potential process improvements Help ensure submitted material accurately represents the underlying activities  Partnership Communication & Delivery\n Coordinate with project stakeholders on goals, expectations, and deliverables Provide regular updates on collection progress and participation Surface operational constraints or challenges promptly Share feedback that can improve collection efficiency and data quality Maintain clear written and verbal communication throughout the partnership  Ideal Company Profile\n Business with at least 20 employees Owner, executive, or operational leader able to authorise company participation Genuine commercial environment involving recurring hands-on or manual activities Ability to coordinate groups of professionals performing practical tasks Access to eligible smartphones and suitable wearable phone mounts Ability to support structured, potentially high-volume video collection Experience managing documented workflows or operational processes Strong internal communication and participant-coordination capabilities Commitment to privacy, consent, workplace safety, and compliance Previous participation in research, pilot, data, or technology initiatives is beneficial but not required Ability to work collaboratively within evolving project requirements  Relevant Business Types\n Retail Hospitality Industrial and manufacturing environments Healthcare operations Logistics and warehousing Education Construction Fitness and wellness Transportation Property and facilities services Beauty and personal-care businesses Other businesses involving repeatable hands-on commercial workflows  Technical & Operational Requirements\n Eligible smartphones suitable for video capture Wearable phone mounts for first-person recording A real commercial workplace or operational setting Employees or professionals actively performing hands-on tasks Ability to organise and oversee recording activities Appropriate participant consent and internal approval processes  Partnership Details\n This is a commercial business partnership, not an individual employment opportunity Participating companies must have at least 20 employees Video collection focuses on authentic POV/egocentric recordings of real workplace activities Participating organisations are expected to coordinate contributors and support project guidelines internally Privacy, consent, safety, and ethical requirements apply to all recordings Project volume, workflow categories, recording requirements, and timelines may vary depending on programme needs Commercial terms and project-specific arrangements will be communicated to selected partners Participating businesses should not submit confidential, restricted, customer-sensitive, patient-sensitive, or otherwise inappropriate information through recorded materials  Eligible Regions\n North America Latin America Australia and New Zealand Japan Taiwan South Korea Indonesia Qatar Saudi Arabia South Africa United Arab Emirates  About the Platform\nThis opportunity is available through 24-MAG LLC. We connect experienced professionals with remote consulting opportunities across technical, evaluation, and project-based workstreams.\n\n\nBy submitting this application, you acknowledge that your information may be processed by 24-MAG LLC for recruitment and opportunity matching in accordance with our Privacy Policy: https://www.24-mag.com/privacy-policy",
+      "apply_options": [
+        {
+          "title": "BeBee",
+          "link": "https://bebee.com/ar/jobs/business-owners-company-executives-commercial-video-data-collection-partnership-20-employees-argenti--techmap_ar_V68V3V76?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJCdXNpbmVzcyBPd25lcnMgXHUwMDI2IENvbXBhbnkgRXhlY3V0aXZlcyDigJQgQ29tbWVyY2lhbCBWaWRlbyBEYXRhIENvbGxlY3Rpb24gUGFydG5lcnNoaXAgKDIwKyBFbXBsb3llZXMpIOKAlCBBcmdlbnRpbmEiLCJjb21wYW55X25hbWUiOiIyNCBNYWciLCJodGlkb2NpZCI6Im1WbnhyWkNINVVnOWxjMzNBQUFBQUE9PSIsInV1bGUiOiJ3K0NBSVFJQ0lKUVhKblpXNTBhVzVoIiwiZ2wiOiJhciIsImhsIjoiZXMiLCJmYyI6IkVzd0JDb3dCUVVwcFZEUjBURmxaUWxGbFlYazNiekJ2ZURaQmNFVlNkbU5DZUU1b2FXeDRPR1IwVlhObE1WcGFkRFZVWnpkclNWTTRWRmg0ZDJGSlNVaGxRbkUwZWs5Uk0wSXlRbWM1VFVOeVJYbzFiazR5Vm1wWlFuTnFRbGR4VERSNWRGZHFYMWxUWkdoUWRtTk1kMjR6Y2pKUE5URTFUa1JtYjFOYVMwUnBOMVV0VlRCWWRteE9XR3MzUzFkak16Y1NGekJsTFRkaGMyNVlRbUl6UVRBdGExQjJabXAwTFVGckdpSkJSSE55T1daVFdFMWtTbTVFVlMxSmFVVXROR2RZT1V0MGJtSTJZbE51UmxWUiIsImZjdiI6IjMiLCJmY19pZCI6Im1WbnhyWkNINVVnOWxjMzNBQUFBQUE9PSJ9"
+    }
+  ],
+  "serpapi_pagination": {
+    "next_page_token": "eyJmYyI6IkVzd0JDb3dCUVVwcFZEUjBTVE5ZU2psS2VHRTRSbE00YkhKT1NXaFBVVVkwUld0WlpFY3ljakJDWlhSemVIQmhSSEUwVmxnMmFETXpabGRSVjJ3eFgxUkVXR280ZWtsNVRIUmhTa3BGYjNVemQwSnRPSEI2WTJOVFNHTlpRVEJOTVhnNGRIWk9XV0ZtUzFGcmRYbGhWR2gxZUVKak1ISldlRXRyUVZwaGFESktTbE41Um01UVRGbzVURlI0ZUhjMlpUSVNGekJsTFRkaGMyNVlRbUl6UVRBdGExQjJabXAwTFVGckdpSkJSSE55T1daUk1rb3pWRnB3ZVVwQ09GWk5XbFJoVWtkNlduZFFXRUZRTldkQiIsImZjdiI6IjMifQ==",
+    "next": "https://serpapi.com/search.json?chips=date_posted%3Atoday&engine=google_jobs&gl=ar&google_domain=google.com&hl=es&location=Argentina&next_page_token=eyJmYyI6IkVzd0JDb3dCUVVwcFZEUjBTVE5ZU2psS2VHRTRSbE00YkhKT1NXaFBVVVkwUld0WlpFY3ljakJDWlhSemVIQmhSSEUwVmxnMmFETXpabGRSVjJ3eFgxUkVXR280ZWtsNVRIUmhTa3BGYjNVemQwSnRPSEI2WTJOVFNHTlpRVEJOTVhnNGRIWk9XV0ZtUzFGcmRYbGhWR2gxZUVKak1ISldlRXRyUVZwaGFESktTbE41Um01UVRGbzVURlI0ZUhjMlpUSVNGekJsTFRkaGMyNVlRbUl6UVRBdGExQjJabXAwTFVGckdpSkJSSE55T1daUk1rb3pWRnB3ZVVwQ09GWk5XbFJoVWtkNlduZFFXRUZRTldkQiIsImZjdiI6IjMifQ%3D%3D&q=Data+Analyst"
+  },
+  "_pipeline_metadata": {
+    "ingestion_timestamp_utc": "2026-09-29T17:05:21.816427+00:00",
+    "search_group": "bi_analytics",
+    "target_market": "Argentina",
+    "target_location": "Argentina",
+    "date_filter_applied": "today",
+    "new_records_count": 2,
+    "provider": "serpapi"
+  }
+}

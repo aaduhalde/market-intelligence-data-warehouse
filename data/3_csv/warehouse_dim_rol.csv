@@ -1,0 +1,10 @@
+﻿rol_id,nombre_rol,familia_rol,nivel_prioridad
+1,Analista de Datos,primary,1
+2,Analytics Consultant,secondary,2
+3,Analytics Engineer,primary,1
+4,Data Analyst,primary,1
+5,Data Analytics,primary,1
+6,Data Engineer,secondary,2
+7,Data Scientist,primary,1
+8,Ingeniero de Datos,secondary,2
+9,Other / Unclassified,Unclassified,3

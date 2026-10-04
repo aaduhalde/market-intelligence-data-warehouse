@@ -1,0 +1,147 @@
+﻿observacion_oferta_id,proveedor_ingesta,source_job_id,titulo_puesto,nombre_rol,familia_rol,nombre_empresa,ubicacion_raw,market_tier,modalidad_trabajo,seniority,requisito_ingles,fecha_captura_id
+1,SerpApi,d9a5da72c1a1a5f294ff2d723cc35ca2,Business Owners & Company Executives — Commercial Video Data Collection Partnership (20+ Employees) — Argentina,Other / Unclassified,Unclassified,24 Mag,Argentina,Unclassified,Pasantía,No data,No data,20260929
+2,SerpApi,b6c0653136a526d0150a8ff249109d20,Data Platform Engineer,Other / Unclassified,Unclassified,Accenture,Santiago,Unclassified,Tiempo completo,No data,No data,20260928
+3,SerpApi,b9fd13dcea5235917ad1e73489c30bce,Data Platform Engineer,Other / Unclassified,Unclassified,Accenture,Santiago,Unclassified,Tiempo completo,No data,No data,20260928
+4,SerpApi,a2ddeec7a78947255a936db15aa2ffeb,Data AI Architect,Other / Unclassified,Unclassified,ACL,Santiago,Unclassified,Tiempo completo,No data,No data,20260928
+5,SerpApi,3196e66dc19b86c2760e0f86380c5ec7,Senior Data and Analytics Engineer ID90885,Analytics Engineer,primary,"AgileEngine, LLC.","Caldas, Antioquia",Unclassified,Tiempo completo,Senior,No data,20261002
+6,SerpApi,1a17d738540acfd14fd0388269589147,E-commerce Data Analyst,Data Analyst,primary,Alignerr,Colombia,Unclassified,No especificado,No data,No data,20261002
+7,SerpApi,ab5713e56c6f5ccb0f7be2411a2dff42,Public Policy Economist (AI Training),Other / Unclassified,Unclassified,Alignerr,Argentina,Unclassified,No especificado,No data,No data,20260929
+8,SerpApi,7950e9f6c3af212df6b24af4c050d436,AI Data Quality Analyst,Other / Unclassified,Unclassified,Alignerr,Perú,Unclassified,No especificado,No data,No data,20260928
+9,SerpApi,8df03393c8ec73c72abbe1005e51fe5c,"Ingeniero de Datos Senior: GCP, Dataflow y BigQuery",Ingeniero de Datos,secondary,Amaris Consulting | Part of Mantu,Santiago,Unclassified,Tiempo completo,Senior,No data,20260928
+10,SerpApi,7a9b5d823ba3d2b4e8340d9fc8b2c181,Data Integration Solution Architect (6-month Contract),Other / Unclassified,Unclassified,Applaudo,Bogotá,Unclassified,No especificado,No data,No data,20260929
+11,SerpApi,69952776d6931e71eb4cb542560e8160,Data & Analytics Manager - Remote | LATAM | Performance Marketing for Universities ??,Other / Unclassified,Unclassified,Atomic - Remote Jobs,Bogotá,Unclassified,Tiempo completo,No data,No data,20260929
+12,SerpApi,a900b6732e9c0d18dd69385556fe6046,Analista Analítica de Cifras Siniestros ARL,Other / Unclassified,Unclassified,AXA COLPATRIA,Bogotá,Unclassified,Tiempo completo,No data,No data,20261002
+13,SerpApi,73ad950ed5e253f55b9b8187dafcb81b,Marketing Operations Tech Analyst - Latin America - Remote,Other / Unclassified,Unclassified,Azumo,Perú,Unclassified,Tiempo completo,No data,No data,20260928
+14,SerpApi,bd00966a75194b61604193063971148c,Financial Planning & Analysis Data Analyst - Remote Work,Data Analyst,primary,BairesDev,Perú,Unclassified,Tiempo completo,No data,No data,20260928
+15,SerpApi,7d14d46fc10ab2b4b31d6771bf1582ae,Financial Planning & Analysis Data Analyst - Remote Work,Data Analyst,primary,BairesDev,Perú,Unclassified,Tiempo completo,No data,No data,20260928
+16,SerpApi,16dd2eb0f3d4f1182ab48c24b27a3f2e,Senior Data Engineer – Python & Apache Flink - Remote Work | REF#305376,Data Engineer,secondary,BairesDev,"El Gallito, N.L.",Unclassified,Tiempo completo,Senior,No data,20261002
+17,SerpApi,0993d48f85fa4a5e17e86610a810f49d,Azure Data Engineer (Mid-Senior Level),Data Engineer,secondary,BairesDev,Perú,Unclassified,Tiempo completo,Senior,No data,20261002
+18,SerpApi,0dac6080fb719dbc4d0c82b909c91399,Healthcare Data Analyst (Perú),Data Analyst,primary,BairesDev,Perú,Unclassified,Tiempo completo,No data,No data,20261002
+19,SerpApi,10f28b46676cb6aea48d91f555b7d34a,Senior Data Engineer – Python & Apache Flink - Remote Work | REF#305373,Data Engineer,secondary,BairesDev,Lima,Unclassified,Tiempo completo,Senior,No data,20261002
+20,SerpApi,5e21c7251dfda7ca47e96dffd861d6b9,Cloud Data Engineer - Remote Work,Data Engineer,secondary,BairesDev,Surquillo,Unclassified,Tiempo completo,No data,No data,20261002
+21,SerpApi,6294ca15c6c1b006f9119bd2c8558bbe,Databricks Data Engineer (Apache Spark) - Remote work | REF#300795,Data Engineer,secondary,BairesDev,Lima,Unclassified,Tiempo completo,No data,No data,20261002
+22,SerpApi,de70d0d811cd6539de074ea2777cca99,Azure Data Engineer (Mid-Senior Level),Data Engineer,secondary,BairesDev,Perú,Unclassified,Tiempo completo,Senior,No data,20261002
+23,SerpApi,2fc3d7d60e0b851cd16e0aad31a4b29a,Knowledge Engineer - Remote Work | REF#302981,Other / Unclassified,Unclassified,BairesDev,Lima,Unclassified,Tiempo completo,No data,No data,20261002
+24,SerpApi,0fc137d04a6a2c2c0fd4b6f3f842fc96,Data Scientist Modelos Riesgo No Financiero,Data Scientist,primary,Banco de Crédito e Inversiones,Las Condes,Unclassified,Tiempo completo,No data,No data,20260928
+25,SerpApi,b950d5f8436906c41abd8b5bc42a9270,Accounting Data Analyst: Data-Driven Process & Automation,Data Analyst,primary,Banco-De-Cr,Santiago,Unclassified,Tiempo completo,No data,No data,20261002
+26,SerpApi,2e75862571f29f233d9c1710e5692316,Commercial Analyst: Data-Driven Growth,Other / Unclassified,Unclassified,BAT,Santiago,Unclassified,Tiempo completo,No data,No data,20261002
+27,SerpApi,2bad21ff6816c6bed03212ae511efa47,AI Solutions & Data Architecture Analyst,Other / Unclassified,Unclassified,Bayer,Cundinamarca,Unclassified,Tiempo completo,No data,No data,20261002
+28,SerpApi,147bc33f6c289789744ead3c369318d3,ANALYST I,Other / Unclassified,Unclassified,BBVA,Antioquia,Unclassified,Tiempo completo,No data,No data,20261002
+29,SerpApi,a91d0be6f699909e720e483c5842dee2,Data Engineer – AWS (Lakehouse),Data Engineer,secondary,BC Tecnología,Las Condes,Unclassified,Tiempo completo,No data,No data,20260928
+30,SerpApi,6a83e929410a891737ea845e107a6f3b,Binance Acceleration Program - Product Data Analyst,Data Analyst,primary,Binance,Perú,Unclassified,Tiempo completo,No data,No data,20261002
+31,SerpApi,56ad01fb7a3336571389b3cc7f077309,Binance Acceleration Program - Product Data Analyst,Data Analyst,primary,Binance,Perú,Unclassified,Tiempo completo,No data,No data,20261002
+32,SerpApi,53e7b557b3ca5549b63531b2126c8779,Data Analyst Team Lead,Data Analyst,primary,BLOSSOM,"Colombia, Huila",Unclassified,Tiempo completo,Senior,No data,20260928
+33,SerpApi,d1c66e8815c2abb114bd52d5d252edb6,"SaaS Product Analyst — Data-Driven, Remote (Huánuco)",Other / Unclassified,Unclassified,Bluelight Consulting,Huánuco,Unclassified,Tiempo completo,No data,No data,20260928
+34,SerpApi,2f35754e957e78f5f3a12a61c6bac259,Remote Data Engineer (Surquillo),Data Engineer,secondary,Bluelight Consulting,Surquillo,Unclassified,Tiempo completo,No data,No data,20260928
+35,SerpApi,0fbc67d57e4edbefd562e81f0ba8d62b,Remote Azure Data Engineer (Callao),Data Engineer,secondary,Bluelight Consulting,Callao,Unclassified,Tiempo completo,No data,No data,20260928
+36,SerpApi,597b0a60e8ed451ae785b772aba4ac75,"Data Engineer - Remote, Flexible Hours, Growth",Data Engineer,secondary,Bluelight Consulting Llc,Áncash,Unclassified,Tiempo completo,No data,No data,20260928
+37,SerpApi,38c395c4b811caab3b862d37139a5691,Remote Data Engineer: Azure Synapse ETL Mastery,Data Engineer,secondary,Bluelight Consulting Llc,Callao,Unclassified,Tiempo completo,No data,No data,20260928
+38,SerpApi,368c798e90a25b33113903422f79b5b0,"Data Engineer - Remote, Flexible Hours, Growth",Data Engineer,secondary,Bluelight Consulting Llc,Lima,Unclassified,Tiempo completo,No data,No data,20260928
+39,SerpApi,c80d8d50edf77c2fbb0577e339d02a3c,"Azure Data Engineer - Remote, Latin America",Data Engineer,secondary,Bluelight Consulting Llc,Callao,Unclassified,Tiempo completo,No data,No data,20260928
+40,SerpApi,4538b34afa94807b971a35b49e3a38ff,"Data Engineer - Remote, Flexible Hours, Growth",Data Engineer,secondary,Bluelight Consulting Llc,Lima,Unclassified,Tiempo completo,No data,No data,20261002
+41,SerpApi,ea8c030644100f0f7f373102163249f5,Analista de Data,Other / Unclassified,Unclassified,CASA BRITÁNICA SA,"Copacabana, Antioquia (y 7 ubicaciones más)",Unclassified,Tiempo completo,No data,No data,20260928
+42,SerpApi,2cbd8d995cde8f621d7c30352fb56d14,Staff Data Analyst,Data Analyst,primary,"Checkr, Inc.",Santiago,Unclassified,Tiempo completo,No data,No data,20260929
+43,SerpApi,87aa4d8857668c783ef0e91366eb1748,Data Scientist AWS (Perú),Data Scientist,primary,Coderio,Perú,Unclassified,Tiempo completo,No data,No data,20261002
+44,SerpApi,9b7a538bc56027b7e8fef938bef0113d,Sr Data Analyst (Tableau),Data Analyst,primary,Coderio,Perú,Unclassified,Tiempo completo,Senior,No data,20260928
+45,SerpApi,010a77576e3f40f4281a9d2c945449cf,Data Engineer - Google Cloud Platform,Data Engineer,secondary,CODERLAB SPA,Las Condes,Unclassified,Tiempo completo,No data,No data,20260928
+46,SerpApi,b3fb842ae72112d633be573d6d5dd464,"Senior Data, Platform & Solutions Engineer",Other / Unclassified,Unclassified,confidential,"Colombia, Huila",Unclassified,Tiempo completo,Senior,No data,20260929
+47,SerpApi,be3599041a66220ab5f1ae201d929f61,Data/ AI Architect Senior,Other / Unclassified,Unclassified,Confipetrol S.A.,Las Condes,Unclassified,Tiempo completo,Senior,No data,20261002
+48,SerpApi,6f4f54ccdc492cebce5a6e08fa4c3e9d,Práctica Profesional - Data Analyst Jr Tur.com,Data Analyst,primary,COPEC S.A.,Santiago,Unclassified,Tiempo completo,Junior,No data,20260929
+49,SerpApi,f464c8e3a871aaa31131dfd7e21aa086,Business Data Analytics,Data Analytics,primary,CORE Consultoría & Recuperaciones,Perú,Unclassified,Tiempo completo,No data,No data,20260928
+50,SerpApi,4272b2ba0bc7345828781eeb6c91ae4d,Senior Data Analyst | Latam,Data Analyst,primary,"Cuesta Partners, LLC","Colombia, Huila",Unclassified,Tiempo completo,Senior,No data,20261002
+51,SerpApi,5437f18ff00113adbc7dd33a1f75f557,Data & Analytics Engineer,Analytics Engineer,primary,Curvion Blue,Perú,Unclassified,Tiempo completo,No data,No data,20261002
+52,SerpApi,5cd397a7c559b363cd72fd1952eb248b,Intelligence & Analytics Analyst,Other / Unclassified,Unclassified,Dentsu,"Medellín, Antioquia",Unclassified,Tiempo completo,No data,No data,20261002
+53,SerpApi,f81984c4eec02fb13af0e8f0cd61fe58,Practicante de Data Analytics,Data Analytics,primary,DIMEX CAPITA,"Monterrey, N.L.",Unclassified,Pasantía,No data,No data,20261002
+54,SerpApi,65046280d4cc4d3a764bf54f14c68fda,Data Analytics Engineer – Semi Senior,Data Analytics,primary,DRIMO,Coquimbo,Unclassified,Tiempo completo,Senior,No data,20261002
+55,SerpApi,11c6b998af6168197f52ae816433c184,Head of Data,Other / Unclassified,Unclassified,DROPI,"Cali, Valle del Cauca",Unclassified,Tiempo completo,No data,No data,20260929
+56,SerpApi,141c750349c9f92c5011c03c73c958bc,Ingeniero(a) de Datos (Data Driven Marketing) - Casa Central,Other / Unclassified,Unclassified,Duoc UC,Providencia,Unclassified,Tiempo completo,No data,No data,20261002
+57,SerpApi,422b7aa484081576ea3a66e12a534c41,Ingeniero(a) de Datos (Data Driven Marketing) - Casa Central,Other / Unclassified,Unclassified,Duoc UC,Santiago,Unclassified,Tiempo completo,No data,No data,20261002
+58,SerpApi,581ec7894650fd7dddc8c8c04f2ac148,Data Analyst - Contractor - Ingles avanzado (Perú),Data Analyst,primary,Ecosistemas,Perú,Unclassified,Tiempo completo,No data,Requerido,20260928
+59,SerpApi,6d0218c410a9c292326db8563e728a3b,Business Analyst | Data Analyst) | No Experience Required,Data Analyst,primary,Emapta Global,Bogotá,Unclassified,Tiempo completo,No data,No data,20260928
+60,SerpApi,248dc796e30091333a6058945ca9e7f8,Data Engineer - Oferta Inclusiva,Data Engineer,secondary,Empresa de Transporte de Pasajeros METRO S.A,Santiago,Unclassified,Medio tiempo,No data,No data,20260928
+61,SerpApi,3d20b65cc98be345e5e830d1d687e9f4,DATA ENGINEER ESS&A,Data Engineer,secondary,Experian,Santiago,Unclassified,Tiempo completo,No data,No data,20260928
+62,SerpApi,7d9918e45cf9edf7b852d48ec0d069bb,Data Engineer: Cloud,Data Engineer,secondary,Experian Group,Región Metropolitana,Unclassified,Tiempo completo,No data,No data,20260929
+63,SerpApi,1118dc4c0b20d464fd11698bc9e22303,Ingeniero/a de datos - Semi senior,Other / Unclassified,Unclassified,Experis Chile,Las Condes,Unclassified,Tiempo completo,Senior,No data,20260928
+64,SerpApi,c1d15c12946a7e5bf17b62110b4e101c,Senior Data Engineer (AWS),Data Engineer,secondary,EY,Santiago,Unclassified,Tiempo completo,Senior,No data,20261002
+65,SerpApi,6e40c83d0141cdf1ded7d004ef9a7122,Associate Data Analyst,Data Analyst,primary,Falabella,Región Metropolitana,Unclassified,Tiempo completo,No data,No data,20261002
+66,SerpApi,be501f2ff77fc32be4864e5140eaa8ee,Senior Power BI & Data Visualization Engineer - Remote - Latin America,Other / Unclassified,Unclassified,FullStack,Perú,Unclassified,Tiempo completo,Senior,No data,20260929
+67,SerpApi,4574733fadd01a76139286ad4505ebe9,Remote Senior Go/React Engineer – Build Data Platforms,Other / Unclassified,Unclassified,FXC Intelligence Ltd.,Bogotá,Unclassified,Tiempo completo,Senior,No data,20260929
+68,SerpApi,4423ed0efef4c91b759dfa75fef3d4d0,Data Analyst / Inteligencia de datos / Qlik sense / Bilingüe / Modelamiento de datos - Qlik Sense,Data Analyst,primary,Geodis Colombia,Bogotá,Unclassified,Tiempo completo,No data,Requerido,20260928
+69,SerpApi,a90190812cbb0b5325c684bd93ce99ec,"Cloud Data and Analytics Consultant, Professional Services (English, Portuguese, Spanish)",Analytics Consultant,secondary,Google LLC,Santiago,Unclassified,Tiempo completo,No data,Requerido,20261002
+70,SerpApi,e704e29506fbb212aef200389ae08b52,Data Analyst Intern,Data Analyst,primary,GoTo Financial,Perú,Unclassified,Tiempo completo,No data,No data,20260928
+71,SerpApi,ab28b2d579cba8197e1d96f15de8f8c8,Data Engineer Junior / Ingeniero(a) de Datos Junior por proyecto - Remoto,Data Engineer,secondary,IBR PERU S.A.,Lima,Unclassified,No especificado,Junior,No data,20260928
+72,SerpApi,40d9828de0718382ed79297fc4d48a67,Gcp Data Engineer Remote Work Ref# (Perú),Data Engineer,secondary,Importante grupo,Perú,Unclassified,Tiempo completo,No data,No data,20261002
+73,SerpApi,fad9417fc11ef90fdc6d753b596e9721,Data Scientist / Machine Learning Engineer,Data Scientist,primary,In All Media Inc,Perú,Unclassified,Tiempo completo,No data,No data,20261002
+74,SerpApi,69e470f83b7a4b37770798439601aed5,Data Engineer Azure / Microsoft Fabric San Isidro (Perú),Data Engineer,secondary,Indra Peru,Perú,Unclassified,Tiempo completo,No data,No data,20261002
+75,SerpApi,6c876a0ff1dff62cbf67602da6aa9448,Data Engineer Senior / ETL – SSIS,Data Engineer,secondary,Indra Peru,Perú,Unclassified,Tiempo completo,Senior,No data,20261002
+76,SerpApi,a7a80b4d727ffc19f543c276d962cf0c,Analista de Datos Jr.,Analista de Datos,primary,Inetum,Perú,Unclassified,Tiempo completo,Junior,No data,20260928
+77,SerpApi,a69039d26c5f23ce89a32feab2e8483f,Analista datos Junior,Other / Unclassified,Unclassified,Inetum,Perú,Unclassified,Tiempo completo,Junior,No data,20260928
+78,SerpApi,d02d6f08888870124ead8ccaea7b658e,Azure Data Engineer,Data Engineer,secondary,Infosys,"Monterrey, N.L.",Unclassified,Tiempo completo,No data,No data,20261002
+79,SerpApi,4ea09d4c7b727e4864eb3865589e7ec2,"Graphic Designer, Data Visualization",Other / Unclassified,Unclassified,INFUSE,Perú,Unclassified,Tiempo completo,No data,No data,20261002
+80,SerpApi,1a9c571482186b1dbb55758132cbce45,Senior Databricks Engineer Id86295,Other / Unclassified,Unclassified,INGEPSY,Cauca,Unclassified,Tiempo completo,Senior,No data,20260929
+81,SerpApi,5b6ec1eabaa54056c73796cdcbdc42dc,Analista de Datos en Bogotá: Métricas y Visualización,Analista de Datos,primary,INTERACTIVE MEDIA S.A.S.,Bogotá,Unclassified,Tiempo completo,No data,No data,20261002
+82,SerpApi,d883206a924b0fd639c037252e337a7d,Data & Analytics Strategy Executive,Other / Unclassified,Unclassified,iProspect Chile SpA,Chile,Unclassified,Tiempo completo,No data,No data,20261002
+83,SerpApi,4674f06d27552eb5da2a0a8e32785057,"Junior Data Scientist: Python, SQL",Data Scientist,primary,Itaú Chile,Región Metropolitana,Unclassified,Tiempo completo,Junior,No data,20260929
+84,SerpApi,2c906eefd2d39e4752abc5abf2c83bcf,Data Analyst Crédito Empresas,Data Analyst,primary,Itaú Chile,Las Condes,Unclassified,Tiempo completo,No data,No data,20260928
+85,SerpApi,39c2082d9c128c6999fdac6e5d94cec4,Data Analyst Call Center,Data Analyst,primary,JD STRATEGIC PARTNER,Perú,Unclassified,Tiempo completo,No data,No data,20260928
+86,SerpApi,96854cd4c7667294b5e6f78d340dc3c2,"Analista BI: Power BI, SQL y AWS – Presencial",Other / Unclassified,Unclassified,Kibernum,Lampa,Unclassified,Tiempo completo,No data,No data,20261002
+87,SerpApi,1d49544172f30bcf2b4538bfcdb92515,"Analytics & BI Lead — Power BI, SQL & Python",Other / Unclassified,Unclassified,L'Oréal,Región Metropolitana,Unclassified,Tiempo completo,Senior,No data,20260929
+88,SerpApi,784a3f4db1fedf86a65b252e76845c1c,Analista Senior de Marketing Data-Driven,Other / Unclassified,Unclassified,LarrainVial,Santiago,Unclassified,Tiempo completo,Senior,No data,20261002
+89,SerpApi,2f08bd08f11b04786c031b5245a213b6,"Lead Data Analyst, Growth & Experimentation (Perú)",Data Analyst,primary,LawnStarter,Perú,Unclassified,Tiempo completo,Senior,No data,20261002
+90,SerpApi,35f6ae6f46ab6c8c1858f3a794555ef8,Lead Product Data Analyst,Data Analyst,primary,LawnStarter,Perú,Unclassified,Tiempo completo,Senior,No data,20260928
+91,SerpApi,23f87f21ce1c1d01a3172d5e66e5b544,"Lead Data Analyst, Growth & Experimentation (Perú)",Data Analyst,primary,LawnStarter,Perú,Unclassified,Tiempo completo,Senior,No data,20261002
+92,SerpApi,fc27f8a2eab01d08a88d37d0c198c0d4,"Lead Data Analyst, Growth & Experimentation",Data Analyst,primary,LawnStarter,Bogotá,Unclassified,Tiempo completo,Senior,No data,20260929
+93,SerpApi,6a2d130b1d9b339c7fce9c239abf7938,Finance Data Analyst: Automation & Reconciliations,Data Analyst,primary,Liberty Specialty Markets,Chile,Unclassified,Tiempo completo,No data,No data,20261002
+94,SerpApi,6965f01e95d0db32e1b18a72c49ce420,Practicante de Data Analytics para Proyectos de Ingeniería,Data Analytics,primary,Linde,"Monterrey, N.L.",Unclassified,Pasantía,No data,No data,20261002
+95,SerpApi,703b0b4c2b18543cc4305bf2bea4c3ef,Analista de Datos (Reportes e Indicadores) - Cali,Analista de Datos,primary,LISTOS S.A.S,"Yumbo, Valle del Cauca (y 2 ubicaciones más)",Unclassified,Medio tiempo,No data,No data,20260928
+96,SerpApi,b678357c9182766d23ce85472a0314d8,"Remote Tech Lead, Data Engineering — Scalable Pipelines",Other / Unclassified,Unclassified,Lumenalta,Colombia,Unclassified,Tiempo completo,Senior,No data,20260929
+97,SerpApi,0a36ef40ab8e4a2a4ac510212beb8a9d,Senior Financial Analyst (Perú),Other / Unclassified,Unclassified,Main CFO,Perú,Unclassified,Tiempo completo,Senior,No data,20261002
+98,SerpApi,fce1ddafe6f0e2b9f36b0301ccf23d6f,Data Science Consultant in Coruña: Impactful Analytics,Other / Unclassified,Unclassified,"Management Solutions, SL",Santiago,Unclassified,Tiempo completo,No data,No data,20260929
+99,SerpApi,3df2ee556dfb7004472cfd7714d19caa,Compensation & Data Analyst | Inglés Avanzado,Data Analyst,primary,MANPOWER,Bogotá,Unclassified,No especificado,No data,Requerido,20260928
+100,SerpApi,506dfe3c26cf382912a342ea36d2c6f0,Data Observability Lead,Other / Unclassified,Unclassified,Manpower Chile,Santiago,Unclassified,Tiempo completo,Senior,No data,20261002
+101,SerpApi,4f9d72adf97394459a162fbb2dd3ad81,Data Consultant - Presencial (CDMX),Other / Unclassified,Unclassified,ManpowerGroup,"Ciudad de México, CDMX",Unclassified,Tiempo completo,No data,No data,20261002
+102,SerpApi,0e2bb467456803b00d7295d169563d43,AI Data Architect - Data Governance en TheRocketCode,Other / Unclassified,Unclassified,Meryto,"Ciudad de México, CDMX",Unclassified,Tiempo completo,No data,No data,20261002
+103,SerpApi,f6c0a03a3ba05983aa7280842cf7dc9d,Search QA Data Analyst: Elevate Relevance & UX KPIs,Data Analyst,primary,Meu Home,Región Metropolitana,Unclassified,Tiempo completo,No data,No data,20260929
+104,SerpApi,26f3d4ad9e20b55c0dec9f7f77b59344,Data & AI Architect Senior,Other / Unclassified,Unclassified,Muck Consultores,Santiago,Unclassified,Tiempo completo,Senior,No data,20261002
+105,SerpApi,717d82ea19f23b07e08ca0b5a41517c2,Data Analyst / Analista de Datos Bilingüe – Bogotá,Data Analyst,primary,Multiempleos S.A.,Bogotá,Unclassified,Tiempo completo,No data,Requerido,20261002
+106,SerpApi,7548d3d6014f0acd098bdc23c25652da,Data Science Lead,Other / Unclassified,Unclassified,Neoris(CEMTEC),"Ciudad de México, CDMX",Unclassified,Tiempo completo,Senior,No data,20261002
+107,SerpApi,e42ad52c448334ee787ce8c447430318,Data Engineer,Data Engineer,secondary,NeuralWorks,Las Condes,Unclassified,Tiempo completo,No data,No data,20260928
+108,SerpApi,87853726a9cba1ba208a9b587dedc5b6,Data Scientist,Data Scientist,primary,NTT DATA EMEAL,Santiago,Unclassified,Tiempo completo,No data,No data,20260928
+109,SerpApi,0706d9f47c4d00d02e0ad5a13e462c18,Ingeniero/a de Datos Open Source,Other / Unclassified,Unclassified,NTT DATA Europe & Latam,"Medellín, Antioquia",Unclassified,Tiempo completo,No data,No data,20260929
+110,SerpApi,5737fcb3d2673b9b01d6cdd48f7604dd,Senior Data Analyst — STM & Databricks Expert,Data Analyst,primary,Perficient,Huila,Unclassified,Tiempo completo,Senior,No data,20260928
+111,SerpApi,a42145d0cb85d4ca13514c7941667987,Senior Data Engineer AI DLC - REMOTE,Data Engineer,secondary,Protecso,Lima,Unclassified,Tiempo completo,Senior,No data,20260928
+112,SerpApi,987589d4616ab2ea7ad62100c01195d7,"Senior Data Analyst, Digital Media Analytics",Data Analyst,primary,Publicis Groupe Anz,Bogotá,Unclassified,Tiempo completo,Senior,No data,20260928
+113,SerpApi,7911fafd382d2173695e1bf1e34cda34,Data Analyst (Client Operations),Data Analyst,primary,Publicis Groupe Holdings B.V,Bogotá,Unclassified,Tiempo completo,No data,No data,20260928
+114,SerpApi,72fb48d102a0076478c13c28f2f10b84,"Data Scientist – Hybrid, Energy Analytics",Data Scientist,primary,Punto Azul,Santiago,Unclassified,Tiempo completo,No data,No data,20260929
+115,SerpApi,ec53e1eae22ec23c5826489dc84bf7c2,Líder Data Analytics,Data Analytics,primary,RENEE RPO Asistido para ALEMANA SEGUROS,Vitacura,Unclassified,Tiempo completo,No data,No data,20260928
+116,SerpApi,350df4c5a6f87cd9485af3786e3e2c18,Business Intelligence Senior Analyst,Other / Unclassified,Unclassified,Ripley,Perú,Unclassified,Medio tiempo,Senior,No data,20261002
+117,SerpApi,1de4f80fa2139286bb7b8c235314d018,Data Science Senior Analyst,Other / Unclassified,Unclassified,RIPLEY CHILE S A,Perú,Unclassified,Tiempo completo,Senior,No data,20260928
+118,SerpApi,731db95d45c821eb80445fff9d39aa18,Analista De Informacion Analytics SBP,Other / Unclassified,Unclassified,Scotiabank,Perú,Unclassified,Tiempo completo,No data,No data,20261002
+119,SerpApi,d25fa65e1c3c7c0da63e339550c7be0a,Stellus - Data Engineer,Data Engineer,secondary,SGF Global,Perú,Unclassified,Tiempo completo,No data,No data,20260928
+120,SerpApi,d9d71fb58f64b8475e4592b4aec6fc01,Data Engineer Azure Sr,Data Engineer,secondary,Softtek,"Ciudad de México, CDMX",Unclassified,Tiempo completo,Senior,No data,20261002
+121,SerpApi,cc111c31ca77ee30b2d1ebc4c579978c,Analista de Datos Ssr. — Impacto en Linaje y Calidad,Analista de Datos,primary,Soho,Santiago,Unclassified,Tiempo completo,Semi-Senior,No data,20261002
+122,SerpApi,9faa66cd2f4f4863403eeadce8a91a02,Senior Data Scientist - GenAI & Experimentación,Data Scientist,primary,Spot2.mx,"Ciudad de México, CDMX",Unclassified,Tiempo completo,Senior,No data,20261002
+123,SerpApi,86c5962859ee8354303c1bb817f5f714,Data Engineer Jr ( GCP),Data Engineer,secondary,Stefanini LATAM,Santiago,Unclassified,Tiempo completo,Junior,No data,20261002
+124,SerpApi,ff4d99b4d6a80102a6c736f61a5a2f09,Sr Data Scientist (Perú),Data Scientist,primary,Stefanini LATAM,Perú,Unclassified,Tiempo completo,Senior,No data,20261002
+125,SerpApi,163ca3d2875d127f4aeef35d41cbe72a,QA Data Analyst: Search Quality,Data Analyst,primary,Stefanini LATAM,Región Metropolitana,Unclassified,Tiempo completo,No data,No data,20260929
+126,SerpApi,5f187683662242cc15d814473fdd9896,QA Data Analyst: Search Quality & Insights,Data Analyst,primary,Stefanini LATAM,Región Metropolitana,Unclassified,Tiempo completo,No data,No data,20260929
+127,SerpApi,7a9d1b9c648cb57b40be8f95d14aa39d,Online Data Analyst,Data Analyst,primary,TELUS Digital,Santiago,Unclassified,Medio tiempo,No data,No data,20260929
+128,SerpApi,42143c2db27500e736db3c9d3ee02158,Online Data Analyst - Spanish (CL),Data Analyst,primary,TELUS Digital,Concepción,Unclassified,Tiempo completo,No data,No data,20261002
+129,SerpApi,3a4fbe0f7d2bd541394794a4c462c205,Remote Spanish Data Analyst for Maps,Data Analyst,primary,TELUS Digital,Concepción,Unclassified,Tiempo completo,No data,No data,20261002
+130,SerpApi,b38b1faf7fdd3c13b95ce3d6d8a534d8,Senior Business Analyst Mining (100% remote) (Perú),Other / Unclassified,Unclassified,Tether Operations,Perú,Unclassified,Tiempo completo,Senior,No data,20260928
+131,SerpApi,bb41ef54587b47a4e3002a3d71bcbbe3,Data Engineer,Data Engineer,secondary,TIMINING,Providencia,Unclassified,Tiempo completo,No data,No data,20260928
+132,SerpApi,e797ed988c83362bae48af9077cb1244,Data Engineer,Data Engineer,secondary,TIMINING,Providencia,Unclassified,Tiempo completo,No data,No data,20260928
+133,SerpApi,584ff7cb9541e630f9cdabe92279ad8a,Databricks Engineer,Other / Unclassified,Unclassified,TIPartner,Región Metropolitana,Unclassified,Tiempo completo,No data,No data,20260929
+134,SerpApi,86d467dce40bfad1675674dea57ca733,Data Analytics Engineer,Data Analytics,primary,Toptal,Chile,Unclassified,Tiempo completo,No data,No data,20260928
+135,SerpApi,7619ec2bccb9aee0e6b32fb0b59bdc6d,Data Analytics Engineer,Data Analytics,primary,Toptal,Chile,Unclassified,Tiempo completo,No data,No data,20260928
+136,SerpApi,183a8e4b9851195a815f2efe74412049,"Senior Data Analyst — Remote, LookML",Data Analyst,primary,Truelogic,Colombia,Unclassified,Tiempo completo,Senior,No data,20260928
+137,SerpApi,da603ef7cfd77dbed6b33fab7c5539d4,CISO/VP Data Security (Perú),Other / Unclassified,Unclassified,Veta Virtual,Perú,Unclassified,Tiempo completo,No data,No data,20261002
+138,SerpApi,69ef5024cf8a2a47d31f075473d4d4c2,"Data Steward Senior, Gerencia Tecnología",Other / Unclassified,Unclassified,Walmart Chile,Huechuraba,Unclassified,Tiempo completo,Senior,No data,20261002
+139,SerpApi,24f265f6d11f0685e592393f268f4eac,Consultor Microsoft Data Analyst,Data Analyst,primary,We Are TIMS,Perú,Unclassified,No especificado,No data,No data,20260928
+140,SerpApi,0b7f0dc16a9c9b9234fbc4ef07a34367,Power BI & Data Engineer - Regional Analytics,Data Engineer,secondary,WiTI,Región Metropolitana,Unclassified,Tiempo completo,No data,No data,20260928
+141,SerpApi,f02ca98b233116202bfff9bf8b58d06e,Data Engineer GCP,Data Engineer,secondary,WorkCapIT,Santiago,Unclassified,Tiempo completo,No data,No data,20260929
+142,SerpApi,43142cac7fbbc11e03fdc88eeabf53b4,Data Engineer - GCP,Data Engineer,secondary,WorkCapIT,Santiago,Unclassified,Tiempo completo,No data,No data,20260928
+143,SerpApi,56528f945fe83a97bfe4b0752d478351,Data Management,Other / Unclassified,Unclassified,WPP Media,"Medellín, Antioquia",Unclassified,Tiempo completo,No data,No data,20260929
+144,SerpApi,9cad3a4115dbb47a689c6467a47c814f,"Senior Associate, Data Analytics & Business Intelligence (BI), GOC",Data Analytics,primary,WPP Media,"Ciudad de México, CDMX",Unclassified,Tiempo completo,Senior,No data,20261002
+145,SerpApi,50aeefce319601d7beceae471490999b,"Senior Associate, Data Analytics & Business Intelligence (BI), GOC",Data Analytics,primary,WPP Media,Bogotá,Unclassified,Tiempo completo,Senior,No data,20261002
+146,SerpApi,a7a0d4535532905d5ebfe13531dbedd7,"Senior Data Engineer, Azure",Data Engineer,secondary,XenonStack Moments,Perú,Unclassified,Tiempo completo,Senior,No data,20260928

@@ -1,0 +1,51 @@
+candidate:
+  name: "Data & BI Specialist"
+  experience_years: 15
+
+preferences:
+  remote_only: true
+  allow_international_remote: true
+  english_development_stage: true
+
+  geographic_priority:
+    - "Lima, Peru"
+    - "Peru"
+    - "Argentina"
+    - "Spanish-speaking LATAM"
+    - "International Remote"
+
+  language_priority:
+    primary:
+      - "Spanish"
+    secondary:
+      - "English"
+
+candidate_accessibility:
+  spanish_local:
+    level: "high"
+    weight: 1.0
+  spanish_latam_remote:
+    level: "high"
+    weight: 1.0
+  english_latam_remote:
+    level: "medium"
+    weight: 0.7
+  english_international:
+    level: "developing"
+    weight: 0.5
+
+skills:
+  SQL: 0.95
+  T-SQL: 0.90
+  PL/SQL: 0.90
+  Python: 0.80
+  Pandas: 0.80
+  Power BI: 0.85
+  DAX: 0.80
+  Power Query: 0.85
+  ETL: 0.90
+  Data Warehouse: 0.85
+  Data Modeling: 0.85
+  SQL Server: 0.90
+  Oracle: 0.90
+  Excel: 0.95

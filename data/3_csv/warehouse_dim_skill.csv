@@ -1,0 +1,27 @@
+﻿skill_id,nombre_skill,categoria_skill
+1,APIs,automation
+2,Automation,automation
+3,AWS,cloud
+4,Azure,cloud
+5,Data Integration,engineering
+6,Data Modeling,engineering
+7,Data Pipelines,engineering
+8,Data Visualization,bi
+9,Data Warehouse,engineering
+10,DAX,bi
+11,Dimensional Modeling,engineering
+12,ELT,engineering
+13,ETL,engineering
+14,Excel,productivity
+15,Google Cloud,cloud
+16,Looker,bi
+17,MySQL,databases
+18,NumPy,data_core
+19,Pandas,data_core
+20,PostgreSQL,databases
+21,Power BI,bi
+22,Power Query,bi
+23,Python,data_core
+24,SQL,data_core
+25,SQL Server,databases
+26,Tableau,bi
