@@ -1,254 +1,122 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Market Intelligence Data Warehouse | Portfolio Project</title>
-    <link rel="icon" type="image/png" href="images/aaduhalde_favi.png">
-    <script src="https://cdn.tailwindcss.com"></script>
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
-    <style>
-        .data-gradient { background: linear-gradient(135deg, #0f172a 0%, #1e293b 100%); }
-        .card-hover:hover { transform: translateY(-5px); border-color: #3b82f6; transition: all 0.3s ease; }
-    </style>
-</head>
-<body class="data-gradient text-slate-200 min-h-screen">
-
-    <!-- HERO SECTION -->
-    <header class="container mx-auto px-6 py-12 text-center border-b border-slate-800">
+<article class="max-w-4xl mx-auto py-8">
+    <!-- HEADER DEL POST -->
+    <header class="text-center mb-12 border-b border-slate-800 pb-8">
         <div class="inline-flex items-center gap-2 bg-blue-500/10 text-blue-400 px-4 py-1.5 rounded-full font-mono text-xs uppercase tracking-wider mb-6 border border-blue-500/20">
             <i class="fas fa-database"></i> End-to-End Data Engineering Project
         </div>
-        <h1 class="text-4xl md:text-5xl font-bold mb-4 bg-clip-text text-transparent bg-gradient-to-r from-blue-400 via-emerald-400 to-indigo-400">
+        <h1 class="text-3xl md:text-5xl font-bold mb-4 bg-clip-text text-transparent bg-gradient-to-r from-blue-400 via-emerald-400 to-indigo-400">
             Market Intelligence Data Warehouse
         </h1>
-        <p class="text-lg text-slate-400 mb-8 max-w-3xl mx-auto leading-relaxed">
+        <p class="text-lg text-slate-400 max-w-3xl mx-auto leading-relaxed">
             Automated pipeline that ingests, cleanses, and models tech job market data in LATAM into a 
             <span class="text-blue-400 font-semibold">Star Schema Data Warehouse</span> hosted on Azure SQL Serverless, optimized for BI decision-making and Candidate Matching.
         </p>
-        
-        <div class="flex flex-wrap justify-center gap-4">
-            <a href="https://github.com/aaduhalde/market-intelligence-data-warehouse" target="_blank" class="bg-blue-600 hover:bg-blue-700 text-white px-6 py-3 rounded-lg font-bold transition flex items-center gap-2">
-                <i class="fab fa-github"></i> View Source Code
-            </a>
-            <a href="#architecture" class="border border-slate-700 hover:bg-slate-800 px-6 py-3 rounded-lg transition flex items-center gap-2">
-                <i class="fas fa-sitemap text-emerald-400"></i> Explore Architecture
-            </a>
-        </div>
     </header>
 
-    <main class="container mx-auto px-6 py-12">
+    <!-- IMAGEN FEATURED 16:9 -->
+    <section class="mb-12">
+        <div class="w-full aspect-video rounded-2xl overflow-hidden border border-slate-700 shadow-2xl">
+            <img src="https://raw.githubusercontent.com/aaduhalde/market-intelligence-data-warehouse/main/images/marketdata.png" 
+                 alt="Market Intelligence Data Warehouse Overview" 
+                 class="w-full h-full object-cover">
+        </div>
+    </section>
+
+    <!-- TECH STACK & METRICS -->
+    <section class="grid md:grid-cols-4 gap-6 mb-16 text-sm">
+        <div class="bg-slate-800/40 p-5 rounded-xl border border-slate-700/80">
+            <div class="text-blue-400 font-mono text-2xl font-bold mb-1">Azure SQL</div>
+            <p class="text-slate-400 text-xs">Serverless DW with Staging, Warehouse & Analytics layers.</p>
+        </div>
+        <div class="bg-slate-800/40 p-5 rounded-xl border border-slate-700/80">
+            <div class="text-emerald-400 font-mono text-2xl font-bold mb-1">Python 3.12</div>
+            <p class="text-slate-400 text-xs">Custom ETL pipeline, skill extraction regex & Watermarking.</p>
+        </div>
+        <div class="bg-slate-800/40 p-5 rounded-xl border border-slate-700/80">
+            <div class="text-purple-400 font-mono text-2xl font-bold mb-1">CI/CD Cron</div>
+            <p class="text-slate-400 text-xs">Automated weekly execution via GitHub Actions with ODBC 18.</p>
+        </div>
+        <div class="bg-slate-800/40 p-5 rounded-xl border border-slate-700/80">
+            <div class="text-amber-400 font-mono text-2xl font-bold mb-1">Star Schema</div>
+            <p class="text-slate-400 text-xs">Fact table + Normalized Dimensions for fast Power BI reporting.</p>
+        </div>
+    </section>
+
+    <!-- DATA PIPELINE ARCHITECTURE -->
+    <section id="architecture" class="mb-16">
+        <h2 class="text-2xl font-bold mb-6 flex items-center gap-2">
+            <i class="fas fa-network-wired text-blue-500"></i> Data Architecture & Pipeline Flow
+        </h2>
         
-        <!-- TECH STACK & METRICS -->
-        <section class="grid md:grid-cols-4 gap-6 mb-16 text-sm">
-            <div class="bg-slate-800/40 p-5 rounded-xl border border-slate-700/80">
-                <div class="text-blue-400 font-mono text-2xl font-bold mb-1">Azure SQL</div>
-                <p class="text-slate-400 text-xs">Serverless DW with Staging, Warehouse & Analytics layers.</p>
+        <div class="grid md:grid-cols-5 gap-4">
+            <div class="bg-slate-800/60 p-5 rounded-xl border border-slate-700 text-center">
+                <i class="fas fa-cloud-download-alt text-2xl text-blue-400 mb-3"></i>
+                <h3 class="font-bold text-white text-sm mb-1">1. Ingestion</h3>
+                <p class="text-slate-400 text-xs">SerpAPI / Job Boards to Raw JSON files.</p>
             </div>
-            <div class="bg-slate-800/40 p-5 rounded-xl border border-slate-700/80">
-                <div class="text-emerald-400 font-mono text-2xl font-bold mb-1">Python 3.12</div>
-                <p class="text-slate-400 text-xs">Custom ETL pipeline, skill extraction regex & Watermarking.</p>
+            <div class="bg-slate-800/60 p-5 rounded-xl border border-slate-700 text-center">
+                <i class="fas fa-filter text-2xl text-indigo-400 mb-3"></i>
+                <h3 class="font-bold text-white text-sm mb-1">2. Staging</h3>
+                <p class="text-slate-400 text-xs">Deduplication, schema normalization & Parquet staging.</p>
             </div>
-            <div class="bg-slate-800/40 p-5 rounded-xl border border-slate-700/80">
-                <div class="text-purple-400 font-mono text-2xl font-bold mb-1">CI/CD Cron</div>
-                <p class="text-slate-400 text-xs">Automated weekly execution via GitHub Actions with ODBC 18.</p>
+            <div class="bg-slate-800/60 p-5 rounded-xl border border-slate-700 text-center">
+                <i class="fas fa-database text-2xl text-emerald-400 mb-3"></i>
+                <h3 class="font-bold text-white text-sm mb-1">3. Staging DB</h3>
+                <p class="text-slate-400 text-xs">T-SQL Staging table landing zone in Azure SQL.</p>
             </div>
-            <div class="bg-slate-800/40 p-5 rounded-xl border border-slate-700/80">
-                <div class="text-amber-400 font-mono text-2xl font-bold mb-1">Star Schema</div>
-                <p class="text-slate-400 text-xs">Fact table + Normalized Dimensions for fast Power BI reporting.</p>
+            <div class="bg-slate-800/60 p-5 rounded-xl border border-slate-700 text-center">
+                <i class="fas fa-cubes text-2xl text-amber-400 mb-3"></i>
+                <h3 class="font-bold text-white text-sm mb-1">4. Data Warehouse</h3>
+                <p class="text-slate-400 text-xs">Star Schema model (Fact + Dimensions) transformation.</p>
             </div>
-        </section>
-
-        <!-- DATA PIPELINE ARCHITECTURE -->
-        <section id="architecture" class="mb-16">
-            <h2 class="text-2xl font-bold mb-6 flex items-center gap-2">
-                <i class="fas fa-network-wired text-blue-500"></i> Data Architecture & Pipeline Flow
-            </h2>
-            
-            <div class="grid md:grid-cols-5 gap-4">
-                <div class="bg-slate-800/60 p-5 rounded-xl border border-slate-700 text-center">
-                    <i class="fas fa-cloud-download-alt text-2xl text-blue-400 mb-3"></i>
-                    <h3 class="font-bold text-white text-sm mb-1">1. Ingestion</h3>
-                    <p class="text-slate-400 text-xs">SerpAPI / Job Boards to Raw JSON files.</p>
-                </div>
-                <div class="bg-slate-800/60 p-5 rounded-xl border border-slate-700 text-center">
-                    <i class="fas fa-filter text-2xl text-indigo-400 mb-3"></i>
-                    <h3 class="font-bold text-white text-sm mb-1">2. Staging</h3>
-                    <p class="text-slate-400 text-xs">Deduplication, schema normalization & Parquet staging.</p>
-                </div>
-                <div class="bg-slate-800/60 p-5 rounded-xl border border-slate-700 text-center">
-                    <i class="fas fa-database text-2xl text-emerald-400 mb-3"></i>
-                    <h3 class="font-bold text-white text-sm mb-1">3. Staging DB</h3>
-                    <p class="text-slate-400 text-xs">T-SQL Staging table landing zone in Azure SQL.</p>
-                </div>
-                <div class="bg-slate-800/60 p-5 rounded-xl border border-slate-700 text-center">
-                    <i class="fas fa-cubes text-2xl text-amber-400 mb-3"></i>
-                    <h3 class="font-bold text-white text-sm mb-1">4. Data Warehouse</h3>
-                    <p class="text-slate-400 text-xs">Star Schema model (Fact + Dimensions) transformation.</p>
-                </div>
-                <div class="bg-slate-800/60 p-5 rounded-xl border border-slate-700 text-center">
-                    <i class="fas fa-chart-pie text-2xl text-purple-400 mb-3"></i>
-                    <h3 class="font-bold text-white text-sm mb-1">5. Analytics & BI</h3>
-                    <p class="text-slate-400 text-xs">SQL Views, Matching Engine & Power BI Dashboards.</p>
-                </div>
+            <div class="bg-slate-800/60 p-5 rounded-xl border border-slate-700 text-center">
+                <i class="fas fa-chart-pie text-2xl text-purple-400 mb-3"></i>
+                <h3 class="font-bold text-white text-sm mb-1">5. Analytics & BI</h3>
+                <p class="text-slate-400 text-xs">SQL Views, Matching Engine & Power BI Dashboards.</p>
             </div>
-        </section>
-
-        <!-- BUSINESS RULES HIGHLIGHTS -->
-        <section class="mb-16">
-            <h2 class="text-2xl font-bold mb-6 flex items-center gap-2">
-                <i class="fas fa-cogs text-emerald-500"></i> Core Business Rules & Features
-            </h2>
-            <div class="grid md:grid-cols-3 gap-6">
-                <div class="bg-slate-800/40 p-6 rounded-xl border border-slate-700 card-hover">
-                    <div class="text-blue-400 font-bold mb-2 flex items-center gap-2">
-                        <i class="fas fa-fingerprint"></i> BR-001: Deterministic Deduplication
-                    </div>
-                    <p class="text-slate-400 text-sm leading-relaxed">
-                        Prevents duplicate postings using composite hash keys (`empresa + titulo + ubicacion + fecha`) and Watermarking.
-                    </p>
-                </div>
-                <div class="bg-slate-800/40 p-6 rounded-xl border border-slate-700 card-hover">
-                    <div class="text-emerald-400 font-bold mb-2 flex items-center gap-2">
-                        <i class="fas fa-tags"></i> BR-004: Skill Taxonomy Engine
-                    </div>
-                    <p class="text-slate-400 text-sm leading-relaxed">
-                        Regex pattern matching against structured YAML rules (`config/skills.yaml`) to normalize unorganized job descriptions.
-                    </p>
-                </div>
-                <div class="bg-slate-800/40 p-6 rounded-xl border border-slate-700 card-hover">
-                    <div class="text-purple-400 font-bold mb-2 flex items-center gap-2">
-                        <i class="fas fa-user-check"></i> BR-020: Candidate Match Score
-                    </div>
-                    <p class="text-slate-400 text-sm leading-relaxed">
-                        Calculates an accessibility index and match percentage between job offers and target candidate profiles.
-                    </p>
-                </div>
-            </div>
-        </section>
-
-    </main>
-
-    <!-- FOOTER -->
-    <footer id="contact" class="border-t border-slate-800 py-12 bg-slate-900/50 text-center">
-        <div class="flex justify-center items-center gap-8 text-2xl mb-6">
-            <a href="mailto:aaduhalde@outlook.es" title="Email Me" class="hover:text-blue-500 transition">
-                <i class="fas fa-envelope"></i>
-            </a>
-            <a href="http://www.linkedin.com/in/aaduhalde" target="_blank" title="LinkedIn Profile" class="hover:text-blue-500 transition">
-                <i class="fab fa-linkedin"></i>
-            </a>
-            <a href="https://github.com/aaduhalde/market-intelligence-data-warehouse" target="_blank" title="GitHub Repositories" class="hover:text-blue-500 transition">
-                <i class="fab fa-github"></i>
-            </a>
         </div>
-        <p class="text-sm text-slate-500">© 2026 Alejandro Adrián Duhalde — Data Engineering Portfolio</p>
-    </footer>
+    </section>
 
-    <!-- CHATBOT INTEGRATION (MARLA) -->
-    <div id="chatbot-wrapper">
-        <div id="chat-button" style="position:fixed; bottom:20px; right:20px; background:#2563eb; width:60px; height:60px; border-radius:50%; display:flex; align-items:center; justify-content:center; cursor:pointer; z-index:9999; box-shadow: 0 4px 12px rgba(0,0,0,0.3); transition: all 0.3s ease; overflow: hidden;">
-            <img src="images/marla.png" alt="Icono del chat" style="width: 100%; height: 100%; object-fit: cover;">
+    <!-- BUSINESS RULES HIGHLIGHTS -->
+    <section class="mb-16">
+        <h2 class="text-2xl font-bold mb-6 flex items-center gap-2">
+            <i class="fas fa-cogs text-emerald-500"></i> Core Business Rules & Features
+        </h2>
+        <div class="grid md:grid-cols-3 gap-6">
+            <div class="bg-slate-800/40 p-6 rounded-xl border border-slate-700 card-hover">
+                <div class="text-blue-400 font-bold mb-2 flex items-center gap-2">
+                    <i class="fas fa-fingerprint"></i> BR-001: Deterministic Deduplication
+                </div>
+                <p class="text-slate-400 text-sm leading-relaxed">
+                    Prevents duplicate postings using composite hash keys (`empresa + titulo + ubicacion + fecha`) and Watermarking.
+                </p>
+            </div>
+            <div class="bg-slate-800/40 p-6 rounded-xl border border-slate-700 card-hover">
+                <div class="text-emerald-400 font-bold mb-2 flex items-center gap-2">
+                    <i class="fas fa-tags"></i> BR-004: Skill Taxonomy Engine
+                </div>
+                <p class="text-slate-400 text-sm leading-relaxed">
+                    Regex pattern matching against structured YAML rules (`config/skills.yaml`) to normalize unorganized job descriptions.
+                </p>
+            </div>
+            <div class="bg-slate-800/40 p-6 rounded-xl border border-slate-700 card-hover">
+                <div class="text-purple-400 font-bold mb-2 flex items-center gap-2">
+                    <i class="fas fa-user-check"></i> BR-020: Candidate Match Score
+                </div>
+                <p class="text-slate-400 text-sm leading-relaxed">
+                    Calculates an accessibility index and match percentage between job offers and target candidate profiles.
+                </p>
+            </div>
         </div>
-    </div>
+    </section>
 
-    <div id="chat-window" style="position:fixed; bottom:90px; right:20px; width:320px; height:450px; background:white; border:1px solid #e0e0e0; border-radius:15px; display:none; flex-direction:column; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; z-index:9999; box-shadow: 0 8px 24px rgba(0,0,0,0.2); overflow:hidden;">
-        <div style="background:#2563eb; color:white; padding:15px; font-weight:bold; display:flex; align-items:center; gap:10px;">
-            <div style="width:10px; height:10px; background:#4ade80; border-radius:50%; box-shadow: 0 0 5px #4ade80;"></div>
-            aaduhalde - AI Assistant
-        </div>
-        <div id="chat-messages" style="flex:1; padding:15px; overflow-y:auto; background:#f8f9fa; display:flex; flex-direction:column; gap:10px; color:#333;"></div>
-        <div id="typing-indicator" style="padding: 10px 15px; font-size: 12px; color: #888; display: none; background: #f8f9fa; font-style: italic;">Marla is typing...</div>
-        <div style="border-top:1px solid #eee; padding:12px; background:white;">
-            <input id="chat-input" type="text" placeholder="Type a message..." style="width:100%; border:none; outline:none; font-size:14px; color:#333; background:transparent;">
-        </div>
-    </div>
-
-    <script>
-        // Chatbot Logic
-        (function() {
-            const workerURL = "https://aaduhalde-chatbot.aaduhalde.workers.dev/";
-            const button = document.getElementById("chat-button");
-            const windowChat = document.getElementById("chat-window");
-            const messages = document.getElementById("chat-messages");
-            const input = document.getElementById("chat-input");
-            const typingIndicator = document.getElementById("typing-indicator");
-
-            let userId = sessionStorage.getItem("aaduhalde_chat_session");
-            if (!userId) {
-                userId = "session_" + Math.random().toString(36).substring(2, 10);
-                sessionStorage.setItem("aaduhalde_chat_session", userId);
-            }
-
-            const DEFAULT_WELCOME_EN = "👋 **Hello! I am MARLA**, Virtual Assistant for Alejandro Duhalde.\n\nPlease reply with your preferred option:\n1️⃣ **Continuar en Español**\n2️⃣ **Continue in English**";
-
-            button.onclick = async () => {
-                const isHidden = windowChat.style.display === "none";
-                windowChat.style.display = isHidden ? "flex" : "none";
-                
-                if (isHidden) {
-                    input.focus();
-                    if (messages.children.length === 0) {
-                        typingIndicator.style.display = "block";
-                        try {
-                            const response = await fetch(workerURL, {
-                                method: "POST",
-                                headers: { "Content-Type": "application/json" },
-                                body: JSON.stringify({ message: "", userId: userId })
-                            });
-                            const data = await response.json();
-                            typingIndicator.style.display = "none";
-                            addMessage("Bot", data.reply || DEFAULT_WELCOME_EN);
-                        } catch (err) {
-                            typingIndicator.style.display = "none";
-                            addMessage("Bot", DEFAULT_WELCOME_EN);
-                        }
-                    }
-                }
-            };
-
-            function addMessage(sender, text) {
-                const isBot = sender === "Bot";
-                const msgDiv = document.createElement("div");
-                msgDiv.style.alignSelf = isBot ? "flex-start" : "flex-end";
-                msgDiv.style.maxWidth = "85%";
-                msgDiv.style.padding = "10px 14px";
-                msgDiv.style.borderRadius = "12px";
-                msgDiv.style.fontSize = "14px";
-                msgDiv.style.lineHeight = "1.5";
-                msgDiv.style.background = isBot ? "#e9ecef" : "#2563eb";
-                msgDiv.style.color = isBot ? "#333" : "white";
-                msgDiv.innerHTML = text.replace(/\n/g, '<br>').replace(/\*\*(.*?)\*\*/g, '<b>$1</b>');
-                messages.appendChild(msgDiv);
-                messages.scrollTop = messages.scrollHeight;
-            }
-
-            async function sendMessage(text) {
-                addMessage("You", text);
-                typingIndicator.style.display = "block";
-                try {
-                    const response = await fetch(workerURL, {
-                        method: "POST",
-                        headers: { "Content-Type": "application/json" },
-                        body: JSON.stringify({ message: text, userId: userId })
-                    });
-                    const data = await response.json();
-                    typingIndicator.style.display = "none";
-                    addMessage("Bot", data.reply || "I'm sorry, I couldn't process your request. Type 'MENU' to restart.");
-                } catch (err) {
-                    typingIndicator.style.display = "none";
-                    addMessage("Bot", "Connection error. Please try again. 🔌");
-                }
-            }
-
-            input.addEventListener("keypress", (e) => {
-                if (e.key === "Enter" && input.value.trim()) {
-                    const text = input.value.trim();
-                    input.value = "";
-                    sendMessage(text);
-                }
-            });
-        })();
-    </script>
-</body>
-</html>
+    <!-- CALL TO ACTION / GITHUB LINK -->
+    <section class="text-center pt-8 border-t border-slate-800">
+        <a href="https://github.com/aaduhalde/market-intelligence-data-warehouse" 
+           target="_blank" 
+           class="inline-flex items-center gap-3 bg-blue-600 hover:bg-blue-500 text-white px-8 py-4 rounded-xl font-bold text-lg transition shadow-lg hover:shadow-blue-500/20">
+            <i class="fab fa-github text-2xl"></i>
+            View Repository on GitHub
+        </a>
+    </section>
+</article>
