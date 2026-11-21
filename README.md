@@ -9,76 +9,76 @@
 
 ---
 
-## Resumen del Proyecto
+## Project Overview
 
-Este proyecto implementa una plataforma de datos end-to-end (**Market Intelligence Data Platform**) orientada a capturar, procesar, modelar y analizar el mercado laboral tecnológico en LATAM (con foco en Perú y Argentina, incluyendo modalidades remotas y presenciales/híbridas).
+This project implements an end-to-end data platform (**Market Intelligence Data Platform**) designed to capture, process, model, and analyze the tech job market in LATAM (focusing on Peru and Argentina, including remote and on-site/hybrid work modalities).
 
-Transforma datos de ofertas de empleo obtenidas vía **SerpAPI (Google Jobs)** o archivos crudos locales en un **Data Warehouse analítico (Modelo Estrella)** desplegado en **SQL Server Local (`JobMarketDB`)**, con validaciones de calidad de datos, motor de *matching* para el perfil del candidato y exportación a CSV para análisis y consumo en **Power BI**.
+It transforms job posting data obtained via **SerpAPI (Google Jobs)** or local raw files into an **analytical Data Warehouse (Star Schema)** deployed on **Local SQL Server (`JobMarketDB`)**, featuring automated data quality validations, a candidate profile *matching* engine, and CSV exports for analysis and consumption in **Power BI**.
 
 ---
 
-## Arquitectura y Flujo de Datos (Fases 0 a 9)
+## Architecture & Data Flow (Phases 0 to 9)
 
 ```text
-  [ SerpAPI / Raw JSON locales ]
+  [ SerpAPI / Local Raw JSONs ]
                │
                ▼
-1. Ingesta Condicional (RUN_SERPAPI_INGEST) ──► data/1_raw/*.json & data/ingestion_state.json
+1. Conditional Ingestion (RUN_SERPAPI_INGEST) ──► data/1_raw/*.json & data/ingestion_state.json
                │
                ▼
-2. Procesamiento & Normalización           ──► data/2_staged/vacantes_staged.parquet
+2. Processing & Normalization                 ──► data/2_staged/vacantes_staged.parquet
                │
                ▼
-3. Setup SQL Server Local (JobMarketDB)    ──► Esquemas: staging, warehouse, analytics
+3. Local SQL Server Setup (JobMarketDB)       ──► Schemas: staging, warehouse, analytics
                │
                ▼
-4. Carga Staging & ETL Modelo Estrella      ──► staging.stg_* ─► warehouse.fact_* & Dims
+4. Staging Load & Star Schema ETL             ──► staging.stg_* ─► warehouse.fact_* & Dims
                │
                ▼
-5. Auditoría de Calidad (Data Quality)     ──► Unicidad, FK/huérfanos, M:N y taxonomía skills
+5. Data Quality Audit                         ──► Uniqueness, FK/orphans, M:N & skill taxonomy
                │
                ▼
-6. Capa Analítica & Candidate Matcher       ──► analytics.vw_* & CandidateMatcher
+6. Analytics Layer & Candidate Matcher        ──► analytics.vw_* & CandidateMatcher
                │
                ▼
-7. Exportación & Reconciliación CSV        ──► data/3_csv/*.csv (Power BI / BI)
+7. CSV Export & Reconciliation                ──► data/3_csv/*.csv (Power BI / BI)
 ```
 
 ---
 
-## Configuración del Entorno Local (`.env`)
+## Local Environment Configuration (`.env`)
 
-Crea o ajusta el archivo `.env` en la raíz del proyecto con las siguientes variables:
+Create or update the `.env` file in the project root with the following variables:
 
 ```env
 # SerpAPI Credential
-SERPAPI_API_KEY=TUS DATOS
+SERPAPI_API_KEY=YOUR_DATA
 RUN_SERPAPI_INGEST=N
-# Recordar pasar el flag a Y para consumir la API; en N reutiliza los JSON locales en data/1_raw
+# Remember to set the flag to Y to consume the API; when set to N, it reuses local JSONs in data/1_raw
 
 # Pipeline Settings
 RAW_DATA_PATH=data/1_raw
 
-# SQL Server Local
+# Local SQL Server
 DB_SERVER=localhost
 DB_NAME=JobMarketDB
-DB_USER=TUS DATOS
-DB_PASSWORD=TUS DATOS
+DB_USER=YOUR_DATA
+DB_PASSWORD=YOUR_DATA
 DB_PORT=1433
 DB_DRIVER=ODBC Driver 18 for SQL Server
 ```
 
 ---
 
-## Ejecución del Pipeline
+## Pipeline Execution
 
-El orquestador central (`main.py`) permite ejecutar el pipeline completo con *gate control* (detiene la ejecución si una fase falla) o ejecutar una fase específica de forma aislada:
+The central orchestrator (`main.py`) allows you to run the entire pipeline with *gate control* (halting execution if any phase fails) or run a specific phase in isolation:
 
 ```bash
-# Ejecutar todas las fases en secuencia (Fases 0 a 9)
+# Run all phases sequentially (Phases 0 to 9)
 python main.py --all
 
-# Ejecutar una fase específica de forma aislada (0 a 9)
+# Run a specific phase in isolation (0 to 9)
 python main.py --phase 0
 python main.py --phase 2
 python main.py --phase 5
@@ -86,29 +86,29 @@ python main.py --phase 5
 
 ---
 
-## Reglas de Negocio Clave (Business Rules)
+## Key Business Rules
 
-- **Deduplicación e Identificador (`BR-001` / `BR-012`)**: Generación de hash determinista (`job_id`) y restricción de unicidad por snapshot (`proveedor_ingesta`, `source_job_id`, `fecha_captura_id`).
-- **Taxonomía de Roles y Skills (`BR-004` / `BR-015` / `BR-017`)**: Clasificación estandarizada de roles (`primary`, `secondary`, `legacy_leverage`) según `config/roles.yaml` y extracción de habilidades técnicas mediante regex contra `config/skills.yaml`, enriquecidas dinámicamente en `warehouse.dim_skill`.
-- **Geografía y Prioridad de Mercado (`BR-006` / `BR-007`)**: Normalización de ubicación (`ciudad`, `pais`, `market_tier`) conservando el valor original `ubicacion_raw`.
-- **Candidate Matching Engine (`BR-020` / `BR-021`)**: Motor de cálculo de ajuste candidato vs. oferta (`skill_match_score`, `candidate_accessibility_index` combinando geografía e idioma, y `effective_match_score`) basado en `config/candidate_profile.yaml` y `config/metrics.yaml`.
-- **Calidad de Datos y Reconciliación (`BR-025`)**: Validaciones automatizadas en cada fase (integridad referencial, unicidad M:N, cobertura de taxonomías) y conciliación fila a fila y de esquema entre SQL Server Local y `data/3_csv/`.
+- **Deduplication & Identifier (`BR-001` / `BR-012`)**: Deterministic hash generation (`job_id`) and uniqueness constraint per snapshot (`proveedor_ingesta`, `source_job_id`, `fecha_captura_id`).
+- **Role & Skill Taxonomy (`BR-004` / `BR-015` / `BR-017`)**: Standardized role classification (`primary`, `secondary`, `legacy_leverage`) according to `config/roles.yaml` and technical skill extraction via regex against `config/skills.yaml`, dynamically enriched in `warehouse.dim_skill`.
+- **Geography & Market Priority (`BR-006` / `BR-007`)**: Location normalization (`ciudad`, `pais`, `market_tier`) while preserving the original `ubicacion_raw` value.
+- **Candidate Matching Engine (`BR-020` / `BR-021`)**: Calculation engine for candidate-to-job fit (`skill_match_score`, `candidate_accessibility_index` combining geography and language, and `effective_match_score`) based on `config/candidate_profile.yaml` and `config/metrics.yaml`.
+- **Data Quality & Reconciliation (`BR-025`)**: Automated validations at every phase (referential integrity, M:N uniqueness, taxonomy coverage) and row-by-row and schema reconciliation between Local SQL Server and `data/3_csv/`.
 
 ---
 
-## Estructura del Repositorio
+## Repository Structure
 
 ```text
 market-intelligence-jobs/
-├── .github/workflows/     # CI/CD: Workflow de pipeline en GitHub Actions
+├── .github/workflows/     # CI/CD: GitHub Actions pipeline workflow
 ├── config/                # candidate_profile.yaml, metrics.yaml, roles.yaml, skills.yaml, sources.yaml
 ├── data/
-│   ├── 1_raw/             # Respuestas JSON crudas de SerpAPI
-│   ├── 2_staged/          # Dataset intermedio normalizado (vacantes_staged.parquet)
-│   ├── 3_csv/             # Exportaciones CSV de tablas y vistas (esquema_objeto.csv)
+│   ├── 1_raw/             # Raw JSON responses from SerpAPI
+│   ├── 2_staged/          # Normalized intermediate dataset (vacantes_staged.parquet)
+│   ├── 3_csv/             # CSV exports of tables and views (schema_object.csv)
 │   └── ingestion_state.json
-├── data_specification/    # business_rules.md y taxonomy.md
-├── project_specification/ # business_requirements.md y project_definition.md
+├── data_specification/    # business_rules.md and taxonomy.md
+├── project_specification/ # business_requirements.md and project_definition.md
 ├── sql/
 │   ├── warehouse/         # 01_database_setup.sql, 02_star_schema.sql
 │   ├── staging/           # 01_load_dw_from_staging.sql
@@ -117,44 +117,44 @@ market-intelligence-jobs/
 │   ├── analytics/         # init_analytics.py, candidate_matcher.py
 │   ├── export/            # export_tables_to_csv.py
 │   ├── ingestion/         # serpapi_ingest.py, procesar_vacantes.py, load_warehouse.py
-│   ├── phases/            # phase0_env.py a phase9_export.py (Quality Gates)
+│   ├── phases/            # phase0_env.py to phase9_export.py (Quality Gates)
 │   └── utils/             # config_loader.py, db_connector.py, init_db.py
-├── main.py                # Orquestador CLI por fases (--phase / --all)
-└── requirements.txt       # Dependencias del proyecto
+├── main.py                # CLI orchestrator by phase (--phase / --all)
+└── requirements.txt       # Project dependencies
 ```
 
 ---
 
-## Módulos Destacados
+## Key Modules
 
-- **Ingesta Incremental y Controlada por Flag (`serpapi_ingest.py` + `phase2_ingestion.py`)**: Respeta `RUN_SERPAPI_INGEST` (`Y`/`N`), mantiene el estado en `data/ingestion_state.json` y ajusta la ventana temporal (`today`, `3days`, `week`, `month`) según los días transcurridos desde la última ingesta.
-- **Procesamiento y Staging en Parquet (`procesar_vacantes.py`)**: Extrae skills, clasifica roles, parsea ubicaciones y fechas relativas, detecta seniority y requisito de inglés, y deduplica incrementalmente sobre `data/2_staged/vacantes_staged.parquet`.
-- **Carga Set-Based a Modelo Estrella (`load_warehouse.py` + `01_load_dw_from_staging.sql`)**: Carga `staging.stg_observacion_oferta` y `staging.stg_skill_taxonomy`, y puebla dimensiones (`dim_empresa`, `dim_ubicacion`, `dim_rol`, `dim_modalidad`, `dim_skill`, `dim_fecha`), tabla de hechos (`fact_observacion_oferta`) y tabla puente (`rel_oferta_skill`).
-- **Candidate Matcher (`candidate_matcher.py`)**: Evalúa cada oferta del Data Warehouse contra el perfil del candidato y calcula puntuaciones efectivas y brechas de habilidades.
+- **Flag-Controlled Incremental Ingestion (`serpapi_ingest.py` + `phase2_ingestion.py`)**: Honors `RUN_SERPAPI_INGEST` (`Y`/`N`), tracks state in `data/ingestion_state.json`, and dynamically adjusts the time window (`today`, `3days`, `week`, `month`) based on the days elapsed since the last ingestion.
+- **Parquet Processing & Staging (`procesar_vacantes.py`)**: Extracts skills, classifies roles, parses locations and relative dates, detects seniority and English language requirements, and performs incremental deduplication on `data/2_staged/vacantes_staged.parquet`.
+- **Set-Based Star Schema Load (`load_warehouse.py` + `01_load_dw_from_staging.sql`)**: Loads `staging.stg_observacion_oferta` and `staging.stg_skill_taxonomy`, and populates dimensions (`dim_empresa`, `dim_ubicacion`, `dim_rol`, `dim_modalidad`, `dim_skill`, `dim_fecha`), the fact table (`fact_observacion_oferta`), and the bridge table (`rel_oferta_skill`).
+- **Candidate Matcher (`candidate_matcher.py`)**: Evaluates each Data Warehouse job posting against the candidate profile, calculating effective match scores and skill gaps.
 
 ---
 
-## Guía de Pruebas y Auditoría por Fase (`src/phases/`)
+## Phase-by-Phase Testing & Audit Guide (`src/phases/`)
 
-Cada fase ejecuta una batería de verificaciones con salida `[PASS]` / `[FAIL]`. A continuación se detalla qué audita cada fase y qué puntos se pueden modificar o ajustar según las necesidades del proyecto:
+Each phase runs a suite of verification checks outputting `[PASS]` / `[FAIL]`. Below is a breakdown of what each phase audits and what points can be tuned or adjusted based on project requirements:
 
-| Fase | Script | Pruebas Actuales (`P*-*`) | Puntos de Ajuste, Corrección o Auditoría |
+| Phase | Script | Current Checks (`P*-*`) | Tuning, Fix, or Audit Points |
 | :--- | :--- | :--- | :--- |
-| **Fase 0** | `phase0_env.py` | Python $\ge 3.10$, `requirements.txt`, paquetes críticos, directorios, YAMLs, sintaxis de `src/`, imports y `.env` (`DB_SERVER`, `DB_NAME`). | **En `P0-09`**: Ampliar la validación para exigir también `DB_USER`, `DB_PASSWORD`, `DB_PORT` y `DB_DRIVER`.<br>**En `P0-05`**: Ajustar `required_dirs` si no se requiere `images/`. |
-| **Fase 1** | `phase1_config.py` | Sintaxis y claves raíz de los 5 YAMLs, unicidad de roles/skills, categorías, métricas y rangos `[0.0, 1.0]` en `candidate_profile.yaml`. | **En `P1-04/05` y `P1-06/07`**: Normalizar con `.strip().lower()` para detectar duplicados insensibles a mayúsculas.<br>**En `P1-08`**: Validar explícitamente las claves de métricas esperadas (`skill_match_score`, `effective_match_score`, etc.). |
-| **Fase 2** | `phase2_ingestion.py` | Flag `RUN_SERPAPI_INGEST` (`Y`/`N`), presencia y JSON válido en `data/1_raw/*.json`, esquema `jobs_results`, campos mínimos y `ingestion_state.json`. | **En `P2-03`**: Ajustar el umbral `total_jobs_found > 0` si se permiten corridas sin vacantes nuevas.<br>**En `P2-07/08/09`**: Exigir la existencia de `ingestion_state.json` siempre que `RUN_SERPAPI_INGEST=Y`. |
-| **Fase 3** | `phase3_processing.py` | Lectura de JSON crudos, ejecución de `procesar_incremental()`, esquema de `vacantes_staged.parquet`, estabilidad/unicidad de `job_id` y reproducibilidad. | **En `procesar_vacantes.py`**: `extraer_seniority` y `extraer_requisito_ingles` solo evalúan el título; pueden ampliarse a la descripción completa.<br>**En `P3-12`**: Comparar también hashes/valores de `job_id` además del conteo de filas. |
-| **Fase 4** | `phase4_database.py` | Auto-creación de `JobMarketDB` y conexión (`P4-01`), esquemas (`staging`, `warehouse`, `analytics`), ejecución por lotes `GO` y existencia de las 9 tablas base. | **En `P4-03`**: Hacer que cualquier excepción SQL falle el gate de forma explícita.<br>**En `P4-04`**: Incluir también las vistas de `analytics` en la verificación de objetos creados. |
-| **Fase 5** | `phase5_etl.py` | Disponibilidad de Parquet staged, carga a `staging.stg_observacion_oferta`, ejecución de `01_load_dw_from_staging.sql` y conteos $> 0$ en hechos, dimensiones y puente M:N. | **En `P5-05`**: Ajustar la validación `rels > 0` si se prueban lotes sin skills detectadas.<br>**En `01_load_dw_from_staging.sql`**: Auditar registros asignados con valores por defecto (`-1` o fecha `19000101`). |
-| **Fase 6** | `phase6_dq.py` | Unicidad de snapshots en `fact_observacion_oferta`, cero empresas huérfanas, unicidad en `rel_oferta_skill` y cobertura de categorías en `dim_skill`. | **En `P6-02`**: Ampliar la auditoría de huérfanos a `rol_id`, `ubicacion_id` y `fecha_captura_id`.<br>**En `P6-04`**: Definir un porcentaje mínimo aceptable de skills categorizadas (ej. $\ge 80\%$). |
-| **Fase 7** | `phase7_analytics.py` | Despliegue de vistas analíticas, reconciliación de conteos vs `fact_observacion_oferta`, distribución de roles/mercados, snapshots y prevención de duplicados. | **En `P7-04`**: Cambiar `skill_demand_count >= 0` a `> 0` cuando se espere demanda poblada.<br>**En `P7-09`**: Incluir `proveedor_ingesta` en la llave de verificación de no duplicidad. |
-| **Fase 8** | `phase8_matcher.py` | Carga de `candidate_profile.yaml`, evaluación de ofertas del DW y validación del rango `[0.0, 100.0]` en `effective_match_score`. | **En `candidate_matcher.py`**: Sincronizar `self.target_roles` con `config/roles.yaml` y auditar los pesos de geografía/idioma contra `metrics.yaml`. |
-| **Fase 9** | `phase9_export.py` | Exportación a `data/3_csv/`, naming `esquema_objeto.csv`, encoding `utf-8-sig`, orden de columnas, conteo de filas vs SQL, muestreo de datos y modo solo lectura. | **En `P9-08`**: Ampliar el muestreo de consistencia más allá de la primera fila/columna (`iloc[0]`).<br>**En `export_tables_to_csv.py`**: Filtrar esquemas si solo se desea exportar `warehouse` y `analytics`. |
+| **Phase 0** | `phase0_env.py` | Python $\ge 3.10$, `requirements.txt`, critical packages, directories, YAMLs, `src/` syntax, imports, and `.env` (`DB_SERVER`, `DB_NAME`). | **In `P0-09`**: Expand validation to also require `DB_USER`, `DB_PASSWORD`, `DB_PORT`, and `DB_DRIVER`.<br>**In `P0-05`**: Adjust `required_dirs` if `images/` is not required. |
+| **Phase 1** | `phase1_config.py` | Syntax and root keys of the 5 YAMLs, uniqueness of roles/skills, categories, metrics, and `[0.0, 1.0]` ranges in `candidate_profile.yaml`. | **In `P1-04/05` & `P1-06/07`**: Normalize with `.strip().lower()` to catch case-insensitive duplicates.<br>**In `P1-08`**: Explicitly validate expected metric keys (`skill_match_score`, `effective_match_score`, etc.). |
+| **Phase 2** | `phase2_ingestion.py` | `RUN_SERPAPI_INGEST` (`Y`/`N`) flag, presence and valid JSON in `data/1_raw/*.json`, `jobs_results` schema, minimum fields, and `ingestion_state.json`. | **In `P2-03`**: Adjust the `total_jobs_found > 0` threshold if runs with zero new postings are allowed.<br>**In `P2-07/08/09`**: Enforce the existence of `ingestion_state.json` whenever `RUN_SERPAPI_INGEST=Y`. |
+| **Phase 3** | `phase3_processing.py` | Raw JSON reading, `procesar_incremental()` execution, `vacantes_staged.parquet` schema, `job_id` stability/uniqueness, and reproducibility. | **In `procesar_vacantes.py`**: `extraer_seniority` and `extraer_requisito_ingles` only evaluate the job title; they can be expanded to the full description.<br>**In `P3-12`**: Compare `job_id` hashes/values in addition to row counts. |
+| **Phase 4** | `phase4_database.py` | `JobMarketDB` auto-creation and connection (`P4-01`), schemas (`staging`, `warehouse`, `analytics`), `GO` batch execution, and existence of the 9 base tables. | **In `P4-03`**: Ensure any SQL exception explicitly fails the quality gate.<br>**In `P4-04`**: Also include `analytics` views when verifying created database objects. |
+| **Phase 5** | `phase5_etl.py` | Staged Parquet availability, load into `staging.stg_observacion_oferta`, execution of `01_load_dw_from_staging.sql`, and counts $> 0$ in fact, dimensions, and M:N bridge. | **In `P5-05`**: Adjust the `rels > 0` check if testing batches without detected skills.<br>**In `01_load_dw_from_staging.sql`**: Audit records assigned default fallback values (`-1` or date `19000101`). |
+| **Phase 6** | `phase6_dq.py` | Snapshot uniqueness in `fact_observacion_oferta`, zero orphaned companies, uniqueness in `rel_oferta_skill`, and category coverage in `dim_skill`. | **In `P6-02`**: Expand orphan checks to `rol_id`, `ubicacion_id`, and `fecha_captura_id`.<br>**In `P6-04`**: Define a minimum acceptable percentage of categorized skills (e.g., $\ge 80\%$). |
+| **Phase 7** | `phase7_analytics.py` | Deployment of analytics views, count reconciliation vs. `fact_observacion_oferta`, role/market distribution, snapshots, and duplicate prevention. | **In `P7-04`**: Change `skill_demand_count >= 0` to `> 0` when populated demand is expected.<br>**In `P7-09`**: Include `proveedor_ingesta` in the uniqueness verification key. |
+| **Phase 8** | `phase8_matcher.py` | Loading `candidate_profile.yaml`, evaluating DW job postings, and validating the `[0.0, 100.0]` range for `effective_match_score`. | **In `candidate_matcher.py`**: Sync `self.target_roles` with `config/roles.yaml` and audit geography/language weights against `metrics.yaml`. |
+| **Phase 9** | `phase9_export.py` | Export to `data/3_csv/`, `schema_object.csv` naming, `utf-8-sig` encoding, column order, row count vs. SQL, data sampling, and read-only mode. | **In `P9-08`**: Expand consistency sampling beyond the first row/column (`iloc[0]`).<br>**In `export_tables_to_csv.py`**: Filter schemas if only `warehouse` and `analytics` exports are desired. |
 
 ---
 
-## Tecnologías Utilizadas
+## Technologies Used
 
-- **Lenguaje y Librerías**: Python 3.12 (`pandas`, `SQLAlchemy`, `pyodbc`, `PyYAML`, `python-dotenv`, `serpapi`).
-- **Base de Datos**: SQL Server Local (`JobMarketDB`), T-SQL (esquemas, vistas, restricciones de unicidad e integridad referencial).
-- **CI/CD y BI**: GitHub Actions, Parquet / CSV (`utf-8-sig`), Power BI.
+- **Language & Libraries**: Python 3.12 (`pandas`, `SQLAlchemy`, `pyodbc`, `PyYAML`, `python-dotenv`, `serpapi`).
+- **Database**: Local SQL Server (`JobMarketDB`), T-SQL (schemas, views, uniqueness constraints, and referential integrity).
+- **CI/CD & BI**: GitHub Actions, Parquet / CSV (`utf-8-sig`), Power BI.
