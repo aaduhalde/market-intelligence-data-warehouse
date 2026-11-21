@@ -1,0 +1,583 @@
+{
+  "search_metadata": {
+    "id": "6b02029dd757f3bef829c567",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/EhXG1JlooNT0bhHEq3HwtMgSjhBU_1qoWfLERojE5Xg/6b02029dd757f3bef829c567.json",
+    "markdown_endpoint": "https://serpapi.com/searches/EhXG1JlooNT0bhHEq3HwtMgSjhBU_1qoWfLERojE5Xg/6b02029dd757f3bef829c567.md",
+    "created_at": "2026-11-21 20:44:13 UTC",
+    "processed_at": "2026-11-21 20:44:13 UTC",
+    "google_jobs_url": "https://www.google.com/search?q=atenci%C3%B3n+al+cliente&hl=es&gl=pe&udm=8&uule=w+CAIQICIEUGVydQ",
+    "raw_html_file": "https://serpapi.com/searches/EhXG1JlooNT0bhHEq3HwtMgSjhBU_1qoWfLERojE5Xg/6b02029dd757f3bef829c567.html",
+    "total_time_taken": 0.82
+  },
+  "search_parameters": {
+    "q": "atención al cliente",
+    "engine": "google_jobs",
+    "location_requested": "Peru",
+    "location_used": "Peru",
+    "google_domain": "google.com",
+    "hl": "es",
+    "gl": "pe"
+  },
+  "filters": [
+    {
+      "name": "Tipo de trabajo",
+      "options": [
+        {
+          "name": "Tiempo completo",
+          "parameters": {
+            "uds": "AE2AFgbf06ZzDvczg9XBG5Z3qflX-vdR2VVh1ohkmV47uRHDEq2wNIT8GOGpJTft7GBT9Lvd-N8Dpf-DC7HQXj-0G5VYfCEofFmtGEJF6L93EjValSY8KSCDTKnLfc2b6iyECX5yxXZtwMcBjCYfOgJ-aUtLAJmVK23Z23xUiYE7EVMgn3ZHarPLfOWUH6XR67akpAAUOm6PRQhe4GzO58VTrtCOpVgwqR62pnvh4Edh-5_pVtP_5l0P5hzPB9FgPnLz7SnS9ei7k9dsikjhnle65dtQ62hPwaZGIZbCNWs15qvfRQUzedGmwDMFzce4ROu3TBhqlKTyheDN5LJ6WWqKYsYQOBHnrsQZClsNBaxYe3_2Sla4nXo",
+            "q": "atención al cliente tiempo completo"
+          },
+          "link": "https://www.google.com/search?sca_esv=06fa6b2cca60171b&hl=es&gl=pe&sxsrf=AKL5yDiZchDV2JzWkj4E4Si2UE8_i8-B9Q:1795293854165&q=atenci%C3%B3n+al+cliente+tiempo+completo&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflX-vdR2VVh1ohkmV47uRHDEq2wNIT8GOGpJTft7GBT9Lvd-N8Dpf-DC7HQXj-0G5VYfCEofFmtGEJF6L93EjValSY8KSCDTKnLfc2b6iyECX5yxXZtwMcBjCYfOgJ-aUtLAJmVK23Z23xUiYE7EVMgn3ZHarPLfOWUH6XR67akpAAUOm6PRQhe4GzO58VTrtCOpVgwqR62pnvh4Edh-5_pVtP_5l0P5hzPB9FgPnLz7SnS9ei7k9dsikjhnle65dtQ62hPwaZGIZbCNWs15qvfRQUzedGmwDMFzce4ROu3TBhqlKTyheDN5LJ6WWqKYsYQOBHnrsQZClsNBaxYe3_2Sla4nXo&udm=8&sa=X&ved=2ahUKEwiNpcfj9pmYAxWqg4kEHTcaFi0QkbEKegQIGRAC",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=pe&google_domain=google.com&hl=es&location=Peru&q=atenci%C3%B3n+al+cliente+tiempo+completo&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflX-vdR2VVh1ohkmV47uRHDEq2wNIT8GOGpJTft7GBT9Lvd-N8Dpf-DC7HQXj-0G5VYfCEofFmtGEJF6L93EjValSY8KSCDTKnLfc2b6iyECX5yxXZtwMcBjCYfOgJ-aUtLAJmVK23Z23xUiYE7EVMgn3ZHarPLfOWUH6XR67akpAAUOm6PRQhe4GzO58VTrtCOpVgwqR62pnvh4Edh-5_pVtP_5l0P5hzPB9FgPnLz7SnS9ei7k9dsikjhnle65dtQ62hPwaZGIZbCNWs15qvfRQUzedGmwDMFzce4ROu3TBhqlKTyheDN5LJ6WWqKYsYQOBHnrsQZClsNBaxYe3_2Sla4nXo"
+        },
+        {
+          "name": "Tiempo parcial",
+          "parameters": {
+            "uds": "AE2AFgbf06ZzDvczg9XBG5Z3qflXAHTd0fRyNKc7YRXz8ybbjtOP0SnKPmJOl5pVZDns_KBGScaz0oIWRIzumfzLy_yJPwkT59OTcKCu2VR70-gW8dKFYlaFXNarOIm4yfXpF2Ys0WBw0AD3YRnVmBNsqdX3JxQXrYr8XcuxoLLiw7Jtk5oWmuOi2FP5UD2HV0MVXxX5lApyhOeFxeJRofb01tT2BZF1q1SSe3nLiMuoJGesfcdNR66FzuGVuFtF9_UZN5OWqjbh-zIYWEh1YvsTGioZ64hKYsXrDVB-E1hx83F8dWU3qBqES-dt6-IhjQ1Se563Vod-PsNqXPDuQUu7Yn4ebR7_doZ7gfhqHuE34mlgFlgUnKRwaCAp41_4L8ik0hafMB20",
+            "q": "atención al cliente tiempo parcial"
+          },
+          "link": "https://www.google.com/search?sca_esv=06fa6b2cca60171b&hl=es&gl=pe&sxsrf=AKL5yDiZchDV2JzWkj4E4Si2UE8_i8-B9Q:1795293854165&q=atenci%C3%B3n+al+cliente+tiempo+parcial&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXAHTd0fRyNKc7YRXz8ybbjtOP0SnKPmJOl5pVZDns_KBGScaz0oIWRIzumfzLy_yJPwkT59OTcKCu2VR70-gW8dKFYlaFXNarOIm4yfXpF2Ys0WBw0AD3YRnVmBNsqdX3JxQXrYr8XcuxoLLiw7Jtk5oWmuOi2FP5UD2HV0MVXxX5lApyhOeFxeJRofb01tT2BZF1q1SSe3nLiMuoJGesfcdNR66FzuGVuFtF9_UZN5OWqjbh-zIYWEh1YvsTGioZ64hKYsXrDVB-E1hx83F8dWU3qBqES-dt6-IhjQ1Se563Vod-PsNqXPDuQUu7Yn4ebR7_doZ7gfhqHuE34mlgFlgUnKRwaCAp41_4L8ik0hafMB20&udm=8&sa=X&ved=2ahUKEwiNpcfj9pmYAxWqg4kEHTcaFi0QkbEKegQIGRAD",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=pe&google_domain=google.com&hl=es&location=Peru&q=atenci%C3%B3n+al+cliente+tiempo+parcial&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXAHTd0fRyNKc7YRXz8ybbjtOP0SnKPmJOl5pVZDns_KBGScaz0oIWRIzumfzLy_yJPwkT59OTcKCu2VR70-gW8dKFYlaFXNarOIm4yfXpF2Ys0WBw0AD3YRnVmBNsqdX3JxQXrYr8XcuxoLLiw7Jtk5oWmuOi2FP5UD2HV0MVXxX5lApyhOeFxeJRofb01tT2BZF1q1SSe3nLiMuoJGesfcdNR66FzuGVuFtF9_UZN5OWqjbh-zIYWEh1YvsTGioZ64hKYsXrDVB-E1hx83F8dWU3qBqES-dt6-IhjQ1Se563Vod-PsNqXPDuQUu7Yn4ebR7_doZ7gfhqHuE34mlgFlgUnKRwaCAp41_4L8ik0hafMB20"
+        },
+        {
+          "name": "Con contrato",
+          "parameters": {
+            "uds": "AE2AFgbf06ZzDvczg9XBG5Z3qflXLbm6vZ1_L0rvPtIz4AnPUmyZotjrHdMLC2aR7hCXtQcf5rTkNKrC-KZjE7OCVg7YHvE2Y3WBuOVTXiSD6v8ADQ4HoJQV86Pohz8lhugCkYTzp0NtlwYYuvqhTxe57NVQ66qr852pGIuSEgbuA47T82sXt1qs_xiqt4ocqpLyb3ulStjzYbUM0dOc0e3XE4EtqC9NcURszE3N3ZR7N7YhQ-QemFCk2Vtvl9YZKXpfWjP7xZCh76X_zTsWwuADbUYVuaOx09b4-lit8P7-PwJ0I5II6KcSZ7J1Wn69Q2no9Bi6AVP4-dCqaXhJrT7Jz5zs1Dq-0oLdulcYv8kKxgzqXF6l_5Yu47_JF9BFg_a-bzMJ1J83",
+            "q": "atención al cliente con contrato"
+          },
+          "link": "https://www.google.com/search?sca_esv=06fa6b2cca60171b&hl=es&gl=pe&sxsrf=AKL5yDiZchDV2JzWkj4E4Si2UE8_i8-B9Q:1795293854165&q=atenci%C3%B3n+al+cliente+con+contrato&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXLbm6vZ1_L0rvPtIz4AnPUmyZotjrHdMLC2aR7hCXtQcf5rTkNKrC-KZjE7OCVg7YHvE2Y3WBuOVTXiSD6v8ADQ4HoJQV86Pohz8lhugCkYTzp0NtlwYYuvqhTxe57NVQ66qr852pGIuSEgbuA47T82sXt1qs_xiqt4ocqpLyb3ulStjzYbUM0dOc0e3XE4EtqC9NcURszE3N3ZR7N7YhQ-QemFCk2Vtvl9YZKXpfWjP7xZCh76X_zTsWwuADbUYVuaOx09b4-lit8P7-PwJ0I5II6KcSZ7J1Wn69Q2no9Bi6AVP4-dCqaXhJrT7Jz5zs1Dq-0oLdulcYv8kKxgzqXF6l_5Yu47_JF9BFg_a-bzMJ1J83&udm=8&sa=X&ved=2ahUKEwiNpcfj9pmYAxWqg4kEHTcaFi0QkbEKegQIGRAE",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=pe&google_domain=google.com&hl=es&location=Peru&q=atenci%C3%B3n+al+cliente+con+contrato&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXLbm6vZ1_L0rvPtIz4AnPUmyZotjrHdMLC2aR7hCXtQcf5rTkNKrC-KZjE7OCVg7YHvE2Y3WBuOVTXiSD6v8ADQ4HoJQV86Pohz8lhugCkYTzp0NtlwYYuvqhTxe57NVQ66qr852pGIuSEgbuA47T82sXt1qs_xiqt4ocqpLyb3ulStjzYbUM0dOc0e3XE4EtqC9NcURszE3N3ZR7N7YhQ-QemFCk2Vtvl9YZKXpfWjP7xZCh76X_zTsWwuADbUYVuaOx09b4-lit8P7-PwJ0I5II6KcSZ7J1Wn69Q2no9Bi6AVP4-dCqaXhJrT7Jz5zs1Dq-0oLdulcYv8kKxgzqXF6l_5Yu47_JF9BFg_a-bzMJ1J83"
+        },
+        {
+          "name": "Prácticas",
+          "parameters": {
+            "uds": "AE2AFgbf06ZzDvczg9XBG5Z3qflXvHsaFt552SLxcXKFIM7L-ybwlYuRenuFFFJGePymK7FNdmajNPrO369wdItiZKMa0mN1XKdMfexOHLkbJaV7T_uVVMfSfnzRrkKPzXGsW3N2oky8ejsjU0omiLHcM_lad0uzIDfu2Qrq09QqBEXr_ySLgYCbzp1ioZWuwe5FquSg3oczaQIUUhWheD-4xZ55vdQZ2e--a_9bsjAnFDHS95qgiIyZt_VqiX2G324ZNfu-qRZ6pGm1S8OX6O7uD9eMHDoq_V_HJd9fg5nkYzjp3dT7McPVRlStocOvcW7l8VSb1mkstRVCFrRxkets6SWUarU_Djr5EiwIax0ZBzCn1J4QsdKuDI9Cf04vxMVipE1qRcnT",
+            "q": "atención al cliente prácticas"
+          },
+          "link": "https://www.google.com/search?sca_esv=06fa6b2cca60171b&hl=es&gl=pe&sxsrf=AKL5yDiZchDV2JzWkj4E4Si2UE8_i8-B9Q:1795293854165&q=atenci%C3%B3n+al+cliente+pr%C3%A1cticas&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXvHsaFt552SLxcXKFIM7L-ybwlYuRenuFFFJGePymK7FNdmajNPrO369wdItiZKMa0mN1XKdMfexOHLkbJaV7T_uVVMfSfnzRrkKPzXGsW3N2oky8ejsjU0omiLHcM_lad0uzIDfu2Qrq09QqBEXr_ySLgYCbzp1ioZWuwe5FquSg3oczaQIUUhWheD-4xZ55vdQZ2e--a_9bsjAnFDHS95qgiIyZt_VqiX2G324ZNfu-qRZ6pGm1S8OX6O7uD9eMHDoq_V_HJd9fg5nkYzjp3dT7McPVRlStocOvcW7l8VSb1mkstRVCFrRxkets6SWUarU_Djr5EiwIax0ZBzCn1J4QsdKuDI9Cf04vxMVipE1qRcnT&udm=8&sa=X&ved=2ahUKEwiNpcfj9pmYAxWqg4kEHTcaFi0QkbEKegQIGRAF",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=pe&google_domain=google.com&hl=es&location=Peru&q=atenci%C3%B3n+al+cliente+pr%C3%A1cticas&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXvHsaFt552SLxcXKFIM7L-ybwlYuRenuFFFJGePymK7FNdmajNPrO369wdItiZKMa0mN1XKdMfexOHLkbJaV7T_uVVMfSfnzRrkKPzXGsW3N2oky8ejsjU0omiLHcM_lad0uzIDfu2Qrq09QqBEXr_ySLgYCbzp1ioZWuwe5FquSg3oczaQIUUhWheD-4xZ55vdQZ2e--a_9bsjAnFDHS95qgiIyZt_VqiX2G324ZNfu-qRZ6pGm1S8OX6O7uD9eMHDoq_V_HJd9fg5nkYzjp3dT7McPVRlStocOvcW7l8VSb1mkstRVCFrRxkets6SWUarU_Djr5EiwIax0ZBzCn1J4QsdKuDI9Cf04vxMVipE1qRcnT"
+        }
+      ]
+    },
+    {
+      "name": "Tipo de trabajo",
+      "options": [
+        {
+          "name": "Tiempo completo",
+          "parameters": {
+            "uds": "AE2AFgbf06ZzDvczg9XBG5Z3qflX-vdR2VVh1ohkmV47uRHDEq2wNIT8GOGpJTft7GBT9Lvd-N8Dpf-DC7HQXj-0G5VYfCEofFmtGEJF6L93EjValSY8KSCDTKnLfc2b6iyECX5yxXZtwMcBjCYfOgJ-aUtLAJmVK23Z23xUiYE7EVMgn3ZHarPLfOWUH6XR67akpAAUOm6PRQhe4GzO58VTrtCOpVgwqR62pnvh4Edh-5_pVtP_5l0P5hzPB9FgPnLz7SnS9ei7k9dsikjhnle65dtQ62hPwaZGIZbCNWs15qvfRQUzedGmwDMFzce4ROu3TBhqlKTyheDN5LJ6WWqKYsYQOBHnrsQZClsNBaxYe3_2Sla4nXo",
+            "q": "atención al cliente tiempo completo"
+          },
+          "link": "https://www.google.com/search?sca_esv=06fa6b2cca60171b&hl=es&gl=pe&sxsrf=AKL5yDiZchDV2JzWkj4E4Si2UE8_i8-B9Q:1795293854165&q=atenci%C3%B3n+al+cliente+tiempo+completo&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflX-vdR2VVh1ohkmV47uRHDEq2wNIT8GOGpJTft7GBT9Lvd-N8Dpf-DC7HQXj-0G5VYfCEofFmtGEJF6L93EjValSY8KSCDTKnLfc2b6iyECX5yxXZtwMcBjCYfOgJ-aUtLAJmVK23Z23xUiYE7EVMgn3ZHarPLfOWUH6XR67akpAAUOm6PRQhe4GzO58VTrtCOpVgwqR62pnvh4Edh-5_pVtP_5l0P5hzPB9FgPnLz7SnS9ei7k9dsikjhnle65dtQ62hPwaZGIZbCNWs15qvfRQUzedGmwDMFzce4ROu3TBhqlKTyheDN5LJ6WWqKYsYQOBHnrsQZClsNBaxYe3_2Sla4nXo&udm=8&sa=X&ved=2ahUKEwiNpcfj9pmYAxWqg4kEHTcaFi0QkbEKegQIGRAC",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=pe&google_domain=google.com&hl=es&location=Peru&q=atenci%C3%B3n+al+cliente+tiempo+completo&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflX-vdR2VVh1ohkmV47uRHDEq2wNIT8GOGpJTft7GBT9Lvd-N8Dpf-DC7HQXj-0G5VYfCEofFmtGEJF6L93EjValSY8KSCDTKnLfc2b6iyECX5yxXZtwMcBjCYfOgJ-aUtLAJmVK23Z23xUiYE7EVMgn3ZHarPLfOWUH6XR67akpAAUOm6PRQhe4GzO58VTrtCOpVgwqR62pnvh4Edh-5_pVtP_5l0P5hzPB9FgPnLz7SnS9ei7k9dsikjhnle65dtQ62hPwaZGIZbCNWs15qvfRQUzedGmwDMFzce4ROu3TBhqlKTyheDN5LJ6WWqKYsYQOBHnrsQZClsNBaxYe3_2Sla4nXo"
+        },
+        {
+          "name": "Tiempo parcial",
+          "parameters": {
+            "uds": "AE2AFgbf06ZzDvczg9XBG5Z3qflXAHTd0fRyNKc7YRXz8ybbjtOP0SnKPmJOl5pVZDns_KBGScaz0oIWRIzumfzLy_yJPwkT59OTcKCu2VR70-gW8dKFYlaFXNarOIm4yfXpF2Ys0WBw0AD3YRnVmBNsqdX3JxQXrYr8XcuxoLLiw7Jtk5oWmuOi2FP5UD2HV0MVXxX5lApyhOeFxeJRofb01tT2BZF1q1SSe3nLiMuoJGesfcdNR66FzuGVuFtF9_UZN5OWqjbh-zIYWEh1YvsTGioZ64hKYsXrDVB-E1hx83F8dWU3qBqES-dt6-IhjQ1Se563Vod-PsNqXPDuQUu7Yn4ebR7_doZ7gfhqHuE34mlgFlgUnKRwaCAp41_4L8ik0hafMB20",
+            "q": "atención al cliente tiempo parcial"
+          },
+          "link": "https://www.google.com/search?sca_esv=06fa6b2cca60171b&hl=es&gl=pe&sxsrf=AKL5yDiZchDV2JzWkj4E4Si2UE8_i8-B9Q:1795293854165&q=atenci%C3%B3n+al+cliente+tiempo+parcial&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXAHTd0fRyNKc7YRXz8ybbjtOP0SnKPmJOl5pVZDns_KBGScaz0oIWRIzumfzLy_yJPwkT59OTcKCu2VR70-gW8dKFYlaFXNarOIm4yfXpF2Ys0WBw0AD3YRnVmBNsqdX3JxQXrYr8XcuxoLLiw7Jtk5oWmuOi2FP5UD2HV0MVXxX5lApyhOeFxeJRofb01tT2BZF1q1SSe3nLiMuoJGesfcdNR66FzuGVuFtF9_UZN5OWqjbh-zIYWEh1YvsTGioZ64hKYsXrDVB-E1hx83F8dWU3qBqES-dt6-IhjQ1Se563Vod-PsNqXPDuQUu7Yn4ebR7_doZ7gfhqHuE34mlgFlgUnKRwaCAp41_4L8ik0hafMB20&udm=8&sa=X&ved=2ahUKEwiNpcfj9pmYAxWqg4kEHTcaFi0QkbEKegQIGRAD",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=pe&google_domain=google.com&hl=es&location=Peru&q=atenci%C3%B3n+al+cliente+tiempo+parcial&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXAHTd0fRyNKc7YRXz8ybbjtOP0SnKPmJOl5pVZDns_KBGScaz0oIWRIzumfzLy_yJPwkT59OTcKCu2VR70-gW8dKFYlaFXNarOIm4yfXpF2Ys0WBw0AD3YRnVmBNsqdX3JxQXrYr8XcuxoLLiw7Jtk5oWmuOi2FP5UD2HV0MVXxX5lApyhOeFxeJRofb01tT2BZF1q1SSe3nLiMuoJGesfcdNR66FzuGVuFtF9_UZN5OWqjbh-zIYWEh1YvsTGioZ64hKYsXrDVB-E1hx83F8dWU3qBqES-dt6-IhjQ1Se563Vod-PsNqXPDuQUu7Yn4ebR7_doZ7gfhqHuE34mlgFlgUnKRwaCAp41_4L8ik0hafMB20"
+        },
+        {
+          "name": "Con contrato",
+          "parameters": {
+            "uds": "AE2AFgbf06ZzDvczg9XBG5Z3qflXLbm6vZ1_L0rvPtIz4AnPUmyZotjrHdMLC2aR7hCXtQcf5rTkNKrC-KZjE7OCVg7YHvE2Y3WBuOVTXiSD6v8ADQ4HoJQV86Pohz8lhugCkYTzp0NtlwYYuvqhTxe57NVQ66qr852pGIuSEgbuA47T82sXt1qs_xiqt4ocqpLyb3ulStjzYbUM0dOc0e3XE4EtqC9NcURszE3N3ZR7N7YhQ-QemFCk2Vtvl9YZKXpfWjP7xZCh76X_zTsWwuADbUYVuaOx09b4-lit8P7-PwJ0I5II6KcSZ7J1Wn69Q2no9Bi6AVP4-dCqaXhJrT7Jz5zs1Dq-0oLdulcYv8kKxgzqXF6l_5Yu47_JF9BFg_a-bzMJ1J83",
+            "q": "atención al cliente con contrato"
+          },
+          "link": "https://www.google.com/search?sca_esv=06fa6b2cca60171b&hl=es&gl=pe&sxsrf=AKL5yDiZchDV2JzWkj4E4Si2UE8_i8-B9Q:1795293854165&q=atenci%C3%B3n+al+cliente+con+contrato&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXLbm6vZ1_L0rvPtIz4AnPUmyZotjrHdMLC2aR7hCXtQcf5rTkNKrC-KZjE7OCVg7YHvE2Y3WBuOVTXiSD6v8ADQ4HoJQV86Pohz8lhugCkYTzp0NtlwYYuvqhTxe57NVQ66qr852pGIuSEgbuA47T82sXt1qs_xiqt4ocqpLyb3ulStjzYbUM0dOc0e3XE4EtqC9NcURszE3N3ZR7N7YhQ-QemFCk2Vtvl9YZKXpfWjP7xZCh76X_zTsWwuADbUYVuaOx09b4-lit8P7-PwJ0I5II6KcSZ7J1Wn69Q2no9Bi6AVP4-dCqaXhJrT7Jz5zs1Dq-0oLdulcYv8kKxgzqXF6l_5Yu47_JF9BFg_a-bzMJ1J83&udm=8&sa=X&ved=2ahUKEwiNpcfj9pmYAxWqg4kEHTcaFi0QkbEKegQIGRAE",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=pe&google_domain=google.com&hl=es&location=Peru&q=atenci%C3%B3n+al+cliente+con+contrato&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXLbm6vZ1_L0rvPtIz4AnPUmyZotjrHdMLC2aR7hCXtQcf5rTkNKrC-KZjE7OCVg7YHvE2Y3WBuOVTXiSD6v8ADQ4HoJQV86Pohz8lhugCkYTzp0NtlwYYuvqhTxe57NVQ66qr852pGIuSEgbuA47T82sXt1qs_xiqt4ocqpLyb3ulStjzYbUM0dOc0e3XE4EtqC9NcURszE3N3ZR7N7YhQ-QemFCk2Vtvl9YZKXpfWjP7xZCh76X_zTsWwuADbUYVuaOx09b4-lit8P7-PwJ0I5II6KcSZ7J1Wn69Q2no9Bi6AVP4-dCqaXhJrT7Jz5zs1Dq-0oLdulcYv8kKxgzqXF6l_5Yu47_JF9BFg_a-bzMJ1J83"
+        },
+        {
+          "name": "Prácticas",
+          "parameters": {
+            "uds": "AE2AFgbf06ZzDvczg9XBG5Z3qflXvHsaFt552SLxcXKFIM7L-ybwlYuRenuFFFJGePymK7FNdmajNPrO369wdItiZKMa0mN1XKdMfexOHLkbJaV7T_uVVMfSfnzRrkKPzXGsW3N2oky8ejsjU0omiLHcM_lad0uzIDfu2Qrq09QqBEXr_ySLgYCbzp1ioZWuwe5FquSg3oczaQIUUhWheD-4xZ55vdQZ2e--a_9bsjAnFDHS95qgiIyZt_VqiX2G324ZNfu-qRZ6pGm1S8OX6O7uD9eMHDoq_V_HJd9fg5nkYzjp3dT7McPVRlStocOvcW7l8VSb1mkstRVCFrRxkets6SWUarU_Djr5EiwIax0ZBzCn1J4QsdKuDI9Cf04vxMVipE1qRcnT",
+            "q": "atención al cliente prácticas"
+          },
+          "link": "https://www.google.com/search?sca_esv=06fa6b2cca60171b&hl=es&gl=pe&sxsrf=AKL5yDiZchDV2JzWkj4E4Si2UE8_i8-B9Q:1795293854165&q=atenci%C3%B3n+al+cliente+pr%C3%A1cticas&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXvHsaFt552SLxcXKFIM7L-ybwlYuRenuFFFJGePymK7FNdmajNPrO369wdItiZKMa0mN1XKdMfexOHLkbJaV7T_uVVMfSfnzRrkKPzXGsW3N2oky8ejsjU0omiLHcM_lad0uzIDfu2Qrq09QqBEXr_ySLgYCbzp1ioZWuwe5FquSg3oczaQIUUhWheD-4xZ55vdQZ2e--a_9bsjAnFDHS95qgiIyZt_VqiX2G324ZNfu-qRZ6pGm1S8OX6O7uD9eMHDoq_V_HJd9fg5nkYzjp3dT7McPVRlStocOvcW7l8VSb1mkstRVCFrRxkets6SWUarU_Djr5EiwIax0ZBzCn1J4QsdKuDI9Cf04vxMVipE1qRcnT&udm=8&sa=X&ved=2ahUKEwiNpcfj9pmYAxWqg4kEHTcaFi0QkbEKegQIGRAF",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=pe&google_domain=google.com&hl=es&location=Peru&q=atenci%C3%B3n+al+cliente+pr%C3%A1cticas&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXvHsaFt552SLxcXKFIM7L-ybwlYuRenuFFFJGePymK7FNdmajNPrO369wdItiZKMa0mN1XKdMfexOHLkbJaV7T_uVVMfSfnzRrkKPzXGsW3N2oky8ejsjU0omiLHcM_lad0uzIDfu2Qrq09QqBEXr_ySLgYCbzp1ioZWuwe5FquSg3oczaQIUUhWheD-4xZ55vdQZ2e--a_9bsjAnFDHS95qgiIyZt_VqiX2G324ZNfu-qRZ6pGm1S8OX6O7uD9eMHDoq_V_HJd9fg5nkYzjp3dT7McPVRlStocOvcW7l8VSb1mkstRVCFrRxkets6SWUarU_Djr5EiwIax0ZBzCn1J4QsdKuDI9Cf04vxMVipE1qRcnT"
+        }
+      ]
+    },
+    {
+      "name": "Fecha de publicación",
+      "options": [
+        {
+          "name": "Ayer",
+          "parameters": {
+            "uds": "AE2AFgbf06ZzDvczg9XBG5Z3qflX_IcOLlR7P5ZVONLGdJVhbAp-1d0G11csV5kI3NONSpwuMEEZ4gpLYmIKVpv2oyGBJ-xxPXWfo072VuRuGhNoc1-JTBKkRx4NAZ11Ssnzae3Ma29t52OD1tyF7UckBoAbSwJN4bGSraVditjQcV0ymHqWs0AcqCFJKVc7jhOpwPzq6sCDTdiff2CmoNiZbGPFCEkCl7YdmNu7On2mJVoP_9_u2Hw4M4SQSdHGU3vR2pdh7SrWvdcoNmmptUy3qhqYp-o7pfFAiPTVvEziszMQNa5xp2jYeD9W3dXMhltxktUWODfuwuLGrQZsJ1fRQHx2Kf8i_nphkLn9IwsPfYb1lBLyqAOId8SC1LIPL9HgIEspPRhW",
+            "q": "atención al cliente desde ayer"
+          },
+          "link": "https://www.google.com/search?sca_esv=06fa6b2cca60171b&hl=es&gl=pe&sxsrf=AKL5yDiZchDV2JzWkj4E4Si2UE8_i8-B9Q:1795293854165&q=atenci%C3%B3n+al+cliente+desde+ayer&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflX_IcOLlR7P5ZVONLGdJVhbAp-1d0G11csV5kI3NONSpwuMEEZ4gpLYmIKVpv2oyGBJ-xxPXWfo072VuRuGhNoc1-JTBKkRx4NAZ11Ssnzae3Ma29t52OD1tyF7UckBoAbSwJN4bGSraVditjQcV0ymHqWs0AcqCFJKVc7jhOpwPzq6sCDTdiff2CmoNiZbGPFCEkCl7YdmNu7On2mJVoP_9_u2Hw4M4SQSdHGU3vR2pdh7SrWvdcoNmmptUy3qhqYp-o7pfFAiPTVvEziszMQNa5xp2jYeD9W3dXMhltxktUWODfuwuLGrQZsJ1fRQHx2Kf8i_nphkLn9IwsPfYb1lBLyqAOId8SC1LIPL9HgIEspPRhW&udm=8&sa=X&ved=2ahUKEwiNpcfj9pmYAxWqg4kEHTcaFi0QkbEKegQIGhAC",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=pe&google_domain=google.com&hl=es&location=Peru&q=atenci%C3%B3n+al+cliente+desde+ayer&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflX_IcOLlR7P5ZVONLGdJVhbAp-1d0G11csV5kI3NONSpwuMEEZ4gpLYmIKVpv2oyGBJ-xxPXWfo072VuRuGhNoc1-JTBKkRx4NAZ11Ssnzae3Ma29t52OD1tyF7UckBoAbSwJN4bGSraVditjQcV0ymHqWs0AcqCFJKVc7jhOpwPzq6sCDTdiff2CmoNiZbGPFCEkCl7YdmNu7On2mJVoP_9_u2Hw4M4SQSdHGU3vR2pdh7SrWvdcoNmmptUy3qhqYp-o7pfFAiPTVvEziszMQNa5xp2jYeD9W3dXMhltxktUWODfuwuLGrQZsJ1fRQHx2Kf8i_nphkLn9IwsPfYb1lBLyqAOId8SC1LIPL9HgIEspPRhW"
+        },
+        {
+          "name": "Últimos 3 días",
+          "parameters": {
+            "uds": "AE2AFgbf06ZzDvczg9XBG5Z3qflXUiUE3Z5fHAVNiHEq4EUEb7ikv5hI88IddXYXlvZYG1fnEhvAcKFKLIpqFq95r-vOQ49cvvE7QCC2cI2YPV72tHyTLs69pwUtf15u9P2cMqdEigBfNKdZs5q_phlhnAP6mYxS0wUa3zUullt_N-Sla42plzE1FdTPoq-myrx42EGkCsxShWxN3PK2Uk7FKAiW9vRacmzcoPWtQW9R56PFJRRQkgVK53_uduSY7r2SGsObSCHQWAIVSRiXHIs6_1RmGTRwP2BzQ8CaijgbQX2DyZMwPwUK4KnQToK73byM3dX0jryGRbM_H9Fzk_B6ndjbPnujy-AaUSwr1n3atrFxNTlBbyremcXJ0jSeF0WvluHR8iaeAsKgRfeyR1uWuJFfKefMIg",
+            "q": "atención al cliente en los últimos 3 días"
+          },
+          "link": "https://www.google.com/search?sca_esv=06fa6b2cca60171b&hl=es&gl=pe&sxsrf=AKL5yDiZchDV2JzWkj4E4Si2UE8_i8-B9Q:1795293854165&q=atenci%C3%B3n+al+cliente+en+los+%C3%BAltimos+3+d%C3%ADas&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXUiUE3Z5fHAVNiHEq4EUEb7ikv5hI88IddXYXlvZYG1fnEhvAcKFKLIpqFq95r-vOQ49cvvE7QCC2cI2YPV72tHyTLs69pwUtf15u9P2cMqdEigBfNKdZs5q_phlhnAP6mYxS0wUa3zUullt_N-Sla42plzE1FdTPoq-myrx42EGkCsxShWxN3PK2Uk7FKAiW9vRacmzcoPWtQW9R56PFJRRQkgVK53_uduSY7r2SGsObSCHQWAIVSRiXHIs6_1RmGTRwP2BzQ8CaijgbQX2DyZMwPwUK4KnQToK73byM3dX0jryGRbM_H9Fzk_B6ndjbPnujy-AaUSwr1n3atrFxNTlBbyremcXJ0jSeF0WvluHR8iaeAsKgRfeyR1uWuJFfKefMIg&udm=8&sa=X&ved=2ahUKEwiNpcfj9pmYAxWqg4kEHTcaFi0QkbEKegQIGhAD",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=pe&google_domain=google.com&hl=es&location=Peru&q=atenci%C3%B3n+al+cliente+en+los+%C3%BAltimos+3+d%C3%ADas&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXUiUE3Z5fHAVNiHEq4EUEb7ikv5hI88IddXYXlvZYG1fnEhvAcKFKLIpqFq95r-vOQ49cvvE7QCC2cI2YPV72tHyTLs69pwUtf15u9P2cMqdEigBfNKdZs5q_phlhnAP6mYxS0wUa3zUullt_N-Sla42plzE1FdTPoq-myrx42EGkCsxShWxN3PK2Uk7FKAiW9vRacmzcoPWtQW9R56PFJRRQkgVK53_uduSY7r2SGsObSCHQWAIVSRiXHIs6_1RmGTRwP2BzQ8CaijgbQX2DyZMwPwUK4KnQToK73byM3dX0jryGRbM_H9Fzk_B6ndjbPnujy-AaUSwr1n3atrFxNTlBbyremcXJ0jSeF0WvluHR8iaeAsKgRfeyR1uWuJFfKefMIg"
+        },
+        {
+          "name": "Última semana",
+          "parameters": {
+            "uds": "AE2AFgbf06ZzDvczg9XBG5Z3qflXmlQ_VJfeKz-PESR9GLmqf01oaQgvLMdEEprh-kyFeJtOX5sVj9r-og717YWaptFE2N3K8FtkonfzWaL65fXRgBYLeSNsPZ0qSqeWIy2Gsw7dGftx7NvOgWn3yCLwp7OpGc1CCZiQhfqo3pd3_LQM5iPrS0IOTP5cOnBXMjNO8u1yLO2DlvX47WopzPCFp6YajHsn-FZOEYLuLUWi811qVrsFEeeEklkY_jWc_zjfADIeyOQra9L_u6UfKzprxKLuDUaKizmfBK6aYTdFgotOk4NYLW-kEo52eshMydN1RG9ItdZTSGDDqJLUvwrFFNGVlL-P9r9oesvY8mRdjNtIELNYVjX3y6587un0OIlyDk07zE3GoIQphLYnLG8tzazOXGBtsg",
+            "q": "atención al cliente en la última semana"
+          },
+          "link": "https://www.google.com/search?sca_esv=06fa6b2cca60171b&hl=es&gl=pe&sxsrf=AKL5yDiZchDV2JzWkj4E4Si2UE8_i8-B9Q:1795293854165&q=atenci%C3%B3n+al+cliente+en+la+%C3%BAltima+semana&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXmlQ_VJfeKz-PESR9GLmqf01oaQgvLMdEEprh-kyFeJtOX5sVj9r-og717YWaptFE2N3K8FtkonfzWaL65fXRgBYLeSNsPZ0qSqeWIy2Gsw7dGftx7NvOgWn3yCLwp7OpGc1CCZiQhfqo3pd3_LQM5iPrS0IOTP5cOnBXMjNO8u1yLO2DlvX47WopzPCFp6YajHsn-FZOEYLuLUWi811qVrsFEeeEklkY_jWc_zjfADIeyOQra9L_u6UfKzprxKLuDUaKizmfBK6aYTdFgotOk4NYLW-kEo52eshMydN1RG9ItdZTSGDDqJLUvwrFFNGVlL-P9r9oesvY8mRdjNtIELNYVjX3y6587un0OIlyDk07zE3GoIQphLYnLG8tzazOXGBtsg&udm=8&sa=X&ved=2ahUKEwiNpcfj9pmYAxWqg4kEHTcaFi0QkbEKegQIGhAE",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=pe&google_domain=google.com&hl=es&location=Peru&q=atenci%C3%B3n+al+cliente+en+la+%C3%BAltima+semana&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXmlQ_VJfeKz-PESR9GLmqf01oaQgvLMdEEprh-kyFeJtOX5sVj9r-og717YWaptFE2N3K8FtkonfzWaL65fXRgBYLeSNsPZ0qSqeWIy2Gsw7dGftx7NvOgWn3yCLwp7OpGc1CCZiQhfqo3pd3_LQM5iPrS0IOTP5cOnBXMjNO8u1yLO2DlvX47WopzPCFp6YajHsn-FZOEYLuLUWi811qVrsFEeeEklkY_jWc_zjfADIeyOQra9L_u6UfKzprxKLuDUaKizmfBK6aYTdFgotOk4NYLW-kEo52eshMydN1RG9ItdZTSGDDqJLUvwrFFNGVlL-P9r9oesvY8mRdjNtIELNYVjX3y6587un0OIlyDk07zE3GoIQphLYnLG8tzazOXGBtsg"
+        },
+        {
+          "name": "Último mes",
+          "parameters": {
+            "uds": "AE2AFgbf06ZzDvczg9XBG5Z3qflXUVQZfi3Vnl3v2JJ2_wcZqbSHALaMpUo1XtGfhqMVt4PmYphlFdviUPqkmXlYs43xaSXNoXUFLysN0Mxoj7ypQixeEJ8FF6XBzWeF59Y-Yoy-k-ekjGq8burIAn3eLAW4X2hMzBS7NC-x4PMc8uBGoq6vHeb3cVenlBaJaAtjE0Yo3_qm3K8lVn6EGFNmtZxLHHqdf-1MWm1_b1ycZwwkecZHeN-ZYptWBsUyiSSVr9uIU_vSqaCglF8kuBcqHchhsnibf1On8NYtTui4X_sWvsvRqngj4COS_b0JItxhaLLa7mDmSoAbT4UOufWxPjhtWEk9v0EXJbsDiioXu6cu6evPa8qJWcSkaHUzHgwdjc-tpTC9zyLVX2KJJfeazoMDxpW-VQ",
+            "q": "atención al cliente en el último mes"
+          },
+          "link": "https://www.google.com/search?sca_esv=06fa6b2cca60171b&hl=es&gl=pe&sxsrf=AKL5yDiZchDV2JzWkj4E4Si2UE8_i8-B9Q:1795293854165&q=atenci%C3%B3n+al+cliente+en+el+%C3%BAltimo+mes&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXUVQZfi3Vnl3v2JJ2_wcZqbSHALaMpUo1XtGfhqMVt4PmYphlFdviUPqkmXlYs43xaSXNoXUFLysN0Mxoj7ypQixeEJ8FF6XBzWeF59Y-Yoy-k-ekjGq8burIAn3eLAW4X2hMzBS7NC-x4PMc8uBGoq6vHeb3cVenlBaJaAtjE0Yo3_qm3K8lVn6EGFNmtZxLHHqdf-1MWm1_b1ycZwwkecZHeN-ZYptWBsUyiSSVr9uIU_vSqaCglF8kuBcqHchhsnibf1On8NYtTui4X_sWvsvRqngj4COS_b0JItxhaLLa7mDmSoAbT4UOufWxPjhtWEk9v0EXJbsDiioXu6cu6evPa8qJWcSkaHUzHgwdjc-tpTC9zyLVX2KJJfeazoMDxpW-VQ&udm=8&sa=X&ved=2ahUKEwiNpcfj9pmYAxWqg4kEHTcaFi0QkbEKegQIGhAF",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=pe&google_domain=google.com&hl=es&location=Peru&q=atenci%C3%B3n+al+cliente+en+el+%C3%BAltimo+mes&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXUVQZfi3Vnl3v2JJ2_wcZqbSHALaMpUo1XtGfhqMVt4PmYphlFdviUPqkmXlYs43xaSXNoXUFLysN0Mxoj7ypQixeEJ8FF6XBzWeF59Y-Yoy-k-ekjGq8burIAn3eLAW4X2hMzBS7NC-x4PMc8uBGoq6vHeb3cVenlBaJaAtjE0Yo3_qm3K8lVn6EGFNmtZxLHHqdf-1MWm1_b1ycZwwkecZHeN-ZYptWBsUyiSSVr9uIU_vSqaCglF8kuBcqHchhsnibf1On8NYtTui4X_sWvsvRqngj4COS_b0JItxhaLLa7mDmSoAbT4UOufWxPjhtWEk9v0EXJbsDiioXu6cu6evPa8qJWcSkaHUzHgwdjc-tpTC9zyLVX2KJJfeazoMDxpW-VQ"
+        }
+      ]
+    },
+    {
+      "name": "Fecha de publicación",
+      "options": [
+        {
+          "name": "Ayer",
+          "parameters": {
+            "uds": "AE2AFgbf06ZzDvczg9XBG5Z3qflX_IcOLlR7P5ZVONLGdJVhbAp-1d0G11csV5kI3NONSpwuMEEZ4gpLYmIKVpv2oyGBJ-xxPXWfo072VuRuGhNoc1-JTBKkRx4NAZ11Ssnzae3Ma29t52OD1tyF7UckBoAbSwJN4bGSraVditjQcV0ymHqWs0AcqCFJKVc7jhOpwPzq6sCDTdiff2CmoNiZbGPFCEkCl7YdmNu7On2mJVoP_9_u2Hw4M4SQSdHGU3vR2pdh7SrWvdcoNmmptUy3qhqYp-o7pfFAiPTVvEziszMQNa5xp2jYeD9W3dXMhltxktUWODfuwuLGrQZsJ1fRQHx2Kf8i_nphkLn9IwsPfYb1lBLyqAOId8SC1LIPL9HgIEspPRhW",
+            "q": "atención al cliente desde ayer"
+          },
+          "link": "https://www.google.com/search?sca_esv=06fa6b2cca60171b&hl=es&gl=pe&sxsrf=AKL5yDiZchDV2JzWkj4E4Si2UE8_i8-B9Q:1795293854165&q=atenci%C3%B3n+al+cliente+desde+ayer&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflX_IcOLlR7P5ZVONLGdJVhbAp-1d0G11csV5kI3NONSpwuMEEZ4gpLYmIKVpv2oyGBJ-xxPXWfo072VuRuGhNoc1-JTBKkRx4NAZ11Ssnzae3Ma29t52OD1tyF7UckBoAbSwJN4bGSraVditjQcV0ymHqWs0AcqCFJKVc7jhOpwPzq6sCDTdiff2CmoNiZbGPFCEkCl7YdmNu7On2mJVoP_9_u2Hw4M4SQSdHGU3vR2pdh7SrWvdcoNmmptUy3qhqYp-o7pfFAiPTVvEziszMQNa5xp2jYeD9W3dXMhltxktUWODfuwuLGrQZsJ1fRQHx2Kf8i_nphkLn9IwsPfYb1lBLyqAOId8SC1LIPL9HgIEspPRhW&udm=8&sa=X&ved=2ahUKEwiNpcfj9pmYAxWqg4kEHTcaFi0QkbEKegQIGhAC",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=pe&google_domain=google.com&hl=es&location=Peru&q=atenci%C3%B3n+al+cliente+desde+ayer&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflX_IcOLlR7P5ZVONLGdJVhbAp-1d0G11csV5kI3NONSpwuMEEZ4gpLYmIKVpv2oyGBJ-xxPXWfo072VuRuGhNoc1-JTBKkRx4NAZ11Ssnzae3Ma29t52OD1tyF7UckBoAbSwJN4bGSraVditjQcV0ymHqWs0AcqCFJKVc7jhOpwPzq6sCDTdiff2CmoNiZbGPFCEkCl7YdmNu7On2mJVoP_9_u2Hw4M4SQSdHGU3vR2pdh7SrWvdcoNmmptUy3qhqYp-o7pfFAiPTVvEziszMQNa5xp2jYeD9W3dXMhltxktUWODfuwuLGrQZsJ1fRQHx2Kf8i_nphkLn9IwsPfYb1lBLyqAOId8SC1LIPL9HgIEspPRhW"
+        },
+        {
+          "name": "Últimos 3 días",
+          "parameters": {
+            "uds": "AE2AFgbf06ZzDvczg9XBG5Z3qflXUiUE3Z5fHAVNiHEq4EUEb7ikv5hI88IddXYXlvZYG1fnEhvAcKFKLIpqFq95r-vOQ49cvvE7QCC2cI2YPV72tHyTLs69pwUtf15u9P2cMqdEigBfNKdZs5q_phlhnAP6mYxS0wUa3zUullt_N-Sla42plzE1FdTPoq-myrx42EGkCsxShWxN3PK2Uk7FKAiW9vRacmzcoPWtQW9R56PFJRRQkgVK53_uduSY7r2SGsObSCHQWAIVSRiXHIs6_1RmGTRwP2BzQ8CaijgbQX2DyZMwPwUK4KnQToK73byM3dX0jryGRbM_H9Fzk_B6ndjbPnujy-AaUSwr1n3atrFxNTlBbyremcXJ0jSeF0WvluHR8iaeAsKgRfeyR1uWuJFfKefMIg",
+            "q": "atención al cliente en los últimos 3 días"
+          },
+          "link": "https://www.google.com/search?sca_esv=06fa6b2cca60171b&hl=es&gl=pe&sxsrf=AKL5yDiZchDV2JzWkj4E4Si2UE8_i8-B9Q:1795293854165&q=atenci%C3%B3n+al+cliente+en+los+%C3%BAltimos+3+d%C3%ADas&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXUiUE3Z5fHAVNiHEq4EUEb7ikv5hI88IddXYXlvZYG1fnEhvAcKFKLIpqFq95r-vOQ49cvvE7QCC2cI2YPV72tHyTLs69pwUtf15u9P2cMqdEigBfNKdZs5q_phlhnAP6mYxS0wUa3zUullt_N-Sla42plzE1FdTPoq-myrx42EGkCsxShWxN3PK2Uk7FKAiW9vRacmzcoPWtQW9R56PFJRRQkgVK53_uduSY7r2SGsObSCHQWAIVSRiXHIs6_1RmGTRwP2BzQ8CaijgbQX2DyZMwPwUK4KnQToK73byM3dX0jryGRbM_H9Fzk_B6ndjbPnujy-AaUSwr1n3atrFxNTlBbyremcXJ0jSeF0WvluHR8iaeAsKgRfeyR1uWuJFfKefMIg&udm=8&sa=X&ved=2ahUKEwiNpcfj9pmYAxWqg4kEHTcaFi0QkbEKegQIGhAD",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=pe&google_domain=google.com&hl=es&location=Peru&q=atenci%C3%B3n+al+cliente+en+los+%C3%BAltimos+3+d%C3%ADas&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXUiUE3Z5fHAVNiHEq4EUEb7ikv5hI88IddXYXlvZYG1fnEhvAcKFKLIpqFq95r-vOQ49cvvE7QCC2cI2YPV72tHyTLs69pwUtf15u9P2cMqdEigBfNKdZs5q_phlhnAP6mYxS0wUa3zUullt_N-Sla42plzE1FdTPoq-myrx42EGkCsxShWxN3PK2Uk7FKAiW9vRacmzcoPWtQW9R56PFJRRQkgVK53_uduSY7r2SGsObSCHQWAIVSRiXHIs6_1RmGTRwP2BzQ8CaijgbQX2DyZMwPwUK4KnQToK73byM3dX0jryGRbM_H9Fzk_B6ndjbPnujy-AaUSwr1n3atrFxNTlBbyremcXJ0jSeF0WvluHR8iaeAsKgRfeyR1uWuJFfKefMIg"
+        },
+        {
+          "name": "Última semana",
+          "parameters": {
+            "uds": "AE2AFgbf06ZzDvczg9XBG5Z3qflXmlQ_VJfeKz-PESR9GLmqf01oaQgvLMdEEprh-kyFeJtOX5sVj9r-og717YWaptFE2N3K8FtkonfzWaL65fXRgBYLeSNsPZ0qSqeWIy2Gsw7dGftx7NvOgWn3yCLwp7OpGc1CCZiQhfqo3pd3_LQM5iPrS0IOTP5cOnBXMjNO8u1yLO2DlvX47WopzPCFp6YajHsn-FZOEYLuLUWi811qVrsFEeeEklkY_jWc_zjfADIeyOQra9L_u6UfKzprxKLuDUaKizmfBK6aYTdFgotOk4NYLW-kEo52eshMydN1RG9ItdZTSGDDqJLUvwrFFNGVlL-P9r9oesvY8mRdjNtIELNYVjX3y6587un0OIlyDk07zE3GoIQphLYnLG8tzazOXGBtsg",
+            "q": "atención al cliente en la última semana"
+          },
+          "link": "https://www.google.com/search?sca_esv=06fa6b2cca60171b&hl=es&gl=pe&sxsrf=AKL5yDiZchDV2JzWkj4E4Si2UE8_i8-B9Q:1795293854165&q=atenci%C3%B3n+al+cliente+en+la+%C3%BAltima+semana&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXmlQ_VJfeKz-PESR9GLmqf01oaQgvLMdEEprh-kyFeJtOX5sVj9r-og717YWaptFE2N3K8FtkonfzWaL65fXRgBYLeSNsPZ0qSqeWIy2Gsw7dGftx7NvOgWn3yCLwp7OpGc1CCZiQhfqo3pd3_LQM5iPrS0IOTP5cOnBXMjNO8u1yLO2DlvX47WopzPCFp6YajHsn-FZOEYLuLUWi811qVrsFEeeEklkY_jWc_zjfADIeyOQra9L_u6UfKzprxKLuDUaKizmfBK6aYTdFgotOk4NYLW-kEo52eshMydN1RG9ItdZTSGDDqJLUvwrFFNGVlL-P9r9oesvY8mRdjNtIELNYVjX3y6587un0OIlyDk07zE3GoIQphLYnLG8tzazOXGBtsg&udm=8&sa=X&ved=2ahUKEwiNpcfj9pmYAxWqg4kEHTcaFi0QkbEKegQIGhAE",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=pe&google_domain=google.com&hl=es&location=Peru&q=atenci%C3%B3n+al+cliente+en+la+%C3%BAltima+semana&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXmlQ_VJfeKz-PESR9GLmqf01oaQgvLMdEEprh-kyFeJtOX5sVj9r-og717YWaptFE2N3K8FtkonfzWaL65fXRgBYLeSNsPZ0qSqeWIy2Gsw7dGftx7NvOgWn3yCLwp7OpGc1CCZiQhfqo3pd3_LQM5iPrS0IOTP5cOnBXMjNO8u1yLO2DlvX47WopzPCFp6YajHsn-FZOEYLuLUWi811qVrsFEeeEklkY_jWc_zjfADIeyOQra9L_u6UfKzprxKLuDUaKizmfBK6aYTdFgotOk4NYLW-kEo52eshMydN1RG9ItdZTSGDDqJLUvwrFFNGVlL-P9r9oesvY8mRdjNtIELNYVjX3y6587un0OIlyDk07zE3GoIQphLYnLG8tzazOXGBtsg"
+        },
+        {
+          "name": "Último mes",
+          "parameters": {
+            "uds": "AE2AFgbf06ZzDvczg9XBG5Z3qflXUVQZfi3Vnl3v2JJ2_wcZqbSHALaMpUo1XtGfhqMVt4PmYphlFdviUPqkmXlYs43xaSXNoXUFLysN0Mxoj7ypQixeEJ8FF6XBzWeF59Y-Yoy-k-ekjGq8burIAn3eLAW4X2hMzBS7NC-x4PMc8uBGoq6vHeb3cVenlBaJaAtjE0Yo3_qm3K8lVn6EGFNmtZxLHHqdf-1MWm1_b1ycZwwkecZHeN-ZYptWBsUyiSSVr9uIU_vSqaCglF8kuBcqHchhsnibf1On8NYtTui4X_sWvsvRqngj4COS_b0JItxhaLLa7mDmSoAbT4UOufWxPjhtWEk9v0EXJbsDiioXu6cu6evPa8qJWcSkaHUzHgwdjc-tpTC9zyLVX2KJJfeazoMDxpW-VQ",
+            "q": "atención al cliente en el último mes"
+          },
+          "link": "https://www.google.com/search?sca_esv=06fa6b2cca60171b&hl=es&gl=pe&sxsrf=AKL5yDiZchDV2JzWkj4E4Si2UE8_i8-B9Q:1795293854165&q=atenci%C3%B3n+al+cliente+en+el+%C3%BAltimo+mes&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXUVQZfi3Vnl3v2JJ2_wcZqbSHALaMpUo1XtGfhqMVt4PmYphlFdviUPqkmXlYs43xaSXNoXUFLysN0Mxoj7ypQixeEJ8FF6XBzWeF59Y-Yoy-k-ekjGq8burIAn3eLAW4X2hMzBS7NC-x4PMc8uBGoq6vHeb3cVenlBaJaAtjE0Yo3_qm3K8lVn6EGFNmtZxLHHqdf-1MWm1_b1ycZwwkecZHeN-ZYptWBsUyiSSVr9uIU_vSqaCglF8kuBcqHchhsnibf1On8NYtTui4X_sWvsvRqngj4COS_b0JItxhaLLa7mDmSoAbT4UOufWxPjhtWEk9v0EXJbsDiioXu6cu6evPa8qJWcSkaHUzHgwdjc-tpTC9zyLVX2KJJfeazoMDxpW-VQ&udm=8&sa=X&ved=2ahUKEwiNpcfj9pmYAxWqg4kEHTcaFi0QkbEKegQIGhAF",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=pe&google_domain=google.com&hl=es&location=Peru&q=atenci%C3%B3n+al+cliente+en+el+%C3%BAltimo+mes&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXUVQZfi3Vnl3v2JJ2_wcZqbSHALaMpUo1XtGfhqMVt4PmYphlFdviUPqkmXlYs43xaSXNoXUFLysN0Mxoj7ypQixeEJ8FF6XBzWeF59Y-Yoy-k-ekjGq8burIAn3eLAW4X2hMzBS7NC-x4PMc8uBGoq6vHeb3cVenlBaJaAtjE0Yo3_qm3K8lVn6EGFNmtZxLHHqdf-1MWm1_b1ycZwwkecZHeN-ZYptWBsUyiSSVr9uIU_vSqaCglF8kuBcqHchhsnibf1On8NYtTui4X_sWvsvRqngj4COS_b0JItxhaLLa7mDmSoAbT4UOufWxPjhtWEk9v0EXJbsDiioXu6cu6evPa8qJWcSkaHUzHgwdjc-tpTC9zyLVX2KJJfeazoMDxpW-VQ"
+        }
+      ]
+    }
+  ],
+  "jobs_results": [
+    {
+      "title": "Asistente Atención al Cliente TURNO TARDE",
+      "company_name": "Confidencial",
+      "location": "Lurigancho-Chosica",
+      "via": "Bumeran Perú",
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=atenci%C3%B3n+al+cliente&htidocid=HxmVxVNcpt2l0dLFAAAAAA%3D%3D&hl=es-PE&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_x2OsQrCMBRFce0nOD0cBRsRXOpUqoggCqXOJU2fSSTNq30p9KPc3Fz7Y1aXe-EM99zoNYtOKVsO6ANCOpWy49uDdJA5-4fFLb9coUjz_SGBavzws8daQo2ATeuQAD0cibTD-c6E0HIiBLOLNQcZrIoVNYI8VjSIB1X8i5KN7LB1MmC52a6HuPV6ucjI3239ezDZp9Fz31ktvTK0ygyxVfILBHtB2K8AAAA&shmds=v1_Ac3VAoy83UoT0KQ8CRU9x3o7xBfWvNlqk5RAnecoAIRP3dJg-A&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=atenci%C3%B3n+al+cliente&htidocid=HxmVxVNcpt2l0dLFAAAAAA%3D%3D",
+      "extensions": [
+        "hace 2 días",
+        "Tiempo completo"
+      ],
+      "detected_extensions": {
+        "posted_at": "hace 2 días",
+        "schedule_type": "Tiempo completo"
+      },
+      "source_link": "https://www.bumeran.com.pe/empleos/asistente-atencion-al-cliente-turno-tarde-1118671751.html",
+      "job_title": "Asistente Atención al Cliente TURNO TARDE",
+      "description": "Nos encontramos en la búsqueda de 02 Asistente de Atención al Cliente para Huachipa \n\nRequisitos  \n• 06 meses de experiencia en atención al cliente call center \n• Experiencia en áreas administrativas o logística (Deseable) \n• Manejo de Excel a nivel basico/intermedio \n• Residencia en Huachipa, ate, Campos, Lurigancho o distritos aledaños \n\nFunciones  \n• Realizar y recibir llamadas para el seguimiento de cumplimiento de las rutas programadas tanto en Lima como Provincia. \n• Comunicación constante con los diferentes canales de distribución. \n• Seguimiento de las entregas por VH de los pedidos \n• Seguimiento en tiempo real a los transportistas mediante GPS y Aplicativo. \n• Revisión de la pre y post entrega, pagos. \n• Gestión de devoluciones por canal PDV. \n• Dar soporte al área de liquidación. \n• Actualizar la base de datos de los PDV de clientes (direcciones, georreferenciación y otros). \n\nBeneficios: \nSalario: S/. 1400 \nPlanilla mype \nBuen Ambiente Laboral \nOportunidad de crecimiento interno \nTe recomendamos estar al pendiente de tu WhatsApp, nos contactaremos por ese medio.",
+      "apply_options": [
+        {
+          "title": "Bumeran Perú",
+          "link": "https://www.bumeran.com.pe/empleos/asistente-atencion-al-cliente-turno-tarde-1118671751.html?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Mipleo Perú",
+          "link": "https://www.mipleo.com.pe/ofertas-de-trabajo/oferta-de-trabajo-en-lima/asistente-atencion-al-cliente-turno-tarde-6801739.html?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJBc2lzdGVudGUgQXRlbmNpw7NuIGFsIENsaWVudGUgVFVSTk8gVEFSREUiLCJjb21wYW55X25hbWUiOiJDb25maWRlbmNpYWwiLCJodGlkb2NpZCI6Ikh4bVZ4Vk5jcHQybDBkTEZBQUFBQUE9PSIsInV1bGUiOiJ3K0NBSVFJQ0lFVUdWeWRRIiwiZ2wiOiJwZSIsImhsIjoiZXMiLCJmYyI6IkVzd0JDb3dCUVVSRVlsZGxZbm95VEhWVlNXSTBlbXd0VlZkU1YxaEliR0pXYUdSd1QzRlNZalEzVWtSc2RuRXlVRGxHYjBKbFNXaGlTM3BaU0dnM01GUnhiVTlJUzNGdlpHTXhjSFYxVjA5RFVFeG9ZbnB4VVdGbWRHazFRekI1VTJSUWRFcFpVMUp1VFdOTk5HazJTRE5xTW05SlVGSTFXa2xuYWtsSGEzbDVPV05RVEU1UVZtcG9hRWQzYlhOWWQwRVNGMjVuU1VOaE5ETmxRMkZ4U0hCMFVWQjBOMVJaTmtGSkdpSkJTRTR3UlRkSVJFTk5VMFZ0ZUdSeFNVbGplSGh2TVVveVpsWTJlbkJCZUU1QiIsImZjdiI6IjMiLCJmY19pZCI6Ikh4bVZ4Vk5jcHQybDBkTEZBQUFBQUE9PSJ9"
+    },
+    {
+      "title": "Vendedora y atención al cliente florería y tieda de regalos",
+      "company_name": "Floristerí",
+      "location": "Miraflores",
+      "via": "Bumeran Perú",
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=atenci%C3%B3n+al+cliente&htidocid=w_rWnN96Auf7lQcrAAAAAA%3D%3D&hl=es-PE&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_y2OsQoCMRBEsb0_0Gpri4sINmevla2VcOSSNRdZszEb4fwoK8HC9n7Mi9hMMQzzXvWeVacjBouWk4YH6IzB-PEVQBMY8hgywpk4YRqfZZA9Wg0WIaHTxNJAN37kdv-3eI2EDBhgz-wIF9s-5yiNUiJUO8k6e1MbvioO2PGgLtxJiVZ6nTDSJNCuN6uhjsEt57uJ7CUXePk8-KR_MvIFl2mTe7kAAAA&shmds=v1_Ac3VAox4sMJJBQHeVZYYcUHpnEXEUdrLfStrjAtkCzTDwZXqwg&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=atenci%C3%B3n+al+cliente&htidocid=w_rWnN96Auf7lQcrAAAAAA%3D%3D",
+      "extensions": [
+        "hace 2 días",
+        "De S/ 1,200 a S/ 1,399 por mes",
+        "Tiempo completo"
+      ],
+      "detected_extensions": {
+        "posted_at": "hace 2 días",
+        "salary": "De S/ 1,200 a S/ 1,399 por mes",
+        "schedule_type": "Tiempo completo"
+      },
+      "source_link": "https://www.bumeran.com.pe/empleos/vendedora-y-atencion-al-cliente-floreria-y-tieda-de-regalos-floristeri-1118670917.html",
+      "job_title": "Vendedora y atención al cliente florería y tieda de regalos",
+      "description": "ATENCIÓN AL CLIENTE FLORERÍA\n\n Resumen del Puesto\n\nBuscamos una persona proactiva y con gran interés en la atención al cliente para unirse a nuestro equipo. El rol implica la gestión de la tienda, la atención a clientes presenciales y virtuales, y la creación de contenido para redes sociales. \n\nResponsabilidades\n\n Atender a clientes de manera presencial y virtual. Crear y publicar contenido en redes sociales. Armar arreglos florales (te enseñaremos) y preparar regalos. Manejo de caja Apertura/cierre de tienda según corresponda. Colaborar en otras actividades asignadas.Requisitos\n\n Residir en zonas con fácil acceso a transporte público o cerca. No se requiere experiencia previa en floristería; se brindará capacitación. Experiencia previa de mínimo 1 año. Interés genuino en la atención al cliente. Manejo de excel y whatsapp web Conocimientos básicos de inglés. No estar cursando universidad ya que no tendrán tiempo por el horario más clases.\n\n\n Horario Lunes a viernes de 1 2: 4 5pm - 2 0: 0 0. Sábado descanso. Domingo 1 0- 1 8: 4 5pm",
+      "apply_options": [
+        {
+          "title": "Bumeran Perú",
+          "link": "https://www.bumeran.com.pe/empleos/vendedora-y-atencion-al-cliente-floreria-y-tieda-de-regalos-floristeri-1118670917.html?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJWZW5kZWRvcmEgeSBhdGVuY2nDs24gYWwgY2xpZW50ZSBmbG9yZXLDrWEgeSB0aWVkYSBkZSByZWdhbG9zIiwiY29tcGFueV9uYW1lIjoiRmxvcmlzdGVyw60iLCJodGlkb2NpZCI6IndfclduTjk2QXVmN2xRY3JBQUFBQUE9PSIsInV1bGUiOiJ3K0NBSVFJQ0lFVUdWeWRRIiwiZ2wiOiJwZSIsImhsIjoiZXMiLCJmYyI6IkVzd0JDb3dCUVVSRVlsZGxZVVJ0VDBWclVWWnpjVzVpZUMxd2N6ZFRibTVuY1RkSmNuRkRlVVJCUXpSUVgxSnpkelJHWDBoVmNIQXdTR0ZXU2t3NU5IcG5hakk1Y3pkNVEzcFhXV1pPZGtKTVJYVTRYMDFoVkhoTFpEZHFVSHBoTFRSYWJ6aDBiMEpEVUc1bFVYUjJhMGxEUkcwM04yODFWWFpKV2xwWFQxWk1OV3h3VjFOc2IxUk5NemxsYlZrMk5VWVNGMjVuU1VOaE5ETmxRMkZ4U0hCMFVWQjBOMVJaTmtGSkdpSkJTRTR3UlRkSFgyRmpla2ROUm1samJYUk9Vek5PVTIxbVpHTjZVREp2TTB4MyIsImZjdiI6IjMiLCJmY19pZCI6IndfclduTjk2QXVmN2xRY3JBQUFBQUE9PSJ9"
+    },
+    {
+      "title": "Atención al Cliente / BCP",
+      "company_name": "MANPOWERGROUP",
+      "location": "Ate",
+      "via": "Bumeran Perú",
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=atenci%C3%B3n+al+cliente&htidocid=1stBmQDJwTimMxB4AAAAAA%3D%3D&hl=es-PE&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_-PqY-SydCxJzUvOPLw5TyExR8E5JzM1ryRVQV_ByTnASiHp8K7iwtLUlESFlFSF1NyCnNR8hdQ8Bff8_PScVCnrjJKSgmIrff3i4hy99OKSxJLMZL3k_Fz9_LzUpPwK_az8pGIQEV-ckViUWpCTWJIab2RqUKFXkJeuJeLr6BfgH-4a5B7kHxoAMhXoEAAoI4IwkQAAAA&shmds=v1_Ac3VAowg4RWPCNrMMsq-9FgT3m-dq0VpXMWoUrNTsqos99MDAg&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=atenci%C3%B3n+al+cliente&htidocid=1stBmQDJwTimMxB4AAAAAA%3D%3D",
+      "thumbnail": "https://serpapi.com/images/i/_9j_4AAQSkZJRgABAQAAAQABAAD_2wCEAAkGBwgHBgkIBwgKCgkLDRYPDQwMDRsUFRAWIB0iIiAdHx8kKDQsJCYxJx8fLT0tMTU3Ojo6Iys_RD84QzQ5OjcBCgoKDQwNGg8PGjclHyU3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3N__AABEIACMAOAMBIgACEQEDEQH_xAAaAAEAAwADAAAAAAAAAAAAAAAABAUGAQMH_8QALxAAAQMDAgMGBQUAAAAAAAAAAQACAwQRIQUSFDFRBiKCkaGxMkFxgcEHEyNCUv_EABgBAQEBAQEAAAAAAAAAAAAAAAABAwIE_8QAGxEAAwADAQEAAAAAAAAAAAAAAAECAxExEgT_2gAMAwEAAhEDEQA_APcUREBxcBQpNX06OWmidWRF9U4th2uuHkYORjnj6rOdujXNqIKiKGQ01JC-Rj2531D_AONgtz7oc53ksnI4UctQ-Nw26VTCmiI-c77gkeIyO8ITI1jx-2zmfV5FErp6HofaSi1qrqqekbLenPxub3Xi9rjPurpZH9NdN4TQzVPbaSrfuFx_QYb-T91rlj89XeNVfWej6JiMjmOIIiLYxCKHqFNPOYn00gZJGSWknGRbPXBKgU-m6jCxsIqg2JjC1pEhLuWOY6q6Jtl2s3rvZGi1SnEVO7grz_vSOiYDvcRY3HX2U1tLqjnbuIDGknBfcg3w7lytjb6rjg9Wu0msYbOGOWPL0XN45uXNcLGSopVPSzpYI6Wmip4W7Y4mBjR0AFgu1Ux02sEoe2VhfcXmLu-BssQMf6z0zyXZw2psJLJ2lvQvufiBuMdBa3qukkkTbLVFE06GaONxqXbnuIt3txAsMXsL5ufvb5IoUloiIAiIgCIiAIiID__Z.jpg",
+      "extensions": [
+        "hace 2 días",
+        "Tiempo completo"
+      ],
+      "detected_extensions": {
+        "posted_at": "hace 2 días",
+        "schedule_type": "Tiempo completo"
+      },
+      "source_link": "https://www.bumeran.com.pe/empleos/atencion-al-cliente-bcp-manpowergroup-1118671523.html",
+      "job_title": "Atención al Cliente / BCP",
+      "description": "Buscamos a los que tienen ganas de transformar el país. A los que quieren llegar lejos. Por qué esto no es solo un trabajo. Esto es desafiarte en grande para impactar en grande. Esto es el BCP y te estamos buscando para que formes parte de nuestro equipo como ASESOR DE ATENCIÓN AL CLIENTE - YAPE (Banco de Crédito del Perú).\n\n¿Cuál es el reto?\n\n Absolver consultas y reclamos por medio de chats para los usuarios de Yape.​¿Cómo impactarás en grande?\n\n Resolverás consultas en el primer contacto, optimizando tiempos y experiencia del cliente. Harás seguimiento de casos, asegurando atención continua y satisfacción del cliente. Gestionarás llamadas cuando sea necesario, garantizando soluciones oportunas. Cumplirás pautas de atención y validación, asegurando calidad y seguridad del servicio.¿Qué necesitamos de ti?\n\n Estudios técnicos o universitarios del 3er ciclo en adelante (pueden ser truncos, en curso o culminados). Mínimo 6 meses de experiencia en Atención al Cliente (Certificado). Buen nivel de ORTOGRAFÍA y REDACCIÓN. Manejo de Microsoft Excel a nivel básico. Disponibilidad para trabajar en nuestras sede de Ate.¿Por qué unirte a nuestro equipo?\n\n Ser parte de la empresa #1 en Merco Talento 2024 Ingreso a planilla BCP desde tu primer día. Accede a incentivos por tu esfuerzo/desempeño. Acompañamiento de líderes expertos y referentes en la banca. Acceso a descuentos en productos financieros. Beneficios corporativos exclusivos por provincia para disfrutar con tu familia. Formarás parte de una cultura constante de reconocimientos.Sí, a ti. Te estamos buscando ¡Únete al equipo BCP!\n\n\"Somos una organización comprometida con la igualdad de derechos y oportunidades. Nuestros procesos de selección se rigen bajo una política donde nuestras/os postulantes son consideradas/os sin importar su origen, género, raza o cualquier otra característica, condición o preferencia, promoviendo así una cultura de respeto mutuo.\"",
+      "apply_options": [
+        {
+          "title": "Bumeran Perú",
+          "link": "https://www.bumeran.com.pe/empleos/atencion-al-cliente-bcp-manpowergroup-1118671523.html?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "JobLeads",
+          "link": "https://www.jobleads.com/pe/job/part-time-claro-atencion-al-cliente--ate--e1be531eb9d3a49ffd7a9f1114c00b99d?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Jooble",
+          "link": "https://pe.jooble.org/jdp/2035928809550795322?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "LinkedIn",
+          "link": "https://pe.linkedin.com/jobs/view/part-time%21-claro-atenci%C3%B3n-al-cliente-at-partner-service-4485695988?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Peru Jobs Expertini",
+          "link": "https://pe.expertini.com/job/part-time-claro-atencion-al-cliente-ate-partner-service-1227-1662366/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Talent.com",
+          "link": "https://pe.talent.com/view?id=645578876670708242&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "BeBee",
+          "link": "https://bebee.com/pe/jobs/atencion-al-cliente-bcp-manpowergroup-ate--techmap_pe_013391995A0A038C61373E686DCF3405?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Jobrapido.com",
+          "link": "https://pe.jobrapido.com/jobpreview/5281154769635770368?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJBdGVuY2nDs24gYWwgQ2xpZW50ZSAvIEJDUCIsImNvbXBhbnlfbmFtZSI6Ik1BTlBPV0VSR1JPVVAiLCJodGlkb2NpZCI6IjFzdEJtUURKd1RpbU14QjRBQUFBQUE9PSIsInV1bGUiOiJ3K0NBSVFJQ0lFVUdWeWRRIiwiZ2wiOiJwZSIsImhsIjoiZXMiLCJmYyI6IkVzd0JDb3dCUVVSRVlsZGxZVGRWZG5oelkxZFpTVE0zTkVKdWNqaDNkbmgzTUdGR1pUbGtWMFJuYzNkWmJrWTBMVGg2T0VkSmRHWXhURVpZTnpWeVZFUk1Ua3BaUkhwSVNWWlFZV0l3U0d4U01HRjVaWFUwWWxGaVR6WmlkRkl5T1c5WU4yMVJUR2xUZG1wQmMwRldlVzAwTkMwMVJXczRSMUo0YUdkdFpraDFkbDlrUjFnNGVteFlRMFptT1ZsZlJIY1NGMjVuU1VOaE5ETmxRMkZ4U0hCMFVWQjBOMVJaTmtGSkdpSkJTRTR3UlRkR1pVZFVPSGxUU0hOck5GWkhSRmRXTlVsdFpsRkljMmhTZGpCUiIsImZjdiI6IjMiLCJmY19pZCI6IjFzdEJtUURKd1RpbU14QjRBQUFBQUE9PSJ9"
+    },
+    {
+      "title": "Asesor de Atención al Cliente Sin experiencia /Turno mañana horarios flexibles",
+      "company_name": "Partner Service S.A.C",
+      "location": "Santa Anita",
+      "via": "Indeed",
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=atenci%C3%B3n+al+cliente&htidocid=Jyp8lZ6OKK5bqXcAAAAAAA%3D%3D&hl=es-PE&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_xWOMU7DQBBFRZsjUE1BRbEbIdGEykqRFsnpo7HzsRetZ5adSeRrRXRpfYUcCNy85klPb_N42mhjMK10BjUO6dPyK8SZ9jlBHNQmIcwFNa2SKR4vVZQmXm4sTKNWrkmNvjLm1GXYjrrlbj8XnHmNYioZShA6qA4Zzx-je7FdjGY5DObsqQ-9TlEFnc7xWztbcbKRK0pmx-ntfTuHIsPryydXF1RqUa-p_98LTdiv9ZbFmRpJzn8yeIib1wAAAA&shmds=v1_Ac3VAoxGuMamx96XiIQOutKXrSa837fWiooQpVXkdWNJ4rbATg&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=atenci%C3%B3n+al+cliente&htidocid=Jyp8lZ6OKK5bqXcAAAAAAA%3D%3D",
+      "extensions": [
+        "hace 23 horas",
+        "De S/ 1,230 a S/ 1,600 por mes",
+        "Tiempo completo"
+      ],
+      "detected_extensions": {
+        "posted_at": "hace 23 horas",
+        "salary": "De S/ 1,230 a S/ 1,600 por mes",
+        "schedule_type": "Tiempo completo"
+      },
+      "source_link": "https://pe.indeed.com/viewjob?jk=f735f8b8cc600229",
+      "job_title": "Asesor de Atención al Cliente Sin experiencia /Turno mañana horarios flexibles",
+      "description": "¡Buscamos nuevos talentos para formar parte de nuestro equipo!\n\n\nEn Partner Service S.A.C., empresa con más de 10 años de experiencia en el mercado, nos encontramos en búsqueda de asesores(as) para nuestra campaña ATC Postpago de Claro, en modalidad presencial.\n\n\nSi tienes facilidad de comunicación, actitud de servicio y te interesa desarrollarte en el área de atención al cliente y gestión comercial, ¡esta oportunidad es para ti!\n\n\n¿CUÁLES SERÁN TUS FUNCIONES?\n\n\n\n Recepcionar llamadas de usuarios que cuentan con el servicio de Claro.\n Brindar una adecuada atención al cliente peruano.\n Realizar gestión comercial durante la atención.\n\nHORARIOS DISPONIBLES – TURNO MAÑANA\n\n\nFULL TIME\n\n\n\n Lunes a domingo, con descansos rotativos.\n Horarios rotativos: 8:00 a. m. a 4:15 p. m. o 9:00 a. m. a 5:15 p. m.\n Gestión: 7 horas y 30 minutos + 45 minutos de refrigerio.\n\nSEMI FULL\n\n\n\n Lunes a domingo, con descansos rotativos.\n Horarios rotativos: 8:00 a. m. a 2:00 p. m. o 9:00 a. m. a 3:00 p. m.\n Gestión: 6 horas.\n\nPART TIME\n\n\n\n Lunes a domingo, con descansos rotativos.\n Horarios rotativos: 9:00 a. m. a 1:00 p. m. o 10:00 a. m. a 2:00 p. m.\n Gestión: 4 horas.\n\nSUELDOS Y BONOS\n\n\nFULL TIME\n\n\n\n Básico mensual: S/ 1,230.\n Bono variable: S/ 300.\n Bono de permanencia: S/ 200 (S/ 100 en el segundo mes y S/ 100 en el tercer mes).\n Bono de movilidad: S/ 170.\n Bono de bienvenida: S/ 100 (primer mes).\n\nSEMI FULL\n\n\n\n Básico mensual: S/ 922.50.\n Bono variable: S/ 300.\n Bono de permanencia: S/ 200 (S/ 100 en el segundo mes y S/ 100 en el tercer mes).\n Bono de movilidad: S/ 170.\n Bono de bienvenida: S/ 100 (primer mes).\n\nPART TIME\n\n\n\n Básico mensual: S/ 615.\n Bono variable: S/ 150.\n Bono de permanencia: S/ 100 (S/ 50 en el segundo mes y S/ 50 en el tercer mes).\n Bono de movilidad: S/ 100.\n Bono de bienvenida: S/ 100 (primer mes).\n\nLos bonos de permanencia, movilidad y bienvenida están sujetos a las condiciones de asistencia perfecta indicadas por la empresa.\n\n\nBENEFICIOS PARTNER\n\n\n\n Convenios de atención psicológica, odontológica, oftalmológica y dermatológica.\n Convenios educativos con la Universidad Autónoma del Perú y la UTP.\n Descuentos en productos y servicios de nuestros socios estratégicos.\n Beneficios en entretenimiento, movilidad, belleza y bienestar.\n\nLUGAR DE TRABAJO\n\n\nModalidad presencial – Santa Anita, Lima.\n\n\n\n Sede Céntrica: Av. Nicolás Ayllón 2941.\n\nCAPACITACIÓN\n\n\n\n Inicio: lunes 23 de noviembre de 2026.\n Horario: lunes a sábado, de 9:00 a. m. a 4:00 p. m.\n Duración: 16 días.\n 12 días teóricos en modalidad remota.\n 4 días prácticos presenciales.\n Pago de capacitación indicado: S/ 240 por los 12 días teóricos.\n\nMODALIDAD DE CONTRATACIÓN\n\n\n\n Contratación por recibo por honorarios (RXH) – Locación de servicios.\n Se requiere contar con RUC y Clave SOL de SUNAT (trámite gratuito por la web).\n El pago se realiza el último día de cada mes mediante cuenta Scotiabank o BCP.\n Los bonos y comisiones se abonan al mes siguiente.\n\n¡POSTULA Y FORMA PARTE DEL TEAM PARTNER SERVICE!\n\n\n¡Te esperamos para crecer juntos!\n\n\nSueldo: S/.1,230.00 - S/.1,600.00 al mes\n\n\nLugar de trabajo: Empleo presencial",
+      "apply_options": [
+        {
+          "title": "Indeed",
+          "link": "https://pe.indeed.com/viewjob?jk=f735f8b8cc600229&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJBc2Vzb3IgZGUgQXRlbmNpw7NuIGFsIENsaWVudGUgU2luIGV4cGVyaWVuY2lhIC9UdXJubyBtYcOxYW5hIGhvcmFyaW9zIGZsZXhpYmxlcyIsImNvbXBhbnlfbmFtZSI6IlBhcnRuZXIgU2VydmljZSBTLkEuQyIsImh0aWRvY2lkIjoiSnlwOGxaNk9LSzVicVhjQUFBQUFBQT09IiwidXVsZSI6IncrQ0FJUUlDSUVVR1Z5ZFEiLCJnbCI6InBlIiwiaGwiOiJlcyIsImZjIjoiRXN3QkNvd0JRVVJFWWxkbFdWVkJaMVZMZW1kTFlWQmxSMVJXYUdKdlRXMWZjbTl1TVdsdU1WcGxZbFJIWVY5cVUweFVkRmhqVW5GYWNFMUNObmhJU2tSS09GbFdYMk15UlVoNGNucFFOMUZCTVdGRlRsWTJOamxvTWxZM2NYbDBlRVEzYW1kbFZXeHJXR2syWWpCblRYYzFMVTVyY0d4RWJVbGtVVEF3UkY5M1YwcFBURGswZDAxZk9EQk1XRzEzZDE4U0YyNW5TVU5oTkRObFEyRnhTSEIwVVZCME4xUlpOa0ZKR2lKQlNFNHdSVGRGWjJKNlQwbDRXa1ZzT1RodU1EVjZhRGxDTWxsbmIyMVhjMHRuIiwiZmN2IjoiMyIsImZjX2lkIjoiSnlwOGxaNk9LSzVicVhjQUFBQUFBQT09In0="
+    },
+    {
+      "title": "Asesor de Atención al Cliente para BITEL (Modalidad Remota)",
+      "company_name": "Customer Priority BPO",
+      "location": "El Agustino",
+      "via": "Bumeran Perú",
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=atenci%C3%B3n+al+cliente&htidocid=rGZY7Zi0OcnjDtC4AAAAAA%3D%3D&hl=es-PE&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_xXMMQrCQBBAUWxzBKspLNQiEcFGq0SCCIoidhYyyQ5xZbOz7oyg57KzEryYpvnNh5d8eskpFxKOYAhyJV_b78sDOlg6S14JAkaEYn0sNzDcskFnDRo4UMuKozlU37fc7mSwA6gNjhjIw4q5cdRfXFSDzLNMxKWNKKqt05rbjD1V_MiuXEmXs1wwUnCodJ7OJo80-GY8WN5FuaUI-2g5Wn1Csd91eukgb_7Tev4BChUBU8MAAAA&shmds=v1_Ac3VAoz19LNuW6geck88zTCZWfHd5OAj5urbw2rp_O9ye9IlXw&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=atenci%C3%B3n+al+cliente&htidocid=rGZY7Zi0OcnjDtC4AAAAAA%3D%3D",
+      "extensions": [
+        "hace 4 días",
+        "De S/ 1,230 a S/ 1,430 por mes",
+        "Tiempo completo"
+      ],
+      "detected_extensions": {
+        "posted_at": "hace 4 días",
+        "salary": "De S/ 1,230 a S/ 1,430 por mes",
+        "schedule_type": "Tiempo completo"
+      },
+      "source_link": "https://www.bumeran.com.pe/empleos/asesor-de-atencion-al-cliente-para-bitel-modalidad-remota-customer-priority-bpo-1118668193.html",
+      "job_title": "Asesor de Atención al Cliente para BITEL (Modalidad Remota)",
+      "description": "Asesor de Atención al Cliente (Modalidad Remota)\n\nResumen del Puesto\n\nEstamos en la búsqueda de un Asesor de Atención al Cliente proactivo y con vocación de servicio para unirse a nuestro equipo. El candidato ideal poseerá excelentes habilidades de comunicación y una sólida experiencia en la gestión de consultas y resolución de incidencias a través de canales telefónicos y digitales.\n\nResponsabilidades\n\n Brindar soporte y atención a clientes, respondiendo consultas y resolviendo incidencias de manera eficiente y cortés. Gestionar llamadas entrantes. Documentar detalladamente las interacciones con los clientes en los sistemas designados. Colaborar con otros equipos para asegurar la satisfacción del cliente y la resolución efectiva de problemas. Identificar oportunidades de mejora en los procesos de atención al cliente.Requisitos\n\n Experiencia previa comprobable en roles de atención al cliente, preferentemente en entornos de centros de contacto. Contar con PC/laptop con 8 Gb RAM. Tener Microsoft Office activado. Habilidad para resolver problemas de forma rápida y efectiva. Manejo de herramientas informáticas y sistemas de gestión de clientes. Capacidad para trabajar de forma autónoma y como parte de un equipo en un entorno dinámico. Disponibilidad para trabajar en modalidad remota.",
+      "apply_options": [
+        {
+          "title": "Bumeran Perú",
+          "link": "https://www.bumeran.com.pe/empleos/asesor-de-atencion-al-cliente-para-bitel-modalidad-remota-customer-priority-bpo-1118668193.html?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "LinkedIn",
+          "link": "https://pe.linkedin.com/jobs/view/asesor-de-atenci%C3%B3n-al-cliente-sin-experiencia-no-ventas-%E2%80%93-bonos-%2B-variables-at-partner-service-4492452169?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "JobLeads",
+          "link": "https://www.jobleads.com/pe/job/asesor-de-atencion-al-cliente-para-bitel-modalidad-remota--el-agustino--ed15d16f964ae4ee04ab39ac063db043c?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Talent.com",
+          "link": "https://pe.talent.com/view?id=646770308286196513&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Trabajo.org",
+          "link": "https://pe.trabajo.org/oferta-2272-48d68ee6cc65ee5ea5091210cbbdc977?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "BeBee",
+          "link": "https://bebee.com/pe/jobs/asesor-de-atencion-al-cliente-con-bono-de-bienvenida-y-planilla-completa-gana-hasta-1770-al-mes-apex--techmap_pe_FDE1AAF478DBF35261373E686DCF3405?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Jobrapido.com",
+          "link": "https://pe.jobrapido.com/jobpreview/7971805442454061056?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Jobted",
+          "link": "https://www.jobted.com.pe/job/026214c7c314bd6990abc0368c7dd7c9?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJBc2Vzb3IgZGUgQXRlbmNpw7NuIGFsIENsaWVudGUgcGFyYSBCSVRFTCAoTW9kYWxpZGFkIFJlbW90YSkiLCJjb21wYW55X25hbWUiOiJDdXN0b21lciBQcmlvcml0eSBCUE8iLCJodGlkb2NpZCI6InJHWlk3WmkwT2NuakR0QzRBQUFBQUE9PSIsInV1bGUiOiJ3K0NBSVFJQ0lFVUdWeWRRIiwiZ2wiOiJwZSIsImhsIjoiZXMiLCJmYyI6IkVzd0JDb3dCUVVSRVlsZGxZVk5YWkRSSVdYVXhUa1IxU3pJNWVWRlZMVEp0YTBKbWMyUmFOVVZOT0Vnd1NWVm5UVWhGZUV0amJsUlFOWEp2TTNSMmJXTlVkMmhLTWxKT09IcFFkVUUyUldoaFlXOTJXRTVtT0cxQ1lsTTJXRFJrTlROUGRXVm1Nako0YlcxWloxTTJjVkpyWVVaUFVFbG5ORGgwYjBnNFR6Uk9NVGxSTjFRd1pHVmpObk42Y2twVFRsUVNGMjVuU1VOaE5ETmxRMkZ4U0hCMFVWQjBOMVJaTmtGSkdpSkJTRTR3UlRkR1ZUbGhUbFpzTjJScFlXNUtWMk40TkRGckxYaHVjRWxMVEc5QiIsImZjdiI6IjMiLCJmY19pZCI6InJHWlk3WmkwT2NuakR0QzRBQUFBQUE9PSJ9"
+    },
+    {
+      "title": "Recepcionista y Atención al Cliente",
+      "company_name": "ASOCIACION DE PINTORES CON LA BOCA Y CON EL PIE",
+      "location": "Lima",
+      "via": "Bumeran Perú",
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=atenci%C3%B3n+al+cliente&htidocid=0lxvaK7sxSN2AdFIAAAAAA%3D%3D&hl=es-PE&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_x2NsQrCMBRFce0nOL3ZoRVBhDrFGKRQWmldnEqaPtpImkQToX6Xm479MVuXA4cD9wbfRUALFGiFNFo6z-EFxKMWcnxr4Aqokqg9xlCPH3d_YsOhQcDeKjSAGk7GtAqX-8576-Iock6F7bTjpQiF6SOjsTZDdDO1m1G5jj_QKu6x2mzXQ2h1u9qRMqcJoUmewZHBOckuecFKoJOnBA45JXD9G0unyubfVPb8Bwq1Iki-AAAA&shmds=v1_Ac3VAozdMAqjiLsF9ypZSMpDTD0k61pxJQ-2Uag4o22McJgchw&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=atenci%C3%B3n+al+cliente&htidocid=0lxvaK7sxSN2AdFIAAAAAA%3D%3D",
+      "thumbnail": "https://serpapi.com/searches/6b02029dd757f3bef829c567/images/0zam8SOGOIeCzPQ_c-uU04uIkuJtjoyqeJG_HktSHzQ.png",
+      "extensions": [
+        "hace 5 días",
+        "De S/ 1,600 a S/ 1,650 por mes",
+        "Tiempo completo"
+      ],
+      "detected_extensions": {
+        "posted_at": "hace 5 días",
+        "salary": "De S/ 1,600 a S/ 1,650 por mes",
+        "schedule_type": "Tiempo completo"
+      },
+      "source_link": "https://www.bumeran.com.pe/empleos/recepcionista-y-atencion-al-cliente-asociacion-de-pintores-con-la-boca-y-con-el-pie-1118665762.html",
+      "job_title": "Recepcionista y Atención al Cliente",
+      "description": "Practicas pre-profesionales de Administración.\n\n Recepcionista y Atención al Cliente\n\nResumen del Puesto\n\nBuscamos un profesional proactivo y con excelentes habilidades de comunicación para desempeñarse como Recepcionista y Atención al Cliente. El candidato ideal será la primera línea de contacto y asegurá una experiencia positiva.\n\nResponsabilidades\n\n Atender y dirigir llamadas telefónicas de manera eficiente y cordial. Responder consultas y solicitudes a través de correo electrónico, brindando información precisa y oportuna. Gestionar y procesar órdenes de pedido, asegurando la correcta habilitación de los mismos. Generar comprobantes de pago y realizar el seguimiento correspondiente. Mantener una comunicación clara y profesional en todo momento.Requisitos\n\n Habilidades de comunicación verbal y escrita. Capacidad para expresarse de forma clara y con un tono de voz agradable. Habilidad para organizar y gestionar múltiples tareas simultáneamente. Proactividad y orientación a la resolución de problemas. Conocimientos básicos de herramientas ofimáticas.",
+      "apply_options": [
+        {
+          "title": "Bumeran Perú",
+          "link": "https://www.bumeran.com.pe/empleos/recepcionista-y-atencion-al-cliente-asociacion-de-pintores-con-la-boca-y-con-el-pie-1118665762.html?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Jobrapido.com",
+          "link": "https://pe.jobrapido.com/jobpreview/1182368935333330944?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJSZWNlcGNpb25pc3RhIHkgQXRlbmNpw7NuIGFsIENsaWVudGUiLCJjb21wYW55X25hbWUiOiJBU09DSUFDSU9OIERFIFBJTlRPUkVTIENPTiBMQSBCT0NBIFkgQ09OIEVMIFBJRSIsImh0aWRvY2lkIjoiMGx4dmFLN3N4U04yQWRGSUFBQUFBQT09IiwidXVsZSI6IncrQ0FJUUlDSUVVR1Z5ZFEiLCJnbCI6InBlIiwiaGwiOiJlcyIsImZjIjoiRXN3QkNvd0JRVVJFWWxkbFdUZERORFJzTmt4RGQxaDJWRzFVWm1nM1ZsTnRRMlF3WlVwTVV6Y3hXRU52ZFVGUGRGSlJTRUZDWDNZd2J6UktZMHBqVVRKelREWkZUbEJoV1RodWJTMWZMVkJUVGtwNVkwNXFTRlZ3YVZkeE9GaEZOR00xYURocFVITkNUalpxYWpGTFdtdHpRbUpaZUVKaFkyY3pRbFpYU2pSd2QyMU1VbkphVGxKblZHNUxUbVZVYlhvU0YyNW5TVU5oTkRObFEyRnhTSEIwVVZCME4xUlpOa0ZKR2lKQlNFNHdSVGRGY0dOWVYzZ3dWVUp4WW1kNWJrUXhUM0psTkU1SmMyNWxVRFZSIiwiZmN2IjoiMyIsImZjX2lkIjoiMGx4dmFLN3N4U04yQWRGSUFBQUFBQT09In0="
+    },
+    {
+      "title": "Atención al Cliente",
+      "company_name": "VANESSA",
+      "location": "Ayacucho",
+      "via": "Bumeran Perú",
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=atenci%C3%B3n+al+cliente&htidocid=_hlXbNbP3TamCGVXAAAAAA%3D%3D&hl=es-PE&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_xXMoQ7CMBAA0GBncajTiJZAMEM1hOAwS7BL213Wkq5XuFsyvoAPwmH3Y2TmyVd9VtXBCGYf528Gm-CcImbBGtz84-eInYUOAYeSkAAzXIn6hJtTEClca82cVM9iJXrladCU0dGkH-R4oeVgX1iSFWz3x92kSu6367u5XZrGLJ95Wz_6QH_74Aa5igAAAA&shmds=v1_Ac3VAozEqx-4tMJXTsZbLwiRE7NymJzaiiybUsvLyLF-ZMU_Vg&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=atenci%C3%B3n+al+cliente&htidocid=_hlXbNbP3TamCGVXAAAAAA%3D%3D",
+      "extensions": [
+        "hace 6 días",
+        "De S/ 1,230 a S/ 1,300 por mes",
+        "Tiempo completo"
+      ],
+      "detected_extensions": {
+        "posted_at": "hace 6 días",
+        "salary": "De S/ 1,230 a S/ 1,300 por mes",
+        "schedule_type": "Tiempo completo"
+      },
+      "source_link": "https://www.bumeran.com.pe/empleos/atencion-al-cliente-vanessa-1118632098.html",
+      "job_title": "Atención al Cliente",
+      "description": "Atención al Cliente\n\nResumen del Puesto\n\nLa empresa MOCHILAS ANA se encuentra en la busqueda con vocación de servicio para unirse a nuestro equipo en el puesto de Atención al Cliente. \n\nResponsabilidades\n\n Brindar soporte y asistencia a los clientes. Resolver consultas y gestionar reclamos de manera eficiente. Proporcionar información sobre productos y servicios. Mantener una comunicación fluida y cordial con los clientes.\n\n\n Requisitos Experiencia previa en roles de atención al cliente o similar. Capacidad para escuchar activamente y empatizar con el cliente. Habilidad para resolver problemas de forma efectiva. Actitud positiva y proactiva. Capacidad para trabajar en equipo y de forma autónoma.",
+      "apply_options": [
+        {
+          "title": "Bumeran Perú",
+          "link": "https://www.bumeran.com.pe/empleos/atencion-al-cliente-vanessa-1118632098.html?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "JobLeads",
+          "link": "https://www.jobleads.com/pe/job/atencion-al-cliente--ayacucho--e2c4b0e7c4faa3f0f903660bae54558e4?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Jobrapido.com",
+          "link": "https://pe.jobrapido.com/jobpreview/2321347326829920256?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Jobted",
+          "link": "https://www.jobted.com.pe/job/e146e3ca248fbbe8b688bf7baca48d16?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJBdGVuY2nDs24gYWwgQ2xpZW50ZSIsImNvbXBhbnlfbmFtZSI6IlZBTkVTU0EiLCJodGlkb2NpZCI6Il9obFhiTmJQM1RhbUNHVlhBQUFBQUE9PSIsInV1bGUiOiJ3K0NBSVFJQ0lFVUdWeWRRIiwiZ2wiOiJwZSIsImhsIjoiZXMiLCJmYyI6IkVzd0JDb3dCUVVSRVlsZGxXV0l6VEVGbE9IRmZRM2d3TmtoVWRraEVhakZOV0VaUFRFWlJZbXB4U25GRlZsTnpRV3hIVjBWSGMzTnFNelpmWmxSaE1VcGZha1I1Ykd0MldYRnVlV3hUUm01TlJHSnhWbmRaV1ZGd1NXbFVYM2R2VEVOcmJFVkNWR0ZHVDFrMVdGSnRkMHBDTjA1NFJsVlpXSFJJU201c2VubHJVbE5yY3psVWRVUmFkbnBQTXpkYVNXa1NGMjVuU1VOaE5ETmxRMkZ4U0hCMFVWQjBOMVJaTmtGSkdpSkJTRTR3UlRkRmRVVXlWRGxPTWtOR1QydE5hVUp2TnpOVmJXdEtUV3BrUmxWbiIsImZjdiI6IjMiLCJmY19pZCI6Il9obFhiTmJQM1RhbUNHVlhBQUFBQUE9PSJ9"
+    },
+    {
+      "title": "ANALISTA DE ATENCIÓN AL CLIENTE",
+      "company_name": "KOMATSU MITSUI",
+      "location": "Callao",
+      "via": "Bumeran Perú",
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=atenci%C3%B3n+al+cliente&htidocid=gzB788V41ua7GrrzAAAAAA%3D%3D&hl=es-PE&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_xXMMQ6CMBQA0LhyAuP0ZwdqTFxwMA02phHqQJ1JgR_QFH61NeEeLp7FlYspyxtf9FlEB654JgvN4SiAa6FSOb0V8AzSTAqlRQLV9PWPFzYGGgTsnUUCHOBE1Fpc7bsQnE8Y897GrQ8m3Oq4pp7RgBWN7E6Vnyl9Z57orAlYbnebMXZDu16eLznXxRVy-VfObWqsNfQDJ-VL6psAAAA&shmds=v1_Ac3VAox2w5q-wFgpi1xRDAb1B8yOhB1BBzasXTwYqDNej78kEQ&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=atenci%C3%B3n+al+cliente&htidocid=gzB788V41ua7GrrzAAAAAA%3D%3D",
+      "thumbnail": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAADgAAAAjCAMAAAD2STl0AAAAwFBMVEX____Z2dnGyOqnqdoAAJPc3Nz19vbw8fEAAJZ7fsHt7u_09fcAAJkEC58IDp_e3tyrrtPPz9D09v_w8v9rbG8zNp3b3fHn6PR1eLwAAI0fIqEOEpseI5wyNaIYHZoACJQTGJoTGI_d3_9ydL2ioqSqqqu0tLaYmZqbntVDRqLp6_6kptCKjMVUV6-HiLlhY64AAAAWGR-GhokmKC0yMzdJSk5fYGTQ0um8veR2eKpTVVizteI-Qqo4O5klKZq_wMEkyi2QAAABNUlEQVQ4je2SUVeCMBiGh8JSAWEwSBPHUhk61Mqclpn8_3_VJ4pWJ720Gx523vPt4tmBdyBUUXFjwto17rGJTVh4nxiXMwax09Uv03Ud7S9aIDatdtveP0UUs_3Qs2AL6K5jlJwnoxQ50yO9HzVYzHsQ7HEw7HPGWXwURyQRYpQmSSoSLRGkFK2hV5djJCcyk9MZmkvzKZRNv-5zuxDFc_pC6eJ1tKSpImolziLy3XC-dpGJsgythyh6898912MHcaWWilKiHLqhm19i5n8gc-rJmvTHqIO2NTMboIFevKpQC5WuKFkaIMIJZ7HNAh7EE4hd9BnEwS7g25kezXZ2IZIDWm7kuUaERk7fCE1Ch9BjQbGxLVj2z1bLbp1jq3CPjYtcu8d1_Rrh3Tdap8T_9Z9XVNyOL4lPJCOKrTN6AAAAAElFTkSuQmCC.png",
+      "extensions": [
+        "hace 4 días",
+        "Tiempo completo"
+      ],
+      "detected_extensions": {
+        "posted_at": "hace 4 días",
+        "schedule_type": "Tiempo completo"
+      },
+      "source_link": "https://www.bumeran.com.pe/empleos/analista-de-atencion-al-cliente-komatsu-mitsui-1118669107.html",
+      "job_title": "ANALISTA DE ATENCIÓN AL CLIENTE",
+      "description": "¡SÉ PARTE DE KOMATSU – MITSUI! 🚀👷💡\n\nSomos una empresa transnacional líder en el sector industrial, comprometida con el progreso y la innovación en uno de los sectores clave de nuestro país. Actualmente, estamos en búsqueda de personas como tú: apasionadas, motivadas por los desafíos y dispuestas a aprovechar las oportunidades de crecimiento que ofrecemos.\n\nAnalista de Atención al Cliente\n\nAtender y analizar los requerimientos de los clientes que vienen de los diferentes canales de atención como WhatsApp, Messenger, correo, llamadas telefónicas, web chat y derivarlos a los responsables con la finalidad de brindar una buena atención y orientación a los clientes.\n\n Atender, orientar al cliente que viene de los diversos canales de comunicación oficiales de la empresa, mediante el protocolo de atención Verificar y actualizar la información del cliente/oportunidad en el sistema. Accionar otras áreas de la empresa que sean necesarias para la solución de los requerimientos del cliente, en calidad y tiempos asignados.  Generar oportunidades de venta que se traduzcan en nuevos clientes. Atender las quejas y reclamos de clientes, gestionando a través de los medios existentes la solución que garantice resolución y tiempos, de acuerdo al procedimiento vigente. Desarrollar informes técnicos de: atención de requerimiento información, satisfacción de los usuarios, informes de recomendaciones, sugerencias y reclamos. Realizar y analizar encuestas de satisfacción y monitoreo del plan de mejora. Desarrollar indicadores de gestión de las actividades ejecutadas en el equipo de trabajo. Responsable de las encuestas corporativas de satisfacción al cliente y NPS con frecuencias mensuales, trimestrales y anuales Participar en la disminución del nivel de riesgos de lesiones y enfermedades ocupacionales, así como la prevención de la contaminación del medio ambiente en el cual se desarrollan sus actividades. Requisitos:\n\n Profesional en Administración, Economista, Contabilidad o en Ingeniería Industrial afines.  Experiencia de preferencia 1 año en labores similares.  Experiencia en empresas de Call Center y/o similares.  Conocimiento y manejo de indicadores y reporteria.  Conocimiento y manejo de Power BI, excel Deseable conocimiento en SAP  Disponibilidad para trabajar en Callao",
+      "apply_options": [
+        {
+          "title": "Bumeran Perú",
+          "link": "https://www.bumeran.com.pe/empleos/analista-de-atencion-al-cliente-komatsu-mitsui-1118669107.html?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "JobLeads",
+          "link": "https://www.jobleads.com/pe/job/analista-de-atencion-al-cliente--callao--ee4a00f722f7a9e94bcde6362536b8027?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Trabajo.org",
+          "link": "https://pe.trabajo.org/oferta-3134-e166ebe8644f7ba79dd2cd4a26486b17?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "BeBee",
+          "link": "https://bebee.com/pe/jobs/analista-de-remuneraciones-y-atencion-al-cliente-buk-callao--jobted-e23347c5af9ff5d9ee3a0ead5dd1b799?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Jobrapido.com",
+          "link": "https://pe.jobrapido.com/jobpreview/4287061293073956864?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Jobted",
+          "link": "https://www.jobted.com.pe/job/816354fd52c542e3a625934460d292b4?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Mipleo Perú",
+          "link": "https://www.mipleo.com.pe/ofertas-de-trabajo/oferta-de-trabajo-en-lima/analista-de-atencion-al-cliente-6799249.html?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJBTkFMSVNUQSBERSBBVEVOQ0nDk04gQUwgQ0xJRU5URSIsImNvbXBhbnlfbmFtZSI6IktPTUFUU1UgTUlUU1VJIiwiaHRpZG9jaWQiOiJnekI3ODhWNDF1YTdHcnJ6QUFBQUFBPT0iLCJ1dWxlIjoidytDQUlRSUNJRVVHVnlkUSIsImdsIjoicGUiLCJobCI6ImVzIiwiZmMiOiJFc3dCQ293QlFVUkVZbGRsWVhKTVFsVkNTVmhUUVRkdU5uZE9NMGMyVDJKdVUxa3pWWGxxWTAxVWFVOXNNa1l0YzFWdllqVkNkMlZEVWpseFdYSnlWVFZzUTJGdFlUZzFNMVZFVDJWVlV6RmhMWGswUTBkbFF6Z3RMV0prTTI1TFlsTjVObWhvZUdKQlpsRkNabkJaVkZOdGQzUlpZV3Q0TmpGT1ZGVklRM2RKWkhoMFkzaHlWVTFJWlZGUVUyVjZWa2tTRjI1blNVTmhORE5sUTJGeFNIQjBVVkIwTjFSWk5rRkpHaUpCU0U0d1JUZEdMVVV0Um01UFlsOUtWbWhWVWt4Q1VFeEZVV05yYWxJNVVFZG4iLCJmY3YiOiIzIiwiZmNfaWQiOiJnekI3ODhWNDF1YTdHcnJ6QUFBQUFBPT0ifQ=="
+    },
+    {
+      "title": "Atención al Cliente Full Time - Happyland La Rambla",
+      "company_name": "Happyland Perú",
+      "location": "Breña",
+      "via": "Bumeran Perú",
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=atenci%C3%B3n+al+cliente&htidocid=MGHDRxzX6SrRIoFeAAAAAA%3D%3D&hl=es-PE&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_0XNvQrCMBRAYVz7BjrdWbARwaVOKqiDg6h7uWkvaeTmxyaF-lAO4tY1LyadXM74new9yW7bSLbS6WsBGfasyUaCQ8cMd20IFnBC71-MtoYzwhWNZCxApiE8O6oRagIynskBWTg6p5hmmyZGHwohQuBchYhRV3nljHCWpOvFw8kwpgwNtuQZI5Wr9bLPvVXz6X94oTYNo7trKX3wB6g8GriwAAAA&shmds=v1_Ac3VAozjW7YK-90iwX5-K1tALqjE4SsU6I6wwatz9h-xJrCXKA&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=atenci%C3%B3n+al+cliente&htidocid=MGHDRxzX6SrRIoFeAAAAAA%3D%3D",
+      "thumbnail": "https://serpapi.com/images/i/_9j_4AAQSkZJRgABAQAAAQABAAD_2wCEAAkGBwgHBgkIBwgKCgkLDRYPDQwMDRsUFRAWIB0iIiAdHx8kKDQsJCYxJx8fLT0tMTU3Ojo6Iys_RD84QzQ5OjcBCgoKDQwNGg8PGjclHyU3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3N__AABEIACMAOAMBEQACEQEDEQH_xAAaAAEAAgMBAAAAAAAAAAAAAAAAAQQCAwUH_8QAKRAAAQMDAQUJAAAAAAAAAAAAAQACEQMEEiETFEGB0QUVMTJCUVJxkf_EABoBAQADAAMAAAAAAAAAAAAAAAABAwQCBQb_xAAnEQACAgAEBgEFAAAAAAAAAAAAAQIRAwQSIQUTFDFBgdEVIlFhkf_aAAwDAQACEQMRAD8A9xQBAEAQBAEAQFc3tDZh4dLS7DQHxWB8Syyhr1bXXss5UrqjfIW-ysjNvyH6uHMhV2iaZMhc7IAIIkFQmmrQJUgSlg5XdZcHuJaKhqS0yYDV5j6A5apNpS1Wu_b8GrqapeKLLras65NY1Rj5cI0x6rsp5LMSzPO17dq8V8lSnFQ00aB2W3d6dMkTnk8j64LCuAQ6eGE3vdv-VsWdQ9TkWG2YbcZgkUwBDAeI0k8l2EeHKOY5if27bftbW_RW8S415MG21wLTd82N4ZCdG9VVHJZpZTplJLxavt8kucNeqiH2dxUpsabjFzA5oLfVPvyXDF4dmcXDhF4tOKateb7X6JjixTbruYMsarLrbZiBENBMnSNVVh8Lx4ZvqNWyra3vtW5LxYuGmjpL0BnCAIAgCAIAgCAIAgCAIAgCA__Z.jpg",
+      "extensions": [
+        "hace 3 días",
+        "Tiempo completo"
+      ],
+      "detected_extensions": {
+        "posted_at": "hace 3 días",
+        "schedule_type": "Tiempo completo"
+      },
+      "source_link": "https://www.bumeran.com.pe/empleos/atencion-al-cliente-full-time-happyland-la-rambla-happyland-peru-1118669976.html",
+      "job_title": "Atención al Cliente Full Time - Happyland La Rambla",
+      "description": "Somos HAPPYLAND, empresa líder en entretenimiento familiar, te invita a formar parte de su equipo de ATENCIÓN AL CLIENTE para nuestro local de C.C. La Rambla Brasil \n\nREQUISITOS: \n\n* Sociabilidad, extroversión y dinamismo. \n\n* Alto sentido de responsabilidad y honestidad. \n\n* Capacidad para trabajar en equipo. \n\n* Proactivo (a). \n\n* Disponibilidad para trabajar en tiempo completo (6 días de trabajo, disponibilidad en horarios rotativos en el rango de horas de 8 am a 11:30pm, 8 horas por día de trabajo)\n\nFUNCIONES: \n\n* Atención al público permanente \n\n* Impulsar la venta de los servicios y promociones de la tienda. \n\n* Manejo de máquinas asignadas. \n\n* Rotación en áreas de caja, happyfood, canje, otros. \n\n* Demás funciones inherentes al puesto. \n\n* Limpieza del local.\n\nBENEFICIOS: \n\n* Ingreso en planilla desde el primer día de trabajo \n\n* Agradable ambiente de trabajo. \n\n* Línea de carrera",
+      "apply_options": [
+        {
+          "title": "Bumeran Perú",
+          "link": "https://www.bumeran.com.pe/empleos/atencion-al-cliente-full-time-happyland-la-rambla-happyland-peru-1118669976.html?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Jobrapido.com",
+          "link": "https://pe.jobrapido.com/jobpreview/2542527284896595968?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Mipleo Perú",
+          "link": "https://www.mipleo.com.pe/ofertas-de-trabajo/oferta-de-trabajo-en-lima/atencion-al-cliente-full-time-happyland-la-rambla-6800068.html?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Jobted",
+          "link": "https://www.jobted.com.pe/job/275c9e7764925bbf4c4e59b552cf31b3?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJBdGVuY2nDs24gYWwgQ2xpZW50ZSBGdWxsIFRpbWUgLSBIYXBweWxhbmQgTGEgUmFtYmxhIiwiY29tcGFueV9uYW1lIjoiSGFwcHlsYW5kIFBlcsO6IiwiaHRpZG9jaWQiOiJNR0hEUnh6WDZTclJJb0ZlQUFBQUFBPT0iLCJ1dWxlIjoidytDQUlRSUNJRVVHVnlkUSIsImdsIjoicGUiLCJobCI6ImVzIiwiZmMiOiJFc3dCQ293QlFVUkVZbGRsWVd0Q1JFcFNaVkJqVFhWdGVFZ3pibHByYkhrd1pYbFhOMGxNYUU4ek1sUmZObWwyTUhCd1ZUZERkV0UxU200NGRURjBObE51YWpkb2N6QjJYMWRGTlhadWNWZGxOV1ZrT0MxRWRYcHFZV05CVW5rMExUTnllR3MxVDJOU2NVNXBkVE5YUjI1a1dqUlNhREoyZW1WMldGTlVVRmMwWDBGalJIZ3RRbFZHZFZKc05HNUdPRThTRjI1blNVTmhORE5sUTJGeFNIQjBVVkIwTjFSWk5rRkpHaUpCU0U0d1JUZElhalJyTFhBNWJGcHhiM2c0WkVGc04xbFVSQzFDVDJaRk5UTlIiLCJmY3YiOiIzIiwiZmNfaWQiOiJNR0hEUnh6WDZTclJJb0ZlQUFBQUFBPT0ifQ=="
+    },
+    {
+      "title": "Coordinador General de Operaciones y Atención al Cliente",
+      "company_name": "grupo g & r.net s.a.c",
+      "location": "Huánuco",
+      "via": "Indeed",
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=atenci%C3%B3n+al+cliente&htidocid=BJHN9AghYz9fLNQyAAAAAA%3D%3D&hl=es-PE&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_xWMMQ7CMBAERZsnUB0NBYWNkGhChVKEjpYucpyTMXLujM-RwnN4A13afIykGa002immTfGomFPnyXScoEbCZAJ0CPe4LOuZUOAD14xk_fwjWGwVPFLGEtp5kveAnVkP2MeADEhQM7uA28sz5yil1iJBOckme6ss93pptjzqF7eyopGnSRiDydiczsdRRXKHnUtDZHCwh6QIM4gyyq712zB_abD8B-MTmn69AAAA&shmds=v1_Ac3VAowKAbOpBUCw1gjFmqNdQmjkxQQFMU4zTy_q7xRVOCulKw&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=atenci%C3%B3n+al+cliente&htidocid=BJHN9AghYz9fLNQyAAAAAA%3D%3D",
+      "extensions": [
+        "hace 4 días",
+        "Tiempo completo"
+      ],
+      "detected_extensions": {
+        "posted_at": "hace 4 días",
+        "schedule_type": "Tiempo completo"
+      },
+      "source_link": "https://pe.indeed.com/viewjob?jk=0d327285ad6864ae",
+      "job_title": "Coordinador General de Operaciones y Atención al Cliente",
+      "description": "Grupo G & R.Net S.A.C. busca un Coordinador General para liderar la operación del servicio de atención al cliente que presta a Electrocentro. El puesto tiene base en Huánuco, Huánuco, es presencial y a tiempo completo, y requiere disponibilidad para viajar dentro del ámbito del servicio.\n\n\nLa remuneración base es de S/ 3,700 mensuales, más beneficios completos de ley.\n\n\nFunciones\n\n\nRepresentar a la empresa ante Electrocentro, coordinar los equipos de atención presencial y soporte administrativo, dar seguimiento a los recursos y verificar el cumplimiento de los compromisos del servicio.\n\n\nFormación y conocimientos\n\n\nTítulo profesional en Administración de Empresas, Derecho, Ingeniería Industrial, Ingeniería Electricista, Ingeniería Mecánica-Eléctrica, Ingeniería de Energía o Administración y Negocios Internacionales. La colegiatura se solicita durante la etapa de implementación del servicio.\n\n\nEstudios en regulación de servicios públicos de electricidad y en gestión de la experiencia del cliente (CEM). Conocimientos básicos de normativa del sector eléctrico y procedimientos administrativos y legales aplicables. Manejo avanzado de Microsoft Office y conocimientos de seguridad, salud en el trabajo y medio ambiente. La empresa brindará capacitación especializada en CEM.\n\n\nExperiencia requerida\n\n\nMínimo cinco años de experiencia acreditable desde la obtención del título profesional, en cargos de coordinación, supervisión o jefatura en áreas de responsabilidad similar.\n\n\nSe admite experiencia en gestión de front office y back office, atención al cliente, call center o contact center, facturación (incluidas la lectura y el reparto de recibos), actividades técnico-comerciales (nuevos suministros, cortes y reconexiones, inspección de reclamos o control de pérdidas), cobranza, ventas en módulos o gestión de programas como el Fondo de Inclusión Social Energético (FISE), incluidas las instalaciones renovables autónomas del subprograma Masivo Fotovoltaico.\n\n\nLa experiencia puede ser en entidades públicas o privadas de electricidad, agua potable y alcantarillado, telecomunicaciones, transporte e infraestructura públicos, gas natural u organismos reguladores, o en empresas que les hayan prestado servicios.\n\n\nCómo postular\n\n\nPostula por Indeed con tu CV actualizado. Incluye la fecha de obtención de tu título y detalla los cargos, funciones, sectores y periodos de experiencia que puedas acreditar.\n\n\nSueldo: S/.3,700.00 al mes\n\n\nLugar de trabajo: Empleo presencial",
+      "apply_options": [
+        {
+          "title": "Indeed",
+          "link": "https://pe.indeed.com/viewjob?jk=0d327285ad6864ae&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Jobrapido.com",
+          "link": "https://pe.jobrapido.com/jobpreview/2338159752971812864?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJDb29yZGluYWRvciBHZW5lcmFsIGRlIE9wZXJhY2lvbmVzIHkgQXRlbmNpw7NuIGFsIENsaWVudGUiLCJjb21wYW55X25hbWUiOiJncnVwbyBnIFx1MDAyNiByLm5ldCBzLmEuYyIsImh0aWRvY2lkIjoiQkpITjlBZ2hZejlmTE5ReUFBQUFBQT09IiwidXVsZSI6IncrQ0FJUUlDSUVVR1Z5ZFEiLCJnbCI6InBlIiwiaGwiOiJlcyIsImZjIjoiRXN3QkNvd0JRVVJFWWxkbFlubEtOMU5yVkhkdlEyOVVhM1F5WmpkWVNYRmpjRk5FU1RkcWJGVkpkMjFIVGpCV1FqYzFXWGhEWVVWTGVXZ3lVMVV6VDJkMlMwaFpaR1Y1YzNGS2VWUlhjbkpXVmtkdmFrSnJiVTAyUWxwdmFrSnFRMFprVVZoQ2RVUkhibFZ2Tm5WRlRWQnlRekZ0UnpCcU5HeEVjV0YzUjFKSll5MVRjbk5zVVZGM2QyZEVaa2t6UW1vU0YyNW5TVU5oTkRObFEyRnhTSEIwVVZCME4xUlpOa0ZKR2lKQlNFNHdSVGRHV2pkMVlVUjRUamQ0WTJ4cU4wOUdNako0Y0RCS09HVm9hREpSIiwiZmN2IjoiMyIsImZjX2lkIjoiQkpITjlBZ2hZejlmTE5ReUFBQUFBQT09In0="
+    }
+  ],
+  "serpapi_pagination": {
+    "next_page_token": "eyJmYyI6IkVxSUVDdUlEUVVSRVlsZGxXVXgwU1RZelVUaENkRVpRWTJwcGFWaGhPRE53UmxaTFRFVjZhR1poWVRsMlFsY3lXamRpVldFeGVHTm9ZbVJUV1VOQ1Z6aE1OVlZVVUVwWVJsQTVSM1pSWHpFMU9ESkVXSEo0VjI5MlVrWktSa3d6ZDNrdFZqTlJRblZpVTJGRVlTMXJNSE5VWDNCVlNXaHlZblJWTVVkVmEzbE9UVFJoY1VGQk1UVnNaamh4ZWsxSmVtaFpXRlJyVjJkYWJUZHpSa0kwTTNWb1QzQnBhRFo0VFhwQ2NFcHRlblJQT0hoZmJsUmpjSFJGUkRSRmRUTlhVekZCVjBJdGVXVk1la3BDTFhkcE1YWllPVUZFZVVjeWJGVXRVRFJaYUcxUGJrWk9XVWsxYWpGNFZFaExUVlpsV1ROaVdXaEtiRlpLYWw5Zk1uZENlRFU0YmxOVmEzcEZkMmg2U1ZkbU0zaHRRbUZzYlRodVNVWTBjMDk1WkhCZmIzZDJiMEY1T1RSaFQydGFTazlWZDB0clQyVmhUVlJEV2treVVFeFdXSGxsTVZGVWVXbENhVkk0YkhKT1QybHZWRE5wUVV4ME0xa3hZVmRCYTJjd2NXbHBOVEJFU1dkUlN6VTNaR3hDZEhSM1JYVkVVSEpoYWs5bGFrVkdNRUYwYUZwbE5HdENUMnRwUWtsWGRsTnFSa2RzY2xsbk5qWlJVazVNTUZBeVRtaHRaMjVSWm5CaU9FSkthM1ZrZEdZeVVEQnpXVTlFUW1WNWJGbE9WM0JxV25SS1dYWnlXVGxaVmtOWGNuUmxjM2hrVFdsUE5WSlFjVWwwYkVsWWRVZGpibFJVVVZwblQwRVNGMjVuU1VOaE5ETmxRMkZ4U0hCMFVWQjBOMVJaTmtGSkdpSkJTRTR3UlRkSFZrWkRlRWhEZDFkS1VXZDVUbEJVZFhJNVdHNUVNWFl5YVU5UiIsImZjdiI6IjMifQ==",
+    "next": "https://serpapi.com/search.json?engine=google_jobs&gl=pe&google_domain=google.com&hl=es&location=Peru&next_page_token=eyJmYyI6IkVxSUVDdUlEUVVSRVlsZGxXVXgwU1RZelVUaENkRVpRWTJwcGFWaGhPRE53UmxaTFRFVjZhR1poWVRsMlFsY3lXamRpVldFeGVHTm9ZbVJUV1VOQ1Z6aE1OVlZVVUVwWVJsQTVSM1pSWHpFMU9ESkVXSEo0VjI5MlVrWktSa3d6ZDNrdFZqTlJRblZpVTJGRVlTMXJNSE5VWDNCVlNXaHlZblJWTVVkVmEzbE9UVFJoY1VGQk1UVnNaamh4ZWsxSmVtaFpXRlJyVjJkYWJUZHpSa0kwTTNWb1QzQnBhRFo0VFhwQ2NFcHRlblJQT0hoZmJsUmpjSFJGUkRSRmRUTlhVekZCVjBJdGVXVk1la3BDTFhkcE1YWllPVUZFZVVjeWJGVXRVRFJaYUcxUGJrWk9XVWsxYWpGNFZFaExUVlpsV1ROaVdXaEtiRlpLYWw5Zk1uZENlRFU0YmxOVmEzcEZkMmg2U1ZkbU0zaHRRbUZzYlRodVNVWTBjMDk1WkhCZmIzZDJiMEY1T1RSaFQydGFTazlWZDB0clQyVmhUVlJEV2treVVFeFdXSGxsTVZGVWVXbENhVkk0YkhKT1QybHZWRE5wUVV4ME0xa3hZVmRCYTJjd2NXbHBOVEJFU1dkUlN6VTNaR3hDZEhSM1JYVkVVSEpoYWs5bGFrVkdNRUYwYUZwbE5HdENUMnRwUWtsWGRsTnFSa2RzY2xsbk5qWlJVazVNTUZBeVRtaHRaMjVSWm5CaU9FSkthM1ZrZEdZeVVEQnpXVTlFUW1WNWJGbE9WM0JxV25SS1dYWnlXVGxaVmtOWGNuUmxjM2hrVFdsUE5WSlFjVWwwYkVsWWRVZGpibFJVVVZwblQwRVNGMjVuU1VOaE5ETmxRMkZ4U0hCMFVWQjBOMVJaTmtGSkdpSkJTRTR3UlRkSFZrWkRlRWhEZDFkS1VXZDVUbEJVZFhJNVdHNUVNWFl5YVU5UiIsImZjdiI6IjMifQ%3D%3D&q=atenci%C3%B3n+al+cliente"
+  },
+  "_pipeline_metadata": {
+    "ingestion_timestamp_utc": "2026-11-21T20:44:14.783880+00:00",
+    "search_group": "atencion_cliente",
+    "target_market": "Peru",
+    "target_location": "Peru",
+    "date_filter_applied": "month",
+    "new_records_count": 10,
+    "provider": "serpapi"
+  }
+}

@@ -1,0 +1,61 @@
+﻿nombre_skill,categoria_skill
+Customer Service,customer
+Customer Support,customer
+Customer Experience,customer
+Customer Success,customer
+Customer Retention,customer
+Client Services,customer
+Client Relationship Management,customer
+Customer Satisfaction,customer
+Communication,communication
+Active Listening,communication
+Written Communication,communication
+Verbal Communication,communication
+Empathy,communication
+Conflict Resolution,communication
+Negotiation,communication
+Problem Solving,problem_solving
+Critical Thinking,problem_solving
+Troubleshooting,problem_solving
+Decision Making,problem_solving
+Complaint Handling,problem_solving
+Operations Management,operations
+Business Operations,operations
+Process Improvement,operations
+Workflow Management,operations
+Business Process Management,operations
+Standard Operating Procedures,operations
+SOP,operations
+Order Management,operations
+Service Operations,operations
+Quality Assurance,service_quality
+Quality Control,service_quality
+Service Level Agreement,service_quality
+SLA Management,service_quality
+KPI Management,service_quality
+Performance Management,service_quality
+CRM,crm
+Salesforce,crm
+HubSpot,crm
+Zendesk,crm
+Freshdesk,crm
+ServiceNow,crm
+Microsoft Excel,productivity_tools
+Advanced Excel,productivity_tools
+Google Sheets,productivity_tools
+Microsoft Office,productivity_tools
+Google Workspace,productivity_tools
+Team Management,leadership
+Leadership,leadership
+Coaching,leadership
+Training,leadership
+People Management,leadership
+Team Performance,leadership
+Spanish,languages
+English,languages
+Portuguese,languages
+Time Management,productivity
+Multitasking,productivity
+Organization,productivity
+Attention to Detail,productivity
+Adaptability,productivity

@@ -1,0 +1,553 @@
+{
+  "search_metadata": {
+    "id": "6b0202ad6a1f11d2f39ed8a5",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/4ksNkCK3SUmoFEtnkt9c_xgcTKwtobb8eb3pmuuLhgo/6b0202ad6a1f11d2f39ed8a5.json",
+    "markdown_endpoint": "https://serpapi.com/searches/4ksNkCK3SUmoFEtnkt9c_xgcTKwtobb8eb3pmuuLhgo/6b0202ad6a1f11d2f39ed8a5.md",
+    "created_at": "2026-11-21 20:44:29 UTC",
+    "processed_at": "2026-11-21 20:44:29 UTC",
+    "google_jobs_url": "https://www.google.com/search?q=back+office&hl=es&gl=pe&udm=8&uule=w+CAIQICIEUGVydQ",
+    "raw_html_file": "https://serpapi.com/searches/4ksNkCK3SUmoFEtnkt9c_xgcTKwtobb8eb3pmuuLhgo/6b0202ad6a1f11d2f39ed8a5.html",
+    "total_time_taken": 1.76
+  },
+  "search_parameters": {
+    "q": "back office",
+    "engine": "google_jobs",
+    "location_requested": "Peru",
+    "location_used": "Peru",
+    "google_domain": "google.com",
+    "hl": "es",
+    "gl": "pe"
+  },
+  "filters": [
+    {
+      "name": "Tipo de trabajo",
+      "options": [
+        {
+          "name": "Tiempo completo",
+          "parameters": {
+            "uds": "AE2AFgbf06ZzDvczg9XBG5Z3qflXsso_QxMudqS5ZjKSJLwnGi_n4TRvKPwu3ZPrxSMN5FVrvgAaRjyrG6BVXgfKRDCi9JHZx1tb5SXOJ7c8RoK0ywW0i61Q-ofF63LY6dwKeLYzGQ1CELIz9jhF8XRTfq_BcjBW3atjZLowstqGLHlG9kwWBZWc4NVAJTvpvWTzPqcAmHVkdb8U05uRwSS0r0N9gwCsJ7OgrKLxCPNUGGZ231uFKS5gU2WCLmX1UM6LxspGLIRJjQIbgp-SRQ6pYzYTqAHXMEih3DY9hMOQ9XQdIPNliZxWZyntEiftUodHzbEnXCrLLPI0cU-n3hV7DdD3VauRHiG_vyZ79yzoUT59SEPxPKQ",
+            "q": "back office tiempo completo"
+          },
+          "link": "https://www.google.com/search?sca_esv=06fa6b2cca60171b&hl=es&gl=pe&sxsrf=AKL5yDjyeQ8U32QYq8GftUuBKxnftQZbEA:1795293870781&q=back+office+tiempo+completo&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXsso_QxMudqS5ZjKSJLwnGi_n4TRvKPwu3ZPrxSMN5FVrvgAaRjyrG6BVXgfKRDCi9JHZx1tb5SXOJ7c8RoK0ywW0i61Q-ofF63LY6dwKeLYzGQ1CELIz9jhF8XRTfq_BcjBW3atjZLowstqGLHlG9kwWBZWc4NVAJTvpvWTzPqcAmHVkdb8U05uRwSS0r0N9gwCsJ7OgrKLxCPNUGGZ231uFKS5gU2WCLmX1UM6LxspGLIRJjQIbgp-SRQ6pYzYTqAHXMEih3DY9hMOQ9XQdIPNliZxWZyntEiftUodHzbEnXCrLLPI0cU-n3hV7DdD3VauRHiG_vyZ79yzoUT59SEPxPKQ&udm=8&sa=X&ved=2ahUKEwjRqb3r9pmYAxXUQTABHdSGFdkQkbEKegQIIhAC",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=pe&google_domain=google.com&hl=es&location=Peru&q=back+office+tiempo+completo&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXsso_QxMudqS5ZjKSJLwnGi_n4TRvKPwu3ZPrxSMN5FVrvgAaRjyrG6BVXgfKRDCi9JHZx1tb5SXOJ7c8RoK0ywW0i61Q-ofF63LY6dwKeLYzGQ1CELIz9jhF8XRTfq_BcjBW3atjZLowstqGLHlG9kwWBZWc4NVAJTvpvWTzPqcAmHVkdb8U05uRwSS0r0N9gwCsJ7OgrKLxCPNUGGZ231uFKS5gU2WCLmX1UM6LxspGLIRJjQIbgp-SRQ6pYzYTqAHXMEih3DY9hMOQ9XQdIPNliZxWZyntEiftUodHzbEnXCrLLPI0cU-n3hV7DdD3VauRHiG_vyZ79yzoUT59SEPxPKQ"
+        },
+        {
+          "name": "Tiempo parcial",
+          "parameters": {
+            "uds": "AE2AFgbf06ZzDvczg9XBG5Z3qflXMZuq0aJ2qkXvD-oCCWz4xQ0YuPDOxHlF1uQgJiwMd1SS8hXRr8UXCKeOcovTS-B0bapeqgifJaMR0v6CuEznmSCNcA7xYb8EydP6yNgjwSy12rrP9Uaigimu2izLyJTd2uio31f2vf9yrhZjeU9skPByZrKGXxVVCaso8N0F1zlVbjSVSVqvoK-mhAQlyQxp43b1vG0Ihiv8P-MQkLExPV0__neDWNEGpb8CocCdV894rgSN_rwgEoQvRTkatWU2qyEsikF6C-gN7beo8TWrgYRg9g2hlY5_to8swDa7gL2FxV7dD9uAGWH-k5JkNxA6nEJiagioi7mAFvtr8HOyMHlKAQE",
+            "q": "back office tiempo parcial"
+          },
+          "link": "https://www.google.com/search?sca_esv=06fa6b2cca60171b&hl=es&gl=pe&sxsrf=AKL5yDjyeQ8U32QYq8GftUuBKxnftQZbEA:1795293870781&q=back+office+tiempo+parcial&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXMZuq0aJ2qkXvD-oCCWz4xQ0YuPDOxHlF1uQgJiwMd1SS8hXRr8UXCKeOcovTS-B0bapeqgifJaMR0v6CuEznmSCNcA7xYb8EydP6yNgjwSy12rrP9Uaigimu2izLyJTd2uio31f2vf9yrhZjeU9skPByZrKGXxVVCaso8N0F1zlVbjSVSVqvoK-mhAQlyQxp43b1vG0Ihiv8P-MQkLExPV0__neDWNEGpb8CocCdV894rgSN_rwgEoQvRTkatWU2qyEsikF6C-gN7beo8TWrgYRg9g2hlY5_to8swDa7gL2FxV7dD9uAGWH-k5JkNxA6nEJiagioi7mAFvtr8HOyMHlKAQE&udm=8&sa=X&ved=2ahUKEwjRqb3r9pmYAxXUQTABHdSGFdkQkbEKegQIIhAD",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=pe&google_domain=google.com&hl=es&location=Peru&q=back+office+tiempo+parcial&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXMZuq0aJ2qkXvD-oCCWz4xQ0YuPDOxHlF1uQgJiwMd1SS8hXRr8UXCKeOcovTS-B0bapeqgifJaMR0v6CuEznmSCNcA7xYb8EydP6yNgjwSy12rrP9Uaigimu2izLyJTd2uio31f2vf9yrhZjeU9skPByZrKGXxVVCaso8N0F1zlVbjSVSVqvoK-mhAQlyQxp43b1vG0Ihiv8P-MQkLExPV0__neDWNEGpb8CocCdV894rgSN_rwgEoQvRTkatWU2qyEsikF6C-gN7beo8TWrgYRg9g2hlY5_to8swDa7gL2FxV7dD9uAGWH-k5JkNxA6nEJiagioi7mAFvtr8HOyMHlKAQE"
+        },
+        {
+          "name": "Con contrato",
+          "parameters": {
+            "uds": "AE2AFgbf06ZzDvczg9XBG5Z3qflXvDkiO-2XNVeJ_LcMcWKXhfC3EjIAuIhCCGz3Vd50A1T2R1XBJYlsOmvjG5qty5pUGX6DJlA611LL9uGYcDB_4Yymo9a2WPcGPjcBqwJUsHZbTxrQPhC0KER79G7b0YTVayqTH-viu3PeEG_syylGn4MXuY0P8Z_sHB5BjmM6br2SoEflN_I9cxGv8Z8hsp91QTQSWxqo8urh6pLWpcqM5iF3HzPZmTBkgo3NOFsS8vZS6hsia0akPHzP6KoQty7XzxJrqdei646Kt31EpZeGQXCLwpMa-1PksEUYb4ZWfE9l2xjW_cAkDVlaYz4sKkolM4qEDgJvNG9OLzeDnyey8qgD2Nw",
+            "q": "back office con contrato"
+          },
+          "link": "https://www.google.com/search?sca_esv=06fa6b2cca60171b&hl=es&gl=pe&sxsrf=AKL5yDjyeQ8U32QYq8GftUuBKxnftQZbEA:1795293870781&q=back+office+con+contrato&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXvDkiO-2XNVeJ_LcMcWKXhfC3EjIAuIhCCGz3Vd50A1T2R1XBJYlsOmvjG5qty5pUGX6DJlA611LL9uGYcDB_4Yymo9a2WPcGPjcBqwJUsHZbTxrQPhC0KER79G7b0YTVayqTH-viu3PeEG_syylGn4MXuY0P8Z_sHB5BjmM6br2SoEflN_I9cxGv8Z8hsp91QTQSWxqo8urh6pLWpcqM5iF3HzPZmTBkgo3NOFsS8vZS6hsia0akPHzP6KoQty7XzxJrqdei646Kt31EpZeGQXCLwpMa-1PksEUYb4ZWfE9l2xjW_cAkDVlaYz4sKkolM4qEDgJvNG9OLzeDnyey8qgD2Nw&udm=8&sa=X&ved=2ahUKEwjRqb3r9pmYAxXUQTABHdSGFdkQkbEKegQIIhAE",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=pe&google_domain=google.com&hl=es&location=Peru&q=back+office+con+contrato&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXvDkiO-2XNVeJ_LcMcWKXhfC3EjIAuIhCCGz3Vd50A1T2R1XBJYlsOmvjG5qty5pUGX6DJlA611LL9uGYcDB_4Yymo9a2WPcGPjcBqwJUsHZbTxrQPhC0KER79G7b0YTVayqTH-viu3PeEG_syylGn4MXuY0P8Z_sHB5BjmM6br2SoEflN_I9cxGv8Z8hsp91QTQSWxqo8urh6pLWpcqM5iF3HzPZmTBkgo3NOFsS8vZS6hsia0akPHzP6KoQty7XzxJrqdei646Kt31EpZeGQXCLwpMa-1PksEUYb4ZWfE9l2xjW_cAkDVlaYz4sKkolM4qEDgJvNG9OLzeDnyey8qgD2Nw"
+        },
+        {
+          "name": "Prácticas",
+          "parameters": {
+            "uds": "AE2AFgbf06ZzDvczg9XBG5Z3qflXgg6u1d5a_u5XS0t61rFk91mleHcmIszRhGXEe7LDfMkqB5hOGElZCFdw3OYPAkfNFiaJPRbYVZQrDS1hKhw2_I4jtkmOGBCWn0zTYC-OTFl61duZ8Fytr5vB80_XwVInfaaiDecjhGnfHU22KUejlZEARUMlWfa1aiAFnBnIudk1tuIm2Luqc-UfQosKhIDA9HzhOeMlQ1dXl2hezwWAxfxuA10EHC_RcGfaudoKrMD8j4EzW_5bChUmNEDT_F6CRzMrH03ZrwG0DFe_1E4NX01Bd_BXUQRLFy66lSD1TL0kNEdFC0x2qGdF-XDR2UicQldnZxlIdCEVSE5tnF_q-W93pG0",
+            "q": "back office prácticas"
+          },
+          "link": "https://www.google.com/search?sca_esv=06fa6b2cca60171b&hl=es&gl=pe&sxsrf=AKL5yDjyeQ8U32QYq8GftUuBKxnftQZbEA:1795293870781&q=back+office+pr%C3%A1cticas&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXgg6u1d5a_u5XS0t61rFk91mleHcmIszRhGXEe7LDfMkqB5hOGElZCFdw3OYPAkfNFiaJPRbYVZQrDS1hKhw2_I4jtkmOGBCWn0zTYC-OTFl61duZ8Fytr5vB80_XwVInfaaiDecjhGnfHU22KUejlZEARUMlWfa1aiAFnBnIudk1tuIm2Luqc-UfQosKhIDA9HzhOeMlQ1dXl2hezwWAxfxuA10EHC_RcGfaudoKrMD8j4EzW_5bChUmNEDT_F6CRzMrH03ZrwG0DFe_1E4NX01Bd_BXUQRLFy66lSD1TL0kNEdFC0x2qGdF-XDR2UicQldnZxlIdCEVSE5tnF_q-W93pG0&udm=8&sa=X&ved=2ahUKEwjRqb3r9pmYAxXUQTABHdSGFdkQkbEKegQIIhAF",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=pe&google_domain=google.com&hl=es&location=Peru&q=back+office+pr%C3%A1cticas&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXgg6u1d5a_u5XS0t61rFk91mleHcmIszRhGXEe7LDfMkqB5hOGElZCFdw3OYPAkfNFiaJPRbYVZQrDS1hKhw2_I4jtkmOGBCWn0zTYC-OTFl61duZ8Fytr5vB80_XwVInfaaiDecjhGnfHU22KUejlZEARUMlWfa1aiAFnBnIudk1tuIm2Luqc-UfQosKhIDA9HzhOeMlQ1dXl2hezwWAxfxuA10EHC_RcGfaudoKrMD8j4EzW_5bChUmNEDT_F6CRzMrH03ZrwG0DFe_1E4NX01Bd_BXUQRLFy66lSD1TL0kNEdFC0x2qGdF-XDR2UicQldnZxlIdCEVSE5tnF_q-W93pG0"
+        }
+      ]
+    },
+    {
+      "name": "Tipo de trabajo",
+      "options": [
+        {
+          "name": "Tiempo completo",
+          "parameters": {
+            "uds": "AE2AFgbf06ZzDvczg9XBG5Z3qflXsso_QxMudqS5ZjKSJLwnGi_n4TRvKPwu3ZPrxSMN5FVrvgAaRjyrG6BVXgfKRDCi9JHZx1tb5SXOJ7c8RoK0ywW0i61Q-ofF63LY6dwKeLYzGQ1CELIz9jhF8XRTfq_BcjBW3atjZLowstqGLHlG9kwWBZWc4NVAJTvpvWTzPqcAmHVkdb8U05uRwSS0r0N9gwCsJ7OgrKLxCPNUGGZ231uFKS5gU2WCLmX1UM6LxspGLIRJjQIbgp-SRQ6pYzYTqAHXMEih3DY9hMOQ9XQdIPNliZxWZyntEiftUodHzbEnXCrLLPI0cU-n3hV7DdD3VauRHiG_vyZ79yzoUT59SEPxPKQ",
+            "q": "back office tiempo completo"
+          },
+          "link": "https://www.google.com/search?sca_esv=06fa6b2cca60171b&hl=es&gl=pe&sxsrf=AKL5yDjyeQ8U32QYq8GftUuBKxnftQZbEA:1795293870781&q=back+office+tiempo+completo&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXsso_QxMudqS5ZjKSJLwnGi_n4TRvKPwu3ZPrxSMN5FVrvgAaRjyrG6BVXgfKRDCi9JHZx1tb5SXOJ7c8RoK0ywW0i61Q-ofF63LY6dwKeLYzGQ1CELIz9jhF8XRTfq_BcjBW3atjZLowstqGLHlG9kwWBZWc4NVAJTvpvWTzPqcAmHVkdb8U05uRwSS0r0N9gwCsJ7OgrKLxCPNUGGZ231uFKS5gU2WCLmX1UM6LxspGLIRJjQIbgp-SRQ6pYzYTqAHXMEih3DY9hMOQ9XQdIPNliZxWZyntEiftUodHzbEnXCrLLPI0cU-n3hV7DdD3VauRHiG_vyZ79yzoUT59SEPxPKQ&udm=8&sa=X&ved=2ahUKEwjRqb3r9pmYAxXUQTABHdSGFdkQkbEKegQIIhAC",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=pe&google_domain=google.com&hl=es&location=Peru&q=back+office+tiempo+completo&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXsso_QxMudqS5ZjKSJLwnGi_n4TRvKPwu3ZPrxSMN5FVrvgAaRjyrG6BVXgfKRDCi9JHZx1tb5SXOJ7c8RoK0ywW0i61Q-ofF63LY6dwKeLYzGQ1CELIz9jhF8XRTfq_BcjBW3atjZLowstqGLHlG9kwWBZWc4NVAJTvpvWTzPqcAmHVkdb8U05uRwSS0r0N9gwCsJ7OgrKLxCPNUGGZ231uFKS5gU2WCLmX1UM6LxspGLIRJjQIbgp-SRQ6pYzYTqAHXMEih3DY9hMOQ9XQdIPNliZxWZyntEiftUodHzbEnXCrLLPI0cU-n3hV7DdD3VauRHiG_vyZ79yzoUT59SEPxPKQ"
+        },
+        {
+          "name": "Tiempo parcial",
+          "parameters": {
+            "uds": "AE2AFgbf06ZzDvczg9XBG5Z3qflXMZuq0aJ2qkXvD-oCCWz4xQ0YuPDOxHlF1uQgJiwMd1SS8hXRr8UXCKeOcovTS-B0bapeqgifJaMR0v6CuEznmSCNcA7xYb8EydP6yNgjwSy12rrP9Uaigimu2izLyJTd2uio31f2vf9yrhZjeU9skPByZrKGXxVVCaso8N0F1zlVbjSVSVqvoK-mhAQlyQxp43b1vG0Ihiv8P-MQkLExPV0__neDWNEGpb8CocCdV894rgSN_rwgEoQvRTkatWU2qyEsikF6C-gN7beo8TWrgYRg9g2hlY5_to8swDa7gL2FxV7dD9uAGWH-k5JkNxA6nEJiagioi7mAFvtr8HOyMHlKAQE",
+            "q": "back office tiempo parcial"
+          },
+          "link": "https://www.google.com/search?sca_esv=06fa6b2cca60171b&hl=es&gl=pe&sxsrf=AKL5yDjyeQ8U32QYq8GftUuBKxnftQZbEA:1795293870781&q=back+office+tiempo+parcial&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXMZuq0aJ2qkXvD-oCCWz4xQ0YuPDOxHlF1uQgJiwMd1SS8hXRr8UXCKeOcovTS-B0bapeqgifJaMR0v6CuEznmSCNcA7xYb8EydP6yNgjwSy12rrP9Uaigimu2izLyJTd2uio31f2vf9yrhZjeU9skPByZrKGXxVVCaso8N0F1zlVbjSVSVqvoK-mhAQlyQxp43b1vG0Ihiv8P-MQkLExPV0__neDWNEGpb8CocCdV894rgSN_rwgEoQvRTkatWU2qyEsikF6C-gN7beo8TWrgYRg9g2hlY5_to8swDa7gL2FxV7dD9uAGWH-k5JkNxA6nEJiagioi7mAFvtr8HOyMHlKAQE&udm=8&sa=X&ved=2ahUKEwjRqb3r9pmYAxXUQTABHdSGFdkQkbEKegQIIhAD",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=pe&google_domain=google.com&hl=es&location=Peru&q=back+office+tiempo+parcial&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXMZuq0aJ2qkXvD-oCCWz4xQ0YuPDOxHlF1uQgJiwMd1SS8hXRr8UXCKeOcovTS-B0bapeqgifJaMR0v6CuEznmSCNcA7xYb8EydP6yNgjwSy12rrP9Uaigimu2izLyJTd2uio31f2vf9yrhZjeU9skPByZrKGXxVVCaso8N0F1zlVbjSVSVqvoK-mhAQlyQxp43b1vG0Ihiv8P-MQkLExPV0__neDWNEGpb8CocCdV894rgSN_rwgEoQvRTkatWU2qyEsikF6C-gN7beo8TWrgYRg9g2hlY5_to8swDa7gL2FxV7dD9uAGWH-k5JkNxA6nEJiagioi7mAFvtr8HOyMHlKAQE"
+        },
+        {
+          "name": "Con contrato",
+          "parameters": {
+            "uds": "AE2AFgbf06ZzDvczg9XBG5Z3qflXvDkiO-2XNVeJ_LcMcWKXhfC3EjIAuIhCCGz3Vd50A1T2R1XBJYlsOmvjG5qty5pUGX6DJlA611LL9uGYcDB_4Yymo9a2WPcGPjcBqwJUsHZbTxrQPhC0KER79G7b0YTVayqTH-viu3PeEG_syylGn4MXuY0P8Z_sHB5BjmM6br2SoEflN_I9cxGv8Z8hsp91QTQSWxqo8urh6pLWpcqM5iF3HzPZmTBkgo3NOFsS8vZS6hsia0akPHzP6KoQty7XzxJrqdei646Kt31EpZeGQXCLwpMa-1PksEUYb4ZWfE9l2xjW_cAkDVlaYz4sKkolM4qEDgJvNG9OLzeDnyey8qgD2Nw",
+            "q": "back office con contrato"
+          },
+          "link": "https://www.google.com/search?sca_esv=06fa6b2cca60171b&hl=es&gl=pe&sxsrf=AKL5yDjyeQ8U32QYq8GftUuBKxnftQZbEA:1795293870781&q=back+office+con+contrato&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXvDkiO-2XNVeJ_LcMcWKXhfC3EjIAuIhCCGz3Vd50A1T2R1XBJYlsOmvjG5qty5pUGX6DJlA611LL9uGYcDB_4Yymo9a2WPcGPjcBqwJUsHZbTxrQPhC0KER79G7b0YTVayqTH-viu3PeEG_syylGn4MXuY0P8Z_sHB5BjmM6br2SoEflN_I9cxGv8Z8hsp91QTQSWxqo8urh6pLWpcqM5iF3HzPZmTBkgo3NOFsS8vZS6hsia0akPHzP6KoQty7XzxJrqdei646Kt31EpZeGQXCLwpMa-1PksEUYb4ZWfE9l2xjW_cAkDVlaYz4sKkolM4qEDgJvNG9OLzeDnyey8qgD2Nw&udm=8&sa=X&ved=2ahUKEwjRqb3r9pmYAxXUQTABHdSGFdkQkbEKegQIIhAE",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=pe&google_domain=google.com&hl=es&location=Peru&q=back+office+con+contrato&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXvDkiO-2XNVeJ_LcMcWKXhfC3EjIAuIhCCGz3Vd50A1T2R1XBJYlsOmvjG5qty5pUGX6DJlA611LL9uGYcDB_4Yymo9a2WPcGPjcBqwJUsHZbTxrQPhC0KER79G7b0YTVayqTH-viu3PeEG_syylGn4MXuY0P8Z_sHB5BjmM6br2SoEflN_I9cxGv8Z8hsp91QTQSWxqo8urh6pLWpcqM5iF3HzPZmTBkgo3NOFsS8vZS6hsia0akPHzP6KoQty7XzxJrqdei646Kt31EpZeGQXCLwpMa-1PksEUYb4ZWfE9l2xjW_cAkDVlaYz4sKkolM4qEDgJvNG9OLzeDnyey8qgD2Nw"
+        },
+        {
+          "name": "Prácticas",
+          "parameters": {
+            "uds": "AE2AFgbf06ZzDvczg9XBG5Z3qflXgg6u1d5a_u5XS0t61rFk91mleHcmIszRhGXEe7LDfMkqB5hOGElZCFdw3OYPAkfNFiaJPRbYVZQrDS1hKhw2_I4jtkmOGBCWn0zTYC-OTFl61duZ8Fytr5vB80_XwVInfaaiDecjhGnfHU22KUejlZEARUMlWfa1aiAFnBnIudk1tuIm2Luqc-UfQosKhIDA9HzhOeMlQ1dXl2hezwWAxfxuA10EHC_RcGfaudoKrMD8j4EzW_5bChUmNEDT_F6CRzMrH03ZrwG0DFe_1E4NX01Bd_BXUQRLFy66lSD1TL0kNEdFC0x2qGdF-XDR2UicQldnZxlIdCEVSE5tnF_q-W93pG0",
+            "q": "back office prácticas"
+          },
+          "link": "https://www.google.com/search?sca_esv=06fa6b2cca60171b&hl=es&gl=pe&sxsrf=AKL5yDjyeQ8U32QYq8GftUuBKxnftQZbEA:1795293870781&q=back+office+pr%C3%A1cticas&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXgg6u1d5a_u5XS0t61rFk91mleHcmIszRhGXEe7LDfMkqB5hOGElZCFdw3OYPAkfNFiaJPRbYVZQrDS1hKhw2_I4jtkmOGBCWn0zTYC-OTFl61duZ8Fytr5vB80_XwVInfaaiDecjhGnfHU22KUejlZEARUMlWfa1aiAFnBnIudk1tuIm2Luqc-UfQosKhIDA9HzhOeMlQ1dXl2hezwWAxfxuA10EHC_RcGfaudoKrMD8j4EzW_5bChUmNEDT_F6CRzMrH03ZrwG0DFe_1E4NX01Bd_BXUQRLFy66lSD1TL0kNEdFC0x2qGdF-XDR2UicQldnZxlIdCEVSE5tnF_q-W93pG0&udm=8&sa=X&ved=2ahUKEwjRqb3r9pmYAxXUQTABHdSGFdkQkbEKegQIIhAF",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=pe&google_domain=google.com&hl=es&location=Peru&q=back+office+pr%C3%A1cticas&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXgg6u1d5a_u5XS0t61rFk91mleHcmIszRhGXEe7LDfMkqB5hOGElZCFdw3OYPAkfNFiaJPRbYVZQrDS1hKhw2_I4jtkmOGBCWn0zTYC-OTFl61duZ8Fytr5vB80_XwVInfaaiDecjhGnfHU22KUejlZEARUMlWfa1aiAFnBnIudk1tuIm2Luqc-UfQosKhIDA9HzhOeMlQ1dXl2hezwWAxfxuA10EHC_RcGfaudoKrMD8j4EzW_5bChUmNEDT_F6CRzMrH03ZrwG0DFe_1E4NX01Bd_BXUQRLFy66lSD1TL0kNEdFC0x2qGdF-XDR2UicQldnZxlIdCEVSE5tnF_q-W93pG0"
+        }
+      ]
+    },
+    {
+      "name": "Fecha de publicación",
+      "options": [
+        {
+          "name": "Ayer",
+          "parameters": {
+            "uds": "AE2AFgbf06ZzDvczg9XBG5Z3qflXQ2xGNfhhyjfxe-pB4JKTwsiwqeDMxhj_DaeV4-4pSU1Vf8pp3zTHdvbk5w_8e34C9P3llIAnPMvyUZq0FoX1tVre93hzY0exCQEzAUNfjllBWi5hIf1gaYKuWdw35I0UHUvmOI6W0mbHqziQAEo64l_EYJ2dekmcdgyp9ahgok-r-Ts7jOLP706pELWSxA7OGhGwovgMiiDNtSS99sCliTPcB_ysp6bMcrihjrKCfal2qQbfJqOXskFlH_vcM-4ybIarJlj0zWU1u-obebnmbGJ7yD0mXa8LjPI6FNKh-eBbZCzlF3i8KVcut_VAVpqnL4iWtdD75itCgeyZApuqGNTmtKN4xkDQW9FpSW9KBgXtqT_V",
+            "q": "back office desde ayer"
+          },
+          "link": "https://www.google.com/search?sca_esv=06fa6b2cca60171b&hl=es&gl=pe&sxsrf=AKL5yDjyeQ8U32QYq8GftUuBKxnftQZbEA:1795293870781&q=back+office+desde+ayer&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXQ2xGNfhhyjfxe-pB4JKTwsiwqeDMxhj_DaeV4-4pSU1Vf8pp3zTHdvbk5w_8e34C9P3llIAnPMvyUZq0FoX1tVre93hzY0exCQEzAUNfjllBWi5hIf1gaYKuWdw35I0UHUvmOI6W0mbHqziQAEo64l_EYJ2dekmcdgyp9ahgok-r-Ts7jOLP706pELWSxA7OGhGwovgMiiDNtSS99sCliTPcB_ysp6bMcrihjrKCfal2qQbfJqOXskFlH_vcM-4ybIarJlj0zWU1u-obebnmbGJ7yD0mXa8LjPI6FNKh-eBbZCzlF3i8KVcut_VAVpqnL4iWtdD75itCgeyZApuqGNTmtKN4xkDQW9FpSW9KBgXtqT_V&udm=8&sa=X&ved=2ahUKEwjRqb3r9pmYAxXUQTABHdSGFdkQkbEKegQIIxAC",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=pe&google_domain=google.com&hl=es&location=Peru&q=back+office+desde+ayer&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXQ2xGNfhhyjfxe-pB4JKTwsiwqeDMxhj_DaeV4-4pSU1Vf8pp3zTHdvbk5w_8e34C9P3llIAnPMvyUZq0FoX1tVre93hzY0exCQEzAUNfjllBWi5hIf1gaYKuWdw35I0UHUvmOI6W0mbHqziQAEo64l_EYJ2dekmcdgyp9ahgok-r-Ts7jOLP706pELWSxA7OGhGwovgMiiDNtSS99sCliTPcB_ysp6bMcrihjrKCfal2qQbfJqOXskFlH_vcM-4ybIarJlj0zWU1u-obebnmbGJ7yD0mXa8LjPI6FNKh-eBbZCzlF3i8KVcut_VAVpqnL4iWtdD75itCgeyZApuqGNTmtKN4xkDQW9FpSW9KBgXtqT_V"
+        },
+        {
+          "name": "Últimos 3 días",
+          "parameters": {
+            "uds": "AE2AFgbf06ZzDvczg9XBG5Z3qflXEXJJGQJp1cJeTpXzaz3SYpt6lRblXm-xmce6DqlgVKrq47L3Qr1mMzC9ymSULCyyIJw3IXFhtAZ5qEcqQx_5JYcKly-M3HGqedw2-pzeNOPIJsp-qacyN63WhnqZeJRw6uqC5qX8Ug8dsGcWbdmBCbZ6RYIlZVcoiSVcEZTFb0kWNKJGsaXHjmLl1PgFf7j1Gs44kllCWEkN-dwjhF6_Lsz6PLAFsACGPRo9aV5jkpw477jgMY6FobSi7GYhjSjMtZjEgpSvlE7zbCXraeneSpPdtPsWkT2TwhPeKSO_npN1z75Lj8BNV9fM6Op2dg7p5YGE34qm5g3nF2tK0alxWNSCuvUTQRImWhggEilDizD_HPaD",
+            "q": "back office en los últimos 3 días"
+          },
+          "link": "https://www.google.com/search?sca_esv=06fa6b2cca60171b&hl=es&gl=pe&sxsrf=AKL5yDjyeQ8U32QYq8GftUuBKxnftQZbEA:1795293870781&q=back+office+en+los+%C3%BAltimos+3+d%C3%ADas&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXEXJJGQJp1cJeTpXzaz3SYpt6lRblXm-xmce6DqlgVKrq47L3Qr1mMzC9ymSULCyyIJw3IXFhtAZ5qEcqQx_5JYcKly-M3HGqedw2-pzeNOPIJsp-qacyN63WhnqZeJRw6uqC5qX8Ug8dsGcWbdmBCbZ6RYIlZVcoiSVcEZTFb0kWNKJGsaXHjmLl1PgFf7j1Gs44kllCWEkN-dwjhF6_Lsz6PLAFsACGPRo9aV5jkpw477jgMY6FobSi7GYhjSjMtZjEgpSvlE7zbCXraeneSpPdtPsWkT2TwhPeKSO_npN1z75Lj8BNV9fM6Op2dg7p5YGE34qm5g3nF2tK0alxWNSCuvUTQRImWhggEilDizD_HPaD&udm=8&sa=X&ved=2ahUKEwjRqb3r9pmYAxXUQTABHdSGFdkQkbEKegQIIxAD",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=pe&google_domain=google.com&hl=es&location=Peru&q=back+office+en+los+%C3%BAltimos+3+d%C3%ADas&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXEXJJGQJp1cJeTpXzaz3SYpt6lRblXm-xmce6DqlgVKrq47L3Qr1mMzC9ymSULCyyIJw3IXFhtAZ5qEcqQx_5JYcKly-M3HGqedw2-pzeNOPIJsp-qacyN63WhnqZeJRw6uqC5qX8Ug8dsGcWbdmBCbZ6RYIlZVcoiSVcEZTFb0kWNKJGsaXHjmLl1PgFf7j1Gs44kllCWEkN-dwjhF6_Lsz6PLAFsACGPRo9aV5jkpw477jgMY6FobSi7GYhjSjMtZjEgpSvlE7zbCXraeneSpPdtPsWkT2TwhPeKSO_npN1z75Lj8BNV9fM6Op2dg7p5YGE34qm5g3nF2tK0alxWNSCuvUTQRImWhggEilDizD_HPaD"
+        },
+        {
+          "name": "Última semana",
+          "parameters": {
+            "uds": "AE2AFgbf06ZzDvczg9XBG5Z3qflXXX-VYZcBLkbVmJKnm3zeple5qvacIfn-qNJkoPBmiZqxUThvO8smPGo0wcWm6aj6dK4conK77gDbrcaAL0S_1imAZigzQ7qzFm1W12PValdsQCx1TPIX64TDe5sQl6sIwEjuXZK60dT5vMXU_qb09t3UuJCGD3z0b_k1D8exPYZVd-FcYB02dWGc0CsQEYIqVBhuBrw-WlSB5LMcCkNuFDnlf7f4Su9LPL-OgubIXUSJHk0hsq-3hFVJqAOODyYldbCMwYt37ZmivB4HDl5K5kVAQ6A3Xft5XQrVD7d98hZLU2bmbveDqKb4bHHpFRS6yPwgLyML0w0EQlIHaUwD8EEFvBYkpTtGqYl7cYog55ZJZWTl",
+            "q": "back office en la última semana"
+          },
+          "link": "https://www.google.com/search?sca_esv=06fa6b2cca60171b&hl=es&gl=pe&sxsrf=AKL5yDjyeQ8U32QYq8GftUuBKxnftQZbEA:1795293870781&q=back+office+en+la+%C3%BAltima+semana&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXXX-VYZcBLkbVmJKnm3zeple5qvacIfn-qNJkoPBmiZqxUThvO8smPGo0wcWm6aj6dK4conK77gDbrcaAL0S_1imAZigzQ7qzFm1W12PValdsQCx1TPIX64TDe5sQl6sIwEjuXZK60dT5vMXU_qb09t3UuJCGD3z0b_k1D8exPYZVd-FcYB02dWGc0CsQEYIqVBhuBrw-WlSB5LMcCkNuFDnlf7f4Su9LPL-OgubIXUSJHk0hsq-3hFVJqAOODyYldbCMwYt37ZmivB4HDl5K5kVAQ6A3Xft5XQrVD7d98hZLU2bmbveDqKb4bHHpFRS6yPwgLyML0w0EQlIHaUwD8EEFvBYkpTtGqYl7cYog55ZJZWTl&udm=8&sa=X&ved=2ahUKEwjRqb3r9pmYAxXUQTABHdSGFdkQkbEKegQIIxAE",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=pe&google_domain=google.com&hl=es&location=Peru&q=back+office+en+la+%C3%BAltima+semana&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXXX-VYZcBLkbVmJKnm3zeple5qvacIfn-qNJkoPBmiZqxUThvO8smPGo0wcWm6aj6dK4conK77gDbrcaAL0S_1imAZigzQ7qzFm1W12PValdsQCx1TPIX64TDe5sQl6sIwEjuXZK60dT5vMXU_qb09t3UuJCGD3z0b_k1D8exPYZVd-FcYB02dWGc0CsQEYIqVBhuBrw-WlSB5LMcCkNuFDnlf7f4Su9LPL-OgubIXUSJHk0hsq-3hFVJqAOODyYldbCMwYt37ZmivB4HDl5K5kVAQ6A3Xft5XQrVD7d98hZLU2bmbveDqKb4bHHpFRS6yPwgLyML0w0EQlIHaUwD8EEFvBYkpTtGqYl7cYog55ZJZWTl"
+        },
+        {
+          "name": "Último mes",
+          "parameters": {
+            "uds": "AE2AFgbf06ZzDvczg9XBG5Z3qflXDjtgXdfQN3TL7pNrLFInYl5fQcQ2K6cJ4kRNh5uUoy0SujZ5koO8Q0s0e3BmMzkHh4nul6GXFjCoyA0QhcKpnQqf35JJGFZTmLV4jXB-cXZbQvh37xLQkuciTvIaNwM_g5fiMbP2bwYIJnZFjb4RWNM0w3VMn6eWqZDoDJBr4002IgH-2ixRFLXt4Km9j4hRmXkns1L342OjpVSNhcDgvQeTp4oV_hbEjFLO_78Lczyg0051n1U0z3tOZRa-LcPcEF_36t1cvrBjJT-EixLBEr3fx6h5YIDYDTRoNvyuDxLrTYSn6g1L1UBairJQQn49iLc1bdrsYcYQqxt5TZNjyGOhPQV_YR7a0oyDrnJm5Lwg5n21",
+            "q": "back office en el último mes"
+          },
+          "link": "https://www.google.com/search?sca_esv=06fa6b2cca60171b&hl=es&gl=pe&sxsrf=AKL5yDjyeQ8U32QYq8GftUuBKxnftQZbEA:1795293870781&q=back+office+en+el+%C3%BAltimo+mes&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXDjtgXdfQN3TL7pNrLFInYl5fQcQ2K6cJ4kRNh5uUoy0SujZ5koO8Q0s0e3BmMzkHh4nul6GXFjCoyA0QhcKpnQqf35JJGFZTmLV4jXB-cXZbQvh37xLQkuciTvIaNwM_g5fiMbP2bwYIJnZFjb4RWNM0w3VMn6eWqZDoDJBr4002IgH-2ixRFLXt4Km9j4hRmXkns1L342OjpVSNhcDgvQeTp4oV_hbEjFLO_78Lczyg0051n1U0z3tOZRa-LcPcEF_36t1cvrBjJT-EixLBEr3fx6h5YIDYDTRoNvyuDxLrTYSn6g1L1UBairJQQn49iLc1bdrsYcYQqxt5TZNjyGOhPQV_YR7a0oyDrnJm5Lwg5n21&udm=8&sa=X&ved=2ahUKEwjRqb3r9pmYAxXUQTABHdSGFdkQkbEKegQIIxAF",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=pe&google_domain=google.com&hl=es&location=Peru&q=back+office+en+el+%C3%BAltimo+mes&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXDjtgXdfQN3TL7pNrLFInYl5fQcQ2K6cJ4kRNh5uUoy0SujZ5koO8Q0s0e3BmMzkHh4nul6GXFjCoyA0QhcKpnQqf35JJGFZTmLV4jXB-cXZbQvh37xLQkuciTvIaNwM_g5fiMbP2bwYIJnZFjb4RWNM0w3VMn6eWqZDoDJBr4002IgH-2ixRFLXt4Km9j4hRmXkns1L342OjpVSNhcDgvQeTp4oV_hbEjFLO_78Lczyg0051n1U0z3tOZRa-LcPcEF_36t1cvrBjJT-EixLBEr3fx6h5YIDYDTRoNvyuDxLrTYSn6g1L1UBairJQQn49iLc1bdrsYcYQqxt5TZNjyGOhPQV_YR7a0oyDrnJm5Lwg5n21"
+        }
+      ]
+    },
+    {
+      "name": "Fecha de publicación",
+      "options": [
+        {
+          "name": "Ayer",
+          "parameters": {
+            "uds": "AE2AFgbf06ZzDvczg9XBG5Z3qflXQ2xGNfhhyjfxe-pB4JKTwsiwqeDMxhj_DaeV4-4pSU1Vf8pp3zTHdvbk5w_8e34C9P3llIAnPMvyUZq0FoX1tVre93hzY0exCQEzAUNfjllBWi5hIf1gaYKuWdw35I0UHUvmOI6W0mbHqziQAEo64l_EYJ2dekmcdgyp9ahgok-r-Ts7jOLP706pELWSxA7OGhGwovgMiiDNtSS99sCliTPcB_ysp6bMcrihjrKCfal2qQbfJqOXskFlH_vcM-4ybIarJlj0zWU1u-obebnmbGJ7yD0mXa8LjPI6FNKh-eBbZCzlF3i8KVcut_VAVpqnL4iWtdD75itCgeyZApuqGNTmtKN4xkDQW9FpSW9KBgXtqT_V",
+            "q": "back office desde ayer"
+          },
+          "link": "https://www.google.com/search?sca_esv=06fa6b2cca60171b&hl=es&gl=pe&sxsrf=AKL5yDjyeQ8U32QYq8GftUuBKxnftQZbEA:1795293870781&q=back+office+desde+ayer&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXQ2xGNfhhyjfxe-pB4JKTwsiwqeDMxhj_DaeV4-4pSU1Vf8pp3zTHdvbk5w_8e34C9P3llIAnPMvyUZq0FoX1tVre93hzY0exCQEzAUNfjllBWi5hIf1gaYKuWdw35I0UHUvmOI6W0mbHqziQAEo64l_EYJ2dekmcdgyp9ahgok-r-Ts7jOLP706pELWSxA7OGhGwovgMiiDNtSS99sCliTPcB_ysp6bMcrihjrKCfal2qQbfJqOXskFlH_vcM-4ybIarJlj0zWU1u-obebnmbGJ7yD0mXa8LjPI6FNKh-eBbZCzlF3i8KVcut_VAVpqnL4iWtdD75itCgeyZApuqGNTmtKN4xkDQW9FpSW9KBgXtqT_V&udm=8&sa=X&ved=2ahUKEwjRqb3r9pmYAxXUQTABHdSGFdkQkbEKegQIIxAC",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=pe&google_domain=google.com&hl=es&location=Peru&q=back+office+desde+ayer&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXQ2xGNfhhyjfxe-pB4JKTwsiwqeDMxhj_DaeV4-4pSU1Vf8pp3zTHdvbk5w_8e34C9P3llIAnPMvyUZq0FoX1tVre93hzY0exCQEzAUNfjllBWi5hIf1gaYKuWdw35I0UHUvmOI6W0mbHqziQAEo64l_EYJ2dekmcdgyp9ahgok-r-Ts7jOLP706pELWSxA7OGhGwovgMiiDNtSS99sCliTPcB_ysp6bMcrihjrKCfal2qQbfJqOXskFlH_vcM-4ybIarJlj0zWU1u-obebnmbGJ7yD0mXa8LjPI6FNKh-eBbZCzlF3i8KVcut_VAVpqnL4iWtdD75itCgeyZApuqGNTmtKN4xkDQW9FpSW9KBgXtqT_V"
+        },
+        {
+          "name": "Últimos 3 días",
+          "parameters": {
+            "uds": "AE2AFgbf06ZzDvczg9XBG5Z3qflXEXJJGQJp1cJeTpXzaz3SYpt6lRblXm-xmce6DqlgVKrq47L3Qr1mMzC9ymSULCyyIJw3IXFhtAZ5qEcqQx_5JYcKly-M3HGqedw2-pzeNOPIJsp-qacyN63WhnqZeJRw6uqC5qX8Ug8dsGcWbdmBCbZ6RYIlZVcoiSVcEZTFb0kWNKJGsaXHjmLl1PgFf7j1Gs44kllCWEkN-dwjhF6_Lsz6PLAFsACGPRo9aV5jkpw477jgMY6FobSi7GYhjSjMtZjEgpSvlE7zbCXraeneSpPdtPsWkT2TwhPeKSO_npN1z75Lj8BNV9fM6Op2dg7p5YGE34qm5g3nF2tK0alxWNSCuvUTQRImWhggEilDizD_HPaD",
+            "q": "back office en los últimos 3 días"
+          },
+          "link": "https://www.google.com/search?sca_esv=06fa6b2cca60171b&hl=es&gl=pe&sxsrf=AKL5yDjyeQ8U32QYq8GftUuBKxnftQZbEA:1795293870781&q=back+office+en+los+%C3%BAltimos+3+d%C3%ADas&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXEXJJGQJp1cJeTpXzaz3SYpt6lRblXm-xmce6DqlgVKrq47L3Qr1mMzC9ymSULCyyIJw3IXFhtAZ5qEcqQx_5JYcKly-M3HGqedw2-pzeNOPIJsp-qacyN63WhnqZeJRw6uqC5qX8Ug8dsGcWbdmBCbZ6RYIlZVcoiSVcEZTFb0kWNKJGsaXHjmLl1PgFf7j1Gs44kllCWEkN-dwjhF6_Lsz6PLAFsACGPRo9aV5jkpw477jgMY6FobSi7GYhjSjMtZjEgpSvlE7zbCXraeneSpPdtPsWkT2TwhPeKSO_npN1z75Lj8BNV9fM6Op2dg7p5YGE34qm5g3nF2tK0alxWNSCuvUTQRImWhggEilDizD_HPaD&udm=8&sa=X&ved=2ahUKEwjRqb3r9pmYAxXUQTABHdSGFdkQkbEKegQIIxAD",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=pe&google_domain=google.com&hl=es&location=Peru&q=back+office+en+los+%C3%BAltimos+3+d%C3%ADas&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXEXJJGQJp1cJeTpXzaz3SYpt6lRblXm-xmce6DqlgVKrq47L3Qr1mMzC9ymSULCyyIJw3IXFhtAZ5qEcqQx_5JYcKly-M3HGqedw2-pzeNOPIJsp-qacyN63WhnqZeJRw6uqC5qX8Ug8dsGcWbdmBCbZ6RYIlZVcoiSVcEZTFb0kWNKJGsaXHjmLl1PgFf7j1Gs44kllCWEkN-dwjhF6_Lsz6PLAFsACGPRo9aV5jkpw477jgMY6FobSi7GYhjSjMtZjEgpSvlE7zbCXraeneSpPdtPsWkT2TwhPeKSO_npN1z75Lj8BNV9fM6Op2dg7p5YGE34qm5g3nF2tK0alxWNSCuvUTQRImWhggEilDizD_HPaD"
+        },
+        {
+          "name": "Última semana",
+          "parameters": {
+            "uds": "AE2AFgbf06ZzDvczg9XBG5Z3qflXXX-VYZcBLkbVmJKnm3zeple5qvacIfn-qNJkoPBmiZqxUThvO8smPGo0wcWm6aj6dK4conK77gDbrcaAL0S_1imAZigzQ7qzFm1W12PValdsQCx1TPIX64TDe5sQl6sIwEjuXZK60dT5vMXU_qb09t3UuJCGD3z0b_k1D8exPYZVd-FcYB02dWGc0CsQEYIqVBhuBrw-WlSB5LMcCkNuFDnlf7f4Su9LPL-OgubIXUSJHk0hsq-3hFVJqAOODyYldbCMwYt37ZmivB4HDl5K5kVAQ6A3Xft5XQrVD7d98hZLU2bmbveDqKb4bHHpFRS6yPwgLyML0w0EQlIHaUwD8EEFvBYkpTtGqYl7cYog55ZJZWTl",
+            "q": "back office en la última semana"
+          },
+          "link": "https://www.google.com/search?sca_esv=06fa6b2cca60171b&hl=es&gl=pe&sxsrf=AKL5yDjyeQ8U32QYq8GftUuBKxnftQZbEA:1795293870781&q=back+office+en+la+%C3%BAltima+semana&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXXX-VYZcBLkbVmJKnm3zeple5qvacIfn-qNJkoPBmiZqxUThvO8smPGo0wcWm6aj6dK4conK77gDbrcaAL0S_1imAZigzQ7qzFm1W12PValdsQCx1TPIX64TDe5sQl6sIwEjuXZK60dT5vMXU_qb09t3UuJCGD3z0b_k1D8exPYZVd-FcYB02dWGc0CsQEYIqVBhuBrw-WlSB5LMcCkNuFDnlf7f4Su9LPL-OgubIXUSJHk0hsq-3hFVJqAOODyYldbCMwYt37ZmivB4HDl5K5kVAQ6A3Xft5XQrVD7d98hZLU2bmbveDqKb4bHHpFRS6yPwgLyML0w0EQlIHaUwD8EEFvBYkpTtGqYl7cYog55ZJZWTl&udm=8&sa=X&ved=2ahUKEwjRqb3r9pmYAxXUQTABHdSGFdkQkbEKegQIIxAE",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=pe&google_domain=google.com&hl=es&location=Peru&q=back+office+en+la+%C3%BAltima+semana&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXXX-VYZcBLkbVmJKnm3zeple5qvacIfn-qNJkoPBmiZqxUThvO8smPGo0wcWm6aj6dK4conK77gDbrcaAL0S_1imAZigzQ7qzFm1W12PValdsQCx1TPIX64TDe5sQl6sIwEjuXZK60dT5vMXU_qb09t3UuJCGD3z0b_k1D8exPYZVd-FcYB02dWGc0CsQEYIqVBhuBrw-WlSB5LMcCkNuFDnlf7f4Su9LPL-OgubIXUSJHk0hsq-3hFVJqAOODyYldbCMwYt37ZmivB4HDl5K5kVAQ6A3Xft5XQrVD7d98hZLU2bmbveDqKb4bHHpFRS6yPwgLyML0w0EQlIHaUwD8EEFvBYkpTtGqYl7cYog55ZJZWTl"
+        },
+        {
+          "name": "Último mes",
+          "parameters": {
+            "uds": "AE2AFgbf06ZzDvczg9XBG5Z3qflXDjtgXdfQN3TL7pNrLFInYl5fQcQ2K6cJ4kRNh5uUoy0SujZ5koO8Q0s0e3BmMzkHh4nul6GXFjCoyA0QhcKpnQqf35JJGFZTmLV4jXB-cXZbQvh37xLQkuciTvIaNwM_g5fiMbP2bwYIJnZFjb4RWNM0w3VMn6eWqZDoDJBr4002IgH-2ixRFLXt4Km9j4hRmXkns1L342OjpVSNhcDgvQeTp4oV_hbEjFLO_78Lczyg0051n1U0z3tOZRa-LcPcEF_36t1cvrBjJT-EixLBEr3fx6h5YIDYDTRoNvyuDxLrTYSn6g1L1UBairJQQn49iLc1bdrsYcYQqxt5TZNjyGOhPQV_YR7a0oyDrnJm5Lwg5n21",
+            "q": "back office en el último mes"
+          },
+          "link": "https://www.google.com/search?sca_esv=06fa6b2cca60171b&hl=es&gl=pe&sxsrf=AKL5yDjyeQ8U32QYq8GftUuBKxnftQZbEA:1795293870781&q=back+office+en+el+%C3%BAltimo+mes&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXDjtgXdfQN3TL7pNrLFInYl5fQcQ2K6cJ4kRNh5uUoy0SujZ5koO8Q0s0e3BmMzkHh4nul6GXFjCoyA0QhcKpnQqf35JJGFZTmLV4jXB-cXZbQvh37xLQkuciTvIaNwM_g5fiMbP2bwYIJnZFjb4RWNM0w3VMn6eWqZDoDJBr4002IgH-2ixRFLXt4Km9j4hRmXkns1L342OjpVSNhcDgvQeTp4oV_hbEjFLO_78Lczyg0051n1U0z3tOZRa-LcPcEF_36t1cvrBjJT-EixLBEr3fx6h5YIDYDTRoNvyuDxLrTYSn6g1L1UBairJQQn49iLc1bdrsYcYQqxt5TZNjyGOhPQV_YR7a0oyDrnJm5Lwg5n21&udm=8&sa=X&ved=2ahUKEwjRqb3r9pmYAxXUQTABHdSGFdkQkbEKegQIIxAF",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=pe&google_domain=google.com&hl=es&location=Peru&q=back+office+en+el+%C3%BAltimo+mes&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXDjtgXdfQN3TL7pNrLFInYl5fQcQ2K6cJ4kRNh5uUoy0SujZ5koO8Q0s0e3BmMzkHh4nul6GXFjCoyA0QhcKpnQqf35JJGFZTmLV4jXB-cXZbQvh37xLQkuciTvIaNwM_g5fiMbP2bwYIJnZFjb4RWNM0w3VMn6eWqZDoDJBr4002IgH-2ixRFLXt4Km9j4hRmXkns1L342OjpVSNhcDgvQeTp4oV_hbEjFLO_78Lczyg0051n1U0z3tOZRa-LcPcEF_36t1cvrBjJT-EixLBEr3fx6h5YIDYDTRoNvyuDxLrTYSn6g1L1UBairJQQn49iLc1bdrsYcYQqxt5TZNjyGOhPQV_YR7a0oyDrnJm5Lwg5n21"
+        }
+      ]
+    }
+  ],
+  "jobs_results": [
+    {
+      "title": "GANA Hasta s/ 1700/Ejecutivo Back Office Reclamos / Desde el Tercer mes Remoto - Planilla completa + Beneficios/ Pagos puntuales /Buen clima laboral /Crecimiento Profesional",
+      "company_name": "IBR Perú S.A.",
+      "location": "Lima",
+      "via": "Computrabajo Perú",
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=back+office&htidocid=pFNWiKRopQNmNPjcAAAAAA%3D%3D&hl=es-PE&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_xWPMU7DQBBFBWUOkIJqahBeg4SQQmUHFJAQWIE-Gm_GzobZHbOzRjkQp0iblkOxbqb5-u-_mf2ez_7OVtVbBc-oCUEN3NyXpXnakx2T-xGo0X7Be9c5S7Amy-hFwcAj6ZaAGD4pWorgSXPsJQlcQ8MYHDOCFT8wZe4V1BQoQ5zkiQb7DBnGkEbkXDT1SAEsO4_A2EpEBrOMZJ13FDKyidKROgnIC2hPR_0eaYswGUwDArm-EumZLh52KQ26MEaViz7_lJwtsoeRQK0czF5anc5GdxhpYEy0ub0rD8UQ-sv5S72GhuLpCB9FVUzY1yz1D0qpUHsnAQAA&shmds=v1_Ac3VAoyW6HYrahuV4vevBEaB3ur4Uisr6lZBSO4ivtC71fUYIg&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=back+office&htidocid=pFNWiKRopQNmNPjcAAAAAA%3D%3D",
+      "thumbnail": "https://serpapi.com/searches/6b0202ad6a1f11d2f39ed8a5/images/GdOCi0lZAd3DN9i_nRVQORld_LR9GoBpjEjV1KKVZ40.jpg",
+      "extensions": [
+        "hace 2 días",
+        "S/ 1,230 por mes",
+        "Tiempo completo"
+      ],
+      "detected_extensions": {
+        "posted_at": "hace 2 días",
+        "salary": "S/ 1,230 por mes",
+        "schedule_type": "Tiempo completo"
+      },
+      "source_link": "https://pe.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-gana-hasta-s-1700ejecutivo-back-office-reclamos-desde-el-tercer-mes-remoto-planilla-completa-beneficios-pagos-puntuales-buen-clima-laboral-crecimiento-profesional-en-santa-anita-A77F2A23069A09B061373E686DCF3405",
+      "job_title": "GANA Hasta s/ 1700/Ejecutivo Back Office Reclamos / Desde el Tercer mes Remoto - Planilla completa + Beneficios/ Pagos puntuales /Buen clima laboral /Crecimiento Profesional",
+      "description": "Únete a una de las empresas líderes en el sector de Call Center!\nSomos una compañía con más de 16 años en el mercado, especializada en la generación de experiencias memorables en el servicio, con enfoque en Cobranzas, Atención al Cliente, Back Office y BPO. A lo largo del tiempo, hemos logrado mantener resultados de éxito sostenidos junto a nuestros clientes.\n¡Buscamos nuevos talentos para nuestro equipo! Si tienes experiencia en Back Office / Call Center y deseas formar parte de una empresa con oportunidades de crecimiento, esta es tu oportunidad.\nFUNCIONES\nAnalizar y atender los reclamos de clientes de Claro.\nGestionar y notificar el estado de los reclamos.\nActualizar los procedimientos y la información correspondiente en los sistemas.\n· REQUISITOS\nDisponibilidad de laborar en Santa Anita (Nicolás Ayllón Edificio 2941 Céntrica comercial) durante 2 meses, desde el 3er mes es MODALIDAD REMOTA de acuerdo a indicadores.\nExperiencia previa de 6 meses mínimo como back office en call center, idealmente telcom.\nHORARIO FULL TIME: 48 hrs semanales, en un rango de Lunes a Sábados entre las 7 am y 6 pm con descanso fijo los domingos. (donde rotarás en los siguientes horarios: 7am a 4pm / 8am a 5pm/ 9am a 6pm)\nBeneficios:\nPlanilla completa con todos los beneficios de ley al 100%.\nBásico FULL TIME S/ 1230 + Variable por indicadores hasta 500 soles + Bonos de continuidad y movilidad por mes de aprox 200 soles.\nFirma contrato desde el inicio de tu capacitación. (Te capacitamos bajo planilla)\nModalidad remota desde el 3er mes según indicadores (Nosotros te entregamos PC + headphone)\nDescuentos corporativos en institutos, universidades y más.\nAcceso a UBITS con certificaciones académicas sin costo adicional.\nLínea de carrera y capacitación constante.\nAgradable clima laboral.\nLínea de carrera apartir del 6to mes .\n· Si estás listo para llevar tu carrera al siguiente nivel, ¡Esta es tu oportunidad! Postúlate ahora y forma parte de nuestro equipo, Somos IBR LATAM!.\n\n -Requerimientos- Educación mínima: Educación Secundaria\n años de experiencia\nEdad: A partir de 19 años\nPalabras clave: oficina, casa, remoto, remote, teletrabajo, home, labour, gremial, sindical, laboral, experto, profesional, professional, expert",
+      "apply_options": [
+        {
+          "title": "Computrabajo Perú",
+          "link": "https://pe.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-gana-hasta-s-1700ejecutivo-back-office-reclamos-desde-el-tercer-mes-remoto-planilla-completa-beneficios-pagos-puntuales-buen-clima-laboral-crecimiento-profesional-en-santa-anita-A77F2A23069A09B061373E686DCF3405?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJHQU5BIEhhc3RhIHMvIDE3MDAvRWplY3V0aXZvIEJhY2sgT2ZmaWNlIFJlY2xhbW9zIC8gRGVzZGUgZWwgVGVyY2VyIG1lcyBSZW1vdG8gLSBQbGFuaWxsYSBjb21wbGV0YSArIEJlbmVmaWNpb3MvIFBhZ29zIHB1bnR1YWxlcyAvQnVlbiBjbGltYSBsYWJvcmFsIC9DcmVjaW1pZW50byBQcm9mZXNpb25hbCIsImNvbXBhbnlfbmFtZSI6IklCUiBQZXLDuiBTLkEuIiwiaHRpZG9jaWQiOiJwRk5XaUtSb3BRTm1OUGpjQUFBQUFBPT0iLCJ1dWxlIjoidytDQUlRSUNJRVVHVnlkUSIsImdsIjoicGUiLCJobCI6ImVzIiwiZmMiOiJFc3dCQ293QlFVUkVZbGRsWVZkb1pWWmtOSGRrTUZaUVEzaFphMFJ2Y2xZMWN6bERTMVZ4WW01UVdUaFpXREJ4VDFONlNGb3lOMVoyUTB0WFJXaERTa3BJUmtOQlozVkxUVmhQYW00MVoxTlFVbU5uVEc1blF6QTNTekZmVjBSbVZTMVNkazlQVlRGbVQzaE5hMncyTUVwQmVWVXhUMDlOZUc5VVRYTXpiV2xTTldKd1JYcFhXV1JCYzBSeVUycFdYMlFTRjNKblNVTmhPVWRoVERsVFJIZGlhMUF4U1ROWGVVRXdHaUpCU0U0d1JUZEdXV2h5VjFSSVRFc3lSM1l6Tms1NmVURkNXRzFTV0V4T1Z6Vm4iLCJmY3YiOiIzIiwiZmNfaWQiOiJwRk5XaUtSb3BRTm1OUGpjQUFBQUFBPT0ifQ=="
+    },
+    {
+      "title": "Back Office Reclamos Claro/ Con Exp / Remoto al tercer mes/  Planilla Completa",
+      "company_name": "IBR Latam Oficial",
+      "location": "Santa Anita",
+      "via": "LinkedIn",
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=back+office&htidocid=4OSu8noA5Q_LP5R8AAAAAA%3D%3D&hl=es-PE&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_xWOsW4CMRBElZZPSDV1inMUiQYqQCiKFCkRfADaM8thWHud20W6b6NNn2-KaaaYeRq92d_TLK8pXvF1OqXI2HEUymrYCI0asNGC7VQR2pLVFSRwHiOPyGwB-BYqSYQamauw0wL9791-bnwkHBn8aBVc8K46CD8vz-7VFiGYSTeYk6fYRc1BC_c6hYv29oiDnWnkKuR8eJu_Tl0twws-1jt8klNuwimmZtOe91ScsCrJ6R_hgdUW0QAAAA&shmds=v1_Ac3VAozmBpg2oLSqHz_gIJyGYUo01PzBwu_x3sZivvJLOHeJ9Q&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=back+office&htidocid=4OSu8noA5Q_LP5R8AAAAAA%3D%3D",
+      "thumbnail": "https://serpapi.com/searches/6b0202ad6a1f11d2f39ed8a5/images/maD-QNtk3mG7WETmt0JwDuk08R__220nN_yBXbIkMV4.jpg",
+      "extensions": [
+        "hace 1 día",
+        "Tiempo completo"
+      ],
+      "detected_extensions": {
+        "posted_at": "hace 1 día",
+        "schedule_type": "Tiempo completo"
+      },
+      "source_link": "https://pe.linkedin.com/jobs/view/back-office-reclamos-claro-con-exp-remoto-al-tercer-mes-planilla-completa-at-ibr-latam-4492937267",
+      "job_title": "Back Office Reclamos Claro/ Con Exp / Remoto al tercer mes/  Planilla Completa",
+      "description": "Únete a una de las empresas líderes en el sector de Call Center!\n\nSomos una compañía con más de 16 años en el mercado, especializada en la generación de experiencias memorables en el servicio, con enfoque en Cobranzas, Atención al Cliente, Back Office y BPO. A lo largo del tiempo, hemos logrado mantener resultados de éxito sostenidos junto a nuestros clientes.\n\n¡Buscamos nuevos talentos para nuestro equipo! Si tienes experiencia en Back Office / Call Center y deseas formar parte de una empresa con oportunidades de crecimiento, esta es tu oportunidad.\n\nFUNCIONES\n\n\n\nAnalizar y atender los reclamos de clientes de Claro.Gestionar y notificar el estado de los reclamos.Actualizar los procedimientos y la información correspondiente en los sistemas.\n\nREQUISITOS\n\nDisponibilidad de laborar en Santa Anita (Nicolás Ayllón Edificio 2941 Céntrica comercial) durante 2 meses, desde el 3er mes es MODALIDAD REMOTA de acuerdo a indicadores.Experiencia previa de 6 meses mínimo como back office en call center, idealmente telcom.HORARIO FULL TIME: 48 hrs semanales, en un rango de Lunes a Sábados entre las 7 am y 6 pm con descanso fijo los domingos. (donde rotarás en los siguientes horarios: 7am a 4pm / 8am a 5pm/ 9am a 6pm)\n\nBeneficios\n\nPlanilla completa con todos los beneficios de ley al 100%.Básico FULL TIME S/ 1230 + Variable por indicadores hasta 500 soles + Bonos de continuidad y movilidad por mes de aprox 200 soles.Firma contrato desde el inicio de tu capacitación. (Te capacitamos bajo planilla)Modalidad remota desde el 3er mes según indicadores (Nosotros te entregamos PC + headphone)Descuentos corporativos en institutos, universidades y más.Acceso a UBITS con certificaciones académicas sin costo adicional.Línea de carrera y capacitación constante.Agradable clima laboral.Línea de carrera apartir del 6to mes .\n\nSi estás listo para llevar tu carrera al siguiente nivel, ¡Esta es tu oportunidad! Postúlate ahora y forma parte de nuestro equipo, Somos IBR LATAM!",
+      "apply_options": [
+        {
+          "title": "LinkedIn",
+          "link": "https://pe.linkedin.com/jobs/view/back-office-reclamos-claro-con-exp-remoto-al-tercer-mes-planilla-completa-at-ibr-latam-4492937267?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "BeBee",
+          "link": "https://bebee.com/pe/jobs/back-office-reclamos-claro-con-exp-remoto-al-tercer-mes-planilla-completa-ibr-latam-oficial-santa-an--fj-2478144119?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Jobrapido.com",
+          "link": "https://pe.jobrapido.com/jobpreview/8051696266565910528?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJCYWNrIE9mZmljZSBSZWNsYW1vcyBDbGFyby8gQ29uIEV4cCAvIFJlbW90byBhbCB0ZXJjZXIgbWVzLyAgUGxhbmlsbGEgQ29tcGxldGEiLCJjb21wYW55X25hbWUiOiJJQlIgTGF0YW0gT2ZpY2lhbCIsImh0aWRvY2lkIjoiNE9TdThub0E1UV9MUDVSOEFBQUFBQT09IiwidXVsZSI6IncrQ0FJUUlDSUVVR1Z5ZFEiLCJnbCI6InBlIiwiaGwiOiJlcyIsImZjIjoiRXN3QkNvd0JRVVJFWWxkbFdUUldZbUZFTWpaSVZtTlFhWE0yZHpGRWNXdHlOVlJNT1ZNMllXNVlUa0l6UzNneWFtVjVVWEkyWjFOMGF6VmtVSGhhYlRORlpHcDFSRTQ1WkZWTWNYQkVZVmRDTjNWamRFTjFXSGRpV21wd1dWOVFZM2RzV1ZoNk4yZDVZM0IzTTJ4eVoxOUJURVF0TW10a1RYQlNiVlZTWW5waGFUTldkWFkyY1hSR1RTMTNaR2xLTm5rU0YzSm5TVU5oT1VkaFREbFRSSGRpYTFBeFNUTlhlVUV3R2lKQlNFNHdSVGRJVDJWSFVtZFFjRUpDVVVOQlFXdEJSV0l3VGxNMk1uRTRMVzFuIiwiZmN2IjoiMyIsImZjX2lkIjoiNE9TdThub0E1UV9MUDVSOEFBQUFBQT09In0="
+    },
+    {
+      "title": "Back office Claro Reclamos / Firma 1er día de capacitación / 3er mes remoto",
+      "company_name": "IBR Latam Oficial",
+      "location": "Santa Anita",
+      "via": "LinkedIn",
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=back+office&htidocid=BNOQekGAkP21YalXAAAAAA%3D%3D&hl=es-PE&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_x2OsU4DMRBERZtPoJqa4gxBNKEiSEFIkSKFD4j2fJuLE9trvBspP0VFR3s1_4RDMdPM0-jNfm9mcUn-BNnvg2e8RqqCLftISRQOq1AT4YErhumLMDA8FfLBWqbv3IjHtiVWVE5iskA__ejnmYd_mFOJLOCMN5Ex8u3zwazowjnV2I1qZMF3XpKTzL1c3FF6vdZOD1S5RDLezZ_uL13J4x3el1usyShh03QDxevzB2UjvOTm9AeT7Vu70AAAAA&shmds=v1_Ac3VAozeaqdpAOpm1xSlS0EpM9l0Kah64WQbkflxNwScio47oA&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=back+office&htidocid=BNOQekGAkP21YalXAAAAAA%3D%3D",
+      "thumbnail": "https://serpapi.com/searches/6b0202ad6a1f11d2f39ed8a5/images/DNY-zO3NhIXOAUkMklKRruzaNA7T5OZtq-BJU80BMh0.jpg",
+      "extensions": [
+        "hace 1 día",
+        "Tiempo completo"
+      ],
+      "detected_extensions": {
+        "posted_at": "hace 1 día",
+        "schedule_type": "Tiempo completo"
+      },
+      "source_link": "https://pe.linkedin.com/jobs/view/back-office-claro-reclamos-firma-1er-d%C3%ADa-de-capacitaci%C3%B3n-3er-mes-remoto-at-ibr-latam-4492934348",
+      "job_title": "Back office Claro Reclamos / Firma 1er día de capacitación / 3er mes remoto",
+      "description": "Únete a una de las empresas líderes en el sector de Call Center!\n\nSomos una compañía con más de 16 años en el mercado, especializada en la generación de experiencias memorables en el servicio, con enfoque en Cobranzas, Atención al Cliente, Back Office y BPO. A lo largo del tiempo, hemos logrado mantener resultados de éxito sostenidos junto a nuestros clientes.\n\nA Solicitud De Nuestro Cliente CLARO PERÚ, Nos Encontramos En Búsqueda De EJECUTIVOS BACK OFFICE Que Cumplan Con Las Siguientes Caracteristicas\n\nREQUISITOS\n\n\n\nDisponibilidad de laborar en Santa Anita (Nicolás Ayllón Edificio 2941 Céntrica comercial) durante 2 meses, desde el 3er mes es MODALIDAD REMOTA de acuerdo a indicadores.Experiencia previa de 6 meses mínimo como back office en call center, idealmente telcom. HORARIO FULL TIME: 48 hrs semanales, en un rango de Lunes a Sábados entre las 7 am y 6 pm con descanso fijo los domingos. (donde rotarás en los siguientes horarios: 7am a 4pm / 8am a 5pm/ 9am a 6pm)\n\nBeneficios\n\nPlanilla completa con todos los beneficios de ley al 100%.Básico FULL TIME S/ 1230 + Variable por indicadores hasta 500 soles + Bonos de continuidad y movilidad por mes de aprox 200 soles.Firma contrato desde el inicio de tu capacitación. (Te capacitamos bajo planilla)Modalidad remota desde el 3er mes según indicadores (Nosotros te entregamos PC + headphone)Descuentos corporativos en institutos, universidades y más.Acceso a UBITS con certificaciones académicas sin costo adicional. Línea de carrera y capacitación constante.Agradable clima laboral.\n\nSi estás listo para llevar tu carrera al siguiente nivel, ¡Esta es tu oportunidad! Postúlate ahora y forma parte de nuestro equipo, Somos IBR LATAM!",
+      "apply_options": [
+        {
+          "title": "LinkedIn",
+          "link": "https://pe.linkedin.com/jobs/view/back-office-claro-reclamos-firma-1er-d%C3%ADa-de-capacitaci%C3%B3n-3er-mes-remoto-at-ibr-latam-4492934348?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Jooble",
+          "link": "https://pe.jooble.org/jdp/3373537808615278632?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "BeBee",
+          "link": "https://bebee.com/pe/jobs/back-office-claro-reclamos-firma-1er-dia-de-capacitacion-3er-mes-remoto-ibr-latam-oficial-santa-anit--fj-2478145388?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Jobrapido.com",
+          "link": "https://pe.jobrapido.com/jobpreview/6453690256012083200?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJCYWNrIG9mZmljZSBDbGFybyBSZWNsYW1vcyAvIEZpcm1hIDFlciBkw61hIGRlIGNhcGFjaXRhY2nDs24gLyAzZXIgbWVzIHJlbW90byIsImNvbXBhbnlfbmFtZSI6IklCUiBMYXRhbSBPZmljaWFsIiwiaHRpZG9jaWQiOiJCTk9RZWtHQWtQMjFZYWxYQUFBQUFBPT0iLCJ1dWxlIjoidytDQUlRSUNJRVVHVnlkUSIsImdsIjoicGUiLCJobCI6ImVzIiwiZmMiOiJFc3dCQ293QlFVUkVZbGRsWVRsSlJuTlRNbXBrTUhKNGNXY3ljM1pqZVdKM2RFcDVSbGxKVVZsWWFWTkdXV2xDZVZka1dXOVpWWEpJU3pCMk9HOU9YekZzTVhWamNGVjNTRlpaYmxWcGJrODFibkZXVVZaNVF6bDVaR1F5T0hBNFRFeG9jR3A0VEd3dGNtNVdUMDlVTVUxS2FXTkZNVEp1TVVrNU0xbEZaVmRETmpGYVNVbDBWRlZIT1VKMk1raHlaV0VTRjNKblNVTmhPVWRoVERsVFJIZGlhMUF4U1ROWGVVRXdHaUpCU0U0d1JUZEdSV1ZhWmkxSE1UbE9PRWhUY3pGaU1IWk9TMjl6VWxScU5FMW4iLCJmY3YiOiIzIiwiZmNfaWQiOiJCTk9RZWtHQWtQMjFZYWxYQUFBQUFBPT0ifQ=="
+    },
+    {
+      "title": "Back office/no ventas/chat y llamadas/no necesitas experiencia/elige tu horario - Movilidad+ Sodexo+ Sueldo fijo + Planilla Completa",
+      "company_name": "A365",
+      "location": "Lima",
+      "via": "Computrabajo Perú",
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=back+office&htidocid=yyUUoaRkhLbvoNBPAAAAAA%3D%3D&hl=es-PE&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_xWMMU7DQBBFlTbiBFRTE-FFoFAkVUJBAxISB4jGu9_2hPHO4l1H5jzcgpYTcQPs5n_9_6S3_lutv1dH9h9kTSMeLhpdEAtn5zsu9EWq3HOY90wiPLLMkDAlDILohR1UWlAZqbOBBzG6pVe7iErgsKF3C5hs7hEajBo5G23oTTnKrKYn65Oi8I7q35_8OSIwBRCW1wiRns1axfW-KyXlnXM5a9XmwkV85a13FlHb5M5W5yVOueMBSbngdL-9m6oU25urw8PjdpG9SM__VoDpofQAAAA&shmds=v1_Ac3VAowKbaDHmtA0RY1mLjgu2Z3xcjY4JLJhDiU4gpRGJ0G0wQ&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=back+office&htidocid=yyUUoaRkhLbvoNBPAAAAAA%3D%3D",
+      "thumbnail": "https://serpapi.com/searches/6b0202ad6a1f11d2f39ed8a5/images/Vq-NfDuwYU0Yqy6ByYmnkn7BJ1VZWYPti6btZ072FuI.png",
+      "extensions": [
+        "hace 3 días",
+        "Tiempo completo"
+      ],
+      "detected_extensions": {
+        "posted_at": "hace 3 días",
+        "schedule_type": "Tiempo completo"
+      },
+      "source_link": "https://pe.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-back-officeno-ventaschat-y-llamadasno-necesitas-experienciaelige-tu-horario-movilidad-sodexo-sueldo-fijo-planilla-completa-en-villa-el-salvador-9E15F088FDAF162A61373E686DCF3405",
+      "job_title": "Back office/no ventas/chat y llamadas/no necesitas experiencia/elige tu horario - Movilidad+ Sodexo+ Sueldo fijo + Planilla Completa",
+      "description": "¡Trabaja con Impulsa A365! \nAsesor(a) Back Office  Mesa de Seguimiento Claro Perú\n Modalidad: PRESENCIAL - Chorrillos (Galaxy Plaza)\n Inicio de capacitación: 26/11\n Horario de capacitación: 9AM a 3PM (1 Hora de break)\n Firma de contrato: 03/12\n¿Cuál será tu función?\nRealizar el seguimiento al técnico y al cliente para que se pueda realizarla la instalación de manera correcta.\n Horario de trabajo\nDisponibilidad: Lunes a domingo.\nFull Time: 7AM A 4PM/8AM A 5PM/ 9AM a 6PM/10AM a 7PM/11AM a 8PM/12PM A 9PM\n Descansos: 1 rotativo por semana (viernes ,sabado y domingo)\n Requisitos\nSin experiencia previa necesaria. Disponibilidad para trabajar de manera presencial.\n·  Beneficios\n Sueldo fijo: S/1230 Full Time\n Tarjeta de alimentos: S/70\n Bono de indicadores: FT: Hasta S/200\n Bono Nocturno: S/100\n Planilla completa desde la firma de contrato\n Capacitación teórica pagada\n Pagos puntuales: quincena y fin de mes\n Línea de carrera y convenios corporativos\n Asignación familiar (de corresponder)\nTodos los beneficios de ley: CTS, gratificaciones, vacaciones, liquidación, seguro EsSalud y asignación familiar.\n ¡Postula y forma parte del equipo A365! .\n\n -Requerimientos- Educación mínima: Educación Secundaria\n años de experiencia\nEdad: entre 18 y 55 años\nPalabras clave: nominas, sueldo, paga, retribucion, salary, payslip, payroll, wage, pay, payment, nominista, permanent, fijo",
+      "apply_options": [
+        {
+          "title": "Computrabajo Perú",
+          "link": "https://pe.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-back-officeno-ventaschat-y-llamadasno-necesitas-experienciaelige-tu-horario-movilidad-sodexo-sueldo-fijo-planilla-completa-en-villa-el-salvador-9E15F088FDAF162A61373E686DCF3405?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Jobted",
+          "link": "https://www.jobted.com.pe/job/d1fbc526ba53b8b415bf5314a3e771c5?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJCYWNrIG9mZmljZS9ubyB2ZW50YXMvY2hhdCB5IGxsYW1hZGFzL25vIG5lY2VzaXRhcyBleHBlcmllbmNpYS9lbGlnZSB0dSBob3JhcmlvIC0gTW92aWxpZGFkKyBTb2RleG8rIFN1ZWxkbyBmaWpvICsgUGxhbmlsbGEgQ29tcGxldGEiLCJjb21wYW55X25hbWUiOiJBMzY1IiwiaHRpZG9jaWQiOiJ5eVVVb2FSa2hMYnZvTkJQQUFBQUFBPT0iLCJ1dWxlIjoidytDQUlRSUNJRVVHVnlkUSIsImdsIjoicGUiLCJobCI6ImVzIiwiZmMiOiJFc3dCQ293QlFVUkVZbGRsV2poNGFIUmhWM0ZEUzJSRmRsWnpPRkZqUWtKaWMwNXBRMGRQZW1GcVNGbFJUalZTU1hod1MyUndiak0xUlhKd2NEbElRVjlIYjFGQ2JHbHhkMHhMTlVVeFgwRkVOa1JYVlRsT2NGRlpWSHBwUTJoSGQxRlVha2hVTWpZMkxXOVdUV2RhVGpWeFNVVmlaa3BXZGw5cFN6WkNZV3BwV25sbE9WUXdZbkV0Y1c5NFYyeEhSRm9TRjNKblNVTmhPVWRoVERsVFJIZGlhMUF4U1ROWGVVRXdHaUpCU0U0d1JUZEZZMFU1VEZaa05XUmtTVGgxZUVwb1pYQmtSM0ZtY0VZM1lVZFIiLCJmY3YiOiIzIiwiZmNfaWQiOiJ5eVVVb2FSa2hMYnZvTkJQQUFBQUFBPT0ifQ=="
+    },
+    {
+      "title": "Back Office Reclamos Claro/Planilla Completa/ Remoto al tercer mes/CTS + Vacaciones",
+      "company_name": "IBR Latam Oficial",
+      "location": "Ate",
+      "via": "LinkedIn",
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=back+office&htidocid=TOHxm04NcrTvT6njAAAAAA%3D%3D&hl=es-PE&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_xWOMWrDQBBFSesThFRTJ6ANBjdOFakIhkCMY9Ka0WgkbzyrkXfG4LOldelLZdX86r_HW9wfFrlGOsFX30di2DEJJjVoBLOGreAYRRAaTZOwYyiPpK6AAs6ZOENiC83-G17gBwkp6si2hvb2Z-cLdwgdA8-wAo_woToIP70d3Sdbh2Am1WCOHqkiTaHArV7Dr7Y2z8GOmHkSdD4sV6_XahqH58dNvYNPdEylOlIsKcX87vwPnufW884AAAA&shmds=v1_Ac3VAoxGIbWesyX3oPQx-eg8sc_tD7L338BahIuSOwoF6QLbfA&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=back+office&htidocid=TOHxm04NcrTvT6njAAAAAA%3D%3D",
+      "thumbnail": "https://serpapi.com/searches/6b0202ad6a1f11d2f39ed8a5/images/BOFxobKqB5LXxy4KgSW4hRxaChT7LGmV-4Xvvad4KR4.jpg",
+      "extensions": [
+        "hace 8 horas",
+        "Tiempo completo"
+      ],
+      "detected_extensions": {
+        "posted_at": "hace 8 horas",
+        "schedule_type": "Tiempo completo"
+      },
+      "source_link": "https://pe.linkedin.com/jobs/view/back-office-reclamos-claro-planilla-completa-remoto-al-tercer-mes-cts-%2B-vacaciones-at-ibr-latam-4493285521",
+      "job_title": "Back Office Reclamos Claro/Planilla Completa/ Remoto al tercer mes/CTS + Vacaciones",
+      "description": "Únete a una de las empresas líderes en el sector de Call Center!\n\nSomos una compañía con más de 16 años en el mercado, especializada en la generación de experiencias memorables en el servicio, con enfoque en Cobranzas, Atención al Cliente, Back Office y BPO. A lo largo del tiempo, hemos logrado mantener resultados de éxito sostenidos junto a nuestros clientes.\n\n¡Buscamos nuevos talentos para nuestro equipo! Si tienes experiencia en Back Office / Call Center y deseas formar parte de una empresa con oportunidades de crecimiento, esta es tu oportunidad.\n\nFUNCIONES\n\n\n\nAnalizar y atender los reclamos de clientes de Claro.Gestionar y notificar el estado de los reclamos.Actualizar los procedimientos y la información correspondiente en los sistemas.\n\nREQUISITOS\n\nDisponibilidad de laborar en Santa Anita (Nicolás Ayllón Edificio 2941 Céntrica comercial) durante 2 meses, desde el 3er mes es MODALIDAD REMOTA de acuerdo a indicadores.Experiencia previa de 6 meses mínimo como back office en call center, idealmente telcom.HORARIO FULL TIME: 48 hrs semanales, en un rango de Lunes a Sábados entre las 7 am y 6 pm con descanso fijo los domingos. (donde rotarás en los siguientes horarios: 7am a 4pm / 8am a 5pm/ 9am a 6pm)\n\nBeneficios\n\nPlanilla completa con todos los beneficios de ley al 100%.Básico FULL TIME S/ 1230 + Variable por indicadores hasta 500 soles + Bonos de continuidad y movilidad por mes de aprox 200 soles.Firma contrato desde el inicio de tu capacitación. (Te capacitamos bajo planilla)Modalidad remota desde el 3er mes según indicadores (Nosotros te entregamos PC + headphone)Descuentos corporativos en institutos, universidades y más.Acceso a UBITS con certificaciones académicas sin costo adicional.Línea de carrera y capacitación constante.Agradable clima laboral.Línea de carrera apartir del 6to mes .\n\nSi estás listo para llevar tu carrera al siguiente nivel, ¡Esta es tu oportunidad! Postúlate ahora y forma parte de nuestro equipo, Somos IBR LATAM!",
+      "apply_options": [
+        {
+          "title": "LinkedIn",
+          "link": "https://pe.linkedin.com/jobs/view/back-office-reclamos-claro-planilla-completa-remoto-al-tercer-mes-cts-%2B-vacaciones-at-ibr-latam-4493285521?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Talent.com",
+          "link": "https://pe.talent.com/view?id=646958681315151124&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "BeBee",
+          "link": "https://bebee.com/pe/jobs/back-office-reclamos-claro-planilla-completa-remoto-al-tercer-mes-cts-vacaciones-ibr-latam-oficial-a--fj-2480203178?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Jobrapido.com",
+          "link": "https://pe.jobrapido.com/jobpreview/7521104390594232320?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJCYWNrIE9mZmljZSBSZWNsYW1vcyBDbGFyby9QbGFuaWxsYSBDb21wbGV0YS8gUmVtb3RvIGFsIHRlcmNlciBtZXMvQ1RTICsgVmFjYWNpb25lcyIsImNvbXBhbnlfbmFtZSI6IklCUiBMYXRhbSBPZmljaWFsIiwiaHRpZG9jaWQiOiJUT0h4bTA0TmNyVHZUNm5qQUFBQUFBPT0iLCJ1dWxlIjoidytDQUlRSUNJRVVHVnlkUSIsImdsIjoicGUiLCJobCI6ImVzIiwiZmMiOiJFc3dCQ293QlFVUkVZbGRsV1RGUFMxRnVSMlZhTlMxbGNIcGhTMGd4Um05YVdUUnRMVFY1WlVwMlYwMUVhVEE0UW04NE4yOUdPVlZLWm5GNVJFcG9PSE5rZVdZM1NqZGpVVzB6UjNaSFQzbFNWRkJNZDJjMWRHb3dXRTlRYURKRGFVaFlWRkJ2WkZvelRHWnlhVkpmU1ZodU0zWkVhVzR0ZVZVdFIwMWlhMHByYWs1c1RrSnFhRzFPZDNob2FGbFpiRWNTRjNKblNVTmhPVWRoVERsVFJIZGlhMUF4U1ROWGVVRXdHaUpCU0U0d1JUZEhOV2hIZDFSalVGTldTMDV1TWtad1FXTndabUYxY0doV1NHSjMiLCJmY3YiOiIzIiwiZmNfaWQiOiJUT0h4bTA0TmNyVHZUNm5qQUFBQUFBPT0ifQ=="
+    },
+    {
+      "title": "EJECUTIVO BACK OFFICE – MOVISTAR PERÚ",
+      "company_name": "RECSA PERÚ RECAUDACIÓN Y CONTACTO RECSA SAC",
+      "location": "Lima",
+      "via": "E-Talent",
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=back+office&htidocid=i9VWO7UcePdGFnOvAAAAAA%3D%3D&hl=es-PE&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_yWNPQrCMBhAce0RnL7ZoRWhi04xplL_Im0UnCStH22lbaKJ4Ogd3DyK4NSbeBItXR5vePCcT8-ZswWjOxHuOUwJXQIPgpAy-D6esOb7MBYkgi2LmtcYkuZtLjc8STghYKVLVIA1zJXKSuxPcmu1GXueMaWbGSttkbqpqjxVY6Lu3lklpsXR5PKKupQWjyN_eHd1nQ38iNGYdCP4O9nNCA2b5wYOQPlGECo4dE1MaHtdFZX8AYSiUQjAAAAA&shmds=v1_Ac3VAowK8Cx0UYEOCxPj47EWayBWP-mR_ltA0kBxmKKxrJc3vQ&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=back+office&htidocid=i9VWO7UcePdGFnOvAAAAAA%3D%3D",
+      "thumbnail": "https://serpapi.com/searches/6b0202ad6a1f11d2f39ed8a5/images/apHtO5YoK3VzxxVAz1AZXHg7ol93AYVMb4oS1df48eY.png",
+      "extensions": [
+        "hace 4 días",
+        "Tiempo completo"
+      ],
+      "detected_extensions": {
+        "posted_at": "hace 4 días",
+        "schedule_type": "Tiempo completo"
+      },
+      "source_link": "https://e-talent.jobs/trabajo/ejecutivo-back-office-movistar-peru/",
+      "job_title": "EJECUTIVO BACK OFFICE – MOVISTAR PERÚ",
+      "description": "Únete a RECSA y potencia tu crecimiento profesional!\n\n\nEn RECSA, empresa transnacional líder en recaudo y cobranza con más de 35 años de trayectoria en Latinoamérica, buscamos personas con actitud, energía y enfoque en resultados para integrarse a nuestro equipo de alto desempeño.\n\n\n\n\n\nPosición: EJECUTIVO BACK OFFICE – MOVISTAR PERÚ\n\n\n\n\n\nModalidad y Horarios:\n\n\n\n\nLunes a Sábado\n\n\n\n\nDescanso fijo domingos\n\n\n\n\n¿Qué te ofrecemos?\n\n\n\n\nIngreso mensual fijo\n\n\n\n\nComisiones o variables\n\n\n\n\nIngreso a planilla completa desde el primer día\n\n\n\n\nBeneficios corporativos adicionales\n\n\n\n\nLínea de carrera y oportunidades reales de crecimiento\n\n\n\n\n¿Qué buscamos?\n\n\n\n\nExperiencia en puestos similares.\n\n\n\n\nDisponibilidad para gestionar de manera presencial en Jockey Plaza.\n\n\n\n\nMayor de edad\n\n\n\n\nActitud proactiva, orientación a resultados y ganas de estabilidad laboral\n\n\n\n\n¡Postula hoy y sé parte del #TeamRECSA!\n\n\nConvierte tu talento en resultados y crece con nosotros",
+      "apply_options": [
+        {
+          "title": "E-Talent",
+          "link": "https://e-talent.jobs/trabajo/ejecutivo-back-office-movistar-peru/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJFSkVDVVRJVk8gQkFDSyBPRkZJQ0Ug4oCTIE1PVklTVEFSIFBFUsOaIiwiY29tcGFueV9uYW1lIjoiUkVDU0EgUEVSw5ogUkVDQVVEQUNJw5NOIFkgQ09OVEFDVE8gUkVDU0EgU0FDIiwiaHRpZG9jaWQiOiJpOVZXTzdVY2VQZEdGbk92QUFBQUFBPT0iLCJ1dWxlIjoidytDQUlRSUNJRVVHVnlkUSIsImdsIjoicGUiLCJobCI6ImVzIiwiZmMiOiJFc3dCQ293QlFVUkVZbGRsV20xNFVFTmxhblZNTFdkcVFYbFhOMUpDU2tKU1NIRmhkVU5KZFZOME5HaEZiRU5zZW0weVkydHBRV2cxYWtWVVRrMWhjR0k0YlU5QlZrRjBPRWRhWDFGd2VrUmZaVEZzYWkxWmFFNVRkVTlyWkdZd2FUTmFlbXB1VGxjNE0zVlNhMU5CWms1R2NrODBVWFZ2VkdGa1RXUXdjblZCY1hoclNVTmtXR3RZYTJOc2FsUXhkbW9TRjNKblNVTmhPVWRoVERsVFJIZGlhMUF4U1ROWGVVRXdHaUpCU0U0d1JUZEZiR3RXVXpKdWMweERYMHR5UmxWTVZtbzJVRUYzYXpCNFV6TjMiLCJmY3YiOiIzIiwiZmNfaWQiOiJpOVZXTzdVY2VQZEdGbk92QUFBQUFBPT0ifQ=="
+    },
+    {
+      "title": "Backoffice  Con Experiencia Call Center",
+      "company_name": "M&M Contact Center",
+      "location": "Comas",
+      "via": "LinkedIn",
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=back+office&htidocid=GuA1Xt-qTljARkaiAAAAAA%3D%3D&hl=es-PE&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_y3NMQ7CMAxAUbH2CLB4YmBIEBJL2YiAqWeo3NRtA2kcaiP1PByDlYuhSix__K94r4rrGf2Duy54AnCc4DJnmgIlHxAcxgiOktJUQvP9yPNFLUJLQGOOxEAJbsx9pPVpUM1SWisSTS-KGrzxPFpO1PBs79zIkloGnChHVKoPx_1scup3m2pbLbii17-3rB2PKD_9BwFIpQAAAA&shmds=v1_Ac3VAoz63KxLd7ZDJQgtwVQvRsWx6YS9NS6OU5-oFrGxukmouA&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=back+office&htidocid=GuA1Xt-qTljARkaiAAAAAA%3D%3D",
+      "thumbnail": "https://serpapi.com/searches/6b0202ad6a1f11d2f39ed8a5/images/-KrVwnYF-6NJMr7e0mMFU_uvYS25Mb1ucuxydtD_UtU.jpg",
+      "extensions": [
+        "hace 2 días",
+        "Tiempo completo"
+      ],
+      "detected_extensions": {
+        "posted_at": "hace 2 días",
+        "schedule_type": "Tiempo completo"
+      },
+      "source_link": "https://pe.linkedin.com/jobs/view/backoffice-con-experiencia-call-center-at-m-m-contact-center-4492772237",
+      "job_title": "Backoffice  Con Experiencia Call Center",
+      "description": "Back Office Call Center | Estabilidad Laboral y Crecimiento Profesional\n\nEn M&M Contact Center, empresa especializada en servicios de telecomunicaciones y energía, nos encontramos en la búsqueda de un(a) Back Office comprometido(a), organizado(a) y orientado(a) a resultados, que desee desarrollarse profesionalmente dentro de un equipo dinámico y en constante crecimiento.\n\nSi te gusta trabajar con procesos, seguimiento de operaciones y brindar soporte para garantizar una excelente experiencia al cliente, esta oportunidad es para ti.\n\n¿Cuáles serán tus principales funciones?\n\n✅ Validar y gestionar las ventas generadas por el equipo comercial.\n\n✅ Realizar seguimiento postventa y atender requerimientos de los clientes.\n\n✅ Gestionar incidencias, observaciones y reclamos de manera oportuna.\n\n✅ Elaborar contraofertas y estrategias de retención de clientes.\n\n✅ Coordinar y ejecutar activaciones de servicios contratados.\n\n✅ Registrar, actualizar y controlar información en plataformas internas y bases de datos.\n\n✅ Elaborar reportes y realizar seguimiento de indicadores operativos.\n\n¿Qué buscamos en ti?\n\n✔ Experiencia mínima de 1 año como Back Office en Call Center (indispensable).\n\n✔ Manejo de Excel a nivel intermedio (filtros, tablas, fórmulas básicas y control de información).\n\n✔ Capacidad de organización y atención al detalle.\n\n✔ Habilidad para trabajar bajo objetivos y cumplir plazos establecidos.\n\n✔ Actitud proactiva, resolutiva y orientada al trabajo en equipo.\n\n✔ Disponibilidad para laborar de manera presencial.\n\n¿Qué te ofrecemos?\n\n💼 Remuneración acorde a tu experiencia y desempeño.\n\n📚 Capacitación remunerada desde el primer día.\n\n📈 Oportunidades reales de crecimiento y línea de carrera.\n\n🤝 Excelente clima laboral y acompañamiento constante.\n\n🕒 Horario Fijo Para Una Mejor Organización Personal\n\n\n\n Lunes a viernes: 7:00 a.m. a 4:00 p.m. Solo 2 sábados al mes: 8:00 a.m. a 1:00 p.m.\n\nSi buscas estabilidad, aprendizaje continuo y formar parte de una empresa que valora el compromiso y el desarrollo de su equipo, ¡queremos conocerte!",
+      "apply_options": [
+        {
+          "title": "LinkedIn",
+          "link": "https://pe.linkedin.com/jobs/view/backoffice-con-experiencia-call-center-at-m-m-contact-center-4492772237?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "BeBee",
+          "link": "https://bebee.com/pe/jobs/backoffice-con-experiencia-call-center-mampm-contact-center-comas--techmap_pe_4480800446?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Jobrapido.com",
+          "link": "https://pe.jobrapido.com/jobpreview/3960265546578001920?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJCYWNrb2ZmaWNlICBDb24gRXhwZXJpZW5jaWEgQ2FsbCBDZW50ZXIiLCJjb21wYW55X25hbWUiOiJNXHUwMDI2TSBDb250YWN0IENlbnRlciIsImh0aWRvY2lkIjoiR3VBMVh0LXFUbGpBUmthaUFBQUFBQT09IiwidXVsZSI6IncrQ0FJUUlDSUVVR1Z5ZFEiLCJnbCI6InBlIiwiaGwiOiJlcyIsImZjIjoiRXN3QkNvd0JRVVJFWWxkbFlqVmtZMHN0VEdoMGRtcEhXWGxYZEVwclVHRjVSekJ5TUVjMlNFNTVNRTFGYjA1WmJWOWFORFJ0ZW5jdFpFSkliWFJ1WjB0WlEzWkxRVmQ1WkVGVmRFUXhjbkpzZVRKU2ExUktiVFowZFhZNGJVUldPVkkyVUdOSlkwWklibVpPV0RKTloyRlhXR0ZHYVdSTFFWQkpXVlJPVGtkWFEyUk9jSE5aUWpVelpWWkJRamt3TWs4U0YzSm5TVU5oT1VkaFREbFRSSGRpYTFBeFNUTlhlVUV3R2lKQlNFNHdSVGRJYXkxMFluTTFUblpRVGpBMVNrMVRSVk5PTXpsZk9WSktVM2xCIiwiZmN2IjoiMyIsImZjX2lkIjoiR3VBMVh0LXFUbGpBUmthaUFBQUFBQT09In0="
+    },
+    {
+      "title": "Back Office / Socio importante",
+      "company_name": "MANAGEMENT FORCE SAC",
+      "location": "Lima",
+      "via": "Indeed",
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=back+office&htidocid=scAAvXDrkU6FTwcqAAAAAA%3D%3D&hl=es-PE&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_xXMMQ6CMBQA0LhyBOPwZwdqTFwwDkiQRSARd1LKp1Tb_kprwlk8iqsXMyxvfNFnFZ3OXDyhHgYlEBg0JBSBMo6mwG3ABLrf17_e2HPoEdA4jQRooSCSGtfHMQTnE8a817H0gQclYkGGkcWOZvagzi-0fuQTOs0DtvvDbo6dldtNmVZpkZd5dYdLfctyaNJsya_K8D8FWcDxnQAAAA&shmds=v1_Ac3VAoy7ioXJFziosfOnFksNW3MHWfTs7YLBV4vr1WJPgOHgeg&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=back+office&htidocid=scAAvXDrkU6FTwcqAAAAAA%3D%3D",
+      "extensions": [
+        "hace 1 día",
+        "Tiempo completo"
+      ],
+      "detected_extensions": {
+        "posted_at": "hace 1 día",
+        "schedule_type": "Tiempo completo"
+      },
+      "source_link": "https://pe.indeed.com/viewjob?jk=f252f1dee57ccd46",
+      "job_title": "Back Office / Socio importante",
+      "description": "Somos un outsourcing importante, que actualmente nos encontramos en búsqueda del mejor talento para incorporarse a nuestro equipo y cubrir la posición de BACK OFFICE, para uno de nuestros clientes.\n\n\nREQUISITOS:\n\n\n\n Experiencia mínima de 6 meses en puestos similares.\n Manejo de Excel a nivel intermedio (indispensable).\n Disponibilidad para laborar de manera presencial en el distrito de La Victoria.\n\nFUNCIONES:\n\n\n\n Validar y auditar las recaudaciones realizadas por el equipo, tanto exitosas como no exitosas.\n Realizar reportes de gestión de llamadas y venta.\n Seguimiento de las operaciones y el objetivo.\n Realizar otras funciones asignadas por el jefe inmediato.\n\nBENEFICIOS:\n\n\n\n Sueldo fijo.\n Bono de movilidad.\n Ingreso a planilla Completa.\n Excelente clima laboral.\n\nHORARIO:\n\n\n\n Lunes a viernes: 9:00 a. m. a 6:00 p. m.\n Sábados: 9:00 a. m. a 1:00 p. m.\n\n¡Si cumples con los requisitos y buscas una nueva oportunidad laboral! ¡Postula y forma parte de nuestro equipo!\n\n\nSueldo: Hasta S/.1,430.00 al mes\n\n\nPregunta(s) de postulación:\n\n\n\n 1.¿Cuánto tiempo de experiencia presentas como Back Office? Comenta brevemente\n 2- ¿En que distrito te encuentras residiendo? ¿ Cuentas con disponibilidad para trabajar en el distrito de La Victoria?\n 3.¿Cuál es tu nivel de Excel?\n 4.-¿Cuáles son tu pretensiones salariales?\n 5.- Bríndanos tu Número y WhatsApp Actualizado.\n\nLugar de trabajo: Empleo presencial",
+      "apply_options": [
+        {
+          "title": "Indeed",
+          "link": "https://pe.indeed.com/viewjob?jk=f252f1dee57ccd46&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Computrabajo Perú",
+          "link": "https://pe.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-back-office-cartera-corporativa-en-miraflores-92C6223D3533CE9A61373E686DCF3405?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "BeBee",
+          "link": "https://bebee.com/pe/jobs/back-office-presencial-surquillo-estalent-lima--ss-pe-12rxtez?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJCYWNrIE9mZmljZSAvIFNvY2lvIGltcG9ydGFudGUiLCJjb21wYW55X25hbWUiOiJNQU5BR0VNRU5UIEZPUkNFIFNBQyIsImh0aWRvY2lkIjoic2NBQXZYRHJrVTZGVHdjcUFBQUFBQT09IiwidXVsZSI6IncrQ0FJUUlDSUVVR1Z5ZFEiLCJnbCI6InBlIiwiaGwiOiJlcyIsImZjIjoiRXN3QkNvd0JRVVJFWWxkbFlraE9ObE53VlRCQmNsbFNVa2M0TTBsS1Vra3dVemhPWjFWSlYwRlBSMFZETWs5eFFYVmFRM04xY1VsTFFVaEdXbmxTY0VZeFJWaEthRGhZWVV3emVrVkxaMnQyWjJNMFJGWjRSbUZWT1hwVGExOTJRakZvVlZGWlZqQkZTRlZQV1hOR1dHVTNabkprVW1aNkxXeGhVV1pvUldabFNWQkVhRGhyWkVoMVFuUk9SbFE0Vm1ZU0YzSm5TVU5oT1VkaFREbFRSSGRpYTFBeFNUTlhlVUV3R2lKQlNFNHdSVGRHWW1KVE1sUllOa3REYms1S2QyNDFjV3hMWlVkeFRGWlNSVFZSIiwiZmN2IjoiMyIsImZjX2lkIjoic2NBQXZYRHJrVTZGVHdjcUFBQUFBQT09In0="
+    },
+    {
+      "title": "Ejecutivo/a Back Office por Suplencia",
+      "company_name": "Icpna",
+      "location": "Miraflores",
+      "via": "JobLeads",
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=back+office&htidocid=vyYzArpyly3YVOGHAAAAAA%3D%3D&hl=es-PE&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_xXMIQ7CQBBA0WBrcajRiC4hwRRHIARBEBygmU6n7ZbtzrKzJT0KZ8FyMaj54omfvRfZ8dQzjcm-xCAckB5waxpLDEEi3Mfg2JPFAqrvR58j1wg1Aw9_F2APZ5HW8WrfpRS0MEbV5a0mTJZyksGI50om00ulc0rtMHJwmLjc7jZTHny7Xl4oeJxvVxuxcRJZf_Q3qYGbAAAA&shmds=v1_Ac3VAoylfLdRXO6JqkRphGzLSbwI7-fHEzfhqqCERUdxVS_AiA&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=back+office&htidocid=vyYzArpyly3YVOGHAAAAAA%3D%3D",
+      "extensions": [
+        "hace 3 días",
+        "De S/ 36 K a S/ 58 K por año",
+        "Tiempo completo"
+      ],
+      "detected_extensions": {
+        "posted_at": "hace 3 días",
+        "salary": "De S/ 36 K a S/ 58 K por año",
+        "schedule_type": "Tiempo completo"
+      },
+      "source_link": "https://www.jobleads.com/pe/job/ejecutivo-a-back-office-por-suplencia--miraflores--ee8306a03702df0023a3fb7ac49a6f2c6",
+      "job_title": "Ejecutivo/a Back Office por Suplencia",
+      "description": "ICPNA busca un/a Ejecutivo/a Back Office para gestionar atenciones y incidencias de alumnos y clientes. Se trabajará con CRM y herramientas de gestión omnicanal para resolver casos en el primer contacto y registrar cada interacción.\n\nSe requiere experiencia en atención al cliente y habilidades en MS Office. El rol implica coordinar con áreas internas, aplicar procedimientos institucionales y orientar a usuarios en herramientas de autogestión.\n\nFormación\n\nFormación técnica o universitaria en administración o afín (deseable).Conocimientos sólidos de Microsoft Office (Excel, PowerPoint).Conocimientos de CRM para atención y seguimiento de incidencias.Responsabilidades\n\nAtender solicitudes de diversas fuentes y derivarlas adecuadamente.Gestión de incidencias y reclamos, registrando incidencias y soluciones.Comunicación con alumnos/clients y uso de herramientas del área para resolver casos a primer contacto.Registrar atención y colaborar con otras áreas para mejorar procesos y tiempos de respuesta.",
+      "apply_options": [
+        {
+          "title": "JobLeads",
+          "link": "https://www.jobleads.com/pe/job/ejecutivo-a-back-office-por-suplencia--miraflores--ee8306a03702df0023a3fb7ac49a6f2c6?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Trabajo.org",
+          "link": "https://pe.trabajo.org/oferta-10004-db10c562072e2a76f5eef24ab6c6ba02?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Talent.com",
+          "link": "https://pe.talent.com/view?id=642543275615199046&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "BeBee",
+          "link": "https://bebee.com/pe/jobs/ejecutivo-back-office-por-suplencia-icpna-miraflores--techmap_pe_D079ECB6D0E5703A61373E686DCF3405?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Jobrapido.com",
+          "link": "https://pe.jobrapido.com/jobpreview/4545430136006115328?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Jobted",
+          "link": "https://www.jobted.com.pe/job/796de6c310c2c063ccfb72a6ac822920?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJFamVjdXRpdm8vYSBCYWNrIE9mZmljZSBwb3IgU3VwbGVuY2lhIiwiY29tcGFueV9uYW1lIjoiSWNwbmEiLCJodGlkb2NpZCI6InZ5WXpBcnB5bHkzWVZPR0hBQUFBQUE9PSIsInV1bGUiOiJ3K0NBSVFJQ0lFVUdWeWRRIiwiZ2wiOiJwZSIsImhsIjoiZXMiLCJmYyI6IkVzd0JDb3dCUVVSRVlsZGxXamhNU2xCSlEySjJSVVZGUmtJNE0wMWZlV3hhT0ZkR1lXcERYMmMzWVhKa05uUXhVbVZhYzBSVlZrWkZiMHRZV2pST05XcHpXRVV5WnpCZmRIQkNiVFZHWDNWaFVrZGxUVmQxZERoV1FtSnpWVVpOY2kxb0xYaDViVXN0TVZkTE4yNWpOVFphWkhwT2RYWlFkbTVwWXpkbFV6aHhWRmxGUkRob09FUmhPVFJFT0d4blRqVVNGM0puU1VOaE9VZGhURGxUUkhkaWExQXhTVE5YZVVFd0dpSkJTRTR3UlRkRk5rNW9kbkF4YkRkMk5EUmhRMU54Y1RORlkwUkVkME5vUW01MyIsImZjdiI6IjMiLCJmY19pZCI6InZ5WXpBcnB5bHkzWVZPR0hBQUFBQUE9PSJ9"
+    },
+    {
+      "title": "Trabaja solo 5 días y descansa dos días/ Back Office Entel Chile/ Full Time",
+      "company_name": "EntelConnect",
+      "location": "Rímac",
+      "via": "LinkedIn",
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=back+office&htidocid=OD0Aa5sFoOV4Yhw7AAAAAA%3D%3D&hl=es-PE&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_yWNPQ6CQBBGY8sBLKymtmCNCQ12GrU0MfRkWIY_hx1klgQPxQVsuZiizVe85L0vmFcBJz1m2CCosEAE-TyhwgtyUotOEXLRPzRwRPuAW1HUluDsPDGcqprJwGVghqRuKYZsfutzoPwrElDbMQmQg6tIybQ5VN53GhujymGpHn1tQyutEUeZjKaRTJdJtcKeOkZP6T7ajWHnyu3693kS58j6JXqfpxbtB20V03bGAAAA&shmds=v1_Ac3VAoxHGJNyKh1pfLYDJfIsbs7r3FEVS8mrrnTqE7PkGCCbVQ&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=back+office&htidocid=OD0Aa5sFoOV4Yhw7AAAAAA%3D%3D",
+      "thumbnail": "https://serpapi.com/images/i/_9j_4AAQSkZJRgABAQAAAQABAAD_2wCEAAkGBwgHBgkIBwgKCgkLDRYPDQwMDRsUFRAWIB0iIiAdHx8kKDQsJCYxJx8fLT0tMTU3Ojo6Iys_RD84QzQ5OjcBCgoKDQwNGg8PGjclHyU3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3N__AABEIADgAOAMBEQACEQEDEQH_xAAaAAEAAgMBAAAAAAAAAAAAAAAAAgcBBQYE_8QAKRAAAQMCBQMDBQAAAAAAAAAAAQACAwQRBRIhIjETMnFRYZEjJEFigf_EABoBAQEAAgMAAAAAAAAAAAAAAAABBQYCBAf_xAAnEQEAAgEEAQMDBQAAAAAAAAAAARECAwQSIaFBcfAxYYETFFHB4f_aAAwDAQACEQMRAD8A5ZenNQEBAQEBAQEBAQEBAQEBBmxsTbQcn0UuLpalhEFQQFAVBBbeDvMGC4I7DqWtqqI0n3MNMIOi-S31BJnIN7-60zcxy19X9XKIyvqZ5XXpVdM_pTWnhwi4ruq_Nq0eKSSqhDs0NK-by5kRd_dQPKyOyy1o3m54TcRGPtzruvFrvsdL9htpyispnL34X1fmntZS4Jlc6actcHdrJs2thtByaju3ewGvJ706u8usY8f74_P2Yvhoes-Um02AOljaamUNO5xz356m3gWsWx6_sePxJ1d9GMzxj5Xf19-vscNvf1-doSwYNHFL0ZTKTFJ0jJKQ7ODtu0NsNB663-OWOpu8pjlFdxfXp693_XSThoxE1P8ALRrJuoIJCR7WOYHODHdzQdD5XGccZm5jtYymIpFVBUEBAQEBAQEBAQEBAQEBAQEBB__Z.jpg",
+      "extensions": [
+        "hace 8 horas",
+        "Tiempo completo"
+      ],
+      "detected_extensions": {
+        "posted_at": "hace 8 horas",
+        "schedule_type": "Tiempo completo"
+      },
+      "source_link": "https://pe.linkedin.com/jobs/view/trabaja-solo-5-d%C3%ADas-y-descansa-dos-d%C3%ADas-back-office-entel-chile-full-time-at-entelconnect-4493279650",
+      "job_title": "Trabaja solo 5 días y descansa dos días/ Back Office Entel Chile/ Full Time",
+      "description": "Agente Back Office Soluciones | Entel Chile\n\nDescripción de la oferta\n\n¡Únete a nuestro equipo y desarrolla tu carrera profesional con nosotros!\n\nEstamos en búsqueda de Agente Back Office responsable de atención de consultas, solicitudes y reclamos de clientes, mediante una adecuada indagación del requerimiento, que puede incluir temas como delivery dificultades técnicas, verificación de boletas móviles y hogar, entre otros Las funciones incluyen Interpretación de datos en sistemas corporativos, aplicación de filtros previos para validar información registro de gestiones finales en los sistemas ( reclamos, solicitudes, etc. Asimismo, como parte del proceso de resolución, el agente deberá contactar al cliente vía llamada o chat, según los procedimientos establecidos, para informar el resultado del caso Finalmente, deberá realizar el cierre del ticket en el sistema o generar un nuevo ingreso, conforme a los acuerdos y compromisos adquiridos con el cliente\n\nFunciones\n\nAtención de consultas, solicitudes y reclamos de clientes.Análisis e interpretación de información en sistemas corporativosContacto con cliente vía llamada o chatCierre de tickets o generación de nuevos ingresos según corresponda\n\nRequisitos\n\nResidir en Lima Metropolitana o Callao.Contar con disponibilidad para laborar de manera presencialExperiencia en Call center mínima de 3 mesesManejo de Office a nivel básico.Buen nivel de comunicación escrito y ortografia.Habilidades blandas y orientación al cliente.Habilidades comerciales y capacidad de persuasión.\n\nCondiciones Laborales\n\n📍 Modalidad: 100% Presencial\n\n💰 Remuneración\n\nSueldo fijo: S/ 1300 ✅ Ingreso a planilla desde el primer día.✅ Asignación familiar (según corresponda)✅ Capacitaciones pagadas.✅ Trabajo presencial✅ Oportunidad de crecimiento y desarrollo profesional.✅ Excelente clima laboral.\n\n⏰ Horario\n\nFull TimeDe 07:00 p.m. a 20:00 p.mPrimer descanso entre lunes a viernes, segundo descanso entre sábado y domingo.\n\nCapacitación\n\n📚 Capacitación remunerada\n\nDuración de capacitación: 19 díasModalidad de capacitación: HíbridoInicia: Lunes 23/11/2026Lunes a sábadoHorario: 8 am a 4 pmFecha de conexión: 17/12/2026\n\n🔥 ¡POSTULA AHORA Y FORMA PARTE DE ENTEL! 💙",
+      "apply_options": [
+        {
+          "title": "LinkedIn",
+          "link": "https://pe.linkedin.com/jobs/view/trabaja-solo-5-d%C3%ADas-y-descansa-dos-d%C3%ADas-back-office-entel-chile-full-time-at-entelconnect-4493279650?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Talent.com",
+          "link": "https://pe.talent.com/view?id=646957016215464737&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Jooble",
+          "link": "https://pe.jooble.org/jdp/-6853720617313389685?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "BeBee",
+          "link": "https://bebee.com/pe/jobs/trabaja-solo-5-dias-y-descansa-dos-dias-back-office-entel-chile-full-time-entel-connect-center-rimac--techmap_pe_455E608D6DA91DE661373E686DCF3405?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Jobrapido.com",
+          "link": "https://pe.jobrapido.com/jobpreview/1442511531039260672?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJUcmFiYWphIHNvbG8gNSBkw61hcyB5IGRlc2NhbnNhIGRvcyBkw61hcy8gQmFjayBPZmZpY2UgRW50ZWwgQ2hpbGUvIEZ1bGwgVGltZSIsImNvbXBhbnlfbmFtZSI6IkVudGVsQ29ubmVjdCIsImh0aWRvY2lkIjoiT0QwQWE1c0ZvT1Y0WWh3N0FBQUFBQT09IiwidXVsZSI6IncrQ0FJUUlDSUVVR1Z5ZFEiLCJnbCI6InBlIiwiaGwiOiJlcyIsImZjIjoiRXN3QkNvd0JRVVJFWWxkbFlqTTNNbmR4VnprMlJpMWFPVzV1YjNwRVVYQXlRVXgyYzJwWGFXcEllWEJKYld4RlQyZ3ROa0pzWkRGalRrZEtNRzExYzBOMVZubHJOblYyU1VaM05GRlRZVWhLVFdaQ0xXcE1aR04yUWxWMmRsQnhSV3B6Tms1c1duQklaVmhUYmxwVlpYcHNSRmxzZG10MVpIUnBXREUxUmxOMlF6SnlNRlZ4ZURFelZHazRRa05xVDJVU0YzSm5TVU5oT1VkaFREbFRSSGRpYTFBeFNUTlhlVUV3R2lKQlNFNHdSVGRHT0V4bFpYVm1MWEI1ZVVKcU1rSm5PREZCVjA5bFJVZ3liVWRSIiwiZmN2IjoiMyIsImZjX2lkIjoiT0QwQWE1c0ZvT1Y0WWh3N0FBQUFBQT09In0="
+    }
+  ],
+  "serpapi_pagination": {
+    "next_page_token": "eyJmYyI6IkV2Y0NDcmNDUVVSRVlsZGxZa3ByTW5OU2FDMUthV1pXTms5SFVYUlRjMlZpWDFRelVGVlpXbWd3T1RGZldFRjVPVGd5Y0dOWFZITkhVMGRhY1dOMFJFRjZaR1JKU1ZoT2MwMUNaMUpvVXkxMVRqSmFVRGxHTlZCaU1rdDNRV3BWWWpKMFFXNWtVMWROY0V4b2FqWnNhVEJyUlVGemNIcGplV2xSUlY4NVdWOVJVM3B2UkdSeU56ZHJTblJVZFdSb1pXMXFjVkZKU0dVd1JuTnVaM2RJWmkxWFlsTmlOSFpwT0hOU2FEQnJSakZ0Umt4blpsZEJNbE5VU1RsT1oyVXhTVEZ0V1RoNGNVOVpjVkZOYVU1VWNqUk5VVWwyTkVaWVFrNDRUME5yWmxwRFJIaDZORkJ5WDNwWGFqQklXbHA1Y1hwU1gwTkRRVzV0T1hsb09Xc3dRVFpGTFVaQ1RETnVZbGxyWnpOMlZEUm1lVXBuZEhObE0zSlpXV1ZLZHpGNmVVdHpPRWRSWlRCSFprZEZhbGRUT0dNMVMyOU1NVWwzTkZCT1VuTVNGM0puU1VOaE9VZGhURGxUUkhkaWExQXhTVE5YZVVFd0dpSkJTRTR3UlRkR2JFTkxWa0ZKVmtadmFHeFJkelZmUVU4emJWaFpUVFp0UTNWUiIsImZjdiI6IjMifQ==",
+    "next": "https://serpapi.com/search.json?engine=google_jobs&gl=pe&google_domain=google.com&hl=es&location=Peru&next_page_token=eyJmYyI6IkV2Y0NDcmNDUVVSRVlsZGxZa3ByTW5OU2FDMUthV1pXTms5SFVYUlRjMlZpWDFRelVGVlpXbWd3T1RGZldFRjVPVGd5Y0dOWFZITkhVMGRhY1dOMFJFRjZaR1JKU1ZoT2MwMUNaMUpvVXkxMVRqSmFVRGxHTlZCaU1rdDNRV3BWWWpKMFFXNWtVMWROY0V4b2FqWnNhVEJyUlVGemNIcGplV2xSUlY4NVdWOVJVM3B2UkdSeU56ZHJTblJVZFdSb1pXMXFjVkZKU0dVd1JuTnVaM2RJWmkxWFlsTmlOSFpwT0hOU2FEQnJSakZ0Umt4blpsZEJNbE5VU1RsT1oyVXhTVEZ0V1RoNGNVOVpjVkZOYVU1VWNqUk5VVWwyTkVaWVFrNDRUME5yWmxwRFJIaDZORkJ5WDNwWGFqQklXbHA1Y1hwU1gwTkRRVzV0T1hsb09Xc3dRVFpGTFVaQ1RETnVZbGxyWnpOMlZEUm1lVXBuZEhObE0zSlpXV1ZLZHpGNmVVdHpPRWRSWlRCSFprZEZhbGRUT0dNMVMyOU1NVWwzTkZCT1VuTVNGM0puU1VOaE9VZGhURGxUUkhkaWExQXhTVE5YZVVFd0dpSkJTRTR3UlRkR2JFTkxWa0ZKVmtadmFHeFJkelZmUVU4emJWaFpUVFp0UTNWUiIsImZjdiI6IjMifQ%3D%3D&q=back+office"
+  },
+  "_pipeline_metadata": {
+    "ingestion_timestamp_utc": "2026-11-21T20:44:31.368799+00:00",
+    "search_group": "back_office",
+    "target_market": "Peru",
+    "target_location": "Peru",
+    "date_filter_applied": "month",
+    "new_records_count": 10,
+    "provider": "serpapi"
+  }
+}

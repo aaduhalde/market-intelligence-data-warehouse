@@ -1,0 +1,534 @@
+{
+  "search_metadata": {
+    "id": "6b0202a9a208021412927a42",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/YZz-A6Rf5cECgxZ65EvJkNwk3otIMap8TN0Gebglkr4/6b0202a9a208021412927a42.json",
+    "markdown_endpoint": "https://serpapi.com/searches/YZz-A6Rf5cECgxZ65EvJkNwk3otIMap8TN0Gebglkr4/6b0202a9a208021412927a42.md",
+    "created_at": "2026-11-21 20:44:25 UTC",
+    "processed_at": "2026-11-21 20:44:25 UTC",
+    "google_jobs_url": "https://www.google.com/search?q=customer+success&hl=es&gl=pe&udm=8&uule=w+CAIQICIEUGVydQ",
+    "raw_html_file": "https://serpapi.com/searches/YZz-A6Rf5cECgxZ65EvJkNwk3otIMap8TN0Gebglkr4/6b0202a9a208021412927a42.html",
+    "total_time_taken": 3.55
+  },
+  "search_parameters": {
+    "q": "customer success",
+    "engine": "google_jobs",
+    "location_requested": "Peru",
+    "location_used": "Peru",
+    "google_domain": "google.com",
+    "hl": "es",
+    "gl": "pe"
+  },
+  "filters": [
+    {
+      "name": "Tipo de trabajo",
+      "options": [
+        {
+          "name": "Tiempo completo",
+          "parameters": {
+            "uds": "AE2AFgbf06ZzDvczg9XBG5Z3qflXH_sPPYhmbKrAN-pieu-uWMU9FP0XTKMrucXC1jKEIMH7UgSD4IPQqe1KWt4JLArLaAmpp66iwl6RNRscADmUFWa7Mf2u1VNO2k292uHFCpGCaNLcUAo-VRF-VeAgF9ccmyMDX95sdE48dXyWjgVZONE_rVptUQY7BbszEttmQo5E1T1kohFMHA057AWL_44E-Orsuo9fsqUvcr_YeJEvNFJ645R4XgjMYG89DFTl0e58PGyuXIt-upVbb7ikJgnA4bhivT0xTtFhwG5Bzj_P8g4tgh67XwBOOLCphiRlAoKgbi0arZWcC-gN5wpuJ1UPI_IS5FSNOuhngxsAdTjo6OA_DG8",
+            "q": "customer success tiempo completo"
+          },
+          "link": "https://www.google.com/search?sca_esv=06fa6b2cca60171b&hl=es&gl=pe&sxsrf=AKL5yDgqjS94ANMwwuk_TbD1zHlybwTM2g:1795293868291&q=customer+success+tiempo+completo&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXH_sPPYhmbKrAN-pieu-uWMU9FP0XTKMrucXC1jKEIMH7UgSD4IPQqe1KWt4JLArLaAmpp66iwl6RNRscADmUFWa7Mf2u1VNO2k292uHFCpGCaNLcUAo-VRF-VeAgF9ccmyMDX95sdE48dXyWjgVZONE_rVptUQY7BbszEttmQo5E1T1kohFMHA057AWL_44E-Orsuo9fsqUvcr_YeJEvNFJ645R4XgjMYG89DFTl0e58PGyuXIt-upVbb7ikJgnA4bhivT0xTtFhwG5Bzj_P8g4tgh67XwBOOLCphiRlAoKgbi0arZWcC-gN5wpuJ1UPI_IS5FSNOuhngxsAdTjo6OA_DG8&udm=8&sa=X&ved=2ahUKEwjssqXq9pmYAxVxBEQIHR0rA0QQkbEKegQIGhAC",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=pe&google_domain=google.com&hl=es&location=Peru&q=customer+success+tiempo+completo&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXH_sPPYhmbKrAN-pieu-uWMU9FP0XTKMrucXC1jKEIMH7UgSD4IPQqe1KWt4JLArLaAmpp66iwl6RNRscADmUFWa7Mf2u1VNO2k292uHFCpGCaNLcUAo-VRF-VeAgF9ccmyMDX95sdE48dXyWjgVZONE_rVptUQY7BbszEttmQo5E1T1kohFMHA057AWL_44E-Orsuo9fsqUvcr_YeJEvNFJ645R4XgjMYG89DFTl0e58PGyuXIt-upVbb7ikJgnA4bhivT0xTtFhwG5Bzj_P8g4tgh67XwBOOLCphiRlAoKgbi0arZWcC-gN5wpuJ1UPI_IS5FSNOuhngxsAdTjo6OA_DG8"
+        },
+        {
+          "name": "Tiempo parcial",
+          "parameters": {
+            "uds": "AE2AFgbf06ZzDvczg9XBG5Z3qflXBBFyDt1nf8DSL5iOuKQX7WcRltJKFGpvNsfq0wCMT54_tKxwRTGKzXI-PjPlrpglw6D9f2p0Izs1W6ws-M6TLasiwxMaxg53c-vaxFHUfMK8H57i6Mj8q9sRUQm-ZLsoWJ5igH39Rw0F9Ak7cKdLb8X4L4fyhjoUIqxpgwLOr4jYa4A_uRK7RUguexUAG_2iF-X3lxnref2-ly5UDuSwQ-ps_MQLkiIItXvmiVTHanBY2avjTORPAKpkEraL7Hb3LAdYVQK7Hc7jaGGnI1g6PlgfblGwoIJ9xzWSl-xvdXCa08Pgm6JkSflgQj5arA7Z6tAi2S-dBifj7zQfS_7RtWvOPoY",
+            "q": "customer success tiempo parcial"
+          },
+          "link": "https://www.google.com/search?sca_esv=06fa6b2cca60171b&hl=es&gl=pe&sxsrf=AKL5yDgqjS94ANMwwuk_TbD1zHlybwTM2g:1795293868291&q=customer+success+tiempo+parcial&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXBBFyDt1nf8DSL5iOuKQX7WcRltJKFGpvNsfq0wCMT54_tKxwRTGKzXI-PjPlrpglw6D9f2p0Izs1W6ws-M6TLasiwxMaxg53c-vaxFHUfMK8H57i6Mj8q9sRUQm-ZLsoWJ5igH39Rw0F9Ak7cKdLb8X4L4fyhjoUIqxpgwLOr4jYa4A_uRK7RUguexUAG_2iF-X3lxnref2-ly5UDuSwQ-ps_MQLkiIItXvmiVTHanBY2avjTORPAKpkEraL7Hb3LAdYVQK7Hc7jaGGnI1g6PlgfblGwoIJ9xzWSl-xvdXCa08Pgm6JkSflgQj5arA7Z6tAi2S-dBifj7zQfS_7RtWvOPoY&udm=8&sa=X&ved=2ahUKEwjssqXq9pmYAxVxBEQIHR0rA0QQkbEKegQIGhAD",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=pe&google_domain=google.com&hl=es&location=Peru&q=customer+success+tiempo+parcial&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXBBFyDt1nf8DSL5iOuKQX7WcRltJKFGpvNsfq0wCMT54_tKxwRTGKzXI-PjPlrpglw6D9f2p0Izs1W6ws-M6TLasiwxMaxg53c-vaxFHUfMK8H57i6Mj8q9sRUQm-ZLsoWJ5igH39Rw0F9Ak7cKdLb8X4L4fyhjoUIqxpgwLOr4jYa4A_uRK7RUguexUAG_2iF-X3lxnref2-ly5UDuSwQ-ps_MQLkiIItXvmiVTHanBY2avjTORPAKpkEraL7Hb3LAdYVQK7Hc7jaGGnI1g6PlgfblGwoIJ9xzWSl-xvdXCa08Pgm6JkSflgQj5arA7Z6tAi2S-dBifj7zQfS_7RtWvOPoY"
+        },
+        {
+          "name": "Con contrato",
+          "parameters": {
+            "uds": "AE2AFgbf06ZzDvczg9XBG5Z3qflX1yx3wKIwB6WaDO5OjnER6-YcoqfGS7ogomjiZP6CRngev3StV54wpP_CJwahMdF8FT9P9flrjtUN5eOmQJCr412iFAA5n8DcYOkxNs5PS3XeKIXdpfZTKMuavQPorJQh0ZSS0WJYpDZm_ASN-7NJlwpoh33OsO59Nq43iGzCe4Mh1hYrfnNqq46cNlybvruJe8ENr29mm12qPU9tg1uKx0FD9rVy6S5wvKpmr5OueMrx4mtWsh9HUthUCxSzSUJS6QoC77LPeRvN4Z_pYD6CpYQ9mTEVu0KlXbdfdi8ICNKNu_93uK_pO8liYXUQ7TQiPlI3Ob7IpLt-7mS_86AXhA428jE",
+            "q": "customer success con contrato"
+          },
+          "link": "https://www.google.com/search?sca_esv=06fa6b2cca60171b&hl=es&gl=pe&sxsrf=AKL5yDgqjS94ANMwwuk_TbD1zHlybwTM2g:1795293868291&q=customer+success+con+contrato&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflX1yx3wKIwB6WaDO5OjnER6-YcoqfGS7ogomjiZP6CRngev3StV54wpP_CJwahMdF8FT9P9flrjtUN5eOmQJCr412iFAA5n8DcYOkxNs5PS3XeKIXdpfZTKMuavQPorJQh0ZSS0WJYpDZm_ASN-7NJlwpoh33OsO59Nq43iGzCe4Mh1hYrfnNqq46cNlybvruJe8ENr29mm12qPU9tg1uKx0FD9rVy6S5wvKpmr5OueMrx4mtWsh9HUthUCxSzSUJS6QoC77LPeRvN4Z_pYD6CpYQ9mTEVu0KlXbdfdi8ICNKNu_93uK_pO8liYXUQ7TQiPlI3Ob7IpLt-7mS_86AXhA428jE&udm=8&sa=X&ved=2ahUKEwjssqXq9pmYAxVxBEQIHR0rA0QQkbEKegQIGhAE",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=pe&google_domain=google.com&hl=es&location=Peru&q=customer+success+con+contrato&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflX1yx3wKIwB6WaDO5OjnER6-YcoqfGS7ogomjiZP6CRngev3StV54wpP_CJwahMdF8FT9P9flrjtUN5eOmQJCr412iFAA5n8DcYOkxNs5PS3XeKIXdpfZTKMuavQPorJQh0ZSS0WJYpDZm_ASN-7NJlwpoh33OsO59Nq43iGzCe4Mh1hYrfnNqq46cNlybvruJe8ENr29mm12qPU9tg1uKx0FD9rVy6S5wvKpmr5OueMrx4mtWsh9HUthUCxSzSUJS6QoC77LPeRvN4Z_pYD6CpYQ9mTEVu0KlXbdfdi8ICNKNu_93uK_pO8liYXUQ7TQiPlI3Ob7IpLt-7mS_86AXhA428jE"
+        },
+        {
+          "name": "Prácticas",
+          "parameters": {
+            "uds": "AE2AFgbf06ZzDvczg9XBG5Z3qflXKGpv8sxYNvIeQXivVGRBTnOf_MV-trCpETEW49N9ALqGfGPYqY98TnpAmpyVeUwYrJbq0jLcyPsEKZbsZBDGFWUqHZvkXmI_kdNnmP1AxJuqtYqtmTA_8LW8Sg3o-wAjG5Qz2w8MKwx0OGirCdNqN9Q3KEW1bIse8GPh90prkcdCf_EA4BafGMV9n1g9_GsEmaeqAiI0vupdjAWncYP30zWYfBOXzUOmdypp-7ytN6S8X7f8lBCRNkl2joSoL9jUKHlMs4RJcXP3EAikmkYhgdNGp_SFK222WRojNmSOOoUEw6QD-djq6lUSPsR-3wDmvRv_DBqUH3noBSt5awOW7kkShd0",
+            "q": "customer success prácticas"
+          },
+          "link": "https://www.google.com/search?sca_esv=06fa6b2cca60171b&hl=es&gl=pe&sxsrf=AKL5yDgqjS94ANMwwuk_TbD1zHlybwTM2g:1795293868291&q=customer+success+pr%C3%A1cticas&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXKGpv8sxYNvIeQXivVGRBTnOf_MV-trCpETEW49N9ALqGfGPYqY98TnpAmpyVeUwYrJbq0jLcyPsEKZbsZBDGFWUqHZvkXmI_kdNnmP1AxJuqtYqtmTA_8LW8Sg3o-wAjG5Qz2w8MKwx0OGirCdNqN9Q3KEW1bIse8GPh90prkcdCf_EA4BafGMV9n1g9_GsEmaeqAiI0vupdjAWncYP30zWYfBOXzUOmdypp-7ytN6S8X7f8lBCRNkl2joSoL9jUKHlMs4RJcXP3EAikmkYhgdNGp_SFK222WRojNmSOOoUEw6QD-djq6lUSPsR-3wDmvRv_DBqUH3noBSt5awOW7kkShd0&udm=8&sa=X&ved=2ahUKEwjssqXq9pmYAxVxBEQIHR0rA0QQkbEKegQIGhAF",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=pe&google_domain=google.com&hl=es&location=Peru&q=customer+success+pr%C3%A1cticas&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXKGpv8sxYNvIeQXivVGRBTnOf_MV-trCpETEW49N9ALqGfGPYqY98TnpAmpyVeUwYrJbq0jLcyPsEKZbsZBDGFWUqHZvkXmI_kdNnmP1AxJuqtYqtmTA_8LW8Sg3o-wAjG5Qz2w8MKwx0OGirCdNqN9Q3KEW1bIse8GPh90prkcdCf_EA4BafGMV9n1g9_GsEmaeqAiI0vupdjAWncYP30zWYfBOXzUOmdypp-7ytN6S8X7f8lBCRNkl2joSoL9jUKHlMs4RJcXP3EAikmkYhgdNGp_SFK222WRojNmSOOoUEw6QD-djq6lUSPsR-3wDmvRv_DBqUH3noBSt5awOW7kkShd0"
+        }
+      ]
+    },
+    {
+      "name": "Tipo de trabajo",
+      "options": [
+        {
+          "name": "Tiempo completo",
+          "parameters": {
+            "uds": "AE2AFgbf06ZzDvczg9XBG5Z3qflXH_sPPYhmbKrAN-pieu-uWMU9FP0XTKMrucXC1jKEIMH7UgSD4IPQqe1KWt4JLArLaAmpp66iwl6RNRscADmUFWa7Mf2u1VNO2k292uHFCpGCaNLcUAo-VRF-VeAgF9ccmyMDX95sdE48dXyWjgVZONE_rVptUQY7BbszEttmQo5E1T1kohFMHA057AWL_44E-Orsuo9fsqUvcr_YeJEvNFJ645R4XgjMYG89DFTl0e58PGyuXIt-upVbb7ikJgnA4bhivT0xTtFhwG5Bzj_P8g4tgh67XwBOOLCphiRlAoKgbi0arZWcC-gN5wpuJ1UPI_IS5FSNOuhngxsAdTjo6OA_DG8",
+            "q": "customer success tiempo completo"
+          },
+          "link": "https://www.google.com/search?sca_esv=06fa6b2cca60171b&hl=es&gl=pe&sxsrf=AKL5yDgqjS94ANMwwuk_TbD1zHlybwTM2g:1795293868291&q=customer+success+tiempo+completo&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXH_sPPYhmbKrAN-pieu-uWMU9FP0XTKMrucXC1jKEIMH7UgSD4IPQqe1KWt4JLArLaAmpp66iwl6RNRscADmUFWa7Mf2u1VNO2k292uHFCpGCaNLcUAo-VRF-VeAgF9ccmyMDX95sdE48dXyWjgVZONE_rVptUQY7BbszEttmQo5E1T1kohFMHA057AWL_44E-Orsuo9fsqUvcr_YeJEvNFJ645R4XgjMYG89DFTl0e58PGyuXIt-upVbb7ikJgnA4bhivT0xTtFhwG5Bzj_P8g4tgh67XwBOOLCphiRlAoKgbi0arZWcC-gN5wpuJ1UPI_IS5FSNOuhngxsAdTjo6OA_DG8&udm=8&sa=X&ved=2ahUKEwjssqXq9pmYAxVxBEQIHR0rA0QQkbEKegQIGhAC",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=pe&google_domain=google.com&hl=es&location=Peru&q=customer+success+tiempo+completo&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXH_sPPYhmbKrAN-pieu-uWMU9FP0XTKMrucXC1jKEIMH7UgSD4IPQqe1KWt4JLArLaAmpp66iwl6RNRscADmUFWa7Mf2u1VNO2k292uHFCpGCaNLcUAo-VRF-VeAgF9ccmyMDX95sdE48dXyWjgVZONE_rVptUQY7BbszEttmQo5E1T1kohFMHA057AWL_44E-Orsuo9fsqUvcr_YeJEvNFJ645R4XgjMYG89DFTl0e58PGyuXIt-upVbb7ikJgnA4bhivT0xTtFhwG5Bzj_P8g4tgh67XwBOOLCphiRlAoKgbi0arZWcC-gN5wpuJ1UPI_IS5FSNOuhngxsAdTjo6OA_DG8"
+        },
+        {
+          "name": "Tiempo parcial",
+          "parameters": {
+            "uds": "AE2AFgbf06ZzDvczg9XBG5Z3qflXBBFyDt1nf8DSL5iOuKQX7WcRltJKFGpvNsfq0wCMT54_tKxwRTGKzXI-PjPlrpglw6D9f2p0Izs1W6ws-M6TLasiwxMaxg53c-vaxFHUfMK8H57i6Mj8q9sRUQm-ZLsoWJ5igH39Rw0F9Ak7cKdLb8X4L4fyhjoUIqxpgwLOr4jYa4A_uRK7RUguexUAG_2iF-X3lxnref2-ly5UDuSwQ-ps_MQLkiIItXvmiVTHanBY2avjTORPAKpkEraL7Hb3LAdYVQK7Hc7jaGGnI1g6PlgfblGwoIJ9xzWSl-xvdXCa08Pgm6JkSflgQj5arA7Z6tAi2S-dBifj7zQfS_7RtWvOPoY",
+            "q": "customer success tiempo parcial"
+          },
+          "link": "https://www.google.com/search?sca_esv=06fa6b2cca60171b&hl=es&gl=pe&sxsrf=AKL5yDgqjS94ANMwwuk_TbD1zHlybwTM2g:1795293868291&q=customer+success+tiempo+parcial&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXBBFyDt1nf8DSL5iOuKQX7WcRltJKFGpvNsfq0wCMT54_tKxwRTGKzXI-PjPlrpglw6D9f2p0Izs1W6ws-M6TLasiwxMaxg53c-vaxFHUfMK8H57i6Mj8q9sRUQm-ZLsoWJ5igH39Rw0F9Ak7cKdLb8X4L4fyhjoUIqxpgwLOr4jYa4A_uRK7RUguexUAG_2iF-X3lxnref2-ly5UDuSwQ-ps_MQLkiIItXvmiVTHanBY2avjTORPAKpkEraL7Hb3LAdYVQK7Hc7jaGGnI1g6PlgfblGwoIJ9xzWSl-xvdXCa08Pgm6JkSflgQj5arA7Z6tAi2S-dBifj7zQfS_7RtWvOPoY&udm=8&sa=X&ved=2ahUKEwjssqXq9pmYAxVxBEQIHR0rA0QQkbEKegQIGhAD",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=pe&google_domain=google.com&hl=es&location=Peru&q=customer+success+tiempo+parcial&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXBBFyDt1nf8DSL5iOuKQX7WcRltJKFGpvNsfq0wCMT54_tKxwRTGKzXI-PjPlrpglw6D9f2p0Izs1W6ws-M6TLasiwxMaxg53c-vaxFHUfMK8H57i6Mj8q9sRUQm-ZLsoWJ5igH39Rw0F9Ak7cKdLb8X4L4fyhjoUIqxpgwLOr4jYa4A_uRK7RUguexUAG_2iF-X3lxnref2-ly5UDuSwQ-ps_MQLkiIItXvmiVTHanBY2avjTORPAKpkEraL7Hb3LAdYVQK7Hc7jaGGnI1g6PlgfblGwoIJ9xzWSl-xvdXCa08Pgm6JkSflgQj5arA7Z6tAi2S-dBifj7zQfS_7RtWvOPoY"
+        },
+        {
+          "name": "Con contrato",
+          "parameters": {
+            "uds": "AE2AFgbf06ZzDvczg9XBG5Z3qflX1yx3wKIwB6WaDO5OjnER6-YcoqfGS7ogomjiZP6CRngev3StV54wpP_CJwahMdF8FT9P9flrjtUN5eOmQJCr412iFAA5n8DcYOkxNs5PS3XeKIXdpfZTKMuavQPorJQh0ZSS0WJYpDZm_ASN-7NJlwpoh33OsO59Nq43iGzCe4Mh1hYrfnNqq46cNlybvruJe8ENr29mm12qPU9tg1uKx0FD9rVy6S5wvKpmr5OueMrx4mtWsh9HUthUCxSzSUJS6QoC77LPeRvN4Z_pYD6CpYQ9mTEVu0KlXbdfdi8ICNKNu_93uK_pO8liYXUQ7TQiPlI3Ob7IpLt-7mS_86AXhA428jE",
+            "q": "customer success con contrato"
+          },
+          "link": "https://www.google.com/search?sca_esv=06fa6b2cca60171b&hl=es&gl=pe&sxsrf=AKL5yDgqjS94ANMwwuk_TbD1zHlybwTM2g:1795293868291&q=customer+success+con+contrato&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflX1yx3wKIwB6WaDO5OjnER6-YcoqfGS7ogomjiZP6CRngev3StV54wpP_CJwahMdF8FT9P9flrjtUN5eOmQJCr412iFAA5n8DcYOkxNs5PS3XeKIXdpfZTKMuavQPorJQh0ZSS0WJYpDZm_ASN-7NJlwpoh33OsO59Nq43iGzCe4Mh1hYrfnNqq46cNlybvruJe8ENr29mm12qPU9tg1uKx0FD9rVy6S5wvKpmr5OueMrx4mtWsh9HUthUCxSzSUJS6QoC77LPeRvN4Z_pYD6CpYQ9mTEVu0KlXbdfdi8ICNKNu_93uK_pO8liYXUQ7TQiPlI3Ob7IpLt-7mS_86AXhA428jE&udm=8&sa=X&ved=2ahUKEwjssqXq9pmYAxVxBEQIHR0rA0QQkbEKegQIGhAE",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=pe&google_domain=google.com&hl=es&location=Peru&q=customer+success+con+contrato&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflX1yx3wKIwB6WaDO5OjnER6-YcoqfGS7ogomjiZP6CRngev3StV54wpP_CJwahMdF8FT9P9flrjtUN5eOmQJCr412iFAA5n8DcYOkxNs5PS3XeKIXdpfZTKMuavQPorJQh0ZSS0WJYpDZm_ASN-7NJlwpoh33OsO59Nq43iGzCe4Mh1hYrfnNqq46cNlybvruJe8ENr29mm12qPU9tg1uKx0FD9rVy6S5wvKpmr5OueMrx4mtWsh9HUthUCxSzSUJS6QoC77LPeRvN4Z_pYD6CpYQ9mTEVu0KlXbdfdi8ICNKNu_93uK_pO8liYXUQ7TQiPlI3Ob7IpLt-7mS_86AXhA428jE"
+        },
+        {
+          "name": "Prácticas",
+          "parameters": {
+            "uds": "AE2AFgbf06ZzDvczg9XBG5Z3qflXKGpv8sxYNvIeQXivVGRBTnOf_MV-trCpETEW49N9ALqGfGPYqY98TnpAmpyVeUwYrJbq0jLcyPsEKZbsZBDGFWUqHZvkXmI_kdNnmP1AxJuqtYqtmTA_8LW8Sg3o-wAjG5Qz2w8MKwx0OGirCdNqN9Q3KEW1bIse8GPh90prkcdCf_EA4BafGMV9n1g9_GsEmaeqAiI0vupdjAWncYP30zWYfBOXzUOmdypp-7ytN6S8X7f8lBCRNkl2joSoL9jUKHlMs4RJcXP3EAikmkYhgdNGp_SFK222WRojNmSOOoUEw6QD-djq6lUSPsR-3wDmvRv_DBqUH3noBSt5awOW7kkShd0",
+            "q": "customer success prácticas"
+          },
+          "link": "https://www.google.com/search?sca_esv=06fa6b2cca60171b&hl=es&gl=pe&sxsrf=AKL5yDgqjS94ANMwwuk_TbD1zHlybwTM2g:1795293868291&q=customer+success+pr%C3%A1cticas&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXKGpv8sxYNvIeQXivVGRBTnOf_MV-trCpETEW49N9ALqGfGPYqY98TnpAmpyVeUwYrJbq0jLcyPsEKZbsZBDGFWUqHZvkXmI_kdNnmP1AxJuqtYqtmTA_8LW8Sg3o-wAjG5Qz2w8MKwx0OGirCdNqN9Q3KEW1bIse8GPh90prkcdCf_EA4BafGMV9n1g9_GsEmaeqAiI0vupdjAWncYP30zWYfBOXzUOmdypp-7ytN6S8X7f8lBCRNkl2joSoL9jUKHlMs4RJcXP3EAikmkYhgdNGp_SFK222WRojNmSOOoUEw6QD-djq6lUSPsR-3wDmvRv_DBqUH3noBSt5awOW7kkShd0&udm=8&sa=X&ved=2ahUKEwjssqXq9pmYAxVxBEQIHR0rA0QQkbEKegQIGhAF",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=pe&google_domain=google.com&hl=es&location=Peru&q=customer+success+pr%C3%A1cticas&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXKGpv8sxYNvIeQXivVGRBTnOf_MV-trCpETEW49N9ALqGfGPYqY98TnpAmpyVeUwYrJbq0jLcyPsEKZbsZBDGFWUqHZvkXmI_kdNnmP1AxJuqtYqtmTA_8LW8Sg3o-wAjG5Qz2w8MKwx0OGirCdNqN9Q3KEW1bIse8GPh90prkcdCf_EA4BafGMV9n1g9_GsEmaeqAiI0vupdjAWncYP30zWYfBOXzUOmdypp-7ytN6S8X7f8lBCRNkl2joSoL9jUKHlMs4RJcXP3EAikmkYhgdNGp_SFK222WRojNmSOOoUEw6QD-djq6lUSPsR-3wDmvRv_DBqUH3noBSt5awOW7kkShd0"
+        }
+      ]
+    },
+    {
+      "name": "Fecha de publicación",
+      "options": [
+        {
+          "name": "Ayer",
+          "parameters": {
+            "uds": "AE2AFgbf06ZzDvczg9XBG5Z3qflXhWccJ5BrkXQF8W7Kp5gILrxivU_NrM6vUW7j1nCfHW_WfzkRtWnwffSeFJSS5qNbzwhrzxxLtGpPC3WrxB0pD-ed0wxyTeAksS38XsOAOl2fqbkfVFaRS1XExoTTCMbcTxQE0zPfzMRoWqfaKJj4zHWQUviGq_3HSeL_UT_4rUO8KjbtzprUfRnCj7x2MtURltgnQDRV-olskvzHGjaxZ_t6FkpO--2VzwabFAa_0AT4R0v-9xx-tqIAEYknCL1_affgrNVRo4yfVRzAvmVuIPOy6HaDXxRJKbDupEHgwrU6uMG0nnve0D86r7y8NAggqqxLnEzZZT2Vxf_rjNkiXtyIhQTxr4Md2bH2IY4paIUtq0-Y",
+            "q": "customer success desde ayer"
+          },
+          "link": "https://www.google.com/search?sca_esv=06fa6b2cca60171b&hl=es&gl=pe&sxsrf=AKL5yDgqjS94ANMwwuk_TbD1zHlybwTM2g:1795293868291&q=customer+success+desde+ayer&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXhWccJ5BrkXQF8W7Kp5gILrxivU_NrM6vUW7j1nCfHW_WfzkRtWnwffSeFJSS5qNbzwhrzxxLtGpPC3WrxB0pD-ed0wxyTeAksS38XsOAOl2fqbkfVFaRS1XExoTTCMbcTxQE0zPfzMRoWqfaKJj4zHWQUviGq_3HSeL_UT_4rUO8KjbtzprUfRnCj7x2MtURltgnQDRV-olskvzHGjaxZ_t6FkpO--2VzwabFAa_0AT4R0v-9xx-tqIAEYknCL1_affgrNVRo4yfVRzAvmVuIPOy6HaDXxRJKbDupEHgwrU6uMG0nnve0D86r7y8NAggqqxLnEzZZT2Vxf_rjNkiXtyIhQTxr4Md2bH2IY4paIUtq0-Y&udm=8&sa=X&ved=2ahUKEwjssqXq9pmYAxVxBEQIHR0rA0QQkbEKegQIGxAC",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=pe&google_domain=google.com&hl=es&location=Peru&q=customer+success+desde+ayer&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXhWccJ5BrkXQF8W7Kp5gILrxivU_NrM6vUW7j1nCfHW_WfzkRtWnwffSeFJSS5qNbzwhrzxxLtGpPC3WrxB0pD-ed0wxyTeAksS38XsOAOl2fqbkfVFaRS1XExoTTCMbcTxQE0zPfzMRoWqfaKJj4zHWQUviGq_3HSeL_UT_4rUO8KjbtzprUfRnCj7x2MtURltgnQDRV-olskvzHGjaxZ_t6FkpO--2VzwabFAa_0AT4R0v-9xx-tqIAEYknCL1_affgrNVRo4yfVRzAvmVuIPOy6HaDXxRJKbDupEHgwrU6uMG0nnve0D86r7y8NAggqqxLnEzZZT2Vxf_rjNkiXtyIhQTxr4Md2bH2IY4paIUtq0-Y"
+        },
+        {
+          "name": "Últimos 3 días",
+          "parameters": {
+            "uds": "AE2AFgbf06ZzDvczg9XBG5Z3qflXoF0r2Rb1P3PdHV93NLn5Zvjhgc5KQZDfw08raolq0Xpq16h5u22CbyTtxclVqvonBSe4YGDuGVpTOc7Op4FDlQl6Wdr6QXhf0z75CLS0u3lwFkpjuQFClsBfE3mjo9xD-K7x7zm_SnnIvzq-j_Ru-5dzuYtD3Jdx8Wsh4mib2RBIGsLipJgmzm7yUpx05fXX4GZADnrDf52FiCRgNU5sR4rMq-cVJ61SBmNvuIfS_G5pqNc9coSHoPQAdiOHwmiMxgosj4l3Y0CK6Tti_Hq9LgVOP8IkqPuuB8RLbzxSUJN7LP3zizbF57UbVPFujO8cuEMHpXfkrZFcSkkll36J6zgGqBPDFcKtcI2y9CDz80mhHLf0",
+            "q": "customer success en los últimos 3 días"
+          },
+          "link": "https://www.google.com/search?sca_esv=06fa6b2cca60171b&hl=es&gl=pe&sxsrf=AKL5yDgqjS94ANMwwuk_TbD1zHlybwTM2g:1795293868291&q=customer+success+en+los+%C3%BAltimos+3+d%C3%ADas&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXoF0r2Rb1P3PdHV93NLn5Zvjhgc5KQZDfw08raolq0Xpq16h5u22CbyTtxclVqvonBSe4YGDuGVpTOc7Op4FDlQl6Wdr6QXhf0z75CLS0u3lwFkpjuQFClsBfE3mjo9xD-K7x7zm_SnnIvzq-j_Ru-5dzuYtD3Jdx8Wsh4mib2RBIGsLipJgmzm7yUpx05fXX4GZADnrDf52FiCRgNU5sR4rMq-cVJ61SBmNvuIfS_G5pqNc9coSHoPQAdiOHwmiMxgosj4l3Y0CK6Tti_Hq9LgVOP8IkqPuuB8RLbzxSUJN7LP3zizbF57UbVPFujO8cuEMHpXfkrZFcSkkll36J6zgGqBPDFcKtcI2y9CDz80mhHLf0&udm=8&sa=X&ved=2ahUKEwjssqXq9pmYAxVxBEQIHR0rA0QQkbEKegQIGxAD",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=pe&google_domain=google.com&hl=es&location=Peru&q=customer+success+en+los+%C3%BAltimos+3+d%C3%ADas&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXoF0r2Rb1P3PdHV93NLn5Zvjhgc5KQZDfw08raolq0Xpq16h5u22CbyTtxclVqvonBSe4YGDuGVpTOc7Op4FDlQl6Wdr6QXhf0z75CLS0u3lwFkpjuQFClsBfE3mjo9xD-K7x7zm_SnnIvzq-j_Ru-5dzuYtD3Jdx8Wsh4mib2RBIGsLipJgmzm7yUpx05fXX4GZADnrDf52FiCRgNU5sR4rMq-cVJ61SBmNvuIfS_G5pqNc9coSHoPQAdiOHwmiMxgosj4l3Y0CK6Tti_Hq9LgVOP8IkqPuuB8RLbzxSUJN7LP3zizbF57UbVPFujO8cuEMHpXfkrZFcSkkll36J6zgGqBPDFcKtcI2y9CDz80mhHLf0"
+        },
+        {
+          "name": "Última semana",
+          "parameters": {
+            "uds": "AE2AFgbf06ZzDvczg9XBG5Z3qflX4JIKLQAuRN7r31O7NhCLTwthg0FP-zNCBIl6AE04Gy1YRRRY-7eLgEwBe9U9yXkFkEoSl1HAGtQ8H-BIZYQwlDxEbyyTrHTG8ZaGQnC1zLFqn-MQflW7G7yuwNIjuenBSYqnvYZgigYcpTQBEEBL7AZ7JfdneWQpNOVJ-exqY4rHDhr3D2pTQTZbKJKMKdO-OmLct7d6E_WTh3sMOxQZ63oJj5au6WTpF28v3nRoBCMelFU0J5EBDTazP7x5E1AbRGaZ3VY-ezXFLmeIOyEA8ta-lHhpIW4ZayOT006GZ8Ows5N1ixFs2S9XjHCl7arKWf4MqqAlWbOkeMlDEaj2bwUZ7_5t5QtArQluDX6UMypTyxox",
+            "q": "customer success en la última semana"
+          },
+          "link": "https://www.google.com/search?sca_esv=06fa6b2cca60171b&hl=es&gl=pe&sxsrf=AKL5yDgqjS94ANMwwuk_TbD1zHlybwTM2g:1795293868291&q=customer+success+en+la+%C3%BAltima+semana&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflX4JIKLQAuRN7r31O7NhCLTwthg0FP-zNCBIl6AE04Gy1YRRRY-7eLgEwBe9U9yXkFkEoSl1HAGtQ8H-BIZYQwlDxEbyyTrHTG8ZaGQnC1zLFqn-MQflW7G7yuwNIjuenBSYqnvYZgigYcpTQBEEBL7AZ7JfdneWQpNOVJ-exqY4rHDhr3D2pTQTZbKJKMKdO-OmLct7d6E_WTh3sMOxQZ63oJj5au6WTpF28v3nRoBCMelFU0J5EBDTazP7x5E1AbRGaZ3VY-ezXFLmeIOyEA8ta-lHhpIW4ZayOT006GZ8Ows5N1ixFs2S9XjHCl7arKWf4MqqAlWbOkeMlDEaj2bwUZ7_5t5QtArQluDX6UMypTyxox&udm=8&sa=X&ved=2ahUKEwjssqXq9pmYAxVxBEQIHR0rA0QQkbEKegQIGxAE",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=pe&google_domain=google.com&hl=es&location=Peru&q=customer+success+en+la+%C3%BAltima+semana&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflX4JIKLQAuRN7r31O7NhCLTwthg0FP-zNCBIl6AE04Gy1YRRRY-7eLgEwBe9U9yXkFkEoSl1HAGtQ8H-BIZYQwlDxEbyyTrHTG8ZaGQnC1zLFqn-MQflW7G7yuwNIjuenBSYqnvYZgigYcpTQBEEBL7AZ7JfdneWQpNOVJ-exqY4rHDhr3D2pTQTZbKJKMKdO-OmLct7d6E_WTh3sMOxQZ63oJj5au6WTpF28v3nRoBCMelFU0J5EBDTazP7x5E1AbRGaZ3VY-ezXFLmeIOyEA8ta-lHhpIW4ZayOT006GZ8Ows5N1ixFs2S9XjHCl7arKWf4MqqAlWbOkeMlDEaj2bwUZ7_5t5QtArQluDX6UMypTyxox"
+        },
+        {
+          "name": "Último mes",
+          "parameters": {
+            "uds": "AE2AFgbf06ZzDvczg9XBG5Z3qflXA6OquyTQEVRk7Im6xeHdbdEctudni_di9qoQIZZu-9i0e3o1l6jg2IpJaqr_vRiymOH-7QqUIzvsXpn6RgVkWlNgNEmPLOTnyXScAPfB3_2N5wj8f7GzmoDzmzflrX6cm38SSsSUiJa1JQf86bNUYedTaB45UOrLqUz4v2F2jLoZ07A60P_D2q8Hz4YX-Mz1R4b74ylI84e__Y_UEzVQzjFUcNEkZwORqRbX42GOD6C4zEQq8Zg3TdCwGYOvrZYlB3M8xBWnR213BhNdkX-VnjYzOMkgf9wjEvbyUpa80J8znrEX5SDcw1w1GNbkBf4nSpZRHQxpFtOkfPbqNgskYHv0L215gAj6a785wKxZpprmRurUdlyBHa9KvVGhTJvutpMadw",
+            "q": "customer success en el último mes"
+          },
+          "link": "https://www.google.com/search?sca_esv=06fa6b2cca60171b&hl=es&gl=pe&sxsrf=AKL5yDgqjS94ANMwwuk_TbD1zHlybwTM2g:1795293868291&q=customer+success+en+el+%C3%BAltimo+mes&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXA6OquyTQEVRk7Im6xeHdbdEctudni_di9qoQIZZu-9i0e3o1l6jg2IpJaqr_vRiymOH-7QqUIzvsXpn6RgVkWlNgNEmPLOTnyXScAPfB3_2N5wj8f7GzmoDzmzflrX6cm38SSsSUiJa1JQf86bNUYedTaB45UOrLqUz4v2F2jLoZ07A60P_D2q8Hz4YX-Mz1R4b74ylI84e__Y_UEzVQzjFUcNEkZwORqRbX42GOD6C4zEQq8Zg3TdCwGYOvrZYlB3M8xBWnR213BhNdkX-VnjYzOMkgf9wjEvbyUpa80J8znrEX5SDcw1w1GNbkBf4nSpZRHQxpFtOkfPbqNgskYHv0L215gAj6a785wKxZpprmRurUdlyBHa9KvVGhTJvutpMadw&udm=8&sa=X&ved=2ahUKEwjssqXq9pmYAxVxBEQIHR0rA0QQkbEKegQIGxAF",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=pe&google_domain=google.com&hl=es&location=Peru&q=customer+success+en+el+%C3%BAltimo+mes&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXA6OquyTQEVRk7Im6xeHdbdEctudni_di9qoQIZZu-9i0e3o1l6jg2IpJaqr_vRiymOH-7QqUIzvsXpn6RgVkWlNgNEmPLOTnyXScAPfB3_2N5wj8f7GzmoDzmzflrX6cm38SSsSUiJa1JQf86bNUYedTaB45UOrLqUz4v2F2jLoZ07A60P_D2q8Hz4YX-Mz1R4b74ylI84e__Y_UEzVQzjFUcNEkZwORqRbX42GOD6C4zEQq8Zg3TdCwGYOvrZYlB3M8xBWnR213BhNdkX-VnjYzOMkgf9wjEvbyUpa80J8znrEX5SDcw1w1GNbkBf4nSpZRHQxpFtOkfPbqNgskYHv0L215gAj6a785wKxZpprmRurUdlyBHa9KvVGhTJvutpMadw"
+        }
+      ]
+    },
+    {
+      "name": "Fecha de publicación",
+      "options": [
+        {
+          "name": "Ayer",
+          "parameters": {
+            "uds": "AE2AFgbf06ZzDvczg9XBG5Z3qflXhWccJ5BrkXQF8W7Kp5gILrxivU_NrM6vUW7j1nCfHW_WfzkRtWnwffSeFJSS5qNbzwhrzxxLtGpPC3WrxB0pD-ed0wxyTeAksS38XsOAOl2fqbkfVFaRS1XExoTTCMbcTxQE0zPfzMRoWqfaKJj4zHWQUviGq_3HSeL_UT_4rUO8KjbtzprUfRnCj7x2MtURltgnQDRV-olskvzHGjaxZ_t6FkpO--2VzwabFAa_0AT4R0v-9xx-tqIAEYknCL1_affgrNVRo4yfVRzAvmVuIPOy6HaDXxRJKbDupEHgwrU6uMG0nnve0D86r7y8NAggqqxLnEzZZT2Vxf_rjNkiXtyIhQTxr4Md2bH2IY4paIUtq0-Y",
+            "q": "customer success desde ayer"
+          },
+          "link": "https://www.google.com/search?sca_esv=06fa6b2cca60171b&hl=es&gl=pe&sxsrf=AKL5yDgqjS94ANMwwuk_TbD1zHlybwTM2g:1795293868291&q=customer+success+desde+ayer&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXhWccJ5BrkXQF8W7Kp5gILrxivU_NrM6vUW7j1nCfHW_WfzkRtWnwffSeFJSS5qNbzwhrzxxLtGpPC3WrxB0pD-ed0wxyTeAksS38XsOAOl2fqbkfVFaRS1XExoTTCMbcTxQE0zPfzMRoWqfaKJj4zHWQUviGq_3HSeL_UT_4rUO8KjbtzprUfRnCj7x2MtURltgnQDRV-olskvzHGjaxZ_t6FkpO--2VzwabFAa_0AT4R0v-9xx-tqIAEYknCL1_affgrNVRo4yfVRzAvmVuIPOy6HaDXxRJKbDupEHgwrU6uMG0nnve0D86r7y8NAggqqxLnEzZZT2Vxf_rjNkiXtyIhQTxr4Md2bH2IY4paIUtq0-Y&udm=8&sa=X&ved=2ahUKEwjssqXq9pmYAxVxBEQIHR0rA0QQkbEKegQIGxAC",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=pe&google_domain=google.com&hl=es&location=Peru&q=customer+success+desde+ayer&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXhWccJ5BrkXQF8W7Kp5gILrxivU_NrM6vUW7j1nCfHW_WfzkRtWnwffSeFJSS5qNbzwhrzxxLtGpPC3WrxB0pD-ed0wxyTeAksS38XsOAOl2fqbkfVFaRS1XExoTTCMbcTxQE0zPfzMRoWqfaKJj4zHWQUviGq_3HSeL_UT_4rUO8KjbtzprUfRnCj7x2MtURltgnQDRV-olskvzHGjaxZ_t6FkpO--2VzwabFAa_0AT4R0v-9xx-tqIAEYknCL1_affgrNVRo4yfVRzAvmVuIPOy6HaDXxRJKbDupEHgwrU6uMG0nnve0D86r7y8NAggqqxLnEzZZT2Vxf_rjNkiXtyIhQTxr4Md2bH2IY4paIUtq0-Y"
+        },
+        {
+          "name": "Últimos 3 días",
+          "parameters": {
+            "uds": "AE2AFgbf06ZzDvczg9XBG5Z3qflXoF0r2Rb1P3PdHV93NLn5Zvjhgc5KQZDfw08raolq0Xpq16h5u22CbyTtxclVqvonBSe4YGDuGVpTOc7Op4FDlQl6Wdr6QXhf0z75CLS0u3lwFkpjuQFClsBfE3mjo9xD-K7x7zm_SnnIvzq-j_Ru-5dzuYtD3Jdx8Wsh4mib2RBIGsLipJgmzm7yUpx05fXX4GZADnrDf52FiCRgNU5sR4rMq-cVJ61SBmNvuIfS_G5pqNc9coSHoPQAdiOHwmiMxgosj4l3Y0CK6Tti_Hq9LgVOP8IkqPuuB8RLbzxSUJN7LP3zizbF57UbVPFujO8cuEMHpXfkrZFcSkkll36J6zgGqBPDFcKtcI2y9CDz80mhHLf0",
+            "q": "customer success en los últimos 3 días"
+          },
+          "link": "https://www.google.com/search?sca_esv=06fa6b2cca60171b&hl=es&gl=pe&sxsrf=AKL5yDgqjS94ANMwwuk_TbD1zHlybwTM2g:1795293868291&q=customer+success+en+los+%C3%BAltimos+3+d%C3%ADas&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXoF0r2Rb1P3PdHV93NLn5Zvjhgc5KQZDfw08raolq0Xpq16h5u22CbyTtxclVqvonBSe4YGDuGVpTOc7Op4FDlQl6Wdr6QXhf0z75CLS0u3lwFkpjuQFClsBfE3mjo9xD-K7x7zm_SnnIvzq-j_Ru-5dzuYtD3Jdx8Wsh4mib2RBIGsLipJgmzm7yUpx05fXX4GZADnrDf52FiCRgNU5sR4rMq-cVJ61SBmNvuIfS_G5pqNc9coSHoPQAdiOHwmiMxgosj4l3Y0CK6Tti_Hq9LgVOP8IkqPuuB8RLbzxSUJN7LP3zizbF57UbVPFujO8cuEMHpXfkrZFcSkkll36J6zgGqBPDFcKtcI2y9CDz80mhHLf0&udm=8&sa=X&ved=2ahUKEwjssqXq9pmYAxVxBEQIHR0rA0QQkbEKegQIGxAD",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=pe&google_domain=google.com&hl=es&location=Peru&q=customer+success+en+los+%C3%BAltimos+3+d%C3%ADas&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXoF0r2Rb1P3PdHV93NLn5Zvjhgc5KQZDfw08raolq0Xpq16h5u22CbyTtxclVqvonBSe4YGDuGVpTOc7Op4FDlQl6Wdr6QXhf0z75CLS0u3lwFkpjuQFClsBfE3mjo9xD-K7x7zm_SnnIvzq-j_Ru-5dzuYtD3Jdx8Wsh4mib2RBIGsLipJgmzm7yUpx05fXX4GZADnrDf52FiCRgNU5sR4rMq-cVJ61SBmNvuIfS_G5pqNc9coSHoPQAdiOHwmiMxgosj4l3Y0CK6Tti_Hq9LgVOP8IkqPuuB8RLbzxSUJN7LP3zizbF57UbVPFujO8cuEMHpXfkrZFcSkkll36J6zgGqBPDFcKtcI2y9CDz80mhHLf0"
+        },
+        {
+          "name": "Última semana",
+          "parameters": {
+            "uds": "AE2AFgbf06ZzDvczg9XBG5Z3qflX4JIKLQAuRN7r31O7NhCLTwthg0FP-zNCBIl6AE04Gy1YRRRY-7eLgEwBe9U9yXkFkEoSl1HAGtQ8H-BIZYQwlDxEbyyTrHTG8ZaGQnC1zLFqn-MQflW7G7yuwNIjuenBSYqnvYZgigYcpTQBEEBL7AZ7JfdneWQpNOVJ-exqY4rHDhr3D2pTQTZbKJKMKdO-OmLct7d6E_WTh3sMOxQZ63oJj5au6WTpF28v3nRoBCMelFU0J5EBDTazP7x5E1AbRGaZ3VY-ezXFLmeIOyEA8ta-lHhpIW4ZayOT006GZ8Ows5N1ixFs2S9XjHCl7arKWf4MqqAlWbOkeMlDEaj2bwUZ7_5t5QtArQluDX6UMypTyxox",
+            "q": "customer success en la última semana"
+          },
+          "link": "https://www.google.com/search?sca_esv=06fa6b2cca60171b&hl=es&gl=pe&sxsrf=AKL5yDgqjS94ANMwwuk_TbD1zHlybwTM2g:1795293868291&q=customer+success+en+la+%C3%BAltima+semana&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflX4JIKLQAuRN7r31O7NhCLTwthg0FP-zNCBIl6AE04Gy1YRRRY-7eLgEwBe9U9yXkFkEoSl1HAGtQ8H-BIZYQwlDxEbyyTrHTG8ZaGQnC1zLFqn-MQflW7G7yuwNIjuenBSYqnvYZgigYcpTQBEEBL7AZ7JfdneWQpNOVJ-exqY4rHDhr3D2pTQTZbKJKMKdO-OmLct7d6E_WTh3sMOxQZ63oJj5au6WTpF28v3nRoBCMelFU0J5EBDTazP7x5E1AbRGaZ3VY-ezXFLmeIOyEA8ta-lHhpIW4ZayOT006GZ8Ows5N1ixFs2S9XjHCl7arKWf4MqqAlWbOkeMlDEaj2bwUZ7_5t5QtArQluDX6UMypTyxox&udm=8&sa=X&ved=2ahUKEwjssqXq9pmYAxVxBEQIHR0rA0QQkbEKegQIGxAE",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=pe&google_domain=google.com&hl=es&location=Peru&q=customer+success+en+la+%C3%BAltima+semana&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflX4JIKLQAuRN7r31O7NhCLTwthg0FP-zNCBIl6AE04Gy1YRRRY-7eLgEwBe9U9yXkFkEoSl1HAGtQ8H-BIZYQwlDxEbyyTrHTG8ZaGQnC1zLFqn-MQflW7G7yuwNIjuenBSYqnvYZgigYcpTQBEEBL7AZ7JfdneWQpNOVJ-exqY4rHDhr3D2pTQTZbKJKMKdO-OmLct7d6E_WTh3sMOxQZ63oJj5au6WTpF28v3nRoBCMelFU0J5EBDTazP7x5E1AbRGaZ3VY-ezXFLmeIOyEA8ta-lHhpIW4ZayOT006GZ8Ows5N1ixFs2S9XjHCl7arKWf4MqqAlWbOkeMlDEaj2bwUZ7_5t5QtArQluDX6UMypTyxox"
+        },
+        {
+          "name": "Último mes",
+          "parameters": {
+            "uds": "AE2AFgbf06ZzDvczg9XBG5Z3qflXA6OquyTQEVRk7Im6xeHdbdEctudni_di9qoQIZZu-9i0e3o1l6jg2IpJaqr_vRiymOH-7QqUIzvsXpn6RgVkWlNgNEmPLOTnyXScAPfB3_2N5wj8f7GzmoDzmzflrX6cm38SSsSUiJa1JQf86bNUYedTaB45UOrLqUz4v2F2jLoZ07A60P_D2q8Hz4YX-Mz1R4b74ylI84e__Y_UEzVQzjFUcNEkZwORqRbX42GOD6C4zEQq8Zg3TdCwGYOvrZYlB3M8xBWnR213BhNdkX-VnjYzOMkgf9wjEvbyUpa80J8znrEX5SDcw1w1GNbkBf4nSpZRHQxpFtOkfPbqNgskYHv0L215gAj6a785wKxZpprmRurUdlyBHa9KvVGhTJvutpMadw",
+            "q": "customer success en el último mes"
+          },
+          "link": "https://www.google.com/search?sca_esv=06fa6b2cca60171b&hl=es&gl=pe&sxsrf=AKL5yDgqjS94ANMwwuk_TbD1zHlybwTM2g:1795293868291&q=customer+success+en+el+%C3%BAltimo+mes&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXA6OquyTQEVRk7Im6xeHdbdEctudni_di9qoQIZZu-9i0e3o1l6jg2IpJaqr_vRiymOH-7QqUIzvsXpn6RgVkWlNgNEmPLOTnyXScAPfB3_2N5wj8f7GzmoDzmzflrX6cm38SSsSUiJa1JQf86bNUYedTaB45UOrLqUz4v2F2jLoZ07A60P_D2q8Hz4YX-Mz1R4b74ylI84e__Y_UEzVQzjFUcNEkZwORqRbX42GOD6C4zEQq8Zg3TdCwGYOvrZYlB3M8xBWnR213BhNdkX-VnjYzOMkgf9wjEvbyUpa80J8znrEX5SDcw1w1GNbkBf4nSpZRHQxpFtOkfPbqNgskYHv0L215gAj6a785wKxZpprmRurUdlyBHa9KvVGhTJvutpMadw&udm=8&sa=X&ved=2ahUKEwjssqXq9pmYAxVxBEQIHR0rA0QQkbEKegQIGxAF",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=pe&google_domain=google.com&hl=es&location=Peru&q=customer+success+en+el+%C3%BAltimo+mes&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXA6OquyTQEVRk7Im6xeHdbdEctudni_di9qoQIZZu-9i0e3o1l6jg2IpJaqr_vRiymOH-7QqUIzvsXpn6RgVkWlNgNEmPLOTnyXScAPfB3_2N5wj8f7GzmoDzmzflrX6cm38SSsSUiJa1JQf86bNUYedTaB45UOrLqUz4v2F2jLoZ07A60P_D2q8Hz4YX-Mz1R4b74ylI84e__Y_UEzVQzjFUcNEkZwORqRbX42GOD6C4zEQq8Zg3TdCwGYOvrZYlB3M8xBWnR213BhNdkX-VnjYzOMkgf9wjEvbyUpa80J8znrEX5SDcw1w1GNbkBf4nSpZRHQxpFtOkfPbqNgskYHv0L215gAj6a785wKxZpprmRurUdlyBHa9KvVGhTJvutpMadw"
+        }
+      ]
+    }
+  ],
+  "jobs_results": [
+    {
+      "title": "Customer Success Specialist – Healthcare SaaS",
+      "company_name": "StratifyIQ",
+      "location": "Lima",
+      "via": "Indeed",
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=customer+success&htidocid=p52o_yTWRSDXKgSgAAAAAA%3D%3D&hl=es-PE&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_xXMMQ6CQBBA0dhSWlpNbcEaExssLdTEmJg9ABmWETC7zMoMCXbewRN4DVtv4kmE5nf_Je9Zct71ohyoA9s7RyJgI7kGfSMKv-cLDoRea4cdgUW0GRTfj9x7KhFKAgrREwO1sGeuPC22tWqUzBgRn1aiqI1LHQfDLRU8mBsXMiWXeiSjR6V8vVkNaWyr5dxqNw7Xx_Eykacm4B_Vi_TPpAAAAA&shmds=v1_Ac3VAow1f8VmnGQKAEO0qkgaLTl0W9XfEqFOHCwuUviSIWn-iw&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=customer+success&htidocid=p52o_yTWRSDXKgSgAAAAAA%3D%3D",
+      "extensions": [
+        "hace 22 horas",
+        "Tiempo completo"
+      ],
+      "detected_extensions": {
+        "posted_at": "hace 22 horas",
+        "schedule_type": "Tiempo completo"
+      },
+      "source_link": "https://pe.indeed.com/viewjob?jk=50fb394cf0a4a159",
+      "job_title": "Customer Success Specialist – Healthcare SaaS",
+      "description": "About the Role\n\n\n StratifyIQ is seeking an experienced Customer Success Specialist to manage a portfolio of B2B healthcare technology customers who rely on a mission-critical SaaS platform. In this role, you will serve as the primary point of contact for approximately 10–15 customer accounts after implementation, ensuring each client achieves long-term value from the platform. This is a hands-on position focused on customer satisfaction, proactive account management, retention, and the continued strengthening of client relationships.\n\n\n Key Responsibilities\n\n\n \n  Manage a portfolio of 10–15 B2B accounts, building strong, long-term client relationships.\n  Drive customer retention, renewals, and overall account health.\n  Proactively identify customer risks, address concerns, and prevent churn.\n  Monitor customer engagement and platform adoption to ensure clients are achieving their goals.\n  Handle escalations and coordinate with Support, Operations, Implementation, and Product teams to resolve issues.\n  Conduct regular client meetings, business reviews, and follow-ups.\n  Gather customer feedback and collaborate with internal teams to improve the product and the customer experience.\n  Identify opportunities for account growth, upselling, and cross-selling when appropriate.\n \n Requirements\n\n\n \n  Proven experience in Customer Success, Account Management, or Client Relationship Management within a B2B environment.\n  Demonstrated experience managing multiple client accounts, ideally a portfolio of 10–15 accounts.\n  Strong background in customer retention, renewals, churn prevention, and account health management.\n  Experience working with SaaS platforms or technology solutions; healthcare technology experience is a plus.\n  Excellent communication, relationship-building, problem-solving, and organizational skills.\n  Ability to manage escalations, prioritize competing needs, and work cross-functionally.\n  Proactive, customer-focused mindset with strong ownership and accountability.\n  Advanced English communication skills.\n \n The Ideal Candidate\n\n\n You are a proactive, relationship-driven professional who understands that customer success goes beyond answering questions. You are comfortable anticipating the needs of your B2B clients, resolving challenges before they escalate, and ensuring long-term satisfaction and retention. You take ownership of your accounts, collaborate effectively with colleagues across teams, and are motivated by helping customers succeed with technology that supports critical healthcare operations.\n\n\n Why Join Us?\n\n\n \n  Work with a mission-critical platform that healthcare organizations depend on every day.\n  Take ownership of a defined client portfolio and see the direct impact of your efforts on customer outcomes.\n  Collaborate closely with Support, Operations, Implementation, and Product teams.\n  Contribute to product and customer experience improvements by sharing direct customer feedback.\n  Be part of a growing, technology-driven team where your ideas and initiative are valued.",
+      "apply_options": [
+        {
+          "title": "Indeed",
+          "link": "https://pe.indeed.com/viewjob?jk=50fb394cf0a4a159&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJDdXN0b21lciBTdWNjZXNzIFNwZWNpYWxpc3Qg4oCTIEhlYWx0aGNhcmUgU2FhUyIsImNvbXBhbnlfbmFtZSI6IlN0cmF0aWZ5SVEiLCJodGlkb2NpZCI6InA1Mm9feVRXUlNEWEtnU2dBQUFBQUE9PSIsInV1bGUiOiJ3K0NBSVFJQ0lFVUdWeWRRIiwiZ2wiOiJwZSIsImhsIjoiZXMiLCJmYyI6IkVzd0JDb3dCUVVSRVlsZGxXVXQ1ZHpoUmRYVkdURWR5TTBkWVNHeHVhRVZaU1RaaVZEZFdUSGRoZGtwc1pFWmthUzFzTTI0NVZ6RkxaWFZKWkUxUlZVTkdZMEZPVGtseFNsQlBXWGhpTjJKSGJHMVdiblZxTUhnM1VIaFNjbWhwZEZneVlsUkJZV2RRVGpWdFR6Tk9MV05MVEhSUk5WaEVZWEJKZVhRd2FFWmphMXB1ZWtzeWRIUlRaR1ZKZGxoVmNWa1NGM0pCU1VOaExYbHpSV1pIU1d0UVNWQnVaR0ZOYjBGUkdpSkJTRTR3UlRkRk1YUkxPVkpLWTBseFVYZExkelUyUjBKMVEyd3RTV0ZrZWtobiIsImZjdiI6IjMiLCJmY19pZCI6InA1Mm9feVRXUlNEWEtnU2dBQUFBQUE9PSJ9"
+    },
+    {
+      "title": "Customer Success Specialist – Healthcare SaaS",
+      "company_name": "StratifyIQ",
+      "location": "Arequipa",
+      "via": "Indeed",
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=customer+success&htidocid=71mtJSZND_s5HufgAAAAAA%3D%3D&hl=es-PE&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_xXMsQ3CMBBAUdFmAAqqqylihEQTKkQBNEjIA0QX50iMnNjxnaXQsQMzsAQtmzAJpPndf9lrlp33icV3FEEnY4gZdCBj0VkW-D6ecCR00hqMBBpRF1B93jwkqhFqAuqCIw_Uw8H7xtFi24oELpRidnnDgmJNbnynfE-VH9XNVzyl5PZPBodC5XqzGvPQN8u5lvgfrvfTZSJ3kYZkA_4APySZkKgAAAA&shmds=v1_Ac3VAoyjn0h-6PKuVXKFrPqoxAFXVSwvQOY9c_25OO71mIlvIQ&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=customer+success&htidocid=71mtJSZND_s5HufgAAAAAA%3D%3D",
+      "extensions": [
+        "hace 22 horas",
+        "Tiempo completo"
+      ],
+      "detected_extensions": {
+        "posted_at": "hace 22 horas",
+        "schedule_type": "Tiempo completo"
+      },
+      "source_link": "https://pe.indeed.com/viewjob?jk=2fa7a580b1b2c573",
+      "job_title": "Customer Success Specialist – Healthcare SaaS",
+      "description": "About the Role\n\n\n StratifyIQ is seeking an experienced Customer Success Specialist to manage a portfolio of B2B healthcare technology customers who rely on a mission-critical SaaS platform. In this role, you will serve as the primary point of contact for approximately 10–15 customer accounts after implementation, ensuring each client achieves long-term value from the platform. This is a hands-on position focused on customer satisfaction, proactive account management, retention, and the continued strengthening of client relationships.\n\n\n Key Responsibilities\n\n\n \n  Manage a portfolio of 10–15 B2B accounts, building strong, long-term client relationships.\n  Drive customer retention, renewals, and overall account health.\n  Proactively identify customer risks, address concerns, and prevent churn.\n  Monitor customer engagement and platform adoption to ensure clients are achieving their goals.\n  Handle escalations and coordinate with Support, Operations, Implementation, and Product teams to resolve issues.\n  Conduct regular client meetings, business reviews, and follow-ups.\n  Gather customer feedback and collaborate with internal teams to improve the product and the customer experience.\n  Identify opportunities for account growth, upselling, and cross-selling when appropriate.\n \n Requirements\n\n\n \n  Proven experience in Customer Success, Account Management, or Client Relationship Management within a B2B environment.\n  Demonstrated experience managing multiple client accounts, ideally a portfolio of 10–15 accounts.\n  Strong background in customer retention, renewals, churn prevention, and account health management.\n  Experience working with SaaS platforms or technology solutions; healthcare technology experience is a plus.\n  Excellent communication, relationship-building, problem-solving, and organizational skills.\n  Ability to manage escalations, prioritize competing needs, and work cross-functionally.\n  Proactive, customer-focused mindset with strong ownership and accountability.\n  Advanced English communication skills.\n \n The Ideal Candidate\n\n\n You are a proactive, relationship-driven professional who understands that customer success goes beyond answering questions. You are comfortable anticipating the needs of your B2B clients, resolving challenges before they escalate, and ensuring long-term satisfaction and retention. You take ownership of your accounts, collaborate effectively with colleagues across teams, and are motivated by helping customers succeed with technology that supports critical healthcare operations.\n\n\n Why Join Us?\n\n\n \n  Work with a mission-critical platform that healthcare organizations depend on every day.\n  Take ownership of a defined client portfolio and see the direct impact of your efforts on customer outcomes.\n  Collaborate closely with Support, Operations, Implementation, and Product teams.\n  Contribute to product and customer experience improvements by sharing direct customer feedback.\n  Be part of a growing, technology-driven team where your ideas and initiative are valued.",
+      "apply_options": [
+        {
+          "title": "Indeed",
+          "link": "https://pe.indeed.com/viewjob?jk=2fa7a580b1b2c573&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJDdXN0b21lciBTdWNjZXNzIFNwZWNpYWxpc3Qg4oCTIEhlYWx0aGNhcmUgU2FhUyIsImNvbXBhbnlfbmFtZSI6IlN0cmF0aWZ5SVEiLCJodGlkb2NpZCI6IjcxbXRKU1pORF9zNUh1ZmdBQUFBQUE9PSIsInV1bGUiOiJ3K0NBSVFJQ0lFVUdWeWRRIiwiZ2wiOiJwZSIsImhsIjoiZXMiLCJmYyI6IkVzd0JDb3dCUVVSRVlsZGxXV1l6YVd4WmJYQnZhRmRWVFdGNGF5MTRlRkZJWTJOM2RsOVRNVWh5YlhnNFZEWlNObXRSUzNSclRGQnJaWE5xTjBrdFEwZGpVVlJMTFV4M2VGbHhZM0puTVdOR1MwVnlWMWhHWmtGWFMwMVVWSGRYVEVzd2IwVXRWVlZTTTBaME5tSnJUMEp2ZVRKQ2EyVTNUbmxMV0hrd2FYQlhRVmt0TkhSV1JsQjZPVzFEV0RSVWF6UVNGM0pCU1VOaExYbHpSV1pIU1d0UVNWQnVaR0ZOYjBGUkdpSkJTRTR3UlRkSE1WcDFUamd4UW5GNFEwaFRSM1JUVmpSSU9ERk1NaTFHT1c5QiIsImZjdiI6IjMiLCJmY19pZCI6IjcxbXRKU1pORF9zNUh1ZmdBQUFBQUE9PSJ9"
+    },
+    {
+      "title": "Sales & Customer Success Sr Manager",
+      "company_name": "Sigma",
+      "location": "Lima",
+      "via": "LinkedIn",
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=customer+success&htidocid=WYtgrOrAri4YVvhKAAAAAA%3D%3D&hl=es-PE&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_xXMIQ7CMBQA0GCXcAHUVwhES0gww4HAgOoBlr_upytp-0t_m-wYnAfLxcjMk6_7bLqrwUACe7g1qRypgGnWkgiYAk9M6Kj0MP6-8m40IUwEFHMgBkpwZ3aBdpe51iy91iJBOalYvVWWo-ZEIy_6xaOsDDJjoRyw0nA6HxeVkztsjXcR1-3hI_4BTscEl5MAAAA&shmds=v1_Ac3VAoz9szTmeOCIT9H5pwzRWBvEIQ5PRP9ZXRWlMLsY3aLRFw&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=customer+success&htidocid=WYtgrOrAri4YVvhKAAAAAA%3D%3D",
+      "thumbnail": "https://serpapi.com/searches/6b0202a9a208021412927a42/images/K_jCIHEsGVsF2gKA6jHDSBOzyEOZnQXN7PHJ6RUxz_I.jpg",
+      "extensions": [
+        "hace 5 días",
+        "Tiempo completo"
+      ],
+      "detected_extensions": {
+        "posted_at": "hace 5 días",
+        "schedule_type": "Tiempo completo"
+      },
+      "source_link": "https://pe.linkedin.com/jobs/view/sales-customer-success-sr-manager-at-sigma-4490173759",
+      "job_title": "Sales & Customer Success Sr Manager",
+      "description": "The Opportunity\n\n\n\n\nWe're hiring a Sales & Customer Success Sr Manager to own the full member lifecycle, from first inquiry to long-term renewal. You will lead a combined team of inside sales and service reps, run our CRM and sales process, and hold the team accountable to clear performance standards.\n\n\n\n\nThis is a builder role for a data-driven leader. You will recruit, coach, and set the operating rhythm, not just manage the existing one. Success means more members joining, more members staying, and a team that executes a consistent process every day.\n\n\n\n\nKey Responsibilities\n\nLead, manage, and develop a team of ~10–12 inside sales and customer service reps.Run weekly 1:1s, team meetings, and pipeline reviews; give direct, frequent feedback.Coach through call reviews, role-plays, and live deal support; step in to help close key memberships.Spot performance issues early and address them with clear plans, expectations, and follow-through.Spend meaningful time sourcing, interviewing, and hiring strong reps.Build onboarding and ramp plans so new reps reach productivity quickly.Keep a bench of future candidates; staffing is what makes the number possible.Own the CRM: pipeline stages, data hygiene, workflows, automations, and reporting.Document and enforce the sales and customer success process, from lead response through renewal.Review dashboards and a weekly scorecard for activity, conversion, revenue, and retention.Create scripts, playbooks, objection-handling guides, and training materials.Drive new membership sales to monthly and quarterly targets.Maximize revenue per lead: speed-to-lead, follow-up cadences, consult conversion, and segmentation.Partner with Marketing on lead quality, campaigns, and funnel performance.Own onboarding, engagement, and renewal outcomes for active members.Track churn risk and lead save and win-back efforts.Ensure every member interaction reflects a high-touch, white-glove standard.Turn member feedback into improvements with clinical and operations leaders.Work with physicians, clinical staff, and Marketing for smooth handoffs.Report results and insights to leadership; recommend where to invest next.Keep sales and service practices compliant with HIPAA and healthcare marketing rules.\n\nWho You Are\n\nHigh intelligence. You learn fast, think in systems, and use data to find the real problem.Emotional intelligence. You read people well, coach with empathy, and handle hard conversations directly.Drive and ambition. You want to win, set high bars, and are energized by building something.Integrity and accountability. You do what you say, own results, and sell memberships members truly benefit from.Attitude and adaptability. You stay positive under pressure and adjust quickly as the business grows.\n\nIdeal Candidate Profile\n\n5+ years in inside sales, membership sales, or customer success, with 3+ years managing a team of 8 or more.Proven record of hitting acquisition and retention targets; you can name your numbers.Experience building teams: recruiting, onboarding, and developing reps into top performers.Hands-on CRM ownership (HubSpot, Salesforce, GoHighLevel, or similar), including pipeline design, automation, and reporting.Strongly data-driven; comfortable building dashboards and running reviews from metrics.Experience leading both sales and service or success reps, and understanding the full customer lifecycle.Clear, confident communicator with members, reps, and leadership.Preferred: membership, subscription, concierge medicine, wellness, med-spa, or other high-touch healthcare sales.Preferred: familiarity with HIPAA and compliant healthcare marketing practices.Bachelor's degree or equivalent experience.\n\nCompensation & Benefits\n\nCompetitive base salary commensurate with experience.Performance bonus tied to new membership revenue, retention, and team goals.Health, dental, and vision benefits.PTO and schedule flexibility.Professional development allowance.",
+      "apply_options": [
+        {
+          "title": "LinkedIn",
+          "link": "https://pe.linkedin.com/jobs/view/sales-customer-success-sr-manager-at-sigma-4490173759?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Jooble",
+          "link": "https://pe.jooble.org/jdp/1057672661735834501?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "BeBee",
+          "link": "https://bebee.com/pe/jobs/sales-customer-success-sr-manager-sigma-lima--techmap_pe_4490173759?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJTYWxlcyBcdTAwMjYgQ3VzdG9tZXIgU3VjY2VzcyBTciBNYW5hZ2VyIiwiY29tcGFueV9uYW1lIjoiU2lnbWEiLCJodGlkb2NpZCI6IldZdGdyT3JBcmk0WVZ2aEtBQUFBQUE9PSIsInV1bGUiOiJ3K0NBSVFJQ0lFVUdWeWRRIiwiZ2wiOiJwZSIsImhsIjoiZXMiLCJmYyI6IkVzd0JDb3dCUVVSRVlsZGxZbE5VYVZaTU4ycHBjM3BaVHpWaFNIZDJXbXBtT1RGek5FRk1ia05DVUU5MGFtVm9PVlY0WVd4cFVrUmxVRmRPTlhoTFgyRkVORUZZV1ZBNFJWcEtjVFZPZFZaWmVIRXdiMnhmVEVodlVYUm1RbU5XU0dsMVZWQndaMjlWVlU5aWJYQnBjamt4T0ZOQ1oxOVpZMG94UTNKeVUxTklTRUZMYWt0ZlJrUkdSVWxhVkMwd1lWOFNGM0pCU1VOaExYbHpSV1pIU1d0UVNWQnVaR0ZOYjBGUkdpSkJTRTR3UlRkSGNFSXlUM2RCU0RsWE0zVm9ZVzFSUjBwV2FFRmZUa281VmpaMyIsImZjdiI6IjMiLCJmY19pZCI6IldZdGdyT3JBcmk0WVZ2aEtBQUFBQUE9PSJ9"
+    },
+    {
+      "title": "Customer Success Specialist | Remoto Latam",
+      "company_name": "Workana",
+      "location": "Iquitos",
+      "via": "Trabajo.org",
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=customer+success&htidocid=i3WZq1GUEZc6aNdGAAAAAA%3D%3D&hl=es-PE&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_xXMoQ7CMBAA0GAnkajTiJWQYIZEkCUoJpDLrbtshbbX7a7JBJ_Cl2D5MTLz5Cs-m6K-ZFEONEOTrSURaBJZh96JwhvuFFgZbqgYKuh-X5ky9Qg9AYXkiYEiXJkHT7vzqJqkMkbEl4MoqrOl5WA4UseLeXInK62MOFPyqNQeT4elTHHYbx88vzDi-tVTdsryBzwgo3WfAAAA&shmds=v1_Ac3VAozp_UZog9vnDMTiSvoMDSkgPSNBsIDoqROUDm46W395VQ&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=customer+success&htidocid=i3WZq1GUEZc6aNdGAAAAAA%3D%3D",
+      "extensions": [
+        "hace 2 días",
+        "De EUR 94 K a EUR 165 K por año",
+        "Tiempo completo"
+      ],
+      "detected_extensions": {
+        "posted_at": "hace 2 días",
+        "salary": "De EUR 94 K a EUR 165 K por año",
+        "schedule_type": "Tiempo completo"
+      },
+      "source_link": "https://pe.trabajo.org/oferta-3134-58e317205be8e903cb30e9ed81fdb635",
+      "job_title": "Customer Success Specialist | Remoto Latam",
+      "description": "Customer Success Specialist | Remoto LATAM\n\nUbicación: LATAM, preferentemente Argentina o Perú\n\nModalidad: Freelance, 100% remoto\n\nDedicación: Full-time, de lunes a viernes\n\nSobre la oportunidad\n\nBuscamos un/a Customer Success Specialist para sumarse a una startup tecnológica que ayuda a restaurantes a aumentar sus ventas mediante pedidos desde la mesa, tiendas online, programas de fidelización y kioscos de autoservicio, integrados con sus sistemas de punto de venta (POS).\n\nFormarás parte de un equipo pequeño y en crecimiento, acompañando a los clientes desde la implementación de la plataforma hasta su uso cotidiano y la incorporación de nuevas soluciones.\n\nResponsabilidades\n\nGestionar una cartera propia de restaurantes y acompañarlos durante toda su relación con la plataforma.Coordinar el onboarding: configurar menús y mesas, acompañar la puesta en marcha y asegurar el procesamiento del primer pedido.Capacitar a los clientes para que aprovechen las funcionalidades disponibles.Resolver consultas, gestionar reclamos con empatía y dar seguimiento a las incidencias hasta su resolución.Mantener contacto proactivo con los clientes para identificar necesidades y mejorar su experiencia.Detectar oportunidades para incorporar productos adicionales que aporten valor a cada restaurante.Mantener organizados los pendientes de cada cuenta y proponer mejoras en los procesos de atención.Requisitos\n\nAl menos 3 años de experiencia en Customer Success, atención al cliente, soporte, call center o roles de atención en gastronomía y hotelería.Español nativo y buenas habilidades de comunicación oral y escrita.Capacidad para mantener la calma ante situaciones difíciles y gestionar reclamos con paciencia y criterio.Organización, atención al detalle y capacidad para gestionar varias cuentas y tareas.Proactividad, motivación y disposición para involucrarse en el día a día de una startup.Interés por la industria gastronómica y por una colaboración a largo plazo.Computadora propia y conexión a internet estable.Disponibilidad para trabajar de lunes a viernes, de 13:00 a 22:00, hora de España peninsular, con una hora de pausa.Se valorará la experiencia en restaurantes y el conocimiento de sistemas POS como Glop, Revo o Ágora.\n\nNo se requiere inglés, una titulación específica ni conocimientos de programación.\n\nQué ofrecemos\n\nUna colaboración freelance, 100% remota y con perspectiva de continuidad.Formación desde el primer día y acompañamiento del equipo de Customer Success.Un plan de desarrollo profesional y revisión de condiciones a los 6 meses.La oportunidad de participar en el crecimiento del área de Customer Success.Un equipo cercano, distribuido entre España y LATAM, con espacio para proponer e implementar mejoras.Si te gusta ayudar a clientes, resolver problemas y ver el impacto de tu trabajo en sus negocios, queremos conocerte",
+      "apply_options": [
+        {
+          "title": "Trabajo.org",
+          "link": "https://pe.trabajo.org/oferta-3134-58e317205be8e903cb30e9ed81fdb635?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJDdXN0b21lciBTdWNjZXNzIFNwZWNpYWxpc3QgfCBSZW1vdG8gTGF0YW0iLCJjb21wYW55X25hbWUiOiJXb3JrYW5hIiwiaHRpZG9jaWQiOiJpM1dacTFHVUVaYzZhTmRHQUFBQUFBPT0iLCJ1dWxlIjoidytDQUlRSUNJRVVHVnlkUSIsImdsIjoicGUiLCJobCI6ImVzIiwiZmMiOiJFc3dCQ293QlFVUkVZbGRsV2pnemIzVmthblpoVVMxaVJXczNkazlZU2xvNGRVMDJOSFZaVDBoTWRXaG9ObWx4YlZGVVFrWlJXRlkzVURneWFGOVZkbXhHWkd0RlpEbG1lblYxUVc1VlNraDRXalIxYXpKMVQyWnlabTlIYTBsU016UlJWRk5PYjFocVZHNUtiMFpHT0VkSE5WRktjMk5UZVVZNFkwRTBSMGhyWmtWQmMzbDVjVTFLU200NVpGcDFRVklTRjNKQlNVTmhMWGx6UldaSFNXdFFTVkJ1WkdGTmIwRlJHaUpCU0U0d1JUZEhObGRQYlhWRWJsOWtUbEEzV25OM1NGcG5kblV6Tkc5M2MwdG4iLCJmY3YiOiIzIiwiZmNfaWQiOiJpM1dacTFHVUVaYzZhTmRHQUFBQUFBPT0ifQ=="
+    },
+    {
+      "title": "Customer Success Agent",
+      "company_name": "Starters Lab Ltd",
+      "location": "Gobierno Regional de Lima",
+      "via": "JobLeads",
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=customer+success&htidocid=sR2EHegkUrms9H81AAAAAA%3D%3D&hl=es-PE&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_yXNMQ7CMAxAUbH2CEyekWgQUpcyIQaWTvQAlZNaaVAah9iVeh9uwcrFUMXyx_er965qbosoz1SgX5wjEbh6StqC_X7ktdCIMBLQnCMxUII7s4-0v0yqWVpjRGLtRVGDqx3PhhNZXs2TrWwZZMJCOaLScG5Oa52TPxx7xaJUBDq00On4h22gkhge5AMnjNu3CzP-AIq6UiKmAAAA&shmds=v1_Ac3VAoyaEUyust1mkpKXARR9YZRn1a2774hTwz3lOXEKcGfYhw&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=customer+success&htidocid=sR2EHegkUrms9H81AAAAAA%3D%3D",
+      "extensions": [
+        "hace 6 días",
+        "De S/ 61 K a S/ 102 K por año",
+        "Tiempo completo"
+      ],
+      "detected_extensions": {
+        "posted_at": "hace 6 días",
+        "salary": "De S/ 61 K a S/ 102 K por año",
+        "schedule_type": "Tiempo completo"
+      },
+      "source_link": "https://www.jobleads.com/pe/job/customer-success-agent--san-isidro--ee7332f803b540462dabf0e5b293b7546",
+      "job_title": "Customer Success Agent",
+      "description": "About the role We are looking for a proactive, detail-oriented Customer Success Agent to join our Customer Success team and provide real-time support to our B2B partners across our platform and the jurisdictions they operate in. You will be a key point of contact for operational and technical issues, working across CMS, CRM, back offices and ticketing tools, and coordinating with Tech, Product, Operations, Casino and CRM to resolve partner issues quickly. Fluency in English and Spanish is essential; Italian and Portuguese are an advantage. \n\n What you'll do Client escalations and platform support  Be the first point of contact for client escalations and resolve on the spot the cases that need no tech input Assist clients with platform issues such as lobby malfunctions, games failing to load or interrupted rounds Manage ad-hoc internal and client requests as they arise  Payments and transactions  Monitor and investigate transactions: failed deposits, delayed withdrawals, cashier errors Escalate and follow up on requests for new PSPs, game integrations or additional providers  Sportsbook, bonuses and promotions  Support clients in setting up, tracking and troubleshooting bonuses, promotions and sportsbook campaigns Review, investigate and elevate incorrect or missing bet settlements  Monitoring, reporting and collaboration  Monitor transactional, gameplay, login and performance reports across multiple back-office systems Turn reporting into clear, actionable insights for internal teams and partners Act as the liaison between internal teams and external partners so requests are resolved on time  Training and onboarding  Week 1: product, tools (back office, Jira) and iGaming basics, with shadowing on live shifts Week 2: real tickets reviewed with your manager; escalation paths to Tech Week 3: payments, bonuses and sportsbook settlements Week 4: autonomous shifts and reporting; final review at the end of week 4  Shifts 24/7 coverage (Lima time) is provided by the team as a whole, across three shifts: 08:00–16:00, 16:00–24:00 and00:00–08:00. Each team member works assigned shifts on a rotating pattern that includes evenings, nights, weekendsand public holidays. Schedules are shared in advance. \n\n What we're looking for  Ideally 1–2 years in a support role (iGaming a plus); we train on the rest Familiarity with CRM, CMS, ticketing tools (e.g. Jira) and back-office systems Experience troubleshooting technical issues and analysing transactional data Strong communication and problem-solving skills; able to prioritize under pressure Fluent English and Spanish (required); Italian and Portuguese are a plus Basic understanding of online casino and sportsbook operations is an advantage Happy to work rotating shifts outside normal business hours  What we offer  Employed by our Peruvian entity, standard employment contract with a 3-month probation period Structured training with a dedicated manager Growth in a fast-moving iGaming team",
+      "apply_options": [
+        {
+          "title": "JobLeads",
+          "link": "https://www.jobleads.com/pe/job/customer-success-agent--san-isidro--ee7332f803b540462dabf0e5b293b7546?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJDdXN0b21lciBTdWNjZXNzIEFnZW50IiwiY29tcGFueV9uYW1lIjoiU3RhcnRlcnMgTGFiIEx0ZCIsImh0aWRvY2lkIjoic1IyRUhlZ2tVcm1zOUg4MUFBQUFBQT09IiwidXVsZSI6IncrQ0FJUUlDSUVVR1Z5ZFEiLCJnbCI6InBlIiwiaGwiOiJlcyIsImZjIjoiRXN3QkNvd0JRVVJFWWxkbFlYZHRiWEExYmxKTlkySnpPV1ptVGxGSmVtSmpNMnRpYzI4d2MyNUxXV3RCT0UxelFVZGxjMHB2VW5CQmRWWk9Na05tYWxCWlJHNWpkV2R4TW1KTFIzUk5VM0kwYVhac1V6WlJNMmxTY1VSRFZUTk5aMlZMTld0WmRYRlJjWFU0WjFaMlVtMVRZek5JVEc1RWJWSTRlREoyYjNFM1FYTk9OMDVMY1VsUFRqQklNR2xIZFRrU0YzSkJTVU5oTFhselJXWkhTV3RRU1ZCdVpHRk5iMEZSR2lKQlNFNHdSVGRHZDJjNGF6aHBYekI2ZEhBME9HNW5hbmRRWDJzeFNqUnpTV3RSIiwiZmN2IjoiMyIsImZjX2lkIjoic1IyRUhlZ2tVcm1zOUg4MUFBQUFBQT09In0="
+    },
+    {
+      "title": "Customer Success Manager (Perú)",
+      "company_name": "Jelou AI",
+      "location": "Lima",
+      "via": "LinkedIn",
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=customer+success&htidocid=FvzYjx3jRKkWfHhDAAAAAA%3D%3D&hl=es-PE&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_xXMsQrCMBCAYVw7OTvdqA6NCC51KOIgioLgA5RreqSVJBd7CfQxfJ6ufTHt8sO3_Nl3kZXnJJEd9fBKWpMIPNCj-Xv9pH4aNwXU0yifRA1CQ0AuWGIgDxdmY2l1bGMMUiglYnMjEWOnc81OsaeaB_XmWuZU0mJPwWKkan_YDXnwZru8keUEp-s8vHcOf-eite-TAAAA&shmds=v1_Ac3VAoyYPrQ9aAZ-RMZ-Z6Co--rBWNiYioffj_ngGL4CObExJg&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=customer+success&htidocid=FvzYjx3jRKkWfHhDAAAAAA%3D%3D",
+      "thumbnail": "https://serpapi.com/searches/6b0202a9a208021412927a42/images/YTwaZLh4NgUurPSBca4YumWwDuO8S8g0HMedu8GLsD0.jpg",
+      "extensions": [
+        "hace 13 días",
+        "Tiempo completo"
+      ],
+      "detected_extensions": {
+        "posted_at": "hace 13 días",
+        "schedule_type": "Tiempo completo"
+      },
+      "source_link": "https://pe.linkedin.com/jobs/view/customer-success-manager-per%C3%BA-at-jelou-ai-4487687124",
+      "job_title": "Customer Success Manager (Perú)",
+      "description": "Misión del rol\n\n\n\n\nEres el dueño único de la relación con el cliente después del cierre comercial: respondes por que la cuenta obtenga valor medible de la plataforma, por su retención y por el crecimiento de su revenue. Orquestas el ciclo completo — handoff, implementación, go-live, estabilización y expansión — sin autoridad formal sobre Deployment, Producto o Soporte, consiguiendo que entreguen a través de relación e influencia, no de jerarquía.\n\n\n\n\nEn este rol vas a trabajar en:\n\n\n\n\n1. Handoff y Arranque de Cuenta\n\n\nRecibir el handoff formal del Sales Owner en una sesión dedicada: qué se vendió, qué se prometió, quién decide, quién usa, quién paga y qué espera el cliente\n\n\nValidar que el modelo de cobro quedó explícito, incluido qué se factura por consumo y a qué tarifa\n\n\nRecibir y cuestionar el Statement of Work, levantando lo que falte antes de arrancar\n\n\nMapear a los stakeholders del cliente (contraparte técnica, funcional y decisora) y registrar la cuenta en HubSpot desde el día uno\n\n\nConducir la sesión consultiva que levanta el alcance funcional del SOW, defenderlo ante el cliente y cerrar su firma\n\n\n2. Ejecución y Orquestación del Proyecto\n\n\nLiderar el weekly de avance con el cliente y mantener vivo el plan: dependencias, responsables, fechas y riesgos\n\n\nHacer push sobre el cliente para destrabar lo que impide avanzar (aprobaciones internas, accesos, documentación pendiente)\n\n\nEscalar internamente a tiempo lo que no avanza, con contexto y con una propuesta, no solo con el problema\n\n\nLevantar los controles de cambio, dimensionarlos con Deployment y cotizarlos antes de que se ejecuten\n\n\nRegistrar la gestión en ClickUp, con trazabilidad de bloqueos y de su causa\n\n\n3. Go-Live, Estabilización y Adopción\n\n\nAcompañar el día del lanzamiento, recorrer el checklist de salida con Deployment y cerrar el acta de entrega\n\n\nDar la capacitación de entrega al cliente: uso de la plataforma, módulos y lectura de métricas\n\n\nMonitorear el consumo y la salud de los agentes (activos contra dormidos, volumen, casos de uso en producción contra los contratados) y mantener el health score actualizado\n\n\nRevisar conversaciones reales para detectar dónde el flujo no responde, y cerrar brechas de adopción (módulos sin usar, usuarios sin capacitar)\n\n\n4. Desarrollo de Cuenta y Renovación\n\n\nCrecer lo ya vendido (volumen, nuevos casos de uso, canales, unidades de negocio) y vender lo que el cliente no tiene, con discovery y estimación junto a Deployment\n\n\nAnalizar la cuenta desde la data para encontrar la oportunidad antes de que el cliente la pida\n\n\nConstruir el caso de negocio y registrar la oportunidad en HubSpot con origen y monto estimado\n\n\nEjecutar business reviews recurrentes y ser dueño del proceso de renovación de punta a punta\n\n\n5. Voz del Cliente\n\n\nAgregar y priorizar el feedback del cliente en solicitudes accionables de producto\n\n\nDocumentar patrones de éxito, playbooks y casos que eleven el nivel de todo el equipo\n\n\nColaborar con Marketing en customer stories y referencias\n\nEste rol es para ti si:\n\nTienes 3 o más años de experiencia en Customer Success, Account Management o roles client-facing en B2B SaaS o servicios tecnológicos\n\n\nTienes track record verificable manejando renovaciones, reduciendo churn y generando revenue de expansión sobre una cartera propia\n\n\nHas coordinado proyectos y equipos que no te reportan — planes, dependencias, fechas y riesgos — y puedes dar un ejemplo de haber detectado una desviación antes de que fuera evidente\n\n\nHas liderado sesiones de levantamiento de requerimientos con cliente y traducido lo que dice en un alcance documentado\n\n\nManejas un CRM y un gestor de proyectos (HubSpot y ClickUp o equivalentes)\n\n\nSabes leer y analizar datos de uso para construir un business review con información de varias fuentes\n\n\nEspañol nativo e inglés profesional escrito y hablado (portugués suma como plus adicional)\n\n\nPlus (deseable, no eliminatorio):\n\n\nExperiencia en IA conversacional, plataformas de chatbots o tecnología de contact center\n\n\nCuriosidad técnica: ha configurado integraciones, escrito llamadas básicas de API o trabajado de cerca con equipos de ingeniería\n\n\nFamiliaridad con el mercado enterprise de LATAM (servicios financieros, telecom, retail, salud)\n\n\nExperiencia con modelos de pricing por consumo\n\nQué buscamos en esta persona\n\nVisión de negocio: puede explicar cómo gana dinero un cliente típico y conectar ese modelo con un caso de uso concreto de la plataforma, sin que se lo pidan dos veces\n\n\nInfluencia sin autoridad: tiene un ejemplo verificable de haber conseguido que un equipo que no le reporta (Deployment, Producto, Ingeniería) entregara a tiempo, construyendo relación en vez de escalar\n\n\nOrganización bajo presión: sostiene varias cuentas y frentes simultáneos sin perder trazabilidad — documenta bloqueos, causas y siguientes pasos en la herramienta, no en su cabeza\n\n\nOwnership proactivo: detecta una señal de riesgo (health score, uso, sentiment) y actúa antes de que el cliente lo reclame o el problema escale, en vez de esperar instrucción\n\n\nPensamiento consultivo: cuestiona un requerimiento del cliente cuando hay una forma mejor de resolverlo, en vez de tomarlo al pie de la letra\n\nImpacto esperado\n\nGross Revenue Retention (GRR) de la cartera asignada — por encima de 90%\n\n\nTime-to-value en cuentas nuevas — menos de 30 días desde el arranque — por cuenta nueva\n\n\nCuentas en health score verde — 80% o más de la cartera \n\n\nNet Revenue Retention (NRR) de la cartera \n\n\nPipeline de expansión generado sobre la cartera \n\nConoce más sobre Jelou — The Intelligence you Trust\n\n\n\n\nJelou construye agentes de IA que ejecutan operaciones transaccionales en canales conversacionales. Al traer pagos, verificación de identidad, flujos de crédito y firmas electrónicas directamente a WhatsApp, habilitamos a bancos, fintechs, retailers y empresas en América Latina para ejecutar transacciones generadoras de ingresos sin salir del chat. De forma segura, local y a escala.\n\n\n\n\n\n¿Cuáles son nuestros valores? (no editable — texto oficial de marca)\n\n\nWe Challenge the Norm — Desafiamos lo establecido, somos disruptivos y no tenemos miedo de ser diferentes.\n\n\nEvolve or die — Somos resilientes, nos movemos con rapidez y adaptabilidad, con un norte claro.\n\n\nAct, own it, make it happen — Nos remangamos las mangas; no esperamos instrucciones para actuar.\n\n\nStay playful — we don't take ourselves too seriously — Nos reímos, nos ayudamos y celebramos juntos.\n\n\nRebels with a cause — Todo lo que hacemos busca eliminar la fricción del día a día de los que nos rodean.",
+      "apply_options": [
+        {
+          "title": "LinkedIn",
+          "link": "https://pe.linkedin.com/jobs/view/customer-success-manager-per%C3%BA-at-jelou-ai-4487687124?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "BeBee",
+          "link": "https://bebee.com/pe/jobs/customer-success-manager-kurmi-color-lima--ss-pe-1xxioor?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "JobLeads",
+          "link": "https://www.jobleads.com/pe/job/customer-success-manager--lima--eb8b5dfd2e3a3afb25156754af6bfed51?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Trabajo.org",
+          "link": "https://pe.trabajo.org/oferta-2272-948119e7a22f308b210b53289064286b?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Jooble",
+          "link": "https://pe.jooble.org/jdp/-3683238611201978788?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Dicker-Wirt.de",
+          "link": "https://dicker-wirt.de/?id=cqroldt&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Jobrapido.com",
+          "link": "https://pe.jobrapido.com/jobpreview/2632829453331333120?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Peru Jobs Expertini",
+          "link": "https://pe.expertini.com/job/customer-success-manager-lima-metropolitana-nodi-1227-1681217/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJDdXN0b21lciBTdWNjZXNzIE1hbmFnZXIgKFBlcsO6KSIsImNvbXBhbnlfbmFtZSI6IkplbG91IEFJIiwiaHRpZG9jaWQiOiJGdnpZangzalJLa1dmSGhEQUFBQUFBPT0iLCJ1dWxlIjoidytDQUlRSUNJRVVHVnlkUSIsImdsIjoicGUiLCJobCI6ImVzIiwiZmMiOiJFc3dCQ293QlFVUkVZbGRsWW5kclVFOXhlbU5XUkdnM1ltbHNjekZJUVRSWFNIWTJXbkpuWTAxNk1qRnJWMjVTWWpNd2RETmxURk5oU0ZkQlVtUlFTbFp2VTJ4TlZESldXVUkzVWxvMFZtOVJNV3BSWDFKU1JIUmFlVmxuVGsxMlUzRjVTR041TkZwUVFYUXdiekZXVHpSWlltZFJhRkpzVFhoUFZITTFZbkpXUkZCeVdsUkhjMUZKWTBwVFVEZElVRVFTRjNKQlNVTmhMWGx6UldaSFNXdFFTVkJ1WkdGTmIwRlJHaUpCU0U0d1JUZEhTVGhsVDJoU1JYWjRlSGRCZFc5a1NtaFVaMHhIT1hKbFZVeDMiLCJmY3YiOiIzIiwiZmNfaWQiOiJGdnpZangzalJLa1dmSGhEQUFBQUFBPT0ifQ=="
+    },
+    {
+      "title": "Customer Success Manager - San Isidro",
+      "company_name": "ADN SELECTION S.A.C.",
+      "location": "San Isidro",
+      "via": "Bumeran Perú",
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=customer+success&htidocid=Z0Dvs-XhgSfyVJHxAAAAAA%3D%3D&hl=es-PE&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_0WNvQ6CMBRG48ojON04mtgaExecCBBD4s-AOynlpmBKb-WWhDfyHVx9MWFy-XLOcr7ovYqydORAPQ5QjlojM1yVU2b2HZTKQcFdM1AM9ffDrxEbBQ0C9t4iATo4ExmL61MbgudYSmYrDAcVOi009ZIc1jTJJ9W8TMWtGtBbFbA6HPeT8M5sN0l2gzK_5OmjuM8kEpGKJf7__wHx7yKzqgAAAA&shmds=v1_Ac3VAowuCCqCS0cVbAAAS72IXvv1b--5IHVel7n4NWs8Zmlg7g&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=customer+success&htidocid=Z0Dvs-XhgSfyVJHxAAAAAA%3D%3D",
+      "thumbnail": "https://serpapi.com/searches/6b0202a9a208021412927a42/images/Lq_Iuaw9-_5tO9q2to4GTsTs0tpVou4VAzKVR8HczFc.jpg",
+      "extensions": [
+        "hace 27 días",
+        "Tiempo completo"
+      ],
+      "detected_extensions": {
+        "posted_at": "hace 27 días",
+        "schedule_type": "Tiempo completo"
+      },
+      "source_link": "https://www.bumeran.com.pe/empleos/customer-success-manager-san-isidro-adn-selection-s.a.c.-1118497514.html",
+      "job_title": "Customer Success Manager - San Isidro",
+      "description": "Objetivo del puesto\n\nNos encontramos en la búsqueda de un(a) Coordinador(a) de Customer Success, responsable de gestionar y desarrollar la cartera de clientes corporativos, asegurando una adecuada implementación, adopción y aprovechamiento de las soluciones tecnológicas, así como la satisfacción, retención y crecimiento de las cuentas asignadas.\n\nRequisitos\n\n Bachiller en Ingeniería Industrial, Ingeniería Comercial, Administración, Marketing, Comunicaciones, Negocios o carreras afines. Experiencia mínima de 3 años en Customer Success, Account Management, gestión de cuentas B2B, implementación de servicios o posiciones similares. Experiencia en gestión directa de clientes corporativos y seguimiento postventa. Experiencia participando en procesos de onboarding, implementación, configuración o puesta en marcha de plataformas o servicios. Facilidad para trabajar con plataformas tecnológicas y aprender nuevas herramientas digitales. Capacidad analítica para elaborar reportes, interpretar indicadores y proponer mejoras. Deseable experiencia en empresas de tecnología, SaaS, software empresarial, Customer Experience (CX) o servicios B2B. Deseable conocimiento de CRM, herramientas de Business Intelligence e indicadores de experiencia del cliente (NPS, CSAT, CES). Deseable experiencia en upselling, renovaciones y expansión de cuentas existentes.Funciones principales\n\n Gestionar y realizar seguimiento integral a la cartera de clientes corporativos, fortaleciendo las relaciones comerciales y asegurando una atención proactiva. Coordinar y acompañar la implementación de nuevos clientes y proyectos piloto, incluyendo la configuración de plataformas, capacitación de usuarios y puesta en marcha. Monitorear la adopción y el uso de las soluciones tecnológicas, identificando oportunidades de mejora y posibles riesgos de pérdida de clientes. Atender y realizar seguimiento a consultas, solicitudes e incidencias, coordinando con las áreas involucradas hasta su resolución. Analizar indicadores de gestión y elaborar reportes periódicos para evaluar resultados y proponer recomendaciones a los clientes. Identificar oportunidades de crecimiento dentro de la cartera actual, impulsando renovaciones, ampliación de servicios y upselling. Brindar soporte al equipo comercial en reuniones con prospectos, levantamiento de necesidades y definición de soluciones. Realizar seguimiento a renovaciones, facturación, cobranza y compromisos asociados a las cuentas asignadas. Supervisar y acompañar al equipo de Customer Success, promoviendo una gestión eficiente y orientada a resultados.Se ofrece\n\n Ingreso a planilla con todos los beneficios de ley. Sueldo fijo de acorde al mercado + variables. EPS cubierta al 100% en el plan base. Oportunidades de desarrollo y línea de carrera. Equipos y herramientas de trabajo asignados por la empresa.Modalidad: Presencial, en Lima.\n\nHorario: Lunes a jueves de 9:00 a. m. a 7:00 p. m. y viernes de 9:00 a. m. a 3:00 p. m.",
+      "apply_options": [
+        {
+          "title": "Bumeran Perú",
+          "link": "https://www.bumeran.com.pe/empleos/customer-success-manager-san-isidro-adn-selection-s.a.c.-1118497514.html?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJDdXN0b21lciBTdWNjZXNzIE1hbmFnZXIgLSBTYW4gSXNpZHJvIiwiY29tcGFueV9uYW1lIjoiQUROIFNFTEVDVElPTiBTLkEuQy4iLCJodGlkb2NpZCI6IlowRHZzLVhoZ1NmeVZKSHhBQUFBQUE9PSIsInV1bGUiOiJ3K0NBSVFJQ0lFVUdWeWRRIiwiZ2wiOiJwZSIsImhsIjoiZXMiLCJmYyI6IkVzd0JDb3dCUVVSRVlsZGxXVVJ5Y3paT2VrRjFOWEp1VFMxYVpGUTRhbTl6TlRBNGJuTjBSV3hvWHkxcFNsZzVjRGRqY2pCVGVTMWlUa2hZU1VzMmVIWldaVzlxWTBKMVJtNW9kVWgzY2tGblNrTlRaVjlEYVU1SldHSkhOVVF0VUd4cFRuTTFkRWhyTWxsUU5HZEpWVkJ3Vkc5YU56WmlWVlJXWlVkTlZubGtObVl5Y1ZsNWNHcHNTbFIyZVhwelEwZ1NGM0pCU1VOaExYbHpSV1pIU1d0UVNWQnVaR0ZOYjBGUkdpSkJTRTR3UlRkRmJHVlFUM2R6TmxwcWMxOUVWWFJUU1ZZdFIyMUZValZvT1VGUiIsImZjdiI6IjMiLCJmY19pZCI6IlowRHZzLVhoZ1NmeVZKSHhBQUFBQUE9PSJ9"
+    },
+    {
+      "title": "Customer Success Specialist | Remoto Latam (Ate)",
+      "company_name": "Workana",
+      "location": "Ate",
+      "via": "Jobrapido.com",
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=customer+success&htidocid=op9bj7O4s8qWO8XFAAAAAA%3D%3D&hl=es-PE&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_xXNIQ7CQBBA0WArOABqJCC6hARTFEFgSEioQDbT7aQt7O4sO9OkgrNwECwXg5ov38_es-xyHETZU4JysJZEoIxke3S9KLzgSp6V4YyKHpYHpVUB9fcjz4EahIaAfHTEQAFOzK2jxb5TjVIYI-LyVhS1t7llbzhQzaO5cy1TKukwUXSoVG13mzGPoV3Pb5weGHDy_rMfEWmZmqEAAAA&shmds=v1_Ac3VAoynra7C4ifxW4TFcDmq-_x88SGeFscOx_52HTxW8d-LBw&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=customer+success&htidocid=op9bj7O4s8qWO8XFAAAAAA%3D%3D",
+      "extensions": [
+        "hace 2 días",
+        "Tiempo completo"
+      ],
+      "detected_extensions": {
+        "posted_at": "hace 2 días",
+        "schedule_type": "Tiempo completo"
+      },
+      "source_link": "https://pe.jobrapido.com/jobpreview/6012900442483195904",
+      "job_title": "Customer Success Specialist | Remoto Latam (Ate)",
+      "description": "Remoto: Teletrabajo\n\nCustomer Success Specialist | Remoto LATAMUbicación: LATAM, preferentemente Argentina o PerúModalidad: Freelance, 100% remotoDedicación: Full-time, de lunes a viernesSobre la oportunidadBuscamos un/a Customer Success Specialist para sumarse a una startup tecnológica que ayuda a restaurantes a aumentar sus ventas mediante pedidos desde la mesa, tiendas online, programas de fidelización y kioscos de autoservicio, integrados con sus sistemas de punto de venta (POS).Formarás parte de un equipo pequeño y en crecimiento, acompañando a los clientes desde la implementación de la plataforma hasta su uso cotidiano y la incorporación de nuevas soluciones.Responsabilidades- Gestionar una cartera propia de restaurantes y acompañarlos durante toda su relación con la  Coordinar el onboarding: configurar menús y mesas, acompañar la puesta en marcha y asegurar el procesamiento del primer pedido.- Capacitar a los clientes para que aprovechen las funcionalidades disponibles.- Resolver consultas, gestionar reclamos con empatía y dar seguimiento a las incidencias hasta su resolución.- Mantener contacto proactivo con los clientes para identificar necesidades y mejorar su experiencia.- Detectar oportunidades para incorporar productos adicionales que aporten valor a cada restaurante.- Mantener organizados los pendientes de cada cuenta y proponer mejoras en los procesos de atención.Requisitos- Al menos 3 años de experiencia en Customer Success, atención al cliente, soporte, call center o roles de atención en gastronomía y hotelería.- Español nativo y buenas habilidades de comunicación oral y escrita.- Capacidad para mantener la calma ante situaciones difíciles y gestionar reclamos con paciencia y criterio.- Organización, atención al detalle y capacidad para gestionar varias cuentas y tareas.- Proactividad, motivación y disposición para involucrarse en el día a día de una startup.- Interés por la industria gastronómica y por una colaboración a largo plazo.- Computadora propia y conexión a internet estable.- Disponibilidad para trabajar de lunes a viernes, de 13:00 a 22:00, hora de España peninsular, con una hora de pausa.Se valorará la experiencia en restaurantes y el conocimiento de sistemas POS como Glop, Revo o Ágora.No se requiere inglés, una titulación específica ni conocimientos de programación.Qué ofrecemos- Una colaboración freelance, 100% remota y con perspectiva de continuidad.- Formación desde el primer día y acompañamiento del equipo de Customer Success.- Un plan de crecimiento profesional y revisión de condiciones a los 6 meses.- La ocasión de participar en el crecimiento del área de Customer Success.- Un equipo cercano, distribuido entre España y LATAM, con espacio para proponer e implementar mejoras.Si te gusta ayudar a clientes, resolver problemas y ver el impacto de tu trabajo en sus negocios, ¡queremos conocerte!#J-18808-Ljbffr",
+      "apply_options": [
+        {
+          "title": "Jobrapido.com",
+          "link": "https://pe.jobrapido.com/jobpreview/6012900442483195904?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJDdXN0b21lciBTdWNjZXNzIFNwZWNpYWxpc3QgfCBSZW1vdG8gTGF0YW0gKEF0ZSkiLCJjb21wYW55X25hbWUiOiJXb3JrYW5hIiwiaHRpZG9jaWQiOiJvcDliajdPNHM4cVdPOFhGQUFBQUFBPT0iLCJ1dWxlIjoidytDQUlRSUNJRVVHVnlkUSIsImdsIjoicGUiLCJobCI6ImVzIiwiZmMiOiJFc3dCQ293QlFVUkVZbGRsV1dKVFRqVmhOV1JvT0ZWTU5rWkRVRkY0WHpWR1QwcHBUVmgxUVdOQlRuaExOMmx5TVV4bGIyWnJhMWR4ZFdWbk4xSkNjVXB6YUhaVFRYcHdkV2d4TUc1Mk5VcHFUVXQ2U0U1Wk56VjNOV3haWW01Rk5XVXdjRWR2YVdGS2J6VTBjV2RoYTAxUWNGbFNhRmxTYWxReU1IQXRlVEppTkdKRVZHRTVOMEozZG5jNU0ya3RVRklTRjNKQlNVTmhMWGx6UldaSFNXdFFTVkJ1WkdGTmIwRlJHaUpCU0U0d1JUZEZhVTR5V1hVNVNXRnFSMVIwT0c5S1FWbFVVRFZTZEhSNFZEVjMiLCJmY3YiOiIzIiwiZmNfaWQiOiJvcDliajdPNHM4cVdPOFhGQUFBQUFBPT0ifQ=="
+    },
+    {
+      "title": "Customer Success Agent",
+      "company_name": "BetStarters",
+      "location": "Lima",
+      "via": "Trabajo.org",
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=customer+success&htidocid=IA4Iv-rHGMFWOjfhAAAAAA%3D%3D&hl=es-PE&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_xXMoQ7CMBAG4GBncajTiJWQzAwFCAxuD7B03Z9upO2V3i3ZK_BKWF6MzHzyqz67qrkvohxRqFucgwhdPZK2NPy-8l4wWhpBiDmACYkezD7gcJlUs7TGiITai1qdXe04Gk4YeDUvHmSjl8kW5GAV_bk5rXVO_ri_QTu1RVFkO59ztH_Q0P0ZjAAAAA&shmds=v1_Ac3VAowXJUjmjuQyaQeN2XFmdMIV8V2751r5Vc6DgBM0VdRC9g&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=customer+success&htidocid=IA4Iv-rHGMFWOjfhAAAAAA%3D%3D",
+      "thumbnail": "https://serpapi.com/searches/6b0202a9a208021412927a42/images/xmDxQxHVzJApRBzU9jGLocHvNyCCTxeF9AUwH7DrDuo.jpg",
+      "extensions": [
+        "hace 4 días",
+        "Tiempo completo"
+      ],
+      "detected_extensions": {
+        "posted_at": "hace 4 días",
+        "schedule_type": "Tiempo completo"
+      },
+      "source_link": "https://pe.trabajo.org/oferta-4112-7945ced6678528c020a7df711aac285c",
+      "job_title": "Customer Success Agent",
+      "description": "About the role\nWe are looking for a proactive, detail-oriented Customer Success Agent to join our Customer Success team and provide real-time support to our B2B partners across our platform and the jurisdictions they operate in. You will be a key point of contact for operational and technical issues, working across CMS, CRM, back offices and ticketing tools, and coordinating with Tech, Product, Operations, Casino and CRM to resolve partner issues quickly. Fluency in English and Spanish is essential; Italian and Portuguese are an advantage.\n\nWhat you'll do\n\nClient escalations and platform support\n\nBe the first point of contact for client escalations and resolve on the spot the cases that need no tech inputAssist clients with platform issues such as lobby malfunctions, games failing to load or interrupted roundsManage ad-hoc internal and client requests as they arisePayments and transactions\n\nMonitor and investigate transactions: failed deposits, delayed withdrawals, cashier errorsEscalate and follow up on requests for new PSPs, game integrations or additional providersSportsbook, bonuses and promotions\n\nSupport clients in setting up, tracking and troubleshooting bonuses, promotions and sportsbook campaignsReview, investigate and escalate incorrect or missing bet settlementsMonitoring, reporting and collaboration\n\nMonitor transactional, gameplay, login and performance reports across multiple back-office systemsTurn reporting into clear, actionable insights for internal teams and partnersAct as the liaison between internal teams and external partners so requests are resolved on timeTraining and onboarding\nYou will be trained by your direct manager through a structured programme:\n\nWeek 1: product, tools (back office, Jira) and iGaming basics, with shadowing on live shiftsWeek 2: real tickets reviewed with your manager; escalation paths to TechWeek 3: payments, bonuses and sportsbook settlementsWeek 4: autonomous shifts and reporting; final review at the end of week 4Shifts\n24/7 coverage (Lima time) is provided by the team as a whole, across three shifts: 08:00–16:00, 16:00–24:00 and 00:00–08:00. Each team member works assigned shifts on a rotating pattern that includes evenings, nights, weekends and public holidays. Schedules are shared in advance.\n\nWhat we're looking for\n\nIdeally 1–2 years in a support role (iGaming a plus); we train on the restFamiliarity with CRM, CMS, ticketing tools (e.g. Jira) and back-office systemsExperience troubleshooting technical issues and analysing transactional dataStrong communication and problem-solving skills; able to prioritise under pressureFluent English and Spanish (required); Italian and Portuguese are a plusBasic understanding of online casino and sportsbook operations is an advantageHappy to work rotating shifts outside normal business hoursWhat we offer\nEmployed by our Peruvian entity, standard employment contract with a 3-month probation period · Structured training with a dedicated manager · Growth in a fast-moving iGaming team\n\nHow to apply\n\nSend your CV and a short note on why you'd be a great fit.",
+      "apply_options": [
+        {
+          "title": "Trabajo.org",
+          "link": "https://pe.trabajo.org/oferta-4112-7945ced6678528c020a7df711aac285c?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "BeBee",
+          "link": "https://bebee.com/pe/jobs/customer-success-agent-betstarters-lima--fj-2472848338?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Jobrapido.com",
+          "link": "https://pe.jobrapido.com/jobpreview/4793595717190942720?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJDdXN0b21lciBTdWNjZXNzIEFnZW50IiwiY29tcGFueV9uYW1lIjoiQmV0U3RhcnRlcnMiLCJodGlkb2NpZCI6IklBNEl2LXJIR01GV09qZmhBQUFBQUE9PSIsInV1bGUiOiJ3K0NBSVFJQ0lFVUdWeWRRIiwiZ2wiOiJwZSIsImhsIjoiZXMiLCJmYyI6IkVzd0JDb3dCUVVSRVlsZGxZbGxyTm5acFVqTmpSMmhmU0ZwcmVsWkpWREJ1Y2pWcVNEUnNXR2RvT1RsSFVFZEJkV0oyVW1Rd2FWOVpZMFJIVW5wM2RVeFZOV1IzV2pSdGQxZDBhV2RmT1VOWVQzTllPVmR3UWtSQ1ZFcENabU51ZVhaSE5WTXhUMlJNTm5oNGFUSkxVV3ByVTNKRlYwbzJSMngzY1VReFEwNUlMVWhoYUVnNE1tZzJUMGt0ZFMwdGVrZ1NGM0pCU1VOaExYbHpSV1pIU1d0UVNWQnVaR0ZOYjBGUkdpSkJTRTR3UlRkSVJtZFhZM1UyWTI5ZlMwYzBXbk5WU1dGVkxUWkpUWHBpVldkQiIsImZjdiI6IjMiLCJmY19pZCI6IklBNEl2LXJIR01GV09qZmhBQUFBQUE9PSJ9"
+    },
+    {
+      "title": "Customer Success Analyst",
+      "company_name": "Talana",
+      "location": "Lima",
+      "via": "Get On Board",
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=customer+success&htidocid=xlsk1_rf3w2oEzrVAAAAAA%3D%3D&hl=es-PE&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_xXMsQrCMBAAUFw7-AFONzskIohQJ3FwcdO9XNIjrSS52LtA_QE_ytUfky5vfM1n1RwvVZQTTXCv3pMInDPGt2gL7veVV6UeoSegVCIxUIYrc4i0OQ2qRVprRaIJoqijN56T5UyOZ_tkJwudDDhRiajU7Q-72ZQctusHRsy4dLcx4R_fWmn5iQAAAA&shmds=v1_Ac3VAoy68dcxUygRmbIc4bdIwCU72a3mJBAHHV1UDHURkiLrjA&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=customer+success&htidocid=xlsk1_rf3w2oEzrVAAAAAA%3D%3D",
+      "thumbnail": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAADgAAAA4CAMAAACfWMssAAAAdVBMVEX____7-_wAACvDw8j19fasrLMAACEAACmZmaFXV2ff3-IRETIpKUIXFzWxsbi2trzU1Niioqq8vMHv7_BsbHno6Op7e4Zycn9CQlYiIjyNjZcJCS8cHDc7O1BVVWhISFoAAAAAABpjY3MAABCFhZAwMEgAACV04u_1AAABVUlEQVRIie2T226DMAxAHXIBEgiBUCABSsuA___EmV7WrZomdS_TpBwJZCsc2dgAEAgEAv8GQpOkIq97Zl55Oc30VU82iTSV9d68KM4wAdWQkvQ1j9VsBsqhkcvh6eg5_4pt7V2UAO38GFLy9vPAJuj2Vo9kwmTsHwdO_SziLqQp7MILkKvLogJ8JLybIEPRx5vPU8hGLvoKQLtzOyl2b6n0kpbcA_A2c7VJtrVRwy7Cso1NP6A4jG0eEyqGZh3yuwj6qPWRX8I1x8sxkDGKOXEO1xyjiA_XQtabAeI-KuIqu_G2xDUnMHT4MUW7yBS-N4tQzAAWIecIne6TCAW_BVluWBpxu6hLq12kbaOuYiOk3xbL-0erwJZEXqM0OhWyF-ehH0EJMHuIxRXOiZ8MGcU5dtt3FW2ZHPBWWlpBofe8ZJRCUezjPwDRuAH9i_8hEAgE_oR3F6QU7VVnMfwAAAAASUVORK5CYII.png",
+      "extensions": [
+        "hace 11 días",
+        "Tiempo completo"
+      ],
+      "detected_extensions": {
+        "posted_at": "hace 11 días",
+        "schedule_type": "Tiempo completo"
+      },
+      "source_link": "https://www.getonbrd.com/jobs/customer-support/customer-success-analyst-talana-lima",
+      "job_title": "Customer Success Analyst",
+      "description": "En Talana, plataforma líder en la transformación de la gestión de Recursos Humanos a través de la tecnología, estamos en búsqueda de un/a Customer Success Analyst que se una a nuestro equipo de Customer Success.Tu principal misión será coordinar y dar seguimiento a la gestión de nuestra cartera de clientes, asegurando la correcta ejecución del modelo de atención, el desarrollo de reuniones estratégicas y el monitoreo de indicadores clave. Además, contribuirás a identificar oportunidades de mejora que impulsen la adopción, satisfacción y éxito de nuestros clientes. Job opportunity on getonbrd.com.    Funciones del cargo  Monitorear indicadores clave de la cartera de clientes, identificando tendencias, oportunidades y posibles riesgos.Elaborar reportes y análisis que permitan dar visibilidad sobre la evolución y salud de las cuentas.Coordinar y dar seguimiento a Business Reviews y reuniones estratégicas con clientes.Levantar necesidades y oportunidades de mejora a partir de la información obtenida de clientes y equipos internos.Coordinar con Engagement, Knowledge y otras áreas internas la atención y seguimiento de requerimientos.Dar seguimiento a casos o situaciones de riesgo, coordinando acciones preventivas y correctivas.Proponer mejoras y buenas prácticas que contribuyan a fortalecer la gestión y experiencia de nuestros clientes.    Requerimientos del cargo  Formación universitaria en Administración de Empresas, Ingeniería Industrial, Marketing o carreras afines.Entre 2 y 3 años de experiencia en Customer Success, Account Management, Customer Experience o posiciones similares.Deseable experiencia en empresas SaaS o de tecnología B2B.Manejo avanzado de Microsoft Excel.Experiencia en Remuneraciones y nómina (Excluyente) Excelente capacidad de comunicación y relacionamiento con clientes.Pensamiento analítico, organización y orientación al detalle    Beneficios   🏡 Trabajo híbrido🏥 Seguro EPS💻 Te pasamos todos los implementos de trabajo😎 Dress Code 100% flexible🤩 Muchas sorpresas más!!   GETONBRD Job ID: 64881        Remote work policy    Hybrid    This job is performed partly from home and partly at the office in Lima (Peru).",
+      "apply_options": [
+        {
+          "title": "Get On Board",
+          "link": "https://www.getonbrd.com/jobs/customer-support/customer-success-analyst-talana-lima?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Jooble",
+          "link": "https://pe.jooble.org/jdp/2010247069896762188?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "LinkedIn",
+          "link": "https://pe.linkedin.com/jobs/view/customer-success-analyst-at-talana-4488625987?refId=OgUA5BUIguGrh%2BgUhTZj%2BQ%3D%3D&trackingId=XB8tKVKGALnr4dvQWUZJWw%3D%3D&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Computrabajo Perú",
+          "link": "https://pe.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-customer-success-analyst-en-lima-BC1333FEA4233BFC61373E686DCF3405?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Peru Jobs Expertini",
+          "link": "https://pe.expertini.com/job/customer-success-analyst-lima-metropolitana-repe-properties-sac-1227-1640077/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Trabajo.org",
+          "link": "https://pe.trabajo.org/oferta-3134-a70d28bcd8bb8a7073311944174c9be4?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "BeBee",
+          "link": "https://bebee.com/pe/jobs/customer-success-analyst-talana-lima--t7xk-934224751?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Jobrapido.com",
+          "link": "https://pe.jobrapido.com/jobpreview/8266478372628987904?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJDdXN0b21lciBTdWNjZXNzIEFuYWx5c3QiLCJjb21wYW55X25hbWUiOiJUYWxhbmEiLCJodGlkb2NpZCI6Inhsc2sxX3JmM3cyb0V6clZBQUFBQUE9PSIsInV1bGUiOiJ3K0NBSVFJQ0lFVUdWeWRRIiwiZ2wiOiJwZSIsImhsIjoiZXMiLCJmYyI6IkVzd0JDb3dCUVVSRVlsZGxXVjlHUTBnMGRXYzJVbTVUTm5VeFgyTjZVa1Z2ZG5wSlkybGZWMVJ5U1VGSVZVaHpSMnRUV2toUGRUTlJNRUk0UVVaTFNHVXRkbWxYTFdSS2FtNVpMVGhMYXpGaVN6bGxTamgyTkVOVU5HUndibkJaZGxaNmRIQnJOMWRqZUV4NmVIRmFjRFY1YWtWTGVsVjJiaTEzYm1FdFZGaGtiMFkwU0RsS1IyY3lWM2d0Ukd4T1ZIVVNGM0pCU1VOaExYbHpSV1pIU1d0UVNWQnVaR0ZOYjBGUkdpSkJTRTR3UlRkR2VuQmphakJMUVZka2FXdEJWVFJuUkZsWE5FeDVkRk5PY2s1MyIsImZjdiI6IjMiLCJmY19pZCI6Inhsc2sxX3JmM3cyb0V6clZBQUFBQUE9PSJ9"
+    }
+  ],
+  "serpapi_pagination": {
+    "next_page_token": "eyJmYyI6IkVvd0RDc3dDUVVSRVlsZGxZalk0VEd0amExZFpOMlJhYjFwbVUxRnJRMUUzV1ZrNE0yRnNZVE5rWjBKMlNtWkVTMDVIVkZJMmIyZ3RabTFrUmw5b1dITnNkMjFCZDFaSk1ubHpWak0yU205eFl6WnRORFJQWjNaNWVIZ3djVGhCZGtWMlUzVmpSM2g0UkdzMFVVaDRUMjFtYmxCSFZGUkpia3BSVjFCVmRFNDRMVmhtYzFsbVprVTRNM1V3WVdsYVZVbFJhMUZCWW5kSVptSlZUbk40VlRFd2JqSlJMV0kwUjNWNFRVc3lWMFp1VGxGWlJqVXhNSFZzWHpKWmF6RlBOamh2TVdGdFRsTlpXa3hNZEUxa1JXdE1PWHAzZFRscWMwOHpUR3BLWWtKMlFtZHJPRzR4TVU5SWMzWXRTME5rUjNRMmFEQXpUa2RvVG10WGJYSTJSbUk1UXpST2RHeFlUbmRIUmtKSlZtWXpUVzVIYXpGVlJFNWZWV3RFVTBKMlgwNU9hWGRHUXpaWFMxOW5WRjlZUVdad2FtSjRaV1ZDYVcwMk5GOWZaVzUyZFhZNVdqWllTWGxOWDE4NWNGRndkSFlTRjNKQlNVTmhMWGx6UldaSFNXdFFTVkJ1WkdGTmIwRlJHaUpCU0U0d1JUZEZSbEJ3VlhWclZHNWFkMnhPUmtwVk1EaDVObEJSWVY5bFZrMTMiLCJmY3YiOiIzIn0=",
+    "next": "https://serpapi.com/search.json?engine=google_jobs&gl=pe&google_domain=google.com&hl=es&location=Peru&next_page_token=eyJmYyI6IkVvd0RDc3dDUVVSRVlsZGxZalk0VEd0amExZFpOMlJhYjFwbVUxRnJRMUUzV1ZrNE0yRnNZVE5rWjBKMlNtWkVTMDVIVkZJMmIyZ3RabTFrUmw5b1dITnNkMjFCZDFaSk1ubHpWak0yU205eFl6WnRORFJQWjNaNWVIZ3djVGhCZGtWMlUzVmpSM2g0UkdzMFVVaDRUMjFtYmxCSFZGUkpia3BSVjFCVmRFNDRMVmhtYzFsbVprVTRNM1V3WVdsYVZVbFJhMUZCWW5kSVptSlZUbk40VlRFd2JqSlJMV0kwUjNWNFRVc3lWMFp1VGxGWlJqVXhNSFZzWHpKWmF6RlBOamh2TVdGdFRsTlpXa3hNZEUxa1JXdE1PWHAzZFRscWMwOHpUR3BLWWtKMlFtZHJPRzR4TVU5SWMzWXRTME5rUjNRMmFEQXpUa2RvVG10WGJYSTJSbUk1UXpST2RHeFlUbmRIUmtKSlZtWXpUVzVIYXpGVlJFNWZWV3RFVTBKMlgwNU9hWGRHUXpaWFMxOW5WRjlZUVdad2FtSjRaV1ZDYVcwMk5GOWZaVzUyZFhZNVdqWllTWGxOWDE4NWNGRndkSFlTRjNKQlNVTmhMWGx6UldaSFNXdFFTVkJ1WkdGTmIwRlJHaUpCU0U0d1JUZEZSbEJ3VlhWclZHNWFkMnhPUmtwVk1EaDVObEJSWVY5bFZrMTMiLCJmY3YiOiIzIn0%3D&q=customer+success"
+  },
+  "_pipeline_metadata": {
+    "ingestion_timestamp_utc": "2026-11-21T20:44:29.262425+00:00",
+    "search_group": "customer_success",
+    "target_market": "Peru",
+    "target_location": "Peru",
+    "date_filter_applied": "month",
+    "new_records_count": 10,
+    "provider": "serpapi"
+  }
+}

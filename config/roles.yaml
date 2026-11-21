@@ -1,0 +1,87 @@
+# Objetivo: clasificar vacantes de Customer Service & Operations para la demo.
+# Primary = roles objetivo; Secondary = roles cercanos; Legacy Leverage = experiencia transferible.
+
+role_taxonomy:
+  primary:
+    # Customer Service y Customer Experience
+    - "Customer Service Representative"
+    - "Customer Service Specialist"
+    - "Customer Care Representative"
+    - "Customer Care Specialist"
+    - "Customer Experience Specialist"
+    - "Customer Experience Representative"
+    - "Customer Support Agent"
+    - "Customer Support Specialist"
+    - "Client Services Representative"
+    - "Contact Center Agent"
+    - "Call Center Agent"
+
+    # Customer Success y gestión de cuentas
+    - "Customer Success Specialist"
+    - "Customer Success Associate"
+    - "Customer Success Manager"
+    - "Client Success Manager"
+    - "Account Manager"
+    - "Account Coordinator"
+    - "Client Relationship Manager"
+    - "Customer Retention Specialist"
+
+    # Business Operations
+    - "Operations Analyst"
+    - "Operations Specialist"
+    - "Operations Coordinator"
+    - "Business Operations Analyst"
+    - "Business Operations Specialist"
+    - "Operations Associate"
+    - "Process Improvement Analyst"
+    - "Business Process Analyst"
+    - "Service Operations Specialist"
+    - "Order Management Specialist"
+
+  secondary:
+    # Back office y administración operativa
+    - "Back Office Analyst"
+    - "Back Office Specialist"
+    - "Back Office Representative"
+    - "Administrative Assistant"
+    - "Administrative Analyst"
+    - "Administrative Coordinator"
+    - "Business Support Specialist"
+    - "Workforce Management Analyst"
+    - "Quality Assurance Specialist"
+    - "Customer Operations Analyst"
+
+    # Soporte y servicio con componente técnico o de proceso
+    - "Technical Support Specialist"
+    - "Help Desk Specialist"
+    - "Service Desk Analyst"
+    - "Support Analyst"
+    - "Application Support Analyst"
+    - "Customer Support Analyst"
+    - "Service Delivery Analyst"
+    - "Service Delivery Specialist"
+
+    # Supervisión inicial y coordinación
+    - "Customer Service Supervisor"
+    - "Customer Service Team Lead"
+    - "Customer Support Team Lead"
+    - "Operations Team Lead"
+    - "Operations Supervisor"
+    - "Contact Center Supervisor"
+    - "Team Leader"
+    - "Team Lead"
+
+  legacy_leverage:
+    # Roles de liderazgo/gestión más senior, útiles para mostrar transferibilidad.
+    - "Customer Service Manager"
+    - "Customer Support Manager"
+    - "Customer Experience Manager"
+    - "Customer Operations Manager"
+    - "Operations Manager"
+    - "Contact Center Manager"
+    - "Service Delivery Manager"
+    - "Customer Success Operations Manager"
+    - "Operational Excellence Specialist"
+
+# No se incluyen ventas puras (commission-only), roles de Data/BI ni posiciones
+# especializadas de ingeniería como objetivo de esta demo.

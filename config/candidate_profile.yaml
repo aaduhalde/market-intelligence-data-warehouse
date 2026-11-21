@@ -1,0 +1,86 @@
+# Perfil ficticio de referencia para la demo de Customer Service & Operations.
+# Pesos entre 0 y 1 representan nivel de dominio/afinidad para el matching.
+
+candidate:
+  name: "Customer Operations | Customer Experience Specialist"
+  experience_years: 5
+
+preferences:
+  # Preferencia por oportunidades presenciales/híbridas locales y remotas regionales.
+  remote_only: false
+  allow_international_remote: true
+  english_development_stage: true
+
+  geographic_priority:
+    - "Lima, Peru"
+    - "Peru"
+    - "Argentina"
+    - "Chile"
+    - "Colombia"
+    - "Mexico"
+    - "Spanish-speaking LATAM"
+    - "International Remote"
+
+  language_priority:
+    primary:
+      - "Spanish"
+    secondary:
+      - "English"
+      - "Portuguese"
+
+candidate_accessibility:
+  spanish_local:
+    level: "high"
+    weight: 1.0
+
+  spanish_latam_remote:
+    level: "high"
+    weight: 1.0
+
+  english_latam_remote:
+    level: "developing"
+    weight: 0.60
+
+  english_international:
+    level: "developing"
+    weight: 0.40
+
+skills:
+  # Atención y experiencia de cliente: competencias centrales del perfil demo.
+  Customer Service: 0.95
+  Customer Experience: 0.90
+  Customer Support: 0.90
+  Customer Success: 0.75
+  Customer Retention: 0.70
+
+  # Comunicación y resolución de situaciones.
+  Communication: 0.90
+  Active Listening: 0.85
+  Written Communication: 0.80
+  Verbal Communication: 0.85
+  Problem Solving: 0.85
+  Conflict Resolution: 0.75
+
+  # Operaciones, procesos y calidad.
+  Operations Management: 0.80
+  Process Improvement: 0.70
+  Workflow Management: 0.70
+  Quality Assurance: 0.75
+  SLA Management: 0.65
+  KPI Management: 0.65
+
+  # CRM y herramientas de productividad.
+  CRM: 0.75
+  Zendesk: 0.65
+  Salesforce: 0.60
+  HubSpot: 0.55
+  Microsoft Excel: 0.65
+  Google Sheets: 0.55
+
+  # Liderazgo y organización.
+  Team Management: 0.55
+  Coaching: 0.50
+  Training: 0.55
+  Time Management: 0.80
+  Multitasking: 0.70
+  Organization: 0.80

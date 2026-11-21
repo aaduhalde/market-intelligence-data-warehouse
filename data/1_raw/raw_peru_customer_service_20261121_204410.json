@@ -1,0 +1,526 @@
+{
+  "search_metadata": {
+    "id": "6b02029a00a7fb5e6183f772",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/UkgzPp-2M4_ytiu67J3PyX9NB29XAopVD5dARknTmmI/6b02029a00a7fb5e6183f772.json",
+    "markdown_endpoint": "https://serpapi.com/searches/UkgzPp-2M4_ytiu67J3PyX9NB29XAopVD5dARknTmmI/6b02029a00a7fb5e6183f772.md",
+    "created_at": "2026-11-21 20:44:10 UTC",
+    "processed_at": "2026-11-21 20:44:10 UTC",
+    "google_jobs_url": "https://www.google.com/search?q=customer+service&hl=es&gl=pe&udm=8&uule=w+CAIQICIEUGVydQ",
+    "raw_html_file": "https://serpapi.com/searches/UkgzPp-2M4_ytiu67J3PyX9NB29XAopVD5dARknTmmI/6b02029a00a7fb5e6183f772.html",
+    "total_time_taken": 2.12
+  },
+  "search_parameters": {
+    "q": "customer service",
+    "engine": "google_jobs",
+    "location_requested": "Peru",
+    "location_used": "Peru",
+    "google_domain": "google.com",
+    "hl": "es",
+    "gl": "pe"
+  },
+  "filters": [
+    {
+      "name": "Tipo de trabajo",
+      "options": [
+        {
+          "name": "Tiempo completo",
+          "parameters": {
+            "uds": "AE2AFgbf06ZzDvczg9XBG5Z3qflXH_sPPYhmbKrAN-pieu-uWMU9FP0XTKMrucXC1jKEIME_HE2MQ6vrKGg1ChhD0Cv_5Vb7iUfgZXK4ORxiUFk5mfO5ZCGBr2PEvt4Az3pksLBI42FgU_GPXskavKcKdBJBmI4G1bHhxsCsGabeZjLA5FI8qafIZq8NxZ2BK-PqHMvrShrA-zxxZ-tZE3gGuiI3V5fsyVVhYAXkqMgqEE3InMJ0G8LYwiA0dCtPJ-biRlGLnrZhGhXpKehUh2WCxw5Vnz3-7C09l97oCozBb1M3iLFPqu8i7ZAhyd9DVDLnevsC2xxUN15ZBPcl7bS1r7O3hvs-hsHaugezJ7_B8y8qjxoXs98",
+            "q": "customer service tiempo completo"
+          },
+          "link": "https://www.google.com/search?sca_esv=06fa6b2cca60171b&gl=pe&hl=es&sxsrf=AKL5yDj2syPp-p0VnA0VUCwqSejgLxEf0w:1795293852022&q=customer+service+tiempo+completo&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXH_sPPYhmbKrAN-pieu-uWMU9FP0XTKMrucXC1jKEIME_HE2MQ6vrKGg1ChhD0Cv_5Vb7iUfgZXK4ORxiUFk5mfO5ZCGBr2PEvt4Az3pksLBI42FgU_GPXskavKcKdBJBmI4G1bHhxsCsGabeZjLA5FI8qafIZq8NxZ2BK-PqHMvrShrA-zxxZ-tZE3gGuiI3V5fsyVVhYAXkqMgqEE3InMJ0G8LYwiA0dCtPJ-biRlGLnrZhGhXpKehUh2WCxw5Vnz3-7C09l97oCozBb1M3iLFPqu8i7ZAhyd9DVDLnevsC2xxUN15ZBPcl7bS1r7O3hvs-hsHaugezJ7_B8y8qjxoXs98&udm=8&sa=X&ved=2ahUKEwjvqsTi9pmYAxXPkokEHXEuOJ0QkbEKegQIGxAC",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=pe&google_domain=google.com&hl=es&location=Peru&q=customer+service+tiempo+completo&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXH_sPPYhmbKrAN-pieu-uWMU9FP0XTKMrucXC1jKEIME_HE2MQ6vrKGg1ChhD0Cv_5Vb7iUfgZXK4ORxiUFk5mfO5ZCGBr2PEvt4Az3pksLBI42FgU_GPXskavKcKdBJBmI4G1bHhxsCsGabeZjLA5FI8qafIZq8NxZ2BK-PqHMvrShrA-zxxZ-tZE3gGuiI3V5fsyVVhYAXkqMgqEE3InMJ0G8LYwiA0dCtPJ-biRlGLnrZhGhXpKehUh2WCxw5Vnz3-7C09l97oCozBb1M3iLFPqu8i7ZAhyd9DVDLnevsC2xxUN15ZBPcl7bS1r7O3hvs-hsHaugezJ7_B8y8qjxoXs98"
+        },
+        {
+          "name": "Tiempo parcial",
+          "parameters": {
+            "uds": "AE2AFgbf06ZzDvczg9XBG5Z3qflXBBFyDt1nf8DSL5iOuKQX7WcRltJKFGpvNsfq0wCMT565hKj1uJ4wqdDQ1-XFRsJfAD2d5hMV_2Ir6x7wPfYoulASTUEnagG-N5R9b8hroBFt-MIfPBybZTz490gjLpYgi2eq6fU0Oy2WqOZQDMKWbgIEdk_UinJfCTOZffEQ2DYqpQli6o4cG21LJs6yElSG6xJMPNXMvouyTOJF6IDJw9FjdIxFv6sLOqg9u-5naYLPjOlXmq0PUyLZd1e5SKNDiFLM32ZCR8M8ABWxJWQNsyBMCN-kVSMIsZCrK2lc9WV1nM82QWDkWQNs9ASLQJIBFvOIZ0ur0cwNebhrrA3rAnuLY9I",
+            "q": "customer service tiempo parcial"
+          },
+          "link": "https://www.google.com/search?sca_esv=06fa6b2cca60171b&gl=pe&hl=es&sxsrf=AKL5yDj2syPp-p0VnA0VUCwqSejgLxEf0w:1795293852022&q=customer+service+tiempo+parcial&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXBBFyDt1nf8DSL5iOuKQX7WcRltJKFGpvNsfq0wCMT565hKj1uJ4wqdDQ1-XFRsJfAD2d5hMV_2Ir6x7wPfYoulASTUEnagG-N5R9b8hroBFt-MIfPBybZTz490gjLpYgi2eq6fU0Oy2WqOZQDMKWbgIEdk_UinJfCTOZffEQ2DYqpQli6o4cG21LJs6yElSG6xJMPNXMvouyTOJF6IDJw9FjdIxFv6sLOqg9u-5naYLPjOlXmq0PUyLZd1e5SKNDiFLM32ZCR8M8ABWxJWQNsyBMCN-kVSMIsZCrK2lc9WV1nM82QWDkWQNs9ASLQJIBFvOIZ0ur0cwNebhrrA3rAnuLY9I&udm=8&sa=X&ved=2ahUKEwjvqsTi9pmYAxXPkokEHXEuOJ0QkbEKegQIGxAD",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=pe&google_domain=google.com&hl=es&location=Peru&q=customer+service+tiempo+parcial&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXBBFyDt1nf8DSL5iOuKQX7WcRltJKFGpvNsfq0wCMT565hKj1uJ4wqdDQ1-XFRsJfAD2d5hMV_2Ir6x7wPfYoulASTUEnagG-N5R9b8hroBFt-MIfPBybZTz490gjLpYgi2eq6fU0Oy2WqOZQDMKWbgIEdk_UinJfCTOZffEQ2DYqpQli6o4cG21LJs6yElSG6xJMPNXMvouyTOJF6IDJw9FjdIxFv6sLOqg9u-5naYLPjOlXmq0PUyLZd1e5SKNDiFLM32ZCR8M8ABWxJWQNsyBMCN-kVSMIsZCrK2lc9WV1nM82QWDkWQNs9ASLQJIBFvOIZ0ur0cwNebhrrA3rAnuLY9I"
+        },
+        {
+          "name": "Con contrato",
+          "parameters": {
+            "uds": "AE2AFgbf06ZzDvczg9XBG5Z3qflX1yx3wKIwB6WaDO5OjnER6-YcoqfGS7ogomjiZP6CRnhqgodbD0v9Ux_auGOve0yAql_oClW4mvprtDinBtNO8UykiBpYT3Q577VMZYnhPJhtYkS2Ck9TvuNp8-NbHm12ikHKlOo5jjmZWtZNlO7lqpf1IOqZUSRgNjAi-_8nA2gmMbwqjzwaLPlbyl88C2lm8tHaw1SlK7moqoaZtoJVLWMhPylQtpG4PWZAFIBgWA6R91qgzHWD0T8bSO7S8Xkag5LGi-ril7krHCZXOW4t_3Vb6fHX57kBV0IeBFVRNVqzIJMyVHxuR1O0FMFFJeHx7-tyjH4zEBJ70yG8kk7Fw10g444",
+            "q": "customer service con contrato"
+          },
+          "link": "https://www.google.com/search?sca_esv=06fa6b2cca60171b&gl=pe&hl=es&sxsrf=AKL5yDj2syPp-p0VnA0VUCwqSejgLxEf0w:1795293852022&q=customer+service+con+contrato&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflX1yx3wKIwB6WaDO5OjnER6-YcoqfGS7ogomjiZP6CRnhqgodbD0v9Ux_auGOve0yAql_oClW4mvprtDinBtNO8UykiBpYT3Q577VMZYnhPJhtYkS2Ck9TvuNp8-NbHm12ikHKlOo5jjmZWtZNlO7lqpf1IOqZUSRgNjAi-_8nA2gmMbwqjzwaLPlbyl88C2lm8tHaw1SlK7moqoaZtoJVLWMhPylQtpG4PWZAFIBgWA6R91qgzHWD0T8bSO7S8Xkag5LGi-ril7krHCZXOW4t_3Vb6fHX57kBV0IeBFVRNVqzIJMyVHxuR1O0FMFFJeHx7-tyjH4zEBJ70yG8kk7Fw10g444&udm=8&sa=X&ved=2ahUKEwjvqsTi9pmYAxXPkokEHXEuOJ0QkbEKegQIGxAE",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=pe&google_domain=google.com&hl=es&location=Peru&q=customer+service+con+contrato&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflX1yx3wKIwB6WaDO5OjnER6-YcoqfGS7ogomjiZP6CRnhqgodbD0v9Ux_auGOve0yAql_oClW4mvprtDinBtNO8UykiBpYT3Q577VMZYnhPJhtYkS2Ck9TvuNp8-NbHm12ikHKlOo5jjmZWtZNlO7lqpf1IOqZUSRgNjAi-_8nA2gmMbwqjzwaLPlbyl88C2lm8tHaw1SlK7moqoaZtoJVLWMhPylQtpG4PWZAFIBgWA6R91qgzHWD0T8bSO7S8Xkag5LGi-ril7krHCZXOW4t_3Vb6fHX57kBV0IeBFVRNVqzIJMyVHxuR1O0FMFFJeHx7-tyjH4zEBJ70yG8kk7Fw10g444"
+        },
+        {
+          "name": "Prácticas",
+          "parameters": {
+            "uds": "AE2AFgbf06ZzDvczg9XBG5Z3qflXKGpv8sxYNvIeQXivVGRBTnOf_MV-trCpETEW49N9ALp2deLhJ19jDezlZehdyrgQQI9x2oH1dcKP0qzBC9RpfM2bFnbM1aNndS2lPgupEVbnzUJ9oigw051mtLduNqQPzdZe1mc692XlcXjeCx0YxaC3ijyC-51ZF8sDeKO7DfuayBaojkETDXWxghGkLPH1QJ8fwkt9L7PVpCf3PEJ5ftrNcYwApTntT3QhIcvQFDpAydUIcGwj3deN7ErdtJho1-RGbBCUXVkM0cFrk-ta_sG2o7Lvi5Eae0-NSL7qaxvRbhuQggH7xwV6Gv-nIZWZkM3wiGX17r3RgjoxbIpv-rvKpm8",
+            "q": "customer service prácticas"
+          },
+          "link": "https://www.google.com/search?sca_esv=06fa6b2cca60171b&gl=pe&hl=es&sxsrf=AKL5yDj2syPp-p0VnA0VUCwqSejgLxEf0w:1795293852022&q=customer+service+pr%C3%A1cticas&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXKGpv8sxYNvIeQXivVGRBTnOf_MV-trCpETEW49N9ALp2deLhJ19jDezlZehdyrgQQI9x2oH1dcKP0qzBC9RpfM2bFnbM1aNndS2lPgupEVbnzUJ9oigw051mtLduNqQPzdZe1mc692XlcXjeCx0YxaC3ijyC-51ZF8sDeKO7DfuayBaojkETDXWxghGkLPH1QJ8fwkt9L7PVpCf3PEJ5ftrNcYwApTntT3QhIcvQFDpAydUIcGwj3deN7ErdtJho1-RGbBCUXVkM0cFrk-ta_sG2o7Lvi5Eae0-NSL7qaxvRbhuQggH7xwV6Gv-nIZWZkM3wiGX17r3RgjoxbIpv-rvKpm8&udm=8&sa=X&ved=2ahUKEwjvqsTi9pmYAxXPkokEHXEuOJ0QkbEKegQIGxAF",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=pe&google_domain=google.com&hl=es&location=Peru&q=customer+service+pr%C3%A1cticas&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXKGpv8sxYNvIeQXivVGRBTnOf_MV-trCpETEW49N9ALp2deLhJ19jDezlZehdyrgQQI9x2oH1dcKP0qzBC9RpfM2bFnbM1aNndS2lPgupEVbnzUJ9oigw051mtLduNqQPzdZe1mc692XlcXjeCx0YxaC3ijyC-51ZF8sDeKO7DfuayBaojkETDXWxghGkLPH1QJ8fwkt9L7PVpCf3PEJ5ftrNcYwApTntT3QhIcvQFDpAydUIcGwj3deN7ErdtJho1-RGbBCUXVkM0cFrk-ta_sG2o7Lvi5Eae0-NSL7qaxvRbhuQggH7xwV6Gv-nIZWZkM3wiGX17r3RgjoxbIpv-rvKpm8"
+        }
+      ]
+    },
+    {
+      "name": "Tipo de trabajo",
+      "options": [
+        {
+          "name": "Tiempo completo",
+          "parameters": {
+            "uds": "AE2AFgbf06ZzDvczg9XBG5Z3qflXH_sPPYhmbKrAN-pieu-uWMU9FP0XTKMrucXC1jKEIME_HE2MQ6vrKGg1ChhD0Cv_5Vb7iUfgZXK4ORxiUFk5mfO5ZCGBr2PEvt4Az3pksLBI42FgU_GPXskavKcKdBJBmI4G1bHhxsCsGabeZjLA5FI8qafIZq8NxZ2BK-PqHMvrShrA-zxxZ-tZE3gGuiI3V5fsyVVhYAXkqMgqEE3InMJ0G8LYwiA0dCtPJ-biRlGLnrZhGhXpKehUh2WCxw5Vnz3-7C09l97oCozBb1M3iLFPqu8i7ZAhyd9DVDLnevsC2xxUN15ZBPcl7bS1r7O3hvs-hsHaugezJ7_B8y8qjxoXs98",
+            "q": "customer service tiempo completo"
+          },
+          "link": "https://www.google.com/search?sca_esv=06fa6b2cca60171b&gl=pe&hl=es&sxsrf=AKL5yDj2syPp-p0VnA0VUCwqSejgLxEf0w:1795293852022&q=customer+service+tiempo+completo&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXH_sPPYhmbKrAN-pieu-uWMU9FP0XTKMrucXC1jKEIME_HE2MQ6vrKGg1ChhD0Cv_5Vb7iUfgZXK4ORxiUFk5mfO5ZCGBr2PEvt4Az3pksLBI42FgU_GPXskavKcKdBJBmI4G1bHhxsCsGabeZjLA5FI8qafIZq8NxZ2BK-PqHMvrShrA-zxxZ-tZE3gGuiI3V5fsyVVhYAXkqMgqEE3InMJ0G8LYwiA0dCtPJ-biRlGLnrZhGhXpKehUh2WCxw5Vnz3-7C09l97oCozBb1M3iLFPqu8i7ZAhyd9DVDLnevsC2xxUN15ZBPcl7bS1r7O3hvs-hsHaugezJ7_B8y8qjxoXs98&udm=8&sa=X&ved=2ahUKEwjvqsTi9pmYAxXPkokEHXEuOJ0QkbEKegQIGxAC",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=pe&google_domain=google.com&hl=es&location=Peru&q=customer+service+tiempo+completo&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXH_sPPYhmbKrAN-pieu-uWMU9FP0XTKMrucXC1jKEIME_HE2MQ6vrKGg1ChhD0Cv_5Vb7iUfgZXK4ORxiUFk5mfO5ZCGBr2PEvt4Az3pksLBI42FgU_GPXskavKcKdBJBmI4G1bHhxsCsGabeZjLA5FI8qafIZq8NxZ2BK-PqHMvrShrA-zxxZ-tZE3gGuiI3V5fsyVVhYAXkqMgqEE3InMJ0G8LYwiA0dCtPJ-biRlGLnrZhGhXpKehUh2WCxw5Vnz3-7C09l97oCozBb1M3iLFPqu8i7ZAhyd9DVDLnevsC2xxUN15ZBPcl7bS1r7O3hvs-hsHaugezJ7_B8y8qjxoXs98"
+        },
+        {
+          "name": "Tiempo parcial",
+          "parameters": {
+            "uds": "AE2AFgbf06ZzDvczg9XBG5Z3qflXBBFyDt1nf8DSL5iOuKQX7WcRltJKFGpvNsfq0wCMT565hKj1uJ4wqdDQ1-XFRsJfAD2d5hMV_2Ir6x7wPfYoulASTUEnagG-N5R9b8hroBFt-MIfPBybZTz490gjLpYgi2eq6fU0Oy2WqOZQDMKWbgIEdk_UinJfCTOZffEQ2DYqpQli6o4cG21LJs6yElSG6xJMPNXMvouyTOJF6IDJw9FjdIxFv6sLOqg9u-5naYLPjOlXmq0PUyLZd1e5SKNDiFLM32ZCR8M8ABWxJWQNsyBMCN-kVSMIsZCrK2lc9WV1nM82QWDkWQNs9ASLQJIBFvOIZ0ur0cwNebhrrA3rAnuLY9I",
+            "q": "customer service tiempo parcial"
+          },
+          "link": "https://www.google.com/search?sca_esv=06fa6b2cca60171b&gl=pe&hl=es&sxsrf=AKL5yDj2syPp-p0VnA0VUCwqSejgLxEf0w:1795293852022&q=customer+service+tiempo+parcial&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXBBFyDt1nf8DSL5iOuKQX7WcRltJKFGpvNsfq0wCMT565hKj1uJ4wqdDQ1-XFRsJfAD2d5hMV_2Ir6x7wPfYoulASTUEnagG-N5R9b8hroBFt-MIfPBybZTz490gjLpYgi2eq6fU0Oy2WqOZQDMKWbgIEdk_UinJfCTOZffEQ2DYqpQli6o4cG21LJs6yElSG6xJMPNXMvouyTOJF6IDJw9FjdIxFv6sLOqg9u-5naYLPjOlXmq0PUyLZd1e5SKNDiFLM32ZCR8M8ABWxJWQNsyBMCN-kVSMIsZCrK2lc9WV1nM82QWDkWQNs9ASLQJIBFvOIZ0ur0cwNebhrrA3rAnuLY9I&udm=8&sa=X&ved=2ahUKEwjvqsTi9pmYAxXPkokEHXEuOJ0QkbEKegQIGxAD",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=pe&google_domain=google.com&hl=es&location=Peru&q=customer+service+tiempo+parcial&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXBBFyDt1nf8DSL5iOuKQX7WcRltJKFGpvNsfq0wCMT565hKj1uJ4wqdDQ1-XFRsJfAD2d5hMV_2Ir6x7wPfYoulASTUEnagG-N5R9b8hroBFt-MIfPBybZTz490gjLpYgi2eq6fU0Oy2WqOZQDMKWbgIEdk_UinJfCTOZffEQ2DYqpQli6o4cG21LJs6yElSG6xJMPNXMvouyTOJF6IDJw9FjdIxFv6sLOqg9u-5naYLPjOlXmq0PUyLZd1e5SKNDiFLM32ZCR8M8ABWxJWQNsyBMCN-kVSMIsZCrK2lc9WV1nM82QWDkWQNs9ASLQJIBFvOIZ0ur0cwNebhrrA3rAnuLY9I"
+        },
+        {
+          "name": "Con contrato",
+          "parameters": {
+            "uds": "AE2AFgbf06ZzDvczg9XBG5Z3qflX1yx3wKIwB6WaDO5OjnER6-YcoqfGS7ogomjiZP6CRnhqgodbD0v9Ux_auGOve0yAql_oClW4mvprtDinBtNO8UykiBpYT3Q577VMZYnhPJhtYkS2Ck9TvuNp8-NbHm12ikHKlOo5jjmZWtZNlO7lqpf1IOqZUSRgNjAi-_8nA2gmMbwqjzwaLPlbyl88C2lm8tHaw1SlK7moqoaZtoJVLWMhPylQtpG4PWZAFIBgWA6R91qgzHWD0T8bSO7S8Xkag5LGi-ril7krHCZXOW4t_3Vb6fHX57kBV0IeBFVRNVqzIJMyVHxuR1O0FMFFJeHx7-tyjH4zEBJ70yG8kk7Fw10g444",
+            "q": "customer service con contrato"
+          },
+          "link": "https://www.google.com/search?sca_esv=06fa6b2cca60171b&gl=pe&hl=es&sxsrf=AKL5yDj2syPp-p0VnA0VUCwqSejgLxEf0w:1795293852022&q=customer+service+con+contrato&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflX1yx3wKIwB6WaDO5OjnER6-YcoqfGS7ogomjiZP6CRnhqgodbD0v9Ux_auGOve0yAql_oClW4mvprtDinBtNO8UykiBpYT3Q577VMZYnhPJhtYkS2Ck9TvuNp8-NbHm12ikHKlOo5jjmZWtZNlO7lqpf1IOqZUSRgNjAi-_8nA2gmMbwqjzwaLPlbyl88C2lm8tHaw1SlK7moqoaZtoJVLWMhPylQtpG4PWZAFIBgWA6R91qgzHWD0T8bSO7S8Xkag5LGi-ril7krHCZXOW4t_3Vb6fHX57kBV0IeBFVRNVqzIJMyVHxuR1O0FMFFJeHx7-tyjH4zEBJ70yG8kk7Fw10g444&udm=8&sa=X&ved=2ahUKEwjvqsTi9pmYAxXPkokEHXEuOJ0QkbEKegQIGxAE",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=pe&google_domain=google.com&hl=es&location=Peru&q=customer+service+con+contrato&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflX1yx3wKIwB6WaDO5OjnER6-YcoqfGS7ogomjiZP6CRnhqgodbD0v9Ux_auGOve0yAql_oClW4mvprtDinBtNO8UykiBpYT3Q577VMZYnhPJhtYkS2Ck9TvuNp8-NbHm12ikHKlOo5jjmZWtZNlO7lqpf1IOqZUSRgNjAi-_8nA2gmMbwqjzwaLPlbyl88C2lm8tHaw1SlK7moqoaZtoJVLWMhPylQtpG4PWZAFIBgWA6R91qgzHWD0T8bSO7S8Xkag5LGi-ril7krHCZXOW4t_3Vb6fHX57kBV0IeBFVRNVqzIJMyVHxuR1O0FMFFJeHx7-tyjH4zEBJ70yG8kk7Fw10g444"
+        },
+        {
+          "name": "Prácticas",
+          "parameters": {
+            "uds": "AE2AFgbf06ZzDvczg9XBG5Z3qflXKGpv8sxYNvIeQXivVGRBTnOf_MV-trCpETEW49N9ALp2deLhJ19jDezlZehdyrgQQI9x2oH1dcKP0qzBC9RpfM2bFnbM1aNndS2lPgupEVbnzUJ9oigw051mtLduNqQPzdZe1mc692XlcXjeCx0YxaC3ijyC-51ZF8sDeKO7DfuayBaojkETDXWxghGkLPH1QJ8fwkt9L7PVpCf3PEJ5ftrNcYwApTntT3QhIcvQFDpAydUIcGwj3deN7ErdtJho1-RGbBCUXVkM0cFrk-ta_sG2o7Lvi5Eae0-NSL7qaxvRbhuQggH7xwV6Gv-nIZWZkM3wiGX17r3RgjoxbIpv-rvKpm8",
+            "q": "customer service prácticas"
+          },
+          "link": "https://www.google.com/search?sca_esv=06fa6b2cca60171b&gl=pe&hl=es&sxsrf=AKL5yDj2syPp-p0VnA0VUCwqSejgLxEf0w:1795293852022&q=customer+service+pr%C3%A1cticas&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXKGpv8sxYNvIeQXivVGRBTnOf_MV-trCpETEW49N9ALp2deLhJ19jDezlZehdyrgQQI9x2oH1dcKP0qzBC9RpfM2bFnbM1aNndS2lPgupEVbnzUJ9oigw051mtLduNqQPzdZe1mc692XlcXjeCx0YxaC3ijyC-51ZF8sDeKO7DfuayBaojkETDXWxghGkLPH1QJ8fwkt9L7PVpCf3PEJ5ftrNcYwApTntT3QhIcvQFDpAydUIcGwj3deN7ErdtJho1-RGbBCUXVkM0cFrk-ta_sG2o7Lvi5Eae0-NSL7qaxvRbhuQggH7xwV6Gv-nIZWZkM3wiGX17r3RgjoxbIpv-rvKpm8&udm=8&sa=X&ved=2ahUKEwjvqsTi9pmYAxXPkokEHXEuOJ0QkbEKegQIGxAF",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=pe&google_domain=google.com&hl=es&location=Peru&q=customer+service+pr%C3%A1cticas&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXKGpv8sxYNvIeQXivVGRBTnOf_MV-trCpETEW49N9ALp2deLhJ19jDezlZehdyrgQQI9x2oH1dcKP0qzBC9RpfM2bFnbM1aNndS2lPgupEVbnzUJ9oigw051mtLduNqQPzdZe1mc692XlcXjeCx0YxaC3ijyC-51ZF8sDeKO7DfuayBaojkETDXWxghGkLPH1QJ8fwkt9L7PVpCf3PEJ5ftrNcYwApTntT3QhIcvQFDpAydUIcGwj3deN7ErdtJho1-RGbBCUXVkM0cFrk-ta_sG2o7Lvi5Eae0-NSL7qaxvRbhuQggH7xwV6Gv-nIZWZkM3wiGX17r3RgjoxbIpv-rvKpm8"
+        }
+      ]
+    },
+    {
+      "name": "Fecha de publicación",
+      "options": [
+        {
+          "name": "Ayer",
+          "parameters": {
+            "uds": "AE2AFgbf06ZzDvczg9XBG5Z3qflXhWccJ5BrkXQF8W7Kp5gILrxivU_NrM6vUW7j1nCfHW9kUzHjOh3ZhNDbA7CqM7ql4PlCmmPAgGLqw-0OKQoo1WfyZoi8MGFEqny1wPIak1eRuUfb-S53SL5mbgUegJiW9EuoiSOYDtcNf02lhW7lKmSglB2sQTktkcHNqB5ukH8H293xV_mLUHegWXu_Be892WuYjgpOP07C5Okhl-970XmHsai_8e1DJeYrVbVl5luua1ryJDiYtrR2m4tuFP7ixjln8DxnLA6USR3KM6RvpLurHmPSAqwCWRuJ2ittFX_F2_FtHV5_zUzlud42IcxBbPxjGlJIy2QCcBvRbisg9brFFJlbxGdG7Qn7YYrZ78dyLmsa",
+            "q": "customer service desde ayer"
+          },
+          "link": "https://www.google.com/search?sca_esv=06fa6b2cca60171b&gl=pe&hl=es&sxsrf=AKL5yDj2syPp-p0VnA0VUCwqSejgLxEf0w:1795293852022&q=customer+service+desde+ayer&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXhWccJ5BrkXQF8W7Kp5gILrxivU_NrM6vUW7j1nCfHW9kUzHjOh3ZhNDbA7CqM7ql4PlCmmPAgGLqw-0OKQoo1WfyZoi8MGFEqny1wPIak1eRuUfb-S53SL5mbgUegJiW9EuoiSOYDtcNf02lhW7lKmSglB2sQTktkcHNqB5ukH8H293xV_mLUHegWXu_Be892WuYjgpOP07C5Okhl-970XmHsai_8e1DJeYrVbVl5luua1ryJDiYtrR2m4tuFP7ixjln8DxnLA6USR3KM6RvpLurHmPSAqwCWRuJ2ittFX_F2_FtHV5_zUzlud42IcxBbPxjGlJIy2QCcBvRbisg9brFFJlbxGdG7Qn7YYrZ78dyLmsa&udm=8&sa=X&ved=2ahUKEwjvqsTi9pmYAxXPkokEHXEuOJ0QkbEKegQIGhAC",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=pe&google_domain=google.com&hl=es&location=Peru&q=customer+service+desde+ayer&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXhWccJ5BrkXQF8W7Kp5gILrxivU_NrM6vUW7j1nCfHW9kUzHjOh3ZhNDbA7CqM7ql4PlCmmPAgGLqw-0OKQoo1WfyZoi8MGFEqny1wPIak1eRuUfb-S53SL5mbgUegJiW9EuoiSOYDtcNf02lhW7lKmSglB2sQTktkcHNqB5ukH8H293xV_mLUHegWXu_Be892WuYjgpOP07C5Okhl-970XmHsai_8e1DJeYrVbVl5luua1ryJDiYtrR2m4tuFP7ixjln8DxnLA6USR3KM6RvpLurHmPSAqwCWRuJ2ittFX_F2_FtHV5_zUzlud42IcxBbPxjGlJIy2QCcBvRbisg9brFFJlbxGdG7Qn7YYrZ78dyLmsa"
+        },
+        {
+          "name": "Últimos 3 días",
+          "parameters": {
+            "uds": "AE2AFgbf06ZzDvczg9XBG5Z3qflXoF0r2Rb1P3PdHV93NLn5Zvjhgc5KQZDfw08raolq0XooPUhEuGAld_Sfk-XUrOka66WLDEFcoOrmj1a0I-WpkG4S-0HFL8MIxXdtLExu51i6o0_14UQJqvuhaLUCEd_ySOcxAmtnTiKNSUwYfuCQ0muHpbgwfVwIMbbRCnq1pn_DfLDvv0N8WHMeKtu7gVwsZRTR_hvaKd1nOA2AGOv4KLtxvKit4K2um45Pwe6TaDTyESR_1KFaXvpkRTTIH4WauaSwf9CIhZWzJ89QpjE82zirAaZ_PxpagaDtQOadFXvQy8BhL-iuzdVIWetcK0jY-74NkoAUf5C3M6iU9nr20PVp0rHbPMALUeio4D0dUse4UoHU",
+            "q": "customer service en los últimos 3 días"
+          },
+          "link": "https://www.google.com/search?sca_esv=06fa6b2cca60171b&gl=pe&hl=es&sxsrf=AKL5yDj2syPp-p0VnA0VUCwqSejgLxEf0w:1795293852022&q=customer+service+en+los+%C3%BAltimos+3+d%C3%ADas&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXoF0r2Rb1P3PdHV93NLn5Zvjhgc5KQZDfw08raolq0XooPUhEuGAld_Sfk-XUrOka66WLDEFcoOrmj1a0I-WpkG4S-0HFL8MIxXdtLExu51i6o0_14UQJqvuhaLUCEd_ySOcxAmtnTiKNSUwYfuCQ0muHpbgwfVwIMbbRCnq1pn_DfLDvv0N8WHMeKtu7gVwsZRTR_hvaKd1nOA2AGOv4KLtxvKit4K2um45Pwe6TaDTyESR_1KFaXvpkRTTIH4WauaSwf9CIhZWzJ89QpjE82zirAaZ_PxpagaDtQOadFXvQy8BhL-iuzdVIWetcK0jY-74NkoAUf5C3M6iU9nr20PVp0rHbPMALUeio4D0dUse4UoHU&udm=8&sa=X&ved=2ahUKEwjvqsTi9pmYAxXPkokEHXEuOJ0QkbEKegQIGhAD",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=pe&google_domain=google.com&hl=es&location=Peru&q=customer+service+en+los+%C3%BAltimos+3+d%C3%ADas&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXoF0r2Rb1P3PdHV93NLn5Zvjhgc5KQZDfw08raolq0XooPUhEuGAld_Sfk-XUrOka66WLDEFcoOrmj1a0I-WpkG4S-0HFL8MIxXdtLExu51i6o0_14UQJqvuhaLUCEd_ySOcxAmtnTiKNSUwYfuCQ0muHpbgwfVwIMbbRCnq1pn_DfLDvv0N8WHMeKtu7gVwsZRTR_hvaKd1nOA2AGOv4KLtxvKit4K2um45Pwe6TaDTyESR_1KFaXvpkRTTIH4WauaSwf9CIhZWzJ89QpjE82zirAaZ_PxpagaDtQOadFXvQy8BhL-iuzdVIWetcK0jY-74NkoAUf5C3M6iU9nr20PVp0rHbPMALUeio4D0dUse4UoHU"
+        },
+        {
+          "name": "Última semana",
+          "parameters": {
+            "uds": "AE2AFgbf06ZzDvczg9XBG5Z3qflX4JIKLQAuRN7r31O7NhCLTwthg0FP-zNCBIl6AE04Gy146OEKfzmVtrXDxgB-C2POeoPiHQ5_D15xFODKg0IZy-JRFJPN5QhjQu9bnSxTZiK1l9_mOFQDA7-2dLCq4owIKXUIdby7aVYp6vif4XZ2L7YVgRPLdvlbJK540vbqQCgB7o_hcs6fZJXd19euX2Xji8GMo6XOdy2gjht_y-Zza6caHTYxzc64uw4KnJafYL9st-nkhO4F9j5xYyIYuzmJOyriNf4NMCJEWm-iI2tdGAJXYkQC-adW-IC21nUrH4PrMk_H-NnI-pe2ZObad6dHLuHqGy6alvJF1O2n2MGw1iF7cAKOOpWUOgImlc0Z1yMTgGdF",
+            "q": "customer service en la última semana"
+          },
+          "link": "https://www.google.com/search?sca_esv=06fa6b2cca60171b&gl=pe&hl=es&sxsrf=AKL5yDj2syPp-p0VnA0VUCwqSejgLxEf0w:1795293852022&q=customer+service+en+la+%C3%BAltima+semana&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflX4JIKLQAuRN7r31O7NhCLTwthg0FP-zNCBIl6AE04Gy146OEKfzmVtrXDxgB-C2POeoPiHQ5_D15xFODKg0IZy-JRFJPN5QhjQu9bnSxTZiK1l9_mOFQDA7-2dLCq4owIKXUIdby7aVYp6vif4XZ2L7YVgRPLdvlbJK540vbqQCgB7o_hcs6fZJXd19euX2Xji8GMo6XOdy2gjht_y-Zza6caHTYxzc64uw4KnJafYL9st-nkhO4F9j5xYyIYuzmJOyriNf4NMCJEWm-iI2tdGAJXYkQC-adW-IC21nUrH4PrMk_H-NnI-pe2ZObad6dHLuHqGy6alvJF1O2n2MGw1iF7cAKOOpWUOgImlc0Z1yMTgGdF&udm=8&sa=X&ved=2ahUKEwjvqsTi9pmYAxXPkokEHXEuOJ0QkbEKegQIGhAE",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=pe&google_domain=google.com&hl=es&location=Peru&q=customer+service+en+la+%C3%BAltima+semana&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflX4JIKLQAuRN7r31O7NhCLTwthg0FP-zNCBIl6AE04Gy146OEKfzmVtrXDxgB-C2POeoPiHQ5_D15xFODKg0IZy-JRFJPN5QhjQu9bnSxTZiK1l9_mOFQDA7-2dLCq4owIKXUIdby7aVYp6vif4XZ2L7YVgRPLdvlbJK540vbqQCgB7o_hcs6fZJXd19euX2Xji8GMo6XOdy2gjht_y-Zza6caHTYxzc64uw4KnJafYL9st-nkhO4F9j5xYyIYuzmJOyriNf4NMCJEWm-iI2tdGAJXYkQC-adW-IC21nUrH4PrMk_H-NnI-pe2ZObad6dHLuHqGy6alvJF1O2n2MGw1iF7cAKOOpWUOgImlc0Z1yMTgGdF"
+        },
+        {
+          "name": "Último mes",
+          "parameters": {
+            "uds": "AE2AFgbf06ZzDvczg9XBG5Z3qflXA6OquyTQEVRk7Im6xeHdbdEctudni_di9qoQIZZu-9hB599g62-pdUEHPYuWGCdjmAop9auyIhpa-2qIr2oD-CsTydNlt3TgLDf8Zo8eky2kJUBv0K-UC829VTviyFjCW-6jG25vmVn_HrfhuCqDev4ZFTcGCaPPc1-pQwXFHTRbdUJ0YYiBf3adFU97NXkpqCKGrWQBt71-yZC2yFwZ2q14hlnx4HKzzJcVEeZe019ZEx-PwSMfw7SyrXJJjom6OULcAgXztbU_TDHtiTejs1BSRy_ihMkLrGlQXoIBbvMwX34WUcRJAOkvzB6rco5iCWGt36KcwJ-7JhMKElE-cjEKOXQ_RuhgTs2i1qDaM484DJCY",
+            "q": "customer service en el último mes"
+          },
+          "link": "https://www.google.com/search?sca_esv=06fa6b2cca60171b&gl=pe&hl=es&sxsrf=AKL5yDj2syPp-p0VnA0VUCwqSejgLxEf0w:1795293852022&q=customer+service+en+el+%C3%BAltimo+mes&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXA6OquyTQEVRk7Im6xeHdbdEctudni_di9qoQIZZu-9hB599g62-pdUEHPYuWGCdjmAop9auyIhpa-2qIr2oD-CsTydNlt3TgLDf8Zo8eky2kJUBv0K-UC829VTviyFjCW-6jG25vmVn_HrfhuCqDev4ZFTcGCaPPc1-pQwXFHTRbdUJ0YYiBf3adFU97NXkpqCKGrWQBt71-yZC2yFwZ2q14hlnx4HKzzJcVEeZe019ZEx-PwSMfw7SyrXJJjom6OULcAgXztbU_TDHtiTejs1BSRy_ihMkLrGlQXoIBbvMwX34WUcRJAOkvzB6rco5iCWGt36KcwJ-7JhMKElE-cjEKOXQ_RuhgTs2i1qDaM484DJCY&udm=8&sa=X&ved=2ahUKEwjvqsTi9pmYAxXPkokEHXEuOJ0QkbEKegQIGhAF",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=pe&google_domain=google.com&hl=es&location=Peru&q=customer+service+en+el+%C3%BAltimo+mes&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXA6OquyTQEVRk7Im6xeHdbdEctudni_di9qoQIZZu-9hB599g62-pdUEHPYuWGCdjmAop9auyIhpa-2qIr2oD-CsTydNlt3TgLDf8Zo8eky2kJUBv0K-UC829VTviyFjCW-6jG25vmVn_HrfhuCqDev4ZFTcGCaPPc1-pQwXFHTRbdUJ0YYiBf3adFU97NXkpqCKGrWQBt71-yZC2yFwZ2q14hlnx4HKzzJcVEeZe019ZEx-PwSMfw7SyrXJJjom6OULcAgXztbU_TDHtiTejs1BSRy_ihMkLrGlQXoIBbvMwX34WUcRJAOkvzB6rco5iCWGt36KcwJ-7JhMKElE-cjEKOXQ_RuhgTs2i1qDaM484DJCY"
+        }
+      ]
+    },
+    {
+      "name": "Fecha de publicación",
+      "options": [
+        {
+          "name": "Ayer",
+          "parameters": {
+            "uds": "AE2AFgbf06ZzDvczg9XBG5Z3qflXhWccJ5BrkXQF8W7Kp5gILrxivU_NrM6vUW7j1nCfHW9kUzHjOh3ZhNDbA7CqM7ql4PlCmmPAgGLqw-0OKQoo1WfyZoi8MGFEqny1wPIak1eRuUfb-S53SL5mbgUegJiW9EuoiSOYDtcNf02lhW7lKmSglB2sQTktkcHNqB5ukH8H293xV_mLUHegWXu_Be892WuYjgpOP07C5Okhl-970XmHsai_8e1DJeYrVbVl5luua1ryJDiYtrR2m4tuFP7ixjln8DxnLA6USR3KM6RvpLurHmPSAqwCWRuJ2ittFX_F2_FtHV5_zUzlud42IcxBbPxjGlJIy2QCcBvRbisg9brFFJlbxGdG7Qn7YYrZ78dyLmsa",
+            "q": "customer service desde ayer"
+          },
+          "link": "https://www.google.com/search?sca_esv=06fa6b2cca60171b&gl=pe&hl=es&sxsrf=AKL5yDj2syPp-p0VnA0VUCwqSejgLxEf0w:1795293852022&q=customer+service+desde+ayer&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXhWccJ5BrkXQF8W7Kp5gILrxivU_NrM6vUW7j1nCfHW9kUzHjOh3ZhNDbA7CqM7ql4PlCmmPAgGLqw-0OKQoo1WfyZoi8MGFEqny1wPIak1eRuUfb-S53SL5mbgUegJiW9EuoiSOYDtcNf02lhW7lKmSglB2sQTktkcHNqB5ukH8H293xV_mLUHegWXu_Be892WuYjgpOP07C5Okhl-970XmHsai_8e1DJeYrVbVl5luua1ryJDiYtrR2m4tuFP7ixjln8DxnLA6USR3KM6RvpLurHmPSAqwCWRuJ2ittFX_F2_FtHV5_zUzlud42IcxBbPxjGlJIy2QCcBvRbisg9brFFJlbxGdG7Qn7YYrZ78dyLmsa&udm=8&sa=X&ved=2ahUKEwjvqsTi9pmYAxXPkokEHXEuOJ0QkbEKegQIGhAC",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=pe&google_domain=google.com&hl=es&location=Peru&q=customer+service+desde+ayer&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXhWccJ5BrkXQF8W7Kp5gILrxivU_NrM6vUW7j1nCfHW9kUzHjOh3ZhNDbA7CqM7ql4PlCmmPAgGLqw-0OKQoo1WfyZoi8MGFEqny1wPIak1eRuUfb-S53SL5mbgUegJiW9EuoiSOYDtcNf02lhW7lKmSglB2sQTktkcHNqB5ukH8H293xV_mLUHegWXu_Be892WuYjgpOP07C5Okhl-970XmHsai_8e1DJeYrVbVl5luua1ryJDiYtrR2m4tuFP7ixjln8DxnLA6USR3KM6RvpLurHmPSAqwCWRuJ2ittFX_F2_FtHV5_zUzlud42IcxBbPxjGlJIy2QCcBvRbisg9brFFJlbxGdG7Qn7YYrZ78dyLmsa"
+        },
+        {
+          "name": "Últimos 3 días",
+          "parameters": {
+            "uds": "AE2AFgbf06ZzDvczg9XBG5Z3qflXoF0r2Rb1P3PdHV93NLn5Zvjhgc5KQZDfw08raolq0XooPUhEuGAld_Sfk-XUrOka66WLDEFcoOrmj1a0I-WpkG4S-0HFL8MIxXdtLExu51i6o0_14UQJqvuhaLUCEd_ySOcxAmtnTiKNSUwYfuCQ0muHpbgwfVwIMbbRCnq1pn_DfLDvv0N8WHMeKtu7gVwsZRTR_hvaKd1nOA2AGOv4KLtxvKit4K2um45Pwe6TaDTyESR_1KFaXvpkRTTIH4WauaSwf9CIhZWzJ89QpjE82zirAaZ_PxpagaDtQOadFXvQy8BhL-iuzdVIWetcK0jY-74NkoAUf5C3M6iU9nr20PVp0rHbPMALUeio4D0dUse4UoHU",
+            "q": "customer service en los últimos 3 días"
+          },
+          "link": "https://www.google.com/search?sca_esv=06fa6b2cca60171b&gl=pe&hl=es&sxsrf=AKL5yDj2syPp-p0VnA0VUCwqSejgLxEf0w:1795293852022&q=customer+service+en+los+%C3%BAltimos+3+d%C3%ADas&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXoF0r2Rb1P3PdHV93NLn5Zvjhgc5KQZDfw08raolq0XooPUhEuGAld_Sfk-XUrOka66WLDEFcoOrmj1a0I-WpkG4S-0HFL8MIxXdtLExu51i6o0_14UQJqvuhaLUCEd_ySOcxAmtnTiKNSUwYfuCQ0muHpbgwfVwIMbbRCnq1pn_DfLDvv0N8WHMeKtu7gVwsZRTR_hvaKd1nOA2AGOv4KLtxvKit4K2um45Pwe6TaDTyESR_1KFaXvpkRTTIH4WauaSwf9CIhZWzJ89QpjE82zirAaZ_PxpagaDtQOadFXvQy8BhL-iuzdVIWetcK0jY-74NkoAUf5C3M6iU9nr20PVp0rHbPMALUeio4D0dUse4UoHU&udm=8&sa=X&ved=2ahUKEwjvqsTi9pmYAxXPkokEHXEuOJ0QkbEKegQIGhAD",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=pe&google_domain=google.com&hl=es&location=Peru&q=customer+service+en+los+%C3%BAltimos+3+d%C3%ADas&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXoF0r2Rb1P3PdHV93NLn5Zvjhgc5KQZDfw08raolq0XooPUhEuGAld_Sfk-XUrOka66WLDEFcoOrmj1a0I-WpkG4S-0HFL8MIxXdtLExu51i6o0_14UQJqvuhaLUCEd_ySOcxAmtnTiKNSUwYfuCQ0muHpbgwfVwIMbbRCnq1pn_DfLDvv0N8WHMeKtu7gVwsZRTR_hvaKd1nOA2AGOv4KLtxvKit4K2um45Pwe6TaDTyESR_1KFaXvpkRTTIH4WauaSwf9CIhZWzJ89QpjE82zirAaZ_PxpagaDtQOadFXvQy8BhL-iuzdVIWetcK0jY-74NkoAUf5C3M6iU9nr20PVp0rHbPMALUeio4D0dUse4UoHU"
+        },
+        {
+          "name": "Última semana",
+          "parameters": {
+            "uds": "AE2AFgbf06ZzDvczg9XBG5Z3qflX4JIKLQAuRN7r31O7NhCLTwthg0FP-zNCBIl6AE04Gy146OEKfzmVtrXDxgB-C2POeoPiHQ5_D15xFODKg0IZy-JRFJPN5QhjQu9bnSxTZiK1l9_mOFQDA7-2dLCq4owIKXUIdby7aVYp6vif4XZ2L7YVgRPLdvlbJK540vbqQCgB7o_hcs6fZJXd19euX2Xji8GMo6XOdy2gjht_y-Zza6caHTYxzc64uw4KnJafYL9st-nkhO4F9j5xYyIYuzmJOyriNf4NMCJEWm-iI2tdGAJXYkQC-adW-IC21nUrH4PrMk_H-NnI-pe2ZObad6dHLuHqGy6alvJF1O2n2MGw1iF7cAKOOpWUOgImlc0Z1yMTgGdF",
+            "q": "customer service en la última semana"
+          },
+          "link": "https://www.google.com/search?sca_esv=06fa6b2cca60171b&gl=pe&hl=es&sxsrf=AKL5yDj2syPp-p0VnA0VUCwqSejgLxEf0w:1795293852022&q=customer+service+en+la+%C3%BAltima+semana&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflX4JIKLQAuRN7r31O7NhCLTwthg0FP-zNCBIl6AE04Gy146OEKfzmVtrXDxgB-C2POeoPiHQ5_D15xFODKg0IZy-JRFJPN5QhjQu9bnSxTZiK1l9_mOFQDA7-2dLCq4owIKXUIdby7aVYp6vif4XZ2L7YVgRPLdvlbJK540vbqQCgB7o_hcs6fZJXd19euX2Xji8GMo6XOdy2gjht_y-Zza6caHTYxzc64uw4KnJafYL9st-nkhO4F9j5xYyIYuzmJOyriNf4NMCJEWm-iI2tdGAJXYkQC-adW-IC21nUrH4PrMk_H-NnI-pe2ZObad6dHLuHqGy6alvJF1O2n2MGw1iF7cAKOOpWUOgImlc0Z1yMTgGdF&udm=8&sa=X&ved=2ahUKEwjvqsTi9pmYAxXPkokEHXEuOJ0QkbEKegQIGhAE",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=pe&google_domain=google.com&hl=es&location=Peru&q=customer+service+en+la+%C3%BAltima+semana&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflX4JIKLQAuRN7r31O7NhCLTwthg0FP-zNCBIl6AE04Gy146OEKfzmVtrXDxgB-C2POeoPiHQ5_D15xFODKg0IZy-JRFJPN5QhjQu9bnSxTZiK1l9_mOFQDA7-2dLCq4owIKXUIdby7aVYp6vif4XZ2L7YVgRPLdvlbJK540vbqQCgB7o_hcs6fZJXd19euX2Xji8GMo6XOdy2gjht_y-Zza6caHTYxzc64uw4KnJafYL9st-nkhO4F9j5xYyIYuzmJOyriNf4NMCJEWm-iI2tdGAJXYkQC-adW-IC21nUrH4PrMk_H-NnI-pe2ZObad6dHLuHqGy6alvJF1O2n2MGw1iF7cAKOOpWUOgImlc0Z1yMTgGdF"
+        },
+        {
+          "name": "Último mes",
+          "parameters": {
+            "uds": "AE2AFgbf06ZzDvczg9XBG5Z3qflXA6OquyTQEVRk7Im6xeHdbdEctudni_di9qoQIZZu-9hB599g62-pdUEHPYuWGCdjmAop9auyIhpa-2qIr2oD-CsTydNlt3TgLDf8Zo8eky2kJUBv0K-UC829VTviyFjCW-6jG25vmVn_HrfhuCqDev4ZFTcGCaPPc1-pQwXFHTRbdUJ0YYiBf3adFU97NXkpqCKGrWQBt71-yZC2yFwZ2q14hlnx4HKzzJcVEeZe019ZEx-PwSMfw7SyrXJJjom6OULcAgXztbU_TDHtiTejs1BSRy_ihMkLrGlQXoIBbvMwX34WUcRJAOkvzB6rco5iCWGt36KcwJ-7JhMKElE-cjEKOXQ_RuhgTs2i1qDaM484DJCY",
+            "q": "customer service en el último mes"
+          },
+          "link": "https://www.google.com/search?sca_esv=06fa6b2cca60171b&gl=pe&hl=es&sxsrf=AKL5yDj2syPp-p0VnA0VUCwqSejgLxEf0w:1795293852022&q=customer+service+en+el+%C3%BAltimo+mes&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXA6OquyTQEVRk7Im6xeHdbdEctudni_di9qoQIZZu-9hB599g62-pdUEHPYuWGCdjmAop9auyIhpa-2qIr2oD-CsTydNlt3TgLDf8Zo8eky2kJUBv0K-UC829VTviyFjCW-6jG25vmVn_HrfhuCqDev4ZFTcGCaPPc1-pQwXFHTRbdUJ0YYiBf3adFU97NXkpqCKGrWQBt71-yZC2yFwZ2q14hlnx4HKzzJcVEeZe019ZEx-PwSMfw7SyrXJJjom6OULcAgXztbU_TDHtiTejs1BSRy_ihMkLrGlQXoIBbvMwX34WUcRJAOkvzB6rco5iCWGt36KcwJ-7JhMKElE-cjEKOXQ_RuhgTs2i1qDaM484DJCY&udm=8&sa=X&ved=2ahUKEwjvqsTi9pmYAxXPkokEHXEuOJ0QkbEKegQIGhAF",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=pe&google_domain=google.com&hl=es&location=Peru&q=customer+service+en+el+%C3%BAltimo+mes&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXA6OquyTQEVRk7Im6xeHdbdEctudni_di9qoQIZZu-9hB599g62-pdUEHPYuWGCdjmAop9auyIhpa-2qIr2oD-CsTydNlt3TgLDf8Zo8eky2kJUBv0K-UC829VTviyFjCW-6jG25vmVn_HrfhuCqDev4ZFTcGCaPPc1-pQwXFHTRbdUJ0YYiBf3adFU97NXkpqCKGrWQBt71-yZC2yFwZ2q14hlnx4HKzzJcVEeZe019ZEx-PwSMfw7SyrXJJjom6OULcAgXztbU_TDHtiTejs1BSRy_ihMkLrGlQXoIBbvMwX34WUcRJAOkvzB6rco5iCWGt36KcwJ-7JhMKElE-cjEKOXQ_RuhgTs2i1qDaM484DJCY"
+        }
+      ]
+    }
+  ],
+  "jobs_results": [
+    {
+      "title": "Customer Service Representative | FINTECH OAK",
+      "company_name": "TP",
+      "location": "Miraflores",
+      "via": "LinkedIn",
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=customer+service&htidocid=ZedJXgze4f1PPMAPAAAAAA%3D%3D&hl=es-PE&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_xXOOw6CQBRG4dhSWVvd2gKMiQ1WxviKzyg9GeAXMAN3nDsQCrfiRmzdmNKc8svx3gPvsGzEcQVLN9i2TEFXGAtB7ZQrW9CL1rtTtFpu6bzYh5R8P_JskCnKQKiMBhNq2jDnGqN54ZyRMAhEtJ9LT6R-ylXANRLuggcn0ieWQlkYrRzi6WzS-abOx8Po0lPH0qq75v_DD7Co4FKgAAAA&shmds=v1_Ac3VAoxLxlx79kaK8p9wINDgNLuuFKi0eGsb1xqiS-ycIHxTQQ&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=customer+service&htidocid=ZedJXgze4f1PPMAPAAAAAA%3D%3D",
+      "thumbnail": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAADgAAAA4CAMAAACfWMssAAAAUVBMVEX___8AAADf39_z8_P39_eMjIx1dXWmpqaZmZlpaWleXl7c3Nxvb2_6-vpXV1fExMTl5eVKSkrW1tavr69QUFC2trbMzMwfHx-goKBkZGSFhYUp_vLQAAAAvklEQVRIie3V2w6CMBBF0baWS20VBFHx_z9UrgE1M23Pk4ndT5CwKDABhEilfqvi7MrqBMBMjrkahFKWKJQGhbFrblDS96mtGrLL3ritarPBnD79ZTpAzTvyK-bCjixsPJKELQNHScKCg4MEobg2FOx4KDQFLe_WosbBwgyFBxBWge4TemZBwluw28P7I5ytsHfPNnB-7xD4wMXNIEFPncmHDLBiD7wScwaFOxn7cAwKhVugjoVCTyE_8dQ_9AISTwTSjsDecgAAAABJRU5ErkJggg.png",
+      "extensions": [
+        "hace 22 horas",
+        "Tiempo completo"
+      ],
+      "detected_extensions": {
+        "posted_at": "hace 22 horas",
+        "schedule_type": "Tiempo completo"
+      },
+      "source_link": "https://pe.linkedin.com/jobs/view/customer-service-representative-fintech-oak-at-tp-4493215281",
+      "job_title": "Customer Service Representative | FINTECH OAK",
+      "description": "Customer Service Representative | FINTECH OAK\n\n \n\nEstimada Red, en TP Perú:\n\n \n\n¡Estamos buscando talento para nuestras posiciones de Hotels Specialist (Customer service representative) para una reconocida marca de hoteles y complejos turísticos.!\n\n \n\nSi te interesa desarrollarte en un entorno dinámico y tienes un nivel de inglés intermedio - avanzado, esta oportunidad puede ser para ti.\n\n \n\nPosición: Customer service represetative (Llamadas)\n\nModalidad: 100% Presencial - Site Miraflores (Av. Pardo 200, Miraflores, Lima - Perú)\n\nIdioma requerido: Inglés Intermedio - Avanzado\n\n \n\nBeneficios:\n\n• Salario: S/. 2000\n\n• Bono de alimentos: Hasta S/. 260\n\n• 50% Variable por desempeño\n\n• Planilla completa desde el día 1📋\n\n• Capacitación pagada\n\n \n\nTraining y Nesting:\n\n• Lunes a sábado: 08:00 am - 5:00 pm\n\n• Duración: 2 semanas aprox.\n\n \n\nJornada laboral (Operaciones):\n\n• 48 horas semanales\n\n• Jornada de 8 horas + lunch, dentro del rango de 8 am - 5pm  | 10 am - 6pm | 1pm - 10pm \n\n• Lunes a Domingo (1 día off)\n\n \n\nSi buscas crecer profesionalmente y formar parte de un equipo enfocado en brindar experiencias de calidad al cliente, envíame un correo con tu CV con el asunto Hotels Specialist Miraflores\n\n \n\nPostulación a Claudia.EspinozaMendoza@teleperformance.com\n\n \n\n¡Postula o comparte esta oportunidad!",
+      "apply_options": [
+        {
+          "title": "LinkedIn",
+          "link": "https://pe.linkedin.com/jobs/view/customer-service-representative-fintech-oak-at-tp-4493215281?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "BeBee",
+          "link": "https://bebee.com/pe/jobs/customer-service-representative-fintech-oak-tp-miraflores--fj-2479343703?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJDdXN0b21lciBTZXJ2aWNlIFJlcHJlc2VudGF0aXZlIHwgRklOVEVDSCBPQUsiLCJjb21wYW55X25hbWUiOiJUUCIsImh0aWRvY2lkIjoiWmVkSlhnemU0ZjFQUE1BUEFBQUFBQT09IiwidXVsZSI6IncrQ0FJUUlDSUVVR1Z5ZFEiLCJnbCI6InBlIiwiaGwiOiJlcyIsImZjIjoiRXNzQkNvd0JRVVJFWWxkbFluaEVZMHhoTW1Rek1WSk9aakJLYVVaRU5tcEhNMlpZUmtsVlpFcHRRMGR4YjJvd2VHWTJZbWswVm05Q2JYQnpaa2RPY0hSeVYyUkJjM2hSY0hSdFVFVkZlR3BzWjJaT1dGbFFUVWRsZW05bFIwbG5MV05hV2tGb05YVktjRzUwUTI4NGRYRnlObXQyY1ZkSVpVVnBURXhFT1dOSlFrdFNNakV3UlZsSlNXNTNOWEJrYTI4U0ZtNUJTVU5oTFRsemVqWlhiVEZCWDNnelQwUndRMUVhSWtGSVRqQkZOMFo0UnpWTlNYRlhkbXBFU214SlJIZzFjMVJuTFdOdFptZFZTMmMiLCJmY3YiOiIzIiwiZmNfaWQiOiJaZWRKWGd6ZTRmMVBQTUFQQUFBQUFBPT0ifQ=="
+    },
+    {
+      "title": "Asesor de Experiencia al Cliente/ Customer service - Sede Callao",
+      "company_name": "Sharf",
+      "location": "Callao",
+      "via": "Computrabajo Perú",
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=customer+service&htidocid=dXgUD3KmgPZMoMpIAAAAAA%3D%3D&hl=es-PE&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_yWNMQrCQBREsU1jb_VrwawINrGSIB4gBwg_65hENvvX_RvJrextvZgJNsMwPN5k71VWnxUqkW6gyxQQe3jbM7Gj0s09wVA5apIBkRTx1VvQjirMfMnOsRTUfD_6HHHjRYIhOAjB01WkddicupSCFsaourzVxKm3uZXBiEcjk3lIo0vU2nFEcJxQH477KQ--3a6rebwvtv_ZD_2YWxWyAAAA&shmds=v1_Ac3VAownsIRHXXVBA2RKQAUB4qurRHVrCZb1NBO3nAXcjgIyKA&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=customer+service&htidocid=dXgUD3KmgPZMoMpIAAAAAA%3D%3D",
+      "thumbnail": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAADgAAAA4CAMAAACfWMssAAAAclBMVEVoACv___9cAAxkACH79vhnAClaAABhABtkACNfABViAB707fBlACVVAABYAABbAAfo3OHj1tuyjpqhdIOEQ1iRWmxPAABeABF4K0W2lJ-aaHi5m6SrhJDOt7-ke4jczNGJS1_GrLVxGjnVwch8M0x-OlD98vHbAAAB1UlEQVRIie1Ty5KjMAzExm9MbBMeIQkBksz__-JIMkzVzlZlD3ulD7aQW2pJNkVx4MCBA_8NrbX5zJAlcJz87W6a8fox0vlzA_B_en3LGLvpT3EdQ1Thl_sOzu6DovSCAie7O_JqJ3BKXxq5u_L205F7AGHuund2a25LhFSRsdi_z4uV0pCrtFYWaBvpuDY58-CoRV-OqRIANipwrzdYorerIFSrl2T7cxSihsxMiBdWKp8V29Bh5zOZN6IQUuBgV5gvnbKL5kfqVUToEQ-XF6wvnmJMOeXTogxSxjZzaX6YTtSq7lXgqFbaNxZsuerHnL9F-lSHEFQD1tcp0NwHqk2I-W0GUIihvML32Rm5F0uXtCB5wGLkNmPTbudCX0jKYjeXssA6xwSl9UjHrmTOvN9NWTyaEe91yVIcyEJpjLvW2G6PdE7XSZm3OKtOdd1jWQtJ-YCj7XFkjVpQ1e9PxWDmh9vipgqAgqKeUcp_IRmrZn2g7rqdrnPmHMjF3uKClzRzelUdUth6x8EZtFuk09TVVukzIebpYd0lpnh3eowpFShV3dWU0qtegUD12TmlnxYlJ1iXTdgcbNJ1j9bqwsJJoTkfMnnAz3_AOP_XX37gwIEDGd9rNBtq7gQpEwAAAABJRU5ErkJggg.png",
+      "extensions": [
+        "hace 5 días",
+        "Tiempo completo"
+      ],
+      "detected_extensions": {
+        "posted_at": "hace 5 días",
+        "schedule_type": "Tiempo completo"
+      },
+      "source_link": "https://pe.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-asesor-de-experiencia-al-cliente-customer-service-sede-callao-en-callao-416B14C62815A4FA61373E686DCF3405",
+      "job_title": "Asesor de Experiencia al Cliente/ Customer service - Sede Callao",
+      "description": "¡HAY CHAMBA EN SHARF!\n¿Listo/a para transformar la logística sostenible con nosotros?\nEn Sharf, tenemos más de 42 años transformamos la logística con sostenibilidad e innovación. ¡Buscamos talento con curiosidad y ganas de crecer en un entorno inclusivo!\nHoy nos encontramos en búsqueda de un/a  Asesor de Experiencia al Cliente/Customer Service  para Callao.\n Tus Principales Desafíos:\nAtender y gestionar las llamadas telefónicas u otros medios de comunicación como las redes sociales con el fin de absolver las dudas de los clientes en tiempo real.\nRealizar el seguimiento de las gestiones de los clientes con el fin de la eficiencia de las entregas y recojos de paquetes.\nResolver las consultas de exportaciones y importaciones con el fin de hacer efectiva cada operación mediante los canales de atención.\nCumplir con las métricas de satisfacción con el fin de garantizar la mejor experiencia al cliente en los canales de atención como llamadas o redes sociales.\n Perfil del Candidato Ideal\nEgresado(a) o Estudiante de Administración, Comercio Exterior, Negocios Internacionales o afines.\nManejo de Excel nivel básico.\n6 meses desempeñándose en el puesto o asumiendo funciones similares.\nExperiencia en rubro logístico (deseable, no indispensable)\n Sobre tu horario de trabajo:\nPresencial, Lunes a Viernes de 8:30 am a 6:00 pm - Sábados de 9 am. a 1 pm.\n ¿Qué ofrecemos para ti?\n Sueldo: Acorde al mercado.\n Crecimiento: Línea de carrera y beneficios corporativos.\n Cultura: Excelente clima laboral basado en la diversidad y el respeto.\nEn Sharf, creemos que la diversidad y la inclusión son fundamentales para nuestro éxito. Creemos que un equipo diverso nos hace más fuertes y capaces de cumplir con nuestra propuesta de valor.\nNuestro compromiso es crear un entorno de trabajo donde todas las personas de nuestro equipo se sientan valoradas, seguras y apoyadas, independientemente de su origen, raza, género, orientación sexual, discapacidad, religión, etc.-Requerimientos- Educación mínima: Educación Secundaria\n años de experiencia\nConocimientos: Servicio al cliente\nPalabras clave: advisor, asesor, costumer, cliente, servicio, service",
+      "apply_options": [
+        {
+          "title": "Computrabajo Perú",
+          "link": "https://pe.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-asesor-de-experiencia-al-cliente-customer-service-sede-callao-en-callao-416B14C62815A4FA61373E686DCF3405?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "BeBee",
+          "link": "https://bebee.com/pe/jobs/asesor-de-experiencia-al-cliente-customer-service-sede-callao-sharf-callao--techmap_pe_416B14C62815A4FA61373E686DCF3405?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJBc2Vzb3IgZGUgRXhwZXJpZW5jaWEgYWwgQ2xpZW50ZS8gQ3VzdG9tZXIgc2VydmljZSAtIFNlZGUgQ2FsbGFvIiwiY29tcGFueV9uYW1lIjoiU2hhcmYiLCJodGlkb2NpZCI6ImRYZ1VEM0ttZ1BaTW9NcElBQUFBQUE9PSIsInV1bGUiOiJ3K0NBSVFJQ0lFVUdWeWRRIiwiZ2wiOiJwZSIsImhsIjoiZXMiLCJmYyI6IkVzc0JDb3dCUVVSRVlsZGxZV1p5TW1SMU5WQnRhSEpPUlhNM2FYaFVVbVpMYUZkUmFYSmFURmxWZGtvMVNtSnJNbFJUWDBKdlVrTlJZMWhMYkZwaFpITkVVRkV6T0hsVVEycG9kM2t4YkdkVlFWWnNTbGwwTFhoaWFIYzBXWFl5WVRGbFFtbDBRazlOU1c5elJXWkhhR05HTkd4R09HVk5iVmsxTWtkblMwTm5kekJzVjFwaFpFcDFkMVpWZG5Nd1pIRVNGbTVCU1VOaExUbHplalpYYlRGQlgzZ3pUMFJ3UTFFYUlrRklUakJGTjBaaGNYaEJja1o1ZURCZlRXcHFWWE56WVdNM1EySnJYMlpGZDJjIiwiZmN2IjoiMyIsImZjX2lkIjoiZFhnVUQzS21nUFpNb01wSUFBQUFBQT09In0="
+    },
+    {
+      "title": "CUSTOMER SERVICE REPRESENTATIVES IN ENGLISH",
+      "company_name": "IA PERU",
+      "location": "San Miguel",
+      "via": "Bumeran Perú",
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=customer+service&htidocid=ZMlDYBpyQt6C0g-AAAAAAA%3D%3D&hl=es-PE&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_xXMMQ6CMBQA0Liyuzj92YEaExeciPnBGkHSAisp8AOYQtGWhON4DlcvZlje-LzPxrtdcpk9YhQgURT8giAwFSgxycKMFyiBJ4BJdOfyGkD1-9rXTI2ChoCGSZMBGiEyptW0O3fOTTZgzFrtt9Yp19d-bQZmRqrMwp6msiul7dSbJq0clcfTYfGnsd1veQgpinz9pBoh7tuZ9B8W-XE6owAAAA&shmds=v1_Ac3VAoyAMl8us2G1dmjStrXk1DhssH065rf9a-75Jc1KTjSr_g&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=customer+service&htidocid=ZMlDYBpyQt6C0g-AAAAAAA%3D%3D",
+      "thumbnail": "https://serpapi.com/images/i/_9j_4AAQSkZJRgABAQAAAQABAAD_2wCEAAkGBwgHBgkIBwgKCgkLDRYPDQwMDRsUFRAWIB0iIiAdHx8kKDQsJCYxJx8fLT0tMTU3Ojo6Iys_RD84QzQ5OjcBCgoKDQwNGg8PGjclHyU3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3N__AABEIACMAOAMBIgACEQEDEQH_xAAbAAEAAgIDAAAAAAAAAAAAAAAABQYCBwEDBP_EACoQAAEEAQMDAwMFAAAAAAAAAAEAAgMRBAUSIRMiMUFRcQYUMmGBkZKx_8QAFwEBAQEBAAAAAAAAAAAAAAAAAAMEAv_EABwRAAICAwEBAAAAAAAAAAAAAAADARECBBIxE__aAAwDAQACEQMRAD8A3iiwleGt5NKu6rrZxd2x0hIcB2qLX4qi5KqTk2axLKipR1bNnyI4MfLfvkcGtFe_7KTxsjUzNM_DfHk4hlIZJI4HcGtiaQ3uFdwnuweR7VfGvsw--Y8On6-Sa6n0sSKvnUdXDSXY-O0BpLn87W0x5JsuB89P09Xea3DP7rWzN0xBjho2gyuHBdts03qXVkevv8rSQJ1FC4ubqsz4t2LGxjnFsnrsIcPUO5tt-nBFc-EQHp1DIMbTTQqLrOZOZ-XFrL5py2SWg-QCsTDGfMbP6hZn6_2iro2a21CJvmzX_wBPNlnxtQ1IFobjx9OKSjZcR3H5APn9VLtZpublugjjzGPdvLI-wNax9McQb_G2Elp5uzXhWnoxlhYY27D5bQr-Fx9vDQHSZQojtHFeP9K710wnDiCWw-XsnOSLP0_iyNFyyuGxzQdwNhzAw2a7uADzfKO-nYHzSyyZEz3yAi3Bvb-dVxxW818BTAAAAHAC5ViB04mO3Fh6TCSNzncgCrJNcfKLuRAEREAREQBERAEREB__2Q.jpg",
+      "extensions": [
+        "hace 6 días",
+        "Tiempo completo"
+      ],
+      "detected_extensions": {
+        "posted_at": "hace 6 días",
+        "schedule_type": "Tiempo completo"
+      },
+      "source_link": "https://www.bumeran.com.pe/empleos/customer-service-representatives-in-english-ia-peru-1118664707.html",
+      "job_title": "CUSTOMER SERVICE REPRESENTATIVES IN ENGLISH",
+      "description": "Job Summary\n\n We are looking for a Call Representative in English to join our team Remotely/Onsite. In this role, you will be responsible for providing excellent customer service to our current and potential customers. You will be the first point of contact for our customers, and you will be responsible for answering their questions, resolving their issues, and providing them with the best possible experience.Responsibilities\n\n Answer inbound and outbound calls from customers Provide customer service and support Resolve customer issues Follow scripts when handling different topics Identify customer needs Clarify information Enter information Document procesing Provide solutions and/or alternativesQualifications\n\n Strong phone and verbal communication skills Excellent active listening skills Customer focus and adaptability to different personality types English fluency Basic computer knowledge (Windows, Office) Ability to work well within a teamBenefits\n\n Full-time position Steady work hours Long-term positions Competitive salary Paid holidaysWe are looking for a team player who is passionate about providing excellent customer service. If you are a strong communicator with excellent phone and verbal skills, we encourage you to apply for this position.",
+      "apply_options": [
+        {
+          "title": "Bumeran Perú",
+          "link": "https://www.bumeran.com.pe/empleos/customer-service-representatives-in-english-ia-peru-1118664707.html?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Jobted",
+          "link": "https://www.jobted.com.pe/job/52c254b173546f2e9c0f45548b92c0d6?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Mipleo Perú",
+          "link": "https://www.mipleo.com.pe/ofertas-de-trabajo/oferta-de-trabajo-en-lima/customer-service-representatives-in-english-6796183.html?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJDVVNUT01FUiBTRVJWSUNFIFJFUFJFU0VOVEFUSVZFUyBJTiBFTkdMSVNIIiwiY29tcGFueV9uYW1lIjoiSUEgUEVSVSIsImh0aWRvY2lkIjoiWk1sRFlCcHlRdDZDMGctQUFBQUFBQT09IiwidXVsZSI6IncrQ0FJUUlDSUVVR1Z5ZFEiLCJnbCI6InBlIiwiaGwiOiJlcyIsImZjIjoiRXNzQkNvd0JRVVJFWWxkbFdrdEVZV3MxU21KMk1HTmhTbGx3UmxGRVlqRkxTbGh0T1dkaFVYVmhlVkpFZDBsS01rdFhVemhKU0c0NVpUaGxjM04wV2xadGREaFNWblF4UldaTVNYZFFiVVpDY3kxNVVHUmZVVEY2ZUdkNk0yZHFVV3h5YkUwNVMxSXdSbkJFZGw5b1NYSklSR1ZCY1d0Qk9XWlNNRE5XU1VFdFYybEdaRE5LYVV4WWFqUnljbkExVW00U0ZtNUJTVU5oTFRsemVqWlhiVEZCWDNnelQwUndRMUVhSWtGSVRqQkZOMFU0Y1hjdFMwRnNiWGxIT0ZWV1IwNXRNVWhGV214aFp6ZHZORkUiLCJmY3YiOiIzIiwiZmNfaWQiOiJaTWxEWUJweVF0NkMwZy1BQUFBQUFBPT0ifQ=="
+    },
+    {
+      "title": "Customer Service & Sales Representative",
+      "company_name": "StratifyIQ",
+      "location": "Arequipa",
+      "via": "Indeed",
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=customer+service&htidocid=w0AXYLw-GVnzZOO8AAAAAA%3D%3D&hl=es-PE&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_xXMMQ6CMBSH8bhyAAenNzk4UGPigpMx0TgqByAF_kJN6St9heBhvIirF1OWb_t9yXuRnE-DRO4QKEcYTQVaU64thO7wAQIXdTQjMiq_H-kH1JpqEDpvwQRHF-bGYnVoY_SSKSVi00ZmVKUVd4odSp7Uk0uZU0irA7zVEcVuv51S75rNMo_hDx6v621eHgP6wXj9A2XTYBugAAAA&shmds=v1_Ac3VAowGH6GGiU_lGsVtKeEGgeBsSnySDKIWfVZy1h1-8cfKZA&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=customer+service&htidocid=w0AXYLw-GVnzZOO8AAAAAA%3D%3D",
+      "extensions": [
+        "hace 23 horas",
+        "Tiempo completo"
+      ],
+      "detected_extensions": {
+        "posted_at": "hace 23 horas",
+        "schedule_type": "Tiempo completo"
+      },
+      "source_link": "https://pe.indeed.com/viewjob?jk=133f985050e445bb",
+      "job_title": "Customer Service & Sales Representative",
+      "description": "Full-Time - Independent Contractor | Remote | Latin America\n\n\n StratifyIQ is seeking a Customer Service & Sales Representative to join its growing team. This role combines customer support with active sales responsibilities, including inbound and outbound calls, SMS, and email communication. The ideal candidate has a background in BPO or call center environments, is comfortable managing a high volume of customer interactions, and has a sales-oriented mindset focused on turning conversations into business opportunities.\n\n\n Key Responsibilities\n\n\n \n  Handle a high volume of customer interactions through inbound and outbound calls, SMS, and email.\n  Provide excellent customer service by addressing inquiries, resolving issues, and maintaining positive customer relationships.\n  Conduct outbound calls to follow up with leads, re-engage prospects, and generate new sales opportunities.\n  Identify customer needs, recommend appropriate products or services, and convert leads into sales.\n  Manage warm leads and maintain consistent follow-up across multiple channels to maximize conversion rates.\n  Use Google Workspace, including Gmail, Google Sheets, and Google Calendar, to manage communications, track activities, and organize daily workflows.\n  Maintain accurate customer records, interaction logs, and sales pipeline updates in CRM systems.\n  Meet performance targets related to customer satisfaction, response times, call volume, and sales conversions.\n \n Qualifications\n\n\n \n  Previous experience in a BPO, call center, customer service, or sales environment.\n  Proven experience handling high volumes of customer interactions across multiple communication channels.\n  Strong outbound calling, lead follow-up, and sales closing skills.\n  Experience using Google Workspace, particularly Gmail and Google Sheets.\n  Excellent verbal and written English communication skills.\n  Ability to multitask, manage competing priorities, and work efficiently in a fast-paced environment.\n  Strong organizational skills, attention to detail, and a results-driven mindset.\n  Comfort working with CRM systems and performance-based KPIs.\n \n Preferred Qualifications\n\n\n \n  Experience in sales-focused customer service or inside sales roles.\n  Familiarity with CRM platforms, dialers, and customer communication tools.\n  Experience managing warm leads, nurturing prospects, and following up through multiple channels.\n \n What Success Looks Like\n\n\n \n  Customer inquiries are handled promptly, accurately, and professionally across all channels.\n  Warm leads are followed up consistently and converted into sales at a strong rate.\n  Customer satisfaction, response times, and call volume targets are met on a regular basis.\n  CRM records and pipeline updates are complete, accurate, and current.\n \n Work Environment\n\n\n This is a full-time, fully remote role based in Latin America. The position suits someone who works well independently in a fast-paced, metrics-driven environment and is comfortable balancing customer service with active sales responsibilities.\n\n\n What We Offer\n\n\n \n  Full-time remote work\n  Flexible paid time off\n  Opportunities for career advancement\n  Ongoing learning and professional development support\n \n Who We're Looking For\n\n\n We are looking for a proactive, customer-focused professional who combines strong service skills with a drive to close business. You should be comfortable making outbound calls, managing a high volume of interactions, following up consistently, and turning customer conversations into sales opportunities. If you are ready to grow within a collaborative and performance-oriented organization, this role offers the opportunity to make a measurable impact.",
+      "apply_options": [
+        {
+          "title": "Indeed",
+          "link": "https://pe.indeed.com/viewjob?jk=133f985050e445bb&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJDdXN0b21lciBTZXJ2aWNlIFx1MDAyNiBTYWxlcyBSZXByZXNlbnRhdGl2ZSIsImNvbXBhbnlfbmFtZSI6IlN0cmF0aWZ5SVEiLCJodGlkb2NpZCI6IncwQVhZTHctR1ZuelpPTzhBQUFBQUE9PSIsInV1bGUiOiJ3K0NBSVFJQ0lFVUdWeWRRIiwiZ2wiOiJwZSIsImhsIjoiZXMiLCJmYyI6IkVzc0JDb3dCUVVSRVlsZGxZalJIYmt4Qk5qZGtjVXB3T1doa01WOURaek5uYURKQ00xSklTMWsyU1dsUFdrdFplbTlGUjJrNVMybEtOMjVuUWxoNGJFNVlTM3A0Y1hGSlVWZDZSemRGTFU0d1NDMW9SM0ZyV1hReGFWUmxlV1pXUW5rd2VYTmtTblpOUW1oUmVGVklNSEF4VVZGTGVXOVJSamRQUkRSQ0xWOUVWRGxwWVRGSFZUZEtlWGMwU1dSd01VTVNGbTVCU1VOaExUbHplalpYYlRGQlgzZ3pUMFJ3UTFFYUlrRklUakJGTjBkdlpGRmpVVmt3V1Y5MlMzRndWMVZyZFROVlFYWTVSMUpsVTBFIiwiZmN2IjoiMyIsImZjX2lkIjoidzBBWFlMdy1HVm56Wk9POEFBQUFBQT09In0="
+    },
+    {
+      "title": "trabajo R E M O T O/ Asesor de  atención al cliente c/experiencia",
+      "company_name": "Partner Service",
+      "location": "Ica",
+      "via": "LinkedIn",
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=customer+service&htidocid=kB6pi5gPW1Q2n81RAAAAAA%3D%3D&hl=es-PE&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_xWNsW4CMRBERcsHUKSamuKMItFARYEQBSJK6NGeGR1Gxmu8TnT_lQbR8mNwzTRP7834PhpLLdLKRfGNNXbY44C9w8poWnAiIJXJh-d_gkT4GJgq4R37zBIGJAu0z4fdfnmSweA1RyqYsFHtIj-W51qzLZwzi01nVWrwjder08RWe3fR1oY52lkKc3w_Hj_ns77JqZtOvqTUxIIflr_gOXS3Xl4bcrPUuwAAAA&shmds=v1_Ac3VAoyYLdhX965fBzf-SlA0lP1FUDBSwQOnJf6lP4rcGQi-uw&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=customer+service&htidocid=kB6pi5gPW1Q2n81RAAAAAA%3D%3D",
+      "thumbnail": "https://serpapi.com/searches/6b02029a00a7fb5e6183f772/images/DYJM6ukcnPU1wdkedYRRt5P-hSHEdiEZSfFozUcFXfc.jpg",
+      "extensions": [
+        "hace 20 horas",
+        "Tiempo completo"
+      ],
+      "detected_extensions": {
+        "posted_at": "hace 20 horas",
+        "schedule_type": "Tiempo completo"
+      },
+      "source_link": "https://pe.linkedin.com/jobs/view/trabajo-r-e-m-o-t-o-asesor-de-atenci%C3%B3n-al-cliente-c-experiencia-at-partner-service-4493237780",
+      "job_title": "trabajo R E M O T O/ Asesor de  atención al cliente c/experiencia",
+      "description": "¡ÚNETE AL MEJOR EQUIPO HUMANO Y SÉ UN PARTNER MÁS!\n\nSomos Partner Service S.A.C., empresa líder brindando servicios de inbound y outbound en el sector de Telecomunicaciones, con más de 10 años en el mercado, promoviendo una experiencia excepcional al cliente. Debido a nuestro constante crecimiento y desarrollo, nos encontramos en búsqueda del mejor talento para cubrir la posición de: :\n\n TELEOPERADOR PARA CAMPAÑA DE HFC - ( REMOTO)\n\n¿QUÉ ES LO QUE REALIZAR?\n\nEl Asesor Técnico seráresponsable de atender y brindarsoluciones a losclientes de serviciosfijoshogar (cable, internet y telefonía), gestionandoconsultas, soportetécnico, visitas técnicas, reclamos, facturación y solicitudes de postventa. Asimismo, realizará la retención de clientesmediantenegociación, ofrecerádescuentoscuandocorresponda y promoverálosproductos y serviciosvigentes, contribuyendo a la satisfacción del cliente y al cumplimiento de losobjetivos de la operación\n\n¿CUÁLES SERÁN MIS BENEFICIOS?\n\n\n\n Sueldo básico full time mensual de S/1230/ semi 922.5 Bono variableBono de Permanencia Capacitaciones cortas y pagadas Línea de carrera a partir del 3er mes de gestión dentro del servicio.\n\n¿CUÁLES SERÁ MI HORARIO DE TRABAJO?\n\nLunes a domingo (1 día de descanso asignado al termino de capacitación)\n\n📚 CAPACITACIÓN: 9:00 a. m. a 5:00 p. m.\n\n⏰ FULL TIME – RANGO AM: 8:00 a. m. a 7:00 p. m.\n\n🌙 FULL TIME – RANGO PM: 12:00 p. m. a 11:00 p. m.\n\n⏰ SEMI FULL – RANGO AM: 10:00 a. m. a 6:00 p. m.\n\n🌙 SEMI FULL – RANGO PM: 1:00 p. m. a 11:00 p. m.\n\n¿QUÉ REQUISITOS DEBO CUMPLIR?\n\nCon experiencia en call center ventas, retenciones, atención al cliente, entre otros.\n\nVálido para Lima y Callao\n\n Secundaria completa o estudios técnicos y/o universitarios en curso o culminados Conocimientos en Microsoft office nivel usuarioContar con las herramientas para gestión remota\n\n¿CUÁLES DEBEN SER MIS HABILIDADES Y DESTREZAS?\n\n Orientación al cliente Comunicación efectiva Capacidad de negociación\n\nAPROVECHA LA OPORTUNIDAD ¡ÚNETE A PARTNER SERVICE!",
+      "apply_options": [
+        {
+          "title": "LinkedIn",
+          "link": "https://pe.linkedin.com/jobs/view/trabajo-r-e-m-o-t-o-asesor-de-atenci%C3%B3n-al-cliente-c-experiencia-at-partner-service-4493237780?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Jobrapido.com",
+          "link": "https://pe.jobrapido.com/jobpreview/1655555652816207872?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJ0cmFiYWpvIFIgRSBNIE8gVCBPLyBBc2Vzb3IgZGUgIGF0ZW5jacOzbiBhbCBjbGllbnRlIGMvZXhwZXJpZW5jaWEiLCJjb21wYW55X25hbWUiOiJQYXJ0bmVyIFNlcnZpY2UiLCJodGlkb2NpZCI6ImtCNnBpNWdQVzFRMm44MVJBQUFBQUE9PSIsInV1bGUiOiJ3K0NBSVFJQ0lFVUdWeWRRIiwiZ2wiOiJwZSIsImhsIjoiZXMiLCJmYyI6IkVzc0JDb3dCUVVSRVlsZGxZVTVxZFcxMk4ydFZTbmxZYTBkQ2EzbG1ja1ppZVdnNFZsQmhNblV0UzFSSFVscG9jVlJrTkhnd2J6ZFNYMk5xU2poNFZEUkxlV2hZTnpZeVdXbDJNM0J1VEZCb1NsTmtZVzVFTlZwUFgyczJXVGxvVEdKTmVVbGhORE5SZEY5ZmQxWjNjSGt5UlVjd09FdDNUSEZzVVhaRFJXOURVM0pIVVZkc05HeGZkemxMWDBSZlFrb1NGbTVCU1VOaExUbHplalpYYlRGQlgzZ3pUMFJ3UTFFYUlrRklUakJGTjBkWWMwMDRNbUkxU21WWmNWOHhRbk5LVDJKWFQyMXlRbmhyVGxFIiwiZmN2IjoiMyIsImZjX2lkIjoia0I2cGk1Z1BXMVEybjgxUkFBQUFBQT09In0="
+    },
+    {
+      "title": "Customer Service & Sales Representative",
+      "company_name": "StratifyIQ",
+      "location": "Lima",
+      "via": "Indeed",
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=customer+service&htidocid=JSLtfuhvMUiAe6kXAAAAAA%3D%3D&hl=es-PE&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_xXMrQ7CMBSG4WAnkaijEIiVkGCGJIGQYGAXsHTbx37S9pSebhmXwq1guTGYed3zJu9FcjoOEtkiUI4wdhVoTbk2ELrDBwhc1LEbkVH5_chzQK2pBsF6AyY4OjM3BqtDG6OXTCkRkzYyoyqt2Cp2KHlSPZcyp5BWB3ijI4rdfjul3jWbZR7DHzxel9u8vHZW_wDd31LqnAAAAA&shmds=v1_Ac3VAoxoWNcVsu_IZcoNvfdqyu2mOWdvYBReNPrzfWbL0PgdcQ&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=customer+service&htidocid=JSLtfuhvMUiAe6kXAAAAAA%3D%3D",
+      "extensions": [
+        "hace 23 horas",
+        "Tiempo completo"
+      ],
+      "detected_extensions": {
+        "posted_at": "hace 23 horas",
+        "schedule_type": "Tiempo completo"
+      },
+      "source_link": "https://pe.indeed.com/viewjob?jk=70e11ea77b0a0f2b",
+      "job_title": "Customer Service & Sales Representative",
+      "description": "Full-Time - Independent Contractor | Remote | Latin America\n\n\n StratifyIQ is seeking a Customer Service & Sales Representative to join its growing team. This role combines customer support with active sales responsibilities, including inbound and outbound calls, SMS, and email communication. The ideal candidate has a background in BPO or call center environments, is comfortable managing a high volume of customer interactions, and has a sales-oriented mindset focused on turning conversations into business opportunities.\n\n\n Key Responsibilities\n\n\n \n  Handle a high volume of customer interactions through inbound and outbound calls, SMS, and email.\n  Provide excellent customer service by addressing inquiries, resolving issues, and maintaining positive customer relationships.\n  Conduct outbound calls to follow up with leads, re-engage prospects, and generate new sales opportunities.\n  Identify customer needs, recommend appropriate products or services, and convert leads into sales.\n  Manage warm leads and maintain consistent follow-up across multiple channels to maximize conversion rates.\n  Use Google Workspace, including Gmail, Google Sheets, and Google Calendar, to manage communications, track activities, and organize daily workflows.\n  Maintain accurate customer records, interaction logs, and sales pipeline updates in CRM systems.\n  Meet performance targets related to customer satisfaction, response times, call volume, and sales conversions.\n \n Qualifications\n\n\n \n  Previous experience in a BPO, call center, customer service, or sales environment.\n  Proven experience handling high volumes of customer interactions across multiple communication channels.\n  Strong outbound calling, lead follow-up, and sales closing skills.\n  Experience using Google Workspace, particularly Gmail and Google Sheets.\n  Excellent verbal and written English communication skills.\n  Ability to multitask, manage competing priorities, and work efficiently in a fast-paced environment.\n  Strong organizational skills, attention to detail, and a results-driven mindset.\n  Comfort working with CRM systems and performance-based KPIs.\n \n Preferred Qualifications\n\n\n \n  Experience in sales-focused customer service or inside sales roles.\n  Familiarity with CRM platforms, dialers, and customer communication tools.\n  Experience managing warm leads, nurturing prospects, and following up through multiple channels.\n \n What Success Looks Like\n\n\n \n  Customer inquiries are handled promptly, accurately, and professionally across all channels.\n  Warm leads are followed up consistently and converted into sales at a strong rate.\n  Customer satisfaction, response times, and call volume targets are met on a regular basis.\n  CRM records and pipeline updates are complete, accurate, and current.\n \n Work Environment\n\n\n This is a full-time, fully remote role based in Latin America. The position suits someone who works well independently in a fast-paced, metrics-driven environment and is comfortable balancing customer service with active sales responsibilities.\n\n\n What We Offer\n\n\n \n  Full-time remote work\n  Flexible paid time off\n  Opportunities for career advancement\n  Ongoing learning and professional development support\n \n Who We're Looking For\n\n\n We are looking for a proactive, customer-focused professional who combines strong service skills with a drive to close business. You should be comfortable making outbound calls, managing a high volume of interactions, following up consistently, and turning customer conversations into sales opportunities. If you are ready to grow within a collaborative and performance-oriented organization, this role offers the opportunity to make a measurable impact.",
+      "apply_options": [
+        {
+          "title": "Indeed",
+          "link": "https://pe.indeed.com/viewjob?jk=70e11ea77b0a0f2b&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Recruit.net",
+          "link": "https://www.recruit.net/job/customer-service-representative-youth-development-jobs/18A8455C9C4080C6?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJDdXN0b21lciBTZXJ2aWNlIFx1MDAyNiBTYWxlcyBSZXByZXNlbnRhdGl2ZSIsImNvbXBhbnlfbmFtZSI6IlN0cmF0aWZ5SVEiLCJodGlkb2NpZCI6IkpTTHRmdWh2TVVpQWU2a1hBQUFBQUE9PSIsInV1bGUiOiJ3K0NBSVFJQ0lFVUdWeWRRIiwiZ2wiOiJwZSIsImhsIjoiZXMiLCJmYyI6IkVzc0JDb3dCUVVSRVlsZGxZVzlSVDFKcU5HVmlZVGhGU3psWFZsZHVWM2d6YkhsblJVdFhVWEZRY25BNGNsb3pkVWhUY0doNVNTMVhRMFZNTVhKb2IybHVUVTlETFZWdE1YSkJSVXhVTlVGU2NVTklSWGRzZWtWbGEzWkRUV0V0ZUU0M1gxOTVhbEpsYVc1TVNtRkJaWGQ1WWtsNWRFdGpSa1l6VkZWMllsSndSSEZOVG5CMFEyd3hOMDVrWDJoSE56WVNGbTVCU1VOaExUbHplalpYYlRGQlgzZ3pUMFJ3UTFFYUlrRklUakJGTjBWaVFrRjRlV0pHWXpSUlNHdG9WMDlCYVU1S2FHaEZhWGgyWmxFIiwiZmN2IjoiMyIsImZjX2lkIjoiSlNMdGZ1aHZNVWlBZTZrWEFBQUFBQT09In0="
+    },
+    {
+      "title": "Customer Service Bilingüe / Hasta S/2830 / Contrato y Planilla desde el Día 1 - Planilla Completa / Sede Chacarilla!!",
+      "company_name": "Concentrix",
+      "location": "Lima",
+      "via": "Computrabajo Perú",
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=customer+service&htidocid=pcpZ8tHvlT7D2-aOAAAAAA%3D%3D&hl=es-PE&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_0WOMWrDQBBFcevSZapxa7DWsTEYp4sCdpHC4AOY0WqQNox2lJ21kS-SW_gCIZ1uk1Nkt0rz4fM_jzf9nUy_JuVVo3QU4Ezh5izBq2Pnm_GHwMARNSKczXq3WaVaio8Bo8AdTozeMSPUpDUBMbyND4RnWP5PpXQ9UwKYBE-nskWLIU_z-R6q8Vs_r1RnBFB-CpCHg0jD9PTSxtjr3hhVLppkEZ0trHRGPFUymA-pNMdFWwzUM0a6rLeroeh9s5glUUvJ1Q0Z-e46_AP-NCc07QAAAA&shmds=v1_Ac3VAox77f-5UVfr7mqkahbkj3uL9YEBAtrxZDOImn6YaIs2Rg&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=customer+service&htidocid=pcpZ8tHvlT7D2-aOAAAAAA%3D%3D",
+      "thumbnail": "https://serpapi.com/searches/6b02029a00a7fb5e6183f772/images/ZwLjQhAvjJ8n03MXGYdAuRWyu-Flm4pQ3lvkARw3ue8.jpg",
+      "extensions": [
+        "hace 10 días",
+        "Tiempo completo"
+      ],
+      "detected_extensions": {
+        "posted_at": "hace 10 días",
+        "schedule_type": "Tiempo completo"
+      },
+      "source_link": "https://pe.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-customer-service-bilingue-hasta-s2830-contrato-y-planilla-desde-el-dia-1-planilla-completa-sede-chacarilla-en-san-borja-42B99A30638F0FAD61373E686DCF3405",
+      "job_title": "Customer Service Bilingüe / Hasta S/2830 / Contrato y Planilla desde el Día 1 - Planilla Completa / Sede Chacarilla!!",
+      "description": "Hola, ¡SOMOS CONCENTRIX!\nSomos un proveedor líder mundial de soluciones y tecnología de experiencia. Creamos experiencias de cliente que cambian las reglas del juego para algunas de las mejores marcas del mundo. Contamos con más de 440.0000 game-changers. Estamos en más de 70 países y seis continentes.\n· FUNCIONES:\nBrindar soporte frente alguna duda, consulta o inconveniente que tenga el usuario a través de LLAMADAS Y CANAL ESCRITO para cliente del rubro SALUD.\n· BENEFICIOS: \n- Salario base S./ 2360 (básico) + Maqueta de hasta S./470\n- Ingreso directo a planilla completa.\n- Beneficios de acuerdo a la ley.\n· REQUISITOS: \nSer mayor de edad (18 años o más).\nContar con inglés intermedio alto (B2) o avanzado (C1)\nContar con estudios secundarios o superiores completos, en curso o truncos (Instituto o Universitario)\nDisponibilidad para laborar de manera presencial en nuestra sede de CHACARILLA\nExperiencia en Call center mínima de 4 meses.\n· HORARIOS DE GESTIÓN LABORAL: \n Disponibilidad para laborar en nuestra sede de CHACARILLA\n Turnos rotativos de Lunes a Viernes en Rango de 8am a 8pm (FT 45hrs semanales)\n. Descanso 2 días a la semana ROTATIVO\n· CAPACITACIÓN: \n- De Lunes a Viernes de 8am - 5pm en Sede CHACARILLA.\n· De estar interesado, no dudes en aplicar y te contactamos!!.\n\n -Requerimientos- Educación mínima: Educación Secundaria\n años de experiencia\nPalabras clave: servicio, service",
+      "apply_options": [
+        {
+          "title": "Computrabajo Perú",
+          "link": "https://pe.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-customer-service-bilingue-hasta-s2830-contrato-y-planilla-desde-el-dia-1-planilla-completa-sede-chacarilla-en-san-borja-42B99A30638F0FAD61373E686DCF3405?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "BeBee",
+          "link": "https://bebee.com/pe/jobs/gana-hasta-s-2700-customer-service-bilingue-planilla-completa-san-borja-planilla-concentrix-lima--ss-pe-q7neoy?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJDdXN0b21lciBTZXJ2aWNlIEJpbGluZ8O8ZSAvIEhhc3RhIFMvMjgzMCAvIENvbnRyYXRvIHkgUGxhbmlsbGEgZGVzZGUgZWwgRMOtYSAxIC0gUGxhbmlsbGEgQ29tcGxldGEgLyBTZWRlIENoYWNhcmlsbGEhISIsImNvbXBhbnlfbmFtZSI6IkNvbmNlbnRyaXgiLCJodGlkb2NpZCI6InBjcFo4dEh2bFQ3RDItYU9BQUFBQUE9PSIsInV1bGUiOiJ3K0NBSVFJQ0lFVUdWeWRRIiwiZ2wiOiJwZSIsImhsIjoiZXMiLCJmYyI6IkVzc0JDb3dCUVVSRVlsZGxXV2xLVEhZNVprUXpSMnBWU0RZNVJVNXJWWEpoUjAxak9FOUdVM0kxVEhaUmJWVnNVakU1V0hacWIxSmhVV1J4Y1RaUE5FTjROak0zWVc5Sk1qZzBUMVJJUzJoUlZqZFhTR1EzVTBGaE5HWnBhMFJRZERkNmVGSjRha1p0UmtWWVprMXVXVEJxY3pORmFGaFFRbW8zTTNocWVtSjNVMWhRVkVsb1FTMWtUV0Z2WmtaaGFtVVNGbTVCU1VOaExUbHplalpYYlRGQlgzZ3pUMFJ3UTFFYUlrRklUakJGTjBjNVdWVXhWbFkxT1VWcFpXVnJNV2RaVUVKMlRIZDZNRTVNYkVFIiwiZmN2IjoiMyIsImZjX2lkIjoicGNwWjh0SHZsVDdEMi1hT0FBQUFBQT09In0="
+    },
+    {
+      "title": "Customer Service Representative | Peru | On-site | Nightshift (Magdalena del Mar)",
+      "company_name": "Helpware",
+      "location": "Magdalena del Mar",
+      "via": "Jobrapido.com",
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=customer+service&htidocid=UcGctXiv37ICOHUXAAAAAA%3D%3D&hl=es-PE&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_2WNvQ4BQRRGo_UIEsktkdgViYZSQeMnPIDM7n5mR2Znxty7KDyZVu-ZmFrzfckpzul-Ot2wbFl8g0hHxJspQQeECIYTJeYGetIesf3dzo3ZSAJbo2vh2pyFBhulK2XhFFWwtFFxOKfi_eJriyoxQhMsPMHRyntt0VvUIoHnec5sM80pU2alb3LvUPhHfvEFpzlxrSKCVYLTdDZ5ZMHpUX8NG-4_noR_7S9Jlx6U0QAAAA&shmds=v1_Ac3VAoyEmwGTV2zHKgdlNvGZNrKvJH9_pi0xi6DCGGH12V8Spw&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=customer+service&htidocid=UcGctXiv37ICOHUXAAAAAA%3D%3D",
+      "extensions": [
+        "hace 21 horas",
+        "Tiempo completo"
+      ],
+      "detected_extensions": {
+        "posted_at": "hace 21 horas",
+        "schedule_type": "Tiempo completo"
+      },
+      "source_link": "https://pe.jobrapido.com/jobpreview/4854755707888599040",
+      "job_title": "Customer Service Representative | Peru | On-site | Nightshift (Magdalena del Mar)",
+      "description": "Customer Service Representative | Peru | On-site | Nightshift\n\nHere's the deal!\n\nHelpware is a technology-driven company with offices in the USA, Ukraine, Mexico, and the Philippines that provides Customer Experience & Operational Support for modern companies. Our team of professionals is driven by the purpose of providing best-in-class value-adding services to our partners by leveraging our empowered teams, innovative solutions, and technologies.\n\nYour day-to-day!\n\n- Become an expert on the product, knowing all the specifics of its functioning.\n- Perform Back-office activities related to the operational requirements.\n- Autonomously manage assigned tasks, queues, support requests while maintaining productivity.\n- Provide support to customers via email and/or chat in a timely and professional manner.\n- Address customer inquiries, troubleshoot problems, and guide users through basic issue resolution steps.\n- Maintain a positive, empathetic, and professional attitude toward customers at all times.\n- Work on creating, updating, or adjusting customer accounts by documenting personal information.\n- Collaborate with colleagues and management on best practices and insights about any aspect of the job or its duties.\n- Document and track customer interactions, issues, and resolutions in CRM, online tools, and cloud based platforms.\n- Process and prepare information for auditing and reporting purposes.\n- Update internal and customer-facing knowledge bases.\n\n•Convert clients' feedback into feature requests for the development of the product. • Escalate unresolved issues to client-defined escalation paths while maintaining ownership of the case until resolution.\n\n- Effectively communicate technical information to non-technical users.\n- Stay updated on product knowledge and be able to explain features, functionalities, and common troubleshooting steps.\n- Other related tasks assigned by managers of the Client and/or Helpware.\n\nWhat you need\n\n- Advanced English\n- At least 1 years of Customer Service experience\n- Experience supporting customers through email and/or chat is highly preferred\n- Excellent written communication skills with strong grammar and attention to detail\n- Strong problem-solving and critical thinking skills\n- Ability to remain calm and professional when handling difficult situations\n- Comfortable multitasking across multiple systems and applications\n- Reliable internet connection and a distraction-free workspace\n- Availability to work assigned schedules, including weekends if required\n- Availability to work a night shift ( 2:00 AM – 11:00 AM local time).\n\nWhat you get\n\n- Competitive salary\n- Hybrid role\n- Paid training\n- Career growth opportunities\n- Supportive team environment\n- Work with an international company and general clients",
+      "apply_options": [
+        {
+          "title": "Jobrapido.com",
+          "link": "https://pe.jobrapido.com/jobpreview/4854755707888599040?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJDdXN0b21lciBTZXJ2aWNlIFJlcHJlc2VudGF0aXZlIHwgUGVydSB8IE9uLXNpdGUgfCBOaWdodHNoaWZ0IChNYWdkYWxlbmEgZGVsIE1hcikiLCJjb21wYW55X25hbWUiOiJIZWxwd2FyZSIsImh0aWRvY2lkIjoiVWNHY3RYaXYzN0lDT0hVWEFBQUFBQT09IiwidXVsZSI6IncrQ0FJUUlDSUVVR1Z5ZFEiLCJnbCI6InBlIiwiaGwiOiJlcyIsImZjIjoiRXNzQkNvd0JRVVJFWWxkbFlpMWFNMDVDYUVwVVgwaHhTbmhOVG1kT1dHSlFOak5CWnpWRFpUZDBaMmxLT1ZKRlUybE5iRUpyYURZeFdUWm9NMUY1VjNnMGRpMHhObTh4VFZGaVlsUnNOblV3ZEY5bGMweDBNMWsyUlVOa05EbG1kVjlvYlRoTGIzTXdaRlpIU0hWRVRsbFFOV0YyUldvNFRYQkRTQzFvUmxoMGQwcEZWWFJoTkZwNlUxaHFZbTAwTjFnU0ZtNUJTVU5oTFRsemVqWlhiVEZCWDNnelQwUndRMUVhSWtGSVRqQkZOMFkwTkUxNGNITjVkVnBKZFZOZlpHTnhXWGhxZGtGWVFuQXRXWGMiLCJmY3YiOiIzIiwiZmNfaWQiOiJVY0djdFhpdjM3SUNPSFVYQUFBQUFBPT0ifQ=="
+    },
+    {
+      "title": "Customer Service Representative / Hasta S/ 2,830 / 2 Días Libres San Borja / Planilla/Presencial",
+      "company_name": "Webhelp Perú",
+      "location": "San Borja",
+      "via": "JobLeads",
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=customer+service&htidocid=-uL6WO4XDiBcgUhjAAAAAA%3D%3D&hl=es-PE&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_z2OMW7CQBRERcsRqH4dRV5kFCkiHSCRIoWFi5TorxnZi753l_0LosyFcgFaXyOHiZ0izRQzozcz_5nNv2bbq-bQI1GNdHMN6ICYoPCZs7uBDL2zZqbaUPn8ulqORkm74ZuVPpwdm1Szp01IZx6jStg7ETbVH6NxLGuyw0MvV5yYTiD0URAInvYhtILFW5dz1LUxqlK0Os02RRN6EzxsuJtzsDrJUTtOiMIZx_JleS-ib58Wn7AdJFKFNDwm6v-bX0d44ZHfAAAA&shmds=v1_Ac3VAozaPh1Zyf0J8itJgce1tylfQJnme8VZwVzqPz8tRlF0uw&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=customer+service&htidocid=-uL6WO4XDiBcgUhjAAAAAA%3D%3D",
+      "extensions": [
+        "hace 6 días",
+        "De S/ 26 K a S/ 32 K por año",
+        "Tiempo completo"
+      ],
+      "detected_extensions": {
+        "posted_at": "hace 6 días",
+        "salary": "De S/ 26 K a S/ 32 K por año",
+        "schedule_type": "Tiempo completo"
+      },
+      "source_link": "https://www.jobleads.com/pe/job/customer-service-representative-hasta-s-2-830-2-dias-libres-san-borja-planilla-presencial--san-borja--e4bbc58c11d4ea0b8d6d99872f75c2ce3",
+      "job_title": "Customer Service Representative / Hasta S/ 2,830 / 2 Días Libres San Borja / Planilla/Presencial",
+      "description": "FUNCIONES:Brindar soporte frente alguna duda, consulta o inconveniente que tenga el usuario a través de LLAMADAS Y CANAL ESCRITO para cliente del rubro SALUD.\n\nBENEFICIOS:Salario base S./ 2360 (básico) + Maqueta de hasta S./470Ingreso directo a planilla completa.Beneficios de acuerdo a la ley.REQUISITOS:Ser mayor de edad (18 años o más).Contar con inglés intermedio alto (B2) o avanzado (C1)Contar con estudios secundarios o superiores completos, en curso o truncos (Instituto o Universitario)Disponibilidad para laborar de manera presencial en nuestra sede de CHACARILLAExperiencia en Call center mínima de 4 meses.HORARIOS DE GESTIÓN LABORAL:Disponibilidad para laborar en nuestra sede de CHACARILLA Turnos rotativos de Lunes a Domingo en Rango de 8am a 8pm (FT 45hrs semanales) . Descanso 2 días a la semana de forma rotativa\n\nCAPACITACIÓN:De Lunes a Viernes de 8am - 5pm en Sede CHACARILLA.",
+      "apply_options": [
+        {
+          "title": "JobLeads",
+          "link": "https://www.jobleads.com/pe/job/customer-service-representative-hasta-s-2-830-2-dias-libres-san-borja-planilla-presencial--san-borja--e4bbc58c11d4ea0b8d6d99872f75c2ce3?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Jobrapido.com",
+          "link": "https://pe.jobrapido.com/jobpreview/3806192494006239232?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Mipleo Perú",
+          "link": "https://www.mipleo.com.pe/ofertas-de-trabajo/oferta-de-trabajo-en-lima/customer-service-representative-hasta-s-2-830-2-dias-libres-san-borja-planilla-presencial-6796499.html?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJDdXN0b21lciBTZXJ2aWNlIFJlcHJlc2VudGF0aXZlIC8gSGFzdGEgUy8gMiw4MzAgLyAyIETDrWFzIExpYnJlcyBTYW4gQm9yamEgLyBQbGFuaWxsYS9QcmVzZW5jaWFsIiwiY29tcGFueV9uYW1lIjoiV2ViaGVscCBQZXLDuiIsImh0aWRvY2lkIjoiLXVMNldPNFhEaUJjZ1VoakFBQUFBQT09IiwidXVsZSI6IncrQ0FJUUlDSUVVR1Z5ZFEiLCJnbCI6InBlIiwiaGwiOiJlcyIsImZjIjoiRXNzQkNvd0JRVVJFWWxkbFlUTm5XREV6Tld0bVowSlFSMlV6ZWxWa1gzVmFkazFYVWxSVFZGVktiVUZsT0d0bFEwOHdNR3R3VGs5RGVYVnBXbXRHTFRWU1JESkZUVlJGZEZoVVQxRkJXVzFQZUhGeVozTkdWSFo2T0hSMlVEbGtWMHBYYmpVMlRVbzJSMWN6TTFOcU4zbE5XbUp5Y1hKelZGOW5TMHRGT1ROVVYxaFVNamxHYzFscWVHcERhbTFqUzBJU0ZtNUJTVU5oTFRsemVqWlhiVEZCWDNnelQwUndRMUVhSWtGSVRqQkZOMGR3TFdkd2JVOTBSMk16TlhKcVlrZFBTM2cwU1hJelFXTjVRM2MiLCJmY3YiOiIzIiwiZmNfaWQiOiItdUw2V080WERpQmNnVWhqQUFBQUFBPT0ifQ=="
+    },
+    {
+      "title": "Coordinador de Customer Service y Distribución",
+      "company_name": "TATTERSALL",
+      "location": "Ate",
+      "via": "Bumeran Perú",
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=customer+service&htidocid=d7munvRFtGOAsKfBAAAAAA%3D%3D&hl=es-PE&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_xXMvQ6CMBRA4biyuTp1dqDGxAUnosaFOAg76c8N1JTe2nsx-Da-g5srL2ZYzvTlZJ9VdjshJuuCspiEBXEaiXGAJGpIL2dAvMXZESenR-PmbyiEnn_0HMGqhcMQPaCAIK6InYfNsWeOVEhJ5POOWLEzucFBYgCNk3ygpiUt9SpB9Iqh3R92Ux5Dt103ZdNc7nVZVcuyZPgDq73Qs6MAAAA&shmds=v1_Ac3VAoys2bI5XYFOjT7cDhLFy6Gj2DHBgUcCK0I-i-PZy5D1lw&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=customer+service&htidocid=d7munvRFtGOAsKfBAAAAAA%3D%3D",
+      "extensions": [
+        "hace 9 días",
+        "De S/ 1 a S/ 2 por mes",
+        "Tiempo completo"
+      ],
+      "detected_extensions": {
+        "posted_at": "hace 9 días",
+        "salary": "De S/ 1 a S/ 2 por mes",
+        "schedule_type": "Tiempo completo"
+      },
+      "source_link": "https://www.bumeran.com.pe/empleos/coordinador-de-customer-service-y-distribucion-tattersall-1118501398.html",
+      "job_title": "Coordinador de Customer Service y Distribución",
+      "description": "¡Únete al equipo de Tattersall Perú! Estamos en búsqueda de un(a) Asistente de Customer Service y Distribución para incorporarse a nuestro equipo de Operaciones. Buscamos una persona organizada, proactiva, con orientación al cliente y muchas ganas de aprender y desarrollarse profesionalmente.\n\n Asistente de Customer Service y Distribución\n\nResumen del Puesto\n\nEstamos en la búsqueda de un Asistente de Customer Service y Distribución proactivo y organizado, cuya función principal será garantizar la excelencia en la atención y el seguimiento de los pedidos de nuestros clientes. El rol abarca desde la recepción y facturación de los pedidos hasta la coordinación logística del despacho, la entrega final y el cierre documental correspondiente.\n\nPrincipales Responsabilidades\n\n Gestionar de manera eficiente y dar seguimiento continuo a todos los pedidos recibidos de los clientes. Emitir la documentación comercial necesaria, incluyendo facturas y guías de remisión. Coordinar las operaciones de despacho y transporte con el área de almacén y los proveedores logísticos. Verificar la entrega de los productos y gestionar los documentos de recepción. Proporcionar soporte integral al equipo comercial y atender consultas y requerimientos de los clientes.Perfil Requerido\n\n Egresados o bachilleres de Administración, Contabilidad, Ingeniería Industrial, Logística o carreras afines. Experiencia mínima deseable de 6 meses a 1 año en atención de pedidos, facturación o funciones administrativas similares. Conocimientos de facturación electrónica y Excel. Capacidad para la resolución de problemas y la toma de decisiones. Capacidad para trabajar de forma colaborativa en equipo y de manera autónoma.*Indicar pretenciones salariales",
+      "apply_options": [
+        {
+          "title": "Bumeran Perú",
+          "link": "https://www.bumeran.com.pe/empleos/coordinador-de-customer-service-y-distribucion-tattersall-1118501398.html?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "JobLeads",
+          "link": "https://www.jobleads.com/pe/job/coordinador-de-customer-service-y-distribucion--ate--e1e049cae4ee0d78a392928ee7c352215?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "LinkedIn",
+          "link": "https://pe.linkedin.com/jobs/view/coordinador-de-distribuci%C3%B3n-at-ipesa-4490344460?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Glassdoor",
+          "link": "https://www.glassdoor.ca/job-listing/coordinador-de-distribuci%C3%B3n-mastercol-sa-JV_IC3067047_KO0,27_KE28,40.htm?jl=1010304803783&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Trabajo.org",
+          "link": "https://pe.trabajo.org/oferta-1393-37e0f5b265f00f8917258ce3b8305aa7?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Peru Jobs Expertini",
+          "link": "https://pe.expertini.com/job/coordinador-de-customer-service-y-distribucion-ate-inetum-1227-1633962/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "BeBee",
+          "link": "https://bebee.com/pe/jobs/coordinador-de-distribucion-ipesa-ate--t7xk-938409645?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Jobted",
+          "link": "https://www.jobted.com.pe/job/66f0a6df64ed02bbf3746be5297af57e?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJDb29yZGluYWRvciBkZSBDdXN0b21lciBTZXJ2aWNlIHkgRGlzdHJpYnVjacOzbiIsImNvbXBhbnlfbmFtZSI6IlRBVFRFUlNBTEwiLCJodGlkb2NpZCI6ImQ3bXVudlJGdEdPQXNLZkJBQUFBQUE9PSIsInV1bGUiOiJ3K0NBSVFJQ0lFVUdWeWRRIiwiZ2wiOiJwZSIsImhsIjoiZXMiLCJmYyI6IkVzc0JDb3dCUVVSRVlsZGxZamxKUlcxSmNXVnZORE41ZFZOUFRXbzJjR2hHTW1OaE5FSmpRWGRZYlRNNVNGVlJiRFJvYWpsaVZrdFRibWd4YzNoSFMwY3lhR1ExWlZaNVUwTlVZa2N0TXpob1NqaGtRMnBmVTFKclN6SllXVEJWWm5SdlpYRXpPR016UWxWSWREVlJlVzlyUjNWVlV6bGhiREV6UTFaNFFVdHROVFJzUzA1aVoyVm5SRkZTYjJZNWVqWVNGbTVCU1VOaExUbHplalpYYlRGQlgzZ3pUMFJ3UTFFYUlrRklUakJGTjBWcmIxVXplVkJsU2pFelF5MWFla0pZYVdOVGRUUkRXa3ByVVdjIiwiZmN2IjoiMyIsImZjX2lkIjoiZDdtdW52UkZ0R09Bc0tmQkFBQUFBQT09In0="
+    }
+  ],
+  "serpapi_pagination": {
+    "next_page_token": "eyJmYyI6IkVvc0RDc3dDUVVSRVlsZGxZVVpJYjBwSlJ6ZHNkM0pJZDNVMVZFWnRiMWhFTVhWbFJYbFRaWEV5ZEVKS2FHdHFSV3gyZUdaSU9HYzBSRkZzVmt0UlUyWTJUSGRpWkUxcVFYSkZXV2szYTJZNE5HOWpPVGhoZDJKd1UwWmxiVXRsV25ScVJWWk9OVkJNUVVoUFZrdHJhRjlUWTJwTE9XeGxSVXA1Ukhkd2FWSnZTak5UYTNwS2RsRlRZbUZVUm1NdFZVbEhXRFphYlhoMFJISjVSa2xwZUU5QlNFTm9iVEl6Y25SQlVqQk5Vbk5yYVY5d2RHTnBNbWgyUjNaeVFYZEtVWE5CZVUxc2FqQkJWVEpuZG1kVE1HUm1kSFpEV1drNFQzVm5TVGQxYkdsdWRVZFdVbXRLWkZWUVNHNHhVSGR4ZVdSTE56QmZYMlZFYkdRM2NrTk9aVTFTVlRGU1pYaDNWVzlhZUVOZk4xWk5XV0Z3YVhKTmMxUnpOakJZUTIxUFNtdFJVSFJoUTB0MGJDMDJkbkZzT0U5T1JubHBWRjlsTFhKVFdqUmllbkpSZVRsbWJYSnJWazB0VjBSdlFYSTNiVzBTRm01QlNVTmhMVGx6ZWpaWGJURkJYM2d6VDBSd1ExRWFJa0ZJVGpCRk4wY3hkVFpFWTJGM1VGUjZiMjFRVTBkSFVFTXphM0JKZEdkMlVVRSIsImZjdiI6IjMifQ==",
+    "next": "https://serpapi.com/search.json?engine=google_jobs&gl=pe&google_domain=google.com&hl=es&location=Peru&next_page_token=eyJmYyI6IkVvc0RDc3dDUVVSRVlsZGxZVVpJYjBwSlJ6ZHNkM0pJZDNVMVZFWnRiMWhFTVhWbFJYbFRaWEV5ZEVKS2FHdHFSV3gyZUdaSU9HYzBSRkZzVmt0UlUyWTJUSGRpWkUxcVFYSkZXV2szYTJZNE5HOWpPVGhoZDJKd1UwWmxiVXRsV25ScVJWWk9OVkJNUVVoUFZrdHJhRjlUWTJwTE9XeGxSVXA1Ukhkd2FWSnZTak5UYTNwS2RsRlRZbUZVUm1NdFZVbEhXRFphYlhoMFJISjVSa2xwZUU5QlNFTm9iVEl6Y25SQlVqQk5Vbk5yYVY5d2RHTnBNbWgyUjNaeVFYZEtVWE5CZVUxc2FqQkJWVEpuZG1kVE1HUm1kSFpEV1drNFQzVm5TVGQxYkdsdWRVZFdVbXRLWkZWUVNHNHhVSGR4ZVdSTE56QmZYMlZFYkdRM2NrTk9aVTFTVlRGU1pYaDNWVzlhZUVOZk4xWk5XV0Z3YVhKTmMxUnpOakJZUTIxUFNtdFJVSFJoUTB0MGJDMDJkbkZzT0U5T1JubHBWRjlsTFhKVFdqUmllbkpSZVRsbWJYSnJWazB0VjBSdlFYSTNiVzBTRm01QlNVTmhMVGx6ZWpaWGJURkJYM2d6VDBSd1ExRWFJa0ZJVGpCRk4wY3hkVFpFWTJGM1VGUjZiMjFRVTBkSFVFTXphM0JKZEdkMlVVRSIsImZjdiI6IjMifQ%3D%3D&q=customer+service"
+  },
+  "_pipeline_metadata": {
+    "ingestion_timestamp_utc": "2026-11-21T20:44:12.670737+00:00",
+    "search_group": "customer_service",
+    "target_market": "Peru",
+    "target_location": "Peru",
+    "date_filter_applied": "month",
+    "new_records_count": 10,
+    "provider": "serpapi"
+  }
+}

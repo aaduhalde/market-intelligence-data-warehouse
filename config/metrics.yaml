@@ -1,0 +1,38 @@
+# config/metrics.yaml
+metrics:
+  skill_match_score:
+    type: "composite_score"
+    range: "[0, 100]"
+    description: >
+      Porcentaje ponderado de habilidades requeridas en una oferta que son cubiertas
+      por el perfil del candidato, ajustado por los confidence scores y bonificación de alineación de rol.
+    formula: "min(100, (sum(candidate_confidence_scores) / total_required_skills) * 100 + role_alignment_bonus)"
+
+  candidate_accessibility_index:
+    type: "composite_weight"
+    range: "[0.0, 1.0]"
+    description: >
+      Índice que ajusta la factibilidad real de postulación combinando la prioridad geográfica
+      del mercado y el nivel de requerimiento de idioma (inglés/español).
+    formula: "geographic_tier_weight * language_accessibility_weight"
+
+  effective_match_score:
+    type: "composite_score"
+    range: "[0, 100]"
+    description: >
+      Puntaje final de idoneidad que integra la coincidencia técnica (Skill Match Score)
+      con el índice de accesibilidad (geografía e idioma).
+    formula: "skill_match_score * candidate_accessibility_index"
+
+  market_skill_demand_pct:
+    type: "ratio"
+    range: "[0.0, 100.0]"
+    description: "Porcentaje de publicaciones de empleo que requieren una habilidad específica respecto al total analizado."
+    formula: "(count(jobs_requiring_skill) / total_job_postings) * 100"
+
+  skill_gap_priority:
+    type: "categorical"
+    levels:
+      HIGH: "Demanda de mercado >= 25% Y la habilidad NO está en el perfil del candidato"
+      MEDIUM: "Demanda de mercado >= 10% Y < 25% Y la habilidad NO está en el perfil del candidato"
+      LOW: "Demanda de mercado < 10% Y la habilidad NO está en el perfil del candidato"

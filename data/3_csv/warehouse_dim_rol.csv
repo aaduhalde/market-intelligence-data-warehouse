@@ -1,0 +1,9 @@
+﻿rol_id,nombre_rol,familia_rol,nivel_prioridad
+1,Customer Service Representative,primary,1
+2,Customer Success Manager,primary,1
+3,Customer Success Specialist,primary,1
+4,Operations Analyst,primary,1
+5,Operations Coordinator,primary,1
+6,Operations Manager,legacy_leverage,3
+7,Other / Unclassified,Unclassified,3
+8,Team Leader,secondary,2

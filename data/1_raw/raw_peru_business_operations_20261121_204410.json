@@ -1,0 +1,516 @@
+{
+  "search_metadata": {
+    "id": "6b0202a5131811d28cbf036e",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/cSANBHskq9t4R9EjnYZsedeZwrd7GxsFXenHhy59X7g/6b0202a5131811d28cbf036e.json",
+    "markdown_endpoint": "https://serpapi.com/searches/cSANBHskq9t4R9EjnYZsedeZwrd7GxsFXenHhy59X7g/6b0202a5131811d28cbf036e.md",
+    "created_at": "2026-11-21 20:44:21 UTC",
+    "processed_at": "2026-11-21 20:44:21 UTC",
+    "google_jobs_url": "https://www.google.com/search?q=operations&hl=es&gl=pe&udm=8&uule=w+CAIQICIEUGVydQ",
+    "raw_html_file": "https://serpapi.com/searches/cSANBHskq9t4R9EjnYZsedeZwrd7GxsFXenHhy59X7g/6b0202a5131811d28cbf036e.html",
+    "total_time_taken": 3.44
+  },
+  "search_parameters": {
+    "q": "operations",
+    "engine": "google_jobs",
+    "location_requested": "Peru",
+    "location_used": "Peru",
+    "google_domain": "google.com",
+    "hl": "es",
+    "gl": "pe"
+  },
+  "filters": [
+    {
+      "name": "Tipo de trabajo",
+      "options": [
+        {
+          "name": "Tiempo completo",
+          "parameters": {
+            "uds": "AE2AFgbf06ZzDvczg9XBG5Z3qflX4CGKADeW-g2Zn5V6DmjuqP7WywJ3XFq7-sMUFtpU8T7vAqaQfwIyiLduGU1XxZKIly7Hzinvm58zIBFgzaymk6x3ac9HepXR4zz6mlMPjQX3h436a-bD5ETqYxPwX1UvpYWVlVw4MNAGnX0v-o-JgOgQYyi-Ak5ifyxobL40uMfb0GJYCgVpgf2mZkpJUCjpAY6fa8Kt1IdNNtrXkdVHuloS2OOTKP-nl7GqxzXsjBC2gthbR-2RPgEBxxgwSrFUwRMfUOFq2tM9N2RcGAf2peYh-Cmr6uE6u0gSzwLeHdf9GKYhA61Hsf1NvN9FkvlsIOm_Jpkm4SkDHdzJr9ZzQXJgUyM",
+            "q": "operations tiempo completo"
+          },
+          "link": "https://www.google.com/search?sca_esv=06fa6b2cca60171b&hl=es&gl=pe&sxsrf=AKL5yDjC7U3LLIXkr7wyofFzZ2U3a8WeQg:1795293864780&q=operations+tiempo+completo&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflX4CGKADeW-g2Zn5V6DmjuqP7WywJ3XFq7-sMUFtpU8T7vAqaQfwIyiLduGU1XxZKIly7Hzinvm58zIBFgzaymk6x3ac9HepXR4zz6mlMPjQX3h436a-bD5ETqYxPwX1UvpYWVlVw4MNAGnX0v-o-JgOgQYyi-Ak5ifyxobL40uMfb0GJYCgVpgf2mZkpJUCjpAY6fa8Kt1IdNNtrXkdVHuloS2OOTKP-nl7GqxzXsjBC2gthbR-2RPgEBxxgwSrFUwRMfUOFq2tM9N2RcGAf2peYh-Cmr6uE6u0gSzwLeHdf9GKYhA61Hsf1NvN9FkvlsIOm_Jpkm4SkDHdzJr9ZzQXJgUyM&udm=8&sa=X&ved=2ahUKEwjXg8_o9pmYAxXoGFkFHefvOwYQkbEKegQIGRAC",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=pe&google_domain=google.com&hl=es&location=Peru&q=operations+tiempo+completo&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflX4CGKADeW-g2Zn5V6DmjuqP7WywJ3XFq7-sMUFtpU8T7vAqaQfwIyiLduGU1XxZKIly7Hzinvm58zIBFgzaymk6x3ac9HepXR4zz6mlMPjQX3h436a-bD5ETqYxPwX1UvpYWVlVw4MNAGnX0v-o-JgOgQYyi-Ak5ifyxobL40uMfb0GJYCgVpgf2mZkpJUCjpAY6fa8Kt1IdNNtrXkdVHuloS2OOTKP-nl7GqxzXsjBC2gthbR-2RPgEBxxgwSrFUwRMfUOFq2tM9N2RcGAf2peYh-Cmr6uE6u0gSzwLeHdf9GKYhA61Hsf1NvN9FkvlsIOm_Jpkm4SkDHdzJr9ZzQXJgUyM"
+        },
+        {
+          "name": "Tiempo parcial",
+          "parameters": {
+            "uds": "AE2AFgbf06ZzDvczg9XBG5Z3qflXT2y4_f5ChE_95OOqXhSP4uahPTvD4dxQhwdZKtdJagc1QjXA3_V_CYQZ8N0rpsnUHljkDlNl_cQhqGHqrhZ4jv276zuzlBSGP3wm7kkIR-DUIc540rdtPKH8_tXABR_wiFwKLG8PxD1OpinSRFwdjeGy5_qouAQfen6fE_D88HS93qoaPD2Go9mC3j45z-vcON2zvSdS6_8Y7NK2KZwLZWHnvEuIal4EAnSxRjN82-49V3OdvyHzpQFwapzSeW8nh1naUbq886h0uXD4CII6nQ3cDsr4hwQBAKhmAdJsAMk3px6N5yEebgWU8udBxveA9feU0oKLZCaZm9Yr6VPp3n-yPUk",
+            "q": "operations tiempo parcial"
+          },
+          "link": "https://www.google.com/search?sca_esv=06fa6b2cca60171b&hl=es&gl=pe&sxsrf=AKL5yDjC7U3LLIXkr7wyofFzZ2U3a8WeQg:1795293864780&q=operations+tiempo+parcial&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXT2y4_f5ChE_95OOqXhSP4uahPTvD4dxQhwdZKtdJagc1QjXA3_V_CYQZ8N0rpsnUHljkDlNl_cQhqGHqrhZ4jv276zuzlBSGP3wm7kkIR-DUIc540rdtPKH8_tXABR_wiFwKLG8PxD1OpinSRFwdjeGy5_qouAQfen6fE_D88HS93qoaPD2Go9mC3j45z-vcON2zvSdS6_8Y7NK2KZwLZWHnvEuIal4EAnSxRjN82-49V3OdvyHzpQFwapzSeW8nh1naUbq886h0uXD4CII6nQ3cDsr4hwQBAKhmAdJsAMk3px6N5yEebgWU8udBxveA9feU0oKLZCaZm9Yr6VPp3n-yPUk&udm=8&sa=X&ved=2ahUKEwjXg8_o9pmYAxXoGFkFHefvOwYQkbEKegQIGRAD",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=pe&google_domain=google.com&hl=es&location=Peru&q=operations+tiempo+parcial&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXT2y4_f5ChE_95OOqXhSP4uahPTvD4dxQhwdZKtdJagc1QjXA3_V_CYQZ8N0rpsnUHljkDlNl_cQhqGHqrhZ4jv276zuzlBSGP3wm7kkIR-DUIc540rdtPKH8_tXABR_wiFwKLG8PxD1OpinSRFwdjeGy5_qouAQfen6fE_D88HS93qoaPD2Go9mC3j45z-vcON2zvSdS6_8Y7NK2KZwLZWHnvEuIal4EAnSxRjN82-49V3OdvyHzpQFwapzSeW8nh1naUbq886h0uXD4CII6nQ3cDsr4hwQBAKhmAdJsAMk3px6N5yEebgWU8udBxveA9feU0oKLZCaZm9Yr6VPp3n-yPUk"
+        },
+        {
+          "name": "Con contrato",
+          "parameters": {
+            "uds": "AE2AFgbf06ZzDvczg9XBG5Z3qflXSfISFIZYaWIYqRmgX93l3wYBLwDYIAlLgnzR7nS0BajvOUPk4tyDjyzdYPBoMvifk9jXbMhx9w00eTafiT-tG2i4Oh8BS1pr2yi5JmjknQ-ommV14rnnMMUQX6nlMtcSq4vVx0UKib6rO2iWurDWs4zdMDORAutlNKUWwB9wZW44UMjNnq5JhMhKtq49K5FSt19VhCeX4GiKTiymD-7GGeGsf-OAjeh23YL2uHt9AGfhr-caO-FqNrBQv_Vpu_2cUnnvjeLFWFQcsSMSK5d9S3pCYhEgQwibjvrcmMHl3xWgJPjd0zrUCYdL6XGXOKTC25X_r7jNAcF3ptDyyxRoqd67WxQ",
+            "q": "operations con contrato"
+          },
+          "link": "https://www.google.com/search?sca_esv=06fa6b2cca60171b&hl=es&gl=pe&sxsrf=AKL5yDjC7U3LLIXkr7wyofFzZ2U3a8WeQg:1795293864780&q=operations+con+contrato&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXSfISFIZYaWIYqRmgX93l3wYBLwDYIAlLgnzR7nS0BajvOUPk4tyDjyzdYPBoMvifk9jXbMhx9w00eTafiT-tG2i4Oh8BS1pr2yi5JmjknQ-ommV14rnnMMUQX6nlMtcSq4vVx0UKib6rO2iWurDWs4zdMDORAutlNKUWwB9wZW44UMjNnq5JhMhKtq49K5FSt19VhCeX4GiKTiymD-7GGeGsf-OAjeh23YL2uHt9AGfhr-caO-FqNrBQv_Vpu_2cUnnvjeLFWFQcsSMSK5d9S3pCYhEgQwibjvrcmMHl3xWgJPjd0zrUCYdL6XGXOKTC25X_r7jNAcF3ptDyyxRoqd67WxQ&udm=8&sa=X&ved=2ahUKEwjXg8_o9pmYAxXoGFkFHefvOwYQkbEKegQIGRAE",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=pe&google_domain=google.com&hl=es&location=Peru&q=operations+con+contrato&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXSfISFIZYaWIYqRmgX93l3wYBLwDYIAlLgnzR7nS0BajvOUPk4tyDjyzdYPBoMvifk9jXbMhx9w00eTafiT-tG2i4Oh8BS1pr2yi5JmjknQ-ommV14rnnMMUQX6nlMtcSq4vVx0UKib6rO2iWurDWs4zdMDORAutlNKUWwB9wZW44UMjNnq5JhMhKtq49K5FSt19VhCeX4GiKTiymD-7GGeGsf-OAjeh23YL2uHt9AGfhr-caO-FqNrBQv_Vpu_2cUnnvjeLFWFQcsSMSK5d9S3pCYhEgQwibjvrcmMHl3xWgJPjd0zrUCYdL6XGXOKTC25X_r7jNAcF3ptDyyxRoqd67WxQ"
+        },
+        {
+          "name": "Prácticas",
+          "parameters": {
+            "uds": "AE2AFgbf06ZzDvczg9XBG5Z3qflXd0KBQxvknDXadOfjo7yADDCi8Wex9H0v9deIBFRg81lC55KDQ-rgHhvzZXpb9R3LVAkf6Un4OSavOITFdpFBXkTnFz4TvdwhMRg6UtDMIox1O9XVyuwH0mkjBxL2abhejxRH1Bn2zxJuBNyS4GEV6yGqYh9JJDn_bzvYFCZ_ZueL3Rqu6gg9hR5J85Ae4hHMiB_7nZq8kDaCKmno0KKnmHlLnBo1OdHLB2W_evR_SbBor1sA97ncRmdi0Xke_SWid77mlgrVu3NIU9FSMQzxpelE-St5duvSgLPceOKfDcZVRhB_ramlgDuDnRsnETAsqY2N7odsRQovx2JDRKE8C56zdu8",
+            "q": "operations prácticas"
+          },
+          "link": "https://www.google.com/search?sca_esv=06fa6b2cca60171b&hl=es&gl=pe&sxsrf=AKL5yDjC7U3LLIXkr7wyofFzZ2U3a8WeQg:1795293864780&q=operations+pr%C3%A1cticas&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXd0KBQxvknDXadOfjo7yADDCi8Wex9H0v9deIBFRg81lC55KDQ-rgHhvzZXpb9R3LVAkf6Un4OSavOITFdpFBXkTnFz4TvdwhMRg6UtDMIox1O9XVyuwH0mkjBxL2abhejxRH1Bn2zxJuBNyS4GEV6yGqYh9JJDn_bzvYFCZ_ZueL3Rqu6gg9hR5J85Ae4hHMiB_7nZq8kDaCKmno0KKnmHlLnBo1OdHLB2W_evR_SbBor1sA97ncRmdi0Xke_SWid77mlgrVu3NIU9FSMQzxpelE-St5duvSgLPceOKfDcZVRhB_ramlgDuDnRsnETAsqY2N7odsRQovx2JDRKE8C56zdu8&udm=8&sa=X&ved=2ahUKEwjXg8_o9pmYAxXoGFkFHefvOwYQkbEKegQIGRAF",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=pe&google_domain=google.com&hl=es&location=Peru&q=operations+pr%C3%A1cticas&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXd0KBQxvknDXadOfjo7yADDCi8Wex9H0v9deIBFRg81lC55KDQ-rgHhvzZXpb9R3LVAkf6Un4OSavOITFdpFBXkTnFz4TvdwhMRg6UtDMIox1O9XVyuwH0mkjBxL2abhejxRH1Bn2zxJuBNyS4GEV6yGqYh9JJDn_bzvYFCZ_ZueL3Rqu6gg9hR5J85Ae4hHMiB_7nZq8kDaCKmno0KKnmHlLnBo1OdHLB2W_evR_SbBor1sA97ncRmdi0Xke_SWid77mlgrVu3NIU9FSMQzxpelE-St5duvSgLPceOKfDcZVRhB_ramlgDuDnRsnETAsqY2N7odsRQovx2JDRKE8C56zdu8"
+        }
+      ]
+    },
+    {
+      "name": "Tipo de trabajo",
+      "options": [
+        {
+          "name": "Tiempo completo",
+          "parameters": {
+            "uds": "AE2AFgbf06ZzDvczg9XBG5Z3qflX4CGKADeW-g2Zn5V6DmjuqP7WywJ3XFq7-sMUFtpU8T7vAqaQfwIyiLduGU1XxZKIly7Hzinvm58zIBFgzaymk6x3ac9HepXR4zz6mlMPjQX3h436a-bD5ETqYxPwX1UvpYWVlVw4MNAGnX0v-o-JgOgQYyi-Ak5ifyxobL40uMfb0GJYCgVpgf2mZkpJUCjpAY6fa8Kt1IdNNtrXkdVHuloS2OOTKP-nl7GqxzXsjBC2gthbR-2RPgEBxxgwSrFUwRMfUOFq2tM9N2RcGAf2peYh-Cmr6uE6u0gSzwLeHdf9GKYhA61Hsf1NvN9FkvlsIOm_Jpkm4SkDHdzJr9ZzQXJgUyM",
+            "q": "operations tiempo completo"
+          },
+          "link": "https://www.google.com/search?sca_esv=06fa6b2cca60171b&hl=es&gl=pe&sxsrf=AKL5yDjC7U3LLIXkr7wyofFzZ2U3a8WeQg:1795293864780&q=operations+tiempo+completo&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflX4CGKADeW-g2Zn5V6DmjuqP7WywJ3XFq7-sMUFtpU8T7vAqaQfwIyiLduGU1XxZKIly7Hzinvm58zIBFgzaymk6x3ac9HepXR4zz6mlMPjQX3h436a-bD5ETqYxPwX1UvpYWVlVw4MNAGnX0v-o-JgOgQYyi-Ak5ifyxobL40uMfb0GJYCgVpgf2mZkpJUCjpAY6fa8Kt1IdNNtrXkdVHuloS2OOTKP-nl7GqxzXsjBC2gthbR-2RPgEBxxgwSrFUwRMfUOFq2tM9N2RcGAf2peYh-Cmr6uE6u0gSzwLeHdf9GKYhA61Hsf1NvN9FkvlsIOm_Jpkm4SkDHdzJr9ZzQXJgUyM&udm=8&sa=X&ved=2ahUKEwjXg8_o9pmYAxXoGFkFHefvOwYQkbEKegQIGRAC",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=pe&google_domain=google.com&hl=es&location=Peru&q=operations+tiempo+completo&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflX4CGKADeW-g2Zn5V6DmjuqP7WywJ3XFq7-sMUFtpU8T7vAqaQfwIyiLduGU1XxZKIly7Hzinvm58zIBFgzaymk6x3ac9HepXR4zz6mlMPjQX3h436a-bD5ETqYxPwX1UvpYWVlVw4MNAGnX0v-o-JgOgQYyi-Ak5ifyxobL40uMfb0GJYCgVpgf2mZkpJUCjpAY6fa8Kt1IdNNtrXkdVHuloS2OOTKP-nl7GqxzXsjBC2gthbR-2RPgEBxxgwSrFUwRMfUOFq2tM9N2RcGAf2peYh-Cmr6uE6u0gSzwLeHdf9GKYhA61Hsf1NvN9FkvlsIOm_Jpkm4SkDHdzJr9ZzQXJgUyM"
+        },
+        {
+          "name": "Tiempo parcial",
+          "parameters": {
+            "uds": "AE2AFgbf06ZzDvczg9XBG5Z3qflXT2y4_f5ChE_95OOqXhSP4uahPTvD4dxQhwdZKtdJagc1QjXA3_V_CYQZ8N0rpsnUHljkDlNl_cQhqGHqrhZ4jv276zuzlBSGP3wm7kkIR-DUIc540rdtPKH8_tXABR_wiFwKLG8PxD1OpinSRFwdjeGy5_qouAQfen6fE_D88HS93qoaPD2Go9mC3j45z-vcON2zvSdS6_8Y7NK2KZwLZWHnvEuIal4EAnSxRjN82-49V3OdvyHzpQFwapzSeW8nh1naUbq886h0uXD4CII6nQ3cDsr4hwQBAKhmAdJsAMk3px6N5yEebgWU8udBxveA9feU0oKLZCaZm9Yr6VPp3n-yPUk",
+            "q": "operations tiempo parcial"
+          },
+          "link": "https://www.google.com/search?sca_esv=06fa6b2cca60171b&hl=es&gl=pe&sxsrf=AKL5yDjC7U3LLIXkr7wyofFzZ2U3a8WeQg:1795293864780&q=operations+tiempo+parcial&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXT2y4_f5ChE_95OOqXhSP4uahPTvD4dxQhwdZKtdJagc1QjXA3_V_CYQZ8N0rpsnUHljkDlNl_cQhqGHqrhZ4jv276zuzlBSGP3wm7kkIR-DUIc540rdtPKH8_tXABR_wiFwKLG8PxD1OpinSRFwdjeGy5_qouAQfen6fE_D88HS93qoaPD2Go9mC3j45z-vcON2zvSdS6_8Y7NK2KZwLZWHnvEuIal4EAnSxRjN82-49V3OdvyHzpQFwapzSeW8nh1naUbq886h0uXD4CII6nQ3cDsr4hwQBAKhmAdJsAMk3px6N5yEebgWU8udBxveA9feU0oKLZCaZm9Yr6VPp3n-yPUk&udm=8&sa=X&ved=2ahUKEwjXg8_o9pmYAxXoGFkFHefvOwYQkbEKegQIGRAD",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=pe&google_domain=google.com&hl=es&location=Peru&q=operations+tiempo+parcial&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXT2y4_f5ChE_95OOqXhSP4uahPTvD4dxQhwdZKtdJagc1QjXA3_V_CYQZ8N0rpsnUHljkDlNl_cQhqGHqrhZ4jv276zuzlBSGP3wm7kkIR-DUIc540rdtPKH8_tXABR_wiFwKLG8PxD1OpinSRFwdjeGy5_qouAQfen6fE_D88HS93qoaPD2Go9mC3j45z-vcON2zvSdS6_8Y7NK2KZwLZWHnvEuIal4EAnSxRjN82-49V3OdvyHzpQFwapzSeW8nh1naUbq886h0uXD4CII6nQ3cDsr4hwQBAKhmAdJsAMk3px6N5yEebgWU8udBxveA9feU0oKLZCaZm9Yr6VPp3n-yPUk"
+        },
+        {
+          "name": "Con contrato",
+          "parameters": {
+            "uds": "AE2AFgbf06ZzDvczg9XBG5Z3qflXSfISFIZYaWIYqRmgX93l3wYBLwDYIAlLgnzR7nS0BajvOUPk4tyDjyzdYPBoMvifk9jXbMhx9w00eTafiT-tG2i4Oh8BS1pr2yi5JmjknQ-ommV14rnnMMUQX6nlMtcSq4vVx0UKib6rO2iWurDWs4zdMDORAutlNKUWwB9wZW44UMjNnq5JhMhKtq49K5FSt19VhCeX4GiKTiymD-7GGeGsf-OAjeh23YL2uHt9AGfhr-caO-FqNrBQv_Vpu_2cUnnvjeLFWFQcsSMSK5d9S3pCYhEgQwibjvrcmMHl3xWgJPjd0zrUCYdL6XGXOKTC25X_r7jNAcF3ptDyyxRoqd67WxQ",
+            "q": "operations con contrato"
+          },
+          "link": "https://www.google.com/search?sca_esv=06fa6b2cca60171b&hl=es&gl=pe&sxsrf=AKL5yDjC7U3LLIXkr7wyofFzZ2U3a8WeQg:1795293864780&q=operations+con+contrato&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXSfISFIZYaWIYqRmgX93l3wYBLwDYIAlLgnzR7nS0BajvOUPk4tyDjyzdYPBoMvifk9jXbMhx9w00eTafiT-tG2i4Oh8BS1pr2yi5JmjknQ-ommV14rnnMMUQX6nlMtcSq4vVx0UKib6rO2iWurDWs4zdMDORAutlNKUWwB9wZW44UMjNnq5JhMhKtq49K5FSt19VhCeX4GiKTiymD-7GGeGsf-OAjeh23YL2uHt9AGfhr-caO-FqNrBQv_Vpu_2cUnnvjeLFWFQcsSMSK5d9S3pCYhEgQwibjvrcmMHl3xWgJPjd0zrUCYdL6XGXOKTC25X_r7jNAcF3ptDyyxRoqd67WxQ&udm=8&sa=X&ved=2ahUKEwjXg8_o9pmYAxXoGFkFHefvOwYQkbEKegQIGRAE",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=pe&google_domain=google.com&hl=es&location=Peru&q=operations+con+contrato&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXSfISFIZYaWIYqRmgX93l3wYBLwDYIAlLgnzR7nS0BajvOUPk4tyDjyzdYPBoMvifk9jXbMhx9w00eTafiT-tG2i4Oh8BS1pr2yi5JmjknQ-ommV14rnnMMUQX6nlMtcSq4vVx0UKib6rO2iWurDWs4zdMDORAutlNKUWwB9wZW44UMjNnq5JhMhKtq49K5FSt19VhCeX4GiKTiymD-7GGeGsf-OAjeh23YL2uHt9AGfhr-caO-FqNrBQv_Vpu_2cUnnvjeLFWFQcsSMSK5d9S3pCYhEgQwibjvrcmMHl3xWgJPjd0zrUCYdL6XGXOKTC25X_r7jNAcF3ptDyyxRoqd67WxQ"
+        },
+        {
+          "name": "Prácticas",
+          "parameters": {
+            "uds": "AE2AFgbf06ZzDvczg9XBG5Z3qflXd0KBQxvknDXadOfjo7yADDCi8Wex9H0v9deIBFRg81lC55KDQ-rgHhvzZXpb9R3LVAkf6Un4OSavOITFdpFBXkTnFz4TvdwhMRg6UtDMIox1O9XVyuwH0mkjBxL2abhejxRH1Bn2zxJuBNyS4GEV6yGqYh9JJDn_bzvYFCZ_ZueL3Rqu6gg9hR5J85Ae4hHMiB_7nZq8kDaCKmno0KKnmHlLnBo1OdHLB2W_evR_SbBor1sA97ncRmdi0Xke_SWid77mlgrVu3NIU9FSMQzxpelE-St5duvSgLPceOKfDcZVRhB_ramlgDuDnRsnETAsqY2N7odsRQovx2JDRKE8C56zdu8",
+            "q": "operations prácticas"
+          },
+          "link": "https://www.google.com/search?sca_esv=06fa6b2cca60171b&hl=es&gl=pe&sxsrf=AKL5yDjC7U3LLIXkr7wyofFzZ2U3a8WeQg:1795293864780&q=operations+pr%C3%A1cticas&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXd0KBQxvknDXadOfjo7yADDCi8Wex9H0v9deIBFRg81lC55KDQ-rgHhvzZXpb9R3LVAkf6Un4OSavOITFdpFBXkTnFz4TvdwhMRg6UtDMIox1O9XVyuwH0mkjBxL2abhejxRH1Bn2zxJuBNyS4GEV6yGqYh9JJDn_bzvYFCZ_ZueL3Rqu6gg9hR5J85Ae4hHMiB_7nZq8kDaCKmno0KKnmHlLnBo1OdHLB2W_evR_SbBor1sA97ncRmdi0Xke_SWid77mlgrVu3NIU9FSMQzxpelE-St5duvSgLPceOKfDcZVRhB_ramlgDuDnRsnETAsqY2N7odsRQovx2JDRKE8C56zdu8&udm=8&sa=X&ved=2ahUKEwjXg8_o9pmYAxXoGFkFHefvOwYQkbEKegQIGRAF",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=pe&google_domain=google.com&hl=es&location=Peru&q=operations+pr%C3%A1cticas&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXd0KBQxvknDXadOfjo7yADDCi8Wex9H0v9deIBFRg81lC55KDQ-rgHhvzZXpb9R3LVAkf6Un4OSavOITFdpFBXkTnFz4TvdwhMRg6UtDMIox1O9XVyuwH0mkjBxL2abhejxRH1Bn2zxJuBNyS4GEV6yGqYh9JJDn_bzvYFCZ_ZueL3Rqu6gg9hR5J85Ae4hHMiB_7nZq8kDaCKmno0KKnmHlLnBo1OdHLB2W_evR_SbBor1sA97ncRmdi0Xke_SWid77mlgrVu3NIU9FSMQzxpelE-St5duvSgLPceOKfDcZVRhB_ramlgDuDnRsnETAsqY2N7odsRQovx2JDRKE8C56zdu8"
+        }
+      ]
+    },
+    {
+      "name": "Fecha de publicación",
+      "options": [
+        {
+          "name": "Ayer",
+          "parameters": {
+            "uds": "AE2AFgbf06ZzDvczg9XBG5Z3qflXXlWMT_2vjUkTOjszvwJEo4uZMTcljtfdIhGN5jLCSUTHwf4LvwLh5YvHmjb211sD4R0a_i3LTPvC8Os3mphBtICf82GB9yecDEMDGQxv5oxTdaxlQyGRhBvmAlbzIiwPiUn9vI0h9ZufDhiABw1NGUe0gYPhbceOYzwIpPnHwixxoysPm4FLQjFMkpfmHjoG2iqWacMfi7ecPc0OE3ix8cZe00Lxgoxf1i7G0-NqGrj3PPWWAeQmeoN0uSa4yWGF6wIECXbm0-ENbrVzsutYb0jTXZfGy0Win8kv4NZToewVQtTQ0MktEkuUf0mN72vUSUULA9_AmSDgG-FfcpxP1Zoicwv6dtBHQIdAlzM6_lpEqRA8",
+            "q": "operations desde ayer"
+          },
+          "link": "https://www.google.com/search?sca_esv=06fa6b2cca60171b&hl=es&gl=pe&sxsrf=AKL5yDjC7U3LLIXkr7wyofFzZ2U3a8WeQg:1795293864780&q=operations+desde+ayer&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXXlWMT_2vjUkTOjszvwJEo4uZMTcljtfdIhGN5jLCSUTHwf4LvwLh5YvHmjb211sD4R0a_i3LTPvC8Os3mphBtICf82GB9yecDEMDGQxv5oxTdaxlQyGRhBvmAlbzIiwPiUn9vI0h9ZufDhiABw1NGUe0gYPhbceOYzwIpPnHwixxoysPm4FLQjFMkpfmHjoG2iqWacMfi7ecPc0OE3ix8cZe00Lxgoxf1i7G0-NqGrj3PPWWAeQmeoN0uSa4yWGF6wIECXbm0-ENbrVzsutYb0jTXZfGy0Win8kv4NZToewVQtTQ0MktEkuUf0mN72vUSUULA9_AmSDgG-FfcpxP1Zoicwv6dtBHQIdAlzM6_lpEqRA8&udm=8&sa=X&ved=2ahUKEwjXg8_o9pmYAxXoGFkFHefvOwYQkbEKegQIGhAC",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=pe&google_domain=google.com&hl=es&location=Peru&q=operations+desde+ayer&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXXlWMT_2vjUkTOjszvwJEo4uZMTcljtfdIhGN5jLCSUTHwf4LvwLh5YvHmjb211sD4R0a_i3LTPvC8Os3mphBtICf82GB9yecDEMDGQxv5oxTdaxlQyGRhBvmAlbzIiwPiUn9vI0h9ZufDhiABw1NGUe0gYPhbceOYzwIpPnHwixxoysPm4FLQjFMkpfmHjoG2iqWacMfi7ecPc0OE3ix8cZe00Lxgoxf1i7G0-NqGrj3PPWWAeQmeoN0uSa4yWGF6wIECXbm0-ENbrVzsutYb0jTXZfGy0Win8kv4NZToewVQtTQ0MktEkuUf0mN72vUSUULA9_AmSDgG-FfcpxP1Zoicwv6dtBHQIdAlzM6_lpEqRA8"
+        },
+        {
+          "name": "Últimos 3 días",
+          "parameters": {
+            "uds": "AE2AFgbf06ZzDvczg9XBG5Z3qflXIs2u7w3P0djko1EQ5NsL3Rzezh3HqsvKugtvCzRG9nxfSrlMPHBo4WinGeZ6zfZps9JIBqeAcSUFjgF9wjdP61xM8CHxyX9fc4ogPQX7R_T2p0JNRvPQkDTzWYKuTqJGCBoZ0LTmfdn_HQ7pumHxbiuihYEvHsBTBn53NsMLT71Xx7mkD-YXkTCWufnpIKOYgxCOR56PPfu62fANE3xbdtMd-wAXq3AAcLGQcsuEM2-02aFl_sL4OZ1UPVPmiod9pBIFlYtfFHPAwyE11REJneZjjAfUd_C4RlY_w9v_I3FANSICl6GMaKKnHeJ5iEerrRePblndzjlU0kc9NOjToySMnhdxj2zclF81Ms9TlZpg4J6D",
+            "q": "operations en los últimos 3 días"
+          },
+          "link": "https://www.google.com/search?sca_esv=06fa6b2cca60171b&hl=es&gl=pe&sxsrf=AKL5yDjC7U3LLIXkr7wyofFzZ2U3a8WeQg:1795293864780&q=operations+en+los+%C3%BAltimos+3+d%C3%ADas&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXIs2u7w3P0djko1EQ5NsL3Rzezh3HqsvKugtvCzRG9nxfSrlMPHBo4WinGeZ6zfZps9JIBqeAcSUFjgF9wjdP61xM8CHxyX9fc4ogPQX7R_T2p0JNRvPQkDTzWYKuTqJGCBoZ0LTmfdn_HQ7pumHxbiuihYEvHsBTBn53NsMLT71Xx7mkD-YXkTCWufnpIKOYgxCOR56PPfu62fANE3xbdtMd-wAXq3AAcLGQcsuEM2-02aFl_sL4OZ1UPVPmiod9pBIFlYtfFHPAwyE11REJneZjjAfUd_C4RlY_w9v_I3FANSICl6GMaKKnHeJ5iEerrRePblndzjlU0kc9NOjToySMnhdxj2zclF81Ms9TlZpg4J6D&udm=8&sa=X&ved=2ahUKEwjXg8_o9pmYAxXoGFkFHefvOwYQkbEKegQIGhAD",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=pe&google_domain=google.com&hl=es&location=Peru&q=operations+en+los+%C3%BAltimos+3+d%C3%ADas&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXIs2u7w3P0djko1EQ5NsL3Rzezh3HqsvKugtvCzRG9nxfSrlMPHBo4WinGeZ6zfZps9JIBqeAcSUFjgF9wjdP61xM8CHxyX9fc4ogPQX7R_T2p0JNRvPQkDTzWYKuTqJGCBoZ0LTmfdn_HQ7pumHxbiuihYEvHsBTBn53NsMLT71Xx7mkD-YXkTCWufnpIKOYgxCOR56PPfu62fANE3xbdtMd-wAXq3AAcLGQcsuEM2-02aFl_sL4OZ1UPVPmiod9pBIFlYtfFHPAwyE11REJneZjjAfUd_C4RlY_w9v_I3FANSICl6GMaKKnHeJ5iEerrRePblndzjlU0kc9NOjToySMnhdxj2zclF81Ms9TlZpg4J6D"
+        },
+        {
+          "name": "Última semana",
+          "parameters": {
+            "uds": "AE2AFgbf06ZzDvczg9XBG5Z3qflXDjtgXdfQN3TL7pNrLFInYgur-11EqNVgzugHruGUTC15n0xGE0bf_JdwqI0jATh5c1SnE6u38bTcij1_mL-Ybqai_y7s9lDtLkycHgFr-94L9_5FYjczZ6O1znxF6V5P0Gkn0YFzR8cfE6W5aU2IOZUrAt8njc5MbrOgN_bAuFy6sLQ0RcOque-t099j6lwlf47kJ9DpVh2T0Ua0Oy7HrtVBigv4y7fHDuGhk6-D8evCNolNm8P_UsZq_gcQyBZqbDcKRRC9-cohntCMvhjtvkGvNpDP23xdVkt-C-LxAL_iuWQ2j_O-UuDr38xMOM1I8Jl1j2ooqGdep2NT-GDyywhflRza1V6eq5mE6Y5pplosjyv1",
+            "q": "operations en la última semana"
+          },
+          "link": "https://www.google.com/search?sca_esv=06fa6b2cca60171b&hl=es&gl=pe&sxsrf=AKL5yDjC7U3LLIXkr7wyofFzZ2U3a8WeQg:1795293864780&q=operations+en+la+%C3%BAltima+semana&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXDjtgXdfQN3TL7pNrLFInYgur-11EqNVgzugHruGUTC15n0xGE0bf_JdwqI0jATh5c1SnE6u38bTcij1_mL-Ybqai_y7s9lDtLkycHgFr-94L9_5FYjczZ6O1znxF6V5P0Gkn0YFzR8cfE6W5aU2IOZUrAt8njc5MbrOgN_bAuFy6sLQ0RcOque-t099j6lwlf47kJ9DpVh2T0Ua0Oy7HrtVBigv4y7fHDuGhk6-D8evCNolNm8P_UsZq_gcQyBZqbDcKRRC9-cohntCMvhjtvkGvNpDP23xdVkt-C-LxAL_iuWQ2j_O-UuDr38xMOM1I8Jl1j2ooqGdep2NT-GDyywhflRza1V6eq5mE6Y5pplosjyv1&udm=8&sa=X&ved=2ahUKEwjXg8_o9pmYAxXoGFkFHefvOwYQkbEKegQIGhAE",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=pe&google_domain=google.com&hl=es&location=Peru&q=operations+en+la+%C3%BAltima+semana&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXDjtgXdfQN3TL7pNrLFInYgur-11EqNVgzugHruGUTC15n0xGE0bf_JdwqI0jATh5c1SnE6u38bTcij1_mL-Ybqai_y7s9lDtLkycHgFr-94L9_5FYjczZ6O1znxF6V5P0Gkn0YFzR8cfE6W5aU2IOZUrAt8njc5MbrOgN_bAuFy6sLQ0RcOque-t099j6lwlf47kJ9DpVh2T0Ua0Oy7HrtVBigv4y7fHDuGhk6-D8evCNolNm8P_UsZq_gcQyBZqbDcKRRC9-cohntCMvhjtvkGvNpDP23xdVkt-C-LxAL_iuWQ2j_O-UuDr38xMOM1I8Jl1j2ooqGdep2NT-GDyywhflRza1V6eq5mE6Y5pplosjyv1"
+        },
+        {
+          "name": "Último mes",
+          "parameters": {
+            "uds": "AE2AFgbf06ZzDvczg9XBG5Z3qflXKGpv8sxYNvIeQXivVGRBTvRniH27LsnKRod-lXVqTAkOqZhlAfhhwEHbgZEnATh3xOYKHSx1RsgjZSTSIHmmAI4m6HrB4xMihemIR9ndlxHgiLNvV-7sd8nr0hBtDSkPM_NRmVJBhDA3UFcotqKbw-xiF_RG8nYIa0rKtBJy0ybQr8k05nK924Ub9Q1bHwjKyXv5CP49KrSTn-ZB4Yg6sVKUK3Lv20EdvDWQAR9DpYcg0rCkGqoS2SYcPl4a6YgeSbMPqd8ptmzPG-xvClDNwF65zgaIbbdSI7VuYG_3tPbsMGfNebga51kEMwnz55tv-U8FRG8mYl-iM1E6Ghi0i5cunsyP8MwtxWP-HjdKzw6zRv7j",
+            "q": "operations en el último mes"
+          },
+          "link": "https://www.google.com/search?sca_esv=06fa6b2cca60171b&hl=es&gl=pe&sxsrf=AKL5yDjC7U3LLIXkr7wyofFzZ2U3a8WeQg:1795293864780&q=operations+en+el+%C3%BAltimo+mes&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXKGpv8sxYNvIeQXivVGRBTvRniH27LsnKRod-lXVqTAkOqZhlAfhhwEHbgZEnATh3xOYKHSx1RsgjZSTSIHmmAI4m6HrB4xMihemIR9ndlxHgiLNvV-7sd8nr0hBtDSkPM_NRmVJBhDA3UFcotqKbw-xiF_RG8nYIa0rKtBJy0ybQr8k05nK924Ub9Q1bHwjKyXv5CP49KrSTn-ZB4Yg6sVKUK3Lv20EdvDWQAR9DpYcg0rCkGqoS2SYcPl4a6YgeSbMPqd8ptmzPG-xvClDNwF65zgaIbbdSI7VuYG_3tPbsMGfNebga51kEMwnz55tv-U8FRG8mYl-iM1E6Ghi0i5cunsyP8MwtxWP-HjdKzw6zRv7j&udm=8&sa=X&ved=2ahUKEwjXg8_o9pmYAxXoGFkFHefvOwYQkbEKegQIGhAF",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=pe&google_domain=google.com&hl=es&location=Peru&q=operations+en+el+%C3%BAltimo+mes&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXKGpv8sxYNvIeQXivVGRBTvRniH27LsnKRod-lXVqTAkOqZhlAfhhwEHbgZEnATh3xOYKHSx1RsgjZSTSIHmmAI4m6HrB4xMihemIR9ndlxHgiLNvV-7sd8nr0hBtDSkPM_NRmVJBhDA3UFcotqKbw-xiF_RG8nYIa0rKtBJy0ybQr8k05nK924Ub9Q1bHwjKyXv5CP49KrSTn-ZB4Yg6sVKUK3Lv20EdvDWQAR9DpYcg0rCkGqoS2SYcPl4a6YgeSbMPqd8ptmzPG-xvClDNwF65zgaIbbdSI7VuYG_3tPbsMGfNebga51kEMwnz55tv-U8FRG8mYl-iM1E6Ghi0i5cunsyP8MwtxWP-HjdKzw6zRv7j"
+        }
+      ]
+    },
+    {
+      "name": "Fecha de publicación",
+      "options": [
+        {
+          "name": "Ayer",
+          "parameters": {
+            "uds": "AE2AFgbf06ZzDvczg9XBG5Z3qflXXlWMT_2vjUkTOjszvwJEo4uZMTcljtfdIhGN5jLCSUTHwf4LvwLh5YvHmjb211sD4R0a_i3LTPvC8Os3mphBtICf82GB9yecDEMDGQxv5oxTdaxlQyGRhBvmAlbzIiwPiUn9vI0h9ZufDhiABw1NGUe0gYPhbceOYzwIpPnHwixxoysPm4FLQjFMkpfmHjoG2iqWacMfi7ecPc0OE3ix8cZe00Lxgoxf1i7G0-NqGrj3PPWWAeQmeoN0uSa4yWGF6wIECXbm0-ENbrVzsutYb0jTXZfGy0Win8kv4NZToewVQtTQ0MktEkuUf0mN72vUSUULA9_AmSDgG-FfcpxP1Zoicwv6dtBHQIdAlzM6_lpEqRA8",
+            "q": "operations desde ayer"
+          },
+          "link": "https://www.google.com/search?sca_esv=06fa6b2cca60171b&hl=es&gl=pe&sxsrf=AKL5yDjC7U3LLIXkr7wyofFzZ2U3a8WeQg:1795293864780&q=operations+desde+ayer&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXXlWMT_2vjUkTOjszvwJEo4uZMTcljtfdIhGN5jLCSUTHwf4LvwLh5YvHmjb211sD4R0a_i3LTPvC8Os3mphBtICf82GB9yecDEMDGQxv5oxTdaxlQyGRhBvmAlbzIiwPiUn9vI0h9ZufDhiABw1NGUe0gYPhbceOYzwIpPnHwixxoysPm4FLQjFMkpfmHjoG2iqWacMfi7ecPc0OE3ix8cZe00Lxgoxf1i7G0-NqGrj3PPWWAeQmeoN0uSa4yWGF6wIECXbm0-ENbrVzsutYb0jTXZfGy0Win8kv4NZToewVQtTQ0MktEkuUf0mN72vUSUULA9_AmSDgG-FfcpxP1Zoicwv6dtBHQIdAlzM6_lpEqRA8&udm=8&sa=X&ved=2ahUKEwjXg8_o9pmYAxXoGFkFHefvOwYQkbEKegQIGhAC",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=pe&google_domain=google.com&hl=es&location=Peru&q=operations+desde+ayer&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXXlWMT_2vjUkTOjszvwJEo4uZMTcljtfdIhGN5jLCSUTHwf4LvwLh5YvHmjb211sD4R0a_i3LTPvC8Os3mphBtICf82GB9yecDEMDGQxv5oxTdaxlQyGRhBvmAlbzIiwPiUn9vI0h9ZufDhiABw1NGUe0gYPhbceOYzwIpPnHwixxoysPm4FLQjFMkpfmHjoG2iqWacMfi7ecPc0OE3ix8cZe00Lxgoxf1i7G0-NqGrj3PPWWAeQmeoN0uSa4yWGF6wIECXbm0-ENbrVzsutYb0jTXZfGy0Win8kv4NZToewVQtTQ0MktEkuUf0mN72vUSUULA9_AmSDgG-FfcpxP1Zoicwv6dtBHQIdAlzM6_lpEqRA8"
+        },
+        {
+          "name": "Últimos 3 días",
+          "parameters": {
+            "uds": "AE2AFgbf06ZzDvczg9XBG5Z3qflXIs2u7w3P0djko1EQ5NsL3Rzezh3HqsvKugtvCzRG9nxfSrlMPHBo4WinGeZ6zfZps9JIBqeAcSUFjgF9wjdP61xM8CHxyX9fc4ogPQX7R_T2p0JNRvPQkDTzWYKuTqJGCBoZ0LTmfdn_HQ7pumHxbiuihYEvHsBTBn53NsMLT71Xx7mkD-YXkTCWufnpIKOYgxCOR56PPfu62fANE3xbdtMd-wAXq3AAcLGQcsuEM2-02aFl_sL4OZ1UPVPmiod9pBIFlYtfFHPAwyE11REJneZjjAfUd_C4RlY_w9v_I3FANSICl6GMaKKnHeJ5iEerrRePblndzjlU0kc9NOjToySMnhdxj2zclF81Ms9TlZpg4J6D",
+            "q": "operations en los últimos 3 días"
+          },
+          "link": "https://www.google.com/search?sca_esv=06fa6b2cca60171b&hl=es&gl=pe&sxsrf=AKL5yDjC7U3LLIXkr7wyofFzZ2U3a8WeQg:1795293864780&q=operations+en+los+%C3%BAltimos+3+d%C3%ADas&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXIs2u7w3P0djko1EQ5NsL3Rzezh3HqsvKugtvCzRG9nxfSrlMPHBo4WinGeZ6zfZps9JIBqeAcSUFjgF9wjdP61xM8CHxyX9fc4ogPQX7R_T2p0JNRvPQkDTzWYKuTqJGCBoZ0LTmfdn_HQ7pumHxbiuihYEvHsBTBn53NsMLT71Xx7mkD-YXkTCWufnpIKOYgxCOR56PPfu62fANE3xbdtMd-wAXq3AAcLGQcsuEM2-02aFl_sL4OZ1UPVPmiod9pBIFlYtfFHPAwyE11REJneZjjAfUd_C4RlY_w9v_I3FANSICl6GMaKKnHeJ5iEerrRePblndzjlU0kc9NOjToySMnhdxj2zclF81Ms9TlZpg4J6D&udm=8&sa=X&ved=2ahUKEwjXg8_o9pmYAxXoGFkFHefvOwYQkbEKegQIGhAD",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=pe&google_domain=google.com&hl=es&location=Peru&q=operations+en+los+%C3%BAltimos+3+d%C3%ADas&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXIs2u7w3P0djko1EQ5NsL3Rzezh3HqsvKugtvCzRG9nxfSrlMPHBo4WinGeZ6zfZps9JIBqeAcSUFjgF9wjdP61xM8CHxyX9fc4ogPQX7R_T2p0JNRvPQkDTzWYKuTqJGCBoZ0LTmfdn_HQ7pumHxbiuihYEvHsBTBn53NsMLT71Xx7mkD-YXkTCWufnpIKOYgxCOR56PPfu62fANE3xbdtMd-wAXq3AAcLGQcsuEM2-02aFl_sL4OZ1UPVPmiod9pBIFlYtfFHPAwyE11REJneZjjAfUd_C4RlY_w9v_I3FANSICl6GMaKKnHeJ5iEerrRePblndzjlU0kc9NOjToySMnhdxj2zclF81Ms9TlZpg4J6D"
+        },
+        {
+          "name": "Última semana",
+          "parameters": {
+            "uds": "AE2AFgbf06ZzDvczg9XBG5Z3qflXDjtgXdfQN3TL7pNrLFInYgur-11EqNVgzugHruGUTC15n0xGE0bf_JdwqI0jATh5c1SnE6u38bTcij1_mL-Ybqai_y7s9lDtLkycHgFr-94L9_5FYjczZ6O1znxF6V5P0Gkn0YFzR8cfE6W5aU2IOZUrAt8njc5MbrOgN_bAuFy6sLQ0RcOque-t099j6lwlf47kJ9DpVh2T0Ua0Oy7HrtVBigv4y7fHDuGhk6-D8evCNolNm8P_UsZq_gcQyBZqbDcKRRC9-cohntCMvhjtvkGvNpDP23xdVkt-C-LxAL_iuWQ2j_O-UuDr38xMOM1I8Jl1j2ooqGdep2NT-GDyywhflRza1V6eq5mE6Y5pplosjyv1",
+            "q": "operations en la última semana"
+          },
+          "link": "https://www.google.com/search?sca_esv=06fa6b2cca60171b&hl=es&gl=pe&sxsrf=AKL5yDjC7U3LLIXkr7wyofFzZ2U3a8WeQg:1795293864780&q=operations+en+la+%C3%BAltima+semana&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXDjtgXdfQN3TL7pNrLFInYgur-11EqNVgzugHruGUTC15n0xGE0bf_JdwqI0jATh5c1SnE6u38bTcij1_mL-Ybqai_y7s9lDtLkycHgFr-94L9_5FYjczZ6O1znxF6V5P0Gkn0YFzR8cfE6W5aU2IOZUrAt8njc5MbrOgN_bAuFy6sLQ0RcOque-t099j6lwlf47kJ9DpVh2T0Ua0Oy7HrtVBigv4y7fHDuGhk6-D8evCNolNm8P_UsZq_gcQyBZqbDcKRRC9-cohntCMvhjtvkGvNpDP23xdVkt-C-LxAL_iuWQ2j_O-UuDr38xMOM1I8Jl1j2ooqGdep2NT-GDyywhflRza1V6eq5mE6Y5pplosjyv1&udm=8&sa=X&ved=2ahUKEwjXg8_o9pmYAxXoGFkFHefvOwYQkbEKegQIGhAE",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=pe&google_domain=google.com&hl=es&location=Peru&q=operations+en+la+%C3%BAltima+semana&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXDjtgXdfQN3TL7pNrLFInYgur-11EqNVgzugHruGUTC15n0xGE0bf_JdwqI0jATh5c1SnE6u38bTcij1_mL-Ybqai_y7s9lDtLkycHgFr-94L9_5FYjczZ6O1znxF6V5P0Gkn0YFzR8cfE6W5aU2IOZUrAt8njc5MbrOgN_bAuFy6sLQ0RcOque-t099j6lwlf47kJ9DpVh2T0Ua0Oy7HrtVBigv4y7fHDuGhk6-D8evCNolNm8P_UsZq_gcQyBZqbDcKRRC9-cohntCMvhjtvkGvNpDP23xdVkt-C-LxAL_iuWQ2j_O-UuDr38xMOM1I8Jl1j2ooqGdep2NT-GDyywhflRza1V6eq5mE6Y5pplosjyv1"
+        },
+        {
+          "name": "Último mes",
+          "parameters": {
+            "uds": "AE2AFgbf06ZzDvczg9XBG5Z3qflXKGpv8sxYNvIeQXivVGRBTvRniH27LsnKRod-lXVqTAkOqZhlAfhhwEHbgZEnATh3xOYKHSx1RsgjZSTSIHmmAI4m6HrB4xMihemIR9ndlxHgiLNvV-7sd8nr0hBtDSkPM_NRmVJBhDA3UFcotqKbw-xiF_RG8nYIa0rKtBJy0ybQr8k05nK924Ub9Q1bHwjKyXv5CP49KrSTn-ZB4Yg6sVKUK3Lv20EdvDWQAR9DpYcg0rCkGqoS2SYcPl4a6YgeSbMPqd8ptmzPG-xvClDNwF65zgaIbbdSI7VuYG_3tPbsMGfNebga51kEMwnz55tv-U8FRG8mYl-iM1E6Ghi0i5cunsyP8MwtxWP-HjdKzw6zRv7j",
+            "q": "operations en el último mes"
+          },
+          "link": "https://www.google.com/search?sca_esv=06fa6b2cca60171b&hl=es&gl=pe&sxsrf=AKL5yDjC7U3LLIXkr7wyofFzZ2U3a8WeQg:1795293864780&q=operations+en+el+%C3%BAltimo+mes&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXKGpv8sxYNvIeQXivVGRBTvRniH27LsnKRod-lXVqTAkOqZhlAfhhwEHbgZEnATh3xOYKHSx1RsgjZSTSIHmmAI4m6HrB4xMihemIR9ndlxHgiLNvV-7sd8nr0hBtDSkPM_NRmVJBhDA3UFcotqKbw-xiF_RG8nYIa0rKtBJy0ybQr8k05nK924Ub9Q1bHwjKyXv5CP49KrSTn-ZB4Yg6sVKUK3Lv20EdvDWQAR9DpYcg0rCkGqoS2SYcPl4a6YgeSbMPqd8ptmzPG-xvClDNwF65zgaIbbdSI7VuYG_3tPbsMGfNebga51kEMwnz55tv-U8FRG8mYl-iM1E6Ghi0i5cunsyP8MwtxWP-HjdKzw6zRv7j&udm=8&sa=X&ved=2ahUKEwjXg8_o9pmYAxXoGFkFHefvOwYQkbEKegQIGhAF",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=pe&google_domain=google.com&hl=es&location=Peru&q=operations+en+el+%C3%BAltimo+mes&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXKGpv8sxYNvIeQXivVGRBTvRniH27LsnKRod-lXVqTAkOqZhlAfhhwEHbgZEnATh3xOYKHSx1RsgjZSTSIHmmAI4m6HrB4xMihemIR9ndlxHgiLNvV-7sd8nr0hBtDSkPM_NRmVJBhDA3UFcotqKbw-xiF_RG8nYIa0rKtBJy0ybQr8k05nK924Ub9Q1bHwjKyXv5CP49KrSTn-ZB4Yg6sVKUK3Lv20EdvDWQAR9DpYcg0rCkGqoS2SYcPl4a6YgeSbMPqd8ptmzPG-xvClDNwF65zgaIbbdSI7VuYG_3tPbsMGfNebga51kEMwnz55tv-U8FRG8mYl-iM1E6Ghi0i5cunsyP8MwtxWP-HjdKzw6zRv7j"
+        }
+      ]
+    }
+  ],
+  "jobs_results": [
+    {
+      "title": "Manager, People Operations",
+      "company_name": "ServiceNow",
+      "location": "Perú",
+      "via": "LinkedIn",
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=operations&htidocid=UoW2kzFt03_5aA6XAAAAAA%3D%3D&hl=es-PE&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_xWMMQ6CMBhG48rq5vTPxrTGxEE8gJNK4gFIgS8FU_rX_lW5hBdi5WLC8paX97LfKjtdjTcWcUcFODjQPSCa1LGXnKpplNcbjaEGhH7WTPB0YbYOm3ObUpBcaxGnrKS5qlXNvWaPigf95EoWlNKaiOBMQnk47gcVvN2uH4ifrsaNv8uyQJzGPxWXJ0mQAAAA&shmds=v1_Ac3VAoxB1yI3poLOncthl3G-BNGPdkQgIzfV4HOPR2h0VtT_7w&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=operations&htidocid=UoW2kzFt03_5aA6XAAAAAA%3D%3D",
+      "thumbnail": "https://serpapi.com/searches/6b0202a5131811d28cbf036e/images/7CyGyGmNbJO6weIo97LODreQV-AZ8zPNZ59I5VshSuI.jpg",
+      "extensions": [
+        "hace 3 días",
+        "Tiempo completo"
+      ],
+      "detected_extensions": {
+        "posted_at": "hace 3 días",
+        "schedule_type": "Tiempo completo"
+      },
+      "source_link": "https://pe.linkedin.com/jobs/view/manager-people-operations-at-servicenow-4492094905",
+      "job_title": "Manager, People Operations",
+      "description": "Company Description\n\nIt all started when engineer Fred Luddy wrote code that automated a tedious task for his coworker, Phyllis. She cried tears of joy. That moment inspired Fred to build a company that could do that for everyone—freeing people from busywork so they could focus on meaningful work. Today, ServiceNow is the AI control tower for business reinvention. Our ServiceNow AI platform brings together any AI, any data, and any workflow— helping 85% of the Fortune 500® work smarter, faster, and better. We're building an AI-native culture where technology and talent are unstoppable together. And we're just getting started.\n\nJoin us to put AI to work for people.\n\nJob Description\n\nAbout the Role\n\nWe are seeking an experienced, hands-on Manager, People Operations to lead Total Rewards, Talent Management, and Core HR services across the AMERICAS region.\n\nThis role will lead approximately 8–10 People Operations professionals in Costa Rica, ensuring operational excellence, service quality, compliance, and an exceptional employee experience.\n\nThe ideal candidate combines deep Workday Core HCM expertise, strong HR Service Delivery (HRSD) experience, and proven people leadership with a passion for process optimization, automation, and continuous improvement.\n\nA key expectation is to build an engaged ONE TEAM AMERICAS culture, breaking down silos, strengthening collaboration between Costa Rica and West Palm Beach-FL, and promoting shared accountability, knowledge sharing, and business continuity.\n\nKey Responsibilities\n\n People Leadership, Engagement & OperationsLead, coach, and develop approximately 8–10 People Operations professionals, establishing clear performance expectations, accountability, and a culture of collaboration. Break down functional silos and foster a ONE TEAM mentality, promoting shared ownership, open communication, and stronger relationships across teams. Drive employee engagement through team-building activities, recognition, knowledge-sharing sessions, and events that strengthen morale, trust, and belonging. Oversee daily HR Operations floor management, including workload distribution, capacity planning, case prioritization, productivity, quality assurance, and escalations. Strengthen team capabilities through coaching, cross-training, succession planning, and performance development.  Workday Core HCM & HR Functional ExpertiseProvide hands-on functional leadership in Workday Core HCM, including business processes, employee lifecycle transactions, organizational structures, effective dating, data changes, and troubleshooting. Oversee accurate execution of HR transactions, including hires, transfers, promotions, job and compensation changes, leave-related updates, and terminations, as applicable. Manage operational processes supporting Total Rewards (Compensation and Benefits) and Talent Management (Performance Management and Goals). Partner with HR Technology, HRIS, and COEs to resolve complex issues, optimize Workday processes, and support enhancements and testing.  HR Service Delivery (HRSD) & Service ExcellenceOwn daily HR service delivery through ServiceNow HRSD, ensuring timely, accurate, and consistent resolution of employee inquiries. Manage key operational metrics, including SLA, CSAT, case volumes, aging, backlog, productivity, first-time resolution, and quality. Leverage HRSD dashboards and analytics to identify trends, address service gaps, and drive data-informed decisions. Establish effective case routing, escalation management, quality assurance, knowledge management, and workload balancing practices.  Cross-Regional Collaboration & Business ContinuityPartner closely with the West Palm Beach Tier 2/3 People Operations team to deliver seamless, integrated HR services across Costa Rica and the United States. Promote a ONE TEAM AMERICAS operating model, aligning both locations around shared goals, accountability, service standards, and employee experience. Drive cross-training, knowledge transfer, process documentation, and skills development to strengthen operational flexibility and reduce single points of dependency.  Process Optimization, Automation & Continuous ImprovementIdentify and implement opportunities to simplify, standardize, automate, and optimize regional and global HR processes. Drive measurable improvements in efficiency, productivity, service quality, and employee experience through process redesign and elimination of non-value-added activities. Identify and quantify capacity savings, productivity gains, time savings, and cost efficiencies, translating improvements into measurable business outcomes. Apply a product mindset, leveraging employee feedback, service data, and the voice of the customer to develop scalable, outcome-focused solutions.  Stakeholder Partnership, Governance & Change ManagementBuild productive partnerships with Global People Operations, HR Business Partners, Total Rewards, Talent Management, HR Technology, and other COEs. Ensure compliance with LATAM employment regulations, HR policies, data privacy requirements, and local labor practices, particularly in Costa Rica. Maintain internal controls, audit readiness, data integrity, process documentation, and confidentiality. \n\nQualifications\n\nRequired Qualifications:\n\nExperience in leveraging or critically thinking about how to integrate AI into work processes, decision-making, or problem-solving. This may include using AI-powered tools, automating workflows, analyzing AI-driven insights, or exploring AI's potential impact on the function or industry.\n\nHR Operations & People Leadership\n\nBachelor's degree in Human Resources, Business Administration, or a related discipline, or equivalent practical experience. Typically 8–10 years of progressive experience in HR Operations, People Services, or HR Shared Services, including Managerial leadership. Experience supporting Americas People Operations, with a strong understanding of the US, LATAM HR landscape and processes, and hands-on exposure to core employee lifecycle activities, including Benefits, Compensation & Rewards, and Talent. Proven ability to manage high-volume HR operations, workload planning, resource utilization, service performance, and escalations. Strong knowledge of LATAM HR policies, employment practices, and regulatory requirements, particularly Costa Rica. \n\nWorkday & Functional HR Expertise\n\nDeep, hands-on Workday Core HCM experience is mandatory, including business processes, lifecycle transactions, effective dating, organizational structures, data changes, and troubleshooting. Strong functional knowledge of Compensation, Benefits, Performance Management, and Goals. \n\nHRSD, Analytics & Operational Excellence\n\nHands-on experience with ServiceNow HRSD including case management, workflows, escalations, reporting, and dashboards. Experience managing SLA, CSAT, productivity, case aging, quality, and other operational KPIs. Strong analytical skills to interpret data, identify trends, communicate insights, and recommend improvements. Proven success in process optimization, automation, standardization, and measurable capacity or efficiency gains. \n\nLeadership Competencies & Attributes\n\nStrong people leadership skills with a passion for coaching, mentoring, employee engagement, and team development. Collaborative and inclusive leadership style promoting ONE TEAM values, trust, shared accountability, and cross-regional partnerships. Excellent communication, stakeholder management, influencing, and problem-solving skills. Ability to balance strategic improvements with hands-on operational responsibilities. Adaptability, accountability, and resilience in a dynamic, fast-paced global environment. Ability to champion change, manage competing priorities, and deliver projects successfully. \n\nPreferred Qualifications\n\nExperience in multinational organizations or global HR Shared Services / Global Business Services environments. Experience with cross-regional operating models. Exposure to HR digital transformation, AI-enabled service delivery, automation, or technology optimization. \n\nAdditional Information\n\nWork Personas\n\nWe approach our distributed world of work with flexibility and trust. Work personas (flexible, remote, or required in office) are categories that are assigned to ServiceNow employees depending on the nature of their work and their assigned work location. Learn more here. To determine eligibility for a work persona, ServiceNow may confirm the distance between your primary residence and the closest ServiceNow office using a third-party service.\n\nEqual Opportunity Employer\n\nServiceNow is an equal opportunity employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, national origin, age, disability, gender identity, veteran status, or any other category protected by law. In addition, all qualified applicants with arrest or conviction records will be considered for employment in accordance with legal requirements.\n\nAccommodations\n\nWe strive to create an accessible and inclusive experience for all candidates. If you require a reasonable accommodation to complete any part of the application process, or are unable to use this online application and need an alternative method to apply, please contact globaltalentss@servicenow.com for assistance.\n\nExport Control Regulations\n\nFor positions requiring access to controlled technology subject to export control regulations, including the U.S. Export Administration Regulations (EAR), ServiceNow may be required to obtain export control approval from government authorities for certain individuals. All employment is contingent upon ServiceNow obtaining any export license or other approval that may be required by relevant export control authorities.\n\nFrom Fortune. ©2026 Fortune Media IP Limited. All rights reserved. Used under license.",
+      "apply_options": [
+        {
+          "title": "LinkedIn",
+          "link": "https://pe.linkedin.com/jobs/view/manager-people-operations-at-servicenow-4492094905?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Trabajo.org",
+          "link": "https://pe.trabajo.org/oferta-4112-f961d72801396c9c288bd2235102e3d9?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJNYW5hZ2VyLCBQZW9wbGUgT3BlcmF0aW9ucyIsImNvbXBhbnlfbmFtZSI6IlNlcnZpY2VOb3ciLCJodGlkb2NpZCI6IlVvVzJrekZ0MDNfNWFBNlhBQUFBQUE9PSIsInV1bGUiOiJ3K0NBSVFJQ0lFVUdWeWRRIiwiZ2wiOiJwZSIsImhsIjoiZXMiLCJmYyI6IkVzc0JDb3dCUVVSRVlsZGxXVmRCVm14S09WQkJkblUzTWs1dloxRktiSFpZYlRSclZqZE1ZMDVJYzJoNlNUTk5iVGxvZVcxV2NFNTVOV3RRTkZSUE1YVnRVa1Z2UTBobGJGOW1OalpHY0ZCMFpXbHFNR2MyTFRSQ1IzWjFSWGRMUm5GcGJVMDVNVlJMWVhGWlJYTmhhWEZYWkZWQk16ZEthelk0VGkxUllrOXJZWGh4YlcxcVlqVnJaRlJYUWxGSFIzWVNGbkZCU1VOaE9XVlFUQzFwZURWT2IxQTFPVjkyVFZFYUlrRklUakJGTjBoQ1N5MUdVVWN0WHkwdGJtODVSWGM1TnpGeU5UbHBkMDk2YmtFIiwiZmN2IjoiMyIsImZjX2lkIjoiVW9XMmt6RnQwM181YUE2WEFBQUFBQT09In0="
+    },
+    {
+      "title": "Regional Lounge Operations Leader",
+      "company_name": "Collinson Group",
+      "location": "Perú",
+      "via": "BeBee",
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=operations&htidocid=iC7EKTsEMxd_ZKXSAAAAAA%3D%3D&hl=es-PE&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_xWMMQ6CQBBFY8sJjNXUFqwxscHGxMKGROMFyAI_C2bYWXeWhKt4FVouJjSveMl72W-X3d5wvXjLVMroHegZEG1alVIJ2yIWVC-zfke0lloQhsAQgqeHiGMcrl1KQQtjVDl3mta4yRsZjHjUMpmP1Lqh0s5GBLYJ1flymvLg3XF_F-beq6y7KGPYvi_EZf4DIee58pwAAAA&shmds=v1_Ac3VAoynfHoqwndUQVeKMi4rRiZzHV33nJYRsdiGz-2jqaDc6Q&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=operations&htidocid=iC7EKTsEMxd_ZKXSAAAAAA%3D%3D",
+      "extensions": [
+        "hace 3 días",
+        "Tiempo completo"
+      ],
+      "detected_extensions": {
+        "posted_at": "hace 3 días",
+        "schedule_type": "Tiempo completo"
+      },
+      "source_link": "https://bebee.com/pe/jobs/regional-lounge-operations-leader-collinson-group-peru--techmap_pe_55450330047",
+      "job_title": "Regional Lounge Operations Leader",
+      "description": "Descripción de la vacante\nCollinson Group is seeking a Lounge Manager to oversee operations across Peru's regions. The role emphasizes leadership of multiple teams, adherence to SOPs, and delivering exceptional guest experiences in a 24/7 setting.Requires a university degree in Hotel Management or Business Administration, advanced English, and at least five years' leadership experience in hospitality or related sectors. Permanent availability and deployment to various regions are expected.",
+      "apply_options": [
+        {
+          "title": "BeBee",
+          "link": "https://bebee.com/pe/jobs/regional-lounge-operations-leader-collinson-group-peru--techmap_pe_55450330047?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Jobrapido.com",
+          "link": "https://pe.jobrapido.com/jobpreview/4520665251498164224?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Trabajo.org",
+          "link": "https://pe.trabajo.org/oferta-10004-de10c3b65270eb40c72c54dd57e11c71?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJSZWdpb25hbCBMb3VuZ2UgT3BlcmF0aW9ucyBMZWFkZXIiLCJjb21wYW55X25hbWUiOiJDb2xsaW5zb24gR3JvdXAiLCJodGlkb2NpZCI6ImlDN0VLVHNFTXhkX1pLWFNBQUFBQUE9PSIsInV1bGUiOiJ3K0NBSVFJQ0lFVUdWeWRRIiwiZ2wiOiJwZSIsImhsIjoiZXMiLCJmYyI6IkVzc0JDb3dCUVVSRVlsZGxZa1ZyTTNaeE9EbDZaMDVSYUhOVVExaElaVFZKWkhKQlIzUlNYMHBaVVdsbllXcFpUbHB4ZGt3MWFtSmlWa3g1YmpCWVZERmlUblYyVUUxb1lrZFBOVEEwU0dkV2VtOVRSbmc0V0dkTGRWZGtibXhIV1dSVk1GbHpOR0Z2WkRFdFZGVjJXV3Q2Y0VSaE9WUjVkVmswWkdOUlluQllaMGd6ZVhGdlZrTXdNQzFuVTBaQ1RVWVNGbkZCU1VOaE9XVlFUQzFwZURWT2IxQTFPVjkyVFZFYUlrRklUakJGTjBkNWNFeHpkMlZzV1hSVlFrTnpZMjAwWmtFMVZYbFBOWGhIWjNjIiwiZmN2IjoiMyIsImZjX2lkIjoiaUM3RUtUc0VNeGRfWktYU0FBQUFBQT09In0="
+    },
+    {
+      "title": "Operations Assistant PagoDirecto",
+      "company_name": "CONFIDENCIAL",
+      "location": "Perú",
+      "via": "JobLeads",
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=operations&htidocid=1Iavdi0h1j7nIJqMAAAAAA%3D%3D&hl=es-PE&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_xXMMQ6CMBSA4biyuzh1dqDGxAUHQ0ANiQFuQAq8lJLSV_ueCRfxMqxcTFn-7fuj7y66VR6CYoOOREpkiJVjUSuNuQnQMSaiXRd6f6BXogcBk7eAApx4ImoLh-vA7CmRksjG-s_ZdHGHk0QHLc5yxJa2NDSoAN4qhuZ8Oc2xd_q4z6ryUeT3MivS1zatIazLD-3juwmYAAAA&shmds=v1_Ac3VAoxUnX2gk1NhuRHux3V4HKiude1yNcHqObLNGwWSDW00vA&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=operations&htidocid=1Iavdi0h1j7nIJqMAAAAAA%3D%3D",
+      "extensions": [
+        "hace 16 días",
+        "De S/ 42 K a S/ 56 K por año",
+        "Tiempo completo"
+      ],
+      "detected_extensions": {
+        "posted_at": "hace 16 días",
+        "salary": "De S/ 42 K a S/ 56 K por año",
+        "schedule_type": "Tiempo completo"
+      },
+      "source_link": "https://www.jobleads.com/pe/job/operations-assistant-pagodirecto--san-isidro--ee7dbd9160fa6172e0f3e1e577a16c583",
+      "job_title": "Operations Assistant PagoDirecto",
+      "description": "Operations Assistant | Fintech¿Tienes experiencia en operaciones, conciliaciones bancarias o medios de pago y te interesa seguir desarrollándote dentro del ecosistema fintech? Estamos buscando un/a Operations Assistant para incorporarse a nuestro equipo en Perú. Tendrás un rol clave en la operación diaria de nuestros servicios de Payins, Payouts y KYC, asegurando el correcto procesamiento y seguimiento de las transacciones y brindando soporte a nuestros clientes.\n\n¿Por qué esta posición? Es una oportunidad para desarrollarte en una operación vinculada directamente con medios de pago, conciliaciones bancarias, transferencias y procesos KYC, trabajando de manera coordinada con diferentes áreas del negocio. Buscamos a una persona que disfrute trabajar con información, números y procesos, que sea muy detallista, organizada y proactiva, y que quiera continuar desarrollándose dentro una industria digital dinámica.\n\n¿Cuáles serán tus principales responsabilidades?Atender consultas operativas de los clientes relacionadas con los servicios de Payins, Payouts y KYC.Realizar las conciliaciones bancarias del servicio de Payins, verificando que los abonos recibidos coincidan con las transacciones registradas.Monitorear los pagos pendientes o rechazados y realizar el seguimiento necesario hasta su regularización.Elaborar diariamente el reporte de pagos rechazados (Payments to be Cancelled).Realizar las devoluciones de transferencias rechazadas correspondientes a bancos no interconectados.Realizar validaciones de identidad (KYC), contrastando la información del DNI y las cuentas bancarias con los datos proporcionados por los usuarios de los clientes.Monitorear los saldos de las cuentas bancarias del servicio de Payouts y coordinar con Tesorería la disponibilidad de fondos necesaria para la ejecución de los pagos.¿Qué buscamos?Formación en Administración de Empresas, Negocios Internacionales, Contabilidad, Ingeniería Industrial o carreras afines.Experiencia mínima de 1 año en la posición o realizando funciones similares.Manejo de Excel a nivel básico o intermedio.Inglés a nivel intermedio.Perfil detallista y minucioso, con capacidad de organización, trabajo en equipo, buena comunicación e iniciativa.Afinidad con los números y comodidad trabajando con información transaccional y procesos operativos.¿Qué ofrecemos?EPS cubierta al 100% en el plan base para el colaborador y sus hijos menores de 18 años.Médico a domicilio/virtual y chequeo preventivo anual.Programa de Asistencia al Empleado (EAP) con orientación psicológica, legal, financiera y herramientas de bienestar.Beneficios y licencias adicionales para acompañarte en momentos importantes.Beneficios laborales de ley (planilla completa).La oportunidad de desarrollarte en una compañía internacional y en una de las industrias digitales más dinámicas del mercado.Modalidad: Semipresencial. Horario: lunes a viernes de 12:00 p. m. a 9:00 p. m. y sábado o domingo de 12:00 p. m. a 4:00 p. m., de manera rotativa.\n\nSi tienes experiencia en operaciones y quieres seguir desarrollándote en medios de pago, conciliaciones y procesos fintech, nos encantaría conocerte.",
+      "apply_options": [
+        {
+          "title": "JobLeads",
+          "link": "https://www.jobleads.com/pe/job/operations-assistant-pagodirecto--san-isidro--ee7dbd9160fa6172e0f3e1e577a16c583?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJPcGVyYXRpb25zIEFzc2lzdGFudCBQYWdvRGlyZWN0byIsImNvbXBhbnlfbmFtZSI6IkNPTkZJREVOQ0lBTCIsImh0aWRvY2lkIjoiMUlhdmRpMGgxajduSUpxTUFBQUFBQT09IiwidXVsZSI6IncrQ0FJUUlDSUVVR1Z5ZFEiLCJnbCI6InBlIiwiaGwiOiJlcyIsImZjIjoiRXNzQkNvd0JRVVJFWWxkbFlYUnNia0V5YkVsSFRtUlVUeTFyVlVjeFh5MTJhalV0Um5CUFIwbE9SMDlxTnpoMU5XdzFjM2xoWVZoNmEyeHdPVmRyYkhOdGJHUmhjMDR6WmxoblYxaFBjM0ZqZHpaalVHaDFZMlJQU21SQ1RYcGpXRU16ZUdWMFEyRnpVRzA1TUVrdFVHdEdkVkJpTW00NVRGVTVkMGRMVlcxcVFVWkJTa3AyTm1Jd2RFeDVaRjlYTTNNU0ZuRkJTVU5oT1dWUVRDMXBlRFZPYjFBMU9WOTJUVkVhSWtGSVRqQkZOMGhrUVcxeGVucHFVMVl5TUVWcU5GRTNhMnQzWm1wMk9GOU5TMUUiLCJmY3YiOiIzIiwiZmNfaWQiOiIxSWF2ZGkwaDFqN25JSnFNQUFBQUFBPT0ifQ=="
+    },
+    {
+      "title": "Team Leader Operations",
+      "company_name": "Concentrix",
+      "location": "Perú",
+      "via": "Indeed",
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=operations&htidocid=_DNlqtsyMA9_CBMdAAAAAA%3D%3D&hl=es-PE&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_xXMsQ6CMBRG4biyujnd2YEaExYcHVxIdHAnF_oHMKW39takr-ArsfJiynK27xTfXVE9wTM1YItI94DIaRKvNXXrou8PLJMFYQ4OQvB0ExkcDpcxpaC1MaquHDT9VV_2Mhvx6CSbl3S6pdWRI4LjhPZcnXIZ_HDcX8X38ClOeVs-ENflB8NQeGmMAAAA&shmds=v1_Ac3VAoxi_3LdYFmxLoV4Wu8ovdmQ8O70RMm5j529xpOHDdkZxw&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=operations&htidocid=_DNlqtsyMA9_CBMdAAAAAA%3D%3D",
+      "thumbnail": "https://serpapi.com/searches/6b0202a5131811d28cbf036e/images/eOjLhjbrkn4FZJNrhhWgv28uQisexWEpIFatmU54Fzs.jpg",
+      "extensions": [
+        "hace 25 días",
+        "Tiempo completo"
+      ],
+      "detected_extensions": {
+        "posted_at": "hace 25 días",
+        "schedule_type": "Tiempo completo"
+      },
+      "source_link": "https://pe.indeed.com/viewjob?jk=cc856bc0207d5d6e",
+      "job_title": "Team Leader Operations",
+      "description": "Essential Functions/Core Responsibilities \n \n  Responsible for the day-to-day supervision of a group of call center associates including work and attendance monitoring in accordance with organization policy and applicable legal requirements\n  Effectively coach direct reports on their performance on a regular basis to ensure performance metrics are achieved at a minimum weekly\n  Identify performance related issues, develop an action plan for improvement, implement corrective action, up to and including termination of employment\n  Ensure service delivered to our customers meets contractual Key Performance Indicator (‘KPIs’) and financial expectations\n  Communicate expectations to employees and provide timely updates\n  Provide subject matter expertise in handling escalated customer calls as needed\n  Conduct Team Meetings to ensure expedient communication of relevant information and as an open forum for input. Schedule and organize team activities\n  Stay current on internal work processes, policies and procedures. Attend required manager development training\n  Promote the Concentrix values through both behavior and attitude, including being an advocate for team members\n \n \n\n\n Candidate Profile \n \n  Associate's degree in related field with two to four years of relevant experience preferred\n  Highly motivated individual with skills to develop and coach team members to achieve performance expectations\n  Work well under pressure and follow through on items to completion\n  Strong communication skills, both written and verbal\n  Ability to lead team in multi-tasking, prioritization, and meeting timelines on deliverable\n  Ability to mentor, coach and provide direction to a team of employees\n  Willingness to work a flexible schedule\n \n \n\n\n Career Level Description \n Receives assignments in tasks oriented terms and supervises subordinates to set priorities and complete assignments. Coordinates and supervises the daily activities of business or technical support or production team members. In charge of handling single and medium-sized line of business. Decisions are guided by policies, procedures and business plan; receives guidance and oversight from manager. Drives direct reports to achieve set metrics and business goals thru coaching, mentoring and providing regular feedback. Typically does not spend more than 20% of time performing the work supervised. Handles escalated issues. Supervises non-exempt employees who generally perform either a single task or multiple, but closely related tasks.\n\n\n \n\n\n  << Philippines ONLY, Additional Description >> \n \n  Manage the employment status of call center associates and participate in the transfer, promotions or regularization of call center associates, which is necessary before any such employee-movement is made\n  Exercises independent judgment and discretion in the performance of the said main function as a means to implement management policies\n  Exercises authority to manage the employment status of a group of employees (firing, promotion, regularization, etc.) including identifying and addressing misconduct, policy and process violations of call center associates\n  Stay current on internal work processes, management policies and procedures and ensures implementation of the same Implement management policies\n  Support and manage the program together with other Team Leaders and Managers\n  Providing input into selecting, training, developing, and completing performance appraisal of work group(s) in accordance with the organization’s policies and applicable legal requirements\n  Manage team members on their performance on a regular basis, and write and deliver performance appraisal.\n  The Team Leader’s role is a managerial level position, a position reposed with trust and confidence.\n \n Disclaimer \n The above statements are intended to describe the general nature and level of work being performed by people assigned to this job. They are not intended to be an exhaustive list of all responsibilities, duties, and skills required of personnel working within this job title.",
+      "apply_options": [
+        {
+          "title": "Indeed",
+          "link": "https://pe.indeed.com/viewjob?jk=cc856bc0207d5d6e&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Glassdoor",
+          "link": "https://www.glassdoor.co.uk/job-listing/team-leader-operations-concentrix-JV_KO0,22_KE23,33.htm?jl=1010308044201&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Glassdoor",
+          "link": "https://www.glassdoor.com.br/job-listing/team-leader-operations-concentrix-JV_KO0,22_KE23,33.htm?jl=1010308044201&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Glassdoor",
+          "link": "https://www.glassdoor.com/job-listing/team-leader-operations-concentrix-JV_KO0,22_KE23,33.htm?jl=1010308044201&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Workday",
+          "link": "https://cnx.wd1.myworkdayjobs.com/en-US/external_global/job/Team-Leader-Operations_R1775412?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Buscojobs",
+          "link": "https://www.buscojobs.pe/team-leader-operations-en-peru-ID-13258795?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "BeBee",
+          "link": "https://bebee.com/pe/jobs/team-leader-operations-concentrix--ss-pe-7e07ep?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Jobrapido.com",
+          "link": "https://pe.jobrapido.com/jobpreview/5713251741156245504?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJUZWFtIExlYWRlciBPcGVyYXRpb25zIiwiY29tcGFueV9uYW1lIjoiQ29uY2VudHJpeCIsImh0aWRvY2lkIjoiX0RObHF0c3lNQTlfQ0JNZEFBQUFBQT09IiwidXVsZSI6IncrQ0FJUUlDSUVVR1Z5ZFEiLCJnbCI6InBlIiwiaGwiOiJlcyIsImZjIjoiRXNzQkNvd0JRVVJFWWxkbFdXbFVNbEJLTFZvMVZsVlhPRlExVDJ0MmFWZDFiMGhIVDBOWU9XYzJZalF6UlZaMmVUWTNka1p4U1U0emVHeE9kVWRJWTB0ck5GOVhiVUZTUzAxak4yZEVaamxST1dSRVZVWlNhVVZMYUROUlprUk5jWGN5YVRkd1MxQnVWbGhRUzBKbVdXeDBaa2RoTUdJMGFIb3dhWFZ2TjBNdFUwYzNSSHBqVEVWVmQySmlOR05ZZWs0U0ZuRkJTVU5oT1dWUVRDMXBlRFZPYjFBMU9WOTJUVkVhSWtGSVRqQkZOMGRQWlRWMVlVOXNXRTR6VTNkdldtOHlXa3gyVFRscWNsSnNTVUUiLCJmY3YiOiIzIiwiZmNfaWQiOiJfRE5scXRzeU1BOV9DQk1kQUFBQUFBPT0ifQ=="
+    },
+    {
+      "title": "Director of Finance and Operations (Remote, Arequipa)",
+      "company_name": "Blacksmith Agency",
+      "location": "Perú",
+      "via": "BeBee",
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=operations&htidocid=6UjeEZC0jYtktu2FAAAAAA%3D%3D&hl=es-PE&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_xXMsQ6CMBQF0LjyCU5vVGPAmLjohDE6aow7KeUK1dJX-kqCX-Xuyo-pyxlP8p4kt4MJ0JED8Z2OximnQcpVdPYIKhp2QrMrWo5YUh7Q9car-ZbK8SNdj0pRBULrLZjg6MRcW0x3TYxetlkmYtNa4i_SqeY2Y4eSh-zBpfwppFEB3qqIYr1ZDal39WK6t0o_pTWxobyG06__fEEYP1-56k5VsgAAAA&shmds=v1_Ac3VAoxgRmoRnZ2OJJmV4Yrzogn9jYvyRRhbInYyHQF2nKSBuw&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=operations&htidocid=6UjeEZC0jYtktu2FAAAAAA%3D%3D",
+      "extensions": [
+        "hace 3 días",
+        "Tiempo completo"
+      ],
+      "detected_extensions": {
+        "posted_at": "hace 3 días",
+        "schedule_type": "Tiempo completo"
+      },
+      "source_link": "https://bebee.com/pe/jobs/director-of-finance-and-operations-remote-arequipa-blacksmith-agency-peru--techmap_pe_4492702565",
+      "job_title": "Director of Finance and Operations (Remote, Arequipa)",
+      "description": "Blacksmith Agency\n\n\n\n\nFinance\nFull time\n\n\nRemote (Latin America or South Africa)\n\n\n\nAbout The Role\n\n\nBlacksmith Agency is a fully remote US digital agency of 30 to 40 people running websites, SEO, paid media and branding. As Director of Finance and Operations you own finance end to end, plus the people operations that go with it, reporting straight to ownership as the senior finance person. You run it on your own.\nWhat You Will Own\n\n\n\n\n\n\nFinance: clean books with our bookkeeper, the monthly close, cash, payables, receivables and controls.\n\n\nFP&A: revenue, margin and cash flow models and forecasts, monthly actual versus forecast, unit economics and the capacity model that says when to hire.\n\n\nPeople operations: onboarding and offboarding for a remote team across several countries, contracts, payroll setup, access in and out.\n\n\nPlain answers for ownership on where the business stands and what to do about it.\n\n\n\nWhat You Need\n\n\n\n\n\n\nYou have run finance yourself: built the models, owned the close and answered to ownership for the numbers.\n\n\nIndependent and driven. Nobody hands you a checklist.\n\n\nStrong Google Sheets or Excel, QuickBooks or Xero, and clear written and spoken English.\n\n\nFull time as your only job, with substantial overlap with US business hours. Services or agency finance is a plus.\n\n\n\nHow To Apply\n\n\nApply in two minutes at the link, then a short 6 minute Predictive Index assessment. If you are a fit, you get a link to a short AI interview you can take any time. No cover letter.",
+      "apply_options": [
+        {
+          "title": "BeBee",
+          "link": "https://bebee.com/pe/jobs/director-of-finance-and-operations-remote-arequipa-blacksmith-agency-peru--techmap_pe_4492702565?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Trabajo.org",
+          "link": "https://pe.trabajo.org/oferta-4112-7a6fd39d1535bef9f3a2d10ce083dd41?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJEaXJlY3RvciBvZiBGaW5hbmNlIGFuZCBPcGVyYXRpb25zIChSZW1vdGUsIEFyZXF1aXBhKSIsImNvbXBhbnlfbmFtZSI6IkJsYWNrc21pdGggQWdlbmN5IiwiaHRpZG9jaWQiOiI2VWplRVpDMGpZdGt0dTJGQUFBQUFBPT0iLCJ1dWxlIjoidytDQUlRSUNJRVVHVnlkUSIsImdsIjoicGUiLCJobCI6ImVzIiwiZmMiOiJFc3NCQ293QlFVUkVZbGRsV1U1WVkzTm5la2wyY2t4c09XbE9lRkIzWW5SUE1ITnBNVWx2ZVZsV1QwdGFWa2xFWVc5dldHaERZMnhUYjNSRFIyaG5iRFJYWkRjd1puaFJSMGR2VEd0SVkyMVlUVXhVVVRKQ1dsVkJla2t3TW1kb2J5MUpjMHhFTVhoNmRVRm9VV2RGTVRaRVJIZENPRVpZTURaQlJHTnVNazlTZWtkRmVIZFRYM1JEUjA1Q01UQkVlRGdTRm5GQlNVTmhPV1ZRVEMxcGVEVk9iMUExT1Y5MlRWRWFJa0ZJVGpCRk4wVjVkME5JZEc5aU9WcG9aVEIyVFMxWVNsOVhOMGd3WkVWRFJtYyIsImZjdiI6IjMiLCJmY19pZCI6IjZVamVFWkMwall0a3R1MkZBQUFBQUE9PSJ9"
+    },
+    {
+      "title": "Operations Manager",
+      "company_name": "Third Way Health",
+      "location": "Huánuco",
+      "via": "Trabajo.org",
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=operations&htidocid=WM-VIoLbegSTNJsXAAAAAA%3D%3D&hl=es-PE&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_xXMsQ3CMBBAUdFmBERxNUUMSDRhANIgGiTK6Byf7CDHZ3y2FJZgB9agzWKQ5nfvV-9Vtb9GSpgHDgIXDGgpNaDnrzwLGQRDQGP0xEABzszW0_rkco7SKCXiayv5r_u651FxIM2TerCWJZ04TBQ9ZuoOx91Ux2C3m5sbkoE7vqAl9Nkt47bMn1B6_gGt0TsDkQAAAA&shmds=v1_Ac3VAoy3j-2ri9NR5SY7ORChwqc9N54D6m6iqNwn6CbHYUJAFg&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=operations&htidocid=WM-VIoLbegSTNJsXAAAAAA%3D%3D",
+      "extensions": [
+        "hace 8 días",
+        "Tiempo completo"
+      ],
+      "detected_extensions": {
+        "posted_at": "hace 8 días",
+        "schedule_type": "Tiempo completo"
+      },
+      "source_link": "https://pe.trabajo.org/oferta-4111-61fbf398906050f9abd7fff3997ebbe2",
+      "job_title": "Operations Manager",
+      "description": "About the position:\nWe are seeking an experienced Operations Manager to oversee our company’s daily operations and centralized delivery teams in Lima, Peru. The Operations Manager will be responsible for ensuring that our central business operations are efficient, effective, and aligned with our strategic goals. This role requires strong people-management and leadership skills, excellent communication abilities, and a deep understanding of operational processes and of how our systems, products, and teams connect. Ideal candidates not only have a proven track record of leading teams, ideally in a BPO environment, but also bring a strategic mindset, intellectual curiosity, and an understanding of the financial impact of operational efficiency. Experience implementing AI or automation solutions are a plus\n\nResponsibilities:\n\nManage a team of patient concierge representatives and agents, providing leadership, guidance, and support so team members perform at their best and meet service level expectations, with a strong focus on people management: engagement, development, and retention.Work with cross-functional teams and understand the systems we use and how they integrate with each other, so operations run smoothly end to end.Monitor key performance indicators (KPIs) to track progress and identify areas of concern, taking proactive measures to address issues as they arise.Implement high standards of training and quality to ensure teams meet quality standards.Analyze operational processes and identify areas for improvement, streamlining workflows and reducing costs, with a clear understanding of the financial impact that efficiency has on the business.Develop and implement strategies to improve operational productivity, efficiency, and profitability.Manage client relationships to guarantee TWH is fulfilling and exceeding their expectations.Oversee day-to-day operations, including inventory management and office logistics.Collaborate with other departments, such as sales, marketing, and finance, to ensure business objectives are metDevelop and maintain operational policies and procedures to ensure compliance with industry regulations and company standards.Lead initiatives to enhance safety, sustainability, and environmental responsibility within the organization.Prepare regular reports and presentations for senior management, providing insights into operational performance and highlighting areas for improvement.Stay up to date on industry trends and best practices, continuously seeking opportunities to innovate and optimize operationsRequired skills and qualifications:\n\nBachelor's degree in business administration or a related field. Master's degree preferred8+ years of experience in operations management, with a proven track record of improving operational efficiency and driving sustainable business resultsStrong people-management and leadership skills, with the ability to motivate and inspire teams to achieve their goals.Excellent communication and interpersonal skills, with the ability to collaborate effectively with clients and colleagues at all levels of the organizationTechnical knowledge and strong soft skills, with intellectual curiosity and a drive to learn and try new things.Analytical mindset, with the ability to analyze data, identify trends, and make data-driven decisionsAdvanced PPT / Google Slides and advanced Excel / Google Sheets skillsYou are a self-driven problem solver at your core who gets things doneYou thrive in a fast-paced, innovative work environmentFluent in English and experience working with US-based teams",
+      "apply_options": [
+        {
+          "title": "Trabajo.org",
+          "link": "https://pe.trabajo.org/oferta-4111-61fbf398906050f9abd7fff3997ebbe2?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "BeBee",
+          "link": "https://bebee.com/pe/jobs/operations-manager-third-way-health-miraflores--fj-2466872809?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJPcGVyYXRpb25zIE1hbmFnZXIiLCJjb21wYW55X25hbWUiOiJUaGlyZCBXYXkgSGVhbHRoIiwiaHRpZG9jaWQiOiJXTS1WSW9MYmVnU1ROSnNYQUFBQUFBPT0iLCJ1dWxlIjoidytDQUlRSUNJRVVHVnlkUSIsImdsIjoicGUiLCJobCI6ImVzIiwiZmMiOiJFc3NCQ293QlFVUkVZbGRsWVRsNGRGRnpTWGxMUlVSa1NUSjBkelI1ZDFONVJYUlZOM055T1ZCTk1XaDRYelV4WXpWWlEwVTRORVUzUVdSM2VqSTBhbFI2WldoQllYTmxTM2QzV1MxNlprcFdXbmhzWWpWT1lYQldRMjUzUjNSM1pXODRTbTA1V2xkRGRHSklRblZJV1dZMGVVOTZhM3BQVGs1eU1HVndhamRrY25kb1FuRjZkMkZ1YVdVdFJsSjFla3NTRm5GQlNVTmhPV1ZRVEMxcGVEVk9iMUExT1Y5MlRWRWFJa0ZJVGpCRk4wZFRNMnhhT0RKa1NUbE9VVEozU0ZkVGFrSk1WVkpDVmtseGVsRSIsImZjdiI6IjMiLCJmY19pZCI6IldNLVZJb0xiZWdTVE5Kc1hBQUFBQUE9PSJ9"
+    },
+    {
+      "title": "Care Operations Analyst",
+      "company_name": "Maersk Logistics & Services Peru S.A.",
+      "location": "Perú",
+      "via": "Workday",
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=operations&htidocid=QFmkNwMy2iSBcw97AAAAAA%3D%3D&hl=es-PE&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_xWNMQ6CMBRA48oRnP7k4NAaEx1wIg4uGk04ACnlp6Clv_YXgwfyEqxczLK85A0vL_utsuNZBYS7x6BiR46hcMp-OeZQzxO_B2wUNAjYe4sE6OBCZCyuT22MnnMpma0wHFOthaZeksOaRvmkmhdU3KaBtypitT_sRuGd2YqbwsAvuJLpOIUMGygxfDqNDA8MA5SiEMstyTz9AdeQvraoAAAA&shmds=v1_Ac3VAoy6dRao9luDZ6ba1ES0PJJdFf3JB1lc17hylGr61HbEng&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=operations&htidocid=QFmkNwMy2iSBcw97AAAAAA%3D%3D",
+      "extensions": [
+        "Tiempo completo"
+      ],
+      "detected_extensions": {
+        "schedule_type": "Tiempo completo"
+      },
+      "source_link": "https://maersk.wd3.myworkdayjobs.com/en-US/Maersk_Careers/job/Care-Operations-Analyst_R198186",
+      "job_title": "Care Operations Analyst",
+      "description": "En Maersk, somos líderes globales en logística y transporte, conectando negocios y personas en más de 130 países. Nuestra misión es simplificar la cadena de suministro y ofrecer soluciones integrales que impulsen el crecimiento de nuestros clientes. Únete a nosotros y sé parte de una compañía que apuesta por la innovación, la sostenibilidad y el desarrollo profesional. Como Care Operations Analyst serás responsable de supervisar las áreas de las instalaciones identificando los riesgos, actos inseguros, corrigiéndolos, dando soporte a las áreas operativas. Es resposable de impulsar y gestionar proyectos relacionados al medio ambiente y salud ocupacional. Principales Responsabilidades Ejecutar inspecciones, recorridos y verificaciones operativas en campo para asegurar el cumplimiento de los estándares de Seguridad, Salud Ocupacional, Medio Ambiente, Seguridad Patrimonial y Operaciones. Identificar, reportar y dar seguimiento a actos, condiciones inseguras, incidentes, accidentes, riesgos operacionales y oportunidades de mejora, participando en las investigaciones y cierre de acciones correctivas. Monitorear indicadores de HSE, elaborar reportes y brindar soporte en la gestión de proyectos, planes de acción y toma de decisiones de la sede. Verificar el cumplimiento de procedimientos, permisos de trabajo, controles operacionales, capacitaciones, charlas de seguridad, inspecciones, checklists y uso adecuado de equipos de protección personal por parte de personal propio y terceros. Brindar soporte al Sistema de Gestión Integrado mediante la actualización de documentación, registros y herramientas de gestión, incluyendo IPERC, procedimientos, matrices de control y demás documentos aplicables. Promover una cultura de excelencia operacional, seguridad, cumplimiento, respeto a la diversidad y mejora continua, actuando de acuerdo con las políticas corporativas, Código de Conducta, requisitos de Compliance y lineamientos de la organización. Identificar e intervenir oportunamente ante situaciones que representen un riesgo para las personas, el medio ambiente, la continuidad del negocio o los activos de la compañía. Ejecutar otras funciones afines al cargo que sean asignadas por su jefe inmediato dentro del ámbito de sus responsabilidades. Requisitos - Egresado de Seguridad y Prevención de Riesgos, Seguridad Industrial y Prevención de Riesgos o Seguridad y Salud en el Trabajo. - Experiencia de minimo 6 meses en operaciones - Experiencia mínima de 1año como Prevencionista de Riesgo - Idioma inglés básico - RESIDIR EN LURIN, VILLA EL SALVADOR O CERCANÍAS. - DISPONIBILIDAD PARA TRABAJR EN TURNO ROTATIVO MAÑANA Y NOCHE. #LI-DR1 Maersk is committed to a diverse and inclusive workplace, and we embrace different styles of thinking. Maersk is an equal opportunities employer and welcomes applicants without regard to race, colour, gender, sex, age, religion, creed, national origin, ancestry, citizenship, marital status, sexual orientation, physical or mental disability, medical condition, pregnancy or parental leave, veteran status, gender identity, genetic information, or any other characteristic protected by applicable law. We will consider qualified applicants with criminal histories in a manner consistent with all legal requirements. We are happy to support your need for any adjustments during the application and hiring process. If you need special assistance or an accommodation to use our website, apply for a position, or to perform a job, please contact us by emailing accommodationrequests@maersk.com. A.P. Moller - Maersk is an integrated container logistics company working to connect and simplify its customer's supply chains. As the global leader in shipping services, the company operates in 130 countries and employs roughly 100,000 people. With simple end-to-end offering of products and digital services, seamless customer engagement and a superior end-to-end delivery network, Maersk enables its customers to trade and grow by transporting goods anywhere - all over the world. For more information click here. All the way.",
+      "apply_options": [
+        {
+          "title": "Workday",
+          "link": "https://maersk.wd3.myworkdayjobs.com/en-US/Maersk_Careers/job/Care-Operations-Analyst_R198186?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Sercanto",
+          "link": "https://www.sercanto.com.pe/detail/a/operations-analyst_asia_36485908?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "BeBee",
+          "link": "https://bebee.com/pe/jobs/care-operations-analyst-ap-moller-maersk-peru-lima-lurin-15823--t7xk-879174668?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJDYXJlIE9wZXJhdGlvbnMgQW5hbHlzdCIsImNvbXBhbnlfbmFtZSI6Ik1hZXJzayBMb2dpc3RpY3MgXHUwMDI2IFNlcnZpY2VzIFBlcnUgUy5BLiIsImh0aWRvY2lkIjoiUUZta053TXkyaVNCY3c5N0FBQUFBQT09IiwidXVsZSI6IncrQ0FJUUlDSUVVR1Z5ZFEiLCJnbCI6InBlIiwiaGwiOiJlcyIsImZjIjoiRXNzQkNvd0JRVVJFWWxkbFdrUkNWak0yVldKaVkyOVhUMHh3Vm5Nd2JHNXFNVFJvY0ZkMmFDMTBkR1l3VVVNNFVVSXdVWGhmZUdORmNtb3pOMHhXVG1nd1dsUXROQzEwWjJRd1dteElPV2RGUkhweU1FTlhja1I2TkRkUE5EYzJPV0ZRY1RoTU9ITkRSMlprVDFKbWVEZGZUalp3WWxadFZESnhWMDlpVUVacllWSnpNVU4zWlRJMGNHVnFha3hQTW5BU0ZuRkJTVU5oT1dWUVRDMXBlRFZPYjFBMU9WOTJUVkVhSWtGSVRqQkZOMGRRZEdwQ0xYQTBaWGhMUldKTWVFMXRVSGwxU1U5emVFOXJTSGMiLCJmY3YiOiIzIiwiZmNfaWQiOiJRRm1rTndNeTJpU0Jjdzk3QUFBQUFBPT0ifQ=="
+    },
+    {
+      "title": "Divisional Vice President - Operations (Remote + Travel) (Perú)",
+      "company_name": "Crunch Fitness",
+      "location": "Perú",
+      "via": "Jobrapido.com",
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=operations&htidocid=hpjSvqLj2lUxd2HiAAAAAA%3D%3D&hl=es-PE&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_x2NvQrCQBAGsc0LCFZb-oOJCDaxVLQ0iNiGS_KRnFxuz9tLyJsJtr6YxmaagZnoNYnyo-61aLbK0F2XoMxDdAUbaE0XB6_CTwrNr2g5gFZ086qHWdA8g_-8FykVn7c8O1SKKhBaZ8AES2fm2mC2b0JwkiaJiIlrCb9eGZfcJmxR8JA8uJARuTTKwxkVkG93myF2tl5OD76zZUMnHSxExuz_-gUg4kdbugAAAA&shmds=v1_Ac3VAoyeERMo-i7Vq3khZHN3c0i2Ixj7HeSY9D8JW8WOGpiuIA&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=operations&htidocid=hpjSvqLj2lUxd2HiAAAAAA%3D%3D",
+      "thumbnail": "https://serpapi.com/searches/6b0202a5131811d28cbf036e/images/tKVfBofIQuBMUZEL2E06weQu5qr3xmSsZusRo8n274Y.jpg",
+      "extensions": [
+        "hace 5 días",
+        "Tiempo completo"
+      ],
+      "detected_extensions": {
+        "posted_at": "hace 5 días",
+        "schedule_type": "Tiempo completo"
+      },
+      "source_link": "https://pe.jobrapido.com/jobpreview/8319267712584908800",
+      "job_title": "Divisional Vice President - Operations (Remote + Travel) (Perú)",
+      "description": "Remoto: Teletrabajo\n\nCRUNCH FITNESS – Divisional Vice President, OperationsLocation: Remote with 50% travelReports To: Senior Vice President, OperationsWho We AreCrunch Fitness is a rapidly expanding fitness brand with more than 600 franchised and corporate-owned gyms across the United States and  unfiltered philosophy of No Judgments drives us to create welcoming gyms and communities for everyone. We make serious fitness fun by combining exercise, entertainment, and  one of the fastest-growing brands in the fitness industry, Crunch offers the opportunity to join a high-growth organization where professional development and career advancement are plentiful. Together, we are redefining the fitness experience.YOUR IMPACTThe Divisional Vice President, Operations is a senior leader responsible for driving operational excellence, franchisee success, and business growth across an assigned region. Reporting to the Senior Vice President of Operations, this role leads a team of Franchise Business Partners (FBPs) and serves as a strategic partner to franchise owners, helping maximize performance, strengthen member experience, and drive alignment with Crunch's standards and growth objectives.This highly visible leadership role oversees regional business performance across membership growth, personal training revenue, group fitness execution, operational excellence, and new club development.What You'll DoLeadership & Team DevelopmentLead, coach, and develop a high-performing team of Franchise Business Partners.Foster a culture of accountability, collaboration, and continuous improvement.Build organizational capability and a pipeline of future leaders.Franchisee Partnership & Business PerformanceServe as a trusted advisor to franchise owners, driving operational and financial results.Lead business reviews, goal setting, and performance improvement  opportunities for growth while proactively addressing business challenges.Operational ExcellenceDrive consistent execution of operational standards across all clubs.Implement scalable processes and best practices that support growth and efficiency.Support successful club openings, acquisitions, and expansion efforts.Sales, Revenue & Member ExperiencePartner with franchisees to increase membership growth, personal training revenue, and overall club performance.Leverage business metrics and insights to drive decision-making and results.Champion an exceptional and consistent member experience across the region.Support the rollout of new programs, services, and strategic  Integrity & ComplianceEnsure compliance with Crunch brand standards, policies, and operating procedures.Protect and strengthen the Crunch brand through operational excellence and franchise alignment.What You’ll BringBachelor's degree in Business, Operations, Hospitality, or a related field; MBA preferred.10+ years of multi-unit operations leadership experience in franchising, fitness, retail, hospitality, restaurants, or another consumer-facing industry.Proven success leading regional or divisional operations across multiple  ability to drive revenue growth, operational performance, and franchisee engagement.Experience developing and leading high-performing field teams.Strong financial, analytical, and business acumen.Exceptional leadership, communication, and relationship-building skills.Ability to thrive in a fast-paced, growth-oriented environment.Willingness to travel 50% or more.BenefitsAnnual bonus opportunityFlexible paid time offMedical, dental, and vision coverage401(k) with company match opportunitiesHealth Savings and Adaptable Spending AccountsLife and disability insuranceEmployee Assistance ProgramEducation assistance programCrunch offers competitive salaries and benefits, including medical/dental/vision plans, life and accident insurance, educational expense reimbursement, employee assistance program, flexible work hours (availability varies by office and job function), free gym membership for active employees, and more.Crunch believes that all persons are entitled to equal employment opportunity and does not discriminate against nor favor any applicant because of race, color, religion, sex, age, veteran status, disability, national origin or ancestry, sexual orientation, gender identity, gender expression, transgender status or any other basis protected by federal, state or local law or ordinance or regulation. Equal employment opportunity will be extended in all aspects of the employer-employee relationship, including, but not limited to, recruitment, hiring, training, promotion, transfer, demotion, compensation, benefits, layoff, and termination. In addition, Crunch will make reasonable accommodations to known physical or mental limitations of an otherwise qualified applicant with a disability, unless the accommodation would impose an undue hardship on the operation of our business.This is a remote position.LEAD. INSPIRE. SUCCEED.Crunch is a No Judgment Gym that believes in making serious exercise fun by fusing fitness and entertainment.Looking to combine work, fitness and fun? Working at Crunch is more than a job, it’s an opportunity to inspire others to reach their fitness goals. Our ‘No Judgments’ philosophy attracts a diverse and welcoming group of professionals and makes Crunch an amazing company to work for.#J-18808-Ljbffr",
+      "apply_options": [
+        {
+          "title": "Jobrapido.com",
+          "link": "https://pe.jobrapido.com/jobpreview/8319267712584908800?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJEaXZpc2lvbmFsIFZpY2UgUHJlc2lkZW50IC0gT3BlcmF0aW9ucyAoUmVtb3RlICsgVHJhdmVsKSAoUGVyw7opIiwiY29tcGFueV9uYW1lIjoiQ3J1bmNoIEZpdG5lc3MiLCJodGlkb2NpZCI6ImhwalN2cUxqMmxVeGQySGlBQUFBQUE9PSIsInV1bGUiOiJ3K0NBSVFJQ0lFVUdWeWRRIiwiZ2wiOiJwZSIsImhsIjoiZXMiLCJmYyI6IkVzc0JDb3dCUVVSRVlsZGxZVUV0Wm1RelZrNHdWREppZFZWWFNXb3lWRlJ5UlZkSFUxbHdaMW8zYUdKcGQxaHdRazVYVUROM05WZGFNR2xNVm5ONmRGQmhWa0kyT0VaVFpXSmZaVEZWVUZORU0yNU1NREJaUjJ0TlNEVjRSa0ZCZERkU2FtdE5NMWRSVEVWTFRFTjFWMVpITTFWTFJIcDBRMjB4WVhnelFqbGhVSEIxUlZwUE5XWlJRMFJRU2pCdVFtZ1NGbkZCU1VOaE9XVlFUQzFwZURWT2IxQTFPVjkyVFZFYUlrRklUakJGTjBjNWNsUndVblk1TkhKaGFuaEpNekl6ZVY4MU9YbFhaRFYxVmtFIiwiZmN2IjoiMyIsImZjX2lkIjoiaHBqU3ZxTGoybFV4ZDJIaUFBQUFBQT09In0="
+    },
+    {
+      "title": "Remote Executive Assistant (Operations & Investment-Finance Support)",
+      "company_name": "Freedup",
+      "location": "Perú",
+      "via": "Buscojobs",
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=operations&htidocid=fszYJMkW06VPCSpeAAAAAA%3D%3D&hl=es-PE&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_xXMsQ4BQRAG4GhVatVUgsSdSDRUCkRFeADZ2_tzVu5m1s6c3IOptF4MzVd-_Vev789oxEDbDr618ARtVIOaY6PxMSI5C8JKIzrwE2oN2Ga7wI496NLGKMkmKyo-b320KB2VIDSxhhCY9iJVjeH6ZhZ1leeqdVb9cgs-89Lkwiiky-9S6J-r3lxCrJ3huljOuyxyNR3sElC28f-dkD7vLyHSC563AAAA&shmds=v1_Ac3VAozwXr87REnaR7_LksmwEjR6zbpi5cjoTxPdVOVMAJkeiw&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=operations&htidocid=fszYJMkW06VPCSpeAAAAAA%3D%3D",
+      "extensions": [
+        "hace 19 días",
+        "Tiempo completo"
+      ],
+      "detected_extensions": {
+        "posted_at": "hace 19 días",
+        "schedule_type": "Tiempo completo"
+      },
+      "source_link": "https://www.buscojobs.pe/remote-executive-assistant-operations-investment-finance-support-en-peru-ID-13263376",
+      "job_title": "Remote Executive Assistant (Operations & Investment-Finance Support)",
+      "description": "We are seeking a highly organized, systems-oriented Executive Operations Assistant (EOA) to support a Founder operating across investing, advisory, and strategic growth initiatives. This role is ideal for someone who thrives behind the scenes, enjoys building structure, and takes ownership of operational execution in a fast-paced, high-accountability environment.\nRather than serving as a traditional calendar-only assistant, this role is designed for a proactive operator who can manage workflows, improve processes, and ensure critical business functions run smoothly and efficiently.\nThis role follows a focused delegation model: in the first month, you will take ownership of 3–5 core operational processes, with responsibilities expanding as trust, autonomy, and performance are demonstrated.\nYou will work closely with the Founder and leadership team through structured onboarding, documented SOPs, recorded process walkthroughs, and weekly performance check-ins.\nLocation:\nThis is a\nfully remote position (LATAM)\nJob Type:\nFull-Time\nSalary:\n1,*****,600 (based on experience)\n3+ years of experience as an Executive Operations Assistant, Operations Manager, or high-level Executive Assistant with operational responsibilities\nStrong experience managing workflows, SOP documentation, and process optimization\nProven ability to own and execute recurring operational tasks with minimal oversight\nHigh attention to detail and strong follow-through\nComfortable handling sensitive information in security-conscious environments\nStrong written and verbal communication skills\nAbility to prioritize competing tasks and manage deadlines independently\nHighly organized, structured thinker with systems mindset\nProactive problem-solver who anticipates bottlenecks before they arise\nStrong emotional intelligence and professional judgment\nTechnical Requirements\n: Reliable high-speed internet, modern laptop with multi-core processor, noise-canceling headset\nKey Responsibilities\nExecutive & Email Support\nTriage and summarize high-priority emails while the Founder retains oversight\nOrganize inboxes using a four-folder system (Action Needed, Follow-Up, If Interested, Read Later)\nHighlight time-sensitive items, scheduling requests, and critical decisions\nDraft emails using a \"transfer delegation\" model (draft → review → send), progressively increasing autonomy\nMaintain discretion and judgment in a privacy-conscious environment\nCalendar & Meeting Management\nOwn meeting scheduling logistics, confirmations, and coordination\nManage meeting windows, buffer times, and protected focus blocks\nAnticipate scheduling needs using an \"ideal week\" framework\nHandle logistics such as locations, parking details, and time-zone coordination\nBookkeepind & Financial Admin\nSupport the Founder and investment team with behind-the-scenes operational execution across private equity and/or hedge fund activities\nExperience working for a large financial service firm.\nCoordinate and maintain internal reporting workflows, including portfolio tracking, capital deployment summaries, and performance monitoring\nAssist with fund-level financial processes, including expense tracking, reconciliation support, and documentation management\nMaintain organized records for investment transactions, deal documentation, and due diligence materials\nSupport preparation of internal investment memoranda, financial summaries, and board-level reporting materials\nAssist with cash management coordination and capital call tracking (as applicable)\nWork closely with accounting partners or fund administrators to ensure timely and accurate financial reporting\nTrack compliance-related documentation and maintain structured audit trails\nManage confidential financial data with strict discretion and security protocols\nIdentify process gaps within investment operations and implement structured improvements\nSupport workflow coordination between legal, accounting, and investment stakeholders\nMaintain internal dashboards for portfolio performance, KPI monitoring, and reporting cadence\nFollow documented workflows, including client-specific security requirements\nMaintain accuracy and consistency to reduce financial admin backlog\nNice to Have\nExperience supporting founders, investors, or operators in high-growth environments\nExposure to finance, investing, private equity, or consulting industries\nFamiliarity with tools such as Asana, ClickUp, Notion, Slack, Google Workspace, CRM systems\nExperience coordinating remote teams\nBackground in business operations, finance, or project management\nInternational experience\nOpportunity to work remotely from anywhere\nSupportive and collaborative team environment\nLearning and development opportunities\nPotential Performance Bonuses\nPTO\nHMO after 3 months",
+      "apply_options": [
+        {
+          "title": "Buscojobs",
+          "link": "https://www.buscojobs.pe/remote-executive-assistant-operations-investment-finance-support-en-peru-ID-13263376?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Jobrapido.com",
+          "link": "https://pe.jobrapido.com/jobpreview/7538888097820311552?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJSZW1vdGUgRXhlY3V0aXZlIEFzc2lzdGFudCAoT3BlcmF0aW9ucyBcdTAwMjYgSW52ZXN0bWVudC1GaW5hbmNlIFN1cHBvcnQpIiwiY29tcGFueV9uYW1lIjoiRnJlZWR1cCIsImh0aWRvY2lkIjoiZnN6WUpNa1cwNlZQQ1NwZUFBQUFBQT09IiwidXVsZSI6IncrQ0FJUUlDSUVVR1Z5ZFEiLCJnbCI6InBlIiwiaGwiOiJlcyIsImZjIjoiRXNzQkNvd0JRVVJFWWxkbFdtVnNRMmRLUlZOaU1qbFVNRmt5YkhCNVpGSjRUVk5SVldST1dYZHRlakkwZGtoMWFWVTRObXBIVmxadk1UaHVNMUZ4VjJOQ0xVRnpUMFJQUkdST2Nqa3dOR0oxWmxaZmJIRmxhVms0UVhwb1FWcDNiRzlKZERkQ1ozRkZUWFZFYWt0RVR6UTBUVEZYVkdNM2VESTBTaTB4TWxSWmRsUkdYekY0ZEhBM2RtNVhlRzVyTjJZU0ZuRkJTVU5oT1dWUVRDMXBlRFZPYjFBMU9WOTJUVkVhSWtGSVRqQkZOMGcyWjNCaE5GTkVSakF3ZEhkNE5sQTFWREZPYlZORWNHOWlkbmMiLCJmY3YiOiIzIiwiZmNfaWQiOiJmc3pZSk1rVzA2VlBDU3BlQUFBQUFBPT0ifQ=="
+    },
+    {
+      "title": "Operations Coordinator",
+      "company_name": "VCM",
+      "location": "San Jeronimo de Surco",
+      "via": "Glassdoor",
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=operations&htidocid=CXNUsKzwoum61IrBAAAAAA%3D%3D&hl=es-PE&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_xXNMQrCQBBGYWxzBLGY2iIrQppYphACYhGwDZtkSCK78687G8g5PI6tF9M0r_xe9t5lxT1wtGmGKFVAHGaxCbGk7vvR18KDpYGJfXAMYqErMDreX6aUgpbGqLp81PQX-ryHNxDusJonOt3S6mQjB2cTt-fitOZBxuPhUd02q7FCNUfI7LFdmiX2-AG8TTkJlQAAAA&shmds=v1_Ac3VAoxzpcVttwo_EoK7hMpcbZea1IjtqLjVrTUXqE155sPbYQ&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=operations&htidocid=CXNUsKzwoum61IrBAAAAAA%3D%3D",
+      "extensions": [
+        "hace 4 días",
+        "Tiempo completo"
+      ],
+      "detected_extensions": {
+        "posted_at": "hace 4 días",
+        "schedule_type": "Tiempo completo"
+      },
+      "source_link": "https://www.glassdoor.ca/job-listing/operations-coordinator-vcm-JV_IC3067756_KO0,22_KE23,26.htm?jl=1010330131761",
+      "job_title": "Operations Coordinator",
+      "description": "Operations Coordinator\nOpen to Mid-Level, and Senior candidates\n\nVCM helps international companies find and hire talent. As our Operations Coordinator, you’ll lead day-to-day operations, identify bottlenecks, and work with teams to improve productivity, service quality, and cost efficiency. You’ll work directly with management and make decisions about processes, people, and operating budgets.\n\nWhat you’ll do\n\nReview workflows, identify bottlenecks, and implement improvements. Document key processes and measure the impact of each change.Lead operations teams, set clear priorities, and coordinate work across departments. Manage multiple projects and resolve competing priorities.Manage operating budgets, monitor spending, and address variances early. Allocate staff, time, and tools based on business priorities and justify investments through cost-benefit analysis.Monitor service quality and report operational performance to management using clear metrics.Ensure compliance with company policies and applicable requirements. Identify and address operational risks before they affect clients.What you’ll need\n\nA bachelor’s degree in Business Administration, Industrial Engineering, or a related field.Experience managing operations and improving processes. We’re considering Mid-Level (3–6 years), and Senior (6+ years) candidates.Experience leading teams, managing multiple projects, and overseeing operating budgets and costs.Clear communication and the ability to make sound decisions under pressure with the information available.Availability to travel and work flexible hours based on operational needs.Preferred qualifications\n\nExperience with project management software and data analysis tools.Experience with compliance and operational risk management.An MBA or a related postgraduate qualification.Job Type: Full-time\n\nWork Location: In person",
+      "apply_options": [
+        {
+          "title": "Glassdoor",
+          "link": "https://www.glassdoor.ca/job-listing/operations-coordinator-vcm-JV_IC3067756_KO0,22_KE23,26.htm?jl=1010330131761&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJPcGVyYXRpb25zIENvb3JkaW5hdG9yIiwiY29tcGFueV9uYW1lIjoiVkNNIiwiaHRpZG9jaWQiOiJDWE5Vc0t6d291bTYxSXJCQUFBQUFBPT0iLCJ1dWxlIjoidytDQUlRSUNJRVVHVnlkUSIsImdsIjoicGUiLCJobCI6ImVzIiwiZmMiOiJFc3NCQ293QlFVUkVZbGRsWVdGbFVuZElTMHh2TFdaSVQycHFVRVZoTjJzNFpHa3pjM2RzTmxkUFQydFhPSE55VDJ0c2VrSnNjWGxMYzA1Wk5IZHhSVGsyU1RGRk9WcGFSblpYTkcwemFreHFWR013WVdGVWRETlpOMXBOVDFWcWNVeFlkRTVPVW1OS1dqUkNjek5LUlRGR05tUkdZV3hCYzNseGVHVkZiV2xvVmtwUVFYcFpUbWN6YUZFeGJqWjZhRTBTRm5GQlNVTmhPV1ZRVEMxcGVEVk9iMUExT1Y5MlRWRWFJa0ZJVGpCRk4wVTNkVzExWjBkWk4xbEtibFJQWld0MmFsSnZSV2xZVVZjeVVIYyIsImZjdiI6IjMiLCJmY19pZCI6IkNYTlVzS3p3b3VtNjFJckJBQUFBQUE9PSJ9"
+    }
+  ],
+  "serpapi_pagination": {
+    "next_page_token": "eyJmYyI6IkVxRUVDdUlEUVVSRVlsZGxXbGxJVFVJdGVtVmZSWFZOVldwdGNqVTVOMHRrVEVwZlEweHVPWGRPTW1oYVpHTXdOMWwzWlY5ZmExcHVTWFZqYnpWZmJ6ZEdSR1JHYTBSNFFXZEVkalpPTkY5NE4yOXlRaloxVDB4RVptazBYMFpUYm1aUGREWktNRGcwYkhselRtZHNUMkUxY21oUlVuRjFRMnAzVXpkQ01WUkllbkYzT0V4WmRFSnpSMjFFTldSWGNtZHZSVlJyTVRGa1FYVjVaWFJ4UjE5YWNqZFNYM0JNYTJ4NlUxSnJTV1kzVjFKQ1RqaExTR2x5WkRCNmFIWXdVWFpGYlRaeGMxbHRZVmxJWVdjMk9XeFBkamx5TWpSUFRWaHVXVmd0TFhNMlluZzJXa1J5U0hoMWVXWkhaM0IwVWxOMmNYVXhVMlJCYlZsamFVZFphbWhTTXpab1FXRnVkR05TZGxZNWFESkJRblZZWjAwd2RVNVFSamh4WkdjMlgyOW9jbGRUVjJSaVdrTkVPSEV5ZVZVeWFubzFTemRKYTNWaWJYUjRVSEY2VG1GR2MwOXhNMTlzV0dwMVYzbFlOVXRrV0RoS09GTkliVGhsYkZCc1NsWlhTa0l0ZDBKRFkzRXpZM28wYUhaM2JEWXRjR0V0WmtsUmMxVm5SVXhCV1ZkSU1VSkhRelUwY0hoRmFVbEVTWFprVUdaTlRuZEJNbUpMUzNOdGVtMW1WMTlrUlRkM1ptWXliRlo2ZW1aU05rRldZbFZXVlZObFFYVk1TbVJZV0VsNlVrdElkVlpLZG5kcWRXb3pkRzh5YjFCMWNTMWpRbFpHVmtoblNVRmpXVEJ1YzBGaVgzY1NGbkZCU1VOaE9XVlFUQzFwZURWT2IxQTFPVjkyVFZFYUlrRklUakJGTjBWYVdXWmtVSFp4VDFGNGMxY3ljRWRLVFZGQmFFNTNUREZhWDFFIiwiZmN2IjoiMyJ9",
+    "next": "https://serpapi.com/search.json?engine=google_jobs&gl=pe&google_domain=google.com&hl=es&location=Peru&next_page_token=eyJmYyI6IkVxRUVDdUlEUVVSRVlsZGxXbGxJVFVJdGVtVmZSWFZOVldwdGNqVTVOMHRrVEVwZlEweHVPWGRPTW1oYVpHTXdOMWwzWlY5ZmExcHVTWFZqYnpWZmJ6ZEdSR1JHYTBSNFFXZEVkalpPTkY5NE4yOXlRaloxVDB4RVptazBYMFpUYm1aUGREWktNRGcwYkhselRtZHNUMkUxY21oUlVuRjFRMnAzVXpkQ01WUkllbkYzT0V4WmRFSnpSMjFFTldSWGNtZHZSVlJyTVRGa1FYVjVaWFJ4UjE5YWNqZFNYM0JNYTJ4NlUxSnJTV1kzVjFKQ1RqaExTR2x5WkRCNmFIWXdVWFpGYlRaeGMxbHRZVmxJWVdjMk9XeFBkamx5TWpSUFRWaHVXVmd0TFhNMlluZzJXa1J5U0hoMWVXWkhaM0IwVWxOMmNYVXhVMlJCYlZsamFVZFphbWhTTXpab1FXRnVkR05TZGxZNWFESkJRblZZWjAwd2RVNVFSamh4WkdjMlgyOW9jbGRUVjJSaVdrTkVPSEV5ZVZVeWFubzFTemRKYTNWaWJYUjRVSEY2VG1GR2MwOXhNMTlzV0dwMVYzbFlOVXRrV0RoS09GTkliVGhsYkZCc1NsWlhTa0l0ZDBKRFkzRXpZM28wYUhaM2JEWXRjR0V0WmtsUmMxVm5SVXhCV1ZkSU1VSkhRelUwY0hoRmFVbEVTWFprVUdaTlRuZEJNbUpMUzNOdGVtMW1WMTlrUlRkM1ptWXliRlo2ZW1aU05rRldZbFZXVlZObFFYVk1TbVJZV0VsNlVrdElkVlpLZG5kcWRXb3pkRzh5YjFCMWNTMWpRbFpHVmtoblNVRmpXVEJ1YzBGaVgzY1NGbkZCU1VOaE9XVlFUQzFwZURWT2IxQTFPVjkyVFZFYUlrRklUakJGTjBWYVdXWmtVSFp4VDFGNGMxY3ljRWRLVFZGQmFFNTNUREZhWDFFIiwiZmN2IjoiMyJ9&q=operations"
+  },
+  "_pipeline_metadata": {
+    "ingestion_timestamp_utc": "2026-11-21T20:44:25.364260+00:00",
+    "search_group": "business_operations",
+    "target_market": "Peru",
+    "target_location": "Peru",
+    "date_filter_applied": "month",
+    "new_records_count": 10,
+    "provider": "serpapi"
+  }
+}

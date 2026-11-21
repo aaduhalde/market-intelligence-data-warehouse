@@ -1,0 +1,40 @@
+﻿skill_id,nombre_skill,categoria_skill
+1,Active Listening,communication
+2,Adaptability,productivity
+3,Advanced Excel,productivity_tools
+4,Attention to Detail,productivity
+5,Business Operations,operations
+6,Client Relationship Management,customer
+7,Coaching,leadership
+8,Communication,communication
+9,Critical Thinking,problem_solving
+10,CRM,crm
+11,Customer Experience,customer
+12,Customer Retention,customer
+13,Customer Satisfaction,customer
+14,Customer Service,customer
+15,Customer Success,customer
+16,Customer Support,customer
+17,Empathy,communication
+18,English,languages
+19,Google Sheets,productivity_tools
+20,Google Workspace,productivity_tools
+21,HubSpot,crm
+22,Leadership,leadership
+23,Microsoft Excel,productivity_tools
+24,Microsoft Office,productivity_tools
+25,Multitasking,productivity
+26,Operations Management,operations
+27,Organization,productivity
+28,People Management,leadership
+29,Performance Management,service_quality
+30,Portuguese,languages
+31,Quality Assurance,service_quality
+32,Salesforce,crm
+33,ServiceNow,crm
+34,SOP,operations
+35,Spanish,languages
+36,Training,leadership
+37,Troubleshooting,problem_solving
+38,Verbal Communication,communication
+39,Written Communication,communication

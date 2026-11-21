@@ -1,0 +1,518 @@
+{
+  "search_metadata": {
+    "id": "6b02029fb6981ee1fdcf144b",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/wUa5qteJfeOS5YAu8jO-Rcjt_bsjwe84IUNwoRBzZ-4/6b02029fb6981ee1fdcf144b.json",
+    "markdown_endpoint": "https://serpapi.com/searches/wUa5qteJfeOS5YAu8jO-Rcjt_bsjwe84IUNwoRBzZ-4/6b02029fb6981ee1fdcf144b.md",
+    "created_at": "2026-11-21 20:44:15 UTC",
+    "processed_at": "2026-11-21 20:44:15 UTC",
+    "google_jobs_url": "https://www.google.com/search?q=call+center&hl=es&gl=pe&udm=8&uule=w+CAIQICIEUGVydQ",
+    "raw_html_file": "https://serpapi.com/searches/wUa5qteJfeOS5YAu8jO-Rcjt_bsjwe84IUNwoRBzZ-4/6b02029fb6981ee1fdcf144b.html",
+    "total_time_taken": 6.33
+  },
+  "search_parameters": {
+    "q": "call center",
+    "engine": "google_jobs",
+    "location_requested": "Peru",
+    "location_used": "Peru",
+    "google_domain": "google.com",
+    "hl": "es",
+    "gl": "pe"
+  },
+  "filters": [
+    {
+      "name": "Fecha de publicación",
+      "options": [
+        {
+          "name": "Ayer",
+          "parameters": {
+            "uds": "AE2AFgbf06ZzDvczg9XBG5Z3qflXQ2xGNfhhyjfxe-pB4JKTwp0bZYF9ywM6YrOpA0NCDQZceli8v2ogc37oGVnx_iHoyxOkDbjmwLXQPHZ9mDCJ5cATZsuk2vRV5aH5cB0bgMHFU44oYPuzzFj74--YsdpGMiNwnt2y7Yne2o9Dp4q0_iQQ2nFyRsVtuDyv5Su-8WJXXxBfF0lymmP9mJW7Q_Tg7Fs_vy0272dcM1wkr6T0KIRny6t3Wr1Lmjurz4jJCx96wZkhvzZTABII5YzTtJwdObE69X8uLEWhcLyi69rQTrgmKwE9ZG7sUtEhucH4I3uAneyy66yO59xIr-JMxcYg1AUjblwrs53CgPrhj6nWlUzSvuM1pMe3OwnhVXLxwmH3eLKu",
+            "q": "call center desde ayer"
+          },
+          "link": "https://www.google.com/search?sca_esv=06fa6b2cca60171b&gl=pe&hl=es&sxsrf=AKL5yDjUy5zA2VWQv2AO9iTUm9tKw6L2ng:1795293860958&q=call+center+desde+ayer&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXQ2xGNfhhyjfxe-pB4JKTwp0bZYF9ywM6YrOpA0NCDQZceli8v2ogc37oGVnx_iHoyxOkDbjmwLXQPHZ9mDCJ5cATZsuk2vRV5aH5cB0bgMHFU44oYPuzzFj74--YsdpGMiNwnt2y7Yne2o9Dp4q0_iQQ2nFyRsVtuDyv5Su-8WJXXxBfF0lymmP9mJW7Q_Tg7Fs_vy0272dcM1wkr6T0KIRny6t3Wr1Lmjurz4jJCx96wZkhvzZTABII5YzTtJwdObE69X8uLEWhcLyi69rQTrgmKwE9ZG7sUtEhucH4I3uAneyy66yO59xIr-JMxcYg1AUjblwrs53CgPrhj6nWlUzSvuM1pMe3OwnhVXLxwmH3eLKu&udm=8&sa=X&ved=2ahUKEwjm3uXm9pmYAxW9j4kEHS4AFncQkbEKegQIGRAC",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=pe&google_domain=google.com&hl=es&location=Peru&q=call+center+desde+ayer&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXQ2xGNfhhyjfxe-pB4JKTwp0bZYF9ywM6YrOpA0NCDQZceli8v2ogc37oGVnx_iHoyxOkDbjmwLXQPHZ9mDCJ5cATZsuk2vRV5aH5cB0bgMHFU44oYPuzzFj74--YsdpGMiNwnt2y7Yne2o9Dp4q0_iQQ2nFyRsVtuDyv5Su-8WJXXxBfF0lymmP9mJW7Q_Tg7Fs_vy0272dcM1wkr6T0KIRny6t3Wr1Lmjurz4jJCx96wZkhvzZTABII5YzTtJwdObE69X8uLEWhcLyi69rQTrgmKwE9ZG7sUtEhucH4I3uAneyy66yO59xIr-JMxcYg1AUjblwrs53CgPrhj6nWlUzSvuM1pMe3OwnhVXLxwmH3eLKu"
+        },
+        {
+          "name": "Últimos 3 días",
+          "parameters": {
+            "uds": "AE2AFgbf06ZzDvczg9XBG5Z3qflXEXJJGQJp1cJeTpXzaz3SYqy3mbcT4W05Co4nd_Jsl0e7QpkXUk3tw98ZQQsavjR-RetxfZLg9bZ0Mu2H9a5l1hv5gVoDQJvyW6LdP9OP3GuprXRAsCcVqLromUrtOp0fIUFIyEHXhXzKEoPZiZ993scWtSdSSXkcDyClBhQgmFYl_X5zq9gCLjhK_exe09DS-0QfIjeSwEcP3mgO-v-NiD3PTqnbbuZTddiGetfqaJe6pc_mZjBjH18OR6mzSCUrHngsMxK0iKs5kVu3OtevYQBih3bx3n-Fgxoi9isA7oeMW3PSJ7eFJLvDdnWB0YuG69qDDb_wHrKQtzXHrQmlO0oXu3cl5maESEWBgiax-LH7-gV_",
+            "q": "call center en los últimos 3 días"
+          },
+          "link": "https://www.google.com/search?sca_esv=06fa6b2cca60171b&gl=pe&hl=es&sxsrf=AKL5yDjUy5zA2VWQv2AO9iTUm9tKw6L2ng:1795293860958&q=call+center+en+los+%C3%BAltimos+3+d%C3%ADas&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXEXJJGQJp1cJeTpXzaz3SYqy3mbcT4W05Co4nd_Jsl0e7QpkXUk3tw98ZQQsavjR-RetxfZLg9bZ0Mu2H9a5l1hv5gVoDQJvyW6LdP9OP3GuprXRAsCcVqLromUrtOp0fIUFIyEHXhXzKEoPZiZ993scWtSdSSXkcDyClBhQgmFYl_X5zq9gCLjhK_exe09DS-0QfIjeSwEcP3mgO-v-NiD3PTqnbbuZTddiGetfqaJe6pc_mZjBjH18OR6mzSCUrHngsMxK0iKs5kVu3OtevYQBih3bx3n-Fgxoi9isA7oeMW3PSJ7eFJLvDdnWB0YuG69qDDb_wHrKQtzXHrQmlO0oXu3cl5maESEWBgiax-LH7-gV_&udm=8&sa=X&ved=2ahUKEwjm3uXm9pmYAxW9j4kEHS4AFncQkbEKegQIGRAD",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=pe&google_domain=google.com&hl=es&location=Peru&q=call+center+en+los+%C3%BAltimos+3+d%C3%ADas&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXEXJJGQJp1cJeTpXzaz3SYqy3mbcT4W05Co4nd_Jsl0e7QpkXUk3tw98ZQQsavjR-RetxfZLg9bZ0Mu2H9a5l1hv5gVoDQJvyW6LdP9OP3GuprXRAsCcVqLromUrtOp0fIUFIyEHXhXzKEoPZiZ993scWtSdSSXkcDyClBhQgmFYl_X5zq9gCLjhK_exe09DS-0QfIjeSwEcP3mgO-v-NiD3PTqnbbuZTddiGetfqaJe6pc_mZjBjH18OR6mzSCUrHngsMxK0iKs5kVu3OtevYQBih3bx3n-Fgxoi9isA7oeMW3PSJ7eFJLvDdnWB0YuG69qDDb_wHrKQtzXHrQmlO0oXu3cl5maESEWBgiax-LH7-gV_"
+        },
+        {
+          "name": "Última semana",
+          "parameters": {
+            "uds": "AE2AFgbf06ZzDvczg9XBG5Z3qflXXX-VYZcBLkbVmJKnm3zepuSMF6tMi0GgUXylf6yK_sZ_ShecOqBRPbYDz8h0acDzpTUh3XFRf6ji6JqrrJnTqmlSCogIzI9Yq7ElyK9WeRwa04XQqASkDnp0foTvtnXsmEJNoENNnwwIOaJSaOVaoSzrNQzXMWt4Hqx_bNhvCQ0dilEB1MPCId0YJx5Wfqb44XkWe_lkihWhvgnWxKJiiLq_fIi-cVZ9OwY-Iye3VXjNKaUVqXQhIibZ2DztOYv3FZbQN5Xe8-fEqT04FjYX75MFweu1MBdm-KqGwwVV4j036UqqiiOPixZyCysr9NiBeakqgRn2vQnrEVMuCUdgEbH4xkQZbKEziXDXGlX0LlhTDQ95",
+            "q": "call center en la última semana"
+          },
+          "link": "https://www.google.com/search?sca_esv=06fa6b2cca60171b&gl=pe&hl=es&sxsrf=AKL5yDjUy5zA2VWQv2AO9iTUm9tKw6L2ng:1795293860958&q=call+center+en+la+%C3%BAltima+semana&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXXX-VYZcBLkbVmJKnm3zepuSMF6tMi0GgUXylf6yK_sZ_ShecOqBRPbYDz8h0acDzpTUh3XFRf6ji6JqrrJnTqmlSCogIzI9Yq7ElyK9WeRwa04XQqASkDnp0foTvtnXsmEJNoENNnwwIOaJSaOVaoSzrNQzXMWt4Hqx_bNhvCQ0dilEB1MPCId0YJx5Wfqb44XkWe_lkihWhvgnWxKJiiLq_fIi-cVZ9OwY-Iye3VXjNKaUVqXQhIibZ2DztOYv3FZbQN5Xe8-fEqT04FjYX75MFweu1MBdm-KqGwwVV4j036UqqiiOPixZyCysr9NiBeakqgRn2vQnrEVMuCUdgEbH4xkQZbKEziXDXGlX0LlhTDQ95&udm=8&sa=X&ved=2ahUKEwjm3uXm9pmYAxW9j4kEHS4AFncQkbEKegQIGRAE",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=pe&google_domain=google.com&hl=es&location=Peru&q=call+center+en+la+%C3%BAltima+semana&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXXX-VYZcBLkbVmJKnm3zepuSMF6tMi0GgUXylf6yK_sZ_ShecOqBRPbYDz8h0acDzpTUh3XFRf6ji6JqrrJnTqmlSCogIzI9Yq7ElyK9WeRwa04XQqASkDnp0foTvtnXsmEJNoENNnwwIOaJSaOVaoSzrNQzXMWt4Hqx_bNhvCQ0dilEB1MPCId0YJx5Wfqb44XkWe_lkihWhvgnWxKJiiLq_fIi-cVZ9OwY-Iye3VXjNKaUVqXQhIibZ2DztOYv3FZbQN5Xe8-fEqT04FjYX75MFweu1MBdm-KqGwwVV4j036UqqiiOPixZyCysr9NiBeakqgRn2vQnrEVMuCUdgEbH4xkQZbKEziXDXGlX0LlhTDQ95"
+        },
+        {
+          "name": "Último mes",
+          "parameters": {
+            "uds": "AE2AFgbf06ZzDvczg9XBG5Z3qflXDjtgXdfQN3TL7pNrLFInYtQ5fcMKhBHZCBSsaQzvh2m6Fg68WfNalMFpQOjrY12LTxPfJkfC-4T1lQmDeeGKyNKTpf8LSet0-Mo02dYjkOzPKqy9QHLc-6Fw4gJWqUZNiz9JjFnpGqPp5WoFu_6MjK_YtiqIkX2YTpB6ux0Amf5wZ1Kz5eH2WGuHu9BPSihehSEWxEDe154z_QbUhQtgwxBWDc3tjwfI0A5xkmbnYfgqQ8eDDJWU8RF9M6OskHcHvGtKYXmcS2wDCzKQPMf74RpTFxa-rYIRFquaBoIkh6XdTHKK3l42Z31o9RF7o-fdapblDDDWXuJde45dDqwnUkDXAIYgWqq_gSIgyY-p0qQGHE16",
+            "q": "call center en el último mes"
+          },
+          "link": "https://www.google.com/search?sca_esv=06fa6b2cca60171b&gl=pe&hl=es&sxsrf=AKL5yDjUy5zA2VWQv2AO9iTUm9tKw6L2ng:1795293860958&q=call+center+en+el+%C3%BAltimo+mes&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXDjtgXdfQN3TL7pNrLFInYtQ5fcMKhBHZCBSsaQzvh2m6Fg68WfNalMFpQOjrY12LTxPfJkfC-4T1lQmDeeGKyNKTpf8LSet0-Mo02dYjkOzPKqy9QHLc-6Fw4gJWqUZNiz9JjFnpGqPp5WoFu_6MjK_YtiqIkX2YTpB6ux0Amf5wZ1Kz5eH2WGuHu9BPSihehSEWxEDe154z_QbUhQtgwxBWDc3tjwfI0A5xkmbnYfgqQ8eDDJWU8RF9M6OskHcHvGtKYXmcS2wDCzKQPMf74RpTFxa-rYIRFquaBoIkh6XdTHKK3l42Z31o9RF7o-fdapblDDDWXuJde45dDqwnUkDXAIYgWqq_gSIgyY-p0qQGHE16&udm=8&sa=X&ved=2ahUKEwjm3uXm9pmYAxW9j4kEHS4AFncQkbEKegQIGRAF",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=pe&google_domain=google.com&hl=es&location=Peru&q=call+center+en+el+%C3%BAltimo+mes&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXDjtgXdfQN3TL7pNrLFInYtQ5fcMKhBHZCBSsaQzvh2m6Fg68WfNalMFpQOjrY12LTxPfJkfC-4T1lQmDeeGKyNKTpf8LSet0-Mo02dYjkOzPKqy9QHLc-6Fw4gJWqUZNiz9JjFnpGqPp5WoFu_6MjK_YtiqIkX2YTpB6ux0Amf5wZ1Kz5eH2WGuHu9BPSihehSEWxEDe154z_QbUhQtgwxBWDc3tjwfI0A5xkmbnYfgqQ8eDDJWU8RF9M6OskHcHvGtKYXmcS2wDCzKQPMf74RpTFxa-rYIRFquaBoIkh6XdTHKK3l42Z31o9RF7o-fdapblDDDWXuJde45dDqwnUkDXAIYgWqq_gSIgyY-p0qQGHE16"
+        }
+      ]
+    },
+    {
+      "name": "Fecha de publicación",
+      "options": [
+        {
+          "name": "Ayer",
+          "parameters": {
+            "uds": "AE2AFgbf06ZzDvczg9XBG5Z3qflXQ2xGNfhhyjfxe-pB4JKTwp0bZYF9ywM6YrOpA0NCDQZceli8v2ogc37oGVnx_iHoyxOkDbjmwLXQPHZ9mDCJ5cATZsuk2vRV5aH5cB0bgMHFU44oYPuzzFj74--YsdpGMiNwnt2y7Yne2o9Dp4q0_iQQ2nFyRsVtuDyv5Su-8WJXXxBfF0lymmP9mJW7Q_Tg7Fs_vy0272dcM1wkr6T0KIRny6t3Wr1Lmjurz4jJCx96wZkhvzZTABII5YzTtJwdObE69X8uLEWhcLyi69rQTrgmKwE9ZG7sUtEhucH4I3uAneyy66yO59xIr-JMxcYg1AUjblwrs53CgPrhj6nWlUzSvuM1pMe3OwnhVXLxwmH3eLKu",
+            "q": "call center desde ayer"
+          },
+          "link": "https://www.google.com/search?sca_esv=06fa6b2cca60171b&gl=pe&hl=es&sxsrf=AKL5yDjUy5zA2VWQv2AO9iTUm9tKw6L2ng:1795293860958&q=call+center+desde+ayer&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXQ2xGNfhhyjfxe-pB4JKTwp0bZYF9ywM6YrOpA0NCDQZceli8v2ogc37oGVnx_iHoyxOkDbjmwLXQPHZ9mDCJ5cATZsuk2vRV5aH5cB0bgMHFU44oYPuzzFj74--YsdpGMiNwnt2y7Yne2o9Dp4q0_iQQ2nFyRsVtuDyv5Su-8WJXXxBfF0lymmP9mJW7Q_Tg7Fs_vy0272dcM1wkr6T0KIRny6t3Wr1Lmjurz4jJCx96wZkhvzZTABII5YzTtJwdObE69X8uLEWhcLyi69rQTrgmKwE9ZG7sUtEhucH4I3uAneyy66yO59xIr-JMxcYg1AUjblwrs53CgPrhj6nWlUzSvuM1pMe3OwnhVXLxwmH3eLKu&udm=8&sa=X&ved=2ahUKEwjm3uXm9pmYAxW9j4kEHS4AFncQkbEKegQIGRAC",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=pe&google_domain=google.com&hl=es&location=Peru&q=call+center+desde+ayer&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXQ2xGNfhhyjfxe-pB4JKTwp0bZYF9ywM6YrOpA0NCDQZceli8v2ogc37oGVnx_iHoyxOkDbjmwLXQPHZ9mDCJ5cATZsuk2vRV5aH5cB0bgMHFU44oYPuzzFj74--YsdpGMiNwnt2y7Yne2o9Dp4q0_iQQ2nFyRsVtuDyv5Su-8WJXXxBfF0lymmP9mJW7Q_Tg7Fs_vy0272dcM1wkr6T0KIRny6t3Wr1Lmjurz4jJCx96wZkhvzZTABII5YzTtJwdObE69X8uLEWhcLyi69rQTrgmKwE9ZG7sUtEhucH4I3uAneyy66yO59xIr-JMxcYg1AUjblwrs53CgPrhj6nWlUzSvuM1pMe3OwnhVXLxwmH3eLKu"
+        },
+        {
+          "name": "Últimos 3 días",
+          "parameters": {
+            "uds": "AE2AFgbf06ZzDvczg9XBG5Z3qflXEXJJGQJp1cJeTpXzaz3SYqy3mbcT4W05Co4nd_Jsl0e7QpkXUk3tw98ZQQsavjR-RetxfZLg9bZ0Mu2H9a5l1hv5gVoDQJvyW6LdP9OP3GuprXRAsCcVqLromUrtOp0fIUFIyEHXhXzKEoPZiZ993scWtSdSSXkcDyClBhQgmFYl_X5zq9gCLjhK_exe09DS-0QfIjeSwEcP3mgO-v-NiD3PTqnbbuZTddiGetfqaJe6pc_mZjBjH18OR6mzSCUrHngsMxK0iKs5kVu3OtevYQBih3bx3n-Fgxoi9isA7oeMW3PSJ7eFJLvDdnWB0YuG69qDDb_wHrKQtzXHrQmlO0oXu3cl5maESEWBgiax-LH7-gV_",
+            "q": "call center en los últimos 3 días"
+          },
+          "link": "https://www.google.com/search?sca_esv=06fa6b2cca60171b&gl=pe&hl=es&sxsrf=AKL5yDjUy5zA2VWQv2AO9iTUm9tKw6L2ng:1795293860958&q=call+center+en+los+%C3%BAltimos+3+d%C3%ADas&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXEXJJGQJp1cJeTpXzaz3SYqy3mbcT4W05Co4nd_Jsl0e7QpkXUk3tw98ZQQsavjR-RetxfZLg9bZ0Mu2H9a5l1hv5gVoDQJvyW6LdP9OP3GuprXRAsCcVqLromUrtOp0fIUFIyEHXhXzKEoPZiZ993scWtSdSSXkcDyClBhQgmFYl_X5zq9gCLjhK_exe09DS-0QfIjeSwEcP3mgO-v-NiD3PTqnbbuZTddiGetfqaJe6pc_mZjBjH18OR6mzSCUrHngsMxK0iKs5kVu3OtevYQBih3bx3n-Fgxoi9isA7oeMW3PSJ7eFJLvDdnWB0YuG69qDDb_wHrKQtzXHrQmlO0oXu3cl5maESEWBgiax-LH7-gV_&udm=8&sa=X&ved=2ahUKEwjm3uXm9pmYAxW9j4kEHS4AFncQkbEKegQIGRAD",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=pe&google_domain=google.com&hl=es&location=Peru&q=call+center+en+los+%C3%BAltimos+3+d%C3%ADas&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXEXJJGQJp1cJeTpXzaz3SYqy3mbcT4W05Co4nd_Jsl0e7QpkXUk3tw98ZQQsavjR-RetxfZLg9bZ0Mu2H9a5l1hv5gVoDQJvyW6LdP9OP3GuprXRAsCcVqLromUrtOp0fIUFIyEHXhXzKEoPZiZ993scWtSdSSXkcDyClBhQgmFYl_X5zq9gCLjhK_exe09DS-0QfIjeSwEcP3mgO-v-NiD3PTqnbbuZTddiGetfqaJe6pc_mZjBjH18OR6mzSCUrHngsMxK0iKs5kVu3OtevYQBih3bx3n-Fgxoi9isA7oeMW3PSJ7eFJLvDdnWB0YuG69qDDb_wHrKQtzXHrQmlO0oXu3cl5maESEWBgiax-LH7-gV_"
+        },
+        {
+          "name": "Última semana",
+          "parameters": {
+            "uds": "AE2AFgbf06ZzDvczg9XBG5Z3qflXXX-VYZcBLkbVmJKnm3zepuSMF6tMi0GgUXylf6yK_sZ_ShecOqBRPbYDz8h0acDzpTUh3XFRf6ji6JqrrJnTqmlSCogIzI9Yq7ElyK9WeRwa04XQqASkDnp0foTvtnXsmEJNoENNnwwIOaJSaOVaoSzrNQzXMWt4Hqx_bNhvCQ0dilEB1MPCId0YJx5Wfqb44XkWe_lkihWhvgnWxKJiiLq_fIi-cVZ9OwY-Iye3VXjNKaUVqXQhIibZ2DztOYv3FZbQN5Xe8-fEqT04FjYX75MFweu1MBdm-KqGwwVV4j036UqqiiOPixZyCysr9NiBeakqgRn2vQnrEVMuCUdgEbH4xkQZbKEziXDXGlX0LlhTDQ95",
+            "q": "call center en la última semana"
+          },
+          "link": "https://www.google.com/search?sca_esv=06fa6b2cca60171b&gl=pe&hl=es&sxsrf=AKL5yDjUy5zA2VWQv2AO9iTUm9tKw6L2ng:1795293860958&q=call+center+en+la+%C3%BAltima+semana&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXXX-VYZcBLkbVmJKnm3zepuSMF6tMi0GgUXylf6yK_sZ_ShecOqBRPbYDz8h0acDzpTUh3XFRf6ji6JqrrJnTqmlSCogIzI9Yq7ElyK9WeRwa04XQqASkDnp0foTvtnXsmEJNoENNnwwIOaJSaOVaoSzrNQzXMWt4Hqx_bNhvCQ0dilEB1MPCId0YJx5Wfqb44XkWe_lkihWhvgnWxKJiiLq_fIi-cVZ9OwY-Iye3VXjNKaUVqXQhIibZ2DztOYv3FZbQN5Xe8-fEqT04FjYX75MFweu1MBdm-KqGwwVV4j036UqqiiOPixZyCysr9NiBeakqgRn2vQnrEVMuCUdgEbH4xkQZbKEziXDXGlX0LlhTDQ95&udm=8&sa=X&ved=2ahUKEwjm3uXm9pmYAxW9j4kEHS4AFncQkbEKegQIGRAE",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=pe&google_domain=google.com&hl=es&location=Peru&q=call+center+en+la+%C3%BAltima+semana&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXXX-VYZcBLkbVmJKnm3zepuSMF6tMi0GgUXylf6yK_sZ_ShecOqBRPbYDz8h0acDzpTUh3XFRf6ji6JqrrJnTqmlSCogIzI9Yq7ElyK9WeRwa04XQqASkDnp0foTvtnXsmEJNoENNnwwIOaJSaOVaoSzrNQzXMWt4Hqx_bNhvCQ0dilEB1MPCId0YJx5Wfqb44XkWe_lkihWhvgnWxKJiiLq_fIi-cVZ9OwY-Iye3VXjNKaUVqXQhIibZ2DztOYv3FZbQN5Xe8-fEqT04FjYX75MFweu1MBdm-KqGwwVV4j036UqqiiOPixZyCysr9NiBeakqgRn2vQnrEVMuCUdgEbH4xkQZbKEziXDXGlX0LlhTDQ95"
+        },
+        {
+          "name": "Último mes",
+          "parameters": {
+            "uds": "AE2AFgbf06ZzDvczg9XBG5Z3qflXDjtgXdfQN3TL7pNrLFInYtQ5fcMKhBHZCBSsaQzvh2m6Fg68WfNalMFpQOjrY12LTxPfJkfC-4T1lQmDeeGKyNKTpf8LSet0-Mo02dYjkOzPKqy9QHLc-6Fw4gJWqUZNiz9JjFnpGqPp5WoFu_6MjK_YtiqIkX2YTpB6ux0Amf5wZ1Kz5eH2WGuHu9BPSihehSEWxEDe154z_QbUhQtgwxBWDc3tjwfI0A5xkmbnYfgqQ8eDDJWU8RF9M6OskHcHvGtKYXmcS2wDCzKQPMf74RpTFxa-rYIRFquaBoIkh6XdTHKK3l42Z31o9RF7o-fdapblDDDWXuJde45dDqwnUkDXAIYgWqq_gSIgyY-p0qQGHE16",
+            "q": "call center en el último mes"
+          },
+          "link": "https://www.google.com/search?sca_esv=06fa6b2cca60171b&gl=pe&hl=es&sxsrf=AKL5yDjUy5zA2VWQv2AO9iTUm9tKw6L2ng:1795293860958&q=call+center+en+el+%C3%BAltimo+mes&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXDjtgXdfQN3TL7pNrLFInYtQ5fcMKhBHZCBSsaQzvh2m6Fg68WfNalMFpQOjrY12LTxPfJkfC-4T1lQmDeeGKyNKTpf8LSet0-Mo02dYjkOzPKqy9QHLc-6Fw4gJWqUZNiz9JjFnpGqPp5WoFu_6MjK_YtiqIkX2YTpB6ux0Amf5wZ1Kz5eH2WGuHu9BPSihehSEWxEDe154z_QbUhQtgwxBWDc3tjwfI0A5xkmbnYfgqQ8eDDJWU8RF9M6OskHcHvGtKYXmcS2wDCzKQPMf74RpTFxa-rYIRFquaBoIkh6XdTHKK3l42Z31o9RF7o-fdapblDDDWXuJde45dDqwnUkDXAIYgWqq_gSIgyY-p0qQGHE16&udm=8&sa=X&ved=2ahUKEwjm3uXm9pmYAxW9j4kEHS4AFncQkbEKegQIGRAF",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=pe&google_domain=google.com&hl=es&location=Peru&q=call+center+en+el+%C3%BAltimo+mes&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXDjtgXdfQN3TL7pNrLFInYtQ5fcMKhBHZCBSsaQzvh2m6Fg68WfNalMFpQOjrY12LTxPfJkfC-4T1lQmDeeGKyNKTpf8LSet0-Mo02dYjkOzPKqy9QHLc-6Fw4gJWqUZNiz9JjFnpGqPp5WoFu_6MjK_YtiqIkX2YTpB6ux0Amf5wZ1Kz5eH2WGuHu9BPSihehSEWxEDe154z_QbUhQtgwxBWDc3tjwfI0A5xkmbnYfgqQ8eDDJWU8RF9M6OskHcHvGtKYXmcS2wDCzKQPMf74RpTFxa-rYIRFquaBoIkh6XdTHKK3l42Z31o9RF7o-fdapblDDDWXuJde45dDqwnUkDXAIYgWqq_gSIgyY-p0qQGHE16"
+        }
+      ]
+    },
+    {
+      "name": "Tipo de trabajo",
+      "options": [
+        {
+          "name": "Tiempo completo",
+          "parameters": {
+            "uds": "AE2AFgbf06ZzDvczg9XBG5Z3qflXsso_QxMudqS5ZjKSJLwnGhz4k-sGpgC7_WptfKx2NTLxJlAEHxBoH9eovAH-UiYWf5VRJuP9Hc2hzkhWzU8dE4gslPkSB_adlrLin_Akchx7HhsJPPLVm0PeUJMuc4KhVfa1B-PA7pyShksy9zxSZaGr5O70k_VEZmtj24RdP3IA_kbnfuN8_16diH7460N4y6fZ0gfZ5bEnnjzFGYl8j5oLYJihEYpiaV_FD8E8mOLDtSnA33aH8K7JhmikwQFIXL0pbjCrsxksCmfbXXvmc8woNLPW1P48jphrBFr67Zm01DABB-FfL_szYAFcQYPSYSup31-efOdI1PZm_arUVdFjH_4",
+            "q": "call center tiempo completo"
+          },
+          "link": "https://www.google.com/search?sca_esv=06fa6b2cca60171b&gl=pe&hl=es&sxsrf=AKL5yDjUy5zA2VWQv2AO9iTUm9tKw6L2ng:1795293860958&q=call+center+tiempo+completo&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXsso_QxMudqS5ZjKSJLwnGhz4k-sGpgC7_WptfKx2NTLxJlAEHxBoH9eovAH-UiYWf5VRJuP9Hc2hzkhWzU8dE4gslPkSB_adlrLin_Akchx7HhsJPPLVm0PeUJMuc4KhVfa1B-PA7pyShksy9zxSZaGr5O70k_VEZmtj24RdP3IA_kbnfuN8_16diH7460N4y6fZ0gfZ5bEnnjzFGYl8j5oLYJihEYpiaV_FD8E8mOLDtSnA33aH8K7JhmikwQFIXL0pbjCrsxksCmfbXXvmc8woNLPW1P48jphrBFr67Zm01DABB-FfL_szYAFcQYPSYSup31-efOdI1PZm_arUVdFjH_4&udm=8&sa=X&ved=2ahUKEwjm3uXm9pmYAxW9j4kEHS4AFncQkbEKegQIGhAC",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=pe&google_domain=google.com&hl=es&location=Peru&q=call+center+tiempo+completo&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXsso_QxMudqS5ZjKSJLwnGhz4k-sGpgC7_WptfKx2NTLxJlAEHxBoH9eovAH-UiYWf5VRJuP9Hc2hzkhWzU8dE4gslPkSB_adlrLin_Akchx7HhsJPPLVm0PeUJMuc4KhVfa1B-PA7pyShksy9zxSZaGr5O70k_VEZmtj24RdP3IA_kbnfuN8_16diH7460N4y6fZ0gfZ5bEnnjzFGYl8j5oLYJihEYpiaV_FD8E8mOLDtSnA33aH8K7JhmikwQFIXL0pbjCrsxksCmfbXXvmc8woNLPW1P48jphrBFr67Zm01DABB-FfL_szYAFcQYPSYSup31-efOdI1PZm_arUVdFjH_4"
+        },
+        {
+          "name": "Tiempo parcial",
+          "parameters": {
+            "uds": "AE2AFgbf06ZzDvczg9XBG5Z3qflXMZuq0aJ2qkXvD-oCCWz4xQLJIb7FhtHuZlEWUsG7ZCyG3QReELhHWFbSISkuASY7Rp1hUebCauzVP0l3Mc5no8oBhoHN-7MXQ18uxh5aKRlpC8mnkKagbiptndpwbtX3Y2nE27zz65ALnRBG8_ASPcoEhLyJ3XDLzbRsXmfGVldUK-cZaKt9Iew_Fei_o5BmdNaVTSD66tNUG8_jlb19yNx2Qt0_KomyJAjwNY4l8ggGqil1kLt9c3DcIhC9ouA1Ho6SLdF5aTqW6ouW67e9Ly5oU7_ERfiOFiEdZAQzgn64cMp7htBXWGlvqVln6-3pJ4IHrKHURcnjsdK5rCTDTdz9Lvc",
+            "q": "call center tiempo parcial"
+          },
+          "link": "https://www.google.com/search?sca_esv=06fa6b2cca60171b&gl=pe&hl=es&sxsrf=AKL5yDjUy5zA2VWQv2AO9iTUm9tKw6L2ng:1795293860958&q=call+center+tiempo+parcial&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXMZuq0aJ2qkXvD-oCCWz4xQLJIb7FhtHuZlEWUsG7ZCyG3QReELhHWFbSISkuASY7Rp1hUebCauzVP0l3Mc5no8oBhoHN-7MXQ18uxh5aKRlpC8mnkKagbiptndpwbtX3Y2nE27zz65ALnRBG8_ASPcoEhLyJ3XDLzbRsXmfGVldUK-cZaKt9Iew_Fei_o5BmdNaVTSD66tNUG8_jlb19yNx2Qt0_KomyJAjwNY4l8ggGqil1kLt9c3DcIhC9ouA1Ho6SLdF5aTqW6ouW67e9Ly5oU7_ERfiOFiEdZAQzgn64cMp7htBXWGlvqVln6-3pJ4IHrKHURcnjsdK5rCTDTdz9Lvc&udm=8&sa=X&ved=2ahUKEwjm3uXm9pmYAxW9j4kEHS4AFncQkbEKegQIGhAD",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=pe&google_domain=google.com&hl=es&location=Peru&q=call+center+tiempo+parcial&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXMZuq0aJ2qkXvD-oCCWz4xQLJIb7FhtHuZlEWUsG7ZCyG3QReELhHWFbSISkuASY7Rp1hUebCauzVP0l3Mc5no8oBhoHN-7MXQ18uxh5aKRlpC8mnkKagbiptndpwbtX3Y2nE27zz65ALnRBG8_ASPcoEhLyJ3XDLzbRsXmfGVldUK-cZaKt9Iew_Fei_o5BmdNaVTSD66tNUG8_jlb19yNx2Qt0_KomyJAjwNY4l8ggGqil1kLt9c3DcIhC9ouA1Ho6SLdF5aTqW6ouW67e9Ly5oU7_ERfiOFiEdZAQzgn64cMp7htBXWGlvqVln6-3pJ4IHrKHURcnjsdK5rCTDTdz9Lvc"
+        },
+        {
+          "name": "Con contrato",
+          "parameters": {
+            "uds": "AE2AFgbf06ZzDvczg9XBG5Z3qflXvDkiO-2XNVeJ_LcMcWKXhQzhO-0hSuIaeXTaQCHIBfbdOQ56qrky_rv2UpJCnzmlN-SyALfc5hFUEUc6KxYgOziCVNThn5RDDolTv09016VpJITpuoLa7Q_HegNa1bWYMQXb4zHAsDZy0jmCQAbAJwByh4ERNwi1pjhcJiBInyqlBIU3Pcz5F16fHvwXTXzsdfrAUAGb-WYZ6hJZq6JU3lGD2UXmGTqyeNWAUGoV8eADGDaA05KYIMD9FMK2Qy-dQZadIr1ONmwS-cWEq1YAFKTpaReOAjba3sl5nJxaQsOqa5umjFNwcF5Q9ZlgO_2l7bISGHPYI6m2tEF0Lj1hLuwtREY",
+            "q": "call center con contrato"
+          },
+          "link": "https://www.google.com/search?sca_esv=06fa6b2cca60171b&gl=pe&hl=es&sxsrf=AKL5yDjUy5zA2VWQv2AO9iTUm9tKw6L2ng:1795293860958&q=call+center+con+contrato&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXvDkiO-2XNVeJ_LcMcWKXhQzhO-0hSuIaeXTaQCHIBfbdOQ56qrky_rv2UpJCnzmlN-SyALfc5hFUEUc6KxYgOziCVNThn5RDDolTv09016VpJITpuoLa7Q_HegNa1bWYMQXb4zHAsDZy0jmCQAbAJwByh4ERNwi1pjhcJiBInyqlBIU3Pcz5F16fHvwXTXzsdfrAUAGb-WYZ6hJZq6JU3lGD2UXmGTqyeNWAUGoV8eADGDaA05KYIMD9FMK2Qy-dQZadIr1ONmwS-cWEq1YAFKTpaReOAjba3sl5nJxaQsOqa5umjFNwcF5Q9ZlgO_2l7bISGHPYI6m2tEF0Lj1hLuwtREY&udm=8&sa=X&ved=2ahUKEwjm3uXm9pmYAxW9j4kEHS4AFncQkbEKegQIGhAE",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=pe&google_domain=google.com&hl=es&location=Peru&q=call+center+con+contrato&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXvDkiO-2XNVeJ_LcMcWKXhQzhO-0hSuIaeXTaQCHIBfbdOQ56qrky_rv2UpJCnzmlN-SyALfc5hFUEUc6KxYgOziCVNThn5RDDolTv09016VpJITpuoLa7Q_HegNa1bWYMQXb4zHAsDZy0jmCQAbAJwByh4ERNwi1pjhcJiBInyqlBIU3Pcz5F16fHvwXTXzsdfrAUAGb-WYZ6hJZq6JU3lGD2UXmGTqyeNWAUGoV8eADGDaA05KYIMD9FMK2Qy-dQZadIr1ONmwS-cWEq1YAFKTpaReOAjba3sl5nJxaQsOqa5umjFNwcF5Q9ZlgO_2l7bISGHPYI6m2tEF0Lj1hLuwtREY"
+        },
+        {
+          "name": "Prácticas",
+          "parameters": {
+            "uds": "AE2AFgbf06ZzDvczg9XBG5Z3qflXgg6u1d5a_u5XS0t61rFk9_lOya5n02ZGqUOEJNiUxYs5E4BQH9jB0srSDajZ7ZfhsKNbOhW9va7MBcGy5FCBzdROTLav-tEMAFjTzD0f3ZeEVNKagt1V35JC-gJClOB93WqFSnWrY0ln-XaIYVWxS0RC5kfyjEE68lXGLprDbP44R-qgM5Cdz0FiK128_GFg0bM3Bycf9cP8_8pw2al1sol_C_SgOieoZOzFTVb5_rBF1UBUjo_V_zn8Rqn8QQ-okySkhGre8r9x7-vgig42yQNzDPew1DKX2LwjOQVYJ8phJrHKq_N_2CoMCnkiIgnhJs-8hgV8pTiFBXtUBzzz6tmPEqc",
+            "q": "call center prácticas"
+          },
+          "link": "https://www.google.com/search?sca_esv=06fa6b2cca60171b&gl=pe&hl=es&sxsrf=AKL5yDjUy5zA2VWQv2AO9iTUm9tKw6L2ng:1795293860958&q=call+center+pr%C3%A1cticas&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXgg6u1d5a_u5XS0t61rFk9_lOya5n02ZGqUOEJNiUxYs5E4BQH9jB0srSDajZ7ZfhsKNbOhW9va7MBcGy5FCBzdROTLav-tEMAFjTzD0f3ZeEVNKagt1V35JC-gJClOB93WqFSnWrY0ln-XaIYVWxS0RC5kfyjEE68lXGLprDbP44R-qgM5Cdz0FiK128_GFg0bM3Bycf9cP8_8pw2al1sol_C_SgOieoZOzFTVb5_rBF1UBUjo_V_zn8Rqn8QQ-okySkhGre8r9x7-vgig42yQNzDPew1DKX2LwjOQVYJ8phJrHKq_N_2CoMCnkiIgnhJs-8hgV8pTiFBXtUBzzz6tmPEqc&udm=8&sa=X&ved=2ahUKEwjm3uXm9pmYAxW9j4kEHS4AFncQkbEKegQIGhAF",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=pe&google_domain=google.com&hl=es&location=Peru&q=call+center+pr%C3%A1cticas&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXgg6u1d5a_u5XS0t61rFk9_lOya5n02ZGqUOEJNiUxYs5E4BQH9jB0srSDajZ7ZfhsKNbOhW9va7MBcGy5FCBzdROTLav-tEMAFjTzD0f3ZeEVNKagt1V35JC-gJClOB93WqFSnWrY0ln-XaIYVWxS0RC5kfyjEE68lXGLprDbP44R-qgM5Cdz0FiK128_GFg0bM3Bycf9cP8_8pw2al1sol_C_SgOieoZOzFTVb5_rBF1UBUjo_V_zn8Rqn8QQ-okySkhGre8r9x7-vgig42yQNzDPew1DKX2LwjOQVYJ8phJrHKq_N_2CoMCnkiIgnhJs-8hgV8pTiFBXtUBzzz6tmPEqc"
+        }
+      ]
+    },
+    {
+      "name": "Tipo de trabajo",
+      "options": [
+        {
+          "name": "Tiempo completo",
+          "parameters": {
+            "uds": "AE2AFgbf06ZzDvczg9XBG5Z3qflXsso_QxMudqS5ZjKSJLwnGhz4k-sGpgC7_WptfKx2NTLxJlAEHxBoH9eovAH-UiYWf5VRJuP9Hc2hzkhWzU8dE4gslPkSB_adlrLin_Akchx7HhsJPPLVm0PeUJMuc4KhVfa1B-PA7pyShksy9zxSZaGr5O70k_VEZmtj24RdP3IA_kbnfuN8_16diH7460N4y6fZ0gfZ5bEnnjzFGYl8j5oLYJihEYpiaV_FD8E8mOLDtSnA33aH8K7JhmikwQFIXL0pbjCrsxksCmfbXXvmc8woNLPW1P48jphrBFr67Zm01DABB-FfL_szYAFcQYPSYSup31-efOdI1PZm_arUVdFjH_4",
+            "q": "call center tiempo completo"
+          },
+          "link": "https://www.google.com/search?sca_esv=06fa6b2cca60171b&gl=pe&hl=es&sxsrf=AKL5yDjUy5zA2VWQv2AO9iTUm9tKw6L2ng:1795293860958&q=call+center+tiempo+completo&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXsso_QxMudqS5ZjKSJLwnGhz4k-sGpgC7_WptfKx2NTLxJlAEHxBoH9eovAH-UiYWf5VRJuP9Hc2hzkhWzU8dE4gslPkSB_adlrLin_Akchx7HhsJPPLVm0PeUJMuc4KhVfa1B-PA7pyShksy9zxSZaGr5O70k_VEZmtj24RdP3IA_kbnfuN8_16diH7460N4y6fZ0gfZ5bEnnjzFGYl8j5oLYJihEYpiaV_FD8E8mOLDtSnA33aH8K7JhmikwQFIXL0pbjCrsxksCmfbXXvmc8woNLPW1P48jphrBFr67Zm01DABB-FfL_szYAFcQYPSYSup31-efOdI1PZm_arUVdFjH_4&udm=8&sa=X&ved=2ahUKEwjm3uXm9pmYAxW9j4kEHS4AFncQkbEKegQIGhAC",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=pe&google_domain=google.com&hl=es&location=Peru&q=call+center+tiempo+completo&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXsso_QxMudqS5ZjKSJLwnGhz4k-sGpgC7_WptfKx2NTLxJlAEHxBoH9eovAH-UiYWf5VRJuP9Hc2hzkhWzU8dE4gslPkSB_adlrLin_Akchx7HhsJPPLVm0PeUJMuc4KhVfa1B-PA7pyShksy9zxSZaGr5O70k_VEZmtj24RdP3IA_kbnfuN8_16diH7460N4y6fZ0gfZ5bEnnjzFGYl8j5oLYJihEYpiaV_FD8E8mOLDtSnA33aH8K7JhmikwQFIXL0pbjCrsxksCmfbXXvmc8woNLPW1P48jphrBFr67Zm01DABB-FfL_szYAFcQYPSYSup31-efOdI1PZm_arUVdFjH_4"
+        },
+        {
+          "name": "Tiempo parcial",
+          "parameters": {
+            "uds": "AE2AFgbf06ZzDvczg9XBG5Z3qflXMZuq0aJ2qkXvD-oCCWz4xQLJIb7FhtHuZlEWUsG7ZCyG3QReELhHWFbSISkuASY7Rp1hUebCauzVP0l3Mc5no8oBhoHN-7MXQ18uxh5aKRlpC8mnkKagbiptndpwbtX3Y2nE27zz65ALnRBG8_ASPcoEhLyJ3XDLzbRsXmfGVldUK-cZaKt9Iew_Fei_o5BmdNaVTSD66tNUG8_jlb19yNx2Qt0_KomyJAjwNY4l8ggGqil1kLt9c3DcIhC9ouA1Ho6SLdF5aTqW6ouW67e9Ly5oU7_ERfiOFiEdZAQzgn64cMp7htBXWGlvqVln6-3pJ4IHrKHURcnjsdK5rCTDTdz9Lvc",
+            "q": "call center tiempo parcial"
+          },
+          "link": "https://www.google.com/search?sca_esv=06fa6b2cca60171b&gl=pe&hl=es&sxsrf=AKL5yDjUy5zA2VWQv2AO9iTUm9tKw6L2ng:1795293860958&q=call+center+tiempo+parcial&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXMZuq0aJ2qkXvD-oCCWz4xQLJIb7FhtHuZlEWUsG7ZCyG3QReELhHWFbSISkuASY7Rp1hUebCauzVP0l3Mc5no8oBhoHN-7MXQ18uxh5aKRlpC8mnkKagbiptndpwbtX3Y2nE27zz65ALnRBG8_ASPcoEhLyJ3XDLzbRsXmfGVldUK-cZaKt9Iew_Fei_o5BmdNaVTSD66tNUG8_jlb19yNx2Qt0_KomyJAjwNY4l8ggGqil1kLt9c3DcIhC9ouA1Ho6SLdF5aTqW6ouW67e9Ly5oU7_ERfiOFiEdZAQzgn64cMp7htBXWGlvqVln6-3pJ4IHrKHURcnjsdK5rCTDTdz9Lvc&udm=8&sa=X&ved=2ahUKEwjm3uXm9pmYAxW9j4kEHS4AFncQkbEKegQIGhAD",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=pe&google_domain=google.com&hl=es&location=Peru&q=call+center+tiempo+parcial&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXMZuq0aJ2qkXvD-oCCWz4xQLJIb7FhtHuZlEWUsG7ZCyG3QReELhHWFbSISkuASY7Rp1hUebCauzVP0l3Mc5no8oBhoHN-7MXQ18uxh5aKRlpC8mnkKagbiptndpwbtX3Y2nE27zz65ALnRBG8_ASPcoEhLyJ3XDLzbRsXmfGVldUK-cZaKt9Iew_Fei_o5BmdNaVTSD66tNUG8_jlb19yNx2Qt0_KomyJAjwNY4l8ggGqil1kLt9c3DcIhC9ouA1Ho6SLdF5aTqW6ouW67e9Ly5oU7_ERfiOFiEdZAQzgn64cMp7htBXWGlvqVln6-3pJ4IHrKHURcnjsdK5rCTDTdz9Lvc"
+        },
+        {
+          "name": "Con contrato",
+          "parameters": {
+            "uds": "AE2AFgbf06ZzDvczg9XBG5Z3qflXvDkiO-2XNVeJ_LcMcWKXhQzhO-0hSuIaeXTaQCHIBfbdOQ56qrky_rv2UpJCnzmlN-SyALfc5hFUEUc6KxYgOziCVNThn5RDDolTv09016VpJITpuoLa7Q_HegNa1bWYMQXb4zHAsDZy0jmCQAbAJwByh4ERNwi1pjhcJiBInyqlBIU3Pcz5F16fHvwXTXzsdfrAUAGb-WYZ6hJZq6JU3lGD2UXmGTqyeNWAUGoV8eADGDaA05KYIMD9FMK2Qy-dQZadIr1ONmwS-cWEq1YAFKTpaReOAjba3sl5nJxaQsOqa5umjFNwcF5Q9ZlgO_2l7bISGHPYI6m2tEF0Lj1hLuwtREY",
+            "q": "call center con contrato"
+          },
+          "link": "https://www.google.com/search?sca_esv=06fa6b2cca60171b&gl=pe&hl=es&sxsrf=AKL5yDjUy5zA2VWQv2AO9iTUm9tKw6L2ng:1795293860958&q=call+center+con+contrato&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXvDkiO-2XNVeJ_LcMcWKXhQzhO-0hSuIaeXTaQCHIBfbdOQ56qrky_rv2UpJCnzmlN-SyALfc5hFUEUc6KxYgOziCVNThn5RDDolTv09016VpJITpuoLa7Q_HegNa1bWYMQXb4zHAsDZy0jmCQAbAJwByh4ERNwi1pjhcJiBInyqlBIU3Pcz5F16fHvwXTXzsdfrAUAGb-WYZ6hJZq6JU3lGD2UXmGTqyeNWAUGoV8eADGDaA05KYIMD9FMK2Qy-dQZadIr1ONmwS-cWEq1YAFKTpaReOAjba3sl5nJxaQsOqa5umjFNwcF5Q9ZlgO_2l7bISGHPYI6m2tEF0Lj1hLuwtREY&udm=8&sa=X&ved=2ahUKEwjm3uXm9pmYAxW9j4kEHS4AFncQkbEKegQIGhAE",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=pe&google_domain=google.com&hl=es&location=Peru&q=call+center+con+contrato&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXvDkiO-2XNVeJ_LcMcWKXhQzhO-0hSuIaeXTaQCHIBfbdOQ56qrky_rv2UpJCnzmlN-SyALfc5hFUEUc6KxYgOziCVNThn5RDDolTv09016VpJITpuoLa7Q_HegNa1bWYMQXb4zHAsDZy0jmCQAbAJwByh4ERNwi1pjhcJiBInyqlBIU3Pcz5F16fHvwXTXzsdfrAUAGb-WYZ6hJZq6JU3lGD2UXmGTqyeNWAUGoV8eADGDaA05KYIMD9FMK2Qy-dQZadIr1ONmwS-cWEq1YAFKTpaReOAjba3sl5nJxaQsOqa5umjFNwcF5Q9ZlgO_2l7bISGHPYI6m2tEF0Lj1hLuwtREY"
+        },
+        {
+          "name": "Prácticas",
+          "parameters": {
+            "uds": "AE2AFgbf06ZzDvczg9XBG5Z3qflXgg6u1d5a_u5XS0t61rFk9_lOya5n02ZGqUOEJNiUxYs5E4BQH9jB0srSDajZ7ZfhsKNbOhW9va7MBcGy5FCBzdROTLav-tEMAFjTzD0f3ZeEVNKagt1V35JC-gJClOB93WqFSnWrY0ln-XaIYVWxS0RC5kfyjEE68lXGLprDbP44R-qgM5Cdz0FiK128_GFg0bM3Bycf9cP8_8pw2al1sol_C_SgOieoZOzFTVb5_rBF1UBUjo_V_zn8Rqn8QQ-okySkhGre8r9x7-vgig42yQNzDPew1DKX2LwjOQVYJ8phJrHKq_N_2CoMCnkiIgnhJs-8hgV8pTiFBXtUBzzz6tmPEqc",
+            "q": "call center prácticas"
+          },
+          "link": "https://www.google.com/search?sca_esv=06fa6b2cca60171b&gl=pe&hl=es&sxsrf=AKL5yDjUy5zA2VWQv2AO9iTUm9tKw6L2ng:1795293860958&q=call+center+pr%C3%A1cticas&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXgg6u1d5a_u5XS0t61rFk9_lOya5n02ZGqUOEJNiUxYs5E4BQH9jB0srSDajZ7ZfhsKNbOhW9va7MBcGy5FCBzdROTLav-tEMAFjTzD0f3ZeEVNKagt1V35JC-gJClOB93WqFSnWrY0ln-XaIYVWxS0RC5kfyjEE68lXGLprDbP44R-qgM5Cdz0FiK128_GFg0bM3Bycf9cP8_8pw2al1sol_C_SgOieoZOzFTVb5_rBF1UBUjo_V_zn8Rqn8QQ-okySkhGre8r9x7-vgig42yQNzDPew1DKX2LwjOQVYJ8phJrHKq_N_2CoMCnkiIgnhJs-8hgV8pTiFBXtUBzzz6tmPEqc&udm=8&sa=X&ved=2ahUKEwjm3uXm9pmYAxW9j4kEHS4AFncQkbEKegQIGhAF",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=pe&google_domain=google.com&hl=es&location=Peru&q=call+center+pr%C3%A1cticas&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXgg6u1d5a_u5XS0t61rFk9_lOya5n02ZGqUOEJNiUxYs5E4BQH9jB0srSDajZ7ZfhsKNbOhW9va7MBcGy5FCBzdROTLav-tEMAFjTzD0f3ZeEVNKagt1V35JC-gJClOB93WqFSnWrY0ln-XaIYVWxS0RC5kfyjEE68lXGLprDbP44R-qgM5Cdz0FiK128_GFg0bM3Bycf9cP8_8pw2al1sol_C_SgOieoZOzFTVb5_rBF1UBUjo_V_zn8Rqn8QQ-okySkhGre8r9x7-vgig42yQNzDPew1DKX2LwjOQVYJ8phJrHKq_N_2CoMCnkiIgnhJs-8hgV8pTiFBXtUBzzz6tmPEqc"
+        }
+      ]
+    }
+  ],
+  "jobs_results": [
+    {
+      "title": "Call Center | 2PM-10PM | Híbrido",
+      "company_name": "Directo",
+      "location": "Perú",
+      "via": "BeBee",
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=call+center&htidocid=-FdPrOYUA1lMJ9kvAAAAAA%3D%3D&hl=es-PE&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_-OayMjl4JyYk6PgnJpXklqkUKNgFOCra2gQ4Atkehxem1SUmZJvpZB0eFdxYWlqSqJCSqpCam5BTmq-Qmqegnt-fnpOqpR1RklJQbGVvn5xcY5eenFJYklmsl5yfq5-fl5qUn6FflZ-UjGIiC_OSCxKLchJLEmNNzI1qNAryEvXEnDJLEpNLgGbF5BadHgXAJq0r5WUAAAA&shmds=v1_Ac3VAozhoTmfr5kfV6uAe8I09Jl1yd3CqlEtWimPejAr0v30Tg&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=call+center&htidocid=-FdPrOYUA1lMJ9kvAAAAAA%3D%3D",
+      "thumbnail": "https://serpapi.com/searches/6b02029fb6981ee1fdcf144b/images/v2AHehY7XYgt7CV9bTi7mMFogtYqM8LTxEg-Rej5nU4.jpg",
+      "extensions": [
+        "hace 2 días",
+        "Tiempo completo"
+      ],
+      "detected_extensions": {
+        "posted_at": "hace 2 días",
+        "schedule_type": "Tiempo completo"
+      },
+      "source_link": "https://bebee.com/pe/jobs/call-center-2pm-10pm-hibrido-directo-miraflores-lima--t7xk-958685524",
+      "job_title": "Call Center | 2PM-10PM | Híbrido",
+      "description": "Directo: Somos una plataforma tecnológica de movilidad con más de 17 años de experiencia, comprometidos con ser parte del cambio hacia una Lima más amable, respetuosa y segura. Actualmente operamos como movilidad oficial del Aeropuerto Internacional Jorge Chávez y de los centros comerciales y empresas más importantes de Lima.\n\n\n¿Qué te pedimos?\n\n\n\nExperiencia previa en atención al cliente (llamadas y/o WhatsApp)\nExcelente trato al cliente y habilidades de comunicación\nTolerancia al estrés y capacidad de trabajar bajo presión en horas de alta demanda\nBuena redacción y ortografía\nLaptop para laborar de forma remota.\n\nFunciones:\n\nBrindar atención al cliente a través de los distintos canales (llamadas, WhatsApp, otros medios digitales)\nResponder consultas, reclamos y solicitudes de forma oportuna y con un trato cordial\nGestionar de manera eficiente los horarios de mayor demanda (horas rush), manteniendo la calidad del servicio\nRedactar respuestas claras, cordiales y alineadas al tono de la marca\nRegistrar y hacer seguimiento a los casos atendidos hasta su resolución\nCoordinar con otras áreas cuando el caso lo requiera\n\nTe ofrecemos:\n\nIngreso a planilla desde el primer día con todos los beneficios de ley.\nTraslados seguros y con descuento en nuestra flota de taxis.\nDescuentos corporativos en marcas aliadas.\nUna cultura colaborativa, horizontal y cercana, donde cada persona puede proponer y liderar proyectos.\n\nModalidad 1 - Tarde - 2PM a 10PM\nBásico s/.1500 + s/.100 movilidad\n\n2 primeras semanas 100% presenciales por capacitación e inducción(sujeto a adaptabilidad)\n3 días presenciales en oficina de Miraflores, post-capacitación.\nDescanso: viernes o sábado o domingo\n\n¡Éxitos!\nSueldo: S/.1,600.00 al mes\nPregunta(s) de postulación\n\nIndica tu distrito de residencia\n\nLugar de trabajo: Empleo presencial",
+      "apply_options": [
+        {
+          "title": "BeBee",
+          "link": "https://bebee.com/pe/jobs/call-center-2pm-10pm-hibrido-directo-miraflores-lima--t7xk-958685524?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJDYWxsIENlbnRlciB8IDJQTS0xMFBNIHwgSMOtYnJpZG8iLCJjb21wYW55X25hbWUiOiJEaXJlY3RvIiwiaHRpZG9jaWQiOiItRmRQck9ZVUExbE1KOWt2QUFBQUFBPT0iLCJ1dWxlIjoidytDQUlRSUNJRVVHVnlkUSIsImdsIjoicGUiLCJobCI6ImVzIiwiZmMiOiJFc3dCQ293QlFVUkVZbGRsV1ROd09FVlVibmxvYlc1M2QyUlhNMXBSVjNsSU4ybE9iV0Z1YjJSbU1IVkZPR05hVm5aVFNtTTRZbEZXVTFSR1JYUTBhbWhMUXpScU1DMDVPSEZZZW1oRU9TMVJSRWRNY0hoTWRHSlpiakp5V2w5MVdWZzFTbTR5VFZvNGNqY3hORUZVYVdGSGVXbFFPRkZ3Tm5KRWExb3hUMWN0VEhCelR5MDJNa3h6Tm5WbFpFZFVUMmdTRjNCQlNVTmhMV0k0VDJJeVpuQjBVVkJ5YjBSWmRVRmpHaUpCU0U0d1JUZEhNSGhZT1U5VGQyTm9VVFJrUVhWbmFFUXhWRFpaTVhSa01tRlIiLCJmY3YiOiIzIiwiZmNfaWQiOiItRmRQck9ZVUExbE1KOWt2QUFBQUFBPT0ifQ=="
+    },
+    {
+      "title": "Call center de Cobranzas / Temprana a Castigo / Salario fijo / Miraflores",
+      "company_name": "Grupo Recupera",
+      "location": "Perú",
+      "via": "LinkedIn",
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=call+center&htidocid=U0PhTErKj-VlYkW4AAAAAA%3D%3D&hl=es-PE&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_xWMMQqDQBBFSesFAqmmTuGGQBpTWqQKhCS9jDrqyrqzmVlBcjSrgBeLNh_eh_eS3y7pcnQOKvKRBGqCnEtB_0UFA28awgoICDlqtC2v5wsdimVobL_h3Qo2joU0g3KZ9TNSjVtodR0xkIcbc-vocO1iDJoZo-rSViNGW6UVD4Y9lTyZnkvdptAOhYLDSMX5cprS4Nvj_iZjYHhSNQYS3LIPkmX-AzXbxMjDAAAA&shmds=v1_Ac3VAowMCyLM5SdoCcgXebgPC9-ULl37fvaxk1eyUKxORPF5oA&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=call+center&htidocid=U0PhTErKj-VlYkW4AAAAAA%3D%3D",
+      "thumbnail": "https://serpapi.com/searches/6b02029fb6981ee1fdcf144b/images/w_b7q4kuzDcfVYrQ_mdsALCQPnX4OzF0y9aoFEwnG1o.jpg",
+      "extensions": [
+        "hace 3 días",
+        "Tiempo completo"
+      ],
+      "detected_extensions": {
+        "posted_at": "hace 3 días",
+        "schedule_type": "Tiempo completo"
+      },
+      "source_link": "https://pe.linkedin.com/jobs/view/call-center-de-cobranzas-temprana-a-castigo-salario-fijo-miraflores-at-grupo-recupera-4492037137",
+      "job_title": "Call center de Cobranzas / Temprana a Castigo / Salario fijo / Miraflores",
+      "description": "Actualmente nos encontramos en búsqueda del mejor talento para asumir el cargo de Asesor(a) de cobranza en Call center MIRAFLORES (presencial), cerca a la Estación de Metropolitano Ricardo Palma.\n\n¿A QUIÉN BUSCAMOS?\n\nDisponibilidad para trabajar full time de Lunes a Sábados.\n\nCon experiencia certificada y consecutiva en los últimos años, más de 1 año en el rubro de Call center en el sector financiero o créditos vehiculares cartera intermedia y castigo.\n\nDisponibilidad INMEDIATA para laboral presencialmente en Miraflores (cerca de la Estación Ricardo Palma).\n\n¿QUÉ OFRECEMOS?\n\nSueldo fijo: s/.1600 (Presencial)\n\nBono asistencia y puntualidad s/.150.00\n\nBono por referido s/.100.00\n\nComisiones Ilimitadas\n\n3 días de capacitación (Pago Semanal ) s/.35 por día asistido\n\n¡Atrévete a un cambio y forma parte de nuestra gran familia corporativa!\n\n“Los datos personales proporcionados serán tratados conforme a la Ley N.° 29733. Al postular, el candidato autoriza su tratamiento para fines de selección.”",
+      "apply_options": [
+        {
+          "title": "LinkedIn",
+          "link": "https://pe.linkedin.com/jobs/view/call-center-de-cobranzas-temprana-a-castigo-salario-fijo-miraflores-at-grupo-recupera-4492037137?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "JobLeads",
+          "link": "https://www.jobleads.com/pe/job/call-center-de-cobranzas-temprana-a-castigo-salario-fijo-miraflores--san-isidro--e6068ec47e5803043c0e6ce4de4ac2182?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "BeBee",
+          "link": "https://bebee.com/pe/jobs/asesor-cobranza-maf-call-center-cartera-castigo-miraflores-judicial-prejudicial-recupera-business-pa--ss-pe-1fuglx8?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJDYWxsIGNlbnRlciBkZSBDb2JyYW56YXMgLyBUZW1wcmFuYSBhIENhc3RpZ28gLyBTYWxhcmlvIGZpam8gLyBNaXJhZmxvcmVzIiwiY29tcGFueV9uYW1lIjoiR3J1cG8gUmVjdXBlcmEiLCJodGlkb2NpZCI6IlUwUGhURXJLai1WbFlrVzRBQUFBQUE9PSIsInV1bGUiOiJ3K0NBSVFJQ0lFVUdWeWRRIiwiZ2wiOiJwZSIsImhsIjoiZXMiLCJmYyI6IkVzd0JDb3dCUVVSRVlsZGxZWGRWYVd0dVUwUkxSMFowTWxOdFJHaEhZMFZrYVdSVlRUSlVaVk5FYUhkdldWQklUVk01ZEVNdE9VOTNiMHBVU2pKdlJrZFhXbXRPTjE5WU0yZDRObEZSVVU1emJXcFRlbGhNTVdVMFRURnZMVEZoUjJVemJGUkxRV1V6VGpaMVZtVXpTRlp4TFY5RFNrSnpaM2g0ZWxoek9VNWljbUkwTlRGSFdGZFhVVTlhVW1rMVQzWVNGM0JCU1VOaExXSTRUMkl5Wm5CMFVWQnliMFJaZFVGakdpSkJTRTR3UlRkR1JtUnRXakpYTlRKUmFuazBXbmhoWHkxeE4xVXhSMkkzVDJKUiIsImZjdiI6IjMiLCJmY19pZCI6IlUwUGhURXJLai1WbFlrVzRBQUFBQUE9PSJ9"
+    },
+    {
+      "title": "Asesores Con o Sin Experiencia Call Center/Lunes a Viernes/ingreso a planilla Completa - Comisiones Ilimitadas / Exp. Mínima",
+      "company_name": "Agile Ventas C.",
+      "location": "Perú",
+      "via": "BeBee",
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=call+center&htidocid=qiHNnhvakIJPUU3fAAAAAA%3D%3D&hl=es-PE&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_xWOQUoEQQxFme2cQFxlLVglgptxNTQigoIgzHZId4eeDOmkrNRAH8YreIHZ9p1cW7UJn_D_-3_7t9n-bPZObpkcOlMw-GKFlyVRZtKBEToUgY60UI7vF60-hANTriqyTjVo9ZMElUWq3eYkVBDum2Rna5E34ZkLjugQGz3Ax_qrPOMO-vXq3xcaEUYCamEDUng1m4Run0-lJN_F6C5h8oKFhzDYHCu2tyWerfd2jn7CTHVFoePj08MSkk53N_uJheBQx9fiLjTuJ-X1-g8t1XZt-QAAAA&shmds=v1_Ac3VAoyrlTJc9SJ0HYdCMXy365Wn0C4j6LkOTKuFYmSo5VWRZg&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=call+center&htidocid=qiHNnhvakIJPUU3fAAAAAA%3D%3D",
+      "thumbnail": "https://serpapi.com/searches/6b02029fb6981ee1fdcf144b/images/LT3I-SQpVt3Zs_3FpROws0twKivlPzmF_WVsEBsv8SY.jpg",
+      "extensions": [
+        "hace 3 días",
+        "Medio tiempo"
+      ],
+      "detected_extensions": {
+        "posted_at": "hace 3 días",
+        "schedule_type": "Medio tiempo"
+      },
+      "source_link": "https://bebee.com/pe/jobs/asesores-con-o-sin-experiencia-call-center-lunes-a-viernes-ingreso-a-planilla-completa-comisiones-il--ss-pe-di0dwt",
+      "job_title": "Asesores Con o Sin Experiencia Call Center/Lunes a Viernes/ingreso a planilla Completa - Comisiones Ilimitadas / Exp. Mínima",
+      "description": "¡ÚNETE A AGILE BPO Y CRECE CON NOSOTROS!\n\n\nEn AGILE BPO, empresa especializada en ventas multicanal para los sectores financiero y telecomunicaciones, en modalidades presenciales y remotos. para unirse a nuestro equipo! Si eres una persona proactiva, con habilidades de persuasión y te apasiona el mundo de las ventas, ¡esta podría ser una gran oportunidad para ti!\n\n\nActualmente buscamos: Asesores de Ventas - Call Center (presencial en Edificio Centrica)\n\n\nREQUISITOS\nDe 18 años a más.Con experiencia en atención al cliente o ventas.Secundaria completaExcelente actitud y buen nivel de comunicación¿QUÉ TE OFRECEMOS?\nPlanilla Completa: Régimen general con todos los beneficios de ley al 100% (Gratificaciones, CTS, vacaciones, asignación familiar, EsSalud, etc.) desde el primer día.Sueldo fijo S/ 1,230Comisiones ilimitadas.Bono de Productividad.Programa de beneficios y capacitación constante.HORARIO FIJOLUNES A VIERNES.9am a 6:30 pmCAPACITACIONES CORTAS Y PAGADAS (7 días)\nIMPORTANTE\nEste proceso de selección se realizará íntegramente de presencial y/o vía llamada telefónica, por lo tanto, a todos los postulantes agradeceremos remitirnos su CV actualizado.\n\n\nAGILE, es un empleador inclusivo y promotor activo para la inserción laboral de personas con habilidades diferentes.",
+      "apply_options": [
+        {
+          "title": "BeBee",
+          "link": "https://bebee.com/pe/jobs/asesores-con-o-sin-experiencia-call-center-lunes-a-viernes-ingreso-a-planilla-completa-comisiones-il--ss-pe-di0dwt?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJBc2Vzb3JlcyBDb24gbyBTaW4gRXhwZXJpZW5jaWEgQ2FsbCBDZW50ZXIvTHVuZXMgYSBWaWVybmVzL2luZ3Jlc28gYSBwbGFuaWxsYSBDb21wbGV0YSAtIENvbWlzaW9uZXMgSWxpbWl0YWRhcyAvIEV4cC4gTcOtbmltYSIsImNvbXBhbnlfbmFtZSI6IkFnaWxlIFZlbnRhcyBDLiIsImh0aWRvY2lkIjoicWlITm5odmFrSUpQVVUzZkFBQUFBQT09IiwidXVsZSI6IncrQ0FJUUlDSUVVR1Z5ZFEiLCJnbCI6InBlIiwiaGwiOiJlcyIsImZjIjoiRXN3QkNvd0JRVVJFWWxkbFdXNTFWVE5wYmxkYVozRmFMWFZFTW5oVmVHVk9ZV3hIYTJkR1JtbFFaVlJCYUVwMVZqWnNOakExU1hoUFRsQklUelJ3Y1hSbVdqbHhSRWcyVVhoR1RVZHVYMEZZYmxGT1ZtWllXazFxVGpsckxVdzJTVEJpYmpWMVpHa3hZM1YyZGtoT1NscENWbE5ZT0ZVMFNraG1TV2wyVWpGMVJVbFBaQzF4YjFZM05WTkpSM0V3YTJrU0YzQkJTVU5oTFdJNFQySXlabkIwVVZCeWIwUlpkVUZqR2lKQlNFNHdSVGRHZEhsTGNERTVUV1ZpZGpKTlkybHZSelpqVTJOSFRtNTRVMDVSIiwiZmN2IjoiMyIsImZjX2lkIjoicWlITm5odmFrSUpQVVUzZkFBQUFBQT09In0="
+    },
+    {
+      "title": "Asesor/a call center cobranzas castigó/ Firma directa a planilla/ Gana fijo S/1300 + Comisiones",
+      "company_name": "IBR Perú S.A.",
+      "location": "Perú",
+      "via": "JobLeads",
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=call+center&htidocid=NvZLl4jJs_mY68SPAAAAAA%3D%3D&hl=es-PE&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_x2NMYoCQRREMfUCglHFCt2ji4kbuYKymegB5E_7nWnp6T_27wXZZA9lZjqH8Do7mhS8glc1fA6GfytllWQJjkKA45g5wUmZKP6S9q1mX3V3i41PDeHkE7tMILSBog-BLLYUCWd_ERzs7KMoMMVaGq9eIusSZffQ6w-fepnBTRtYwBFbkSrw-LPOudWltarBVJope2ecNLaXS7nZi5T6iqPWlLg_zXycL4qbaWM1GX1_7bHj1D1wMCvzmn3TP5xc6q3aAAAA&shmds=v1_Ac3VAoxrtOb14D6qdb9d_GlVgoW-R9KzOnoASm-_jlx94QrGmw&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=call+center&htidocid=NvZLl4jJs_mY68SPAAAAAA%3D%3D",
+      "extensions": [
+        "hace 7 días",
+        "De S/ 13 K a S/ 16 K por año",
+        "Tiempo completo"
+      ],
+      "detected_extensions": {
+        "posted_at": "hace 7 días",
+        "salary": "De S/ 13 K a S/ 16 K por año",
+        "schedule_type": "Tiempo completo"
+      },
+      "source_link": "https://www.jobleads.com/pe/job/asesor-a-call-center-cobranzas-castigo-firma-directa-a-planilla-gana-fijo-s-1300-comisiones--san-isidro--e8f9aa8577457273fd064214ecdfe38d3",
+      "job_title": "Asesor/a call center cobranzas castigó/ Firma directa a planilla/ Gana fijo S/1300 + Comisiones",
+      "description": "Únete a una de las empresas líderes en el sector de Call Center! Somos una compañía con más de 16 años en el mercado, especializada en la generación de experiencias memorables en el servicio, con enfoque en Cobranzas, Atención al Cliente, Back Office y BPO. A lo largo del tiempo, hemos logrado mantener resultados de éxito sostenidos junto a nuestros clientes. Estamos en la búsqueda del mejor talento humano para el puesto de Ejecutivo de Cobranza vehicular Call Center que desee unirse a nuestra sede en San Isidro.\n\nEJECUTIVO DE COBRANZAS CALL CENTER - CARTERA CASTIGADA MAF (Sede San Isidro)REQUISITOSContar con experiencia mínima de 06 meses en Call Center Cobranzas vehículares o banca.Disponibilidad para laborar de manera presencial en nuestra oficina en Sede San Isidro (REF: TORRE ABACO)Secundaria completaFluidez verbalProactivoComprometido / ResponsableHORARIO FULL TIME (48 hrs semanales): Lunes a Viernes de 8:00am a 6:00pm | Sábado de 9:00am a 12:00pm (100% presencial).\n\nBeneficios:Planilla completa con todos los beneficios de ley desde el 1er día de capacitación: Asignación familiar + CTS + Gratificaciones completas al 100% (julio y diciembre) + Utilidades + Vacaciones pagadas + seguro Essalud + AFP + estabilidad y seguridad laboral y todos los beneficios laborales.Sueldo base de S/1,300Comisiones atractivas hasta S/600Pagos mensuales.Capacitaciones cortas (3 días) + Firma contrato desde el 1er día.1 hora de refrigerio diario.Buen clima laboral.Estabilidad laboral.Capacitaciones constantes.Beneficios corporativos, concursos constantes.Línea de carrera (a partir del 6to mes) para crecer laboralmente dentro de la empresa.Si estás listo para llevar tu carrera al siguiente nivel ¡Esta es tu oportunidad! Postúlate ahora y forma parte de nuestro equipo, Somos IBR LATAM.",
+      "apply_options": [
+        {
+          "title": "JobLeads",
+          "link": "https://www.jobleads.com/pe/job/asesor-a-call-center-cobranzas-castigo-firma-directa-a-planilla-gana-fijo-s-1300-comisiones--san-isidro--e8f9aa8577457273fd064214ecdfe38d3?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJBc2Vzb3IvYSBjYWxsIGNlbnRlciBjb2JyYW56YXMgY2FzdGlnw7MvIEZpcm1hIGRpcmVjdGEgYSBwbGFuaWxsYS8gR2FuYSBmaWpvIFMvMTMwMCArIENvbWlzaW9uZXMiLCJjb21wYW55X25hbWUiOiJJQlIgUGVyw7ogUy5BLiIsImh0aWRvY2lkIjoiTnZaTGw0akpzX21ZNjhTUEFBQUFBQT09IiwidXVsZSI6IncrQ0FJUUlDSUVVR1Z5ZFEiLCJnbCI6InBlIiwiaGwiOiJlcyIsImZjIjoiRXN3QkNvd0JRVVJFWWxkbFduWXRPUzFYTFdrM01GcFJXbEZ0TW01cE0yTnNhVTlWVXpSblJtaE9kRzQ1VTA5SFh6WnVSUzAzY1c1VFNIcFFTazVRZW1wWFZ6QkJZbUpxT1hCUFExQklkbEJxVm14SWNHczBPRTQ0TVVwTWRVSlpXRzVpWjBoNmQyNVljMVZQV2tkdkxXOW9SbEJPT0ZwMFFuTmxPVGRsTVRGTVZuRkphVTFKWlc1RWMyaFpRMkV5V1VJU0YzQkJTVU5oTFdJNFQySXlabkIwVVZCeWIwUlpkVUZqR2lKQlNFNHdSVGRHYkhaMk1GQk1WR2xWVFVGelVXeGpNbUZwUzNOWllraHRSM2RSIiwiZmN2IjoiMyIsImZjX2lkIjoiTnZaTGw0akpzX21ZNjhTUEFBQUFBQT09In0="
+    },
+    {
+      "title": "Call center turno tarde/  gana mas de  1700",
+      "company_name": "Impulsate",
+      "location": "Perú",
+      "via": "BeBee",
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=call+center&htidocid=GS0yO0-4ZUIM8TNaAAAAAA%3D%3D&hl=es-PE&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_xXMMQ6CQBBA0dhSWlpNbcGiiTHB0sJo5Q3IAJNFM7uz7gwJl_EitFxMaX7xil98N8XjiszQUTTKYGOOAoa5JwfgMSIEVOgJ4HCuqhraZdbPSD2uRiExCVCEm4hn2l0Gs6S1c6pcejW0V1d2EpxEamVyb2l1TaMDZkqMRs3xVE1lin6_vYc0sv5tPT4pL_MPRnTgGaAAAAA&shmds=v1_Ac3VAoySwTsRgDHXVb-O1Aw0IpDFo3APHKDiKZG4viTFnFS1GA&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=call+center&htidocid=GS0yO0-4ZUIM8TNaAAAAAA%3D%3D",
+      "thumbnail": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAADgAAAA4CAMAAACfWMssAAAAaVBMVEX-_v7___8aGhrZ2dkoKCgsLCyXl5clJSUeHh4iIiLe3t7o6Ojh4eHk5OR3d3f4-PiOjo5MTEwyMjLx8fFhYWF-fn6tra3S0tLExMRSUlIQEBCHh4cVFRW0tLRDQ0Onp6dpaWkAAAA6OjrlnYE3AAABDklEQVRIie2UTZODIAxACZIKFQG_Wtditf3_P3KptXZ76EzwuMM7cMobQhLCWCKR-MfASrRmi3PfZ42NU6FwleRScvFzyegqwIS54oNA76WShlFNuHhElz1eqKdK1g1RhNHjVT_rEs6RKkJT17XeYgFKSxQnlR_-hlKLAy1iGds-tmSK1Q4vtJDjvIpR0wMZR_MMhTJbKEjmQ-xW0dx44OZoovbbjWbgXNWfNf4uFjm2r8jwviNSRVvh3b6rcxREkUEnVP8enAjxLEOuW7J0MdREyMPLBB0hhtmRXbH2fqSLofFXJXB2p9PUVUoMI30FWCfC11-WR25iJh6g6d3ctrPrm8hFB7BzPyYSib38AhwlCs3jonzCAAAAAElFTkSuQmCC.png",
+      "extensions": [
+        "hace 7 días",
+        "De S/ 1.3 K a S/ 3 K por mes",
+        "Tiempo completo"
+      ],
+      "detected_extensions": {
+        "posted_at": "hace 7 días",
+        "salary": "De S/ 1.3 K a S/ 3 K por mes",
+        "schedule_type": "Tiempo completo"
+      },
+      "source_link": "https://bebee.com/pe/jobs/call-center-turno-tarde-gana-mas-de-1700-impulsate-la-victoria--t7xk-942079794",
+      "job_title": "Call center turno tarde/  gana mas de  1700",
+      "description": "Modalidad presencial – San Isidro\n\n\n¿Qué harás?\n\n\nAtender clientes mediante WhatsApp, chats y otros canales digitales.\n\n\nBrindar información y asesoría sobre productos y servicios.\n\n\nRealizar seguimiento y cierre de ventas.\n\n\nCumplir objetivos comerciales.\n\n\n¿Qué te ofrecemos?\n\n\nSueldo fijo: S/ 1,300\n\n\nBono de S/ 200 por resultados\n\n\nComisiones por ventas\nPlanilla MYPE desde el primer día\nCapacitación constante\nLínea de carrera\nHorario\n1:00 p.m. a 10:00 p.m.\nLunes a domingo con 1 día de descanso a la semana (Domingo remoto)\n\n\nLugar de trabajo: San Isidro\n\n\nRequisitos\n\nEstudios: Educación Secundaria\n\nValorado\n\nExperiencia profesional: Sin experiencia",
+      "apply_options": [
+        {
+          "title": "BeBee",
+          "link": "https://bebee.com/pe/jobs/call-center-turno-tarde-gana-mas-de-1700-impulsate-la-victoria--t7xk-942079794?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Jobrapido.com",
+          "link": "https://pe.jobrapido.com/jobpreview/9156970984538898432?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Trabajo.org",
+          "link": "https://pe.trabajo.org/oferta-4085-fb119b4020ad715bf669e74118549d9a?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJDYWxsIGNlbnRlciB0dXJubyB0YXJkZS8gIGdhbmEgbWFzIGRlICAxNzAwIiwiY29tcGFueV9uYW1lIjoiSW1wdWxzYXRlIiwiaHRpZG9jaWQiOiJHUzB5TzAtNFpVSU04VE5hQUFBQUFBPT0iLCJ1dWxlIjoidytDQUlRSUNJRVVHVnlkUSIsImdsIjoicGUiLCJobCI6ImVzIiwiZmMiOiJFc3dCQ293QlFVUkVZbGRsWVd0UU5IRnlabFJyT0hGT1QxZFlXazVJYTFnNVdXMXRURnBLU1Rsd1JGaFdlRkl0UkVoWFFuaEJaREZwVFhaaldYcHdlVWd0Ym5jNFkyRlNZeTE1WVVkMVQwcEdjek5SZDBwYVQwaEpkMHg1UlVaUVNGaE9hVTU0UTFaQ00yeFFNV1J4YnpaVFpHRjJjbFJRTFd4TWFtMUVVbFo1V21rM05VTjJVRlpXYjJOSmRIVXlhWEFTRjNCQlNVTmhMV0k0VDJJeVpuQjBVVkJ5YjBSWmRVRmpHaUpCU0U0d1JUZElablkwVkdZNVpsSnRUa2R5V1ZCTmRXdGZhelp6VUZORU5GRm4iLCJmY3YiOiIzIiwiZmNfaWQiOiJHUzB5TzAtNFpVSU04VE5hQUFBQUFBPT0ifQ=="
+    },
+    {
+      "title": "Asesor call center/solo C H A T/contrato al dia 1/ pagos quincenales Planilla Completa + Sueldo + Maqueta",
+      "company_name": "Webhelp Perú",
+      "location": "Perú",
+      "via": "JobLeads",
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=call+center&htidocid=wsWHmjO89rWFW3a3AAAAAA%3D%3D&hl=es-PE&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_x2MsWoCURBFsfUDLKxuHWFfDKQxlVhoExAipJTZt8Puyvjm-WYW_IR8k60_kk_JbprL4XLunf_O5j-zrbFpQSQRRE7OJZiKYocDtjiFqMkLuYIETU9YB2Rq1XAb-jQOSNhwFEq9CGGn1yzshBW-BpZGR_ik2zBWG9TPh43YEBoGT6KCE_aqrfDyo3PPtgnBTKrWnLyPVdRr0MS13sNFa5vibB0VzkLO57f313uVU_uy-Oa6Y8k4cnk-ptd_-ANmzAU14wAAAA&shmds=v1_Ac3VAowVbYJadX06c6HIGDzmc0xYiC8bkC32bZsV3ciBskX_zg&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=call+center&htidocid=wsWHmjO89rWFW3a3AAAAAA%3D%3D",
+      "extensions": [
+        "hace 4 días",
+        "De S/ 17 K a S/ 20 K por año",
+        "Tiempo completo"
+      ],
+      "detected_extensions": {
+        "posted_at": "hace 4 días",
+        "salary": "De S/ 17 K a S/ 20 K por año",
+        "schedule_type": "Tiempo completo"
+      },
+      "source_link": "https://www.jobleads.com/pe/job/asesor-call-center-solo-c-h-a-t-contrato-al-dia-1-pagos-quincenales-planilla-completa-sueldo-maqueta--san-isidro--ed9cb92f07efe3d8b47645995c0a48947",
+      "job_title": "Asesor call center/solo C H A T/contrato al dia 1/ pagos quincenales Planilla Completa + Sueldo + Maqueta",
+      "description": "¡Únete a Concentrix! Buscamos Asesores de Atención al Cliente para trabajar de forma presencial en San Isidro.\n\nFUNCIONESBrindar soporte a usuarios durante todo el proceso de compra, gestionando consultas, seguimiento de pedidos, resolución de incidencias, devoluciones, reembolsos y disputas, con el objetivo de garantizar una experiencia eficiente, fluida y satisfactoria para el cliente por CHAT.\n\nBENEFICIOSSueldo hasta s/ 1630 (sueldo base s/1300 + maqueta hasta s/300)Planilla completa desde el primer dia de capacitacionBono de subsidio o transporteGift Card al tercer diaBono de permanenciaREQUISITOSMayor de 20 años.Secundaria completa o estudios superioresDisponibilidad para laborar presencialmente en SEDE SAN ISIDRO C. Sacsayhuaman 180Referencia: A 2 cuadras del cruce de Av. Javier Prado con Av. ArequipaExperiencia 3 meses mínimo en call center comprobable!!HORARIOSGestión de Lunes a DomingosTener disponibilidadRANGO 1: 10AM - 8PMRANGO 2: 4PM - 2AMFranja de 7hrs 30min + 45min de break48 hrs semanalesEn Concentrix promovemos la igualdad de oportunidades y rechazamos toda forma de discriminación. Valoramos el talento, las habilidades y el potencial de cada persona.",
+      "apply_options": [
+        {
+          "title": "JobLeads",
+          "link": "https://www.jobleads.com/pe/job/asesor-call-center-solo-c-h-a-t-contrato-al-dia-1-pagos-quincenales-planilla-completa-sueldo-maqueta--san-isidro--ed9cb92f07efe3d8b47645995c0a48947?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "BeBee",
+          "link": "https://bebee.com/pe/jobs/asesor-call-center-solo-c-h-a-t-contrato-al-dia-1-pagos-quincenales-planilla-completa-sueldo-maqueta--ss-pe-ux3aok?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Jobrapido.com",
+          "link": "https://pe.jobrapido.com/jobpreview/2214743077447270400?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Jobted",
+          "link": "https://www.jobted.com.pe/job/9a8ac5ee9b49a86eaefb4123a5a186a0?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJBc2Vzb3IgY2FsbCBjZW50ZXIvc29sbyBDIEggQSBUL2NvbnRyYXRvIGFsIGRpYSAxLyBwYWdvcyBxdWluY2VuYWxlcyBQbGFuaWxsYSBDb21wbGV0YSArIFN1ZWxkbyArIE1hcXVldGEiLCJjb21wYW55X25hbWUiOiJXZWJoZWxwIFBlcsO6IiwiaHRpZG9jaWQiOiJ3c1dIbWpPODlyV0ZXM2EzQUFBQUFBPT0iLCJ1dWxlIjoidytDQUlRSUNJRVVHVnlkUSIsImdsIjoicGUiLCJobCI6ImVzIiwiZmMiOiJFc3dCQ293QlFVUkVZbGRsWVZsd01EaExaVWM0ZVhwV1NWQkNVWHB3UmpCTFVsTTFkMDFKVFhGR1VsWlNObmxuUVZwclVUWldaMjF0YzB0UmNWSkxPWGxVYVd4UE1XRkNVbWwyYm1wbFREWkZSVUZKWDNSV2RqZDZUbFYyWjNGbk1ESnRiR1JFZW5SQ1FUazJjSE4zU2pGT1ZuQjBUMlUxUkhwUllua3RlbU5qY25NemFXWjZNbVV4YTNaNE1VNHRkVlVTRjNCQlNVTmhMV0k0VDJJeVpuQjBVVkJ5YjBSWmRVRmpHaUpCU0U0d1JUZEZZa1ZYVlV4VUxVWnlheTFNTUdsdGFuWTRTR2c0ZFU1S0xXUkIiLCJmY3YiOiIzIiwiZmNfaWQiOiJ3c1dIbWpPODlyV0ZXM2EzQUFBQUFBPT0ifQ=="
+    },
+    {
+      "title": "Supervisor/a de Cobranzas Call Center BPO Sueldo S/ 3,000 + Comisiones",
+      "company_name": "Las mejores empresas para trabajar en Perú",
+      "location": "Perú",
+      "via": "Trabajo.org",
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=call+center&htidocid=Y4WQZ1LdqRlxQPxhAAAAAA%3D%3D&hl=es-PE&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_z1OMU7DQBAUbZ5AtXVAPitAk3S4oEEikh8Q7cUjx9b59tg9oyhPS5tf5DWcKWhmVqOZ2VndH1Zo5wT9GUzUMXWgRrxyvLBRwyFQg5ih9L7_onZG6IRaRy_PdV3TU_FOgw0SYVvyt6t9z-j-SjClACFE-hDpAx53p5yTbZ0zC1VvmfNwrI4yuRL2cnajeFvgYCdWpMAZh81bfa5S7Nevn2XNhFEUtlQXKkJiZcrKnkfW5dUeerv-H79bmwPB3QAAAA&shmds=v1_Ac3VAowbUI1TpVj3HBLU1WAoIZ9uLAatwgNZkmYbmaasoPNqMg&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=call+center&htidocid=Y4WQZ1LdqRlxQPxhAAAAAA%3D%3D",
+      "thumbnail": "https://serpapi.com/images/i/_9j_4AAQSkZJRgABAQAAAQABAAD_2wCEAAkGBwgHBgkIBwgKCgkLDRYPDQwMDRsUFRAWIB0iIiAdHx8kKDQsJCYxJx8fLT0tMTU3Ojo6Iys_RD84QzQ5OjcBCgoKDQwNGg8PGjclHyU3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3N__AABEIADgAOAMBIgACEQEDEQH_xAAZAAEAAwEBAAAAAAAAAAAAAAAAAwQFBgf_xAA0EAABAwIEAAkNAQAAAAAAAAABAAIDBBEFEhMhBhQxNlFxcoKyFiI0QVVjgZOhorHB0RX_xAAXAQEBAQEAAAAAAAAAAAAAAAAAAQQC_8QAGhEBAQEAAwEAAAAAAAAAAAAAAAERAxIhAv_aAAwDAQACEQMRAD8A9xREQES6yq_H6Gjqo6UyatQ97Wace-Uk236PymDVREQEREBVsRrYcPo5aqoJEcYF8oudzYfUqysThnzbrO542qybZBymLcKa_E38XogaeF2wDT57us-r4LKoYpIcVo2ysLXa8Zse0FBR6nGotHLqZhlzcl1ckNQMYpDU5NQPjtk5LZlr6yTI6erIuVqcf0MUjoHGYudlBeDsCeTZdDQPc-C73Em53KyWWOVlERQFicM-bdX3PG1bapYzQDE8Olo3SGMSZbuAvaxB_Ss8ujyeN7o3tew5XDcHoU9NLJNiNM6V5c7VYLntBdZ5CR-0H_KH9UkHAiOGeOXj7zkeHW0hvY9a03l-XWrz4InytmdEwyt2a8tGYdRWth3o_eKj_wA_3v2qzTw6MeTNfe91mt1KlREUQREQEREBERAREQf_2Q.jpg",
+      "extensions": [
+        "hace 2 días",
+        "Tiempo completo"
+      ],
+      "detected_extensions": {
+        "posted_at": "hace 2 días",
+        "schedule_type": "Tiempo completo"
+      },
+      "source_link": "https://pe.trabajo.org/oferta-10004-6d1da9d4d65670019af4e66861a430e2",
+      "job_title": "Supervisor/a de Cobranzas Call Center BPO Sueldo S/ 3,000 + Comisiones",
+      "description": "Supervisor/a de Cobranzas Call Center BPO Sueldo S/ 3,000 + Comisiones / Presencial Surquillo - Planilla Remype\n\nImportante empresa del sector - Lima, Lima\n\nA convenir Contrato por Inicio o Incremento de Actividad Tiempo completo\n\nRequerimientos\n\nEducación mínima: Universitario2 años de experienciaEdad: entre 25 y 55 añosConocimientos: Capacidad de asesorar, Capacidad de coordinación, Gestión de equipos, Cobranza, Enfoque a resultados, Microsoft excel, Plataformas, Sap, Seguimiento, Supervisión, Trabajo por objetivos, RendimientoAptitudes asociadas a esta oferta Nuevo\n\nDescripción de la oferta\n\nA convenir Contrato por Inicio o Incremento de Actividad Tiempo completo\n\nBuscamos lideres con sólida experiencia dirigiendo equipos cobranzas de alto rendimiento. Si cuentas con trayectoria supervisando plataformas de cobranzas call center y tienes alta orientación a resultados, esta es tu oportunidad para sumarte a nuestro equipo y crecer profesionalmente.\n\nNos encontramos en búsqueda de un(a) Supervisor(a) de Cobranzas para uno de nuestros servicios de cobranza (Sector empresa y persona), bajo la modalidad 100 por ciento presencial.\n\nQue funciones realizaras:\n\nSupervisar y coordinar al equipo de cobranzas, asegurando el cumplimiento de las metas de recuperación.Realizar seguimiento constante al desempeño del equipo e identificar oportunidades de mejora continua.Brindar acompañamiento y capacitación sobre el producto y procesos de gestión a los nuevos colaboradores.Analizar los reportes de gestión y el desempeño de la estrategia de cobranzas frente al comportamiento histórico.Analizar los principales indicadores de gestión y elaborar reportes periódicos para la gerencia.Participar en reuniones de resultados con la jefatura y/o el cliente para plantear objetivos mensuales.Coordinar con las áreas internas la atención de incidencias y el correcto funcionamiento de los sistemas.Proponer acciones estratégicas orientadas al cumplimiento de los objetivos del servicio.Que buscamos en ti:\n\nEstudios universitarios concluidos en Administración, Contabilidad, Economía, Ingeniería Industrial o carreras afines.Experiencia mínima de 3 años como Supervisor(a) de Cobranzas o Recaudación en servicios dirigidos a empresas.Manejo de Excel a nivel intermedio - avanzado como requisito indispensable.Experiencia idealmente en manejo de SAP y herramientas de gestión.Solida experiencia en seguimiento y análisis de indicadores de gestión.Liderazgo comprobado, excelente comunicación, capacidad de toma de decisiones y orientación a metas.Disponibilidad para laborar 100% presencial de lunes a viernes (48 horas semanales).Te ofrecemos:\n\nSueldo base de S/ 3,000 mensuales.Atractivas comisiones variables por cumplimiento de metas.Ingreso a planilla bajo régimen REMYPE con todos los beneficios de ley según esta planilla.Oportunidades reales de crecimiento y desarrollo profesional dentro de la empresa.Grato ambiente laboral en un equipo dinámico.Requerimientos\n\nEducación mínima: Universitario2 años de experienciaEdad: entre 25 y 55 añosConocimientos: Capacidad de asesorar, Capacidad de coordinación, Gestión de equipos, Cobranza, Enfoque a resultados, Microsoft excel, Plataformas, Sap, Seguimiento, Supervisión, Trabajo por objetivos, RendimientoAptitudes asociadas a esta oferta Nuevo\n\nCapacidad de asesorar Capacidad de coordinación Gestión de equipos Cobranza Enfoque a resultados Microsoft excel Plataformas Sap Ver 4 aptitudes más\n\nPalabras clave: residente, encargado, supervisor, subgerente, responsable, coordinador, gestor, capitan, callcenter, teleoperador, telefonista, telephonist, telefonico, nominas, sueldo, paga, retribucion, salary, payslip, payroll, wage, pay, payment, nominista",
+      "apply_options": [
+        {
+          "title": "Trabajo.org",
+          "link": "https://pe.trabajo.org/oferta-10004-6d1da9d4d65670019af4e66861a430e2?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJTdXBlcnZpc29yL2EgZGUgQ29icmFuemFzIENhbGwgQ2VudGVyIEJQTyBTdWVsZG8gUy8gMywwMDAgKyBDb21pc2lvbmVzIiwiY29tcGFueV9uYW1lIjoiTGFzIG1lam9yZXMgZW1wcmVzYXMgcGFyYSB0cmFiYWphciBlbiBQZXLDuiIsImh0aWRvY2lkIjoiWTRXUVoxTGRxUmx4UVB4aEFBQUFBQT09IiwidXVsZSI6IncrQ0FJUUlDSUVVR1Z5ZFEiLCJnbCI6InBlIiwiaGwiOiJlcyIsImZjIjoiRXN3QkNvd0JRVVJFWWxkbFdrSTVNV0ptUW1ocFYwY3lkWGMwYm1WUWIwSXpjekV3TjFwMExXaEViV3B6V1MxME9FTmtkSFozZWtadE1GQTNPV1JRZFUxUmRYWk9aM290Wm14a1kwdHNOWEpRVVVsM1FuUllTRTFxWWpSR1RIRjRiRFpQVEVob1lYTTROMFJ3Ym13MlZ6aHVSUzAwVVRKWU5ubGpjRXBNT1Zac1RWQTVaMXB5VjNoWmJrNW1VV04yVVhRU0YzQkJTVU5oTFdJNFQySXlabkIwVVZCeWIwUlpkVUZqR2lKQlNFNHdSVGRHV21Gb2F6TllXbXB4UlV0clVITndZbVpHWTJGaFltaEhhMHhuIiwiZmN2IjoiMyIsImZjX2lkIjoiWTRXUVoxTGRxUmx4UVB4aEFBQUFBQT09In0="
+    },
+    {
+      "title": "Trabaja como Call Center / Elige tu rango de horario /  ¡Sueldo hasta 1600! - Planilla Completa / pagos quincenales",
+      "company_name": "Concentrix",
+      "location": "Perú",
+      "via": "BeBee",
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=call+center&htidocid=j6jl3EtkiXY3-ufLAAAAAA%3D%3D&hl=es-PE&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_xWOMU7DQBBFlTYtHdWnRcJrkKBISgvRRoI-Gtuj9UaTnc3OWvI9OAHXSEkuwzHwNr95X-__7d9m-735ytTTiTDoWdGRCDqOhTMc3iV4RpmRKXrFyJg0Uw66Mvz-fM4so2IiK4Tnt7Z9wBMOQjGIEDo9J-GVOCTyarjMIQ4cSdh26G9Xu8w8UrVybSo44kPVC9_vp1KS7Zwzk8av-hKGZj3oNHKviztpbzWONlHmJFT4-PLaLk2K_vGu07pTcliq8sD5dv0HfVEiNesAAAA&shmds=v1_Ac3VAozN67l7sDM0i9GH7EQ053mwlW3QWUGG_2vTszmkv3CToQ&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=call+center&htidocid=j6jl3EtkiXY3-ufLAAAAAA%3D%3D",
+      "thumbnail": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAADgAAAAeCAMAAABOrS0HAAAAdVBMVEUjRVD___8ANUIVPUkfQ04MOUYYP0oAKDedqa0rTVgeRVEFN0QAMD63v8Kut7sjO0k-WWLi5ufz9fZ1ho1leH9EX2ijr7MjrqEN18Gs5d8iy7kA6c7T_fcsXmUHUFeBkJbO1NeQnqTCycwADCRacHgAHi9OZ29vBOhzAAABV0lEQVQ4je2S2ZKcMAxFfb2B20sjDMySzNg4NP__iRGkk8nrTB7TtwoZXdUxMrIQD_13ul691J8ilDy5p-cXcn-R56v-ZeiP5MNR_Wg4ub5--47hD6i8s0pLd_FaW16M4MR54S9O3h21IChtjXp7v_CijXVCmDwCxREQQ6EKrF5wrF0ESGdqQK_BkkhoCRb1R8WwiwGUF-bKgr6gTgRfsZayYnJjm0DsuIacJe-wRXQFnCktCmbjHfpwI8qYQ8aG2KmuggjjhC1MmBK3KtG6ECG50jo-YkbplEG7GVQGTcYO6qRs2Id94G3MCXofEL2PCI7bvvAfkgRC7sEn3csJbgXjSFyvKHcwc3lAO8Abdw7i8Wi1xmUIOabZb8nZPc1yijGbYYmr4MzOaZclLm7J1uZlTpPMaeZPauN5SOoI-v5Y4-3hK_3bOcrGCnHO4oj_cP8eeuhL-gmakRWDfCHyQAAAAABJRU5ErkJggg.png",
+      "extensions": [
+        "hace 4 días",
+        "Medio tiempo"
+      ],
+      "detected_extensions": {
+        "posted_at": "hace 4 días",
+        "schedule_type": "Medio tiempo"
+      },
+      "source_link": "https://bebee.com/pe/jobs/trabaja-como-call-center-elige-tu-rango-de-horario-sueldo-hasta-1600-planilla-completa-pagos-quincen--ss-pe-btdjj8",
+      "job_title": "Trabaja como Call Center / Elige tu rango de horario /  ¡Sueldo hasta 1600! - Planilla Completa / pagos quincenales",
+      "description": "Actualmente, nos encontramos en búsqueda de ASESORES DE ATENCIÓN AL CLIENTE – CALL CENTER para integrarse a nuestro equipo y brindar atención a los usuarios de una reconocida plataforma española de venta de artículos.\n\n\n¡GANA HASTA S/ 1600! Sueldo base 1,300 + MAQUETA 300 soles\n\n\nDISPONIBILIDAD PARA TRABAJAR EN SAN ISIDRO - ELIGE TU HORARIO - PRESENCIAL SAN ISIDRO\n\n\nELIGE UNO DE ESTOS RANGOS: (solo se gestionan 7 horas con 30 minutos laborales + 45 minutos de break)\n\n\nRANGO 1: 4AM - 2PM​RANGO 2: 10AM - 8PM ​RANGO 3: 4PM - 2AM​BENEFICIOS\nPlanilla completaLínea de carrera con nosotrosPagos quincenalesDescuentos exclusivos para colaboradoresAsignación familiarREQUISITOS \nMínimo 3 meses de exp. en CALL CENTER (excluyente)Contar con estudios técnicos o superiores en curso/concluyentes.\nAplica e inicia tu proceso de selección hoy mismo.\n\n\nCon NOSOTROS compartes más, ganas más, ríes más.\n\n\nRechazamos de manera expresa toda práctica discriminatoria. No toleramos la discriminación hacia ningún colaborador o solicitante de empleo por motivos de edad, discapacidad, etnia, estado civil, género, nacionalidad, ideología, política, raza, religión, orientación sexual o cualquier otra característica especificada por parte de la compañía o legislación vigente ante discriminación.",
+      "apply_options": [
+        {
+          "title": "BeBee",
+          "link": "https://bebee.com/pe/jobs/trabaja-como-call-center-elige-tu-rango-de-horario-sueldo-hasta-1600-planilla-completa-pagos-quincen--ss-pe-btdjj8?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJUcmFiYWphIGNvbW8gQ2FsbCBDZW50ZXIgLyBFbGlnZSB0dSByYW5nbyBkZSBob3JhcmlvIC8gIMKhU3VlbGRvIGhhc3RhIDE2MDAhIC0gUGxhbmlsbGEgQ29tcGxldGEgLyBwYWdvcyBxdWluY2VuYWxlcyIsImNvbXBhbnlfbmFtZSI6IkNvbmNlbnRyaXgiLCJodGlkb2NpZCI6Imo2amwzRXRraVhZMy11ZkxBQUFBQUE9PSIsInV1bGUiOiJ3K0NBSVFJQ0lFVUdWeWRRIiwiZ2wiOiJwZSIsImhsIjoiZXMiLCJmYyI6IkVzd0JDb3dCUVVSRVlsZGxXalJtWTJGTVVHbEdZMkUyTW1sWlVteHZNekJGY0Vod1pEVnRjRFZ0WkdRNGEwcElUR0puT0dsSE4yd3pOazQ0YkVGWWFYWkZTbE4xVTBWdU5IZFJXSFZqVVdKVlRYaDJaa1I1VTFZemNWWjVMV1p2YmtWWVkyWnhUbU5VVUZSaWRHMTVaRWRtVkd0MmNtNUdTRnBFUkU1MmJIWmFRV1JtVUU1aFlVZFhRMnBWY0haR2Rta1NGM0JCU1VOaExXSTRUMkl5Wm5CMFVWQnliMFJaZFVGakdpSkJTRTR3UlRkSE4zSjZabmRxZVdoV05VNWlTRGR3TlUxWk1qZzNNbTVYZG5ObiIsImZjdiI6IjMiLCJmY19pZCI6Imo2amwzRXRraVhZMy11ZkxBQUFBQUE9PSJ9"
+    },
+    {
+      "title": "Asesor Call Center Claro / S/ 1,230 + Bonos / San Isidro / Planilla completa/ Sin experiencia",
+      "company_name": "GEA Perú",
+      "location": "Perú",
+      "via": "LinkedIn",
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=call+center&htidocid=-keyPjgJ2fdoQ2zKAAAAAA%3D%3D&hl=es-PE&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_x2MPQrCQBCFsU1paTW1StYfbLTSIGIneACZJENcGWfWnRVSeDJbD-CVTGweH-97vOw7yF5bI9MIBTJDQZKoY8ao4ODsYD5dLGcwgZ2KWl-hwNF8_fcnRvHMCJXeA1PCznsBagNFT1J5XEP5edvjSTVCTUD9TIEEDqoN02hzTSnY2jkzzhtLmHyVd29OhUpt3U1L6-NiV4wUGBNdFqtZmwdpxsPDfgsnip93__iHH3JRgsLSAAAA&shmds=v1_Ac3VAozOT0YzrAiO_LfosddaGQoMJNCwfvwc5JOvFqksq2MVbQ&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=call+center&htidocid=-keyPjgJ2fdoQ2zKAAAAAA%3D%3D",
+      "thumbnail": "https://serpapi.com/searches/6b02029fb6981ee1fdcf144b/images/57ULc03X7XMZsVSIClKLtgO5YqD70ycEWsL4tp0IZSg.jpg",
+      "extensions": [
+        "hace 3 días",
+        "Tiempo completo"
+      ],
+      "detected_extensions": {
+        "posted_at": "hace 3 días",
+        "schedule_type": "Tiempo completo"
+      },
+      "source_link": "https://pe.linkedin.com/jobs/view/asesor-call-center-claro-s-1-230-%2B-bonos-san-isidro-planilla-completa-sin-experiencia-at-gea-per%C3%BA-4492034339",
+      "job_title": "Asesor Call Center Claro / S/ 1,230 + Bonos / San Isidro / Planilla completa/ Sin experiencia",
+      "description": "¡TRABAJA CON NOSOTROS! \n\nEstamos buscando Asesores de Retenciones Móviles Claro para nuestra sede de San Isidro.\n\n¿QUÉ TE OFRECEMOS?\n\nSueldo fijo de S/ 1,230.Movilidad de S/ 100.Bono de productividad de hasta S/ 300.Bonos adicionales por asistencia, bienvenida y permanencia, sujetos a condiciones.Capacitación pagada de S/ 390.Ingreso a planilla desde el primer mes.\n\nRequisitos\n\nCon o sin experiencia laboral.Disponibilidad para trabajar presencialmente en San Isidro.Disponibilidad full time con descanso rotativo.Buena comunicación y disposición para aprender.\n\n¡POSTULA AHORA!",
+      "apply_options": [
+        {
+          "title": "LinkedIn",
+          "link": "https://pe.linkedin.com/jobs/view/asesor-call-center-claro-s-1-230-%2B-bonos-san-isidro-planilla-completa-sin-experiencia-at-gea-per%C3%BA-4492034339?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "JobLeads",
+          "link": "https://www.jobleads.com/pe/job/asesor-call-center-claro-s-1-230-bonos-san-isidro-planilla-completa-sin-experiencia--san-isidro--e8e6783bd3e96f6a88f4e1016113121ab?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "BeBee",
+          "link": "https://bebee.com/pe/jobs/asesor-call-center-claro-s-1230-bonos-san-isidro-planilla-completa-sin-experiencia-gea-internacional--t7xk-949728373?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Jobrapido.com",
+          "link": "https://pe.jobrapido.com/jobpreview/3254534937319047168?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Jobted",
+          "link": "https://www.jobted.com.pe/job/6b4ee8372ba611a9457df40bab2cce64?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJBc2Vzb3IgQ2FsbCBDZW50ZXIgQ2xhcm8gLyBTLyAxLDIzMCArIEJvbm9zIC8gU2FuIElzaWRybyAvIFBsYW5pbGxhIGNvbXBsZXRhLyBTaW4gZXhwZXJpZW5jaWEiLCJjb21wYW55X25hbWUiOiJHRUEgUGVyw7oiLCJodGlkb2NpZCI6Ii1rZXlQamdKMmZkb1EyektBQUFBQUE9PSIsInV1bGUiOiJ3K0NBSVFJQ0lFVUdWeWRRIiwiZ2wiOiJwZSIsImhsIjoiZXMiLCJmYyI6IkVzd0JDb3dCUVVSRVlsZGxXa3RqTWxCdVZHWm9jRlExWkVoRlZuWnNUbGg0U2tGME9XOTRWMUJMUTJZM09UTklOVXRCU1dKWlNYaEVSVkJoVTNjMFIweE1WVWx6Ums1MWRVaHdMV0Z5VlZaVFgyWmpOVjlTVURSUlpURktaME5rWkhkS2FXOXpWRzVxTFU5QlVWVnFXbkJyTnpsWldUTkZRa3RLUlhSelRrMTNkRUZoT1c1alVEQmhjMnB1UWpGdGVFWVNGM0JCU1VOaExXSTRUMkl5Wm5CMFVWQnliMFJaZFVGakdpSkJTRTR3UlRkRmJuTTFPVFJwVDFodFRIWktNVTh4ZVRKQlYxUmZjRUZTVWtaQiIsImZjdiI6IjMiLCJmY19pZCI6Ii1rZXlQamdKMmZkb1EyektBQUFBQUE9PSJ9"
+    },
+    {
+      "title": "CALL CENTER VENTAS/ Part time - remoto",
+      "company_name": "KANTUM CONTAC CENTER",
+      "location": "Perú",
+      "via": "Indeed",
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=call+center&htidocid=yWnoCwxUS0gJiGgMAAAAAA%3D%3D&hl=es-PE&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_zWOwQqCQBRFaesnBMFbBzkRtLGVDNIiMylrK6M-1Jjx2cwL_J_-wq0_li3a3LM753qfhRfJMI5BRkkWXeExI7wJSJVl4NYgbMCiIaYAiml0rzdWCioENL1GAuzgSFRrXB4a5t4FQjin_dqx4rb0SzKCOixoEE8q3G9y1yiLvVaM-W6_Hfy-q9erU5hk9zPIy5yX_zOzPEU7jV8xGYNYpgAAAA&shmds=v1_Ac3VAoyOshLA4VS8WYgWmkp6iShl1rsbZomL8HRf84jjii4q9g&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=call+center&htidocid=yWnoCwxUS0gJiGgMAAAAAA%3D%3D",
+      "extensions": [
+        "hace 2 días",
+        "Medio tiempo"
+      ],
+      "detected_extensions": {
+        "posted_at": "hace 2 días",
+        "schedule_type": "Medio tiempo"
+      },
+      "source_link": "https://pe.indeed.com/viewjob?jk=3f35e213fa0cedaa",
+      "job_title": "CALL CENTER VENTAS/ Part time - remoto",
+      "description": "Somos Grupo Lancet Telecom, está buscando reclutar 100 Asesores de Ventas Call Center para unirse a su equipo de trabajo, por lo que necesitamos talentos para expandir nuestro equipo en Perú.\n\n\nSi te apasiona el mundo de las ventas, tienes un buen manejo de herramientas tecnológicas y estás dispuesto(a) a trabajar en un ambiente remoto, ¡esta es tu oportunidad! ¡Únete a nuestro equipo y sé parte de esta emocionante experiencia de venta en el mundo digital!\n\n\nHORARIO: PART TIME Turno Mañana\n\n\nA partir de las 9:00 am\n\n\nHORARIO: PART TIME Turno Tarde\n\n\nA partir de las 2:00 pm\n\n\nDESCANSO FIJO DOMINGOS Y FERIADOS\n\n\nFUNCIÓN:\n\n\n\n VENTAS POR CALL CENTER\n\nREQUISITOS\n\n\n\n Contar con pc o laptop / internet estable\n Secundaria completa\n Manejo de office básico\n\n¿QUÉ OFRECEMOS?\n\n\n\n Pagos mensuales\n Comisiones ilimitadas\n Bonificaciones\n capacitaciones de 3(teórico remoto)\n\nTipo de puesto: Medio tiempo\n\n\nSueldo: S/.615.00 al mes\n\n\nLugar de trabajo: Empleo remoto",
+      "apply_options": [
+        {
+          "title": "Indeed",
+          "link": "https://pe.indeed.com/viewjob?jk=3f35e213fa0cedaa&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "BeBee",
+          "link": "https://bebee.com/pe/jobs/angente-call-center-full-time-part-time-sieger-bpo-eirl-peru--techmap_pe_54560363079?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Jobrapido.com",
+          "link": "https://pe.jobrapido.com/jobpreview/8155669728220676096?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJDQUxMIENFTlRFUiBWRU5UQVMvIFBhcnQgdGltZSAtIHJlbW90byIsImNvbXBhbnlfbmFtZSI6IktBTlRVTSBDT05UQUMgQ0VOVEVSIiwiaHRpZG9jaWQiOiJ5V25vQ3d4VVMwZ0ppR2dNQUFBQUFBPT0iLCJ1dWxlIjoidytDQUlRSUNJRVVHVnlkUSIsImdsIjoicGUiLCJobCI6ImVzIiwiZmMiOiJFc3dCQ293QlFVUkVZbGRsWVZVMmRqRk1kRE5zWlZsdFNqbHJTMDlPUW5oWFRsSjVOR1J4U0dvNE5FVkplSFoxY25wNGRqVmlRblJLUTFNeWJXdFFkRE5FTVhSSE1XZDRSVEpJYm04MVRUaHJSM1pTUTNoaGQybHVNbXhvYWxCVlRYUjBjVXB4WW5OWVlrczBjM0pGYjJOR05HSTVTbmd0UkdkT1FrcGhiM1JDUlc1b1IzbHFjRTFhYkZwdVIyaEZiVEFTRjNCQlNVTmhMV0k0VDJJeVpuQjBVVkJ5YjBSWmRVRmpHaUpCU0U0d1JUZEdYM3BPVVcxMFduSmFaa0ppUkZCVGVubGpTV05mWmxkRGNYUm4iLCJmY3YiOiIzIiwiZmNfaWQiOiJ5V25vQ3d4VVMwZ0ppR2dNQUFBQUFBPT0ifQ=="
+    }
+  ],
+  "serpapi_pagination": {
+    "next_page_token": "eyJmYyI6IkV2Y0NDcmNDUVVSRVlsZGxXbTFXZDAxb00yOHdObk55ZEVzelpXeFZNRlJWWmtJMGJEUnFSemMwV1hkYVRVZHhkRlJ0WlVneVEyd3dPV290ZVRSQ1VXeHFXbEJVYVhSTlJYWXRXWEJxVGtwMmEzRklPVmRWTVhkaGNYcG9RVjlETFRaMU5HczJXSGt3V0RCdGRWTlRNekZyVVZGZmJqVmlhbkUyYkhaSGNGRlFSblpDVkZvdE9YQkZNRWxtWTBwVVNtNVBaekIzWjJKWVJXdGxhemRDZG1jM1kyWjVTMWc0YkZWMGNIcHhVV3BpUVRGV09VSjVkbGhOTjNoMFEzb3piMUJrY25CZlQzQllVa2xpZFVZME1VWmFaM281VDJaSk5WbDFlREJuVlZGVUxXWkZVWE50WmxwWFduRnFTWEZKYzJoWmNEQm5kRWhxZEd4MFVEZENNM0ZHT0hOQ1lWbFphRUZuWDNWUVFYVTJTVzB4Um5wRGJrVkdVR0ZKVGxObGJuaHFkbmhDZVZKMlMySkZkM1pHUW5OV2EyZ3phR1UxYmtGVFVtY1NGM0JCU1VOaExXSTRUMkl5Wm5CMFVWQnliMFJaZFVGakdpSkJTRTR3UlRkSFFVWnZZMWxGY1VoSVZtNDRhRzVmYXpKbVlYSmFZWEppTFVsUiIsImZjdiI6IjMifQ==",
+    "next": "https://serpapi.com/search.json?engine=google_jobs&gl=pe&google_domain=google.com&hl=es&location=Peru&next_page_token=eyJmYyI6IkV2Y0NDcmNDUVVSRVlsZGxXbTFXZDAxb00yOHdObk55ZEVzelpXeFZNRlJWWmtJMGJEUnFSemMwV1hkYVRVZHhkRlJ0WlVneVEyd3dPV290ZVRSQ1VXeHFXbEJVYVhSTlJYWXRXWEJxVGtwMmEzRklPVmRWTVhkaGNYcG9RVjlETFRaMU5HczJXSGt3V0RCdGRWTlRNekZyVVZGZmJqVmlhbkUyYkhaSGNGRlFSblpDVkZvdE9YQkZNRWxtWTBwVVNtNVBaekIzWjJKWVJXdGxhemRDZG1jM1kyWjVTMWc0YkZWMGNIcHhVV3BpUVRGV09VSjVkbGhOTjNoMFEzb3piMUJrY25CZlQzQllVa2xpZFVZME1VWmFaM281VDJaSk5WbDFlREJuVlZGVUxXWkZVWE50WmxwWFduRnFTWEZKYzJoWmNEQm5kRWhxZEd4MFVEZENNM0ZHT0hOQ1lWbFphRUZuWDNWUVFYVTJTVzB4Um5wRGJrVkdVR0ZKVGxObGJuaHFkbmhDZVZKMlMySkZkM1pHUW5OV2EyZ3phR1UxYmtGVFVtY1NGM0JCU1VOaExXSTRUMkl5Wm5CMFVWQnliMFJaZFVGakdpSkJTRTR3UlRkSFFVWnZZMWxGY1VoSVZtNDRhRzVmYXpKbVlYSmFZWEppTFVsUiIsImZjdiI6IjMifQ%3D%3D&q=call+center"
+  },
+  "_pipeline_metadata": {
+    "ingestion_timestamp_utc": "2026-11-21T20:44:21.595648+00:00",
+    "search_group": "call_center",
+    "target_market": "Peru",
+    "target_location": "Peru",
+    "date_filter_applied": "month",
+    "new_records_count": 10,
+    "provider": "serpapi"
+  }
+}

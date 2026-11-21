@@ -1,0 +1,49 @@
+# Fuentes y consultas para el dataset demo Customer Service & Operations.
+
+job_sources:
+  - id: google_jobs
+    provider: serpapi
+    engine: google_jobs
+    enabled: true
+
+    incremental:
+      enabled: true
+      state_file: "data/ingestion_state.json"
+
+    search_groups:
+      roles:
+
+        - name: "customer_service"
+          priority: 1
+          query: "customer service"
+
+        - name: "customer_support"
+          priority: 1
+          query: "customer support"
+
+        - name: "atencion_cliente"
+          priority: 1
+          query: "atención al cliente"
+
+        - name: "call_center"
+          priority: 1
+          query: "call center"
+
+        - name: "business_operations"
+          priority: 2
+          query: "operations"
+
+        - name: "customer_success"
+          priority: 2
+          query: "customer success"
+
+        - name: "back_office"
+          priority: 2
+          query: "back office"
+
+      markets:
+
+        - name: "Peru"
+          location: "Peru"
+          gl: "pe"
+          hl: "es"
